@@ -157,6 +157,28 @@ def guardar_dataset(noticias: List[Dict], fecha_str: str):
         logging.error(f"Error al guardar dataset: {str(e)}")
 
 
+def limpiar_frontend_data():
+    """
+    Limpia todos los archivos JSON de la carpeta frontend/data/ antes de copiar los nuevos.
+    """
+    if not FRONTEND_DIR.exists():
+        return
+    
+    archivos_json = list(FRONTEND_DIR.glob("*.json"))
+    
+    if archivos_json:
+        logging.info(f"Limpiando {len(archivos_json)} archivos antiguos en {FRONTEND_DIR}")
+        for archivo in archivos_json:
+            try:
+                archivo.unlink()
+                logging.info(f"  Eliminado: {archivo.name}")
+            except Exception as e:
+                logging.error(f"  Error al eliminar {archivo.name}: {str(e)}")
+        logging.info("Carpeta frontend/data/ limpiada correctamente")
+    else:
+        logging.info("No hay archivos antiguos que limpiar en frontend/data/")
+
+
 def copiar_a_frontend(nombre_archivo: str, fecha_str: str):
     """
     Copia el archivo JSON consolidado a la carpeta frontend/data/.
@@ -236,7 +258,10 @@ def main():
     nombre_archivo = f"noticias_{fecha_actual}.json"
     guardar_dataset(noticias_ordenadas, fecha_actual)
     
-    # 5. Copiar a frontend
+    # 5. Limpiar frontend/data/ antes de copiar
+    limpiar_frontend_data()
+    
+    # 6. Copiar a frontend
     copiar_a_frontend(nombre_archivo, fecha_actual)
     
     # 6. Mostrar resumen por categoría
