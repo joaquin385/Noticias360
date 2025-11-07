@@ -1,0 +1,66 @@
+# GitHub Actions workflow para actualizar noticias diariamente
+
+name: Actualizar noticias cada 3h
+
+# Ejecutar cada 3 horas y también manualmente
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # cada 3 horas en minuto 0 (UTC)
+  workflow_dispatch:      # permite lanzar manualmente desde Actions UI
+
+permissions:
+  contents: write   # necesario para que el workflow pueda hacer push (usa GITHUB_TOKEN)
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # obtener todo el historial (recomendado para commits)
+          persist-credentials: true  # permitir push con el token provisto
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Prepare .env from secrets
+        run: |
+          # Crea un .env con las secrets que necesites
+          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env
+          echo "NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}" >> .env
+        # Si no usás alguna secret, comentala o ajusta.
+
+      - name: Run pipeline
+        env:
+          # opcional: pasar variables al entorno si el script las usa
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: |
+          python scripts/ejecutar_pipeline.py
+
+      - name: Show git status (debug)
+        run: |
+          git status --porcelain
+          git ls-files frontend/data || true
+
+      - name: Commit & push changes (only if there are changes)
+        run: |
+          # Añadimos los archivos del frontend/data (ajustar pattern si hace falta)
+          git add frontend/data/*.json || true
+          # Comprobar si hay cambios
+          if git diff --cached --quiet; then
+            echo "No hay cambios para commitear."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Automated update: noticias y resumenes [ci skip]" || echo "commit failed"
+            git push origin HEAD:main
+          fi
