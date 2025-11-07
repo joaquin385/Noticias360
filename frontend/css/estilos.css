@@ -1,0 +1,77 @@
+/* Estilos personalizados adicionales */
+
+/* Animaciones suaves */
+.transition-smooth {
+    transition: all 0.3s ease;
+}
+
+/* Estilo para tarjetas de noticias */
+.noticia-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.noticia-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Scroll horizontal suave para navegación */
+.nav-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e0 #f3f4f6;
+}
+
+.nav-scroll::-webkit-scrollbar {
+    height: 6px;
+}
+
+.nav-scroll::-webkit-scrollbar-track {
+    background: #f3f4f6;
+}
+
+.nav-scroll::-webkit-scrollbar-thumb {
+    background: #cbd5e0;
+    border-radius: 3px;
+}
+
+.nav-scroll::-webkit-scrollbar-thumb:hover {
+    background: #9ca3af;
+}
+
+/* Botón de actualización con animación */
+#btn-actualizar.actualizando {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Responsive: Mobile first */
+@media (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr !important;
+    }
+    
+    /* Ocultar header elements en mobile muy pequeño */
+    #fecha-actualizacion {
+        display: none;
+    }
+}
+
+/* Clases para filtros activos */
+.categoria-btn.active {
+    background-color: #2563eb;
+    color: white;
+}
+
+.fuente-btn.active {
+    background-color: #4b5563;
+    color: white;
+}
+

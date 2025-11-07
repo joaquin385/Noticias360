@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias360 - Agregador de Noticias RSS</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 font-sans">
+    
+    <!-- Encabezado -->
+    <header class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-4">
+                <h1 class="text-2xl font-bold text-blue-600">📰 Noticias360</h1>
+                <span id="fecha-actualizacion" class="text-sm text-gray-600"></span>
+            </div>
+            <button id="btn-actualizar" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
+                <span>🔄</span>
+                <span>Actualizar</span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Navegación Principal - Categorías -->
+    <nav class="bg-gray-100 border-b border-gray-200">
+        <div class="container mx-auto px-4 py-3">
+            <div class="flex overflow-x-auto space-x-2" id="categorias-nav">
+                <!-- Los botones de categorías se generarán dinámicamente -->
+                <button class="categoria-btn px-4 py-2 rounded-lg bg-blue-600 text-white font-medium whitespace-nowrap" data-categoria="todas">
+                    Todas
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Subnavegación - Fuentes -->
+    <nav class="bg-white border-b border-gray-200 sticky top-[73px] z-40">
+        <div class="container mx-auto px-4 py-2">
+            <div class="flex overflow-x-auto space-x-2" id="fuentes-nav">
+                <!-- Los botones de fuentes se generarán dinámicamente -->
+                <button class="fuente-btn px-3 py-1 rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium whitespace-nowrap text-sm" data-fuente="todas">
+                    Todas las fuentes
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Contenido Principal -->
+    <main class="container mx-auto px-4 py-6">
+        
+        <!-- Estado de carga -->
+        <div id="estado-carga" class="text-center py-12">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-600"></div>
+            <p class="mt-4 text-gray-600">Cargando noticias...</p>
+        </div>
+
+        <!-- Mensaje de error -->
+        <div id="mensaje-error" class="hidden bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+            <strong>Error:</strong> <span id="error-texto"></span>
+        </div>
+
+        <!-- Mensaje sin noticias -->
+        <div id="sin-noticias" class="hidden text-center py-12">
+            <p class="text-gray-600 text-lg">No hay noticias disponibles</p>
+        </div>
+
+        <!-- Resumen de la categoría -->
+        <div id="resumen-categoria" class="hidden mb-6 bg-blue-50 border border-blue-200 rounded-lg overflow-hidden">
+            <button id="resumen-toggle" class="w-full flex items-center justify-between p-4 hover:bg-blue-100 transition-colors text-left">
+                <div class="flex items-center gap-2">
+                    <h2 class="text-sm font-semibold text-blue-800">Resumen de la categoría</h2>
+                    <span id="resumen-fecha" class="text-xs text-blue-600"></span>
+                </div>
+                <svg id="resumen-icon" class="w-5 h-5 text-blue-800 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+            </button>
+            <div id="resumen-contenido" class="hidden px-4 pb-4">
+                <p id="resumen-texto" class="text-sm text-blue-900 leading-relaxed whitespace-pre-line"></p>
+            </div>
+        </div>
+
+        <!-- Grid de noticias -->
+        <div id="noticias-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 items-stretch">
+            <!-- Las tarjetas de noticias se generarán dinámicamente -->
+        </div>
+
+        <!-- Contador de noticias -->
+        <div class="mt-8 text-center text-gray-600">
+            <p id="contador-noticias">Mostrando 0 noticias</p>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white mt-12 py-6">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-sm">© 2025 Noticias360 - Agregador de noticias RSS argentinas</p>
+            <p class="text-xs text-gray-400 mt-2">Datos actualizados desde múltiples fuentes de noticias</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
+

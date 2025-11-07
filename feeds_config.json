@@ -1,0 +1,203 @@
+[
+
+  {
+    "fuente": "Clarín",
+    "url": "https://www.clarin.com/rss/economia/",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Clarín",
+    "url": "https://www.clarin.com/rss/politica/",
+    "categoria": "Política",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Clarín",
+    "url": "https://www.clarin.com/rss/sociedad/",
+    "categoria": "Sociedad",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Clarín",
+    "url": "https://www.clarin.com/rss/opinion/",
+    "categoria": "Opinión",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Clarín",
+    "url": "https://www.clarin.com/rss/mundo/",
+    "categoria": "Internacionales",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "La Nación",
+    "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+    "categoria": "No categorizada",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Infobae",
+    "url": "https://www.infobae.com/arc/outboundfeeds/rss/",
+    "categoria": "No categorizada",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Página 12",
+    "url": "https://www.pagina12.com.ar/rss/secciones/el-pais/notas",
+    "categoria": "País",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Página 12",
+    "url": "https://www.pagina12.com.ar/rss/secciones/economia/notas",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Página 12",
+    "url": "https://www.pagina12.com.ar/rss/secciones/sociedad/notas",
+    "categoria": "Sociedad",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Página 12",
+    "url": "https://www.pagina12.com.ar/rss/secciones/el-mundo/notas",
+    "categoria": "Internacionales",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/economia.xml",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/negocios.xml",
+    "categoria": "Negocios",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/nacional.xml",
+    "categoria": "Nacional",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/finanzas.xml",
+    "categoria": "Finanzas",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/politica.xml",
+    "categoria": "Política",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Ámbito Financiero",
+    "url": "https://www.ambito.com/rss/pages/mundo.xml",
+    "categoria": "Internacionales",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/feed/politica",
+    "categoria": "Política",
+    "zona_horaria": "UTC-3"
+  },
+  
+  {
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/feed/economia",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/feed/opinion",
+    "categoria": "Opinión",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Perfil",
+    "url": "https://www.perfil.com/feed/sociedad",
+    "categoria": "Sociedad",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Minuto1",
+    "url": "https://www.minutouno.com/rss/pages/politica.xml",
+    "categoria": "Política",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Minuto1",
+    "url": "https://www.minutouno.com/rss/pages/sociedad.xml",
+    "categoria": "Sociedad",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Minuto1",
+    "url": "https://www.minutouno.com/rss/pages/economia.xml",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "Minuto1",
+    "url": "https://www.minutouno.com/rss/pages/mundo.xml",
+    "categoria": "Internacionales",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/finanzas",
+    "categoria": "Finanzas",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/economia",
+    "categoria": "Economía",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/impuestos",
+    "categoria": "Impuestos",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/legales",
+    "categoria": "Legales",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/negocios",
+    "categoria": "Negocios",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/comex",
+    "categoria": "Comercio Exterior",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/management",
+    "categoria": "Management",
+    "zona_horaria": "UTC-3"
+  },
+  {
+    "fuente": "iProfesional",
+    "url": "https://www.iprofesional.com/rss/marketing",
+    "categoria": "Marketing",
+    "zona_horaria": "UTC-3"
+  }
+]
+

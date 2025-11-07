@@ -1,0 +1,28 @@
+# Entornos locales
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datos generados del backend (no subir al repo)
+/data/
+
+# Frontend data: Los JSON SÍ se suben para que Vercel los sirva
+# (comentado para permitir que se suban)
+# /frontend/data/*.json
+
+# Servidor local de desarrollo (no necesario para Vercel)
+server.py
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
