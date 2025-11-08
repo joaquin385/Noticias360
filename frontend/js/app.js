@@ -29,15 +29,29 @@ async function cargarNoticias() {
         // Mostrar estado de carga
         mostrarEstadoCarga();
         
-        // Obtener fecha de hoy
-        const hoy = new Date().toISOString().split('T')[0];
-        const archivoNoticias = `data/noticias_${hoy}.json`;
+        // Obtener fecha en zona horaria Argentina (UTC-3)
+        const ahora = new Date();
+        const offsetArgentina = -3 * 60; // UTC-3 en minutos
+        const fechaArgentina = new Date(ahora.getTime() + (offsetArgentina + ahora.getTimezoneOffset()) * 60000);
+        const hoy = fechaArgentina.toISOString().split('T')[0];
         
-        // Intentar cargar el archivo
-        const response = await fetch(archivoNoticias);
+        // Calcular también fecha de ayer por si acaso
+        const ayer = new Date(fechaArgentina);
+        ayer.setDate(ayer.getDate() - 1);
+        const ayerStr = ayer.toISOString().split('T')[0];
+        
+        // Intentar cargar el archivo de hoy primero, si falla intentar ayer
+        let archivoNoticias = `data/noticias_${hoy}.json`;
+        let response = await fetch(archivoNoticias);
         
         if (!response.ok) {
-            throw new Error(`No se pudo cargar el archivo: ${archivoNoticias}`);
+            // Intentar con fecha de ayer
+            archivoNoticias = `data/noticias_${ayerStr}.json`;
+            response = await fetch(archivoNoticias);
+            
+            if (!response.ok) {
+                throw new Error(`No se pudieron cargar los archivos de noticias (intentado: ${hoy} y ${ayerStr})`);
+            }
         }
         
         const data = await response.json();
@@ -173,12 +187,30 @@ function generarNavegacionCategorias() {
  */
 async function cargarResumenes() {
     try {
-        const hoy = new Date().toISOString().split('T')[0];
-        const archivoResumenes = `data/resumenes_${hoy}.json`;
-        const response = await fetch(archivoResumenes);
+        // Usar misma lógica de fecha que cargarNoticias (zona horaria Argentina)
+        const ahora = new Date();
+        const offsetArgentina = -3 * 60;
+        const fechaArgentina = new Date(ahora.getTime() + (offsetArgentina + ahora.getTimezoneOffset()) * 60000);
+        const hoy = fechaArgentina.toISOString().split('T')[0];
+        
+        const ayer = new Date(fechaArgentina);
+        ayer.setDate(ayer.getDate() - 1);
+        const ayerStr = ayer.toISOString().split('T')[0];
+        
+        // Intentar cargar resúmenes de hoy, si falla intentar ayer
+        let archivoResumenes = `data/resumenes_${hoy}.json`;
+        let response = await fetch(archivoResumenes);
+        
+        if (!response.ok) {
+            archivoResumenes = `data/resumenes_${ayerStr}.json`;
+            response = await fetch(archivoResumenes);
+        }
+        
         if (!response.ok) throw new Error('No se encontraron resúmenes');
+        
         const data = await response.json();
         resumenesPorCategoria = data.resumenes || null;
+        
         // Actualizar fecha en cabecera si existe
         const fechaResumen = document.getElementById('resumen-fecha');
         if (fechaResumen && data.fecha_consolidacion) {
