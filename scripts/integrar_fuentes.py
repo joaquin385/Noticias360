@@ -231,8 +231,10 @@ def main():
     """
     Función principal que integra todas las fuentes.
     """
-    # Fecha actual para el nombre del archivo
-    fecha_actual = datetime.now().strftime("%Y-%m-%d")
+    # Fecha actual en zona horaria Argentina (UTC-3)
+    from datetime import timezone, timedelta
+    tz_argentina = timezone(timedelta(hours=-3))
+    fecha_actual = datetime.now(tz_argentina).strftime("%Y-%m-%d")
     
     logging.info("=" * 60)
     logging.info("INTEGRACIÓN DE FUENTES RSS")

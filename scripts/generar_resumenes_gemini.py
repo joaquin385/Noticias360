@@ -281,30 +281,27 @@ def cargar_json_noticias(fecha: str = None) -> Dict:
     Carga el archivo JSON de noticias consolidado.
     
     Args:
-        fecha: Fecha en formato YYYY-MM-DD. Si es None, usa la fecha más reciente.
+        fecha: Fecha en formato YYYY-MM-DD. Si es None, usa el archivo más reciente.
         
     Returns:
         Diccionario con los datos del JSON
     """
-    if fecha is None:
-        # Buscar el archivo más reciente
-        archivos = list(DATA_DIR.glob("noticias_*.json"))
-        if not archivos:
-            raise FileNotFoundError("No se encontró ningún archivo de noticias")
-        
-        archivo = max(archivos, key=lambda p: p.stat().st_mtime)
-    else:
-        archivo = DATA_DIR / f"noticias_{fecha}.json"
+    # Siempre buscar el archivo más reciente para evitar problemas de zona horaria
+    archivos = list(DATA_DIR.glob("noticias_*.json"))
+    if not archivos:
+        raise FileNotFoundError(f"No se encontró ningún archivo de noticias en {DATA_DIR}")
     
-    if not archivo.exists():
-        raise FileNotFoundError(f"No se encontró el archivo: {archivo}")
+    # Ordenar por fecha de modificación y tomar el más reciente
+    archivo = max(archivos, key=lambda p: p.stat().st_mtime)
     
     logging.info(f"Cargando noticias desde: {archivo.name}")
     
-    with open(archivo, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    
-    return data
+    try:
+        with open(archivo, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data
+    except Exception as e:
+        raise FileNotFoundError(f"Error al cargar {archivo}: {str(e)}")
 
 
 def main():
