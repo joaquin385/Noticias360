@@ -31,13 +31,12 @@ async function cargarNoticias() {
         
         // Obtener fecha en zona horaria Argentina (UTC-3)
         const ahora = new Date();
-        const offsetArgentina = -3 * 60; // UTC-3 en minutos
-        const fechaArgentina = new Date(ahora.getTime() + (offsetArgentina + ahora.getTimezoneOffset()) * 60000);
+        // Restar 3 horas (en milisegundos) para obtener hora Argentina
+        const fechaArgentina = new Date(ahora.getTime() - (3 * 60 * 60 * 1000));
         const hoy = fechaArgentina.toISOString().split('T')[0];
         
-        // Calcular también fecha de ayer por si acaso
-        const ayer = new Date(fechaArgentina);
-        ayer.setDate(ayer.getDate() - 1);
+        // Calcular ayer
+        const ayer = new Date(fechaArgentina.getTime() - (24 * 60 * 60 * 1000));
         const ayerStr = ayer.toISOString().split('T')[0];
         
         // Intentar cargar el archivo de hoy primero, si falla intentar ayer
@@ -189,12 +188,12 @@ async function cargarResumenes() {
     try {
         // Usar misma lógica de fecha que cargarNoticias (zona horaria Argentina)
         const ahora = new Date();
-        const offsetArgentina = -3 * 60;
-        const fechaArgentina = new Date(ahora.getTime() + (offsetArgentina + ahora.getTimezoneOffset()) * 60000);
+        // Restar 3 horas (en milisegundos) para obtener hora Argentina
+        const fechaArgentina = new Date(ahora.getTime() - (3 * 60 * 60 * 1000));
         const hoy = fechaArgentina.toISOString().split('T')[0];
         
-        const ayer = new Date(fechaArgentina);
-        ayer.setDate(ayer.getDate() - 1);
+        // Calcular ayer
+        const ayer = new Date(fechaArgentina.getTime() - (24 * 60 * 60 * 1000));
         const ayerStr = ayer.toISOString().split('T')[0];
         
         // Intentar cargar resúmenes de hoy, si falla intentar ayer
