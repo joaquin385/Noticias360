@@ -1,6 +1,7 @@
 // Estado de la aplicación
 let noticias = [];
 let resumenesPorCategoria = null; // { categoria: { resumen, cantidad_noticias, fecha_generacion } }
+let temasDestacados = null; // Temas detectados por IA
 let categoriaSeleccionada = 'internacional'; // Por defecto la primera categoría
 let fuenteSeleccionada = 'todas';
 let todasLasCategorias = [];
@@ -19,6 +20,22 @@ const btnActualizar = document.getElementById('btn-actualizar');
 document.addEventListener('DOMContentLoaded', () => {
     cargarNoticias();
     btnActualizar.addEventListener('click', cargarNoticias);
+    
+    // Navegación entre vistas
+    const btnTemas = document.getElementById('btn-temas');
+    const btnNoticias = document.getElementById('btn-noticias');
+    
+    if (btnTemas) {
+        btnTemas.addEventListener('click', () => {
+            mostrarVistaTemas();
+        });
+    }
+    
+    if (btnNoticias) {
+        btnNoticias.addEventListener('click', () => {
+            mostrarVistaNoticias();
+        });
+    }
 });
 
 /**
@@ -70,15 +87,17 @@ async function cargarNoticias() {
         generarNavegacionCategorias();
         generarNavegacionFuentes();
         
-        // Cargar resúmenes del mismo día (no bloqueante)
+        // Cargar resúmenes y temas del mismo día (no bloqueante)
         try { await cargarResumenes(); } catch (_) {}
+        try { await cargarTemas(); } catch (_) {}
         
         // Ocultar estado de carga
         ocultarEstadoCarga();
         
-        // Mostrar noticias filtradas y resumen
+        // Mostrar noticias filtradas, resumen y temas
         mostrarNoticias();
         mostrarResumenCategoria();
+        mostrarTemas();
         
         // Actualizar fecha de actualización
         fechaActualizacion.textContent = `Última actualización: ${data.fecha_consolidacion || hoy}`;
@@ -167,7 +186,8 @@ function generarNavegacionCategorias() {
             // Generar filtros de fuentes según categoría
             actualizarFiltrosFuentes();
             mostrarNoticias();
-                    mostrarResumenCategoria();
+            mostrarResumenCategoria();
+            mostrarTemas();  // También actualizar temas cuando cambia la categoría
         });
     });
     
@@ -220,6 +240,217 @@ async function cargarResumenes() {
         ocultarResumenCategoria();
     }
 }
+
+/**
+ * Carga el archivo de temas y lo guarda en memoria
+ */
+async function cargarTemas() {
+    try {
+        const archivoTemas = 'data/temas_latest.json';
+        const response = await fetch(archivoTemas);
+        
+        if (!response.ok) throw new Error('No se encontraron temas');
+        
+        const data = await response.json();
+        temasDestacados = data;
+        
+        // Actualizar fecha en cabecera si existe
+        const fechaTemas = document.getElementById('temas-fecha');
+        if (fechaTemas && data.fecha) {
+            fechaTemas.textContent = `Actualizado: ${data.fecha}`;
+        }
+    } catch (e) {
+        temasDestacados = null;
+        // Si no hay temas, simplemente no se muestran
+    }
+}
+
+/**
+ * Muestra los temas destacados (solo renderiza, no cambia vista)
+ * Filtra por la categoría seleccionada
+ */
+function mostrarTemas() {
+    const grid = document.getElementById('grid-temas');
+    const titulo = document.getElementById('titulo-temas');
+    
+    if (!grid) return;
+    
+    // Actualizar título con categoría seleccionada
+    if (titulo) {
+        titulo.textContent = `🧠 Temas en Seguimiento - ${formatearNombreCategoria(categoriaSeleccionada)}`;
+    }
+    
+    if (!temasDestacados || !temasDestacados.temas || temasDestacados.temas.length === 0) {
+        grid.innerHTML = '<div class="col-span-3 text-center text-gray-500 py-12">No hay temas disponibles</div>';
+        return;
+    }
+    
+    // Filtrar temas por categoría seleccionada
+    const temasFiltrados = temasDestacados.temas.filter(tema => {
+        const categoriaTema = (tema.categoria_principal || 'otros').toLowerCase();
+        return categoriaTema === categoriaSeleccionada;
+    });
+    
+    // Limpiar grid
+    grid.innerHTML = '';
+    
+    // Mostrar mensaje si no hay temas en esta categoría
+    if (temasFiltrados.length === 0) {
+        grid.innerHTML = `<div class="col-span-3 text-center text-gray-500 py-12">No hay temas detectados en ${formatearNombreCategoria(categoriaSeleccionada)}</div>`;
+        return;
+    }
+    
+    // Crear tarjeta para cada tema filtrado
+    temasFiltrados.forEach(tema => {
+        const card = crearTarjetaTema(tema);
+        grid.appendChild(card);
+    });
+}
+
+/**
+ * Cambia a la vista de temas
+ */
+function mostrarVistaTemas() {
+    const vistaTemas = document.getElementById('vista-temas');
+    const vistaNoticias = document.getElementById('vista-noticias');
+    const btnTemas = document.getElementById('btn-temas');
+    const btnNoticias = document.getElementById('btn-noticias');
+    
+    console.log('Mostrando vista de temas...', temasDestacados);
+    
+    if (vistaTemas) vistaTemas.classList.remove('hidden');
+    if (vistaNoticias) vistaNoticias.classList.add('hidden');
+    if (btnTemas) btnTemas.classList.add('hidden');
+    if (btnNoticias) btnNoticias.classList.remove('hidden');
+    
+    // Asegurar que los temas estén renderizados
+    if (temasDestacados && temasDestacados.temas) {
+        mostrarTemas();
+    }
+}
+
+/**
+ * Cambia a la vista de noticias
+ */
+function mostrarVistaNoticias() {
+    const vistaTemas = document.getElementById('vista-temas');
+    const vistaNoticias = document.getElementById('vista-noticias');
+    const btnTemas = document.getElementById('btn-temas');
+    const btnNoticias = document.getElementById('btn-noticias');
+    
+    if (vistaTemas) vistaTemas.classList.add('hidden');
+    if (vistaNoticias) vistaNoticias.classList.remove('hidden');
+    if (btnTemas) btnTemas.classList.remove('hidden');
+    if (btnNoticias) btnNoticias.classList.add('hidden');
+}
+
+/**
+ * Crea una tarjeta de tema
+ */
+function crearTarjetaTema(tema) {
+    const card = document.createElement('div');
+    card.className = 'bg-white rounded-lg shadow-md p-4 border-l-4 border-purple-500 hover:shadow-lg transition-shadow';
+    
+    // Truncar resumen a 150 caracteres para vista previa
+    const resumenCorto = tema.resumen.substring(0, 150) + '...';
+    
+    // Determinar badge de categoría
+    const categoriaColor = {
+        'internacional': 'bg-blue-100 text-blue-800',
+        'politica': 'bg-red-100 text-red-800',
+        'economia': 'bg-green-100 text-green-800',
+        'sociedad': 'bg-yellow-100 text-yellow-800',
+        'otros': 'bg-gray-100 text-gray-800'
+    }[tema.categoria_principal] || 'bg-gray-100 text-gray-800';
+    
+    // Determinar badges según estado del tema
+    let badges = '';
+    
+    if (tema.es_tema_nuevo) {
+        badges += '<span class="inline-block bg-green-100 text-green-800 text-xs font-semibold px-2 py-1 rounded mr-1">⭐ NUEVO</span>';
+    }
+    
+    if (tema.tendencia === 'creciente' && !tema.es_tema_nuevo) {
+        badges += '<span class="inline-block bg-red-100 text-red-800 text-xs font-semibold px-2 py-1 rounded mr-1">↑ EN ALZA</span>';
+    }
+    
+    if (tema.dias_activo >= 3) {
+        badges += `<span class="inline-block bg-orange-100 text-orange-800 text-xs font-semibold px-2 py-1 rounded mr-1">🔥 ${tema.dias_activo} días</span>`;
+    }
+    
+    const cardId = `tema-card-${tema.tema_id}`;
+    
+    card.innerHTML = `
+        <div class="flex items-start justify-between mb-2">
+            <h3 class="text-base font-bold text-gray-900 flex-grow">${tema.tema}</h3>
+            <span class="inline-block ${categoriaColor} text-xs font-medium px-2 py-0.5 rounded ml-2 flex-shrink-0">
+                ${formatearNombreCategoria(tema.categoria_principal)}
+            </span>
+        </div>
+        
+        ${badges ? `<div class="flex flex-wrap gap-1 mb-2">${badges}</div>` : ''}
+        
+        <div id="${cardId}-preview">
+            <p class="text-xs text-gray-600 mb-3">${resumenCorto}</p>
+        </div>
+        
+        <div id="${cardId}-completo" class="hidden">
+            <p class="text-xs text-gray-600 mb-3 whitespace-pre-line">${tema.resumen}</p>
+            
+            <div class="mt-4 pt-3 border-t border-gray-200">
+                <p class="text-xs font-semibold text-gray-700 mb-2">Noticias relacionadas:</p>
+                <ul class="text-xs text-gray-600 space-y-1">
+                    ${tema.noticias.slice(0, 5).map(n => `
+                        <li>• <a href="${n.link}" target="_blank" class="text-purple-600 hover:underline">${n.titulo}</a></li>
+                    `).join('')}
+                    ${tema.noticias.length > 5 ? `<li class="text-gray-500">... y ${tema.noticias.length - 5} más</li>` : ''}
+                </ul>
+            </div>
+        </div>
+        
+        <div class="flex items-center justify-between text-xs text-gray-500 mb-3">
+            <span>📰 ${tema.cantidad_noticias} noticias</span>
+            <span>📍 ${tema.fuentes.slice(0, 2).join(', ')}${tema.fuentes.length > 2 ? ` +${tema.fuentes.length - 2}` : ''}</span>
+        </div>
+        
+        <button class="btn-toggle-tema w-full bg-purple-600 hover:bg-purple-700 text-white text-xs font-medium py-1.5 rounded transition-colors" 
+                data-tema-id="${cardId}">
+            Ver resumen completo ▼
+        </button>
+    `;
+    
+    // Agregar listener al botón toggle
+    const btnToggle = card.querySelector('.btn-toggle-tema');
+    btnToggle.addEventListener('click', () => toggleResumenTema(cardId));
+    
+    return card;
+}
+
+/**
+ * Despliega/colapsa el resumen completo de un tema
+ */
+function toggleResumenTema(cardId) {
+    const preview = document.getElementById(`${cardId}-preview`);
+    const completo = document.getElementById(`${cardId}-completo`);
+    const btn = document.querySelector(`[data-tema-id="${cardId}"]`);
+    
+    if (!preview || !completo || !btn) return;
+    
+    const estaExpandido = !completo.classList.contains('hidden');
+    
+    if (estaExpandido) {
+        // Colapsar
+        completo.classList.add('hidden');
+        preview.classList.remove('hidden');
+        btn.textContent = 'Ver resumen completo ▼';
+    } else {
+        // Expandir
+        completo.classList.remove('hidden');
+        preview.classList.add('hidden');
+        btn.textContent = 'Ocultar resumen ▲';
+    }
+}
+
 
 /**
  * Muestra el resumen de la categoría seleccionada si existen resúmenes

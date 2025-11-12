@@ -17,10 +17,20 @@
                 <h1 class="text-2xl font-bold text-blue-600">📰 Noticias360</h1>
                 <span id="fecha-actualizacion" class="text-sm text-gray-600"></span>
             </div>
-            <button id="btn-actualizar" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
-                <span>🔄</span>
-                <span>Actualizar</span>
-            </button>
+            <div class="flex items-center gap-3">
+                <button id="btn-temas" class="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
+                    <span>🧠</span>
+                    <span>Temas</span>
+                </button>
+                <button id="btn-noticias" class="hidden bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
+                    <span>📰</span>
+                    <span>Noticias</span>
+                </button>
+                <button id="btn-actualizar" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
+                    <span>🔄</span>
+                    <span>Actualizar</span>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -67,30 +77,44 @@
             <p class="text-gray-600 text-lg">No hay noticias disponibles</p>
         </div>
 
-        <!-- Resumen de la categoría -->
-        <div id="resumen-categoria" class="hidden mb-6 bg-blue-50 border border-blue-200 rounded-lg overflow-hidden">
-            <button id="resumen-toggle" class="w-full flex items-center justify-between p-4 hover:bg-blue-100 transition-colors text-left">
-                <div class="flex items-center gap-2">
-                    <h2 class="text-sm font-semibold text-blue-800">Resumen de la categoría</h2>
-                    <span id="resumen-fecha" class="text-xs text-blue-600"></span>
-                </div>
-                <svg id="resumen-icon" class="w-5 h-5 text-blue-800 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                </svg>
-            </button>
-            <div id="resumen-contenido" class="hidden px-4 pb-4">
-                <p id="resumen-texto" class="text-sm text-blue-900 leading-relaxed whitespace-pre-line"></p>
+        <!-- VISTA DE TEMAS -->
+        <div id="vista-temas" class="hidden">
+            <div class="flex items-center justify-between mb-6">
+                <h2 id="titulo-temas" class="text-2xl font-bold text-gray-800">🧠 Temas en Seguimiento</h2>
+                <span id="temas-fecha" class="text-sm text-gray-500"></span>
+            </div>
+            <div id="grid-temas" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <!-- Tarjetas de temas generadas dinámicamente -->
             </div>
         </div>
 
-        <!-- Grid de noticias -->
-        <div id="noticias-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 items-stretch">
-            <!-- Las tarjetas de noticias se generarán dinámicamente -->
-        </div>
+        <!-- VISTA DE NOTICIAS -->
+        <div id="vista-noticias">
+            <!-- Resumen de la categoría -->
+            <div id="resumen-categoria" class="hidden mb-6 bg-blue-50 border border-blue-200 rounded-lg overflow-hidden">
+                <button id="resumen-toggle" class="w-full flex items-center justify-between p-4 hover:bg-blue-100 transition-colors text-left">
+                    <div class="flex items-center gap-2">
+                        <h2 class="text-sm font-semibold text-blue-800">Resumen de la categoría</h2>
+                        <span id="resumen-fecha" class="text-xs text-blue-600"></span>
+                    </div>
+                    <svg id="resumen-icon" class="w-5 h-5 text-blue-800 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                    </svg>
+                </button>
+                <div id="resumen-contenido" class="hidden px-4 pb-4">
+                    <p id="resumen-texto" class="text-sm text-blue-900 leading-relaxed whitespace-pre-line"></p>
+                </div>
+            </div>
 
-        <!-- Contador de noticias -->
-        <div class="mt-8 text-center text-gray-600">
-            <p id="contador-noticias">Mostrando 0 noticias</p>
+            <!-- Grid de noticias -->
+            <div id="noticias-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 items-stretch">
+                <!-- Las tarjetas de noticias se generarán dinámicamente -->
+            </div>
+
+            <!-- Contador de noticias -->
+            <div class="mt-8 text-center text-gray-600">
+                <p id="contador-noticias">Mostrando 0 noticias</p>
+            </div>
         </div>
 
     </main>

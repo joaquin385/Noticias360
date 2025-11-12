@@ -1,9 +1,13 @@
 """
-Script maestro que ejecuta el pipeline completo de extracción, normalización e integración de noticias.
+Script maestro que ejecuta el pipeline completo de extracción, normalización, integración y análisis de noticias.
 Ejecuta los scripts en el siguiente orden:
 1. extraer_feeds.py - Extrae noticias crudas de todas las fuentes RSS
 2. normalizar_fechas.py - Normaliza fechas a UTC-3 y calcula horas_atras
 3. integrar_fuentes.py - Consolida todas las noticias en un dataset diario
+4. clasificar_categorias_url.py - Clasifica noticias y copia a frontend
+5. extraer_contenido.py - Extrae contenido completo (opcional, lento)
+6. generar_resumenes_gemini.py - Genera resúmenes por categoría con IA
+7. agrupar_temas.py - Detecta temas relevantes y mantiene histórico
 """
 
 import sys
@@ -20,7 +24,9 @@ import extraer_feeds
 import normalizar_fechas
 import integrar_fuentes
 import clasificar_categorias_url
+import extraer_contenido
 import generar_resumenes_gemini
+import agrupar_temas
 
 # Configuración de logging
 logging.basicConfig(
@@ -42,7 +48,7 @@ def ejecutar_pipeline_completo():
     
     # PASO 1: Extraer feeds
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 1/5: EXTRACCIÓN DE NOTICIAS RSS")
+    logging.info("PASO 1/7: EXTRACCIÓN DE NOTICIAS RSS")
     logging.info("=" * 70)
     try:
         extraer_feeds.main()
@@ -54,7 +60,7 @@ def ejecutar_pipeline_completo():
     
     # PASO 2: Normalizar fechas
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 2/5: NORMALIZACIÓN DE FECHAS")
+    logging.info("PASO 2/7: NORMALIZACIÓN DE FECHAS")
     logging.info("=" * 70)
     try:
         normalizar_fechas.main()
@@ -66,7 +72,7 @@ def ejecutar_pipeline_completo():
     
     # PASO 3: Integrar fuentes
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 3/5: INTEGRACIÓN DE FUENTES")
+    logging.info("PASO 3/7: INTEGRACIÓN DE FUENTES")
     logging.info("=" * 70)
     try:
         integrar_fuentes.main()
@@ -78,7 +84,7 @@ def ejecutar_pipeline_completo():
     
     # PASO 4: Clasificar por URL
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 4/5: CLASIFICACIÓN POR URL")
+    logging.info("PASO 4/7: CLASIFICACIÓN POR URL")
     logging.info("=" * 70)
     try:
         clasificar_categorias_url.main()
@@ -88,17 +94,43 @@ def ejecutar_pipeline_completo():
         logging.error("Pipeline detenido por error en clasificación")
         return
 
-    # PASO 5: Generar resúmenes con Gemini
+    # PASO 5: Extraer contenido completo (OPCIONAL - toma ~4-5 minutos)
+    # Puedes comentar este bloque si quieres acelerar el pipeline
+    # Los temas funcionarán igual pero con menos detalle en los resúmenes
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 5/5: GENERACIÓN DE RESÚMENES (Gemini)")
+    logging.info("PASO 5/7: EXTRACCIÓN DE CONTENIDO COMPLETO (Web Scraping - OPCIONAL)")
+    logging.info("=" * 70)
+    try:
+        extraer_contenido.main()
+        logging.info("✓ Contenido extraído exitosamente")
+    except Exception as e:
+        logging.error(f"✗ Error al extraer contenido: {str(e)}")
+        logging.warning("Continuando pipeline sin contenido completo...")
+        # No detener el pipeline, es opcional
+
+    # PASO 6: Generar resúmenes con Gemini
+    logging.info("\n" + "=" * 70)
+    logging.info("PASO 6/7: GENERACIÓN DE RESÚMENES POR CATEGORÍA (Gemini)")
     logging.info("=" * 70)
     try:
         generar_resumenes_gemini.main()
         logging.info("✓ Resúmenes generados exitosamente")
     except Exception as e:
         logging.error(f"✗ Error al generar resúmenes: {str(e)}")
-        logging.error("Pipeline detenido por error en resúmenes")
-        return
+        logging.warning("Continuando pipeline sin resúmenes de categoría...")
+        # No detener el pipeline, es opcional
+    
+    # PASO 7: Detectar y agrupar temas con IA
+    logging.info("\n" + "=" * 70)
+    logging.info("PASO 7/7: DETECCIÓN Y AGRUPACIÓN DE TEMAS (Gemini)")
+    logging.info("=" * 70)
+    try:
+        agrupar_temas.main()
+        logging.info("✓ Temas detectados y guardados exitosamente")
+    except Exception as e:
+        logging.error(f"✗ Error al detectar temas: {str(e)}")
+        logging.warning("Pipeline completado sin detección de temas")
+        # No detener el pipeline, es opcional
     
     # Resumen final
     fin = datetime.now()
@@ -113,10 +145,19 @@ def ejecutar_pipeline_completo():
     logging.info("=" * 70)
     
     logging.info("\nArchivos generados:")
-    logging.info("  • data/raw/ - Noticias crudas por fuente")
-    logging.info("  • data/normalized/ - Noticias con fechas normalizadas")
-    logging.info("  • data/noticias_YYYY-MM-DD.json - Dataset final consolidado")
-    logging.info("  • data/resumenes_YYYY-MM-DD.json - Resúmenes por categoría (también copiado a frontend/data)")
+    logging.info("  Backend (data/):")
+    logging.info("    • data/raw/ - Noticias crudas por fuente")
+    logging.info("    • data/normalized/ - Noticias con fechas normalizadas")
+    logging.info("    • data/noticias_YYYY-MM-DD.json - Dataset consolidado")
+    logging.info("    • data/noticias_contenido_YYYY-MM-DD.json - Noticias con contenido completo")
+    logging.info("    • data/resumenes_YYYY-MM-DD.json - Resúmenes por categoría")
+    logging.info("    • data/temas/temas_YYYY-MM-DD.json - Temas detectados del día")
+    logging.info("    • data/temas/historico_temas.json - Histórico completo de temas")
+    logging.info("\n  Frontend (frontend/data/):")
+    logging.info("    • noticias_YYYY-MM-DD.json - Noticias clasificadas (por fecha)")
+    logging.info("    • resumenes_YYYY-MM-DD.json - Resúmenes de categorías (por fecha)")
+    logging.info("    • temas_latest.json - Temas detectados del día")
+    logging.info("\n  Nota: historico_temas.json solo en data/temas/ (no se copia a frontend)")
 
 
 def main():

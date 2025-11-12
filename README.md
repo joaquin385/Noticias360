@@ -1,348 +1,263 @@
-# Resumen de Noticias Diarias
+# 📰 Noticias360 - Agregador Inteligente de Noticias
 
-Agregador de noticias RSS para Argentina que consolida información de múltiples fuentes periodísticas, normaliza los datos, clasifica automáticamente por categorías y genera resúmenes inteligentes usando IA (Google Gemini).
+Sistema automatizado que:
+- ✅ Extrae noticias de 8 medios argentinos (RSS)
+- ✅ Clasifica automáticamente por categorías
+- ✅ Genera resúmenes con IA (Gemini)
+- ✅ Detecta temas relevantes y su evolución temporal
+- ✅ Extrae contenido completo de artículos (web scraping)
 
-## 📋 Descripción
+## 🛠️ Stack
 
-Esta aplicación automatiza la recopilación diaria de noticias desde múltiples fuentes RSS de medios argentinos, las procesa, clasifica y presenta en una interfaz web moderna. Además, utiliza inteligencia artificial para generar resúmenes ejecutivos por categoría de las noticias más relevantes.
+**Backend:** Python 3.11+ • feedparser • google-genai • newspaper3k • trafilatura  
+**Frontend:** HTML5 • Tailwind CSS • JavaScript  
+**Deploy:** Vercel + GitHub Actions
 
-## 🚀 Tecnologías Utilizadas
-
-### Backend
-- **Python 3.11+**: Lenguaje principal para los scripts de procesamiento
-- **feedparser**: Biblioteca para parsear feeds RSS/Atom
-- **python-dateutil**: Manejo y conversión de fechas y zonas horarias
-- **google-genai**: SDK oficial de Google para interactuar con Gemini AI
-- **json**: Manejo de datos estructurados
-- **pathlib**: Gestión de archivos y rutas multiplataforma
-- **logging**: Sistema de registro de eventos y errores
-
-### Frontend
-- **HTML5**: Estructura de la página
-- **CSS3 con Tailwind CSS**: Framework de estilos utilitarios para diseño responsivo
-- **JavaScript (ES6+)**: Lógica del cliente
-  - Fetch API: Carga asíncrona de datos JSON
-  - DOM API: Manipulación dinámica del contenido
-  - Event Listeners: Interactividad del usuario
-
-### Despliegue
-- **Vercel**: Hosting de archivos estáticos y frontend
-- **Git**: Control de versiones
-
-## 📁 Estructura de Carpetas
+## 📁 Estructura Simplificada
 
 ```
-Resumen de Noticias Diarias/
+├── data/                               # Backend (ignorado en Git)
+│   ├── raw/                            # Noticias RSS crudas
+│   ├── normalized/                     # Fechas normalizadas
+│   ├── noticias_*.json                 # Consolidado diario
+│   ├── noticias_contenido_*.json       # Con contenido completo (scraping)
+│   └── temas/
+│       ├── temas_*.json                # Temas detectados por día
+│       └── historico_temas.json        # Evolución temporal de temas
 │
-├── data/                          # Datos procesados (NO en Git)
-│   ├── raw/                       # Noticias crudas extraídas de RSS
-│   ├── normalized/                # Noticias con fechas normalizadas
-│   ├── noticias_YYYY-MM-DD.json  # Dataset consolidado diario
-│   └── resumenes_YYYY-MM-DD.json # Resúmenes generados por Gemini
+├── frontend/data/                      # Para el sitio web (EN Git)
+│   ├── noticias_YYYY-MM-DD.json        # Noticias del día (por fecha)
+│   ├── resumenes_YYYY-MM-DD.json       # Resúmenes por categoría (por fecha)
+│   └── temas_latest.json               # Temas del día (se sobrescribe)
 │
-├── frontend/                      # Aplicación web
-│   ├── css/
-│   │   └── estilos.css           # Estilos personalizados
-│   ├── js/
-│   │   └── app.js                # Lógica del frontend
-│   ├── data/                     # Datos para consumo del frontend (NO en Git)
-│   │   ├── noticias_YYYY-MM-DD.json
-│   │   └── resumenes_YYYY-MM-DD.json
-│   ├── assets/                   # Recursos estáticos
-│   └── index.html                # Página principal
+├── scripts/                            # 7 scripts del pipeline
+│   ├── ejecutar_pipeline.py            # ← EJECUTAR ESTE
+│   ├── extraer_feeds.py
+│   ├── normalizar_fechas.py
+│   ├── integrar_fuentes.py
+│   ├── clasificar_categorias_url.py
+│   ├── extraer_contenido.py            # Scraping (nuevo)
+│   ├── generar_resumenes_gemini.py
+│   └── agrupar_temas.py                # Detección de temas (nuevo)
 │
-├── scripts/                       # Scripts de procesamiento
-│   ├── extraer_feeds.py          # Extracción de RSS
-│   ├── normalizar_fechas.py      # Normalización de fechas
-│   ├── integrar_fuentes.py       # Consolidación de datos
-│   ├── clasificar_categorias_url.py  # Clasificación por URL
-│   ├── generar_resumenes_gemini.py   # Generación de resúmenes IA
-│   ├── ejecutar_pipeline.py      # Script maestro
-│   └── test_gemini_api.py        # Prueba de API de Gemini
-│
-├── .env                          # Variables de entorno (NO en Git)
-├── .gitignore                    # Archivos ignorados por Git
-├── feeds_config.json             # Configuración de fuentes RSS
-├── requirements.txt              # Dependencias de Python
-├── vercel.json                   # Configuración de Vercel
-└── README.md                     # Esta documentación
+└── feeds_config.json                   # Configuración RSS
 ```
 
-## 🔧 Instalación y Configuración Local
-
-### 1. Clonar el repositorio
+## ⚙️ Instalación Rápida
 
 ```bash
-git clone <url-del-repositorio>
-cd "Resumen de Noticias Diarias"
-```
-
-### 2. Instalar dependencias de Python
-
-```bash
+# 1. Instalar dependencias
 pip install -r requirements.txt
-```
 
-### 3. Configurar API de Gemini
+# 2. Configurar API de Gemini (crear archivo .env)
+echo "GEMINI_API_KEY=tu-api-key" > .env
 
-Crea un archivo `.env` en la raíz del proyecto:
-
-```env
-GEMINI_API_KEY=tu-api-key-aqui
-```
-
-Puedes obtener una API key gratuita en: https://aistudio.google.com/apikey
-
-### 4. Ejecutar el pipeline de datos
-
-```bash
+# 3. Ejecutar pipeline completo
 python scripts/ejecutar_pipeline.py
-```
 
-Este comando:
-1. Extrae noticias de RSS
-2. Normaliza fechas a UTC-3
-3. Consolida todas las fuentes
-4. Clasifica por categoría
-5. Genera resúmenes con IA
-
-### 5. Visualizar el frontend localmente
-
-**Opción A - Servidor HTTP de Python (incluido)**:
-```bash
+# 4. Ver en navegador
 python server.py
-```
-Abre: `http://localhost:8000`
-
-**Opción B - Cualquier servidor HTTP**:
-```bash
-# Con Python
-cd frontend && python -m http.server 8000
-
-# Con Node.js
-cd frontend && npx serve
+# Abre: http://localhost:8000
 ```
 
-## 🌐 Despliegue en Vercel
+**Obtener API key gratuita:** https://aistudio.google.com/apikey
 
-### Configuración Inicial
+## 🔄 Pipeline Completo (7 Pasos)
 
-1. **Instala Vercel CLI** (opcional):
-```bash
-npm install -g vercel
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  python scripts/ejecutar_pipeline.py                           │
+└─────────────────────────────────────────────────────────────────┘
+
+PASO 1: extraer_feeds.py (~30s)
+  • Descarga RSS de 8 fuentes (Clarín, La Nación, Infobae, etc.)
+  • Guarda: data/raw/*.json
+
+PASO 2: normalizar_fechas.py (~5s)
+  • Convierte fechas a UTC-3 (Argentina)
+  • Calcula horas_atras
+  • Guarda: data/normalized/*.json
+
+PASO 3: integrar_fuentes.py (~5s)
+  • Consolida todas las fuentes en un archivo
+  • Elimina duplicados
+  • Guarda: data/noticias_2025-11-12.json
+
+PASO 4: clasificar_categorias_url.py (~5s)
+  • Clasifica por URL (Internacional, Política, Economía, etc.)
+  • Limpia frontend/data/ (solo noticias/resúmenes viejos, NO temas)
+  • Copia: frontend/data/noticias_2025-11-12.json ← FRONTEND
+
+PASO 5: extraer_contenido.py (~4-5 min) [OPCIONAL]
+  • Web scraping de 150 noticias (Internacional, Política, Economía)
+  • Usa Newspaper3k + Trafilatura
+  • Guarda: data/noticias_contenido_latest.json ← PARA IA
+
+PASO 6: generar_resumenes_gemini.py (~30s)
+  • Genera resúmenes de 4 categorías con Gemini
+  • Guarda: data/resumenes_2025-11-12.json
+  • Copia: frontend/data/resumenes_2025-11-12.json ← FRONTEND
+
+PASO 7: agrupar_temas.py (~2-3 min)
+  • Detecta 10 temas relevantes con Gemini
+  • Identifica NUEVOS vs RECURRENTES (histórico)
+  • Integra resúmenes para temas recurrentes
+  • Calcula tendencias y métricas
+  • Guarda:
+    ├─ data/temas/historico_temas.json (tracking interno)
+    ├─ data/temas/temas_2025-11-12.json (backup)
+    └─ frontend/data/temas_latest.json ← FRONTEND
+
+───────────────────────────────────────────────────────────────
+TIEMPO TOTAL: ~8-12 minutos (con scraping)
+              ~4-6 minutos (sin scraping - comentar PASO 5)
 ```
 
-2. **Conecta el repositorio a Vercel**:
-   - Ve a [vercel.com](https://vercel.com)
-   - Importa tu repositorio de GitHub/GitLab/Bitbucket
-   - Vercel detectará automáticamente la configuración de `vercel.json`
+## 📋 Archivos que DEBE tener `frontend/data/`
 
-3. **Configuración en Vercel**:
-   - **Framework Preset**: Other
-   - **Root Directory**: `./`
-   - **Build Command**: (vacío)
-   - **Output Directory**: `frontend`
+**Solo 3 archivos** (el frontend busca por fecha):
 
-### Actualización de Datos en Producción
-
-Los archivos JSON (noticias y resúmenes) se generan localmente y deben subirse manualmente o mediante CI/CD:
-
-**Opción 1 - Manual**:
-```bash
-# Generar datos localmente
-python scripts/ejecutar_pipeline.py
-
-# Subir frontend/data/ a Vercel
-# (Puedes usar Vercel CLI o GitHub Actions)
+```
+frontend/data/
+├── noticias_2025-11-12.json      # Noticias del día
+├── resumenes_2025-11-12.json     # Resúmenes por categoría
+└── temas_latest.json             # Temas del día
 ```
 
-**Opción 2 - GitHub Actions** (recomendado):
+**Cómo los busca el frontend:**
+- `noticias_*.json`: Calcula fecha actual (UTC-3 Argentina) → busca `noticias_YYYY-MM-DD.json`
+- `resumenes_*.json`: Calcula fecha actual → busca `resumenes_YYYY-MM-DD.json`
+- `temas_latest.json`: Siempre busca este nombre fijo
 
-Crea `.github/workflows/update-news.yml`:
-
-```yaml
-name: Update News Daily
-
-on:
-  schedule:
-    - cron: '0 12 * * *'  # Ejecuta diariamente a las 12:00 UTC
-  workflow_dispatch:  # Permite ejecución manual
-
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      
-      - name: Run pipeline
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/ejecutar_pipeline.py
-      
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add frontend/data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news data" && git push)
-```
-
-**Configurar secreto en GitHub**:
-1. Ve a tu repositorio > Settings > Secrets and variables > Actions
-2. Crea un nuevo secret: `GEMINI_API_KEY` con tu API key
-
-### Nota Importante sobre Vercel
-- Vercel es ideal para el **frontend estático**
-- Los scripts de Python **NO se ejecutan** en Vercel
-- Los datos deben generarse localmente o mediante CI/CD y pushearse al repositorio
-- El frontend lee los archivos JSON estáticos
-
-## 📊 Scripts y Funcionalidades
-
-### Pipeline Completo
-```bash
-python scripts/ejecutar_pipeline.py
-```
-
-Ejecuta en orden:
-1. **Extracción**: Descarga noticias de RSS
-2. **Normalización**: Convierte fechas a UTC-3
-3. **Integración**: Consolida y elimina duplicados
-4. **Clasificación**: Categoriza por URL
-5. **Resúmenes IA**: Genera resúmenes con Gemini
-
-### Scripts Individuales
-
-```bash
-# Solo extraer noticias
-python scripts/extraer_feeds.py
-
-# Solo normalizar fechas
-python scripts/normalizar_fechas.py
-
-# Solo integrar fuentes
-python scripts/integrar_fuentes.py
-
-# Solo clasificar
-python scripts/clasificar_categorias_url.py
-
-# Solo generar resúmenes
-python scripts/generar_resumenes_gemini.py
-
-# Probar API de Gemini
-python scripts/test_gemini_api.py
-```
-
-## 🎨 Funcionalidades del Frontend
-
-- **Navegación por categorías**: Internacional, Política, Economía, Sociedad
-- **Filtro por fuente**: Filtra por medio periodístico
-- **Resumen desplegable**: Resumen ejecutivo generado por IA
-- **Grid responsivo**: Adaptable a móviles, tablets y desktop
-- **Ordenamiento inteligente**: Intercala noticias de diferentes fuentes
-- **Actualización dinámica**: Carga datos del día actual automáticamente
-
-## 🔍 Fuentes de Noticias Configuradas
-
-- Clarín
-- La Nación
-- Infobae
-- Página 12
-- Ámbito Financiero
-- Perfil
-- Minuto1
-- iProfesional
-
-Las fuentes se configuran en `feeds_config.json`.
-
-## 🛠️ Configuración de Fuentes RSS
-
-Edita `feeds_config.json`:
-
-```json
-[
-  {
-    "fuente": "Nombre del medio",
-    "url": "https://ejemplo.com/rss",
-    "categoria": "Categoría del feed",
-    "zona_horaria": "UTC-3"
-  }
-]
-```
-
-## 📝 Formato de Datos
-
-### Noticia Individual
-```json
-{
-  "titulo": "Título de la noticia",
-  "link": "https://...",
-  "fecha_local": "2025-10-29 12:23:30",
-  "horas_atras": 2.5,
-  "resumen": "Descripción...",
-  "fuente": "Clarín",
-  "categoria_url": "politica"
-}
-```
-
-### Resumen por Categoría
-```json
-{
-  "fecha_consolidacion": "2025-10-29",
-  "resumenes": {
-    "internacional": {
-      "resumen": "Texto del resumen...",
-      "cantidad_noticias": 30
-    }
-  }
-}
-```
-
-## 🐛 Solución de Problemas
-
-### Error: "GEMINI_API_KEY no está configurada"
-```bash
-# Crea archivo .env con:
-GEMINI_API_KEY=tu-api-key
-
-# O configura variable de entorno:
-export GEMINI_API_KEY='tu-api-key'  # Linux/Mac
-$env:GEMINI_API_KEY='tu-api-key'   # PowerShell
-```
-
-### Frontend no muestra noticias
-- Ejecuta el pipeline primero: `python scripts/ejecutar_pipeline.py`
-- Verifica que existan archivos en `frontend/data/`
-- Revisa la consola del navegador para errores
-
-### Resúmenes no aparecen
-- Verifica que la API key de Gemini sea válida
-- Ejecuta: `python scripts/test_gemini_api.py`
-
-## 📄 Licencia
-
-Este proyecto es de uso personal/educacional.
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+**Nota:** El histórico de temas (`historico_temas.json`) solo se guarda en `data/temas/` para tracking interno, el frontend no lo usa.
 
 ---
 
-**Desarrollado con ❤️ para mantener informados a los argentinos**
+## 🎯 Scripts Individuales (para debugging)
 
-**Última actualización**: Octubre 2025
+```bash
+# Extraer contenido completo (solo si necesitas regenerarlo)
+python scripts/extraer_contenido.py
+
+# Detectar temas (solo si falló en el pipeline)
+python scripts/agrupar_temas.py
+
+# Probar conexión con Gemini
+python scripts/test_gemini_api.py
+```
+
+## 🧠 Sistema de Temas (Fase 2 - Con Histórico)
+
+### **Qué hace:**
+- Detecta **10 temas relevantes** por día usando IA
+- Identifica si son **NUEVOS** ⭐ o **RECURRENTES** 🔄
+- Para temas recurrentes: **integra** el resumen anterior + noticias nuevas
+- Calcula **tendencias** (creciente ↑, estable →, decreciente ↓)
+- Mantiene **histórico completo** de evolución día a día
+
+### **Ejemplo de evolución:**
+
+**Día 1 (10/11):** 
+- "Cotizaciones del Dólar" ⭐ NUEVO
+- Resumen generado desde cero
+
+**Día 2 (11/11):**
+- "Cotizaciones del Dólar" 🔄 2 días, ↑ CRECIENTE
+- Resumen integrado (mantiene contexto + agrega novedades)
+
+**Día 5 (14/11):**
+- "Cotizaciones del Dólar" 🔥 5 días, → ESTABLE
+- Si no aparece por 3+ días → marca como "inactivo"
+
+### **Archivos generados:**
+- `frontend/data/temas_latest.json`: Temas de HOY para el frontend (10 temas con resúmenes)
+- `data/temas/historico_temas.json`: Tracking interno con todas las apariciones (NO se copia a frontend)
+
+---
+
+## 🎨 Frontend
+
+**Vista Noticias:**
+- Navegación: Internacional, Política, Economía, Sociedad
+- Resumen colapsable por categoría (IA)
+- Tarjetas intercaladas por fuente
+
+**Vista Temas:**
+- Filtrado por categoría (igual que noticias)
+- Badges: ⭐ NUEVO, ↑ EN ALZA, 🔥 X días
+- Resumen completo expandible
+
+---
+
+## ⚠️ Solución de Problemas
+
+### Error 503 en Gemini (servicio sobrecargado)
+```bash
+# Esperar 1-2 minutos y reintentar solo el paso que falló:
+python scripts/generar_resumenes_gemini.py  # Si falló PASO 6
+python scripts/agrupar_temas.py             # Si falló PASO 7
+```
+
+### Falta `temas_latest.json` en frontend/
+```bash
+# Ejecutar solo detección de temas:
+python scripts/agrupar_temas.py
+```
+
+### Acelerar el pipeline
+Comentar PASO 5 en `ejecutar_pipeline.py` (líneas 97-109) para saltear el scraping.
+Los temas funcionarán igual pero con menos detalle.
+
+---
+
+## 📊 Fuentes Configuradas
+
+Clarín • La Nación • Infobae • Página 12 • Ámbito • Perfil • Minuto1 • iProfesional
+
+Editá `feeds_config.json` para agregar más.
+
+---
+
+## 🤖 GitHub Actions (Automatización)
+
+El workflow `.github/workflows/update_news.yml` ejecuta el pipeline **cada 3 horas automáticamente**.
+
+### **Configuración (si aún no lo hiciste):**
+
+1. **Configurar GEMINI_API_KEY en GitHub Secrets**
+   - Ir a: `Settings` → `Secrets and variables` → `Actions`
+   - Click en `New repository secret`
+   - Name: `GEMINI_API_KEY`
+   - Secret: Tu API key de Gemini
+   - Click en `Add secret`
+
+2. **Subir cambios al repositorio**
+   ```bash
+   git add .
+   git commit -m "Update: nuevos scripts y workflow mejorado"
+   git push
+   ```
+
+3. **Probar el workflow manualmente**
+   - Ir a: `Actions` → `Actualizar noticias cada 3h`
+   - Click en `Run workflow` → `Run workflow`
+   - Esperar 8-12 minutos y revisar logs
+
+### **Qué hace el workflow:**
+- ✅ Ejecuta `ejecutar_pipeline.py` completo
+- ✅ Limpia archivos antiguos de `frontend/data/`
+- ✅ Commitea solo archivos del día actual
+- ✅ Push automático a `main` con `[ci skip]` para evitar loops
+
+### **Archivos que se commitean:**
+```
+frontend/data/
+├── noticias_2025-11-12.json    (se sobrescribe cada 3h)
+├── resumenes_2025-11-12.json   (se sobrescribe cada 3h)
+└── temas_latest.json           (se sobrescribe cada 3h)
+```
+
+---
+
+**Última actualización:** Noviembre 2025
 

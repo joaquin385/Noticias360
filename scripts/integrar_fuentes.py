@@ -159,22 +159,26 @@ def guardar_dataset(noticias: List[Dict], fecha_str: str):
 
 def limpiar_frontend_data():
     """
-    Limpia todos los archivos JSON de la carpeta frontend/data/ antes de copiar los nuevos.
+    Limpia archivos JSON antiguos de noticias y resúmenes en frontend/data/.
+    NO borra archivos de temas (temas_*.json, historico_temas.json) ya que se generan después.
     """
     if not FRONTEND_DIR.exists():
         return
     
-    archivos_json = list(FRONTEND_DIR.glob("*.json"))
+    # Solo borrar archivos de noticias y resúmenes, NO de temas
+    archivos_a_borrar = []
+    archivos_a_borrar.extend(FRONTEND_DIR.glob("noticias_*.json"))
+    archivos_a_borrar.extend(FRONTEND_DIR.glob("resumenes_*.json"))
     
-    if archivos_json:
-        logging.info(f"Limpiando {len(archivos_json)} archivos antiguos en {FRONTEND_DIR}")
-        for archivo in archivos_json:
+    if archivos_a_borrar:
+        logging.info(f"Limpiando {len(archivos_a_borrar)} archivos antiguos en {FRONTEND_DIR}")
+        for archivo in archivos_a_borrar:
             try:
                 archivo.unlink()
                 logging.info(f"  Eliminado: {archivo.name}")
             except Exception as e:
                 logging.error(f"  Error al eliminar {archivo.name}: {str(e)}")
-        logging.info("Carpeta frontend/data/ limpiada correctamente")
+        logging.info("Carpeta frontend/data/ limpiada correctamente (preservando archivos de temas)")
     else:
         logging.info("No hay archivos antiguos que limpiar en frontend/data/")
 

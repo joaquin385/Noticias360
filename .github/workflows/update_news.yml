@@ -1,4 +1,18 @@
-# GitHub Actions workflow para actualizar noticias diariamente
+# ============================================================
+# GitHub Actions: Actualización Automática de Noticias
+# ============================================================
+# 
+# Este workflow ejecuta el pipeline completo cada 3 horas:
+# 1. Extrae noticias de RSS (8 fuentes argentinas)
+# 2. Normaliza fechas y clasifica por categoría
+# 3. Extrae contenido completo (scraping - 150 artículos)
+# 4. Genera resúmenes con IA (Gemini)
+# 5. Detecta y agrupa temas relevantes con histórico
+# 6. Commitea archivos a frontend/data/ para Vercel
+#
+# REQUISITO: Configurar GEMINI_API_KEY en GitHub Secrets
+# Settings → Secrets and variables → Actions → New repository secret
+# ============================================================
 
 name: Actualizar noticias cada 3h
 
@@ -14,6 +28,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # Timeout de seguridad (pipeline tarda ~8-12 min)
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -33,34 +49,57 @@ jobs:
 
       - name: Prepare .env from secrets
         run: |
-          # Crea un .env con las secrets que necesites
-          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env
-          echo "NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}" >> .env
-        # Si no usás alguna secret, comentala o ajusta.
+          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
+          if [ -z "${{ secrets.GEMINI_API_KEY }}" ]; then
+            echo "⚠️ ADVERTENCIA: GEMINI_API_KEY no está configurada en GitHub Secrets"
+            exit 1
+          fi
+          echo "✓ API key configurada correctamente"
 
       - name: Run pipeline
         env:
-          # opcional: pasar variables al entorno si el script las usa
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: |
           python scripts/ejecutar_pipeline.py
 
-      - name: Show git status (debug)
+      - name: Show generated files (debug)
         run: |
+          echo "=== Archivos en frontend/data/ ==="
+          ls -lh frontend/data/ || echo "Directorio no encontrado"
+          echo ""
+          echo "=== Git status ==="
           git status --porcelain
-          git ls-files frontend/data || true
 
-      - name: Commit & push changes (only if there are changes)
+      - name: Clean old files from frontend/data
         run: |
-          # Añadimos los archivos del frontend/data (ajustar pattern si hace falta)
+          # Obtener fecha actual (UTC-3 Argentina para coincidir con el pipeline)
+          FECHA_HOY=$(TZ='America/Argentina/Buenos_Aires' date +%Y-%m-%d)
+          echo "Fecha actual (Argentina): $FECHA_HOY"
+          
+          # Eliminar archivos de noticias y resúmenes de fechas anteriores
+          cd frontend/data
+          find . -name "noticias_*.json" ! -name "noticias_$FECHA_HOY.json" -type f -delete 2>/dev/null || true
+          find . -name "resumenes_*.json" ! -name "resumenes_$FECHA_HOY.json" -type f -delete 2>/dev/null || true
+          echo "✓ Archivos antiguos eliminados (se mantiene solo $FECHA_HOY)"
+
+      - name: Commit & push changes
+        run: |
+          # Configurar Git
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Añadir todos los archivos de frontend/data/
           git add frontend/data/*.json || true
+          
           # Comprobar si hay cambios
           if git diff --cached --quiet; then
-            echo "No hay cambios para commitear."
+            echo "✓ No hay cambios para commitear"
           else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -m "Automated update: noticias y resumenes [ci skip]" || echo "commit failed"
-            git push origin HEAD:main
+            # Generar timestamp para el commit
+            TIMESTAMP=$(TZ='America/Argentina/Buenos_Aires' date '+%Y-%m-%d %H:%M %Z')
+            
+            # Commit y push
+            git commit -m "🤖 Update: noticias, resúmenes y temas [$TIMESTAMP] [ci skip]" || echo "⚠️ Commit falló"
+            git push origin HEAD:main || echo "⚠️ Push falló"
+            echo "✓ Cambios publicados"
           fi
