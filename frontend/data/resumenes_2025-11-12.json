@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-12",
-  "fecha_generacion": "2025-11-12T12:46:02.045361",
+  "fecha_generacion": "2025-11-12T18:33:01.184870",
   "resumenes": {
     "internacional": {
-      "resumen": "Correos electrónicos recientemente revelados implican al expresidente Donald Trump en el caso Jeffrey Epstein, sugiriendo que \"pasó horas\" con una de las víctimas de tráfico sexual y conocía sus actividades delictivas. En otra acción, Trump solicitó sin éxito al presidente israelí, Isaac Herzog, el indulto para Benjamin Netanyahu.\n\nLa situación migratoria en América y Estados Unidos presenta desafíos. Human Rights Watch denunció torturas y vejámenes sexuales contra migrantes venezolanos en la megacárcel de El Salvador. En EE.UU., se detallan estrategias para migrantes en Texas frente al ICE para evitar la deportación, incluyendo documentos necesarios para suspenderla en Miami y la normativa del USCIS sobre permisos de trabajo vencidos en Nueva York.\n\nLas tensiones geopolíticas y los problemas internos marcan varias naciones. Ucrania enfrenta grave evasión del servicio militar, especialmente en Vylkove, y su gobierno bajo escrutinio por un escándalo de corrupción. En China, purgas militares de Xi Jinping generan inquietud sobre las fuerzas nucleares. En Chile, las campañas electorales se centran en la inseguridad.\n\nDiversos problemas ambientales y desastres naturales afectan a varias regiones. Texas lucha contra una invasión de cerdos salvajes que destruyen ecosistemas. La COP30 en Brasil fue escenario de un enfrentamiento entre grupos indígenas y seguridad. Taiwán sufrió el devastador paso del supertifón Fung-wong, con al menos 18 muertos y miles de desplazados. Estados Unidos experimenta una ola de frío y nevadas.\n\nOtros incidentes regionales incluyen una tragedia en Perú con al menos 37 muertos por la caída de un micro en un barranco, y un inusual apagón que dejó a República Dominicana a oscuras. La Marina de Estados Unidos, por su parte, destaca su portaaviones USS Gerald R. Ford.",
-      "cantidad_noticias": 22,
-      "fecha_generacion": "2025-11-12T12:45:54.899853",
+      "resumen": "Renewed scrutiny focuses on former President Donald Trump following leaked emails from Jeffrey Epstein, which reportedly claim Trump spent hours with an alleged victim. Domestically, U.S. immigration processes are highlighted, with ICE Los Angeles outlining procedures for suspending deportations and USCIS warning against working with expired Employment Authorization Documents. The U.S. is poised to increase beef imports from Argentina, boosting the South American nation's economy. Texas meanwhile faces an ecological crisis due to an invasive wild pig population.\n\nIn the United Kingdom, Labour leader Keir Starmer faces significant internal party challenges amidst fears of electoral defeat to Nigel Farage's ultraright populism. Ukraine's President Zelensky navigates a corruption scandal that has led to the suspension of his Minister of Justice, testing his leadership during wartime. Chile's upcoming elections see officialist candidate Jeannette Jara leading first-round polls but projected to lose a potential runoff, with campaigns closing on themes of public insecurity.\n\nA concerning report from Human Rights Watch alleges torture and sexual violence against Venezuelan migrants sent from the U.S. to El Salvador's \"megacárcel.\" In Concacaf World Cup 2026 qualifiers, Honduras is nearing direct qualification, while Panama's advancement hinges on their match against Guatemala. Additionally, U.S. cities like New York and Chicago are experiencing significant snowfall and extreme cold, with Chicago notably anticipating a \"White Christmas\" and witnessing an aurora borealis.",
+      "cantidad_noticias": 25,
+      "fecha_generacion": "2025-11-12T18:32:59.493164",
       "categoria": "internacional"
     },
     "politica": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-12T12:45:58.562273",
+      "cantidad_noticias": 28,
+      "fecha_generacion": "2025-11-12T18:33:00.025384",
       "categoria": "politica"
     },
     "economia": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-12T12:46:02.045361",
+      "fecha_generacion": "2025-11-12T18:33:01.184552",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-12T12:46:02.045361"
+      "fecha_generacion": "2025-11-12T18:33:01.184848"
     }
   }
 }

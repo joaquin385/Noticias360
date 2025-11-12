@@ -1,23 +1,231 @@
 {
   "fecha": "2025-11-12",
-  "fecha_generacion": "2025-11-12T13:53:08.847877",
+  "fecha_generacion": "2025-11-12T18:37:41.202802",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "pro:_vinculo_con_20251112",
-      "tema": "PRO: Vínculo con LLA y Estrategia Partidaria",
-      "tema_normalizado": "pro: vinculo con lla y estrategia partidaria",
-      "resumen": "📌 **¿Qué está pasando?**\n• El PRO, bajo la presidencia de Mauricio Macri, ha realizado encuentros clave de su Consejo Nacional para definir su estrategia frente al gobierno de La Libertad Avanza (LLA).\n• El partido busca equilibrar el apoyo a las reformas impulsadas por Javier Milei con la necesidad de preservar su identidad y frenar la fuga de dirigentes.\n• Un objetivo central es la construcción de un proyecto presidencial propio y la consolidación del partido de cara a las elecciones de 2027.\n\n🔍 **Datos clave:**\n• **Fecha de reuniones:** Múltiples encuentros del Consejo Nacional del PRO se llevaron a cabo en la sede de Balcarce 412.\n• **Líder del partido:** Mauricio Macri (presidente del PRO).\n• **Dirigentes clave presentes:** Jorge Macri, María Eugenia Vidal, Cristian Ritondo, Soledad Martínez (vicepresidenta), Martín Yeza, entre otros.\n• **Impacto en el bloque legislativo:** El bloque de diputados del PRO se redujo de 37 a aproximadamente 16-18 miembros tras la salida de legisladores hacia LLA.\n• **Figuras pasadas a LLA:** Patricia Bullrich (ministra de Seguridad) y Diego Santilli (ministro del Interior).\n\n⚡ **Desarrollo:**\n• El PRO ha manifestado su apoyo a las reformas propuestas por el gobierno de Javier Milei, especialmente en el ámbito laboral y presupuestario, buscando ser un actor constructivo en el proceso.\n• Sin embargo, esta colaboración se da en un marco de reafirmación constante de su identidad partidaria, buscando mantener la independencia del PRO frente a una posible absorción por LLA.\n• Un desafío importante es la \"fuga\" de legisladores, muchos de ellos referenciados en Patricia Bullrich, que optaron por unirse al bloque de La Libertad Avanza, debilitando la representación parlamentaria del PRO.\n• La propuesta de Mauricio Macri de construir un candidato presidencial propio para 2027 ha generado un intenso debate interno sobre la viabilidad y el momento oportuno para dicha estrategia.\n• Se han registrado momentos de tensión entre Macri y Milei, como el descontento del expresidente por cambios en el Gabinete, aunque también celebró la incorporación de figuras del PRO como Diego Santilli.\n• La estrategia actual busca abroquelar a los legisladores restantes y fortalecer las estructuras del partido a nivel territorial para asegurar su supervivencia y relevancia en el futuro político.\n\n💡 **¿Por qué importa?**\n• La postura y estrategia del PRO son cruciales para la gobernabilidad de La Libertad Avanza, ya que su apoyo en el Congreso es fundamental para la aprobación de leyes y reformas.\n• La definición del PRO impactará directamente en el reacomodamiento del panorama político argentino, determinando la fuerza de la oposición y la configuración de alianzas futuras.",
+      "tema_id": "cotizacion_dolar_argentina_20251112",
+      "tema": "Cotización Dólar Argentina Noviembre",
+      "tema_normalizado": "cotizacion dolar argentina noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El miércoles 12 de noviembre, el dólar oficial mostró una tendencia a la baja, llegando a tocar los $1.400 en el mercado mayorista y cerrando a $1.425 en el Banco Nación para la venta.\n• Esta caída se extendió a otros dólares paralelos como el MEP y el Contado con Liquidación (CCL), mientras que el dólar blue cotizó con leve alza o estabilidad en un rango entre $1.415 (compra) y $1.440 (venta).\n• La estabilidad cambiaria actual se considera frágil, impulsada por factores políticos y financieros transitorios, y genera debate sobre su sostenibilidad a mediano plazo.\n\n🔍 **Datos clave:**\n• **Fecha central:** Miércoles 12 de noviembre (mencionado como 2025 en algunas fuentes).\n• **Dólar Oficial (venta BNA):** $1.425.\n• **Dólar Oficial (promedio BCRA):** $1.444,83.\n• **Dólar Mayorista:** $1.400 - $1.405.\n• **Dólar Blue (venta):** Entre $1.435 y $1.440.\n• **Dólar MEP (venta):** $1.449,51.\n• **Dólar CCL (venta):** $1.475,35.\n• **Dólar Tarjeta:** $1.852,50.\n• **Riesgo País:** 597 puntos básicos, perforando los 600 puntos.\n• **Euro Blue (venta):** $1.604,99 - $1.688,03.\n\n⚡ **Desarrollo:**\n• La baja del dólar oficial, que acumula su sexta caída en siete ruedas, se explica por la victoria electoral de La Libertad Avanza, las promesas de reformas y el apoyo de Estados Unidos.\n• La proximidad anunciada de un acuerdo comercial entre las administraciones de Javier Milei y Donald Trump también influye positivamente en la percepción del mercado.\n• El martes, el volumen de operaciones fue escaso debido a un feriado en Estados Unidos, lo que pudo acentuar algunas de las tendencias.\n• La estabilidad del tipo de cambio se sostiene con medidas transitorias y el ingreso de dólares financieros, pero los expertos advierten sobre posibles tensiones antes de marzo por una caída en la oferta de dólares comerciales.\n• El vicepresidente del BCRA, Vladimir Werning, señaló que las restricciones cambiarias pendientes se eliminarán \"no tardarán\" a medida que avance el programa económico.\n• La definición del \"dólar blue\" es como el tipo de cambio paralelo e informal, con precios acordados entre personas y sin los límites del oficial, siendo un refugio ante la inflación.\n\n💡 **¿Por qué importa?**\n• La evolución del dólar es un termómetro clave de la economía argentina, impactando directamente en la inflación, el poder adquisitivo y las decisiones de inversión.\n• La sostenibilidad de la actual calma cambiaria es crucial para la estabilidad económica y para que el Gobierno pueda avanzar con su programa de reformas y acumulación de reservas, sin generar nuevas presiones devaluatorias.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 12 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-12-de-noviembre-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 15:10:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 12 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-12-noviembre-n6212760",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-12 15:00:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 12 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-12-noviembre-n6212811",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 14:57:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 12 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-12-noviembre-n6212812",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 14:56:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 12 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-12-noviembre-n6212840",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 14:55:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue hoy miércoles 12 de noviembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-miercoles-12-de-noviembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:46:09"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy miércoles 12 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-miercoles-12-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:32:48"
+        },
+        {
+          "titulo": "El dólar oficial anota su sexta baja en siete ruedas y la caída se extiende a los paralelos",
+          "link": "https://www.ambito.com/finanzas/el-dolar-se-alejo-del-techo-la-banda-y-el-tesoro-comienza-comprar-divisas-n6212849",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 13:18:00"
+        },
+        {
+          "titulo": "Cae el dólar: llega a $ 1.420 en algunos bancos y suben bonos y acciones",
+          "link": "https://www.clarin.com/economia/cae-dolar-llega-1420-bancos-suben-bonos-acciones_0_wm9HsQ2vaD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 12:42:22"
+        },
+        {
+          "titulo": "El mercado en alerta: cuáles son los dos meses críticos que definirán el futuro del dólar",
+          "link": "https://www.iprofesional.com/finanzas/441717-dolar-hoy-como-cotizan-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-12 11:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Minuto1",
+        "Perfil",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politicas_economicas_caputo_20251112",
+      "tema": "Políticas Económicas Caputo Argentina",
+      "tema_normalizado": "politicas economicas caputo argentina",
+      "resumen": "📌 **¿Qué está pasando?**\nEl ministro Luis Caputo y funcionarios defienden las políticas económicas actuales, enfocadas en estabilidad cambiaria y reformas. Enfrentan críticas de expertos, como Cavallo, sobre la acumulación de reservas y sostenibilidad del plan.\n\n🔍 **Datos clave:**\n• Tipo de cambio actual: Aproximadamente $1400.\n• Proyección de crecimiento económico: 5-6% para el próximo año.\n• Inversiones anunciadas: US$ 100 mil millones a materializarse en los próximos cuatro años.\n• Reducción propuesta en cargas patronales: 3 puntos porcentuales.\n• Inflación proyectada 2026 (Presupuesto): 10.1-14% interanual.\n\n⚡ **Desarrollo:**\n• Luis Caputo defiende las bandas cambiarias (ajuste del 1% mensual), afirmando su calibración y la no sobrevaluación del tipo de cambio. Justifica la medida por la volatilidad de la demanda de dinero y la inestabilidad política.\n• Domingo Cavallo critica la política cambiaria, calificándola de \"imposible\" sin reservas ni la eliminación del cepo a jurídicas. Propone un sistema bimonetario sin restricciones y duda la capacidad de Caputo para sostener el techo de la banda.\n• Carlos Guberman, Secretario de Hacienda, confirmó el Presupuesto 2026 antes de fin de año, con \"equilibrio fiscal\" innegociable. Resalta la no emisión ni endeudamiento, priorizando asistencia social, seguridad/defensa y desregulación.\n• La reforma laboral, impulsada por Economía, busca bajar tres puntos las cargas patronales (con fondo de cese), aumentar deducciones de Ganancias e incentivar nuevo empleo. Su fin es reducir costos y litigiosidad.\n• Caputo moderó expectativas sobre la reforma tributaria, indicando que eliminar impuestos \"distorsivos\" (Ingresos Brutos, Impuesto al Cheque) es \"muy costoso\" por su alta recaudación, clave para no romper el ancla fiscal.\n• Se espera recuperación económica este trimestre y crecimiento significativo el próximo año. El impacto de grandes inversiones anunciadas se sentirá en \"cuatro años\".\n• Para pago de deuda y reservas, el gobierno evalúa alternativas: swap con China y ayuda de Estados Unidos.\n\n💡 **¿Por qué importa?**\n• Las políticas buscan estabilizar la macroeconomía y crecer a largo plazo. Estrategia cambiaria, acumulación de reservas y reformas laboral/tributaria son cruciales para atraer inversiones, generar empleo y consolidar el equilibrio fiscal.",
+      "cantidad_noticias": 14,
+      "noticias": [
+        {
+          "titulo": "Dólar: Domingo Cavallo advierte que es \"imposible\" estabilizar sin acumular reservas, incluso con el apoyo de EEUU",
+          "link": "https://www.ambito.com/economia/dolar-domingo-cavallo-advierte-que-es-imposible-estabilizar-acumular-reservas-incluso-el-apoyo-eeuu-n6213041",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 14:55:00"
+        },
+        {
+          "titulo": "Por qué Luis Caputo dice que la economía mejorará recién en \"cuatro años\"",
+          "link": "https://noticias.perfil.com/noticias/politica/por-que-luis-caputo-dice-que-la-economia-mejorara-recien-en-cuatro-anos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:53:51"
+        },
+        {
+          "titulo": "Luis Caputo volvió a defender las bandas cambiarias: “No podemos ir de flotar a cepo”",
+          "link": "https://www.lanacion.com.ar/economia/luis-caputo-volvio-a-defender-las-bandas-cambiarias-no-podemos-ir-de-flotar-a-cepo-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 14:51:01"
+        },
+        {
+          "titulo": "Luis Caputo moderó expectativas sobre la reforma tributaria y habló de los cambios laborales",
+          "link": "https://www.iprofesional.com/finanzas/441747-luis-caputo-modero-expectativas-sobre-la-reforma-tributaria-y-laboral-que-dijo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-12 14:50:00"
+        },
+        {
+          "titulo": "Cavallo criticó al Gobierno por el dólar: \"¿Quién le va a creer a Caputo que va asegurar el techo de la banda?\"",
+          "link": "https://www.perfil.com/noticias/economia/cavallo-critico-al-gobierno-por-el-dolar-quien-le-va-a-creer-a-caputo-que-va-asegurar-el-techo-de-la-banda.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:28:00"
+        },
+        {
+          "titulo": "Caputo confirmó que presentará nuevas medidas y el swap con China es una alternativa para pagar deuda",
+          "link": "https://www.clarin.com/economia/caputo-confirmo-presentara-nuevas-medidas-swap-china-alternativa-pagar-deuda_0_gkms2q1a6k.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 14:25:23"
+        },
+        {
+          "titulo": "Luis Caputo explicó por qué el gobierno \"seguirá con el esquema de bandas\" y dio precisiones sobre la reforma laboral",
+          "link": "https://www.perfil.com/noticias/economia/luis-caputo-explico-por-que-el-gobierno-seguira-con-el-esquema-de-bandas-y-dio-precisiones-sobre-la-reforma-laboral-y-tributaria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:17:00"
+        },
+        {
+          "titulo": "Guberman sobre el dólar: “Se acomodó en un nivel más alto del que pensábamos, pero para adelante no vemos saltos”",
+          "link": "https://www.lanacion.com.ar/economia/guberman-sobre-el-dolar-se-acomodo-en-un-nivel-mas-alto-del-que-pensabamos-pero-para-adelante-no-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 13:50:28"
+        },
+        {
+          "titulo": "Luis Caputo suavizó expectativas para la reforma tributaria y ahondó sobre los ejes clave de la laboral",
+          "link": "https://www.ambito.com/economia/luis-caputo-suavizo-expectativas-la-reforma-tributaria-y-anticipo-los-ejes-clave-la-laboral-n6212990",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 13:45:00"
+        },
+        {
+          "titulo": "El Secretario de Hacienda dijo que antes de fin de año se aprobará el presupuesto: \"La única línea que no se cruza es la del equilibrio fiscal\"",
+          "link": "https://www.clarin.com/economia/secretario-hacienda-dijo-fin-ano-aprobara-presupuesto-unica-linea-cruza-equilibrio-fiscal_0_6bl9CJVK6v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 13:28:15"
+        },
+        {
+          "titulo": "Carlos Melconian habló sobre la posibilidad de una dolarización: \"Desorden\"",
+          "link": "https://www.minutouno.com/economia/carlos-melconian-hablo-la-posibilidad-una-dolarizacion-desorden-n6212996",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-12 13:25:00"
+        },
+        {
+          "titulo": "Punto clave de la reforma laboral para terminar con la industria del juicio y bajar cargas sociales",
+          "link": "https://www.iprofesional.com/economia/441678-el-punto-clave-de-la-reforma-laboral-con-la-industria-del-juicio",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-12 13:00:00"
+        },
+        {
+          "titulo": "Malamud: el dólar “de equilibrio” y por qué “no hay antecedentes históricos” de éxito en el plan económico de Milei",
+          "link": "https://www.lanacion.com.ar/economia/malamud-el-dolar-de-equilibrio-y-por-que-no-hay-antecedentes-historicos-de-exito-en-el-plan-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 12:25:06"
+        },
+        {
+          "titulo": "Domingo Cavallo: “Aunque estén Trump y Bessent detrás, acumular reservas es ineludible”",
+          "link": "https://www.clarin.com/economia/domingo-cavallo-trump-bessent-detras-acumular-reservas-ineludible_0_x8kO3AvVM8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 11:58:48"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Minuto1",
+        "Perfil",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "alianzas_y_tensiones_20251112",
+      "tema": "Alianzas y Tensiones PRO-Milei",
+      "tema_normalizado": "alianzas y tensiones pro-milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El PRO, liderado por Mauricio Macri, se reunió este miércoles para definir su postura frente al gobierno de Javier Milei.\n• El partido decidió mantener su independencia parlamentaria y no conformar un interbloque con La Libertad Avanza (LLA), a pesar de apoyar las reformas del Presidente.\n• Esta decisión busca consolidar la identidad del PRO y frenar la fuga de dirigentes y legisladores hacia el espacio libertario.\n\n🔍 **Datos clave:**\n• **Fecha de reunión clave:** Este miércoles (reunión del Consejo Nacional del PRO).\n• **Lugar:** Sede del PRO en Balcarce 412, Ciudad de Buenos Aires.\n• **Bloque PRO en Diputados:** Quedó con 16 miembros tras la salida de al menos ocho diputados a LLA y la renuncia de Diego Santilli.\n• **Próximo objetivo electoral del PRO:** Presentar un candidato presidencial propio en 2027.\n• **Actores principales:** Mauricio Macri, María Eugenia Vidal, Diego Santilli, Patricia Bullrich, Victoria Villarruel, Javier Milei.\n\n⚡ **Desarrollo:**\n• El PRO, aunque ratifica su apoyo a las reformas del gobierno de Milei (incluyendo la laboral), busca diferenciarse y construir una alternativa electoral de cara a 2027.\n• La reunión se convocó tras la significativa fuga de legisladores, especialmente aquellos vinculados a Patricia Bullrich, al bloque de La Libertad Avanza, lo que debilitó la bancada del PRO.\n• Mauricio Macri ha mostrado incomodidad con algunos cambios en el Gabinete de Milei, como la designación de Manuel Adorni, aunque celebró la incorporación de Diego Santilli (PRO) como Ministro del Interior.\n• Las tensiones también se evidencian entre figuras del oficialismo: Victoria Villarruel y Patricia Bullrich, quienes tuvieron un cruce público, se reunirán para limar asperezas antes de la asunción de Bullrich como senadora el 10 de diciembre y su rol como jefa de bloque libertario.\n• Incluso dentro de familias políticas, como la de Diego Santilli, se observa el fenómeno de adhesión a Milei; su hijo Nicanor Santilli Pazos (22 años) ha manifestado público apoyo al Presidente.\n\n💡 **¿Por qué importa?**\n• La postura del PRO es crucial para la gobernabilidad de Javier Milei, quien necesita apoyo legislativo para aprobar leyes clave como el Presupuesto 2026 y sus reformas estructurales.\n• Este escenario redefine el mapa político de la derecha argentina, mostrando la lucha del PRO por mantener su identidad y relevancia frente al avance de La Libertad Avanza.",
       "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Macri reunió al PRO: apoyarán las reformas que impulsa el Gobierno, pero la premisa es mantener la identidad partidaria",
-          "link": "https://www.infobae.com/politica/2025/11/12/macri-reunira-a-los-principales-dirigentes-del-pro-y-se-acelera-la-discusion-sobre-la-relacion-con-lla-y-el-2027/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-12 12:23:03"
+          "titulo": "Mauricio Macri reunió al PRO para definir su vínculo con Milei y ratificaron la independencia parlamentaria",
+          "link": "https://www.perfil.com/noticias/politica/mauricio-macri-encabeza-la-reunion-del-consejo-nacional-del-pro-para-discutir-su-vinculo-con-la-libertad-avanza-lla.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:50:00"
         },
         {
-          "titulo": "El PRO se reunió para analizar su vínculo con La Libertad Avanza: \"Trabajamos para ser alternativa\"",
+          "titulo": "La selfie de Santilli junior con Milei: \"Para adelante Presi\"",
+          "link": "https://noticias.perfil.com/noticias/politica/la-selfie-de-santilli-junior-con-milei-para-adelante-presi.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 13:56:24"
+        },
+        {
+          "titulo": "Con Macri a la cabeza, el Consejo Nacional de Pro se reunió para rediscutir la estrategia hacia LLA y descartó conformar un interbloque",
+          "link": "https://www.lanacion.com.ar/politica/con-macri-a-la-cabeza-el-consejo-nacional-de-pro-se-reune-para-rediscutir-la-estrategia-hacia-lla-y-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 13:34:48"
+        },
+        {
+          "titulo": "Victoria Villarruel y Patricia Bullrich tendrán su primer encuentro tras meses de tensión política",
+          "link": "https://www.ambito.com/politica/victoria-villarruel-y-patricia-bullrich-tendran-su-primer-encuentro-meses-tension-n6213003",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-12 13:12:00"
+        },
+        {
+          "titulo": "Mauricio Macri amotina al PRO para frenar las fugas hacia La Libertad Avanza de Javier Milei",
           "link": "https://www.ambito.com/politica/se-reune-el-consejo-nacional-del-pro-el-objetivo-revisar-la-relacion-la-libertad-avanza-n6212967",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-12 11:48:00"
@@ -27,30 +235,11 @@
           "link": "https://www.clarin.com/politica/senal-macri-interna-gobierno-junto-toda-tropa-pro-frenar-fuga-dirigentes-libertad-avanza_0_eDuVn2eOFl.html",
           "fuente": "Clarín",
           "fecha": "2025-11-12 11:31:09"
-        },
-        {
-          "titulo": "Con Macri a la cabeza, el Consejo Nacional de Pro se reúne para rediscutir la estrategia hacia LLA y evitar nuevas fugas",
-          "link": "https://www.lanacion.com.ar/politica/con-macri-a-la-cabeza-el-consejo-nacional-de-pro-se-reune-para-rediscutir-la-estrategia-hacia-lla-y-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 11:29:41"
-        },
-        {
-          "titulo": "Mauricio Macri encabeza la reunión del Consejo Nacional del PRO para discutir su vínculo con La Libertad Avanza (LLA)",
-          "link": "https://www.perfil.com/noticias/politica/mauricio-macri-encabeza-la-reunion-del-consejo-nacional-del-pro-para-discutir-su-vinculo-con-la-libertad-avanza-lla.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 10:54:34"
-        },
-        {
-          "titulo": "\"Tenemos una identidad, por eso estamos acá\": Ritondo habló del futuro del PRO en la previa de la reunión con Mauricio Macri",
-          "link": "https://www.clarin.com/politica/identidad-aca-ritondo-hablo-futuro-pro-previa-reunion-mauricio-macri_0_eWIkmMYpYc.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 10:07:15"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
-        "Infobae",
         "Perfil",
         "Ámbito Financiero",
         "Clarín",
@@ -62,57 +251,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "diego_santilli:_actividad_20251112",
-      "tema": "Diego Santilli: Actividad Política y Giras",
-      "tema_normalizado": "diego santilli: actividad politica y giras",
-      "resumen": "📌 **¿Qué está pasando?**\n• Diego Santilli asumió como Ministro del Interior y comenzó una intensa actividad, incluyendo giras por las provincias, para lograr apoyo a las reformas y el Presupuesto 2026 del Gobierno nacional.\n• Su gestión se inició con una polémica por el Decreto 793/2025, que inicialmente trasladó el RENAPER y Migraciones al Ministerio de Seguridad, generando disputas internas por competencias.\n• Paralelamente, la Provincia de Buenos Aires, a través de su Ministro de Gobierno Carlos Bianco, le reclamó formalmente fondos y la reactivación de mil obras abandonadas por Nación.\n\n🔍 **Datos clave:**\n• **Diego Santilli:** Nuevo Ministro del Interior del Gobierno nacional.\n• **Decreto 793/2025:** Dispuso inicialmente el traspaso de funciones del Ministerio del Interior a otras carteras.\n• **RENAPER:** Registro Nacional de las Personas, que fue inicialmente trasladado a Seguridad y luego revertido para volver a Interior.\n• **Dirección Nacional de Migraciones:** Competencia que sí fue transferida al Ministerio de Seguridad y permanece allí.\n• **1000 obras:** Proyectos de infraestructura abandonados por el Gobierno nacional en la Provincia de Buenos Aires.\n• **13 billones de pesos:** Estimación de los recortes de fondos que la Provincia de Buenos Aires reclama al Gobierno nacional.\n• **Gira por provincias:** Santilli busca reunirse con 10 de los 20 gobernadores aliados al Gobierno.\n• **Gobernadores visitados:** Rogelio Frigerio (Entre Ríos), Gustavo Sáenz (Salta), Alfredo Cornejo (Mendoza), Rolando Figueroa (Neuquén).\n\n⚡ **Desarrollo:**\n• Santilli debutó en la mesa política y de gabinete un día después de jurar, enfrentando la incertidumbre inicial sobre el alcance exacto de sus atribuciones ministeriales.\n• El traspaso del RENAPER al Ministerio de Seguridad fue calificado como un \"error\" por la Casa Rosada y será rectificado para que el organismo regrese a la órbita de Interior.\n• Sin embargo, la Dirección Nacional de Migraciones permanecerá bajo el control del Ministerio de Seguridad, a cargo de Patricia Bullrich, una decisión consensuada por ambos ministros enfocada en seguridad fronteriza.\n• El ministro bonaerense Carlos Bianco solicitó una reunión a Santilli para discutir la deuda nacional con la provincia por recortes de coparticipación y la paralización de proyectos estratégicos como la Autopista Presidente Perón y el Canal Magdalena.\n• Santilli había expresado previamente que no se reuniría con el gobernador Axel Kicillof por su postura crítica y la no adhesión al Pacto de Mayo y otras leyes impulsadas por el Gobierno nacional.\n• En el marco de la reorganización, la Jefatura de Gabinete, liderada por Manuel Adorni, también asumió competencias clave como la Secretaría de Turismo, Ambiente y Deportes (anteriormente de Daniel Scioli) y el control de los medios públicos.\n• Santilli inició su gira con el objetivo de construir los consensos necesarios para impulsar las reformas del Gobierno y el Presupuesto 2026 en el Congreso.\n\n💡 **¿Por qué importa?**\n• La capacidad de Diego Santilli para tejer acuerdos con las provincias será fundamental para la aprobación de leyes clave como el Presupuesto 2026 y otras reformas del Gobierno, impactando directamente en la gobernabilidad.\n• Las tensiones por la distribución de poder y el reclamo de fondos entre Nación y las provincias, así como las reestructuraciones dentro del oficialismo, reflejan desafíos clave en la gestión política y la asignación de recursos públicos.",
-      "cantidad_noticias": 6,
+      "tema_id": "escandalo_epstein_y_20251112",
+      "tema": "Escándalo Epstein y Donald Trump",
+      "tema_normalizado": "escandalo epstein y donald trump",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se han filtrado correos electrónicos del fallecido delincuente sexual Jeffrey Epstein que vinculan al expresidente Donald Trump con sus actividades.\n• Los mensajes, difundidos por demócratas de la Cámara de Representantes, sugieren que Trump \"pasó horas\" en casa de Epstein con una de sus víctimas y conocía sobre las \"chicas\".\n\n🔍 **Datos clave:**\n• **Jeffrey Epstein:** Delincuente sexual convicto, se suicidó en prisión en 2019.\n• **Ghislaine Maxwell:** Cómplice de Epstein, cumple una condena de 20 años de prisión.\n• **Donald Trump:** Ex-presidente de EE.UU., niega vehementemente cualquier conocimiento o implicación.\n• **Abril de 2011:** Fecha de un correo clave de Epstein a Maxwell sobre Trump y una víctima.\n• **>23.000 documentos:** Lote de correos electrónicos y papeles del que provienen estas filtraciones.\n\n⚡ **Desarrollo:**\n• El primer correo, de abril de 2011, de Epstein a Ghislaine Maxwell, describe a Trump como \"el perro que no ha ladrado\". Afirma que una víctima \"pasó horas en mi casa con él\" y que \"él no ha sido mencionado ni una sola vez\".\n• Otro intercambio de diciembre de 2015 entre Epstein y el periodista Michael Wolff revela una conversación sobre cómo Trump debería manejar preguntas sobre su relación. Wolff sugirió que Trump se \"ahorcara solo\" para obtener ventaja política o de relaciones públicas si negaba su presencia en el avión o la casa.\n• Un tercer mail de enero de 2019, meses antes de su muerte, muestra a Epstein sugiriendo a Wolff que Trump \"por supuesto que sabía sobre las chicas\" y que incluso le había dicho a Ghislaine \"que parara\".\n• Donald Trump ha negado consistentemente cualquier implicación o conocimiento de las actividades de Epstein, afirmando no haber hablado con él en años. La Casa Blanca acusó a los demócratas de filtrar selectivamente los mails para crear una narrativa falsa y difamar al ex-presidente.\n\n💡 **¿Por qué importa?**\n• La difusión de estos correos reaviva el debate sobre el posible conocimiento o implicación de figuras públicas en la red de tráfico sexual de Epstein.\n• Subraya la continua controversia en torno a Epstein y sus asociados, manteniendo la presión sobre la rendición de cuentas para todos los involucrados.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "La Provincia de Buenos Aires le reclama a Diego Santilli fondos para obras abandonadas por el Gobierno",
-          "link": "https://www.minutouno.com/politica/la-provincia-buenos-aires-le-reclama-diego-santilli-fondos-obras-abandonadas-el-gobierno-n6212952",
+          "titulo": "Filtran mail de Jeffrey Epstein en el que asegura que Donald Trump \"pasó horas\" en su casa con una víctima",
+          "link": "https://www.minutouno.com/mundo/filtran-mail-jeffrey-epstein-el-que-asegura-que-donald-trump-paso-horas-su-casa-una-victima-n6212993",
           "fuente": "Minuto1",
-          "fecha": "2025-11-12 12:30:57"
+          "fecha": "2025-11-12 12:50:00"
         },
         {
-          "titulo": "Santilli debutó en la mesa política y el gabinete, aunque sus funciones siguen recortadas",
-          "link": "https://www.lanacion.com.ar/politica/santilli-debuta-en-la-mesa-politica-y-el-gabinete-aunque-sus-funciones-siguen-recortadas-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 11:40:17"
-        },
-        {
-          "titulo": "Kicillof presiona para reclamar fondos y obras para la Provincia: su mano derecha le pide una reunión a Santilli",
-          "link": "https://www.clarin.com/politica/kicillof-presiona-reclamar-fondos-obras-provincia-mano-derecha-pide-reunion-santilli_0_ld8HdRiRG1.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 10:26:36"
-        },
-        {
-          "titulo": "Diego Santilli y Patricia Bullrich se disputan el RENAPER",
-          "link": "https://www.minutouno.com/politica/diego-santilli-y-patricia-bullrich-se-disputan-el-renaper-n6212878",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 10:05:00"
-        },
-        {
-          "titulo": "Diego Santilli suma gobernadores a su gira y completa su equipo en el Ministerio del Interior",
-          "link": "https://www.ambito.com/politica/diego-santilli-suma-gobernadores-su-gira-y-completa-su-equipo-el-ministerio-del-interior-n6212850",
+          "titulo": "Escándalo en EEUU: Donald Trump \"pasó horas\" con una de las víctimas de Jeffrey Epstein, según un mail",
+          "link": "https://www.ambito.com/mundo/escandalo-eeuu-donald-trump-paso-horas-una-las-victimas-jeffrey-epstein-segun-un-mail-n6212949",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 09:52:00"
+          "fecha": "2025-11-12 11:31:00"
         },
         {
-          "titulo": "Diego Santilli sale de gira por las provincias y visita al gobernador de Entre Ríos, Rogelio Frigerio",
-          "link": "https://www.perfil.com/noticias/politica/diego-santilli-sale-de-gira-por-las-provincias-y-visita-al-gobernador-de-entre-rios-rogelio-frigerio.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 09:19:09"
+          "titulo": "Revelan correos que afirman que \"Trump estuvo horas en la casa\" de Epstein con una de las víctimas de tráfico sexual",
+          "link": "https://www.clarin.com/mundo/revelan-correos-afirman-trump-horas-casa-epstein-victimas-trafico-sexual_0_tGzl6906W6.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 11:27:26"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
-        "Perfil",
         "Ámbito Financiero",
         "Clarín",
-        "Minuto1",
-        "La Nación"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -120,50 +289,44 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina:_inflacion_octubre_20251112",
-      "tema": "Argentina: Inflación Octubre y Proyecciones 2025",
-      "tema_normalizado": "argentina: inflacion octubre y proyecciones 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina enfrenta un persistente desafío inflacionario, con las estimaciones de consultoras proyectando que la inflación de octubre del año actual se ubicará entre el 2% y el 2.4% mensual.\n• El dato oficial del Instituto Nacional de Estadística y Censos (INDEC) para octubre es muy esperado, después de que la inflación de septiembre se registrara en un 2.1%.\n• Además, las primeras proyecciones para noviembre son preocupantes, indicando un inicio de mes \"caliente\" con estimaciones que elevan la inflación de este mes a alrededor del 2.5%.\n\n🔍 **Datos clave:**\n• **Inflación Octubre (proyectada):** Entre 2.0% (C&T, PxQ) y 2.4% (Libertad y Progreso, Eco Go).\n• **Inflación Octubre (BCRA REM):** Expectativa del 2.2% mensual.\n• **Inflación Septiembre (oficial):** 2.1%.\n• **Inflación Noviembre (estimación Eco Go):** 2.5%, con la carne subiendo un 13-18% en la primera quincena.\n• **Inflación Acumulada (10 meses):** 24.9% (Libertad y Progreso) a 25.3% (CABA).\n• **Inflación Interanual Actual:** 31.4% (Libertad y Progreso) a 33.6% (CABA).\n• **Proyección Inflación Interanual 2025:** 29.6% (consenso de consultoras y bancos, según BCRA REM).\n\n⚡ **Desarrollo:**\n• En octubre, los principales impulsores de la inflación incluyeron bienes y servicios varios (aumento en cigarrillos y artículos de tocador), indumentaria y esparcimiento, que mostró alzas en paquetes turísticos.\n• El rubro de alimentos y bebidas también tuvo un fuerte impacto, con incrementos destacados en lácteos, huevos, panificados y, sobre todo, la carne, que recuperó parte de su valor tras meses de abaratamiento.\n• La política del Gobierno de aplicar fuertes subas de tasas antes de las elecciones, si bien buscó contener la volatilidad, derivó en una caída del nivel de actividad económica, lo que podría demorar la recuperación.\n• Economistas como Fausto Spotorno, de OJF & Asociados, proyectan que la tendencia bajista de la inflación se retomará en 2025, pero enfatizan que reducirla desde los niveles actuales es un desafío mayor.\n• Este proceso se complica por la necesidad del Gobierno de flexibilizar la política monetaria y acumular reservas, sin generar un aumento en la oferta de pesos que impulse los precios.\n\n💡 **¿Por qué importa?**\n• La persistencia de una inflación mensual por encima del 2% subraya la complejidad de la situación económica argentina y la dificultad para estabilizar los precios.\n• Las proyecciones para 2025, si bien anticipan una desaceleración interanual por debajo del 30%, muestran que la lucha contra la inflación seguirá siendo un eje central para la estabilidad del país y la recuperación de la actividad.",
-      "cantidad_noticias": 5,
+      "tema_id": "relaciones_comerciales_argentina-eeuu_20251112",
+      "tema": "Relaciones Comerciales Argentina-EEUU",
+      "tema_normalizado": "relaciones comerciales argentina-eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• El canciller argentino Pablo Quirno realizó su primera gira oficial a Washington D.C. para fortalecer los vínculos comerciales y políticos con Estados Unidos.\n• El objetivo principal fue avanzar en la definición de un acuerdo comercial bilateral, que incluye un aumento significativo en las exportaciones de carne vacuna argentina.\n\n🔍 **Datos clave:**\n• **Funcionarios argentinos presentes:** Pablo Quirno (Canciller), Pablo Lavigne (Sec. Coordinación Producción), Luis Kreckler (Sec. Relaciones Económicas Internacionales), Carolina Cuenca (Subsecretaria Comercio Exterior), Agustín Tejada Rodríguez (Subsecretario Mercados agroalimentarios).\n• **Funcionarios estadounidenses clave:** Jamieson Lee Greer (Representante Comercial) y Marco Rubio (Secretario de Estado).\n• **Exportación de carne vacuna:** Se prevé cuadruplicar la cuota de exportación de Argentina a EE. UU., pasando de 20.000 a 80.000 toneladas.\n• **Beneficio económico estimado:** Las 60.000 toneladas adicionales de carne implicarían un beneficio neto de unos USD 120 millones para Argentina, gracias a un ahorro arancelario del 26,4%.\n• **Contenido del acuerdo:** Un pacto arancelario recíproco que ofrecería posiciones preferenciales para cerca de 100 ítems estratégicos, eximiéndolos de barreras de entrada.\n\n⚡ **Desarrollo:**\n• La agenda de Quirno, en su debut como canciller en Washington, incluyó encuentros con líderes del sector privado en el Meridian International Center y la U.S. Chamber of Commerce para promover inversiones.\n• Se mantuvo una reunión crucial con el Representante Comercial Jamieson Greer, funcionario clave en las negociaciones, las cuales se llevan a cabo bajo un estricto Acuerdo de Confidencialidad.\n• Un momento central de la visita fue el encuentro con el Secretario de Estado Marco Rubio, para consolidar la alianza y recalibrar la estrategia de colaboración entre ambos países.\n• Este acuerdo, negociado durante meses, busca facilitar el acceso a mercados y promover las exportaciones argentinas, más allá del sector cárnico.\n• El consultor ganadero Víctor Tonelli señaló que, aunque el beneficio de la carne es considerable, el acuerdo comercial es mucho más amplio y estratégico para la economía argentina.\n• A pesar de que el pacto está \"prácticamente terminado\", su anuncio oficial se mantiene a la espera de un momento oportuno.\n\n💡 **¿Por qué importa?**\n• La gira de alto nivel refuerza la relación diplomática y económica entre Argentina y Estados Unidos, marcando una etapa de cooperación renovada.\n• El inminente acuerdo comercial y el aumento de las exportaciones, especialmente de carne, representan una oportunidad significativa para el ingreso de divisas y el fortalecimiento de sectores productivos clave en Argentina.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Inflación de octubre: cuál es el IPC acumulado y qué proyectan las consultoras para el 2025",
-          "link": "https://www.lanacion.com.ar/economia/inflacion-de-octubre-cual-es-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-el-2025-nid12112025/",
+          "titulo": "En su primera gira al exterior, Quirno se encuentra con Marco Rubio para ratificar la alianza entre EEUU y Argentina",
+          "link": "https://www.infobae.com/economia/2025/11/12/en-su-primera-gira-al-exterior-quirno-se-encuentra-con-marco-rubio-para-ratificar-la-alianza-entre-eeuu-y-argentina/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-12 15:19:28"
+        },
+        {
+          "titulo": "Pablo Quirno llegó a Washington en medio de la expectativa por el acuerdo comercial con EE.UU.",
+          "link": "https://www.lanacion.com.ar/politica/pablo-quirno-llega-a-washington-en-medio-de-la-expectativa-por-el-acuerdo-comercial-con-eeuu-nid12112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-12 11:45:08"
+          "fecha": "2025-11-12 13:48:37"
         },
         {
-          "titulo": "La inflación de noviembre arrancó caliente y consultoras estiman que estará en el \"top 3\" del año",
-          "link": "https://www.iprofesional.com/economia/441682-por-que-noviembre-puede-convertirse-en-el-mes-de-mayor-inflacion-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-12 11:00:00"
-        },
-        {
-          "titulo": "Hoy se conoce la inflación de octubre: cuál es el pronóstico de las consultoras",
-          "link": "https://www.lanacion.com.ar/economia/hoy-se-conoce-la-inflacion-de-octubre-cual-es-el-pronostico-de-las-consultoras-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 10:16:50"
-        },
-        {
-          "titulo": "¿A qué hora sale HOY la inflación de octubre 2025? De cuánto será y todo sobre el dato del INDEC este miércoles 12 de noviembre",
-          "link": "https://www.clarin.com/economia/inflacion-octubre-2025-hora-publicara-dato-indec_0_EnizST5MZn.html",
+          "titulo": "Quirno debuta como canciller en Washington y busca acelerar el acuerdo comercial",
+          "link": "https://www.clarin.com/economia/quirno-debuta-canciller-washington-busca-acelerar-acuerdo-comercial_0_8DV3vszXyV.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-12 09:12:00"
+          "fecha": "2025-11-12 13:03:04"
         },
         {
-          "titulo": "Indec publica este miércoles la inflación de octubre de 2025, que estaría otra vez por encima del 2%",
-          "link": "https://www.perfil.com/noticias/economia/indec-publica-hoy-la-inflacion-de-octubre-que-habria-vuelto-a-estar-por-encima-del-2.phtml",
+          "titulo": "Estados Unidos importaría más carne vacuna de Argentina: “Serán unos USD 120 millones de beneficio neto”",
+          "link": "https://www.perfil.com/noticias/canal-e/estados-unidos-importaria-mas-carne-vacuna-de-argentina-estamos-hablando-de-unos-usd-120-millones-de-beneficio-neto.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-12 08:31:00"
+          "fecha": "2025-11-12 12:57:57"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
+        "Perfil",
         "Clarín",
-        "iProfesional",
         "La Nación",
-        "Perfil"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -171,49 +334,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "gobierno_milei:_medidas_20251112",
-      "tema": "Gobierno Milei: Medidas y Articulación Política",
-      "tema_normalizado": "gobierno milei: medidas y articulacion politica",
-      "resumen": "📌 **¿Qué está pasando?**\n* El Gobierno de Javier Milei está en plena definición de su agenda, enfrentando desafíos tanto en la implementación de medidas económicas como en su articulación política interna y externa.\n* Se observan reestructuraciones en el gabinete y esfuerzos por coordinar la toma de decisiones, mientras se busca avanzar en iniciativas legislativas clave.\n* Además, existen tensiones con gobiernos provinciales por recursos y una postura particular del Presidente frente a la integración regional.\n\n🔍 **Datos clave:**\n* **15% del PBI:** Representa la deuda privada en Argentina, una cifra significativamente baja comparada con el 130% de Chile o el 80% de Brasil.\n* **20 de diciembre:** Fecha estimada para la cumbre del Mercosur en Río de Janeiro, a la que el presidente Milei avisó que no tiene intención de asistir.\n* **$13 billones:** Monto que la provincia de Buenos Aires acusa como recortes de fondos por parte del Gobierno nacional, exigiendo su liberación.\n* **9:30 AM:** Hora programada para la primera reunión formal de la mesa política libertaria.\n* **10:30 AM:** Hora en que Javier Milei encabezaría una reunión ampliada de Gabinete.\n* **80 días:** Periodo que el destructor ARA \"La Argentina\" pasó participando del ejercicio UNITAS (del 15 de septiembre al 6 de octubre).\n\n⚡ **Desarrollo:**\n* El Gobierno busca estabilizar la macroeconomía y reactivar el crédito privado, actualmente muy limitado en Argentina con plazos cortos, de aproximadamente 18 meses.\n* Se creó una \"mesa política\" clave para la toma de decisiones, integrada por figuras como Karina Milei, Manuel Adorni, Diego Santilli, Patricia Bullrich, Martín Menem y Santiago Caputo.\n* Una controversia reciente fue el traspaso y posterior anulación del traslado del Registro Nacional de las Personas (Renaper) del Ministerio del Interior al de Seguridad, evidenciando fricciones internas.\n* La provincia de Buenos Aires, a través de su ministro Carlos Bianco, ha exigido al Ministro del Interior, Diego Santilli, la liberación de fondos y la reanudación de mil obras públicas abandonadas por la Nación.\n* La posible ausencia de Milei en la cumbre del Mercosur en Brasil marca una distancia con la integración regional, generando dudas sobre las relaciones con líderes como Lula y la Unión Europea.\n* El Ejecutivo acelera los contactos con gobernadores para lograr la aprobación del Presupuesto y se mantiene expectante ante los nuevos datos de inflación.\n\n💡 **¿Por qué importa?**\n* Las medidas económicas impactan directamente en la capacidad de crecimiento del país y el acceso al crédito para ciudadanos y empresas.\n* La articulación política interna y el diálogo con las provincias son fundamentales para la gobernabilidad y la implementación efectiva de las políticas nacionales.\n* La postura internacional del gobierno define las relaciones diplomáticas y el posicionamiento de Argentina en el escenario regional y global.",
-      "cantidad_noticias": 5,
+      "tema_id": "grandes_inversiones_petroleras_20251112",
+      "tema": "Grandes Inversiones Petroleras Argentina",
+      "tema_normalizado": "grandes inversiones petroleras argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La empresa petrolera Vista Energy, fundada por Miguel Galuccio, anunció una ambiciosa inversión de US$4.500 millones en los próximos tres años en Argentina.\n• Este plan busca aumentar su producción de petróleo y gas en un 60%, con el objetivo de alcanzar los 180.000 barriles diarios equivalentes (boe/d) para 2028.\n• La compañía, que opera principalmente en Vaca Muerta, busca consolidarse como el segundo mayor productor y principal exportador de crudo del país.\n\n🔍 **Datos clave:**\n• **Inversión futura (2025-2028):** US$4.500 millones.\n• **Inversión acumulada desde 2017:** Más de US$6.000 millones.\n• **Producción actual:** 110.000 barriles diarios de petróleo (127.000 boe/d incluyendo gas).\n• **Meta de producción (2028):** 180.000 boe/d.\n• **Meta de producción (2030):** 200.000 boe/d.\n• **Exportaciones actuales:** 70.000-75.000 barriles diarios de crudo.\n• **Ingresos por exportaciones proyectados (próximos 3 años):** US$8.000 millones.\n• **Flujo de caja libre proyectado (2026-2028):** US$1.500 millones por año.\n• **EBITDA ajustado proyectado (2028):** US$2.800 millones.\n• **Costo de extracción:** US$4,4 por barril.\n• **CEO:** Miguel Galuccio.\n• **Ubicación principal:** Vaca Muerta.\n\n⚡ **Desarrollo:**\n• Vista Energy ha escalado rápidamente desde su fundación en 2017, consolidándose como el principal productor independiente y el mayor exportador de petróleo de Argentina.\n• La inversión se centra en la formación no convencional de Vaca Muerta, donde la compañía ha logrado mantener costos de extracción bajos y eficientes.\n• Desde su primer plan estratégico en 2021, Vista triplicó su producción y cuadruplicó su EBITDA ajustado, lo que demuestra un crecimiento sostenido y un modelo de gestión exitoso.\n• La compañía presentó su plan estratégico ante la comunidad financiera internacional, atrayendo el interés de grandes entidades globales.\n• La estrategia de crecimiento de Vista se apoya en su eficiencia operativa y en una cultura de alto desempeño, que Galuccio destaca como clave para liderar el desarrollo en Vaca Muerta.\n• La proyección de un elevado flujo de caja libre permitirá sostener el crecimiento, fortalecer la estructura financiera y mantener la capacidad de inversión a largo plazo.\n\n💡 **¿Por qué importa?**\n• Las grandes inversiones como la de Vista Energy son cruciales para el desarrollo y aprovechamiento del potencial de Vaca Muerta, una de las reservas de hidrocarburos no convencionales más importantes del mundo.\n• Estas inversiones no solo impulsan la producción energética del país, sino que también generan importantes ingresos por exportaciones, contribuyendo a la entrada de divisas y al crecimiento económico de Argentina.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid12112025/",
+          "titulo": "La petrolera de Galuccio invertirá US$4500 millones en los próximos tres años",
+          "link": "https://www.lanacion.com.ar/economia/la-petrolera-de-galuccio-invertira-us4500-millones-en-los-proximos-tres-anos-nid12112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-12 12:08:20"
+          "fecha": "2025-11-12 14:43:42"
         },
         {
-          "titulo": "Crecen las dudas sobre la presencia de Milei en la cumbre del Mercosur en Brasil",
-          "link": "https://www.clarin.com/politica/crecen-dudas-presencia-milei-cumbre-mercosur-brasil_0_YxxSMAbd9j.html",
+          "titulo": "La petrolera de Miguel Galuccio anunció inversiones por US$ 4.500 millones y promete ser \"una máquina\" de generar caja",
+          "link": "https://www.clarin.com/economia/petrolera-miguel-galuccio-anuncio-inversiones-us-4500-millones-promete-maquina-generar-caja_0_aBHh0auzDq.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-12 11:25:33"
+          "fecha": "2025-11-12 13:39:07"
         },
         {
-          "titulo": "Javier Milei reúne a su Gabinete en Casa Rosada y reactica la mesa política del Gobierno",
-          "link": "https://www.ambito.com/politica/javier-milei-reune-su-gabinete-casa-rosada-y-pone-marcha-la-mesa-del-gobierno-n6212890",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 09:38:00"
-        },
-        {
-          "titulo": "La provincia de Buenos Aires exigió al gobierno de Javier Milei que libere fondos y el traspaso de obras",
-          "link": "https://www.ambito.com/politica/la-provincia-buenos-aires-exigio-al-gobierno-javier-milei-que-libere-fondos-y-el-traspaso-obras-n6212863",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 08:51:00"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno acelera los contactos con gobernadores para aprobar el Presupuesto y espera el nuevo dato de inflación",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-sigue-reuniones-gobernadores-impulsar-presupuesto-espera-nuevo-dato-inflacion_0_H6kKIX1ybD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 08:40:02"
+          "titulo": "Vista Energy invertirá más de 4.500 millones de dólares en Vaca Muerta",
+          "link": "https://www.perfil.com/noticias/economia/vista-energy-invertira-mas-de-4500-millones-de-dolares-en-vaca-muerta.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 13:15:42"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
+        "Perfil",
         "Clarín",
-        "La Nación",
-        "Ámbito Financiero"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -221,11 +372,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "pichetto:_arancel_a_20251112",
-      "tema": "Pichetto: Arancel a Plataformas Chinas",
-      "tema_normalizado": "pichetto: arancel a plataformas chinas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El diputado Miguel Ángel Pichetto anunció hoy la presentación de un proyecto de ley para imponer un arancel del 30% a los productos que ingresan a la Argentina a través de plataformas de comercio electrónico extranjeras.\n• La iniciativa, que abarca a Shein, Temu y Amazon, busca proteger la industria y el empleo nacional frente a la \"competencia desleal\" de estas plataformas.\n\n🔍 **Datos clave:**\n• **Arancel propuesto:** 30% sobre todas las mercaderías que ingresen al país mediante el régimen de \"courier\" o correo privado.\n• **Alcance:** Aplica a productos extranjeros sin importar su valor declarado, compitiendo de manera \"desleal\".\n• **Exenciones:** No habrá mínimo no imponible, a diferencia de las normativas aduaneras actuales.\n• **Límite anual:** Se permitirá solo una compra de hasta US$100 por persona durante el transcurso de un año, como única excepción.\n• **Justificación principal:** Combatir el \"dumping\", la \"sustitución de mano de obra argentina por china\" y la llegada de productos de baja calidad.\n• **Sector más afectado:** La industria textil argentina, impactada de manera \"demoledora\" por la importación masiva a bajo costo.\n• **Precedente:** Estados Unidos, donde Donald Trump implementó una regulación similar con un arancel del 16%.\n• **Estado del proyecto:** El 30% es un punto de partida, abierto a discusión y modificación en las comisiones del Congreso.\n\n⚡ **Desarrollo:**\n• Pichetto, presidente del bloque de Encuentro Federal, formalizó hoy su intención de llevar al Congreso esta propuesta regulatoria en medio del auge de compras en plataformas chinas.\n• El diputado argumenta que estas multinacionales, especialmente las asiáticas, emplean una estrategia de \"dumping\" para dominar el mercado, bajando precios con productos de baja calidad y \"destruyendo toda la producción nacional\" al saltear al industrial y comerciante argentino.\n• Enfatiza que esto conlleva una \"sustitución de la mano de obra argentina\" por la china, cuyos costos laborales son significativamente inferiores, permitiendo que los productos lleguen al país rápidamente vía correo privado.\n• A diferencia de las normativas aduaneras actuales que permiten un mínimo no imponible, su proyecto elimina estas exenciones, estableciendo únicamente la posibilidad de una compra anual de hasta US$100 por persona.\n• Para justificar la medida, Pichetto mencionó el precedente de EE. UU., donde el expresidente Donald Trump implementó una regulación similar del 16% que es \"admirada\" por el actual gobierno argentino.\n• La propuesta surge tras un reciente cruce público de Pichetto con Marcos Galperín (Mercado Libre), donde el diputado advirtió sobre el avance de las plataformas chinas y su impacto en el negocio local y la pérdida de empleos en distribución.\n\n💡 **¿Por qué importa?**\n• Representa un esfuerzo significativo para proteger la industria nacional, las PyMEs y el empleo argentino, especialmente en sectores vulnerables como el textil, ante la competencia global.\n• Propone un cambio sustancial en la regulación del comercio electrónico transfronterizo, buscando equilibrar el juego económico y redefinir las reglas para el ingreso de productos.\n• Podría impactar directamente en los hábitos de consumo de los argentinos y en la cadena de valor del comercio local.",
-      "cantidad_noticias": 4,
+      "tema_id": "propuesta_arancel_plataformas_20251112",
+      "tema": "Propuesta Arancel Plataformas Chinas",
+      "tema_normalizado": "propuesta arancel plataformas chinas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El diputado nacional Miguel Ángel Pichetto anunció un proyecto de ley para imponer un arancel del 30% a los productos que se compran a través de plataformas chinas y otras extranjeras.\n• La medida busca proteger la industria nacional y el empleo argentino, combatiendo lo que se describe como una \"competencia desleal\" y la sustitución de mano de obra local.\n\n🔍 **Datos clave:**\n• **Promotor:** Diputado Nacional Miguel Ángel Pichetto, presidente del bloque de Encuentro Federal.\n• **Arancel propuesto:** 30% sobre todas las mercaderías ingresadas por plataformas extranjeras.\n• **Mecanismo:** El Estado argentino realizaría una retención sobre los productos que ingresen vía courier o correo privado.\n• **Exenciones:** No habrá mínimos no imponibles, salvo una única compra anual de hasta US$100 por persona.\n• **Precedente internacional:** En Estados Unidos, Donald Trump implementó un arancel del 16% para productos ingresados por plataformas.\n\n⚡ **Desarrollo:**\n• La propuesta busca contrarrestar la \"competencia desleal\" que ejercen estas plataformas, las cuales, según Pichetto, dominan el mercado ofreciendo productos a bajos precios y de baja calidad.\n• Se argumenta que la operatoria de estas plataformas conlleva la \"sustitución de la mano de obra\" argentina por la china, afectando directamente a la producción nacional y el comercio local.\n• El diputado mencionó explícitamente a Shein, Temu y Amazon como ejemplos de plataformas extranjeras que impactan negativamente en la economía argentina al saltear industriales y comerciantes.\n• El sector textil es señalado como uno de los más golpeados, recibiendo un impacto \"demoledor\" por la importación masiva de prendas a bajo costo.\n• La iniciativa prevé que el 30% de arancel sea un punto de partida para el debate en el Congreso, buscando \"equilibrar el juego\" dada la modalidad de trabajo con costos inferiores de los chinos.\n\n💡 **¿Por qué importa?**\n• Esta propuesta podría elevar significativamente el costo de los productos importados por plataformas, afectando el bolsillo de los consumidores y su acceso a bienes más económicos.\n• Su implementación busca fortalecer la producción local y el empleo, intentando resguardar a empresarios y pymes argentinas frente a la expansión de estas multinacionales.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
           "titulo": "Pichetto presentará un proyecto de ley para ponerles un arancel del 30% a las plataformas chinas",
@@ -244,65 +395,14 @@
           "link": "https://www.minutouno.com/economia/pichetto-anuncio-un-proyecto-arancelar-la-importacion-productos-via-shein-temu-y-otras-plataformas-n6212914",
           "fuente": "Minuto1",
           "fecha": "2025-11-12 11:13:23"
-        },
-        {
-          "titulo": "Tras la pelea con Galperin, Pichetto anunció que impulsará un proyecto para arancelar los productos de Shein y Temu",
-          "link": "https://www.clarin.com/politica/pelea-galperin-pichetto-anuncio-impulsara-proyecto-arancelar-productos-shein-temu_0_Yh400OKZ8b.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 10:00:51"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
-        "Clarín",
+        "Ámbito Financiero",
         "La Nación",
-        "Minuto1",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": false,
-      "es_tema_recurrente": true,
-      "dias_activo": 2,
-      "tendencia": "estable"
-    },
-    {
-      "tema_id": "fintech_argentina:_credito_20251112",
-      "tema": "Fintech Argentina: Crédito y Regulación BCRA",
-      "tema_normalizado": "fintech argentina: credito y regulacion bcra",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Banco Central de la República Argentina (BCRA) anunció medidas clave para reactivar el crédito digital y potenciar el sector Fintech.\n• La principal novedad es la rehabilitación del débito directo para el cobro de cuotas de préstamos, una herramienta fundamental que había sido desactivada en 2020.\n• Estos anuncios se dieron en el marco del Argentina Fintech Forum, destacando la \"convergencia\" entre bancos, fintechs y reguladores para construir un sistema financiero más inclusivo.\n\n🔍 **Datos clave:**\n• **Evento:** Argentina Fintech Forum, donde la Cámara Argentina Fintech celebró 8 años con más de 900 empresas.\n• **Funcionarios BCRA:** Vladimir Werning (Vicepresidente), Pedro Inchauspe (Director) y Juan Curutchet (Superintendente de Entidades Financieras y Cambiarias).\n• **Herramienta clave:** Débito directo (antes DEBIN), que fue prohibido para préstamos en febrero de 2020 y se espera su vuelta \"dentro del próximo mes\" con un nuevo nombre y regulación.\n• **Crédito en Argentina:** Representa solo el 15% del PBI, muy por debajo de Chile (130%) o Brasil (80%).\n• **Open Finance:** El BCRA inició su implementación este año y se proyecta su pleno funcionamiento para 2026 o 2027.\n• **Impacto Fintech:** Una de cada cuatro personas en Argentina obtiene un crédito a través de una fintech.\n\n⚡ **Desarrollo:**\n• El presidente de la Cámara Fintech, Mario López, subrayó tres desafíos cruciales para el sector: construir negocios sustentables, lograr un equilibrio entre regulación e innovación y fortalecer la protección y confianza del usuario.\n• Vladimir Werning adelantó que el BCRA eliminará pronto las restricciones cambiarias restantes, buscando mayor libertad financiera.\n• Pedro Inchauspe confirmó la rehabilitación del débito directo para préstamos, explicando que la medida busca ampliar el acceso al crédito e impulsar la inclusión financiera.\n• Juan Curutchet anunció la creación de una base de datos unificada entre bancos y billeteras virtuales, utilizando información de COELSA, para prevenir fraudes con alertas tempranas.\n• La prohibición del DEBIN en 2020, motivada por la protección de beneficiarios de planes sociales, impactó negativamente al crédito fintech, aumentando la morosidad y reduciendo el financiamiento extrabancario.\n• Las Finanzas Abiertas (Open Finance) buscan devolver a los usuarios el control de sus datos financieros para que, con consentimiento, puedan compartirlos y acceder a mejores ofertas de crédito y servicios, mejorando la competencia.\n\n💡 **¿Por qué importa?**\n• Estas decisiones son fundamentales para revitalizar el crédito digital en Argentina, ampliando el acceso al financiamiento para un mayor número de personas y fomentando la inclusión financiera.\n• El regreso de herramientas de cobro eficientes y el desarrollo de Open Finance no solo modernizarán el sistema financiero, sino que también mejorarán la operatividad de las fintechs y la confianza de los usuarios.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "El futuro de las fintech: \"guiños\" de los reguladores, apuesta al crédito y críticas a la presión fiscal",
-          "link": "https://www.ambito.com/finanzas/el-futuro-las-fintech-guinos-los-reguladores-apuesta-al-credito-y-criticas-la-presion-fiscal-n6212719",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 12:14:00"
-        },
-        {
-          "titulo": "Crédito fintech: el BCRA autorizará la vuelta del débito directo de cuotas",
-          "link": "https://www.iprofesional.com/finanzas/441723-credito-fintech-el-bcra-autorizara-la-vuelta-del-debito-directo-de-cuotas",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-12 10:39:00"
-        },
-        {
-          "titulo": "“Prestar más y mejor”: cómo funciona el Open Finance, la herramienta que impulsa el BCRA y busca revivir el crédito",
-          "link": "https://www.lanacion.com.ar/economia/prestar-mas-y-mejor-como-funciona-el-open-finance-la-herramienta-que-impulsa-el-bcra-y-busca-revivir-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 10:18:51"
-        },
-        {
-          "titulo": "Clave para las fintechs: el BCRA reactivará un sistema para el cobro de créditos digitales",
-          "link": "https://www.ambito.com/economia/clave-las-fintechs-el-bcra-reactivara-un-sistema-el-cobro-creditos-digitales-n6212858",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 09:03:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-12",
-      "fuentes": [
-        "iProfesional",
-        "La Nación",
-        "Ámbito Financiero"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -310,36 +410,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "judiciales:_financiamiento_politico_20251112",
-      "tema": "Judiciales: Financiamiento Político y Corrupción",
-      "tema_normalizado": "judiciales: financiamiento politico y corrupcion",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara Federal de Casación Penal avaló la actuación de los jueces electorales en una causa que investiga el financiamiento de la campaña de Cambiemos Buenos Aires en 2017, rechazando una recusación.\n• Paralelamente, la Causa Cuadernos enfrenta presión de la Casación y el Consejo de la Magistratura para acelerar su juicio y realizarlo de forma presencial, debido a demoras en el proceso.\n\n🔍 **Datos clave:**\n• **2017:** Año de las elecciones en Buenos Aires bajo investigación por financiamiento de campaña (Cambiemos Buenos Aires).\n• **Causa Cuadernos:** Juicio oral donde se citó a tres jueces (Enrique Méndez Signori, Germán Castelli y Fernando Canero) para evaluar medidas de aceleración.\n• **Cinco años:** Plazo que podría extenderse el juicio de Causa Cuadernos bajo el esquema actual de audiencias.\n• **Jueces de Casación:** Mariano Borinsky, Juan Carlos Gemignani (Caso Cambiemos); Daniel Petrone (presidente, Causa Cuadernos).\n• **Consejero de la Magistratura:** Alberto Maques, quien sugirió presencialidad para el debate oral de la Causa Cuadernos.\n\n⚡ **Desarrollo:**\n• La Cámara de Casación reafirmó su rol como máximo tribunal penal federal del país (debajo de la CSJN) al revisar las decisiones de la Cámara Nacional Electoral.\n• En el caso \"Cambiemos Buenos Aires 2017\", se investiga el origen de los fondos de campaña, diferenciando este proceso penal de la función de la CNE de aprobar o desaprobar las rendiciones de cuentas partidarias.\n• La Causa Cuadernos, que aborda la corrupción y el financiamiento irregular, ha sido criticada por su lentitud, con audiencias virtuales y semanales que prolongan el proceso.\n• Se busca que el juicio de Cuadernos se realice de forma presencial y con mayor frecuencia (al menos tres veces por semana) para garantizar eficacia, eficiencia y celeridad.\n• El Consejo de la Magistratura ha ofrecido espacios y recursos para facilitar la presencialidad y fortalecer la confianza pública en el sistema judicial, enfatizando que \"la justicia tardía no es justicia\".\n\n💡 **¿Por qué importa?**\n• Estos casos resaltan la importancia del control judicial sobre el financiamiento político, buscando transparencia y previniendo la corrupción en las campañas electorales.\n• La celeridad y eficacia de la justicia en casos de alta corrupción son cruciales para la credibilidad del sistema judicial y para garantizar una respuesta efectiva a los delitos.",
-      "cantidad_noticias": 3,
+      "tema_id": "reclamo_fondos_provincia_20251112",
+      "tema": "Reclamo Fondos Provincia Buenos Aires",
+      "tema_normalizado": "reclamo fondos provincia buenos aires",
+      "resumen": "📌 **¿Qué está pasando?**\n• El ministro de Gobierno de la Provincia de Buenos Aires, Carlos Bianco, solicitó formalmente una reunión con el ministro del Interior de la Nación, Diego Santilli.\n• El objetivo es reclamar fondos que, según la provincia, el Gobierno nacional le ha quitado, y retomar la ejecución de más de 1.000 obras nacionales paralizadas en el territorio bonaerense.\n• Esta solicitud se da en un contexto de tensión política y financiera entre la administración de Axel Kicillof y el gobierno de Javier Milei.\n\n🔍 **Datos clave:**\n• **Actores principales:** Carlos Bianco (Ministro de Gobierno PBA), Diego Santilli (Ministro del Interior), Axel Kicillof (Gobernador PBA).\n• **Monto reclamado:** La Provincia de Buenos Aires estima deudas pendientes y recortes por casi 13 billones de pesos.\n• **Obras afectadas:** Más de 1.000 obras nacionales paralizadas, incluyendo la Autopista Presidente Perón y el dragado del Canal Magdalena.\n• **Contexto:** Santilli ha mantenido reuniones con gobernadores, excluyendo a Kicillof y otros tres mandatarios peronistas.\n\n⚡ **Desarrollo:**\n• El reclamo bonaerense busca discutir las deudas pendientes del Estado nacional y la situación de las obras nacionales paralizadas, consideradas cruciales para el desarrollo y bienestar de la provincia.\n• La Provincia de Buenos Aires argumenta que la situación económica y financiera que padece es consecuencia de las políticas del Gobierno nacional, los recortes de fondos y la caída de la recaudación.\n• Aunque Kicillof fue excluido inicialmente de las rondas de diálogo con gobernadores, Santilli no descartó la reunión con condiciones, como discutir la baja de impuestos, un nuevo Código Penal y el Pacto de Mayo.\n• La solicitud de Bianco coincide con la presentación del Presupuesto 2026 y una Ley Impositiva bonaerense que propone baja de impuestos para pymes y propietarios, sin aumentar la carga tributaria.\n• La provincia de Buenos Aires también busca endeudamiento para fortalecer sus arcas y destinar recursos a los municipios, frente a la falta de fondos nacionales.\n\n💡 **¿Por qué importa?**\n• La resolución de este conflicto es vital para la gobernabilidad y el desarrollo de la Provincia de Buenos Aires, impactando directamente en su economía y el bienestar de los bonaerenses.\n• Este reclamo subraya la tensión fiscal y política entre el gobierno central y las provincias, y la necesidad de canales de diálogo para abordar las diferencias en la distribución de recursos y responsabilidades.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Casación avaló la actuación de jueces electorales en la causa por el financiamiento de \"Cambiemos Buenos Aires 2017\"",
-          "link": "https://www.ambito.com/politica/casacion-avalo-la-actuacion-jueces-electorales-la-causa-el-financiamiento-cambiemos-buenos-aires-2017-n6212868",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 09:22:00"
+          "titulo": "El ministro de Gobierno de Kicillof pidió una reunión con Santilli para “reclamar los fondos que Nación le quitó a los bonaerenses”",
+          "link": "https://www.perfil.com/noticias/politica/el-ministro-de-gobierno-de-kicillof-pidio-una-reunion-con-santilli-para-reclamar-los-fondos-que-nacion-le-quito-a-los-bonaerenses.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-12 14:21:00"
         },
         {
-          "titulo": "Casación avaló la actuación de jueces electorales en la causa por el financiamiento de \"Cambiemos Buenos Aires 2017\"",
-          "link": "https://www.minutouno.com/politica/casacion-avalo-la-actuacion-jueces-electorales-la-causa-el-financiamiento-cambiemos-buenos-aires-2017-n6212854",
+          "titulo": "La Provincia de Buenos Aires le reclama a Diego Santilli fondos para obras abandonadas por el Gobierno",
+          "link": "https://www.minutouno.com/politica/la-provincia-buenos-aires-le-reclama-diego-santilli-fondos-obras-abandonadas-el-gobierno-n6212952",
           "fuente": "Minuto1",
-          "fecha": "2025-11-12 09:00:00"
-        },
-        {
-          "titulo": "Causa Cuadernos: tensión institucional por la modalidad del juicio",
-          "link": "https://www.ambito.com/politica/causa-cuadernos-tension-institucional-la-modalidad-del-juicio-n6212847",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 08:01:00"
+          "fecha": "2025-11-12 12:30:57"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
-        "Minuto1",
-        "Ámbito Financiero"
+        "Perfil",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -347,37 +441,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "escandalo_trump:_mails_20251112",
-      "tema": "Escándalo Trump: Mails de Epstein",
-      "tema_normalizado": "escandalo trump: mails de epstein",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Demócratas de la Cámara de Representantes revelaron correos electrónicos de Jeffrey Epstein.\n*   En estos mensajes, Epstein sugiere que Donald Trump sabía sobre sus abusos sexuales y que “pasó horas en mi casa” con una de sus víctimas.\n*   Trump ha negado enfáticamente cualquier conocimiento o participación en las actividades de tráfico sexual de Epstein.\n\n🔍 **Datos clave:**\n*   **2008:** Epstein llegó a un acuerdo de culpabilidad en Florida por cargos de solicitar prostitución; los emails revelados datan de *después* de esta fecha.\n*   **Abril de 2011:** Fecha de un correo electrónico clave de Epstein a Ghislaine Maxwell.\n*   **Diciembre de 2015:** Fecha de intercambios de correos electrónicos entre Epstein y el autor Michael Wolff.\n*   **2019:** Año en que Jeffrey Epstein se suicidó en prisión, a la espera de juicio por tráfico sexual.\n*   **Ghislaine Maxwell:** Excolaboradora de Epstein, condenada a 20 años de prisión por delitos relacionados con el tráfico sexual infantil.\n*   **23.000+:** Cantidad de documentos recibidos por el Comité de Supervisión de la Cámara de Representantes del patrimonio de Epstein.\n\n⚡ **Desarrollo:**\n*   Los correos electrónicos fueron seleccionados y publicados por el Comité de Supervisión de la Cámara de Representantes, liderado por demócratas, a partir de una amplia colección de documentos.\n*   En un mensaje de 2011 a Ghislaine Maxwell, Epstein se refirió a Trump como \"el perro que no ha ladrado\" y afirmó que una presunta víctima \"pasó horas en mi casa con él, nunca se le ha mencionado\".\n*   Otros intercambios de 2015 con el autor Michael Wolff muestran a Epstein y Wolff discutiendo cómo Trump debería responder a preguntas de los medios sobre su relación.\n*   Trump ha sostenido que él y Epstein fueron amigos, pero se distanciaron a principios de la década de 2000, y que no habló con él en 15 años después de su arresto en 2019.\n*   La publicación de estos mensajes inflama el debate sobre el manejo de los archivos de Epstein por parte de la administración Trump y la naturaleza de la relación entre ambos hombres.\n\n💡 **¿Por qué importa?**\n*   Esta revelación alimenta el debate en el Capitolio sobre el alcance del conocimiento de Donald Trump acerca de la red de tráfico sexual de Jeffrey Epstein y el posible encubrimiento de información.\n*   Podría tener implicaciones políticas significativas, cuestionando la transparencia y la rendición de cuentas de figuras públicas en relación con delitos graves.",
-      "cantidad_noticias": 3,
+      "tema_id": "elecciones_presidenciales_chile_20251112",
+      "tema": "Elecciones Presidenciales Chile Noviembre",
+      "tema_normalizado": "elecciones presidenciales chile noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Chile se prepara para sus elecciones presidenciales el 16 de noviembre, donde se elegirá al sucesor de Gabriel Boric.\n• La candidata oficialista, Jeannette Jara, es favorita para la primera vuelta, pero las encuestas indican que perdería en un probable balotaje.\n• La campaña cerró con ataques cruzados entre los principales contendientes y un fuerte enfoque en la inseguridad ciudadana.\n\n🔍 **Datos clave:**\n• **Fecha Elecciones (1ra vuelta):** 16 de noviembre.\n• **Fecha probable Balotaje:** 14 de diciembre.\n• **Candidatos principales:** Jeannette Jara (oficialista, Partido Comunista, 51 años) y José Antonio Kast (ultraderecha, conservador, 59 años).\n• **Otros candidatos relevantes:** Evelyn Matthei (derecha tradicional), Johannes Kaiser (ultraderechista libertario).\n• **Encuesta Cadem (datos recientes):** Jara 29%, Kast 24%, Matthei 16%, Kaiser 13%.\n• **Extranjeros indocumentados en Chile:** 337.000, la mayoría venezolanos.\n\n⚡ **Desarrollo:**\n• Las campañas de los principales candidatos, Jeannette Jara y José Antonio Kast, culminaron con masivos actos en Santiago, enfocándose en temas de seguridad y delincuencia.\n• Jara, exministra de Trabajo de Boric, cerró en Maipú, defendiendo un \"modelo de país hacia el futuro\" y los derechos femeninos, criticando el \"odio y miedo\" de Kast.\n• Kast, por su parte, realizó su cierre en el Movistar Arena ante unas 10.000 personas, prometiendo un \"gobierno de emergencia\" para enfrentar la delincuencia y acusando a Jara de continuar un \"gobierno fracasado\".\n• Las encuestas sugieren que Jara lidera, pero sin los votos para ganar en primera vuelta, lo que haría inevitable un balotaje.\n• Kast figura en segundo lugar, pero ha perdido apoyo ante el surgimiento de Johannes Kaiser, apodado el \"Milei chileno\" por su postura anarcolibertaria y colapsista.\n• Esta dinámica convierte la primera vuelta en una \"auténtica primaria de la derecha\", con Kast también bajo presión de Evelyn Matthei, de la derecha tradicional.\n\n💡 **¿Por qué importa?**\n• La elección definirá entre dos \"modelos muy distintos de país\", uno progresista y otro conservador/ultraconservador, con implicaciones significativas para el futuro de Chile.\n• La alta probabilidad de un balotaje del 14 de diciembre y la fluctuación en los apoyos de la derecha señalan un escenario político complejo y polarizado.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Revelan mails en los que Epstein afirma que Trump “sabía de las chicas” y “pasó horas en su casa” con una de ellas",
-          "link": "https://www.lanacion.com.ar/estados-unidos/revelan-mails-en-los-que-epstein-afirma-que-trump-sabia-de-las-chicas-y-paso-horas-en-su-casa-con-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 11:35:06"
-        },
-        {
-          "titulo": "Escándalo en EEUU: Donald Trump \"pasó horas\" con una de las víctimas de Jeffrey Epstein, según un mail",
-          "link": "https://www.ambito.com/mundo/escandalo-eeuu-donald-trump-paso-horas-una-las-victimas-jeffrey-epstein-segun-un-mail-n6212949",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 11:31:00"
-        },
-        {
-          "titulo": "Revelan correos que afirman que \"Trump estuvo horas en la casa\" de Epstein con una de las víctimas de tráfico sexual",
-          "link": "https://www.clarin.com/mundo/revelan-correos-afirman-trump-horas-casa-epstein-victimas-trafico-sexual_0_tGzl6906W6.html",
+          "titulo": "Encuestas sobre las elecciones en Chile: la candidata oficialista es la favorita para el domingo, pero perdería en el balotaje",
+          "link": "https://www.clarin.com/mundo/encuestas-elecciones-chile-candidata-oficialista-favorita-domingo-perderia-balotaje_0_tqewc9EVTj.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-12 11:27:26"
+          "fecha": "2025-11-12 12:36:08"
+        },
+        {
+          "titulo": "Kast y Jara cierran sus campañas en Chile con acusaciones cruzadas y  discursos centrados en la inseguridad",
+          "link": "https://www.lanacion.com.ar/el-mundo/kast-y-jara-cierran-sus-campanas-en-chile-con-acusaciones-cruzadas-y-discursos-centrados-en-la-nid12112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-12 11:58:09"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
         "Clarín",
-        "La Nación",
-        "Ámbito Financiero"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -385,124 +472,29 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "plazo_fijo_argentina:_20251112",
-      "tema": "Plazo Fijo Argentina: Tasas y Rendimientos",
-      "tema_normalizado": "plazo fijo argentina: tasas y rendimientos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Los principales bancos de Argentina han ajustado las tasas de interés para los plazos fijos en pesos.\n*   Esta actualización responde a cambios recientes en la política monetaria del Banco Central (BCRA) y al intento de estabilizar el mercado financiero post-elecciones.\n*   Las nuevas tasas de rendimiento varían entre las distintas entidades, dejando a criterio de cada banco la oferta final para los ahorristas.\n\n🔍 **Datos clave:**\n*   **Fecha de referencia:** Miércoles 12 de noviembre (múltiples artículos se refieren a esta fecha para las tasas de los bancos).\n*   **Rango de Tasas Nominales Anuales (TNA):** Para depósitos a 30 días, oscilan principalmente entre 24% y 30% en los bancos más importantes del país.\n*   **Impacto de la desregulación:** El BCRA eliminó la tasa mínima obligatoria el año pasado, otorgando libertad a los bancos para fijar sus propios rendimientos.\n*   **Cálculo de ganancia:** Una inversión de $500.000 a 30 días puede generar entre $9.863,01 (ej. Banco Galicia/Provincia) y $12.328,77 (ej. Banco Macro).\n*   **Ejemplos de bancos y tasas (TNA):** Banco Macro (30%), Banco Nación (29%), Banco ICBC (29%), Banco Santander (25%), Banco Provincia (24%), Banco Galicia (24%).\n\n⚡ **Desarrollo:**\n*   Luego de las elecciones de octubre, el panorama económico argentino registró movimientos que impactaron directamente en las decisiones de ahorro, lo que llevó a un recorte general en las tasas de los plazos fijos.\n*   El Banco Central de la República Argentina (BCRA) publica una tabla comparativa oficial en su sitio web, que incluye las tasas de los 10 bancos con mayor volumen de depósitos, así como las ofertas para no clientes.\n*   Los ahorristas pueden constituir un plazo fijo de forma sencilla, sin costo ni papeleo, a través de home banking o los sitios web de las entidades bancarias, incluso si no son clientes de la institución.\n*   Aunque los plazos fijos son una de las opciones más elegidas por su predictibilidad y para evitar el riesgo de otras inversiones (como el dólar), su rentabilidad real se ve constantemente afectada por la persistente inflación.\n*   Se observa una brecha en las ofertas entre entidades: algunos bancos privados pueden ofrecer porcentajes levemente superiores para atraer nuevos clientes, mientras que los bancos públicos suelen mantener un rango más estable, cercano al 30%.\n*   Además de los bancos tradicionales, las billeteras digitales también ofrecen plazos fijos online, una modalidad que ha crecido fuerte y compite activamente en el mercado de ahorro.\n\n💡 **¿Por qué importa?**\n*   Para los ahorristas argentinos, comprender las tasas de interés y comparar las ofertas entre distintos bancos es esencial para tomar decisiones financieras informadas y proteger el poder adquisitivo de su dinero frente a la inflación.\n*   La dinámica de estas tasas es un indicador clave de la política monetaria nacional y de la búsqueda de estabilidad en un mercado financiero volátil, influyendo en las opciones de inversión y ahorro disponibles.",
-      "cantidad_noticias": 3,
+      "tema_id": "causa_once:_prision_20251112",
+      "tema": "Causa Once: Prisión Domiciliaria De Vido",
+      "tema_normalizado": "causa once: prision domiciliaria de vido",
+      "resumen": "📌 **¿Qué está pasando?**\n• El exministro Julio De Vido solicitó cumplir la condena de cuatro años por la tragedia de Once bajo prisión domiciliaria, poco antes de que se hiciera efectiva su detención.\n• La Corte Suprema de Justicia de la Nación ratificó su sentencia por administración fraudulenta en perjuicio del Estado.\n• Sus abogados también anunciaron que presentarán una denuncia ante un organismo de la ONU para cuestionar la legalidad de su privación de libertad.\n\n🔍 **Datos clave:**\n• **Julio De Vido:** Exministro de Planificación Federal durante los gobiernos kirchneristas.\n• **75 años:** Edad de De Vido, principal argumento para su pedido de prisión domiciliaria (la ley permite desde los 70).\n• **4 años:** Condena de prisión ratificada por la Corte Suprema por la tragedia de Once.\n• **12 de febrero de 2012:** Fecha de la tragedia ferroviaria de Once, que provocó la muerte de 51 personas.\n• **Zárate:** Localidad bonaerense donde De Vido propuso cumplir el arresto domiciliario.\n• **Tribunal Oral Federal 4 (TOF 4):** Tribunal encargado de ejecutar la condena y evaluar la solicitud de prisión domiciliaria.\n• **Maximiliano Rusconi:** Abogado defensor de De Vido.\n\n⚡ **Desarrollo:**\n• La condena de De Vido quedó firme tras el rechazo de un recurso de queja por parte de la Corte Suprema, confirmando la pena impuesta en 2018 por el TOF 4.\n• La defensa alegó la edad del exministro y problemas de salud que, según sus argumentos, harían inviable su alojamiento en una unidad penitenciaria.\n• En paralelo al pedido de domiciliaria, se interpuso un recurso de reposición ante la propia Corte y se anunció una \"acción urgente\" ante el Grupo de Trabajo sobre Detenciones Arbitrarias de la ONU.\n• El abogado de De Vido argumenta que la Corte Suprema \"no tenía jurisdicción\" en este punto, dado que un planteo de prescripción de la acción penal aún estaba pendiente de resolución.\n• El Tribunal Oral Federal 4 solicitó la opinión de la Fiscalía y ordenó la realización de estudios médicos y un informe socioambiental para decidir sobre la procedencia del arresto domiciliario.\n• De Vido fue citado a presentarse en los tribunales de Comodoro Py para quedar detenido, mientras también está imputado en el juicio oral por la causa de los \"Cuadernos de la Corrupción\".\n\n💡 **¿Por qué importa?**\n• El caso marca un precedente en la ejecución de condenas para exfuncionarios de alto rango, particularmente en causas de corrupción vinculadas a tragedias como la de Once.\n• Genera un debate relevante sobre la aplicación de garantías procesales y los criterios para otorgar prisiones domiciliarias, especialmente con la intervención de organismos internacionales.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 12 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-miercoles-12-de-noviembre-nid12112025/",
+          "titulo": "Julio De Vido pidió la prisión domiciliaria para cumplir la condena por la tragedia de Once",
+          "link": "https://www.clarin.com/politica/julio-vido-pidio-prision-domiciliaria-cumplir-condena-tragedia-once_0_ICcK7530c5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-12 13:16:03"
+        },
+        {
+          "titulo": "De Vido pidió cumplir la pena en su casa y cuestionará ante la ONU su detención",
+          "link": "https://www.lanacion.com.ar/politica/de-vido-pidio-cumplir-la-pena-en-su-casa-y-cuestionara-su-detencion-ante-la-onu-nid12112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-12 11:07:39"
-        },
-        {
-          "titulo": "Cambia el plazo fijo: cómo operan los principales bancos hoy, miércoles 12 de noviembre 2025",
-          "link": "https://www.ambito.com/economia/cambia-el-plazo-fijo-como-operan-los-principales-bancos-hoy-miercoles-12-noviembre-2025-n6212915",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 10:59:00"
-        },
-        {
-          "titulo": "Plazo fijo: Cuánto dinero gano si invierto 500.000 pesos a 30 días según cada banco",
-          "link": "https://www.perfil.com/noticias/economia/plazos-fijos-cuanto-dinero-gano-si-invierto-500000-pesos-a-30-dias-segun-cada-banco.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 09:56:00"
+          "fecha": "2025-11-12 13:09:47"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-12",
       "fuentes": [
-        "Perfil",
-        "La Nación",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "dolar_argentina:_cotizacion_20251112",
-      "tema": "Dólar Argentina: Cotización y Variación 12 Noviembre",
-      "tema_normalizado": "dolar argentina: cotizacion y variacion 12 noviembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El miércoles 12 de noviembre, el dólar en Argentina exhibió una jornada de calma y leves bajas en sus diversas cotizaciones.\n• El dólar oficial minorista y mayorista recortaron sus valores, arrastrando a la baja a algunos tipos de cambio paralelos.\n• Esta tendencia se observó en un contexto de optimismo de mercado y una estrategia gubernamental para estabilizar la divisa.\n\n🔍 **Datos clave:**\n• **Dólar Blue:** Se mantuvo en $1.420 para la compra y $1.440 para la venta.\n• **Dólar Oficial (Banco Nación):** Cerró en $1.435 para la venta.\n• **Dólar Mayorista:** Cayó hasta los $1.400.\n• **Dólar MEP:** Cotizó alrededor de $1.442,91.\n• **Dólar CCL:** Se ubicó en $1.461,32.\n• **Dólar Tarjeta:** Alcanzó los $1.872.\n• **Riesgo País:** Se mantuvo en 597 puntos básicos.\n\n⚡ **Desarrollo:**\n• El dólar oficial, tanto minorista como mayorista, experimentó una baja, siendo el mayorista un punto de referencia clave al tocar los $1.400.\n• Esta caída se trasladó a los dólares financieros como el MEP y el CCL, aunque con variaciones más acotadas, mostrando una brecha de 3,1% y 4,4% respectivamente con el oficial.\n• El dólar tarjeta, que incluye los recargos impositivos (30% y 45%), se posicionó como el tipo de cambio más alto.\n• La calma del mercado se atribuye a factores como la expectativa de reformas económicas y el apoyo a la política del presidente Javier Milei, evidenciado por un riesgo país bajo.\n• El Tesoro Nacional realizó una compra de u$s64 millones a $1.430, cerca del techo de la banda cambiaria, iniciando un proceso de acumulación de reservas.\n• El Ministro de Economía, Luis Caputo, ratificó el objetivo de sostener el esquema de bandas cambiarias para ofrecer previsibilidad al mercado.\n• Los mercados de acciones y bonos mostraron entusiasmo, con subas en empresas que cotizan en Wall Street y leves alzas en bonos soberanos locales.\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar y la estrategia de acumulación de reservas buscan generar confianza y previsibilidad en la economía argentina.\n• Un tipo de cambio más controlado y la baja del riesgo país son señales positivas para inversores y consumidores, influyendo en la percepción económica general.",
-      "cantidad_noticias": 11,
-      "noticias": [
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-12-noviembre-n6212812",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 12:37:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-12-noviembre-n6212811",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 12:37:00"
-        },
-        {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 12 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-12-de-noviembre-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 12:31:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-12-noviembre-n6212840",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 12:27:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 12 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-12-noviembre-n6212760",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 12:20:00"
-        },
-        {
-          "titulo": "Dólar hoy en vivo: la cotización minorista anota una nueva baja",
-          "link": "https://www.infobae.com/economia/2025/11/12/dolar-hoy-en-vivo-a-que-precio-se-operan-las-principales-cotizaciones-este-miercoles-12-de-noviembre/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-12 12:10:30"
-        },
-        {
-          "titulo": "El dólar mayorista cae hasta los $1.400 y la baja se extiende a los paralelos",
-          "link": "https://www.ambito.com/finanzas/el-dolar-se-alejo-del-techo-la-banda-y-el-tesoro-comienza-comprar-divisas-n6212849",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 11:54:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 12 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-12-noviembre_0_axtYpHDnaG.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 09:00:02"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 12 de noviembre, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-miercoles-12-noviembre-minuto-minuto_0_xWeyEDEjGa.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 07:39:20"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este miércoles 12 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-miercoles-12-noviembre_0_nm4jeVO6dD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 07:08:01"
-        },
-        {
-          "titulo": "Dólar ahorro hoy: a cuánto cotiza este miércoles 12 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-miercoles-12-noviembre_0_IPFow550Kv.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 07:08:01"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-12",
-      "fuentes": [
-        "Infobae",
-        "Ámbito Financiero",
         "Clarín",
-        "Minuto1",
         "La Nación"
       ],
       "es_tema_nuevo": true,
