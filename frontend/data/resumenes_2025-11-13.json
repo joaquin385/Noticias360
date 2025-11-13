@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-13",
-  "fecha_generacion": "2025-11-13T09:18:49.116582",
+  "fecha_generacion": "2025-11-13T12:27:29.652885",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 24,
-      "fecha_generacion": "2025-11-13T09:18:30.757036",
+      "cantidad_noticias": 14,
+      "fecha_generacion": "2025-11-13T12:27:26.881017",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "El Gobierno argentino de Javier Milei enfoca su agenda en la implementación de nuevas medidas y reformas económicas, delegando la representación en cumbres internacionales clave. El canciller Pablo Quirno se reunió con inversores estadounidenses y con el secretario de Estado de Donald Trump, además de reemplazar al Presidente en la cumbre del G20, mientras persiste la incertidumbre sobre la participación de Milei en el encuentro Mercosur-UE. Internamente, se reconfigura el poder, con un aumento de la influencia de Karina Milei y negociaciones para las vacantes en la Corte Suprema. El bloque libertario en el Congreso se capacita para impulsar reformas, incluida la modernización laboral, con Patricia Bullrich liderando la coordinación y solicitando cohesión interna. El PRO ha reafirmado su apoyo a las reformas gubernamentales, aunque manteniendo autonomía legislativa.\n\nEn el ámbito doméstico, el ministro del Interior, Diego Santilli, ha realizado una gira federal, reuniéndose con gobernadores \"dialoguistas\" como Rogelio Frigerio, mientras desestimó reiteradamente convocar al gobernador de Buenos Aires, Axel Kicillof, exigiendo coherencia con el Pacto de Mayo. Esta postura marca una clara distinción en el diálogo entre el gobierno nacional y las provincias.\n\nParalelamente, la Justicia ratificó la condena y el inminente ingreso a prisión del exministro Julio De Vido por la Tragedia de Once. En el plano internacional, Donald Trump firmó la ley para finalizar el cierre de gobierno más largo en la historia de EE.UU., y se realizaron los cierres de campaña de los candidatos presidenciales en Chile. Otros eventos destacados incluyen la controversia por declaraciones de la diputada libertaria Lorena Villaverde y la búsqueda pública de empleo por legisladores salientes, como Yamil Santoro, tras no renovar sus bancas.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T09:18:48.235145",
+      "fecha_generacion": "2025-11-13T12:27:28.807161",
       "categoria": "politica"
     },
     "economia": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T09:18:49.116293",
+      "fecha_generacion": "2025-11-13T12:27:29.652586",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-13T09:18:49.116559"
+      "fecha_generacion": "2025-11-13T12:27:29.652864"
     }
   }
 }
