@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-13",
-  "fecha_generacion": "2025-11-13T15:18:51.212748",
+  "fecha_generacion": "2025-11-13T18:21:28.035106",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 26,
-      "fecha_generacion": "2025-11-13T15:18:36.489446",
+      "fecha_generacion": "2025-11-13T18:21:06.565187",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "El Gobierno de Javier Milei impulsa una agenda de reformas clave, destacándose la \"modernización\" laboral. El presidente de la Cámara de Diputados, Martín Menem, subrayó la necesidad de integrar a trabajadores informales, mientras el Ejecutivo evalúa un diálogo previo con la CGT. En paralelo, se negocian el Presupuesto 2026 y otras reformas con gobernadores provinciales, obteniendo el apoyo de Salta, aunque persisten tensiones con la provincia de Buenos Aires por fondos. La gestión incluye la propuesta de dividir la obra social militar para sanear una deuda millonaria y se registra un ajuste presupuestario en el sector ferroviario del AMBA.\n\nEn el ámbito judicial, la Causa Cuadernos de las Coimas acelera su proceso con la adición de una segunda audiencia semanal y la ratificación de la modalidad telemática, pese a los reclamos del Tribunal Oral por falta de recursos. Por su parte, Cristina Kirchner, principal acusada, recurrió judicialmente para obtener el cobro de su pensión por viudez.\n\nLa política exterior argentina muestra un alineamiento con Estados Unidos e Israel, reflejado en la abstención en una votación de la ONU sobre la Corte Penal Internacional. El Presidente Milei evalúa no asistir a la cumbre del Mercosur en Brasil, mientras el canciller Pablo Quirno mantiene reuniones de alto nivel en Washington.\n\nA nivel doméstico, se observan dinámicas políticas cambiantes. Diputados del PRO muestran acercamiento a La Libertad Avanza, generando ausencias en cumbres partidarias. La ministra Patricia Bullrich solicitó a la vicepresidenta Victoria Villarruel no \"boicotear\" la agenda oficialista en el Senado. Una encuesta postelectoral indica que, si bien Milei capitaliza su triunfo, el desempleo emerge como la principal preocupación ciudadana, superando a la inflación.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T15:18:39.150087",
+      "fecha_generacion": "2025-11-13T18:21:22.277077",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "La estabilidad cambiaria y la acumulación de reservas son prioridades gubernamentales, con el ministro de Economía defendiendo las bandas de flotación del dólar y proyectando un superávit significativo por inversiones en minería y energía. El dólar minorista y paralelo mostró una tendencia a la baja, mientras el riesgo país experimentó una marcada disminución. A nivel internacional, Wall Street aguarda la publicación de datos económicos demorados tras el fin del shutdown en EE.UU., y el peso mexicano alcanzó su valor más bajo en 16 meses.\n\nEl Gobierno impulsa reformas estructurales, enfocándose en un capítulo laboral para generar nuevos empleos y la eliminación de impuestos distorsivos, incluyendo la posible supresión del Monotributo para formalizar la economía. Esta iniciativa se presenta en un contexto de contracción del empleo en blanco por octavo mes consecutivo y suspensiones en sectores como el textil. También se modificaron los vencimientos tributarios y se propone un arancel del 30% a plataformas de comercio electrónico de productos importados.\n\nEn el ámbito empresarial, Fábrica Militar de Aviones y SanCor enfrentan procedimientos de crisis con búsqueda de capital privado y pedidos de quiebra, respectivamente. El Banco Nación relanzó créditos para la compra de vehículos. Destacan oportunidades en sectores innovadores, como la producción de carinata para biocombustibles y el boom de la inteligencia artificial, impulsando gigantes tecnológicos. Además, se difundió una guía para detectar billetes falsos ante el avance de las tecnologías de impresión.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T15:18:51.212204",
+      "fecha_generacion": "2025-11-13T18:21:28.034832",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-13T15:18:51.212726"
+      "fecha_generacion": "2025-11-13T18:21:28.035086"
     }
   }
 }

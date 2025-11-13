@@ -1,345 +1,58 @@
 {
   "fecha": "2025-11-13",
-  "fecha_generacion": "2025-11-13T06:28:30.630287",
-  "total_temas": 10,
+  "fecha_generacion": "2025-11-13T18:29:16.721289",
+  "total_temas": 9,
   "temas": [
     {
-      "tema_id": "gobierno_milei:_medidas_20251113",
-      "tema": "Gobierno Milei: Medidas y Agenda",
-      "tema_normalizado": "gobierno milei: medidas y agenda",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está impulsando con urgencia una ambiciosa agenda de reformas legislativas, centrada en el Presupuesto 2026 y una modernización laboral, buscando respaldo en el Congreso.\n• Internamente, se observa una fuerte reconfiguración del poder, con la figura de Karina Milei consolidando su influencia en el gabinete y en la toma de decisiones.\n• El Presidente también inicia giras por el interior del país, priorizando foros económicos y mostrando un enfoque selectivo en sus encuentros con gobernadores provinciales.\n\n🔍 **Datos clave:**\n• **Presupuesto 2026:** Enviado el 15 de septiembre, se espera su tratamiento en Diputados entre el 11 y 12 de diciembre.\n• **Bloque LLA:** La Libertad Avanza sumará 88 diputados en diciembre y ha iniciado una \"escuelita\" para su capacitación legislativa.\n• **Reforma Laboral:** Se busca reducir 3 puntos las cargas patronales y establecer un fondo de cese obligatorio, entre otras medidas.\n• **Gabinete:** Manuel Adorni es el nuevo Jefe de Gabinete y Diego Santilli el nuevo Ministro del Interior, ambos impulsados por Karina Milei.\n• **Corrientes:** Javier Milei viajará el jueves para exponer en el 12º Congreso de Economía Regional del Club de la Libertad, sin reunirse con el gobernador Gustavo Valdés.\n• **Pobreza Infantil:** Una encuesta UNICEF de agosto de 2025, difundida por Capital Humano, señala que la pobreza infantil descendió a 46.1% y la extrema a 10.2%.\n• **Perdón de Deudas:** El Artículo 74 del Presupuesto 2026 propone un perdón de deudas cruzadas con Edenor (aprox. USD 2.000M reclamados) y Edesur (aprox. USD 1.200M reclamados), a cambio de cancelar deudas con Cammesa (USD 600M y USD 500M).\n• **Swap con EE.UU.:** Argentina activó un tramo de un swap de USD 20.000 millones, generando \"ganancia\" para el Tesoro estadounidense.\n\n⚡ **Desarrollo:**\n• La agenda legislativa del Gobierno incluye el Presupuesto 2026, una reforma laboral integral, la ley de Inocencia Fiscal y la reactivación de proyectos como Ficha Limpia y la ley antimafias.\n• La influencia de Karina Milei se expande, desplazando a Santiago Caputo de su rol central y controlando el acceso al Presidente y las decisiones clave, como los recientes nombramientos.\n• El Ministro del Interior, Diego Santilli, ha iniciado reuniones con gobernadores que adhirieron al Pacto de Mayo para negociar apoyo legislativo, mientras que Axel Kicillof de Buenos Aires ha sido excluido de estos encuentros.\n• Kicillof ha criticado al gobierno nacional por la falta de fondos para la provincia y por el swap con Estados Unidos, cuestionando sus términos y el rol del Tesoro estadounidense.\n• La Libertad Avanza busca preparar a sus nuevos legisladores para las sesiones extraordinarias, con el objetivo de evitar traspiés parlamentarios y defender las reformas propuestas por el Ejecutivo.\n• Patricia Bullrich ha pedido a Victoria Villarruel no \"boicotear\" la agenda de La Libertad Avanza en el Senado, evidenciando posibles tensiones en la Cámara Alta.\n• El gobierno de Milei generó \"profundo disenso\" en el W20 al bloquear un documento sobre empoderamiento de la mujer, basando su objeción en la \"negación del concepto de género\" y la interpretación errónea de las políticas de cuidado.\n\n💡 **¿Por qué importa?**\n• La consolidación del poder interno y el avance de las reformas legislativas son fundamentales para la estabilidad política y la viabilidad del plan económico de Milei.\n• Las tensiones con las provincias, las controversias económicas y las posturas sobre políticas de género marcan el tono de la gobernabilidad y el impacto social e internacional de la gestión.",
-      "cantidad_noticias": 14,
-      "noticias": [
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 03:00:00"
-        },
-        {
-          "titulo": "El poder se reconfigura en el “carpe diem” de Milei",
-          "link": "https://www.lanacion.com.ar/politica/el-poder-se-reconfigura-en-el-carpe-diem-de-milei-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 02:13:20"
-        },
-        {
-          "titulo": "Milei comienza sus recorridas por el interior con una visita a Corrientes: no se reunirá con Gustavo Valdés",
-          "link": "https://www.infobae.com/politica/2025/11/13/milei-comienza-sus-recorridas-por-el-interior-con-una-visita-a-corrientes-no-se-reunira-con-gustavo-valdes/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-13 01:17:12"
-        },
-        {
-          "titulo": "Kicillof sigue fuera de las reuniones de la Casa Rosada con gobernadores y crece la tensión con Milei",
-          "link": "https://www.infobae.com/politica/2025/11/13/kicillof-sigue-fuera-de-las-reuniones-de-la-casa-rosada-con-gobernadores-y-crece-la-tension-con-milei/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-13 01:16:34"
-        },
-        {
-          "titulo": "\"Capacitación libertaria\": los nuevos legisladores de Milei estudiaron el reglamento del Congreso",
-          "link": "https://www.perfil.com/noticias/politica/capacitacion-libertaria-los-nuevos-legisladores-de-milei-estudiaron-el-reglamento-del-congreso.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 22:31:00"
-        },
-        {
-          "titulo": "Senado: Patricia Bullrich reunió al bloque libertario para empezar a avanzar con las reformas del Gobierno",
-          "link": "https://www.ambito.com/politica/senado-patricia-bullrich-reunio-al-bloque-libertario-empezar-avanzar-las-reformas-del-gobierno-n6213246",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 22:11:19"
-        },
-        {
-          "titulo": "Javier Milei retoma la agenda local en Corrientes: hablará en un congreso en el Club de la Libertad",
-          "link": "https://www.ambito.com/politica/javier-milei-retoma-la-agenda-local-corrientes-hablara-un-congreso-el-club-la-libertad-n6213220",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 21:46:00"
-        },
-        {
-          "titulo": "El Gobierno aseguró que hubo una \"mejora significativa\" en los hogares con niños y adolescentes",
-          "link": "https://www.ambito.com/politica/el-gobierno-aseguro-que-hubo-una-mejora-significativa-los-hogares-ninos-y-adolescentes-n6213228",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 21:20:00"
-        },
-        {
-          "titulo": "El Gobierno propone un perdón de deudas cruzadas con Edenor y Edesur por el congelamiento de tarifas",
-          "link": "https://www.clarin.com/economia/gobierno-propone-perdon-deudas-cruzadas-edenor-edesur-congelamiento-tarifas_0_eEw4WwoQhT.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 20:03:14"
-        },
-        {
-          "titulo": "\"Al final, plata había\": mientras reclama fondos, Kicillof cruzó a Milei por el swap con ganancias para Estados Unidos",
-          "link": "https://www.clarin.com/politica/final-plata-reclama-fondos-kicillof-cruzo-milei-swap-ganancias-estados-unidos_0_TUpRcAAcXc.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 19:10:57"
-        },
-        {
-          "titulo": "La delegación argentina del W20 cruzó al Gobierno por bloquear el documento sobre empoderamiento de la mujer",
-          "link": "https://www.perfil.com/noticias/politica/la-delegacion-argentina-del-w20-cruzo-al-gobierno-por-bloquear-el-documento-sobre-empoderamiento-de-la-mujer.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 17:39:00"
-        },
-        {
-          "titulo": "Patricia Bullrich le pidió a Victoria Villarruel que \"no boicotee\" a La Libertad Avanza en el Senado",
-          "link": "https://www.minutouno.com/politica/patricia-bullrich-le-pidio-victoria-villarruel-que-no-boicotee-la-libertad-avanza-el-senado-n6213152",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 17:21:00"
-        },
-        {
-          "titulo": "Cómo queda el balance interno entre Karina Milei y Santiago Caputo tras lo nuevos nombramientos",
-          "link": "https://noticias.perfil.com/noticias/politica/como-queda-el-balance-interno-entre-karina-milei-y-santiago-caputo-tras-lo-nuevos-nombramientos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 16:53:37"
-        },
-        {
-          "titulo": "Reforma laboral: Luis Caputo anticipó cuáles serán los principales puntos que impulsa el Gobierno",
-          "link": "https://www.minutouno.com/economia/reforma-laboral-luis-caputo-anticipo-cuales-seran-los-principales-puntos-que-impulsa-el-gobierno-n6213116",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 16:27:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Minuto1",
-        "Infobae",
-        "Clarín",
-        "La Nación",
-        "Ámbito Financiero",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "milei_gobierno:_politica_20251113",
-      "tema": "Milei Gobierno: Política Exterior y G20",
-      "tema_normalizado": "milei gobierno: politica exterior y g20",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei, a través de su canciller Pablo Quirno, busca fortalecer intensamente el vínculo con Estados Unidos, enfocándose en la concreción de un acuerdo comercial y la atracción de inversiones.\n• Quirno viajó a Washington para reunirse con funcionarios clave y empresarios estadounidenses de diversos sectores.\n• El canciller será quien represente a Argentina en la próxima cumbre del G20 en Sudáfrica, en lugar del presidente Milei, alineando su postura con la de Estados Unidos.\n\n🔍 **Datos clave:**\n• **Fechas de reuniones en Washington:** Miércoles 12 y Jueves 13 de noviembre, con encuentros desde la mañana hasta la noche.\n• **Cumbre del G20:** Se realizará el 22 y 23 de noviembre en Sudáfrica.\n• **Funcionario clave de EE.UU.:** Marco Rubio, descrito en las noticias como \"secretario de Estado de Trump\", con quien Quirno se reunió.\n• **Acuerdo comercial:** Entre Argentina y Estados Unidos, reportado como \"prácticamente cerrado\" y en sus detalles finales.\n• **Ventana de oportunidad:** El gobierno de Milei cuenta con 18 a 20 meses antes del próximo ciclo electoral para consolidar sus reformas.\n\n⚡ **Desarrollo:**\n• El canciller Pablo Quirno, junto al embajador Alec Oxenford y otros secretarios, encabezó una comitiva argentina en Washington para potenciar el vínculo con EE.UU. y promover nuevas oportunidades de inversión.\n• Se realizaron reuniones con empresas de los sectores energético, informático, farmacéutico y minero en el Meridian International Center y con el Americas Society and Council of the Americas (AS/COA).\n• Quirno se reunió con Jamieson Greer de la United States Trade Representative (USTR) para ultimar los detalles de un acuerdo comercial bilateral.\n• En los encuentros, Argentina presentó el Régimen de Incentivos para Grandes Inversiones (RIGI) y detalló las reformas impositivas y laborales que impulsa el gobierno.\n• El embajador Oxenford destacó la conexión entre Milei y Donald Trump, así como el apoyo de Estados Unidos, como factores que potencian el trabajo de La Libertad Avanza.\n• La decisión de Milei de no asistir al G20, enviando a Quirno, es vista como un alineamiento con la postura estadounidense en foros multilaterales.\n• El gobernador de Buenos Aires, Axel Kicillof, criticó estas acciones, denunciando una intervención directa de EE.UU. en la democracia argentina y haciendo negocios con el gobierno de Milei.\n\n💡 **¿Por qué importa?**\n• La política exterior del gobierno de Milei se orienta fuertemente hacia un alineamiento con Estados Unidos y la atracción de inversiones, buscando posicionar a Argentina como un \"jugador global\" confiable.\n• La agenda de Quirno y su asistencia al G20 en lugar de Milei subrayan esta estrategia de priorizar la relación bilateral con EE.UU. para impulsar las reformas económicas internas.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "El canciller Pablo Quirno se reunirá con Marco Rubio, el secretario de Estado de Trump, y luego reemplazará a Milei en la cumbre del G20",
-          "link": "https://www.perfil.com/noticias/politica/el-canciller-pablo-quirno-se-reunira-con-marco-rubio-el-secretario-de-estado-de-trump-y-luego-reemplazara-a-milei-en-la-cumbre-del-g20.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 02:47:00"
-        },
-        {
-          "titulo": "Tras su reunión con el representante comercial de Trump, Pablo Quirno es recibido por el secretario de Estado en Washington",
-          "link": "https://www.lanacion.com.ar/politica/tras-su-reunion-con-el-representante-comercial-de-trump-pablo-quirno-es-recibido-por-el-secretario-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 00:28:50"
-        },
-        {
-          "titulo": "El canciller Quirno habló con inversores de Estados Unidos sobre las reformas que impulsa Milei y cómo acabará con la crisis económica",
-          "link": "https://www.perfil.com/noticias/politica/el-canciller-quirno-hablo-con-inversores-de-estados-unidos-sobre-las-reformas-que-impulsa-milei-y-como-acabara-con-la-crisis-economica.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 23:07:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Perfil",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_estados_unidos:_20251113",
-      "tema": "Política Estados Unidos: Cierre de Gobierno",
-      "tema_normalizado": "politica estados unidos: cierre de gobierno",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Congreso de Estados Unidos aprobó una ley que puso fin al cierre de gobierno más largo en la historia del país, que se extendió por 43 días.\n*   El presidente Donald Trump firmó la medida, reabriendo las agencias federales y restableciendo a miles de empleados.\n\n🔍 **Datos clave:**\n*   **Duración:** 43 días, el cierre de gobierno más largo en la historia de EE.UU.\n*   **Presidente:** Donald Trump, quien firmó la ley para reabrir el gobierno.\n*   **Votación en la Cámara de Representantes:** 222 votos a favor y 209 en contra.\n*   **Votación en el Senado:** 60 votos a favor y 40 en contra.\n*   **Impacto Laboral:** Más de 4,000 empleados federales fueron despedidos o notificados de despido.\n*   **Fecha de Financiamiento extendido:** Hasta el 30 de enero de 2026 para la mayoría de agencias federales; hasta el 30 de septiembre de 2026 para departamentos estratégicos como Defensa y Asuntos de Veteranos.\n\n⚡ **Desarrollo:**\n*   El cierre gubernamental generó amplios trastornos en el país, incluyendo miles de trabajadores federales sin pago, demoras en aeropuertos y problemas en la distribución de alimentos para familias necesitadas.\n*   La principal disputa política giró en torno a la demanda demócrata de ampliar los subsidios federales para la cobertura sanitaria (Obamacare), lo que los republicanos se negaron a incluir en el paquete de reapertura.\n*   La ley aprobada es un paquete de financiación temporal que asegura la operatividad de programas esenciales y agencias federales, revirtiendo despidos masivos y garantizando el pago retroactivo a los empleados afectados.\n*   El acuerdo incluye más de 133,000 millones de dólares para los Veteranos y fondos importantes para construcción militar, permitiendo una planificación a largo plazo.\n*   Una controvertida cláusula incorporada en la ley permite a senadores demandar al Departamento de Justicia por registros telefónicos vinculados al asalto al Capitolio del 6 de enero de 2021.\n*   El presidente Trump culpó a los demócratas por el cierre, calificándolo de \"extorsión\", mientras que algunos demócratas criticaron la falta de financiación federal completa para programas vitales como los cupones de alimentos.\n\n💡 **¿Por qué importa?**\n*   Este evento resalta la profunda polarización política en Estados Unidos y las dificultades recurrentes para alcanzar acuerdos presupuestarios entre los partidos.\n*   Demuestra las significativas consecuencias económicas y sociales que un cierre de gobierno prolongado puede tener para la población y el funcionamiento del estado.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Los principales puntos de la ley firmada por Trump que puso fin al cierre de Gobierno más largo en la historia de Estados Unidos",
-          "link": "https://www.infobae.com/estados-unidos/2025/11/13/los-principales-puntos-de-la-ley-firmada-por-trump-que-puso-fin-al-cierre-de-gobierno-mas-largo-en-la-historia-de-estados-unidos/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-13 02:44:32"
-        },
-        {
-          "titulo": "La Cámara de Representantes de EE.UU. puso fin a seis semanas de cierre de gobierno",
-          "link": "https://www.lanacion.com.ar/estados-unidos/la-camara-de-representantes-de-eeuu-puso-fin-a-seis-semanas-de-cierre-de-gobierno-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 00:54:33"
-        },
-        {
-          "titulo": "Donald Trump firmó la ley que pone fin al cierre de Gobierno más largo de la historia de EE.UU.",
-          "link": "https://www.clarin.com/mundo/congreso-estados-unidos-aprobo-acuerdo-levanta-cierre-gobierno-largo-historia_0_VvaFYppfak.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 22:44:44"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Infobae",
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "causa_tragedia_once:_20251113",
-      "tema": "Causa Tragedia Once: De Vido Preso",
-      "tema_normalizado": "causa tragedia once: de vido preso",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El exministro Julio De Vido debe presentarse detenido para comenzar a cumplir una condena de 4 años de prisión.\n*   La Justicia, incluyendo la Corte Suprema y el Tribunal Oral Federal 4, rechazó sus últimos recursos para evitar la detención.\n*   La condena se ratificó por su responsabilidad en la administración fraudulenta en la Tragedia de Once.\n\n🔍 **Datos clave:**\n*   **Condenado:** Julio De Vido, exministro de Planificación Federal.\n*   **Pena:** 4 años de prisión.\n*   **Delito:** Administración fraudulenta en perjuicio del Estado.\n*   **Tragedia:** Choque del tren Sarmiento en la estación de Once (22 de febrero de 2012).\n*   **Víctimas:** 52 personas fallecidas.\n*   **Edad de De Vido:** 75 años.\n*   **Tribunales intervinientes:** Tribunal Oral Federal 4 (TOF 4) y Corte Suprema de Justicia de la Nación.\n\n⚡ **Desarrollo:**\n*   La Tragedia de Once fue un accidente ferroviario grave que expuso fallas en la gestión y falta de inversión en el servicio de transporte.\n*   De Vido fue condenado en 2018 por su implicación en la administración fraudulenta de los fondos destinados al mantenimiento de la línea Sarmiento.\n*   La Corte Suprema confirmó la pena, dejando la sentencia firme y obligando al exministro a su cumplimiento efectivo.\n*   El TOF 4, integrado por los jueces Néstor Costabel, Ricardo Basílico y Fernando Canero, rechazó los intentos de la defensa por suspender la detención.\n*   La defensa, liderada por el abogado Maximiliano Rusconi, presentó recursos como el \"in extremis\" y planteó la prescripción, que fueron desestimados por no encuadrar en la ley.\n*   De Vido solicitó cumplir la condena bajo arresto domiciliario debido a su edad y problemas de salud, un pedido que se evaluará una vez que sea detenido.\n*   El exministro también anunció que llevará su caso ante la Organización de las Naciones Unidas (ONU), alegando una \"detención arbitraria\".\n*   Esta es la primera de las tres condenas que tiene De Vido que queda firme; en el juicio original, fue absuelto del delito de estrago culposo.\n\n💡 **¿Por qué importa?**\n*   Este caso representa un hito en la búsqueda de justicia por la Tragedia de Once y en la lucha contra la corrupción, al concretar la condena de un alto exfuncionario.\n*   Envía un mensaje sobre la firmeza de las sentencias judiciales en casos de mala administración pública y sus graves consecuencias.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Tragedia de Once: la Justicia rechazó un último recurso de Julio De Vido para evitar ir preso",
-          "link": "https://www.lanacion.com.ar/politica/de-vido-pidio-cumplir-la-pena-en-su-casa-y-cuestionara-su-detencion-ante-la-onu-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 02:31:43"
-        },
-        {
-          "titulo": "La Justicia rechazó el pedido de la defensa de Julio De Vido y quedará detenido este jueves",
-          "link": "https://www.ambito.com/politica/la-justicia-rechazo-el-pedido-la-defensa-julio-vido-y-quedara-detenido-este-jueves-n6213240",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 21:45:00"
-        },
-        {
-          "titulo": "De Vido comienza a cumplir la condena por la tragedia de Once y quedará preso en la cárcel de Ezeiza",
-          "link": "https://www.clarin.com/politica/vido-comienza-manana-cumplir-condena-tragedia-once-quedara-preso-carcel-ezeiza_0_yLIzy5KyTX.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 19:54:41"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "santilli_vs._kicillof:_20251113",
-      "tema": "Santilli vs. Kicillof: Cruces Políticos",
-      "tema_normalizado": "santilli vs. kicillof: cruces politicos",
-      "resumen": "📌 **¿Qué está pasando?**\n• El nuevo Ministro del Interior, Diego Santilli, rechazó la convocatoria de reunión solicitada por el gobierno de la provincia de Buenos Aires, encabezado por Axel Kicillof.\n• La provincia, a través de su ministro de Gobierno Carlos Bianco, pidió la restitución de fondos nacionales y la reactivación de más de 1.000 obras paralizadas.\n• Santilli justificó su negativa argumentando la \"incoherencia\" de Kicillof al no adherir a las principales iniciativas políticas del Gobierno nacional.\n\n🔍 **Datos clave:**\n• **Actores principales:** Diego Santilli (Ministro del Interior de la Nación), Axel Kicillof (Gobernador de la Provincia de Buenos Aires), Carlos Bianco (Ministro de Gobierno de la PBA).\n• **Iniciativas nacionales mencionadas:** Pacto de Mayo, RIGI (Régimen de Incentivo para Grandes Inversiones), Ley de Reiterancia para terminar con la \"puerta giratoria\" y Ley Antimafia.\n• **Obras paralizadas en PBA:** Más de 1.000 proyectos, consideradas estratégicas para el desarrollo provincial.\n• **Fondos reclamados:** Grandes sumas de dinero, estimadas en miles de millones de pesos por el gobierno bonaerense.\n• **Respuesta inicial de Santilli a Bianco:** \"Tomo nota\".\n• **Gira de Santilli:** Incluye encuentros con gobernadores \"dialoguistas\" como Rogelio Frigerio (Entre Ríos), Gustavo Sáenz (Salta), Osvaldo Jaldo (Tucumán), Alfredo Cornejo (Mendoza) y Rolando Figueroa (Neuquén).\n\n⚡ **Desarrollo:**\n• Carlos Bianco solicitó formalmente a Santilli una reunión para abordar la \"deuda pendiente\" de Nación con la provincia y la situación de las obras nacionales abandonadas.\n• Santilli, quien asumió recientemente como Ministro del Interior, ha estado en una gira federal cuyo objetivo es construir una \"agenda común\" y promover el Presupuesto 2026.\n• El ministro nacional acusó a Kicillof de tener \"doble personalidad\" por reclamar diálogo y recursos mientras se opone a reformas como el Pacto de Mayo y el RIGI.\n• Además, Santilli insinuó que el gobernador bonaerense podría necesitar \"pedirle permiso a Cristina Kirchner\" para tomar decisiones.\n• Kicillof, por su parte, ha manifestado que no apoyará ninguna ley que vaya \"en contra de los derechos de nuestro pueblo\" y criticó a gobernadores que negocian deudas a cambio de \"leyes espantosas\".\n• Santilli dejó abierta la puerta al diálogo con Kicillof si este demuestra \"coherencia\" y se sienta a discutir temas como la baja de impuestos y la firma del Pacto de Mayo.\n• La provincia de Buenos Aires, junto a La Rioja, Tierra del Fuego y Formosa, fueron excluidas de las primeras rondas de reuniones con gobernadores del Ministro del Interior.\n\n💡 **¿Por qué importa?**\n• Este conflicto refleja la polarización política y la profunda tensión entre el Gobierno nacional y la Provincia de Buenos Aires, la más poblada del país.\n• La falta de acuerdo y diálogo tiene un impacto directo en el bienestar de los bonaerenses, afectando la reactivación de obras esenciales y la llegada de fondos cruciales para la gestión provincial.",
+      "tema_id": "causa_cuadernos_de_20251113",
+      "tema": "Causa Cuadernos de las Coimas",
+      "tema_normalizado": "causa cuadernos de coimas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se está llevando a cabo el juicio oral por la Causa Cuadernos de las Coimas, el caso de corrupción más grande registrado en Argentina.\n• La expresidenta Cristina Kirchner, una veintena de exfuncionarios y más de medio centenar de empresarios están acusados de un esquema de intercambio de sobornos por obra pública.\n• El Tribunal Oral Federal Nro. 7 (TOF 7) inició las audiencias para juzgar a los 86-87 imputados.\n\n🔍 **Datos clave:**\n• **Inicio del juicio oral:** 6 de noviembre de 2025 (primera audiencia, aunque las noticias parecen ser de 2025 por una mención, se asume que se refiere a la fecha reciente de los eventos relatados).\n• **Imputados:** 86-87 personas, incluyendo la expresidenta Cristina Kirchner y empresarios como Alberto Ángel Padoán (Vicentín).\n• **Tribunal a cargo:** Tribunal Oral Federal Nro. 7 (TOF 7), con los jueces Enrique Méndez Signori (Presidente), Fernando Canero y Germán Castelli.\n• **Frecuencia de audiencias:** Incrementada a dos por semana (martes y jueves) a partir del 25 de noviembre.\n• **Documento de acusación:** Más de 678 páginas (fiscal Fabiana León) o 225.000 palabras (fiscal Carlos Stornelli).\n• **Origen de la causa:** Cuadernos escritos por el chofer Oscar Centeno, entregados al periodista Diego Cabot a principios de 2018.\n\n⚡ **Desarrollo:**\n• El juicio se desarrolla bajo una modalidad híbrida o mixta (virtual y presencial), defendida por el TOF 7 por falta de infraestructura y personal.\n• La Cámara de Casación y la Corte Suprema presionaron para acelerar el proceso, lo que llevó al Tribunal a aumentar la frecuencia de las audiencias.\n• El TOF 7 denunció estar \"colapsado\" por la sobrecarga de expedientes (29 nuevos en 90 días) y la falta de recursos y espacio físico desde 2019.\n• La expresidenta Cristina Kirchner citó el caso de Víctor Manzanares, ex contador de Néstor Kirchner y testigo \"arrepentido\", alegando que fue \"torturado\" con aislamiento, luz constante y vigilancia en su detención.\n• La acusación principal postula a Cristina Kirchner como jefa de una asociación ilícita encargada de cobrar sobornos.\n• La primera audiencia sufrió retrasos y problemas técnicos, y el Tribunal solicitó a los imputados aparecer en cámara durante las sesiones virtuales.\n• Los testimonios de los \"arrepentidos\" son cruciales para el expediente, ofreciendo a cambio una reducción en sus penas.\n\n💡 **¿Por qué importa?**\n• Este juicio representa el caso de corrupción de mayor envergadura en la historia argentina, buscando esclarecer un complejo esquema de desvío de fondos públicos.\n• Su desarrollo y eventual resolución son fundamentales para la transparencia institucional, la rendición de cuentas y la confianza pública en el sistema judicial del país.",
       "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Diego Santilli salió al cruce contra Axel Kicillof. \"Te pido coherencia\"",
-          "link": "https://www.ambito.com/politica/diego-santilli-salio-al-cruce-contra-axel-kicillof-te-pido-coherencia-n6213282",
+          "titulo": "Cuadernos de las coimas: con retraso y reclamos del Tribunal, comenzó la segunda audiencia del juicio",
+          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-con-retraso-comenzo-la-segunda-audiencia-del-juicio-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:24:10"
+        },
+        {
+          "titulo": "El juicio por la Causa Cuadernos se acelera y tendrá dos audiencias semanales",
+          "link": "https://www.iprofesional.com/politica/441839-el-juicio-de-la-causa-cuadernos-se-acelera-habra-dos-audiencias-por-semana",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 13:25:00"
+        },
+        {
+          "titulo": "Cuadernos de las Coimas, en vivo: segunda audiencia del juicio contra Cristina Kirchner y empresarios",
+          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-en-vivo-segunda-audiencia-del-juicio-contra-cristina-kirchner-y-empresarios-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:56:45"
+        },
+        {
+          "titulo": "Cuadernos: el Tribunal Oral defendió la \"modalidad telemática\" del juicio y volvió a reclamar recursos a la Corte Suprema",
+          "link": "https://www.ambito.com/politica/cuadernos-el-tribunal-oral-defendio-la-modalidad-telematica-del-juicio-y-volvio-reclamar-recursos-la-corte-suprema-n6213444",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 00:30:00"
+          "fecha": "2025-11-13 12:04:48"
         },
         {
-          "titulo": "Diego Santilli apuntó contra Axel Kicillof: “Te pido coherencia”",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 00:08:07"
-        },
-        {
-          "titulo": "Tras cumbre con Rogelio Frigerio, Diego Santilli desestimó reunirse con Axel Kicillof: \"Ser coherentes\"",
-          "link": "https://www.minutouno.com/politica/tras-cumbre-rogelio-frigerio-diego-santilli-desestimo-reunirse-axel-kicillof-ser-coherentes-n6213255",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 22:41:26"
-        },
-        {
-          "titulo": "Diego Santilli justificó la falta de convocatoria a Kicillof y le pidió ser “consecuentes” y “coherentes”",
-          "link": "https://www.lanacion.com.ar/politica/diego-santilli-justifico-la-falta-de-convocatoria-a-kicillof-y-le-pidio-ser-consecuentes-y-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 21:34:27"
-        },
-        {
-          "titulo": "Diego Santilli ninguneó un pedido de reunión con la provincia de Buenos Aires: \"Tomo nota...\"",
-          "link": "https://www.minutouno.com/politica/diego-santilli-ninguneo-un-pedido-reunion-la-provincia-buenos-aires-tomo-nota-n6213171",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 20:25:00"
-        },
-        {
-          "titulo": "El ministro de Gobierno de Kicillof pidió una reunión con Santilli y el nuevo ministro le respondió: \"Tomo nota\"",
-          "link": "https://www.perfil.com/noticias/politica/el-ministro-de-gobierno-de-kicillof-pidio-una-reunion-con-santilli-para-reclamar-los-fondos-que-nacion-le-quito-a-los-bonaerenses.phtml",
+          "titulo": "\"No sabía si era día o noche\": el video de TN que citó Cristina para decir que un arrepentido de la causa Cuadernos fue torturado",
+          "link": "https://www.perfil.com/noticias/politica/no-sabia-si-era-dia-o-noche-el-video-de-tn-que-cito-cristina-para-decir-que-un-arrepentido-de-la-causa-cuadernos-fue-torturado.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-12 18:18:00"
+          "fecha": "2025-11-13 11:46:12"
+        },
+        {
+          "titulo": "Causa Cuadernos: el juicio tendrá dos audiencias por semana",
+          "link": "https://www.perfil.com/noticias/politica/causa-cuadernos-segunda-audiencia-en-el-juicio-contra-cristina-kirchner-por-asociacion-ilicita.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 11:15:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-13",
       "fuentes": [
-        "Minuto1",
-        "Ámbito Financiero",
+        "iProfesional",
         "Perfil",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "mercado_cambiario:_euro_20251113",
-      "tema": "Mercado Cambiario: Euro y Dólar",
-      "tema_normalizado": "mercado cambiario: euro y dolar",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario en Argentina experimentó una jornada de leves bajas o estabilidad en las cotizaciones del euro y el dólar durante el jueves 13 de noviembre.\n• El dólar blue, en particular, registró su primera caída en la semana, mostrando una tendencia a la baja en el mercado informal.\n• Estas fluctuaciones diarias afectan directamente la economía local y las decisiones financieras.\n\n🔍 **Datos clave:**\n• **Fecha:** Jueves 13 de noviembre (con referencia a Miércoles 12 de noviembre).\n• **Euro oficial (venta):** $1.688,14 (promedio BCRA).\n• **Euro blue (venta):** $1.743,75.\n• **Dólar oficial (venta BNA):** $1.435.\n• **Dólar mayorista (referencia):** $1.412 (bajó $1).\n• **Dólar blue (venta):** $1.435 (bajó $5).\n• **Dólar CCL (venta):** $1.473,91 (brecha con oficial del 4,4%).\n• **Dólar MEP (venta):** $1.451,89 (brecha con oficial del 2,8%).\n• **Dólar tarjeta (venta):** $1.865,50.\n• **Dólar cripto (venta):** $1.472.\n• **Reservas brutas BCRA:** u$s40.669 millones (al miércoles 12 de noviembre).\n• **Países que utilizan el euro:** Alemania, España, Francia, Italia y otros 17 países europeos.\n\n⚡ **Desarrollo:**\n• Durante la jornada del jueves 13 de noviembre, la mayoría de las cotizaciones del dólar y el euro mostraron movimientos a la baja o se mantuvieron estables en Argentina.\n• El dólar blue descendió $5 para la venta, cerrando en $1.435, lo que representó su primera caída en la semana, según operadores de la city porteña.\n• El dólar oficial se ubicó en $1.435 para la venta en el Banco Nación y en $1.412 en el segmento mayorista, registrando leves descensos.\n• Las cotizaciones del dólar financiero, como el CCL ($1.473,91) y el MEP ($1.451,89), también operaron a la baja o estables, con brechas moderadas respecto al dólar oficial.\n• El euro oficial cerró a $1.688,14 para la venta y el euro blue a $1.743,75, reflejando la dinámica general del mercado.\n• El dólar blue es la cotización del mercado paralelo e informal, con precios que se acuerdan entre personas y no tiene los límites del dólar oficial.\n• A modo de contexto, el dólar blue tuvo una importante escalada en años anteriores, cerrando 2023 con una suba de $654 y 2024 con un aumento del 16,7%.\n\n💡 **¿Por qué importa?**\n• Las variaciones en las cotizaciones del euro y el dólar tienen un impacto directo en el poder adquisitivo, la inflación y las decisiones de ahorro e inversión de los ciudadanos.\n• La brecha entre el dólar oficial y los tipos de cambio paralelos es un indicador clave de la confianza en la economía y la estabilidad monetaria del país.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 13 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-13-noviembre-n6213230",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 00:09:15"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este jueves 13 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-13-noviembre-n6213229",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 00:09:06"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este jueves 13 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-13-noviembre-n6213227",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 00:09:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 13 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-13-noviembre-n6213215",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-12-noviembre-n6212840",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 18:05:00"
-        },
-        {
-          "titulo": "El dólar blue bajó por primera vez en la semana",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-primera-vez-la-semana-n6213164",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 17:59:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cerró este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-12-noviembre-n6213167",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 17:54:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 12 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-12-noviembre-n6212812",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 17:47:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Minuto1",
+        "La Nación",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -348,63 +61,64 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "inflacion_argentina:_datos_20251113",
-      "tema": "Inflación Argentina: Datos Octubre",
-      "tema_normalizado": "inflacion argentina: datos octubre",
-      "resumen": "📌 **¿Qué está pasando?**\n• La inflación de Argentina en octubre fue del 2.3%, lo que representa una aceleración en comparación con el mes anterior, según informó el Instituto Nacional de Estadística y Censos (INDEC).\n• Este dato eleva la inflación acumulada en los primeros diez meses del año a 24.8% y sitúa la variación interanual en 31.3%.\n• El costo de las canastas básicas también subió significativamente, indicando mayores dificultades para las familias en evitar la pobreza e indigencia.\n\n🔍 **Datos clave:**\n• **Inflación IPC Octubre:** 2.3% (INDEC).\n• **Inflación Acumulada (10 meses):** 24.8%.\n• **Inflación Interanual:** 31.3%.\n• **Costo Canasta Básica Total (Familia 4p. no pobre):** $1.213.799.\n• **Costo Canasta Básica Alimentaria (Familia 4p. no indigente):** $544.304.\n• **Rubro de Mayor Aumento:** Transporte (+3.5%).\n\n⚡ **Desarrollo:**\n• Octubre marca el quinto mes consecutivo de aceleración inflacionaria y el segundo con un índice superior al 2%.\n• La Canasta Básica Total (CBT) y la Alimentaria (CBA) aumentaron un 3.1% mensual cada una, superando el promedio general de inflación del 2.3%.\n• Los principales impulsores del incremento fueron Transporte (+3.5%), Vivienda, agua, electricidad, gas y otros combustibles (+2.8%).\n• Otros rubros con alzas notables incluyeron Bienes y servicios varios, Prendas de vestir y calzado, y Bebidas alcohólicas y tabaco, todos con un 2.4%.\n• Alimentos y bebidas no alcohólicas, con un aumento del 2.3%, tuvo la mayor incidencia en la suba mensual a nivel nacional, destacándose el aumento en frutas y verduras (ej. limón +60.8%, cebolla +22.4%).\n• El Ministro de Economía, Luis Caputo, resaltó 18 meses de desaceleración interanual y la media móvil de 6 meses más baja desde enero de 2018 (1.88%).\n• Consultoras proyectan que la inflación mensual podría mantenerse entre 1.9% y 2.2% hacia fin de año, cerrando con una variación interanual cercana al 29.6%.\n\n💡 **¿Por qué importa?**\n• La aceleración de la inflación y el encarecimiento de las canastas básicas reducen el poder de compra de los salarios, lo que impacta directamente en la capacidad de las familias para cubrir necesidades esenciales.\n• Este escenario subraya la persistencia de los desafíos económicos en Argentina, afectando los niveles de vida de la población y la estabilidad general de los precios a pesar de las políticas económicas implementadas.",
+      "tema_id": "fmi_y_reservas_20251113",
+      "tema": "FMI y Reservas Argentina",
+      "tema_normalizado": "fmi y reservas argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Fondo Monetario Internacional (FMI) insiste en que Argentina debe \"acelerar esfuerzos\" para acumular reservas internacionales.\n• Aunque el FMI respalda el programa económico del gobierno de Javier Milei, su vocera Julie Kozack evita confirmar si se modificarán las metas de acumulación de reservas previamente acordadas.\n• El ministro de Economía, Luis Caputo, reconoce la prioridad de comprar reservas, pero relativiza la necesidad de cumplir estrictamente con las metas del FMI, argumentando que el escenario ha cambiado.\n\n🔍 **Datos clave:**\n• Vocera principal del FMI: Julie Kozack.\n• Ministro de Economía argentino: Luis Caputo.\n• Reservas netas positivas (según Caputo): US$1.500 millones.\n• Meta original de acumulación de reservas FMI (mencionada por Caputo): US$9.000 millones para fin de año.\n• Apoyo financiero de EE.UU.: incluye un swap de US$20.000 millones (mencionado por FMI y gobierno).\n• Crecimiento económico proyectado por FMI para Argentina en 2025: 4,5%.\n\n⚡ **Desarrollo:**\n• El FMI, a través de Julie Kozack, recalca que es fundamental mantener un \"marco monetario y cambiario coherente y robusto\" para fortalecer las reservas, gestionar la volatilidad y generar confianza en el mercado.\n• Luis Caputo enfatiza que la acumulación de reservas es una prioridad para fortalecer el balance del Banco Central y que los pagos de deuda se desvinculan de las reservas, resolviéndose por vías financieras.\n• El gobierno argentino argumenta que el escenario post-electoral y el acuerdo con Estados Unidos han \"cambiado la situación\", abriendo diversas \"avenidas financieras\" para cubrir compromisos como los US$4.500 millones en bonos que vencen en enero.\n• La vocera del FMI califica como \"prematuro\" pronunciarse sobre el cumplimiento de las metas de reservas, pero destaca la mejora de las condiciones del mercado como una \"ventana de oportunidad\" para acelerar la acumulación de divisas.\n• El organismo elogia las políticas macroeconómicas y la reducción de la inflación, pero advierte que persisten \"importantes desafíos\" y que las reformas estructurales planificadas en áreas como impuestos y mercado laboral son esenciales.\n• Caputo defiende el régimen de bandas cambiarias actual, indicando que es el más adecuado para el contexto argentino y criticando la idea de una flotación libre en un mercado reducido.\n\n💡 **¿Por qué importa?**\n• La acumulación de reservas es crucial para la estabilidad macroeconómica de Argentina, impactando directamente en la gestión de la volatilidad cambiaria y en la credibilidad ante los mercados internacionales.\n• La dinámica entre las advertencias del FMI y la estrategia del gobierno subraya los desafíos persistentes de Argentina para estabilizar su economía, cumplir con sus acuerdos y lograr un crecimiento sostenible.",
       "cantidad_noticias": 7,
       "noticias": [
         {
-          "titulo": "Inflación de octubre: cuál es el IPC acumulado y qué proyectan las consultoras para el 2025",
-          "link": "https://www.lanacion.com.ar/economia/inflacion-de-octubre-cual-es-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-el-2025-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-12 20:30:00"
-        },
-        {
-          "titulo": "Inflación de 2,3% en octubre: cuánto necesitó una familia tipo para no caer en la pobreza",
-          "link": "https://www.minutouno.com/economia/inflacion-23-octubre-cuanto-necesito-una-familia-tipo-no-caer-la-pobreza-n6213191",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 19:38:00"
-        },
-        {
-          "titulo": "Para no ser pobre una familia necesitó $1.213.799 en octubre",
-          "link": "https://www.perfil.com/noticias/economia/para-no-ser-pobre-una-familia-necesito-1213799-en-octubre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 18:39:20"
-        },
-        {
-          "titulo": "Cuánta plata necesitó una familia argentina en octubre para no ser pobre",
-          "link": "https://www.iprofesional.com/economia/441760-cuanta-plata-necesito-familia-argentina-octubre-2025-para-no-ser-pobre",
+          "titulo": "La advertencia del FMI: dijo que el Gobierno debe \"acelerar esfuerzos\" para acumular reservas",
+          "link": "https://www.iprofesional.com/economia/441849-advertencia-del-fmi-por-dolar-dijo-que-gobierno-javier-milei-debe-acelerar-compra-reservas",
           "fuente": "iProfesional",
-          "fecha": "2025-11-12 17:20:00"
+          "fecha": "2025-11-13 14:55:00"
         },
         {
-          "titulo": "Estos son los rubros que subieron por encima de la inflación en Argentina en octubre 2025",
-          "link": "https://www.ambito.com/economia/estos-son-los-rubros-que-subieron-encima-la-inflacion-argentina-octubre-2025-n6213124",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 17:10:00"
+          "titulo": "El FMI volvió a advertir a Javier Milei y Luis Caputo sobre la necesidad de reforzar las reservas",
+          "link": "https://www.minutouno.com/economia/el-fmi-volvio-advertir-javier-milei-y-luis-caputo-la-necesidad-reforzar-las-reservas-n6213491",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 14:47:00"
         },
         {
-          "titulo": "Inflación octubre 2025: cuáles fueron los productos básicos que más subieron y bajaron",
-          "link": "https://www.ambito.com/economia/inflacion-octubre-2025-cuales-fueron-los-productos-basicos-que-mas-subieron-y-bajaron-n6213131",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 16:32:00"
-        },
-        {
-          "titulo": "La inflación de octubre fue de 2,3% y acumula 5 meses de aceleración según el INDEC",
-          "link": "https://www.perfil.com/noticias/economia/la-inflacion-de-octubre-fue-de-23-segun-el-indec.phtml",
+          "titulo": "El FMI se mostró a favor del swap con Estados Unidos pero pidió acelerar la acumulación de reservas",
+          "link": "https://www.perfil.com/noticias/economia/el-fmi-se-mostro-a-favor-del-swap-con-estados-unidos-pero-pidio-acelerar-la-acumulacion-de-reservas.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-12 16:31:00"
+          "fecha": "2025-11-13 13:42:00"
+        },
+        {
+          "titulo": "El FMI volvió a advertir por las reservas, con el foco en la volatilidad del dólar y en fortalecer la confianza del mercado",
+          "link": "https://www.ambito.com/economia/el-fmi-volvio-advertir-las-reservas-el-foco-la-volatilidad-del-dolar-y-fortaleces-la-confianza-del-mercado-n6213481",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 13:31:00"
+        },
+        {
+          "titulo": "Para el FMI, la mejora del mercado tras las elecciones abre una ventana para acelerar la compra de reservas",
+          "link": "https://www.clarin.com/economia/fmi-mejora-mercado-elecciones-abre-ventana-acelerar-compra-reservas_0_T9jCvMN6DU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 13:22:19"
+        },
+        {
+          "titulo": "El FMI afirma que el Gobierno tiene una “ventana de oportunidad” para acelerar la acumulación de dólares",
+          "link": "https://www.lanacion.com.ar/economia/el-fmi-afirma-que-el-gobierno-tiene-una-ventana-de-oportunidad-para-acelerar-la-acumulacion-de-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 13:02:22"
+        },
+        {
+          "titulo": "Caputo en la UIA: aseguró que el Gobierno va a acumular “más reservas de lo que cualquiera puede estar pensando”",
+          "link": "https://www.lanacion.com.ar/economia/caputo-en-la-uia-aseguro-que-el-gobierno-va-a-acumular-mas-reservas-de-lo-que-cualquiera-puede-estar-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:30:25"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-13",
       "fuentes": [
         "iProfesional",
+        "Perfil",
         "Minuto1",
+        "Clarín",
         "La Nación",
-        "Ámbito Financiero",
-        "Perfil"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -412,35 +126,253 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "economia_argentina:_salarios_20251113",
-      "tema": "Economía Argentina: Salarios y Pobreza",
-      "tema_normalizado": "economia argentina: salarios y pobreza",
-      "resumen": "📌 **¿Qué está pasando?**\n• En septiembre, los salarios registrados en Argentina, tanto del sector público como del privado, perdieron poder adquisitivo frente a la inflación del mes.\n• Esta situación se da en un contexto donde el 31% de los hogares con niños no logra cubrir sus gastos básicos, a pesar de una leve mejora en la reducción de la pobreza infantil.\n\n🔍 **Datos clave:**\n• Inflación de septiembre: 2.1%.\n• Aumento salarial promedio registrado en septiembre: 1.3%.\n• Aumento salarial sector privado no registrado en septiembre: 5.7% (superó la inflación).\n• Hogares con niños que no cubren gastos (primer semestre 2025): 31% (frente a 48% en primer semestre 2024).\n• Pobreza infantil (primer semestre 2025): 46.1% (una caída de 21 puntos porcentuales respecto a primer semestre 2024).\n• Aumento del endeudamiento en hogares: 8 puntos porcentuales en el último año, alcanzando el 31% (o 45% con préstamos informales).\n• Salarios del sector público nacional vs. noviembre 2023: caída real del 13.9%.\n• Salarios provinciales acumulados (Dic 2024-Sep 2025): ganaron a la inflación (14%).\n\n⚡ **Desarrollo:**\n• Los salarios formales (privados registrados y públicos) subieron menos que la inflación de septiembre, evidenciando una pérdida del poder de compra real. En contraste, el sector informal logró superar el aumento de precios.\n• La evolución salarial muestra una fuerte disparidad, con el sector público nacional siendo el más afectado desde el inicio de la actual gestión, con una pérdida acumulada del 25%.\n• Pese a la caída salarial registrada, la pobreza infantil y la pobreza extrema mostraron una importante reducción en la primera mitad de 2025, impulsada por la desaceleración inflacionaria y políticas sociales como la Asignación Universal por Hijo.\n• Sin embargo, un estudio de UNICEF advierte sobre un incremento del endeudamiento en los hogares, especialmente en los sectores medios, que enfrentan dificultades para pagar servicios y tarjetas de crédito.\n• La consultora ACM proyecta una posible baja del 1.3% en los salarios registrados en términos reales para este año, si la dinámica salarial se mantiene en torno al 2% mensual y la inflación en 30%.\n\n💡 **¿Por qué importa?**\n• La persistente pérdida de poder adquisitivo de los salarios registrados continúa impactando la capacidad de consumo de las familias y la estabilidad económica.\n• Aunque se observan avances en la reducción de la pobreza infantil, el creciente endeudamiento y la heterogeneidad salarial marcan desafíos urgentes para la protección social y la sostenibilidad económica.",
-      "cantidad_noticias": 4,
+      "tema_id": "dolar_y_mercados_20251113",
+      "tema": "Dólar y Mercados Financieros Argentina",
+      "tema_normalizado": "dolar y mercados financieros argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado financiero argentino experimenta una relativa calma y estabilidad cambiaria este jueves 13 de noviembre, impulsada por el optimismo post-electoral.\n• Las cotizaciones del dólar oficial y los tipos de cambio paralelos (blue, MEP, CCL) se mantienen en rangos específicos, mientras que las tasas de los plazos fijos en pesos bajan, pero siguen siendo atractivas.\n• El riesgo país continúa su tendencia a la baja, reflejando una mejora en la percepción de los inversores sobre la economía argentina y las perspectivas de reformas.\n\n🔍 **Datos clave:**\n• **Dólar Blue (venta):** $1.435 el jueves 13 de noviembre.\n• **Dólar Oficial (venta):** $1.405 (venta) / $1.437,34 (BCRA promedio) el jueves 13 de noviembre.\n• **Riesgo País:** Se estabiliza en torno a 600 puntos básicos (llegando a 596), habiendo caído un 44% desde las elecciones.\n• **Inflación Octubre (IPC):** 2,3% (INDEC). Proyección Noviembre: 1,9% (REM).\n• **Tasas Plazo Fijo:** La TNA del Banco Nación para digital es del 29% (a 30 días), con otras entidades entre 24-30%.\n• **Bonos en dólares:** Subieron más del 25% desde las elecciones, aunque el 13/11 mostraron leves bajas.\n• **Ministro de Economía:** Luis Caputo, defendiendo el esquema de bandas cambiarias.\n• **Economista Citi Research, Ricardo Dessy:** Proyecta que el riesgo país podría bajar a 400 puntos con reformas.\n\n⚡ **Desarrollo:**\n• El optimismo en los mercados locales se atribuye al triunfo oficialista en las elecciones, lo que generó una \"pax cambiaria\" y un aumento en la demanda de pesos.\n• El Ministro Luis Caputo defiende el actual esquema de bandas cambiarias, argumentando que Argentina aún no está en condiciones de operar con flotación libre debido a la inestabilidad de la demanda de pesos y la volatilidad política.\n• El Gobierno está enfocado en acumular reservas en dólares para fortalecer la posición del Banco Central y cumplir con los compromisos ante el FMI.\n• La baja en la inflación de octubre y las proyecciones de desaceleración para noviembre permiten una reducción en las tasas de los plazos fijos, que aún ofrecen rendimientos reales positivos.\n• Los inversores están expectantes a la aprobación de reformas estructurales (Presupuesto 2026, reformas impositiva, laboral y previsional) para consolidar la recuperación económica y la reducción del riesgo país.\n• A nivel internacional, Wall Street y el mercado de criptomonedas (como Bitcoin, que ronda los u$s100.000) muestran volatilidad debido a la incertidumbre por los datos económicos demorados tras el fin del \"shutdown\" en Estados Unidos, mientras el oro actúa como refugio.\n\n💡 **¿Por qué importa?**\n• La estabilidad cambiaria actual y la sostenida baja del riesgo país son cruciales para generar confianza, atraer inversiones y facilitar el eventual regreso de Argentina a los mercados internacionales de crédito.\n• La consolidación de esta tendencia positiva dependerá de la capacidad del Gobierno para impulsar las reformas económicas necesarias y mantener la previsibilidad en su gestión.",
+      "cantidad_noticias": 21,
       "noticias": [
         {
-          "titulo": "Los salarios registrados perdieron un 1% de poder adquisitivo ante la inflación de septiembre",
-          "link": "https://www.minutouno.com/economia/los-salarios-registrados-perdieron-un-1-poder-adquisitivo-la-inflacion-septiembre-n6213216",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-12 21:48:00"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este jueves 13 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-13-de-noviembre-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 15:12:00"
         },
         {
-          "titulo": "Los salarios registrados perdieron contra la inflación en septiembre",
-          "link": "https://www.perfil.com/noticias/economia/los-salarios-registrados-perdieron-contra-la-inflacion-en-septiembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-12 20:09:00"
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 13 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-13-noviembre-n6213304",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:48:00"
         },
         {
-          "titulo": "En septiembre, los salarios registrados perdieron frente a la inflación",
-          "link": "https://www.clarin.com/economia/septiembre-salarios-registrados-perdieron-frente-inflacion_0_XdEsv6KWUP.html",
+          "titulo": "Bitcoin cae fuerte y vuelve a perforar los u$s100.000, mientras que las principales criptomonedas se hunden hasta 5%",
+          "link": "https://www.ambito.com/finanzas/bitcoin-perfora-los-us102000-mientras-espera-los-efectos-la-reapertura-del-gobierno-eeuu-n6213321",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:47:00"
+        },
+        {
+          "titulo": "Presupuesto, reservas y reformas: la hoja de ruta del Citi para que la economía argentina se recupere",
+          "link": "https://www.lanacion.com.ar/economia/presupuesto-reservas-y-reformas-la-hoja-de-ruta-del-citi-para-que-la-economia-argentina-se-recupere-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:16:53"
+        },
+        {
+          "titulo": "Wall Street se desploma pese al fin del shutdown por la incertidumbre sobre los datos demorados",
+          "link": "https://www.ambito.com/finanzas/el-shutdown-llego-su-fin-pero-wall-street-baja-la-espera-los-datos-economicos-demorados-n6213327",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:13:00"
+        },
+        {
+          "titulo": "El dólar baja y se aleja del techo de la banda tras renovada defensa de Luis Caputo al esquema cambiario",
+          "link": "https://www.ambito.com/finanzas/el-dolar-navega-niveles-preelectorales-y-el-gobierno-defiende-el-esquema-bandas-n6213306",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:11:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 13 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-13-noviembre-n6213229",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:02:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 13 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-13-noviembre-n6213227",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 14:02:00"
+        },
+        {
+          "titulo": "Uno de los bancos que negocia un megacrédito para Argentina dice que el riesgo país podría bajar a 400 puntos",
+          "link": "https://www.clarin.com/economia/bancos-negocia-megacredito-argentina-dice-riesgo-pais-podria-bajar-400-puntos_0_ILJGO0bYM1.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-12 18:39:41"
+          "fecha": "2025-11-13 14:01:20"
         },
         {
-          "titulo": "Tres de cada diez hogares con niños no pueden cubrir sus gastos según Unicef",
-          "link": "https://www.perfil.com/noticias/economia/tres-de-cada-diez-hogares-con-ninos-no-pueden-cubrir-sus-gastos-segun-unicef.phtml",
+          "titulo": "El oro continúa al alza y toca máximos de más de tres semanas, ante las expectativas por la baja de tasas en EEUU",
+          "link": "https://www.ambito.com/finanzas/el-oro-continua-al-alza-y-toca-maximos-mas-tres-semanas-las-expectativas-la-baja-tasas-eeuu-n6213380",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 13:24:00"
+        },
+        {
+          "titulo": "Por qué para De Pablo “se alejó el fantasma del próximo diluvio universal”",
+          "link": "https://www.lanacion.com.ar/economia/por-que-para-de-pablo-se-alejo-el-fantasma-del-proximo-diluvio-universal-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 13:15:54"
+        },
+        {
+          "titulo": "Bonos en dólares frenan su rally mientras el riesgo país se estabiliza en 600 puntos",
+          "link": "https://www.iprofesional.com/finanzas/441838-el-mercado-toma-respiro-el-riesgo-pais-se-estabiliza-y-los-bonos-moderan-las-subas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 13:15:00"
+        },
+        {
+          "titulo": "Los ADRs caen hasta 3,2% y los bonos soberanos retroceden tras dos ruedas al alza",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-profundizan-el-optimismo-el-dato-inflacion-n6213368",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 13:06:00"
+        },
+        {
+          "titulo": "Las apuestas de la City: dónde recomiendan invertir los pesos, con dólar en calma y tasas a la baja",
+          "link": "https://www.iprofesional.com/finanzas/441568-apuesta-de-city-donde-invertir-pesos-con-dolar-calma-y-tasas-a-la-baja",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 13:00:00"
+        },
+        {
+          "titulo": "\"No nos comamos el cuento de que es fácil que el dólar flote\": Caputo dio 5 razones por las que el Gobierno no va a liberar el tipo de cambio",
+          "link": "https://www.clarin.com/economia/comamos-cuento-facil-dolar-flote-caputo-dio-5-razones-gobierno-va-liberar-tipo-cambio_0_oYyn51uouz.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 11:47:06"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este jueves 13 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-13-noviembre-n6213332",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:45:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 13 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-13-noviembre-n6213230",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:45:00"
+        },
+        {
+          "titulo": "Plazo fijo con tasas a la baja: cuánto gano si deposito $350.000 a 30 días",
+          "link": "https://www.ambito.com/economia/plazo-fijo-tasas-la-baja-cuanto-gano-si-deposito-350000-30-dias-n6213409",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:45:00"
+        },
+        {
+          "titulo": "Dólar, actividad e inflación: qué esperan los principales gurúes de la city para fin de este año y 2026",
+          "link": "https://www.ambito.com/finanzas/dolar-actividad-e-inflacion-que-esperan-los-principales-gurues-la-city-fin-este-ano-y-2026-n6213417",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:37:34"
+        },
+        {
+          "titulo": "Los 3 motivos clave que derrumbaron el riesgo país (y lo qué se viene ahora)",
+          "link": "https://www.iprofesional.com/finanzas/441817-los-3-motivos-clave-que-derrumbaron-el-riesgo-pais-y-lo-que-se-viene-ahora",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 11:00:00"
+        },
+        {
+          "titulo": "Vuelven a bajar las tasas del plazo fijo: cómo operan los principales bancos hoy, jueves 13 de noviembre 2025",
+          "link": "https://www.ambito.com/economia/vuelven-bajar-las-tasas-del-plazo-fijo-como-operan-los-principales-bancos-hoy-jueves-13-noviembre-2025-n6213384",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 10:58:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-13",
+      "fuentes": [
+        "iProfesional",
+        "La Nación",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reformas_economicas_gobierno_20251113",
+      "tema": "Reformas Económicas Gobierno Milei",
+      "tema_normalizado": "reformas economicas gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei está impulsando un ambicioso paquete de reformas económicas y estructurales que buscan transformar el modelo productivo y social del país.\n• Estas medidas abarcan cambios profundos en el ámbito laboral, el sistema tributario y la situación de empresas estatales, con el objetivo de lograr estabilidad fiscal y atraer inversiones.\n\n🔍 **Datos clave:**\n• **Reforma laboral:** Se busca formalizar a más de 7 millones de trabajadores informales y crear hasta 3.6 millones de nuevos empleos.\n• **Monotributo:** El Gobierno analiza su eliminación, integrando a los actuales contribuyentes al régimen de autónomos.\n• **Privatización AySA:** Fue aprobado el nuevo marco regulatorio (Decreto 805/2025) para avanzar en la privatización de la empresa, sujeta a Ley 27.742.\n• **Inversión Chevron:** La petrolera estadounidense proyecta triplicar su producción en Vaca Muerta (180.000 barriles diarios), supeditado a la concreción de las reformas.\n• **FAdeA:** Con un déficit operativo de US$1 millón mensual, la Fábrica Militar de Aviones busca capital privado para sus unidades de negocio no militares.\n• **Sesiones Extraordinarias:** El Congreso tratará el Presupuesto 2026 y otras reformas estructurales en sesiones convocadas para diciembre y enero.\n\n⚡ **Desarrollo:**\n• **Reforma Laboral:** El Gobierno evalúa convocar a la CGT, aunque ya se manifestaron en contra de cambios inspirados en el DNU 70/23. Se propone un régimen flexible para nuevas contrataciones, reducción de cargas patronales (25.5% a 17%) y personales (17% a 13%), y un fondo de cese como alternativa indemnizatoria.\n• **Reforma Tributaria:** Contempla la eliminación del Monotributo, ajuste del régimen de autónomos (elevando bases mínimas de aportes a $100.000-$500.000) y una reforma del Impuesto a las Ganancias (mínimo no imponible de ~$1.7 millones mensuales en 2025). También se analiza reducir las contribuciones de seguridad social para microempresas.\n• **Apoyo Empresarial y Demandas:** Empresarios como Paolo Rocca (Techint) respaldan las reformas, pero piden un plan industrial concreto, una \"apertura comercial racional\", menor carga impositiva y una distribución equitativa del esfuerzo fiscal.\n• **Inversiones Extranjeras:** Empresas como Chevron indican que el \"costo de hacer negocios\" en Argentina sigue siendo desafiante. Solicitan reducción de impuestos, flexibilización de controles de capital y mayor flexibilidad laboral para acelerar sus inversiones.\n• **Privatizaciones:** La estrategia gubernamental incluye la desinversión estatal en empresas públicas como AySA y FAdeA, buscando sumar capital privado o privatizarlas para mejorar su eficiencia y reducir déficits operativos.\n• **Impacto Macro:** El Gobierno busca consolidar el equilibrio fiscal en el Presupuesto 2026, anticipando que la estabilización macroeconómica, con menor inflación y riesgo país, sentará las bases para un crecimiento sostenido y futuras bajas de impuestos.\n\n💡 **¿Por qué importa?**\n• Estas reformas buscan transformar profundamente la estructura económica de Argentina, impactando directamente en el empleo, la actividad industrial, el sistema tributario y el rol del Estado.\n• Su implementación y resultados serán clave para la capacidad del país de atraer inversiones, reducir la informalidad laboral y alcanzar una estabilidad macroeconómica de largo plazo.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "Paolo Rocca apoyó las reformas del Gobierno, pero pidió un plan industrial concreto y una \"apertura comercial racional\"",
+          "link": "https://www.clarin.com/economia/paolo-rocca-apoyo-reformas-gobierno-pidio-plan-industrial-concreto-apertura-comercial-racional_0_kyQ3n4ajby.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 14:58:29"
+        },
+        {
+          "titulo": "El Gobierno evalúa convocar a la CGT antes de presentar la reforma laboral",
+          "link": "https://www.infobae.com/politica/2025/11/13/el-gobierno-evalua-convocar-a-la-cgt-antes-de-presentar-la-reforma-laboral/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-13 14:40:42"
+        },
+        {
+          "titulo": "El Gobierno aprobó el nuevo texto ordenado del marco regulatorio de AySA en medio del proceso de privatización",
+          "link": "https://www.ambito.com/economia/el-gobierno-aprobo-el-nuevo-texto-ordenado-del-marco-regulatorio-aysa-medio-del-proceso-privatizacion-n6213291",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 13:58:00"
+        },
+        {
+          "titulo": "Reforma tributaria y laboral: el Gobierno quiere eliminar el Monotributo",
+          "link": "https://www.iprofesional.com/impuestos/441840-reforma-tributaria-y-laboral-el-gobierno-quiere-eliminar-el-monotributo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 13:29:00"
+        },
+        {
+          "titulo": "Martín Menem sobre la reforma laboral: \"Hablan de proteger derechos pero se olvidan que hay más de 7 millones de perosnas que trabajan en la informalidad\"",
+          "link": "https://www.ambito.com/politica/martin-menem-la-reforma-laboral-hablan-proteger-derechos-pero-se-olvidan-que-hay-mas-7-millones-perosnas-que-trabajan-la-informalidad-n6213479",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 13:04:00"
+        },
+        {
+          "titulo": "Chevron dice que podría acelerar sus inversiones en Argentina, pero que por ahora las mantendrá \"al ritmo de las reformas\" de Milei",
+          "link": "https://www.clarin.com/economia/chevron-dice-podria-acelerar-inversiones-argentina-ahora-mantendra-ritmo-reformas-milei_0_ysF1Drw9DK.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 12:50:23"
+        },
+        {
+          "titulo": "Reforma laboral: el Gobierno acelera y expertos legales dan su mirada sobre los puntos críticos",
+          "link": "https://www.perfil.com/noticias/economia/reforma-laboral-el-gobierno-acelera-y-expertos-legales-dan-su-mirada-sobre-los-puntos-criticos.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-12 17:13:00"
+          "fecha": "2025-11-13 12:32:00"
+        },
+        {
+          "titulo": "Fábrica Militar de Aviones: aseguran que hay contactos “avanzados” para sumar capital privado",
+          "link": "https://www.lanacion.com.ar/economia/fabrica-militar-de-aviones-aseguran-que-hay-contactos-avanzados-para-sumar-capital-privado-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:05:23"
+        },
+        {
+          "titulo": "Reforma laboral: el cambio clave con el que el Gobierno espera crear millones de nuevos empleos",
+          "link": "https://www.iprofesional.com/impuestos/441758-reforma-laboral-cambio-con-que-gobierno-javier-milei-espera-crear-millones-nuevos-empleos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 11:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-13",
+      "fuentes": [
+        "iProfesional",
+        "Perfil",
+        "Clarín",
+        "La Nación",
+        "Infobae",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "deuda_y_financiamiento_20251113",
+      "tema": "Deuda y Financiamiento CABA",
+      "tema_normalizado": "deuda y financiamiento caba",
+      "resumen": "📌 **¿Qué está pasando?**\n• El jefe de Gobierno porteño, Jorge Macri, anunció la emisión de bonos por US$ 600 millones en el mercado internacional para la Ciudad de Buenos Aires (CABA).\n• Estos fondos se destinarán a financiar obras públicas e infraestructura, y a refinanciar una parte de la deuda existente de la Ciudad.\n• Esta acción marca el regreso de jurisdicciones públicas argentinas a los mercados globales de deuda, luego de un prolongado cierre desde 2019.\n\n🔍 **Datos clave:**\n• **Monto total:** Hasta US$ 600 millones en bonos.\n• **Destino (obras):** US$ 400 millones para inversiones en infraestructura y proyectos públicos.\n• **Destino (deuda):** US$ 200 millones para \"rollear\" o refinanciar el bono CABA que vence en 2027.\n• **Fecha de colocación (anunciada):** El martes de la semana siguiente al anuncio, realizado un jueves.\n• **Bancos colocadores:** Bank of America, JP Morgan, Deutsche Bank y Santander.\n• **Tasa de interés estimada:** Entre 8% y 8.5% anual.\n• **Evento de anuncio:** 31° Conferencia Industrial de la Unión Industrial Argentina (UIA).\n\n⚡ **Desarrollo:**\n• La decisión de CABA se enmarca en una disminución del riesgo país, que ha generado una oportunidad para que entidades argentinas accedan a financiamiento externo.\n• Jorge Macri enfatizó la confiabilidad de la deuda de CABA, siendo \"muy buscada\" y \"rankeando como las mejores privadas de Argentina\".\n• El gobierno porteño ha presentado un presupuesto \"equilibrado, sin déficit\" y afirma tener el \"menor nivel de endeudamiento\" histórico.\n• CABA destina cerca del 20% de su presupuesto a inversiones de capital, destacando proyectos como la obra de la Línea F de subte.\n• La Ciudad es la segunda jurisdicción pública del país en emitir deuda internacional, después de Córdoba, que colocó US$ 725 millones.\n• Varias provincias, incluyendo Santa Fe, Entre Ríos y Chubut, también evalúan buscar fondos en Wall Street en el corto o mediano plazo.\n• El Gobierno Nacional ve estas emisiones provinciales como una forma de que el Ministerio de Economía pueda adquirir divisas para fortalecer las reservas.\n\n💡 **¿Por qué importa?**\n• Permite a CABA acceder a capital fresco para importantes obras de infraestructura y gestionar eficientemente sus compromisos de deuda a largo plazo.\n• Subraya la percepción de solidez financiera de CABA en los mercados globales, lo que posibilita obtener condiciones favorables de financiamiento.\n• Representa un hito para el sector público argentino al reabrir el canal de financiamiento internacional, indicando una posible reactivación del mercado de deuda.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Jorge Macri anunció que la Ciudad emitirá bonos por U$S 600 millones",
+          "link": "https://www.minutouno.com/economia/jorge-macri-anuncio-que-la-ciudad-emitira-bonos-us-600-millones-n6213535",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 14:30:00"
+        },
+        {
+          "titulo": "El Gobierno porteño sale a buscar hasta US$ 600 millones en Wall Street para refinanciar su deuda",
+          "link": "https://www.clarin.com/economia/gobierno-porteno-sale-buscar-us-600-millones-wall-street-refinanciar-deuda_0_Aq34ASEsDn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 14:13:59"
+        },
+        {
+          "titulo": "Jorge Macri anunció que la Ciudad lanza un bono por u$s600 millones",
+          "link": "https://www.ambito.com/finanzas/jorge-macri-anuncio-que-la-ciudad-lanza-un-bono-us600-millones-n6213476",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 12:46:00"
         }
       ],
       "categoria_principal": "economia",
@@ -448,7 +380,7 @@
       "fuentes": [
         "Minuto1",
         "Clarín",
-        "Perfil"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -456,82 +388,313 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politica_argentina:_muerte_20251113",
-      "tema": "Política Argentina: Muerte mascota presidencial",
-      "tema_normalizado": "politica argentina: muerte mascota presidencial",
-      "resumen": "📌 **¿Qué está pasando?**\n• Dylan, el perro de raza collie del expresidente Alberto Fernández, falleció recientemente tras varios meses de complicaciones en su salud.\n• El exmandatario anunció su deceso con un emotivo mensaje de despedida a través de sus redes sociales, expresando profundo dolor por la pérdida de su compañero.\n• La mascota había sido una figura pública prominente durante la campaña presidencial de 2019 y los cuatro años de mandato de Fernández (2019-2023) en la Casa Rosada y la Quinta de Olivos.\n\n🔍 **Datos clave:**\n• **Nombre de la mascota:** Dylan (bautizado en honor a Bob Dylan).\n• **Dueño:** Ex-presidente Alberto Fernández.\n• **Raza:** Collie de pelaje blanco y marrón.\n• **Popularidad en redes:** Su cuenta de Instagram @dylanferdezok alcanzó casi 50 mil seguidores.\n• **Compañero actual:** Convivía con Lennon, otro perro de la familia, en el departamento de Puerto Madero.\n• **Residencia:** Vivió en la Quinta de Olivos durante la presidencia y luego en Puerto Madero.\n\n⚡ **Desarrollo:**\n• Dylan alcanzó notoriedad durante la campaña presidencial de 2019, siendo presentado por Alberto Fernández como un elemento cercano y familiar para humanizar su imagen.\n• En enero de 2019, se creó una cuenta de Instagram dedicada a Dylan, donde se compartían imágenes y videos de su vida junto al entonces candidato.\n• Durante la presidencia de Fernández, Dylan se convirtió en la \"mascota presidencial\" y fue un protagonista involuntario de varias situaciones mediáticas y políticas.\n• En 2021, tras el escándalo de la \"Fiesta de Olivos\" en cuarentena y la derrota en las PASO legislativas, Dylan se convirtió en un popular meme en redes sociales.\n• Su cuenta de Instagram también fue utilizada para desmentir la asignación de un cargo público a su adiestrador, Ariel Zapata, en marzo de 2022.\n• Alberto Fernández lo despidió con palabras de profunda gratitud, destacando la lealtad, alegría y ternura que Dylan le brindó, y el dolor por su partida.\n• Testigos y vecinos reportaron que Dylan se encontraba visiblemente desmejorado y con dificultades para moverse en los últimos meses antes de su fallecimiento.\n\n💡 **¿Por qué importa?**\n• La figura de Dylan ilustra cómo elementos no tradicionales, como las mascotas, pueden integrarse en la imagen pública de los políticos, humanizándolos y generando conexión emocional con el público.\n• Su popularidad en redes sociales y su rol en situaciones mediáticas evidencian la creciente importancia de estas plataformas en la comunicación política y la viralización de contenidos, incluso los anecdóticos.",
-      "cantidad_noticias": 4,
+      "tema_id": "politica_interna_gobierno_20251113",
+      "tema": "Política Interna Gobierno Milei",
+      "tema_normalizado": "politica interna gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei ha iniciado una nueva etapa de diálogo con los gobernadores para obtener apoyo legislativo a sus reformas.\n• Busca aprobar el Presupuesto 2026, una reforma tributaria, una modernización laboral y un nuevo Código Penal en el Congreso.\n• Internamente, se observa una reconfiguración en el gabinete y ajustes en distintos sectores del Estado, generando tensiones políticas.\n\n🔍 **Datos clave:**\n• **Deuda Iosfa:** $200.000 millones (con un déficit mensual de $10.000 millones).\n• **Recortes ferroviarios:** 1.400 despidos iniciales, 3.000 proyectados y solo 20% de ejecución de un presupuesto de $2.200 millones para mejoras.\n• **Aprobación de Milei:** 48% de imagen positiva, según la consultora Opinaia (post-electoral).\n• **Principales preocupaciones ciudadanas:** Desempleo (53%), Pobreza (52%), Corrupción (48%) e Inseguridad (47%).\n• **Cumbre Mercosur:** 20 de diciembre, posible ausencia del Presidente.\n• **Tierras padre Milei:** 3300 hectáreas en Santiago del Estero involucradas en una disputa.\n• **Pensión Cristina Kirchner:** Reclamo judicial por pensión de $21 millones brutos mensuales.\n• **Nuevos funcionarios:** Manuel Adorni (Jefe de Gabinete) y Diego Santilli (Ministro del Interior).\n\n⚡ **Desarrollo:**\n• El Jefe de Gabinete Manuel Adorni y el Ministro del Interior Diego Santilli encabezan reuniones con gobernadores para asegurar la aprobación de un paquete de reformas y el Presupuesto 2026 en el Congreso.\n• La Provincia de Buenos Aires, liderada por Axel Kicillof, ha sido excluida de estos diálogos, con Santilli pidiéndole \"coherencia\" por su rechazo al Pacto de Mayo y el RIGI.\n• En el ámbito de la defensa, se analiza dividir la obra social de las Fuerzas Armadas y de Seguridad (Iosfa) debido a su alta deuda. El Ministerio de Seguridad creó la carrera de \"Investigador del Delito\" para profesionales en la Policía Federal.\n• El sistema ferroviario del AMBA enfrenta un ajuste fiscal significativo, con despidos y un deterioro del servicio que se compara con la crisis de los años 90.\n• Internamente, se refuerzan las figuras leales a Karina Milei. Se percibe una distancia con Mauricio Macri, y Patricia Bullrich solicitó a Victoria Villarruel que \"no boicotee\" la agenda oficialista en el Senado.\n• En política exterior, el gobierno se alinea con Estados Unidos e Israel, y Javier Milei evalúa no asistir a la cumbre del Mercosur, priorizando acuerdos comerciales con Washington.\n• El Papa León XIV envió un mensaje a la Unión Industrial Argentina (UIA), destacando la importancia de \"salarios justos\" y el rol social del empresariado, un tema clave en el debate sobre la reforma laboral.\n• Javier Milei también participa en eventos ideológicos, como congresos liberales en Corrientes, para reafirmar sus principios ante un público afín.\n\n💡 **¿Por qué importa?**\n• Las negociaciones y reformas legislativas son cruciales para la capacidad del gobierno de Milei para implementar su plan económico y su visión de país.\n• Los ajustes internos y las redefiniciones de alianzas impactarán la gobernabilidad, la gestión de servicios públicos y la orientación futura de la política argentina.",
+      "cantidad_noticias": 26,
       "noticias": [
         {
-          "titulo": "Murió Dylan, el perro de Alberto Fernández",
-          "link": "https://www.lanacion.com.ar/politica/murio-dylan-el-perro-de-alberto-fernandez-nid12112025/",
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid13112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-12 23:12:18"
+          "fecha": "2025-11-13 15:00:00"
         },
         {
-          "titulo": "Cuando la política a veces se vuelve \"una vida de perros\"",
-          "link": "https://www.clarin.com/politica/politica-veces-vuelve-vida-perros_0_AsUxbEFCAr.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-12 21:12:56"
+          "titulo": "El gobernador de Salta prometió apoyo para el presupuesto y las reformas que quiere Milei",
+          "link": "https://www.lanacion.com.ar/politica/el-gobernador-de-salta-prometio-apoyo-para-el-presupuesto-y-las-reformas-que-quiere-milei-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:48:12"
         },
         {
-          "titulo": "“Te despido con mucho dolor”: Alberto Fernández anunció la muerte de su perro Dylan",
-          "link": "https://www.perfil.com/noticias/politica/te-despido-con-mucho-dolor-alberto-fernandez-anuncio-la-muerte-de-su-perro-dylan.phtml",
+          "titulo": "Ante una deuda de $200.000 millones, el Gobierno analiza dividir la obra social de los militares",
+          "link": "https://www.lanacion.com.ar/politica/ante-una-deuda-de-200000-millones-el-gobierno-analiza-dividir-la-obra-social-de-los-militares-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:17:52"
+        },
+        {
+          "titulo": "Patricia Bullrich creó la carrera de \"investigador del delito\" para profesionales",
+          "link": "https://www.perfil.com/noticias/politica/bullrich-crea-la-carrera-de-investigador-del-delito-para-profesionales.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-12 18:22:00"
+          "fecha": "2025-11-13 14:04:00"
         },
         {
-          "titulo": "Falleció Dylan, el perro de Alberto Fernández que lo acompañó en su paso por la Rosada",
-          "link": "https://www.ambito.com/politica/fallecio-dylan-el-perro-alberto-fernandez-que-lo-acompano-su-paso-la-rosada-n6213172",
+          "titulo": "Santiago del Estero: denuncias cruzadas por las 3300 hectáreas que cedió el padre de Javier Milei",
+          "link": "https://www.perfil.com/noticias/politica/santiago-del-estero-denuncias-cruzadas-en-el-mocase-por-un-acuerdo-con-el-padre-de-milei.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 14:04:00"
+        },
+        {
+          "titulo": "\"Franco\", el nuevo libro de Mauricio Macri en homenaje a su padre como su \"maestro y mayor antagonista\"",
+          "link": "https://www.clarin.com/politica/franco-nuevo-libro-mauricio-macri-homenaje-padre-maestro-mayor-antagonista_0_q7D1PhD5uG.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 14:03:05"
+        },
+        {
+          "titulo": "Tras su reunión con el representante comercial de Trump, Pablo Quirno es recibido por el secretario de Estado en Washington",
+          "link": "https://www.lanacion.com.ar/politica/tras-su-reunion-con-el-representante-comercial-de-trump-pablo-quirno-es-recibido-por-el-secretario-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 13:59:50"
+        },
+        {
+          "titulo": "El ferrocarril en el AMBA bajo Milei: ajuste, parálisis y un déjà vu de los años 90",
+          "link": "https://www.perfil.com/noticias/politica/el-ferrocarril-en-el-amba-bajo-milei-ajuste-paralisis-y-un-deja-vu-de-los-anos-90.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 13:56:00"
+        },
+        {
+          "titulo": "El orfebre Pallarols: \"No pude hacer perritos en un bastón de mando porque no está en los códigos\"",
+          "link": "https://noticias.perfil.com/noticias/politica/el-orfebre-pallarols-no-pude-hacer-perritos-en-un-baston-de-mando-porque-no-esta-en-los-codigos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 13:55:32"
+        },
+        {
+          "titulo": "Javier Milei evalúa no asistir a la cumbre del Mercosur en Brasil",
+          "link": "https://www.perfil.com/noticias/politica/el-presidente-milei-evalua-no-asistir-a-la-cumbre-del-mercosur-en-brasil.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 13:46:30"
+        },
+        {
+          "titulo": "Diego Santilli le respondió a Kicillof y explicó por qué no lo convocará: “No adheriste al Pacto de Mayo ni al RIGI, te pido coherencia”",
+          "link": "https://www.perfil.com/noticias/politica/diego-santilli-le-respondio-a-kicillof-y-explico-por-que-no-lo-convocara-no-adheriste-al-pacto-de-mayo-ni-al-rigi-te-pido-coherencia.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 13:29:01"
+        },
+        {
+          "titulo": "Patricia Bullrich le pidió a Victoria Villarruel que “no boicotee” la agenda oficialista en el Senado",
+          "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-pidio-a-victoria-villarruel-que-no-boicoteela-agenda-oficialista-en-el-senado.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 12:53:00"
+        },
+        {
+          "titulo": "El CBC de Menem para los nuevos libertarios: Sharif con los despachos, los “high profile” y las “espadas”",
+          "link": "https://www.lanacion.com.ar/politica/el-cbc-de-menem-para-los-nuevos-libertarios-sharif-con-los-despachos-los-high-profile-y-las-espadas-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:44:51"
+        },
+        {
+          "titulo": "Primera encuesta postelectoral: Milei capitaliza el triunfo pero la principal preocupación es el desempleo",
+          "link": "https://www.perfil.com/noticias/politica/primera-encuesta-postelectoral-milei-capitaliza-el-triunfo-pero-la-principal-preocupacion-es-el-desempleo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 12:38:48"
+        },
+        {
+          "titulo": "En un mensaje a industriales argentinos, el Papa destacó la importancia de pagar \"salarios justos\" a los obreros",
+          "link": "https://www.clarin.com/politica/mensaje-industriales-argentinos-papa-destaco-importancia-pagar-salarios-justos-obreros_0_akSVm6rTNF.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 12:38:45"
+        },
+        {
+          "titulo": "Jorge Rial reveló que Cristina Kirchner quiere un presidenciable no peronista",
+          "link": "https://noticias.perfil.com/noticias/politica/jorge-rial-revelo-que-cristina-kirchner-quiere-un-presidenciable-no-peronista-para-fuerza-patria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 12:33:27"
+        },
+        {
+          "titulo": "Milei no abre el Gobierno: le pone candado",
+          "link": "https://noticias.perfil.com/noticias/politica/milei-no-abre-el-gobierno-le-pone-candado.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 12:28:31"
+        },
+        {
+          "titulo": "Las sugestivas ausencias a la cumbre del PRO de dos diputados que coquetean con La Libertad Avanza",
+          "link": "https://www.clarin.com/politica/sugestivas-ausencias-cumbre-pro-diputados-coquetean-libertad-avanza_0_YuxEWKQh3j.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 11:59:03"
+        },
+        {
+          "titulo": "Milei vuelve alinearse con Trump y Netanyahu y le da la espalda a un voto crucial en la ONU en favor de la Corte Penal Internacional",
+          "link": "https://www.clarin.com/politica/milei-vuelve-alinearse-trump-netanyahu-da-espalda-voto-crucial-onu-favor-corte-penal-internacional_0_gB4RSUfZRm.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 11:56:27"
+        },
+        {
+          "titulo": "Milei viaja a Corrientes para exponer sobre economía ante un auditorio afín",
+          "link": "https://www.lanacion.com.ar/politica/milei-viaja-a-corrientes-para-exponer-sobre-economia-ante-un-auditorio-afin-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 11:42:34"
+        },
+        {
+          "titulo": "Javier Milei vuelve a su zona de confort: hoy viaja a Corrientes para hablar en un congreso liberal",
+          "link": "https://www.perfil.com/noticias/politica/milei-vuelve-a-su-zona-de-confort-hoy-viaja-a-corrientes-para-hablar-en-un-congreso-liberal.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 11:38:22"
+        },
+        {
+          "titulo": "Un ministro de Kicillof pidió una reunión por los fondos para la Provincia y Santilli le respondió con una ironía",
+          "link": "https://www.lanacion.com.ar/politica/un-ministro-de-kicillof-le-pidio-a-santilli-una-reunion-por-los-fondos-para-la-provincia-y-el-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 11:37:28"
+        },
+        {
+          "titulo": "La carta del papa León XIV en la UIA: llamado al rol social del empresariado, el caso de Enrique Shaw y un futuro viaje al país",
+          "link": "https://www.ambito.com/politica/la-carta-del-papa-leon-xiv-la-uia-llamado-al-rol-social-del-empresariado-el-caso-enrique-shaw-y-un-futuro-viaje-al-pais-n6213427",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-12 18:09:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-13",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_argentina:_legisladores_20251113",
-      "tema": "Política Argentina: Legisladores sin banca",
-      "tema_normalizado": "politica argentina: legisladores sin banca",
-      "resumen": "📌 **¿Qué está pasando?**\n• El legislador porteño Yamil Santoro anunció públicamente que busca empleo en plataformas como LinkedIn y X.\n• Su mandato en la Legislatura de la Ciudad de Buenos Aires concluye el 10 de diciembre.\n• No logró renovar su banca tras no obtener el apoyo electoral suficiente en los últimos comicios.\n\n🔍 **Datos clave:**\n• **Yamil Santoro:** Legislador porteño de Republicanos Unidos.\n• **Fin de mandato:** 10 de diciembre.\n• **Resultados electorales:** Su lista, Unión Porteña Libertaria, obtuvo 0,6% (o 0,64%) de los votos.\n• **Precedente:** María Eugenia Vidal, quien también utilizó LinkedIn para buscar trabajo.\n• **Plataformas de anuncio:** LinkedIn y X (ex Twitter).\n• **Perfil profesional:** Abogado con formación en gestión empresaria, comunicación y asuntos públicos.\n\n⚡ **Desarrollo:**\n• Santoro asumió su banca en noviembre de 2023, en reemplazo del exdiputado Roberto García Moritán.\n• Manifestó que, aunque extrañará la etapa legislativa, está entusiasmado con la posibilidad de asumir nuevos desafíos profesionales.\n• Se ofrece para consultorías, proyectos, negocios o servicios profesionales (abogacía, comunicación, estrategia).\n• Expresó interés en trabajar tanto en el sector privado como en el público.\n• Señaló que cuenta con un equipo de trabajo preparado para nuevos desafíos laborales.\n• Durante su período, impulsó proyectos relacionados con la modernización del Estado, la transparencia y la reducción del gasto político.\n• Su campaña electoral incluyó estrategias polémicas, como la candidatura de su hermano, Leandro Santoro, homónimo del político peronista.\n\n💡 **¿Por qué importa?**\n• El caso de Yamil Santoro pone de manifiesto la realidad de los legisladores que finalizan su mandato y necesitan reinsertarse en el mercado laboral.\n• Su búsqueda abierta de empleo en redes sociales genera un debate sobre la transparencia de los políticos y su vínculo con las oportunidades laborales post-mandato.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Con el ejemplo de Maria Eugenia Vidal, Yamil Santoro también busca trabajo en Linkedin tras no renovar la banca",
-          "link": "https://www.perfil.com/noticias/politica/con-el-ejemplo-de-maria-eugenia-vidal-yamil-santoro-busca-trabajo-en-linkedin-tras-no-renovar-la-banca.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 01:37:00"
+          "fecha": "2025-11-13 11:34:00"
         },
         {
-          "titulo": "Como María Eugenia Vidal, ahora un legislador porteño busca trabajo en LinkedIn: \"Tanto en lo público como en lo privado\"",
-          "link": "https://www.clarin.com/politica/maria-eugenia-vidal-ahora-legislador-porteno-busca-trabajo-linkedin-publico-privado_0_mJZrfwh28S.html",
+          "titulo": "\"Gravamen irreparable\": Cristina Kirchner volvió a pedir en la Justicia el cobro de la pensión por viudez de Néstor",
+          "link": "https://www.clarin.com/politica/gravamen-irreparable-cristina-kirchner-volvio-pedir-justicia-cobro-pension-viudez-nestor_0_tXChlVr9AQ.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-12 22:28:52"
+          "fecha": "2025-11-13 11:24:26"
         },
         {
-          "titulo": "\"Estoy buscando laburo\": un legislador porteño sorprendió en sus redes sociales antes de dejar su banca",
-          "link": "https://www.minutouno.com/politica/estoy-buscando-laburo-un-legislador-porteno-sorprendio-sus-redes-sociales-antes-dejar-su-banca-n6213123",
+          "titulo": "Mensaje del papa León XIV para la conferencia de la UIA: \"Todo trabajador tiene derecho a vivir con dignidad\"",
+          "link": "https://www.minutouno.com/economia/mensaje-del-papa-leon-xiv-la-conferencia-la-uia-todo-trabajador-tiene-derecho-vivir-dignidad-n6213373",
           "fuente": "Minuto1",
-          "fecha": "2025-11-12 16:59:00"
+          "fecha": "2025-11-13 11:10:00"
+        },
+        {
+          "titulo": "Presupuesto 2026: Manuel Adorni y Diego Santilli recibieron al gobernador de Salta Gustavo Sáenz en Casa Rosada",
+          "link": "https://www.ambito.com/politica/manuel-adorni-y-diego-santilli-recibieron-al-gobernador-salta-gustavo-saenz-casa-rosada-n6213390",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:07:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-13",
       "fuentes": [
         "Minuto1",
+        "Perfil",
         "Clarín",
-        "Perfil"
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "inmigracion_y_visas_20251113",
+      "tema": "Inmigración y Visas EEUU",
+      "tema_normalizado": "inmigracion y visas eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• La administración de Donald Trump endurece las políticas migratorias y de visas en EE.UU., afectando a personas en proceso de inmigración y solicitantes de visas.\n• Un juez federal ordenó la revisión de la detención de cientos de inmigrantes en Illinois, frenando operativos de ICE, mientras se extiende la protección TPS para venezolanos.\n• Al mismo tiempo, se establecen nuevas causas de denegación de visas por salud y se revocan licencias de conducir comerciales a inmigrantes en California.\n\n🔍 **Datos clave:**\n• **Juez Jeffrey Cummings:** Ordenó revisión de detenciones de ICE en Illinois.\n• **Decreto Castañon Nava:** Acuerdo de 2022 sobre arrestos sin orden judicial, extendido hasta febrero de 2026.\n• **USCIS:** Extendió el EAD para venezolanos bajo TPS hasta el 2 de octubre de 2026.\n• **Marco Rubio:** Secretario de Estado que emitió directiva de denegación de visas por salud (nov. 6, 2025).\n• **17.000 CDL:** Licencias de conducir comerciales en California a revocar a extranjeros.\n• **Diana Santillana Galeano:** Profesora cuya detención por ICE fue declarada ilegal (nov. 12, 2025).\n\n⚡ **Desarrollo:**\n• Un juez federal en Illinois ordenó al DHS revisar la situación de cientos de inmigrantes detenidos por ICE, tras violaciones al decreto Castañon Nava. Esto podría liberar bajo fianza a 615 personas y marca un freno a las operaciones de ICE.\n• La extensión del TPS para venezolanos es hasta octubre de 2026, válida para quienes solicitaron o fueron aprobados antes del 5 de febrero de 2025. No se aceptarán nuevas solicitudes bajo la designación de 2021.\n• La detención por ICE de la profesora colombiana Diana Santillana en Chicago fue declarada ilegal por un juez. Su defensa alega documentos válidos y un proceso de asilo, sentando un precedente relevante.\n• El Departamento de Estado amplió los criterios para denegar visas, incluyendo enfermedades crónicas como diabetes, cáncer, obesidad y trastornos neurológicos, entre otras.\n• La medida, impulsada por Marco Rubio, se fundamenta en la regla de la \"carga pública\", evitando costos de atención médica o asistencia social para el estado.\n• Aunque excluye visas humanitarias, aplica a visas temporales (H-1B) y de residencia permanente. También considera la edad de jubilación o discapacidad como factores.\n• El Secretario de Transporte Sean Duffy exigió a California revocar 17.000 CDL a conductores extranjeros, amenazando con retener $160 millones en fondos federales.\n• El fin del cierre del gobierno federal reanudó programas esenciales como el SNAP, que beneficia a 42 millones de personas, y revirtió despidos masivos en el sector público.\n\n💡 **¿Por qué importa?**\n• Las nuevas políticas reflejan un endurecimiento significativo en los requisitos para ingresar y permanecer en EE.UU., afectando a millones de personas globalmente por motivos de salud, estatus migratorio o tipo de visa.\n• Las decisiones judiciales recientes en Illinois establecen precedentes importantes para la protección de los derechos de los inmigrantes detenidos, aumentando el control judicial sobre las operaciones de ICE y las condiciones de arresto.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Freno al ICE en Chicago: la orden de un juez para liberar a cientos de inmigrantes detenidos en Illinois",
+          "link": "https://www.lanacion.com.ar/estados-unidos/illinois/freno-al-ice-en-chicago-la-orden-de-un-juez-para-liberar-a-cientos-de-inmigrantes-detenidos-en-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 15:09:13"
+        },
+        {
+          "titulo": "Quiénes conservarán su permiso de trabajo en EEUU tras la nueva extensión del TPS hasta 2026",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/13/quienes-conservaran-su-permiso-de-trabajo-en-eeuu-tras-la-nueva-extension-del-tps-hasta-2026/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-13 14:37:55"
+        },
+        {
+          "titulo": "Juez declaró ilegal la captura de profesora colombiana Diana Santillana por agentes de ICE, frente a sus alumnos en un jardín infantil de Illinois, EE. UU.: “Precedente relevante”",
+          "link": "https://www.infobae.com/colombia/2025/11/13/juez-declaro-ilegal-la-captura-de-profesora-colombiana-diana-santillana-por-agentes-de-ice-frente-a-sus-alumnos-en-un-jardin-infantil-de-illinois-ee-uu-precedente-relevante/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-13 14:33:08"
+        },
+        {
+          "titulo": "Cambian las reglas para la visa americana: la nueva razón por la que podrían denegarla en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/cambian-las-reglas-para-la-visa-americana-la-nueva-razon-por-la-que-podrian-denegarla-en-eeuu-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:26:00"
+        },
+        {
+          "titulo": "Malas noticias para los inmigrantes en California: más de 17.000 choferes perderían su licencia de conducir",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/malas-noticias-para-los-inmigrantes-en-california-mas-de-17000-choferes-perderian-su-licencia-de-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 14:12:30"
+        },
+        {
+          "titulo": "EEUU podrá negar la visa por diabetes, cáncer y otras enfermedades crónicas",
+          "link": "https://www.ambito.com/mundo/eeuu-podra-negar-la-visa-diabetes-cancer-y-otras-enfermedades-cronicas-n6213462",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 12:32:00"
+        },
+        {
+          "titulo": "SNAP: así se aplica la Regla de Igualdad de Trato en supermercados minoristas",
+          "link": "https://www.lanacion.com.ar/estados-unidos/snap-asi-se-aplica-la-regla-de-igualdad-de-trato-en-supermercados-minoristas-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:27:28"
+        },
+        {
+          "titulo": "Vuelve el SNAP y revierten despidos masivos: ¿qué significa el fin del cierre de gobierno en EE.UU.?",
+          "link": "https://www.lanacion.com.ar/estados-unidos/vuelve-el-snap-y-revierten-despidos-masivos-que-significa-el-fin-del-cierre-de-gobierno-en-eeuu-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 11:53:46"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-13",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "denuncias_jeffrey_epstein_20251113",
+      "tema": "Denuncias Jeffrey Epstein y Trump",
+      "tema_normalizado": "denuncias jeffrey epstein y trump",
+      "resumen": "📌 **¿Qué está pasando?**\n• Legisladores demócratas de la Cámara Baja revelaron correos electrónicos de Jeffrey Epstein que sugieren que Donald Trump tenía más conocimiento de las actividades del financista de lo que admitió.\n• Estos mensajes, que abarcan un período de 2011 a 2019, fueron seguidos por la publicación de más de 20.000 páginas adicionales de documentos relacionados.\n• La Casa Blanca y los republicanos han desestimado y minimizado la relevancia de estas revelaciones, calificándolas de \"farsa\".\n\n🔍 **Datos clave:**\n• **Período de los correos:** De 2011 a enero de 2019.\n• **Cantidad de documentos:** Inicialmente 3 correos específicos; luego, más de 20.000 páginas adicionales.\n• **Personajes clave:** Jeffrey Epstein, Donald Trump, Ghislaine Maxwell, Michael Wolff (periodista), Virginia Giuffre (víctima).\n• **Frases destacadas de Epstein:** \"el perro que no ha ladrado es Trump\", \"soy el único capaz de hundirlo\", \"sabía de las chicas, ya que le pidió a Ghislaine que frenara\".\n\n⚡ **Desarrollo:**\n• Los primeros correos fueron publicados por demócratas de la Comisión Supervisora de la Cámara Baja, a lo que los republicanos respondieron divulgando un volumen mucho mayor de material.\n• En un mensaje de 2011 a Ghislaine Maxwell, Epstein escribió que \"La VÍCTIMA pasó horas con [Trump] en mi casa\" y se refirió a Trump como \"el perro que no ha ladrado\".\n• La \"víctima\" mencionada en 2011 fue identificada como Virginia Giuffre, quien en 2016 declaró bajo juramento que Trump \"no participó en nada indebido\" y fue \"muy amable\" con ella.\n• Otro correo de 2015 entre Epstein y el periodista Michael Wolff detallaba una estrategia mediática sobre Trump para \"perjudicarlo\" o \"salvarlo\" a cambio de un \"favor\".\n• En enero de 2019, Epstein le dijo a Wolff que \"Trump sabía de las chicas, ya que le pidió a Ghislaine que frenara\", a pesar de que Trump negó públicamente tal conocimiento.\n• Epstein se autodescribió en sus mensajes como alguien íntimamente conocedor de Trump y en diciembre de 2018 afirmó: \"soy el único capaz de hundirlo\".\n• La Casa Blanca, a través de Karoline Leavitt, calificó la difusión de los documentos como una \"farsa\" y los republicanos minimizan la información, asegurando que revela escasa novedad.\n\n💡 **¿Por qué importa?**\n• Estas revelaciones reavivan el escrutinio sobre el grado de conocimiento de Donald Trump acerca de las actividades ilícitas de Jeffrey Epstein, en un contexto de investigación más amplia sobre los vínculos del financista.\n• La publicación de los correos mantiene la controversia en el ámbito político estadounidense, aumentando la presión sobre la relación pasada entre Trump y Epstein.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Qué dice el intercambio de mails de Jeffrey Epstein sobre Donald Trump",
+          "link": "https://www.lanacion.com.ar/estados-unidos/que-dicen-los-mails-que-cambiaron-entre-donald-trump-y-jeffrey-epstein-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 13:16:37"
+        },
+        {
+          "titulo": "El descarnado perfil que hace Epstein de Trump en los 20.000 mails publicados y por qué se consideraba “capaz de derribarlo”",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-descarnado-perfil-que-hace-epstein-de-trump-en-los-20000-mails-publicados-y-por-que-se-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 12:03:50"
+        },
+        {
+          "titulo": "Los detalles de los correos de Jeffrey Epstein que exponen sus vínculos con Donald Trump y figuras del poder",
+          "link": "https://www.ambito.com/mundo/los-detalles-los-correos-jeffrey-epstein-que-exponen-sus-vinculos-donald-trump-y-figuras-del-poder-n6213387",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 11:51:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-13",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "asistencia_financiera_a_20251113",
+      "tema": "Asistencia Financiera a Ucrania",
+      "tema_normalizado": "asistencia financiera a ucrania",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los países nórdicos y bálticos han acordado una compra conjunta de armamento estadounidense valorada en USD 500 millones para apoyar a Ucrania.\n• La Unión Europea se prepara para prestar a Ucrania 140.000 millones de euros provenientes de activos congelados del Banco Central de Rusia.\n\n🔍 **Datos clave:**\n• **USD 500 millones:** Valor de la compra conjunta de armamento por parte de países nórdicos y bálticos.\n• **€ 140.000 millones:** Monto del préstamo planeado por la UE para Ucrania.\n• **8 países nórdicos y bálticos:** Dinamarca, Estonia, Finlandia, Islandia, Letonia, Lituania, Noruega y Suecia.\n• **Euroclear (Bélgica):** Empresa financiera donde se encuentran la mayoría de los activos rusos congelados.\n• **PURL (Priority Requirements List para Ucrania):** Iniciativa de la OTAN para agilizar la compra de armamento.\n\n⚡ **Desarrollo:**\n• La compra de armamento busca proporcionar \"equipo de defensa esencial\" a Ucrania, incluyendo sistemas de misiles como los Patriot, según la iniciativa PURL de la OTAN.\n• Los países nórdicos y bálticos reafirmaron que la seguridad de Ucrania es fundamental para la seguridad europea y que la guerra rusa representa una \"amenaza a largo plazo\".\n• El Secretario General de la OTAN, Mark Rutte, elogió la decisión, destacando que los equipos son \"cruciales\" ahora que Ucrania entra en los meses de invierno.\n• El préstamo de la UE busca garantizar la viabilidad financiera de Ucrania a medio plazo, especialmente ante la posible interrupción de la ayuda de Washington, considerándose la \"vía más eficaz\".\n• El plan contempla que Ucrania devuelva el dinero a Rusia en el futuro si Moscú paga reparaciones de guerra, con los europeos actuando como avalistas.\n• Bélgica es un obstáculo clave, temiendo demandas futuras de Rusia y solicitando garantías de sus socios europeos. Rusia ya ha considerado la medida \"ilegal\" y ha amenazado con represalias.\n\n💡 **¿Por qué importa?**\n• Estas iniciativas demuestran un fuerte compromiso de los países europeos y de la OTAN para sostener militar y financieramente a Ucrania frente a la invasión rusa.\n• La asistencia es vital para la defensa y la estabilidad económica de Ucrania, pero el uso de activos rusos plantea desafíos legales y diplomáticos significativos en la relación con Rusia.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Los gobiernos nórdicos y bálticos acordaron comprar armamento de Estados Unidos por USD 500 millones para apoyar a Ucrania",
+          "link": "https://www.infobae.com/america/mundo/2025/11/13/los-gobiernos-nordicos-y-balticos-acordaron-comprar-armamento-de-estados-unidos-por-usd-500-millones-para-apoyar-a-ucrania/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-13 15:09:51"
+        },
+        {
+          "titulo": "La Unión Europea se prepara para prestarle a Ucrania 140.000 millones de euros pertenecientes al Banco Central de Rusia",
+          "link": "https://www.clarin.com/mundo/union-europea-prepara-prestarle-ucrania-140000-millones-euros-pertenecientes-banco-central-rusia_0_96q7pddEWI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 14:37:35"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-13",
+      "fuentes": [
+        "Clarín",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
