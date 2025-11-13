@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-13",
-  "fecha_generacion": "2025-11-13T12:27:29.652885",
+  "fecha_generacion": "2025-11-13T15:18:51.212748",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 14,
-      "fecha_generacion": "2025-11-13T12:27:26.881017",
+      "cantidad_noticias": 26,
+      "fecha_generacion": "2025-11-13T15:18:36.489446",
       "categoria": "internacional"
     },
     "politica": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T12:27:28.807161",
+      "fecha_generacion": "2025-11-13T15:18:39.150087",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "La estabilidad cambiaria y la acumulación de reservas son prioridades gubernamentales, con el ministro de Economía defendiendo las bandas de flotación del dólar y proyectando un superávit significativo por inversiones en minería y energía. El dólar minorista y paralelo mostró una tendencia a la baja, mientras el riesgo país experimentó una marcada disminución. A nivel internacional, Wall Street aguarda la publicación de datos económicos demorados tras el fin del shutdown en EE.UU., y el peso mexicano alcanzó su valor más bajo en 16 meses.\n\nEl Gobierno impulsa reformas estructurales, enfocándose en un capítulo laboral para generar nuevos empleos y la eliminación de impuestos distorsivos, incluyendo la posible supresión del Monotributo para formalizar la economía. Esta iniciativa se presenta en un contexto de contracción del empleo en blanco por octavo mes consecutivo y suspensiones en sectores como el textil. También se modificaron los vencimientos tributarios y se propone un arancel del 30% a plataformas de comercio electrónico de productos importados.\n\nEn el ámbito empresarial, Fábrica Militar de Aviones y SanCor enfrentan procedimientos de crisis con búsqueda de capital privado y pedidos de quiebra, respectivamente. El Banco Nación relanzó créditos para la compra de vehículos. Destacan oportunidades en sectores innovadores, como la producción de carinata para biocombustibles y el boom de la inteligencia artificial, impulsando gigantes tecnológicos. Además, se difundió una guía para detectar billetes falsos ante el avance de las tecnologías de impresión.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-13T12:27:29.652586",
+      "fecha_generacion": "2025-11-13T15:18:51.212204",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-13T12:27:29.652864"
+      "fecha_generacion": "2025-11-13T15:18:51.212726"
     }
   }
 }
