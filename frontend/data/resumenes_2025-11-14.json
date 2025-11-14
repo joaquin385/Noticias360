@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-14",
-  "fecha_generacion": "2025-11-14T12:27:23.185312",
+  "fecha_generacion": "2025-11-14T15:16:33.154586",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 14,
-      "fecha_generacion": "2025-11-14T12:27:03.273415",
+      "cantidad_noticias": 23,
+      "fecha_generacion": "2025-11-14T15:16:16.875292",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T12:27:07.321679",
+      "resumen": "Argentina y Estados Unidos formalizaron un acuerdo comercial bilateral que profundiza la cooperación, reduce aranceles y protege la propiedad intelectual. El oficialismo celebró el pacto como una señal de crecimiento y alineamiento con el \"mundo libre\", marcando un alejamiento geopolítico de China. La administración provincial de Kicillof, a través de su Ministro de Producción, manifestó preocupación por el posible impacto negativo en la industria bonaerense. Se anticipa la firma del convenio y futuros anuncios por parte del presidente Trump.\n\nEn el ámbito político interno argentino, Manuel Adorni inició su rol como Jefe de Gabinete realizando conferencias de prensa sin preguntas. El Gobierno avanza con sus reformas estructurales, buscando apoyos provinciales a través de reuniones como la de Santilli con Cornejo en Mendoza. Paralelamente, Villarruel y Bullrich se reunieron para alinear estrategias legislativas. La Sindicatura General de la Nación (SIGEN) estableció nuevas normas de control para empresas con participación estatal. Adorni desmintió rumores sobre la reforma laboral y la eliminación del monotributo.\n\nEn el plano judicial, se reactivó una megacausa de corrupción que investiga el desvío de $800 millones destinados a viviendas, con más de 200 personas imputadas. Asimismo, se espera el veredicto en el juicio contra el clan Sena por el caso Cecilia Strzyzowski, mientras que la Procuración solicitó la destitución de la jueza Makintach por presunta manipulación de procesos. En la región, Chile se prepara para sus elecciones presidenciales de este domingo, con el voto obligatorio como factor clave que podría torcer la balanza entre los ocho contendientes.",
+      "cantidad_noticias": 28,
+      "fecha_generacion": "2025-11-14T15:16:32.586091",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Argentina y Estados Unidos formalizaron un acuerdo comercial marco, aunque los detalles se mantienen en reserva hasta su oficialización. Este entendimiento, que busca liberalizar importaciones y otorgar beneficios arancelarios, fue recibido positivamente por el mercado y el sector agropecuario, generando un repunte en las acciones argentinas en Wall Street y expectativas de un impulso para los activos locales.\n\nEn el ámbito cambiario, el dólar blue cotizó en torno a los $1435, mientras que el oficial se ubicó cerca de los $1433,55. La divisa estadounidense experimentó una baja a mínimos en un mes, reavivando el debate sobre un posible atraso cambiario. Otros indicadores mostraron un leve repunte del Riesgo País a 616 puntos.\n\nLa ANSES anunció un bono extraordinario de $100.000 y confirmó un aumento del 2,3% para las asignaciones familiares y universales a partir de diciembre, impactando también en los haberes jubilatorios que, junto al aguinaldo, reflejarán ajustes por inflación. Paralelamente, el Banco Central (BCRA) implementó bloqueos para pagos electrónicos de usuarios incluidos en la Base de No Confiables.\n\nEn la actividad económica, YPF reportó un nuevo récord de producción de petróleo en Vaca Muerta. El sector empresarial manifestó \"resignación\" en la cumbre de la UIA, aunque también se observaron movimientos como la adquisición de la cadena Pani. Se aprobó un préstamo de 75 millones de dólares para obras hídricas en Mendoza y se registró un aumento en la morosidad temprana.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T12:27:23.184798",
+      "fecha_generacion": "2025-11-14T15:16:33.154355",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-14T12:27:23.185295"
+      "fecha_generacion": "2025-11-14T15:16:33.154569"
     }
   }
 }
