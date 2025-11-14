@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-14",
-  "fecha_generacion": "2025-11-14T09:18:07.090641",
+  "fecha_generacion": "2025-11-14T12:27:23.185312",
   "resumenes": {
     "internacional": {
-      "resumen": "Donald Trump aprobó una millonaria venta militar a Taiwán, provocando la reacción de China, que la calificó de \"línea roja\". En América Latina, Estados Unidos escaló la tensión con Venezuela, anunciando la \"Operación Lanza del Sur\" en el Caribe para combatir el narcotráfico y desplegando el portaaviones Gerald R. Ford. Paralelamente, Washington y Buenos Aires sellaron un histórico acuerdo comercial, reduciendo aranceles y eliminando trabas. La violencia en Cisjordania entre israelíes y palestinos aumentó, registrando octubre el mayor número de agresiones desde 2013.\n\nEn la política interna de EE.UU., el fin del \"shutdown\" gubernamental concluyó una crisis de financiamiento, restableciendo la ayuda alimentaria y revirtiendo despidos masivos. La figura de Donald Trump se vio nuevamente implicada por la difusión de correos de Jeffrey Epstein que sugerirían su conocimiento sobre actividades ilícitas del financista, a la vez que la BBC se disculpó por una edición \"engañosa\" de un discurso del expresidente.\n\nEn el ámbito migratorio, California enfrenta una posible revocación de 17.000 licencias de conducir para inmigrantes con permisos de trabajo. El USCIS analiza cambios en la regla de \"public charge\" que afectarían la obtención de la *green card*, mientras varios estados permiten a migrantes obtener documentos de identidad sin prueba de estatus legal. En noticias destacadas de ciencia y tecnología, Jeff Bezos hizo historia al lanzar la primera misión privada a Marte.",
-      "cantidad_noticias": 27,
-      "fecha_generacion": "2025-11-14T09:17:50.248830",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "cantidad_noticias": 14,
+      "fecha_generacion": "2025-11-14T12:27:03.273415",
       "categoria": "internacional"
     },
     "politica": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T09:17:50.779699",
+      "fecha_generacion": "2025-11-14T12:27:07.321679",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Un acuerdo comercial \"histórico\" entre Argentina y Estados Unidos fue anunciado, buscando profundizar la cooperación bilateral y estimular el crecimiento. Este marco general implica la liberalización de importaciones de productos estadounidenses y la reducción de aranceles en sectores clave como carnes, acero, aluminio, medicamentos y automóviles. Argentina abrió su mercado a ganado vivo, aves de corral y quesos de EE.UU., una medida celebrada por la Sociedad Rural, aunque exportadores argentinos aguardan la \"letra chica\" para evaluar el alcance de las concesiones. Se estima un potencial de US$4.500 millones adicionales en comercio bilateral.\n\nEn el ámbito doméstico, la Unión Industrial Argentina (UIA) reflejó un clima empresarial de resignación, aunque UIA Joven instó a discutir un plan industrial de país. El gobierno, a través del Ministerio de Economía, busca sumar reservas para cumplir vencimientos de 2026 y evalúa una reforma tributaria que incluiría la eliminación del Monotributo y modificaciones a Ganancias. Asimismo, el ministro Sturzenegger se reunirá en Mendoza para abordar la desregulación en la industria vitivinícola.\n\nLa ANSES continúa con el pago de prestaciones sociales de noviembre y ha confirmado un bono navideño. En los mercados, el Riesgo País argentino experimentó un leve repunte a 616 puntos, indicando cautela, mientras que el dólar blue mantiene su cotización. El sector agropecuario anticipa \"momentos extraordinariamente buenos\" para la carne argentina y la soja alcanzó su valor más alto en 17 meses. Sin embargo, se observa un crecimiento de la morosidad en sectores de altos ingresos, y el Banco Nación lanzó una línea de créditos para el pago de aguinaldos con tasas desde el 35%.",
+      "resumen": "Argentina y Estados Unidos formalizaron un acuerdo comercial marco, aunque los detalles se mantienen en reserva hasta su oficialización. Este entendimiento, que busca liberalizar importaciones y otorgar beneficios arancelarios, fue recibido positivamente por el mercado y el sector agropecuario, generando un repunte en las acciones argentinas en Wall Street y expectativas de un impulso para los activos locales.\n\nEn el ámbito cambiario, el dólar blue cotizó en torno a los $1435, mientras que el oficial se ubicó cerca de los $1433,55. La divisa estadounidense experimentó una baja a mínimos en un mes, reavivando el debate sobre un posible atraso cambiario. Otros indicadores mostraron un leve repunte del Riesgo País a 616 puntos.\n\nLa ANSES anunció un bono extraordinario de $100.000 y confirmó un aumento del 2,3% para las asignaciones familiares y universales a partir de diciembre, impactando también en los haberes jubilatorios que, junto al aguinaldo, reflejarán ajustes por inflación. Paralelamente, el Banco Central (BCRA) implementó bloqueos para pagos electrónicos de usuarios incluidos en la Base de No Confiables.\n\nEn la actividad económica, YPF reportó un nuevo récord de producción de petróleo en Vaca Muerta. El sector empresarial manifestó \"resignación\" en la cumbre de la UIA, aunque también se observaron movimientos como la adquisición de la cadena Pani. Se aprobó un préstamo de 75 millones de dólares para obras hídricas en Mendoza y se registró un aumento en la morosidad temprana.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T09:18:07.090050",
+      "fecha_generacion": "2025-11-14T12:27:23.184798",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-14T09:18:07.090612"
+      "fecha_generacion": "2025-11-14T12:27:23.185295"
     }
   }
 }
