@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-14",
-  "fecha_generacion": "2025-11-14T18:21:30.661399",
+  "fecha_generacion": "2025-11-14T21:16:08.804157",
   "resumenes": {
     "internacional": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 20,
-      "fecha_generacion": "2025-11-14T18:21:27.494598",
+      "resumen": "La geopolítica global se centra en la formación de una \"mini-OTAN\" nórdica por Suecia, Noruega, Dinamarca y Finlandia, buscando una barrera contra el expansionismo ruso. Paralelamente, Estados Unidos intensifica su presencia militar en el Caribe, difundiendo imágenes del grupo de ataque del portaaviones USS Gerald R. Ford, lo que genera tensión con Venezuela y se enmarca en la lucha contra el narcotráfico.\n\nEn la política interna de Estados Unidos, el expresidente Trump ha ordenado investigar a Bill Clinton y empresarios vinculados a Jeffrey Epstein. En Nueva York, se debate la \"Junk Fee Prevention Act\" y hay una disputa local por un jardín público. Las políticas migratorias son un foco en Houston, donde un condado enfrenta una demanda por financiar asistencia legal a inmigrantes, mientras el Departamento de Seguridad Nacional (DHS) implementa nuevas reglas para proteger a ICE y restringe visas por condiciones de salud específicas.\n\nEuropa destaca por la investigación de Italia sobre presuntos \"safaris humanos\" durante el sitio a Sarajevo en la Guerra de los Balcanes. En Francia, Marine Le Pen ha respaldado a Jordan Bardella como posible candidato presidencial de la extrema derecha. Suecia fue escenario de un accidente fatal con un micro en Estocolmo.\n\nEn el ámbito de las relaciones internacionales y el comercio, se nombra a Peter Lamelas como nuevo embajador de Estados Unidos en Argentina. Suiza, por su parte, ha logrado un acuerdo con la administración Trump para una rebaja arancelaria al 15%.\n\nFinalmente, un buque con 2.901 vacas uruguayas permanece varado en Turquía por casi dos meses sin autorización de desembarque. En Argentina, se celebró por primera vez el Día de los \"Ponchos Azules\", conmemorando la adhesión del país a la Convención de Ginebra de 1951.",
+      "cantidad_noticias": 22,
+      "fecha_generacion": "2025-11-14T21:15:37.910982",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "El Gobierno argentino implementa una reestructuración ministerial, dividiendo la Secretaría de Turismo, Ambiente y Deportes. Las áreas de Turismo y Ambiente pasarán a depender de Jefatura de Gabinete bajo Manuel Adorni, mientras que Deportes quedará en la órbita de Interior con Diego Santilli, asegurando la continuidad de Daniel Scioli. En este contexto, Adorni descartó modificaciones en la ley de empleo público, lo que generó un fuerte cruce con el titular de ATE, quien convocó a un paro nacional.\n\nUn acuerdo comercial entre Argentina y Estados Unidos fue anunciado, lo que tomó por sorpresa a Brasil y complica al Mercosur. El pacto, que incluye reducción arancelaria y protección de la propiedad intelectual, requerirá aprobación legislativa. Desde la provincia de Buenos Aires, el gobernador Axel Kicillof y su ministro de Producción advirtieron que el acuerdo \"golpea de lleno a la industria\" y comprometerá el empleo local.\n\nEn el ámbito judicial, se citó a indagatoria a Diego Spagnuolo y otros exfuncionarios por presuntas coimas y direccionamiento de contratos en la Agencia Nacional de Discapacidad (ANDIS), con revelaciones de chats y videos comprometedores. Asimismo, Julio De Vido presentó un pedido de prisión domiciliaria en el marco de las causas por corrupción. Políticamente, Patricia Bullrich y Victoria Villarruel sellaron un acuerdo en el Senado, donde Bullrich asumirá un rol preponderante en la articulación legislativa, mientras Villarruel se enfocará en las funciones institucionales de la vicepresidencia.\n\nFinalmente, en el panorama regional, Chile se prepara para sus elecciones presidenciales, con la delincuencia y la inmigración como temas centrales de debate, mientras se evalúa el legado económico del gobierno de Gabriel Boric.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T18:21:28.102603",
+      "fecha_generacion": "2025-11-14T21:15:50.654385",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "El acuerdo comercial entre Argentina y Estados Unidos generó un impacto positivo significativo en los mercados financieros. Acciones vinculadas a la exportación experimentaron alzas de hasta 27.2% y el S&P Merval trepó casi un 4%. Los bonos soberanos recuperaron terreno y el riesgo país descendió, mientras el dólar oficial cerró a la baja, alrededor de $1.425. Este pacto fue celebrado por empresas estadounidenses en Argentina, aunque algunos críticos señalaron posibles asimetrías en los compromisos.\n\nEn materia de políticas fiscales y regulatorias, el gobierno avanza con la privatización de la Hidrovía, buscando licitarla antes de fin de año. Paralelamente, se debate la posible eliminación del Monotributo para reemplazarlo por un régimen general o similar al español, aunque las autoridades piden \"prudencia\" sobre estas versiones. A nivel provincial, Córdoba implementó un programa de reducción impositiva para 2026. La \"Ley Bases\" es considerada un punto de partida para futuras reformas.\n\nRespecto al bienestar social e innovaciones financieras y tecnológicas, ANSES confirmó el pago del aguinaldo y ajustes en jubilaciones para diciembre de 2025, con el Banco Nación ofreciendo créditos específicos. La canasta de crianza superó la inflación en octubre, reflejando el aumento de costos. En inversiones, los plazos fijos en pesos ofrecen rendimientos atractivos. Además, Amazon anunció el lanzamiento de su servicio de internet satelital LEO en América Latina para 2026, mientras ARCA intensifica los controles sobre transferencias en billeteras virtuales. En commodities, los precios de la soja se desplomaron internacionalmente por menores compras chinas.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T18:21:30.661124",
+      "fecha_generacion": "2025-11-14T21:16:08.803610",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-14T18:21:30.661376"
+      "fecha_generacion": "2025-11-14T21:16:08.804117"
     }
   }
 }
