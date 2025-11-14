@@ -1,62 +1,175 @@
 {
   "fecha": "2025-11-14",
-  "fecha_generacion": "2025-11-14T06:27:29.362035",
-  "total_temas": 8,
+  "fecha_generacion": "2025-11-14T09:29:20.350484",
+  "total_temas": 10,
   "temas": [
+    {
+      "tema_id": "escandalos_y_crimenes_20251114",
+      "tema": "Escándalos y Crímenes Internacionales",
+      "tema_normalizado": "escandalos y crimenes internacionales",
+      "resumen": "📌 **¿Qué está pasando?**\n• Una serie de escándalos y crímenes internacionales están sacudiendo el panorama público, involucrando a figuras de alto perfil, redes criminales y hasta instituciones mediáticas.\n• Los casos van desde fraudes y difamación hasta lavado de dinero, explotación sexual y violencia doméstica.\n\n🔍 **Datos clave:**\n• **Brittany Miller:** Influencer británica con 3.5 millones de seguidores en TikTok, condenada por fraude en 2020 tras fingir cáncer en 2017.\n• **Familia Hysa:** Red albanesa sancionada por EE. UU., acusada de lavar dinero para el Cártel de Sinaloa a través de 27 personas y empresas.\n• **Jeffrey Epstein:** Financista y depredador sexual, cuyos mails de 2011 y 2019 sugieren que Donald Trump sabía sobre sus actividades de reclutamiento de mujeres.\n• **Paty Navidad:** Actriz mexicana que demandó a la periodista Anabel Hernández por daño moral por vincularla con el narcotráfico en su libro \"Las señoras del narco\".\n\n⚡ **Desarrollo:**\n• La influencer Brittany Miller admitió haber mentido sobre un diagnóstico de cáncer en 2017, alegando una profunda crisis de salud mental, y se disculpó públicamente por el engaño.\n• La actriz Paty Navidad interpuso una demanda por daño moral contra Anabel Hernández y Penguin Random House, negando rotundamente las acusaciones de haber asistido a encuentros con Arturo Beltrán Leyva.\n• El Departamento del Tesoro de EE. UU. bloqueó bienes de la familia Hysa, liderada por Luftar Hysa, por operar una compleja red transnacional de lavado de dinero que abarca México, Canadá, Polonia y Albania para el Cártel de Sinaloa.\n• Adalina Dávalos, exesposa de Jaime Rodríguez Calderón \"El Bronco\", lo acusó públicamente de violencia, control e intimidación durante su matrimonio en Nuevo León.\n• Mails internos de Jeffrey Epstein, difundidos por demócratas, afirman que Donald Trump \"sabía sobre las chicas\" de su red y había \"pasado horas\" con una víctima de trata en su casa.\n• La BBC se disculpó con Donald Trump por una edición engañosa de su discurso del 6 de enero de 2021 que daba la falsa impresión de incitar a la violencia, aunque negó haberlo difamado.\n\n💡 **¿Por qué importa?**\n• Estos escándalos exponen la vulnerabilidad de las figuras públicas a la manipulación mediática, las acusaciones criminales y el abuso de poder, incluso a nivel doméstico.\n• Subrayan la persistencia y alcance global de redes de crimen organizado y explotación, afectando la reputación de individuos y la integridad de sistemas financieros y políticos.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Una influencer fingió que padecía cáncer, lanzaron una campaña para recaudar fondos y terminó pidiendo disculpas",
+          "link": "https://www.infobae.com/america/mundo/2025/11/14/una-influencer-fingio-que-padecia-cancer-lanzaron-una-campana-para-recaudar-fondos-y-termino-pidiendo-disculpas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 06:00:01"
+        },
+        {
+          "titulo": "Paty Navidad demanda por daño moral a Anabel Hernández y editorial",
+          "link": "https://www.infobae.com/mexico/2025/11/14/paty-navidad-demanda-por-dano-moral-a-anabel-hernandez-y-editorial/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 05:51:26"
+        },
+        {
+          "titulo": "Qué se sabe de los Hysa, la familia albanesa acusada de nexos con el Cártel de Sinaloa",
+          "link": "https://www.infobae.com/mexico/2025/11/14/que-se-sabe-de-los-hysa-la-familia-albanesa-acusada-de-nexos-con-el-cartel-de-sinaloa/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 05:11:10"
+        },
+        {
+          "titulo": "Exesposa de ‘El Bronco’ lo acusa de violencia: “Viví bajo intimidación y miedo”",
+          "link": "https://www.infobae.com/mexico/2025/11/14/exesposa-de-el-bronco-lo-acusa-de-violencia-vivi-bajo-intimidacion-y-miedo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 04:09:30"
+        },
+        {
+          "titulo": "Qué revelan ahora los mails internos de Jeffrey Epstein sobre Donald Trump",
+          "link": "https://www.minutouno.com/mundo/que-revelan-ahora-los-mails-internos-jeffrey-epstein-donald-trump-n6213603",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 20:14:00"
+        },
+        {
+          "titulo": "La BBC se disculpó con Donald Trump por una edición engañosa, pero negó haberlo difamado",
+          "link": "https://www.clarin.com/mundo/bbc-disculpo-donald-trump-edicion-enganosa-nego-haberlo-difamado_0_A6PBUOjsyk.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 19:48:39"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-14",
+      "fuentes": [
+        "Infobae",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "finanzas_y_mercados_20251114",
+      "tema": "Finanzas y Mercados Domésticos Argentinos",
+      "tema_normalizado": "finanzas y mercados domesticos argentinos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El panorama financiero y económico argentino presenta contrastes, con una leve alza en el Riesgo País que sugiere cautela en los mercados.\n*   Paralelamente, sectores productivos como la ganadería y la soja muestran un desempeño robusto con proyecciones positivas a nivel internacional.\n*   A nivel interno, se observa un aumento en la morosidad crediticia y desafíos en el empleo, mientras el gobierno implementa medidas para fomentar el crédito y estabilizar la economía.\n\n🔍 **Datos clave:**\n*   **Riesgo País:** Subió a 616 puntos básicos el 13 de noviembre de 2025, tras alcanzar mínimos de 597-600 puntos.\n*   **Soja:** Cotizó a US$421,45 por tonelada en Chicago el 13 de noviembre de 2025, su valor más alto en 17 meses.\n*   **Morosidad:** Escaló al 3,7% en el último mes del trimestre, un aumento de 0,5 puntos porcentuales, con la mora temprana en 5%.\n*   **Empleo:** Se perdieron 13.062 puestos registrados en agosto de 2025, de los cuales el monotributo compensó 5.539 nuevos inscriptos.\n*   **Créditos Aguinaldo:** Banco Nación lanzó líneas con tasas desde el 35% y hasta 150 días de plazo para MiPyMEs y grandes empresas.\n*   **Venta de Dólares:** La compra por home banking se desplomó en noviembre a un estimado de u$s1.000-1.200 millones, frente a >u$s6.000 millones en septiembre.\n*   **Real Brasileño:** Se apreció un 35% más que el peso argentino en 2025, encareciendo Brasil entre 15% y 20% para los turistas locales.\n\n⚡ **Desarrollo:**\n*   El Riesgo País subió a 616 puntos el 13 de noviembre, interrumpiendo una racha bajista post-electoral y mostrando cautela, aunque se mantiene por debajo de picos anteriores.\n*   La ganadería argentina anticipa \"momentos buenos\" con precios y clima favorables; el gobierno promete no intervenir para potenciar el sector, pese a la caída del stock.\n*   La soja alcanzó en Chicago su valor más alto en 17 meses (US$421,45/ton), impulsada por factores como la lenta siembra en Brasil y la demanda de China.\n*   La morosidad en créditos aumentó al 3,7%, destacándose en sectores de mayores ingresos y entre los jóvenes, evidenciando un estrés financiero más amplio.\n*   El Banco Nación lanzó líneas de crédito para MiPyMEs y grandes empresas para el pago de aguinaldos, ofreciendo tasas desde el 35% y plazos de hasta 150 días.\n*   El regreso del DEBIN en diciembre facilitará el cobro digital de cuotas de créditos fintech, lo que se espera baje las tasas y fomente el acceso al crédito.\n*   Los mercados locales vieron caídas en el S&P Merval y los bonos, con el Riesgo País consolidado sobre los 600 puntos; el mercado sigue atento a reformas gubernamentales.\n*   Brasil se volvió 15-20% más caro para turistas argentinos por la apreciación del Real, impactando el perfil de los viajeros y la demanda.\n*   La venta de dólares por home banking se desplomó en noviembre, con estimaciones muy inferiores a meses previos, mientras el Ministro Caputo defiende las bandas cambiarias.\n*   En la provincia de Buenos Aires, la cesión de usufructo o la venta anticipada de bienes son estrategias clave para reducir la carga del impuesto a la herencia.\n\n💡 **¿Por qué importa?**\n*   Estos movimientos financieros y económicos marcan el pulso de la estabilidad del país, influenciando la confianza inversora y la capacidad de crecimiento.\n*   Afectan directamente el poder adquisitivo de los ciudadanos y la viabilidad de las empresas, definiendo el panorama para el financiamiento y el desarrollo productivo.",
+      "cantidad_noticias": 12,
+      "noticias": [
+        {
+          "titulo": "Leve repunte en el indicador de confianza: el Riesgo País de Argentina subió a 616 puntos el 13 de noviembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/leve-repunte-en-el-indicador-de-confianza-el-riesgo-pais-de-argentina-subio-a-616-puntos-el-13-de-noviembre-de-2025-a35.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 01:04:00"
+        },
+        {
+          "titulo": "“Momentos extraordinariamente buenos”: anticipan grandes oportunidades para la carne argentina",
+          "link": "https://www.lanacion.com.ar/economia/campo/momentos-extraordinariamente-buenos-anticipan-grandes-oportunidades-para-la-carne-argentina-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 00:30:44"
+        },
+        {
+          "titulo": "Impacto: la soja alcanzó en el mercado internacional su valor más alto en 17 meses",
+          "link": "https://www.lanacion.com.ar/economia/campo/impacto-la-soja-alcanzo-en-el-mercado-internacional-su-valor-mas-alto-en-17-meses-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 00:29:25"
+        },
+        {
+          "titulo": "Crece la morosidad entre los sectores de altos ingresos",
+          "link": "https://www.perfil.com/noticias/economia/crece-la-dificultad-para-pagar-creditos-en-los-sectores-de-altos-ingresos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 20:28:00"
+        },
+        {
+          "titulo": "Banco Nación lanza nueva línea de créditos para pagar el aguinaldo con tasas desde el 35%",
+          "link": "https://www.iprofesional.com/impuestos/441853-banco-nacion-lanza-nueva-linea-de-creditos-para-pagar-el-aguinaldo-como-solicitarlo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 19:59:00"
+        },
+        {
+          "titulo": "Las claves para no pagar el impuesto a la herencia con el traspaso anticipado",
+          "link": "https://www.iprofesional.com/impuestos/438019-claves-no-pagar-impuesto-herencia-con-traspaso-anticipado",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 19:23:00"
+        },
+        {
+          "titulo": "Vuelve el DEBIN: fintechs anticipan que pueden bajar las tasas y aumentar los créditos",
+          "link": "https://www.iprofesional.com/finanzas/441872-vuelve-debin-fintech-anticipan-que-pueden-bajar-tasas-aumentar-creditos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 19:05:00"
+        },
+        {
+          "titulo": "El S&P Merval en dólares anotó su mayor caída en un mes y el riesgo país se consolidó arriba de los 600 puntos",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-profundizan-el-optimismo-el-dato-inflacion-n6213368",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 18:38:00"
+        },
+        {
+          "titulo": "Brasil, más caro para los argentinos: qué pasó con el real y cómo impactará en las cuentas del BCRA",
+          "link": "https://www.ambito.com/finanzas/brasil-mas-caro-los-argentinos-que-paso-el-real-y-como-impactara-las-cuentas-del-bcra-n6213319",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 18:35:00"
+        },
+        {
+          "titulo": "Efecto postelecciones: la venta de dólares por home banking se desplomó en noviembre",
+          "link": "https://www.iprofesional.com/economia/441855-por-que-venta-dolares-por-home-banking-desplomo-noviembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 18:10:00"
+        },
+        {
+          "titulo": "Empleo: se perdieron más de 13.000 puestos en agosto y el monotributo no llegó a compensar ni la mitad de la baja",
+          "link": "https://www.ambito.com/economia/empleo-se-perdieron-mas-13000-puestos-agosto-y-el-monotributo-no-llego-compensar-ni-la-mitad-la-baja-n6213597",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 17:48:00"
+        },
+        {
+          "titulo": "Los bonos se enfrían y las acciones locales se desploman hasta casi 9%",
+          "link": "https://www.iprofesional.com/finanzas/441838-el-mercado-toma-respiro-el-riesgo-pais-se-estabiliza-y-los-bonos-moderan-las-subas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 17:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-14",
+      "fuentes": [
+        "Perfil",
+        "iProfesional",
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
     {
       "tema_id": "acuerdo_comercial_argentina-estados_20251114",
       "tema": "Acuerdo Comercial Argentina-Estados Unidos",
       "tema_normalizado": "acuerdo comercial argentina-estados unidos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos y Argentina anunciaron un acuerdo comercial \"histórico\" para fortalecer su alianza económica.\n*   El pacto busca reducir aranceles y eliminar barreras no arancelarias, impulsando el comercio y las inversiones recíprocas.\n*   Es un acuerdo marco inicial, con detalles específicos a ser finalizados y firmados en las próximas semanas por los presidentes Donald Trump y Javier Milei.\n\n🔍 **Datos clave:**\n*   **Fecha de anuncio:** Jueves, 13 de noviembre de 2025 (según las noticias, aunque parece ser una fecha futura para un evento ya ocurrido).\n*   **Presidentes involucrados:** Donald Trump (EEUU) y Javier Milei (Argentina).\n*   **Comercio bilateral 2024:** US$12.600 millones (US$6.400M exportaciones argentinas, US$6.200M importaciones de EEUU).\n*   **Aranceles iniciales de EEUU:** 10% para la mayoría de productos argentinos, 50% para acero y aluminio.\n*   **Expectativa cuota de carne bovina:** Aumento de 20.000 a 80.000 toneladas para Argentina.\n*   **Negociadores clave (Arg):** Pablo Quirno (Canciller), Gerardo Werthein (ex Canciller), Alec Oxenford (Embajador).\n*   **Negociadores clave (EEUU):** Jamieson Greer (Representante Comercial), Howard Lutnick (Secretario de Comercio).\n\n⚡ **Desarrollo:**\n*   El acuerdo tiene como objetivos principales impulsar el crecimiento a largo plazo, ampliar oportunidades y crear un entorno transparente para el comercio e innovación.\n*   Argentina otorgará acceso preferencial a productos estadounidenses como medicamentos, químicos, maquinaria, tecnología de la información, dispositivos médicos, vehículos y productos agrícolas.\n*   Estados Unidos, por su parte, eliminará aranceles sobre ciertos recursos naturales no disponibles en su territorio y artículos farmacéuticos no patentados de origen argentino.\n*   Ambos países se comprometen a mejorar las condiciones de acceso bilateral y recíproco para el comercio de carne bovina.\n*   Argentina eliminará barreras no arancelarias, como licencias de importación y formalidades consulares, y reducirá gradualmente el impuesto estadístico para productos estadounidenses.\n*   El pacto incluye la aceptación de productos estadounidenses que cumplan con sus normas o estándares internacionales (ej. vehículos, farmacéuticos y dispositivos médicos con certificación FDA) sin requisitos adicionales de evaluación de conformidad.\n*   Argentina se compromete a reforzar la protección de la propiedad intelectual, luchando contra la falsificación y piratería, y abordando desafíos relacionados con patentes.\n*   Se establece la apertura del mercado argentino a ganado bovino vivo y aves de corral de EEUU (en un año), simplificando procesos de registro para carnes y productos lácteos.\n*   El acuerdo también contempla cooperación en minerales críticos, estabilización del mercado mundial de soja y facilitación del comercio digital.\n*   El oficialismo argentino celebró el acuerdo como un reconocimiento al programa económico de Milei y una inserción en el \"mundo libre\", mientras la oposición expresó dudas sobre posibles perjuicios para la economía local.\n\n💡 **¿Por qué importa?**\n*   Este acuerdo es el avance comercial más amplio entre ambos gobiernos en décadas y refuerza el alineamiento geopolítico de Argentina con Estados Unidos.\n*   Aunque la \"letra chica\" definirá el impacto total, se espera un aumento significativo en el intercambio comercial y las inversiones, con beneficios y desafíos para diversos sectores productivos de Argentina.",
-      "cantidad_noticias": 41,
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos han alcanzado un Acuerdo Marco de Comercio e Inversión Recíprocos, buscando fortalecer su alianza económica.\n• Este entendimiento tiene como objetivo impulsar el crecimiento a largo plazo, expandir oportunidades y crear un entorno transparente para el comercio y la innovación.\n• El presidente Javier Milei y el gobierno de Donald Trump celebraron el acuerdo, aunque se esperan los detalles finales y la firma oficial de los mandatarios.\n\n🔍 **Datos clave:**\n• **Fecha del anuncio:** Jueves 13 de noviembre de 2025.\n• **Intercambio comercial 2024:** US$12.600 millones (US$6.400 M exportaciones argentinas, US$6.200 M importaciones de EE.UU.).\n• **Superávit comercial argentino 2024:** US$228 millones, el primero en 18 años.\n• **Expectativa de cuota de carne bovina:** Se prevé un aumento de 20.000 a 80.000 toneladas, con un potencial de US$300 millones extra para Argentina.\n• **Aranceles de acero y aluminio:** Podrían reducirse del 50% actual a casi 0% para productos argentinos.\n\n⚡ **Desarrollo:**\n• El acuerdo es, por ahora, un \"marco general\" o \"declaración conjunta\", y las partes trabajarán para finalizar el texto y llevar a cabo las formalidades internas antes de su entrada en vigor.\n• Argentina se compromete a otorgar acceso preferencial a productos estadounidenses como medicamentos, químicos, maquinaria, tecnología, dispositivos médicos, vehículos y una amplia gama de productos agrícolas.\n• También abrirá su mercado a ganado bovino vivo de EE.UU. y a aves de corral en un año, simplificará procesos de registro para carnes y lácteos, y eliminará barreras no arancelarias como el impuesto estadístico y formalidades consulares.\n• Estados Unidos, por su parte, eliminará aranceles recíprocos sobre ciertos recursos naturales no disponibles localmente y bienes no patentados de uso farmacéutico, y mejorará el acceso a la carne bovina argentina.\n• Se incluyeron compromisos sobre propiedad intelectual, con Argentina reforzando acciones contra la falsificación y piratería.\n• El gobierno argentino (Milei, Quirno, Adorni) celebró el pacto como un \"profundo reconocimiento al programa económico\" y una \"vuelta al mundo libre\", mientras que sectores opositores expresaron dudas sobre sus condiciones.\n• El entendimiento formaliza el respaldo de Washington a la agenda económica de reformas de Milei y se inscribe en un alineamiento geopolítico con EE.UU.\n\n💡 **¿Por qué importa?**\n• Este acuerdo histórico redefine la relación económica bilateral, buscando impulsar el crecimiento y las inversiones de Estados Unidos en Argentina.\n• Podría generar nuevas oportunidades para exportaciones argentinas en sectores clave como carne, acero y aluminio, aunque también implicará competencia para industrias locales.",
+      "cantidad_noticias": 36,
       "noticias": [
         {
-          "titulo": "EEUU anuncia acuerdos para rebajar aranceles a Argentina, El Salvador, Ecuador y Guatemala",
-          "link": "https://www.infobae.com/america/agencias/2025/11/14/eeuu-anuncia-acuerdos-para-rebajar-aranceles-a-argentina-el-salvador-ecuador-y-guatemala/",
+          "titulo": "Con un comunicado, la Sociedad Rural celebró el acuerdo con Estados Unidos",
+          "link": "https://www.infobae.com/economia/2025/11/14/con-un-comunicado-la-sociedad-rural-celebro-el-acuerdo-con-estados-unidos/",
           "fuente": "Infobae",
-          "fecha": "2025-11-14 03:07:05"
-        },
-        {
-          "titulo": "Los detalles secretos del acuerdo comercial con Estados Unidos que ratificó la sintonía politica entre Javier Milei y Donald Trump",
-          "link": "https://www.infobae.com/economia/2025/11/14/los-detalles-secretos-del-acuerdo-comercial-con-estados-unidos-que-ratifico-la-sintonia-politica-entre-javier-milei-y-donald-trump/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 03:04:00"
-        },
-        {
-          "titulo": "EEUU anuncia acuerdos comerciales con Argentina, Guatemala, Ecuador y El Salvador",
-          "link": "https://www.infobae.com/america/agencias/2025/11/14/eeuu-anuncia-acuerdos-comerciales-con-argentina-guatemala-ecuador-y-el-salvador/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 02:16:08"
-        },
-        {
-          "titulo": "Qué piensan los industriales sobre el discurso del Gobierno y el acuerdo comercial con EEUU",
-          "link": "https://www.infobae.com/economia/2025/11/14/que-piensan-los-industriales-sobre-el-discurso-del-gobierno-y-el-acuerdo-comercial-con-eeuu/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 01:53:59"
-        },
-        {
-          "titulo": "Javier Milei en Corrientes: entre el festejo del acuerdo con EE.UU., un nuevo tono amable y la exaltación del reformismo",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-corrientes-entre-el-festejo-del-acuerdo-con-eeuu-un-nuevo-tono-amable-y-la-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 00:05:43"
+          "fecha": "2025-11-14 05:33:50"
         },
         {
           "titulo": "Trump hace valer su rescate a Milei",
           "link": "https://www.lanacion.com.ar/economia/trump-hace-valer-su-rescate-a-milei-nid13112025/",
           "fuente": "La Nación",
           "fecha": "2025-11-13 22:49:28"
-        },
-        {
-          "titulo": "El anuncio desató la euforia en el oficialismo y dudas en la oposición",
-          "link": "https://www.lanacion.com.ar/politica/el-anuncio-desasto-la-euforia-en-el-oficialismo-y-dudas-en-la-oposicion-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 22:13:31"
-        },
-        {
-          "titulo": "Un pacto que pega de lleno en el sector de los laboratorios nacionales",
-          "link": "https://www.lanacion.com.ar/economia/un-pacto-que-pega-de-lleno-en-el-sector-de-los-laboratorios-nacionales-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 21:52:57"
         },
         {
           "titulo": "Estados Unidos anunció que llegó a un acuerdo comercial con la Argentina y busca \"impulsar el crecimiento\"",
@@ -69,6 +182,12 @@
           "link": "https://www.ambito.com/economia/acuerdo-comercial-eeuu-cuales-son-los-sectores-productivos-que-abarca-n6213699",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-13 21:41:00"
+        },
+        {
+          "titulo": "Acuerdo: la Rural y Angus dieron un paso histórico con los registros ganaderos",
+          "link": "https://www.lanacion.com.ar/economia/campo/acuerdo-la-rural-y-angus-dieron-un-paso-historico-con-los-registros-ganaderos-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 21:37:57"
         },
         {
           "titulo": "El Gobierno presentó el acuerdo con EEUU como \"un profundo reconocimiento al programa económico\"",
@@ -260,138 +379,13 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
-        "Minuto1",
-        "Infobae",
-        "La Nación",
         "iProfesional",
-        "Clarín",
-        "Perfil",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "gobierno_milei:_medidas_20251114",
-      "tema": "Gobierno Milei: Medidas y Reforma",
-      "tema_normalizado": "gobierno milei: medidas y reforma",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei ha iniciado una etapa de profundas reformas, buscando redefinir la economía y la política exterior del país.\n• Se formalizó un importante acuerdo de comercio e inversiones con Estados Unidos, generando un debate sobre sus beneficios y posibles impactos.\n• A nivel interno, se impulsan reformas laboral y del empleo público, junto con una reorganización legislativa para asegurar su aprobación.\n\n🔍 **Datos clave:**\n• **Acuerdo bilateral:** Argentina y Estados Unidos, celebrado por el gobierno como alineamiento con EE. UU.\n• **Reforma laboral:** Rechazada con paros por ATE y Federación Aceitera.\n• **Empleo público:** Congelamiento de vacantes por 2 años, centralización en Jefatura de Gabinete (Manuel Adorni).\n• **Empleo formal:** Caída de más de 223.000 puestos (noviembre 2023 - agosto 2025).\n• **Emergencia Agropecuaria:** Declarada en Buenos Aires, Entre Ríos y Río Negro.\n• **Diplomacia:** Milei ausente en G20, duda sobre cumbre Mercosur.\n• **Fechas:** Sesiones extraordinarias (post 10/12), propuestas del Consejo de Mayo (15/12).\n\n⚡ **Desarrollo:**\n• El acuerdo con EE. UU. busca aperturas recíprocas de mercados, aunque la Casa Blanca detalla exigencias como el acceso de productos agropecuarios estadounidenses, generando inquietud por la competencia local.\n• La reforma laboral, defendida para modernizar el mercado y formalizar el empleo, es rechazada con paros por sindicatos (ATE, Aceiteros) que acusan al gobierno de perjudicar derechos laborales.\n• El Presupuesto 2026 congela la mayoría de las vacantes públicas por dos años y centraliza los nombramientos en la Jefatura de Gabinete, buscando un ajuste del gasto estatal.\n• LLA busca ampliar su bancada, mientras el PRO mantiene independencia. El ministro Santilli articula con gobernadores y legisladores para asegurar el apoyo a las reformas.\n• La política exterior de Milei prioriza un fuerte alineamiento con EE. UU. e Israel, reflejado en el acuerdo bilateral y la ausencia en cumbres como el G20 y la duda sobre Mercosur.\n• El gobierno declaró emergencia agropecuaria en regiones de Buenos Aires, Entre Ríos y Río Negro, ofreciendo asistencia por fenómenos climáticos.\n• Controversias incluyen críticas del asesor Santiago Caputo a periodistas y una muestra de caricaturas en Santa Rosa, cuestionada por la DAIA por posibles tintes antisemitas.\n\n💡 **¿Por qué importa?**\n• Estas acciones marcan la dirección profunda del gobierno en materia económica, social y diplomática, priorizando la liberalización y el ajuste.\n• El proceso genera una intensa polarización política y social, condicionando el debate y la aprobación de sus propuestas.",
-      "cantidad_noticias": 17,
-      "noticias": [
-        {
-          "titulo": "Empezó la nueva etapa del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/empezo-la-nueva-etapa-del-gobierno-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 02:52:53"
-        },
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 02:31:29"
-        },
-        {
-          "titulo": "Santiago Caputo chicaneó a los periodistas que criticaron las \"intervenciones\" de Javier Milei en el exterior",
-          "link": "https://www.perfil.com/noticias/politica/santiago-caputo-chicaneo-a-los-periodistas-que-criticaron-las-intervenciones-de-javier-milei-en-el-exterior.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-14 02:28:00"
-        },
-        {
-          "titulo": "La Libertad Avanza y el PRO se reorganizan por separado en Diputados y crece el malestar por los pases de bloque",
-          "link": "https://www.infobae.com/politica/2025/11/14/la-libertad-avanza-y-el-pro-se-reorganizan-por-separado-en-diputados-y-crece-el-malestar-por-los-pases-de-bloque/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 01:47:30"
-        },
-        {
-          "titulo": "Polémica muestra de caricaturas en el Concejo Deliberante de Santa Rosa: advierten sobre imágenes antisemitas y con burlas hacia el Presidente",
-          "link": "https://www.clarin.com/politica/polemica-muestra-caricaturas-concejo-deliberante-santa-rosa-advierten-presuntas-imagenes-antisemitas-burlas-presidente_0_XvZh9O5cKD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-14 01:25:14"
-        },
-        {
-          "titulo": "Adorni y Santilli se reunieron con el gobernador de Salta",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 00:07:30"
-        },
-        {
-          "titulo": "Javier Milei no va al G20 y ahora duda en concurrir a la cumbre del Mercosur",
-          "link": "https://www.minutouno.com/politica/javier-milei-no-va-al-g20-y-ahora-duda-concurrir-la-cumbre-del-mercosur-n6213754",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-14 00:07:00"
-        },
-        {
-          "titulo": "El Gobierno quiere dejar en manos de Manuel Adorni el nombramiento de todos los empleados públicos",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-quiere-dejar-en-manos-de-manuel-adorni-el-nombramiento-de-todos-los-empleados-publicos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 23:46:00"
-        },
-        {
-          "titulo": "La Comisión de Fentanilo citó nuevamente al ministro Mario Lugones y expresó su enojo ante su faltazo: \"¡Hay que traerlo de los pelos!\"",
-          "link": "https://www.perfil.com/noticias/politica/la-comision-de-fentanilo-cito-nuevamente-al-ministro-mario-lugones-y-expreso-su-enojo-ante-su-faltazo-hay-que-traerlo-de-los-pelos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 23:06:00"
-        },
-        {
-          "titulo": "ATE y Aceiteros lanzan un \"paro preventivo\" contra la reforma laboral: \"Nos quieren joder\"",
-          "link": "https://www.perfil.com/noticias/politica/ate-y-aceiteros-lanzan-un-paro-preventivo-contra-la-reforma-laboral-no-hay-que-esperar-la-letra-chica.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 22:51:00"
-        },
-        {
-          "titulo": "El expresidente de Fiat habló de Javier Milei y de la gente del conurbano: narcos, ladrones y \"planeros\"",
-          "link": "https://www.minutouno.com/politica/el-expresidente-fiat-hablo-javier-milei-y-la-gente-del-conurbano-narcos-ladrones-y-planeros-n6213743",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 22:44:00"
-        },
-        {
-          "titulo": "El Gobierno declaró la emergencia agropecuaria en las provincias de Buenos Aires, Entre Ríos y Río Negro",
-          "link": "https://www.minutouno.com/politica/el-gobierno-declaro-la-emergencia-agropecuaria-las-provincias-buenos-aires-rios-y-rio-negro-n6213649",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 20:02:00"
-        },
-        {
-          "titulo": "Presupuesto 2026: Javier Milei congela vacantes de empleados públicos por dos años",
-          "link": "https://www.minutouno.com/politica/presupuesto-2026-javier-milei-congela-vacantes-empleados-publicos-dos-anos-n6213688",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 19:54:00"
-        },
-        {
-          "titulo": "Diego Santilli defendió la reforma laboral en el Congreso de la UIA: \"Mejoras para todos\"",
-          "link": "https://www.minutouno.com/politica/diego-santilli-defendio-la-reforma-laboral-el-congreso-la-uia-mejoras-todos-n6213661",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 19:09:00"
-        },
-        {
-          "titulo": "Carolina Losada: \"Los pedidos de la UIA están comprendidos en el trabajo que viene haciendo el Consejo de Mayo\"",
-          "link": "https://www.ambito.com/politica/carolina-losada-los-pedidos-la-uia-estan-comprendidos-el-trabajo-que-viene-haciendo-el-consejo-mayo-n6213599",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 19:02:00"
-        },
-        {
-          "titulo": "En la Conferencia Industrial de la UIA, Santilli afirmó que “la Argentina que recibió nuestro presidente no generaba empleo hace 15 años”",
-          "link": "https://www.perfil.com/noticias/politica/en-la-conferencia-industrial-de-la-uia-santilli-afirmo-que-el-sector-empresario-es-central-y-pidio-un-dialogo-maduro-con-sindicatos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 17:56:00"
-        },
-        {
-          "titulo": "El Gobierno declaró la emergencia agropecuaria en Buenos Aires, Entre Ríos y Río Negro",
-          "link": "https://www.ambito.com/politica/el-gobierno-declaro-la-emergencia-agropecuaria-buenos-aires-rios-y-rio-negro-n6213607",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 17:17:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-14",
-      "fuentes": [
+        "Ámbito Financiero",
         "Minuto1",
         "Infobae",
-        "La Nación",
-        "Clarín",
         "Perfil",
-        "Ámbito Financiero"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -399,41 +393,17 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "economia_argentina:_mercados_20251114",
-      "tema": "Economía Argentina: Mercados y Políticas",
-      "tema_normalizado": "economia argentina: mercados y politicas",
-      "resumen": "📌 **¿Qué está pasando?**\n• La economía argentina presenta un panorama complejo, con un fuerte impulso en el sector energético y agroexportador, pero con desafíos significativos en el ámbito financiero y laboral.\n• El Gobierno busca implementar reformas estructurales y estrategias para fortalecer las reservas y cumplir con los compromisos de deuda, mientras el crédito enfrenta una creciente morosidad.\n\n🔍 **Datos clave:**\n• **Vaca Muerta:** Argentina proyecta liderar la producción de gas en la región, con un aumento del 60% hasta 2035, y alcanzar 1.4 millones de barriles diarios de petróleo.\n• **Riesgo País:** Se ubicó en 616 puntos básicos el 13 de noviembre de 2025, después de una marcada tendencia a la baja desde picos superiores a 1.000 puntos.\n• **Dólar:** El dólar blue cotizó a $1.435 y el oficial a $1.430 el 14 de noviembre de 2025. El dólar tarjeta alcanzó los $1.859.\n• **Morosidad Crediticia:** El ratio de irregularidad del crédito subió a 3,7%, y la mora temprana (menor a 90 días) al 5%, afectando incluso a sectores de mayores ingresos.\n• **Monotributo:** Cerca de 2.9-3 millones de monotributistas, cuyo régimen el Gobierno estudia eliminar para integrarlos al sistema general.\n• **Empleo:** Se perdieron 223.796 puestos de trabajo asalariados registrados desde noviembre de 2023 hasta agosto de 2025.\n• **Soja:** Alcanzó los US$421,45 por tonelada en la Bolsa de Chicago, su valor más alto en 17 meses.\n\n⚡ **Desarrollo:**\n• El sector energético, impulsado por Vaca Muerta, es un pilar fundamental para el crecimiento, con la Agencia Internacional de Energía (IEA) proyectando a Argentina como líder regional en gas y con un récord histórico de producción de petróleo para 2035.\n• El panorama agroexportador es favorable, con la soja en valores máximos y buenas perspectivas para la carne argentina, pero los industriales de la UIA advierten sobre la necesidad de no depender únicamente de los recursos naturales y fortalecer la industria.\n• En el plano financiero, la venta de dólares por home banking se desplomó en noviembre, y el Gobierno de Luis Caputo defiende el esquema de bandas cambiarias mientras prioriza la acumulación de reservas y el cumplimiento de vencimientos de deuda en 2026 (u$s4.500 millones con bonistas y u$s1.000 millones con Bopreal en enero).\n• La morosidad crediticia se incrementó, afectando a un segmento más amplio de la población, lo que generó la iniciativa del Banco Central para reintroducir el DEBIN y facilitar el cobro digital de cuotas a las fintechs, buscando dinamizar el crédito.\n• El Gobierno evalúa una profunda reforma tributaria y laboral que incluiría la eliminación del Monotributo, cambios en el Impuesto a las Ganancias y el IVA, así como la reducción de contribuciones patronales para estimular el empleo formal.\n• También se anunció una nueva línea de créditos del Banco Nación para el pago de aguinaldos, con tasas preferenciales desde el 35%, destinada a MiPyMEs y grandes empresas.\n\n💡 **¿Por qué importa?**\n• Las políticas y reformas en curso son cruciales para estabilizar la economía, atraer inversiones y capitalizar el potencial exportador de Argentina, especialmente en energía y el sector agropecuario.\n• La gestión de la inflación, el tipo de cambio y la deuda, junto con las iniciativas laborales y crediticias, impactarán directamente en el empleo, el poder adquisitivo y el bienestar de la sociedad argentina.",
-      "cantidad_noticias": 28,
+      "tema_id": "cotizacion_de_dolar_20251114",
+      "tema": "Cotización de Dólar y Otras Monedas",
+      "tema_normalizado": "cotizacion de dolar y otras monedas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar blue y otras monedas alternativas presentan sus cotizaciones diarias, mostrando un escenario de relativa calma con movimientos leves.\n• El dólar blue se cotizó a $1415 para la compra y $1435 para la venta este viernes 14 de noviembre de 2025.\n• Por su parte, el dólar oficial, euro blue y real blue también tuvieron sus valores de referencia en el mercado.\n\n🔍 **Datos clave:**\n• **Dólar Blue (14/11/2025):** Compra $1415, Venta $1435.\n• **Dólar Oficial (14/11/2025, Banco Nación):** Compra $1380, Venta $1430.\n• **Brecha Dólar Oficial vs. Blue (14/11/2025):** 3%.\n• **Euro Blue (13/11/2025):** Compra $1711,75, Venta $1743,75.\n• **Real Blue (13/11/2025):** Compra $262,75, Venta $273,75.\n• **Dólar MEP (13/11/2025):** $1462,04.\n• **Dólar CCL (13/11/2025):** $1480,11.\n• **Dólar Blue en 2025:** Subió 26% respecto a 2024; bajó 1% en noviembre de 2025 respecto al mes anterior.\n\n⚡ **Desarrollo:**\n• El **dólar blue** es el que opera en el mercado informal o \"negro\", sin intervención bancaria y con un valor usualmente superior al oficial. Cierra a las 15 horas.\n• Se le denomina \"blue\" por su asociación con algo \"oscuro\" o con las operaciones de \"blue chips\", acciones de empresas reconocidas.\n• El **dólar oficial** es el valor establecido por el Banco Central y se adquiere en bancos y casas de cambio.\n• Existen otras cotizaciones relevantes como el **dólar bolsa (MEP)**, el **dólar Contado Con Liquidación (CCL)**, el **dólar tarjeta/turista** (oficial minorista + recargos), y el **dólar cripto**.\n• El mercado cambiario argentino se encuentra en una fase de \"calma frágil\" post-electoral, con el Banco Central intentando recomponer reservas y el Tesoro refinanciando deuda.\n• La política monetaria se reordena con baja de tasas en pesos, pero la cercanía del tipo de cambio al límite superior de la banda cambiaria limita la compra de dólares.\n• Las señales clave para el futuro del dólar incluyen la baja de tasas, el manejo de deuda, la capacidad del BCRA para acumular reservas, los flujos de divisas privadas y la percepción del mercado sobre el régimen de bandas.\n\n💡 **¿Por qué importa?**\n• Las diferentes cotizaciones del dólar y otras divisas son clave para la economía argentina, afectando los precios, el ahorro y las inversiones.\n• La evolución de estas cotizaciones es un termómetro de la estabilidad económica y financiera del país, influyendo en las decisiones de ciudadanos y empresas.",
+      "cantidad_noticias": 8,
       "noticias": [
         {
-          "titulo": "La Agencia Internacional de Energía proyectó que la Argentina liderará la producción de gas en la región gracias a Vaca Muerta",
-          "link": "https://www.infobae.com/economia/2025/11/14/la-agencia-internacional-de-energia-proyecto-que-la-argentina-liderara-la-produccion-de-gas-en-la-region-gracias-a-vaca-muerta/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 02:13:19"
-        },
-        {
-          "titulo": "El crédito bajo presión: subió la mora en bancos y financieras, incluso entre personas de mayor poder adquisitivo",
-          "link": "https://www.infobae.com/economia/2025/11/14/el-credito-bajo-presion-subio-la-mora-en-bancos-y-financieras-incluso-entre-personas-de-mayor-poder-adquisitivo/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 01:52:35"
-        },
-        {
-          "titulo": "Leve repunte en el indicador de confianza: el Riesgo País de Argentina subió a 616 puntos el 13 de noviembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/leve-repunte-en-el-indicador-de-confianza-el-riesgo-pais-de-argentina-subio-a-616-puntos-el-13-de-noviembre-de-2025-a35.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-14 01:04:00"
-        },
-        {
-          "titulo": "“Momentos extraordinariamente buenos”: anticipan grandes oportunidades para la carne argentina",
-          "link": "https://www.lanacion.com.ar/economia/campo/momentos-extraordinariamente-buenos-anticipan-grandes-oportunidades-para-la-carne-argentina-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 00:30:44"
-        },
-        {
-          "titulo": "Impacto: la soja alcanzó en el mercado internacional su valor más alto en 17 meses",
-          "link": "https://www.lanacion.com.ar/economia/campo/impacto-la-soja-alcanzo-en-el-mercado-internacional-su-valor-mas-alto-en-17-meses-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-14 00:29:25"
+          "titulo": "Dólar blue hoy: a cuánto cotiza este viernes 14 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-viernes-14-noviembre_0_ufMNnkSxOM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 04:00:01"
         },
         {
           "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 14 de noviembre",
@@ -442,112 +412,10 @@
           "fecha": "2025-11-14 00:00:00"
         },
         {
-          "titulo": "María Furtado, de UIA Joven: \"Tenemos que discutir hoy el proyecto industrial del país porque mañana vamos a hacernos cargo\"",
-          "link": "https://www.ambito.com/economia/maria-furtado-uia-joven-tenemos-que-discutir-hoy-el-proyecto-industrial-del-pais-porque-manana-vamos-hacernos-cargo-n6213734",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 21:52:00"
-        },
-        {
-          "titulo": "Acuerdo: la Rural y Angus dieron un paso histórico con los registros ganaderos",
-          "link": "https://www.lanacion.com.ar/economia/campo/acuerdo-la-rural-y-angus-dieron-un-paso-historico-con-los-registros-ganaderos-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 21:37:57"
-        },
-        {
-          "titulo": "La nueva estrategia del Gobierno: cómo piensa sumar reservas y cumplir los vencimientos del 2026",
-          "link": "https://www.iprofesional.com/finanzas/441776-estrategia-del-gobierno-con-reservas-y-pago-de-deuda-como-cumplira-compromisos-del-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 21:25:00"
-        },
-        {
-          "titulo": "Crece la morosidad entre los sectores de altos ingresos",
-          "link": "https://www.perfil.com/noticias/economia/crece-la-dificultad-para-pagar-creditos-en-los-sectores-de-altos-ingresos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 20:28:00"
-        },
-        {
-          "titulo": "La nueva cancha empresaria, el ministro “amalgamador” y la agilización del plan",
-          "link": "https://www.lanacion.com.ar/economia/la-nueva-cancha-empresaria-el-ministro-amalgamador-y-la-agilizacion-del-plan-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-13 20:21:16"
-        },
-        {
-          "titulo": "Banco Nación lanza nueva línea de créditos para pagar el aguinaldo con tasas desde el 35%",
-          "link": "https://www.iprofesional.com/impuestos/441853-banco-nacion-lanza-nueva-linea-de-creditos-para-pagar-el-aguinaldo-como-solicitarlo",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 19:59:00"
-        },
-        {
-          "titulo": "Las claves para no pagar el impuesto a la herencia con el traspaso anticipado",
-          "link": "https://www.iprofesional.com/impuestos/438019-claves-no-pagar-impuesto-herencia-con-traspaso-anticipado",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 19:23:00"
-        },
-        {
-          "titulo": "Chau Monotributo: la propuesta que estaría estudiando el Gobierno para eliminarlo",
-          "link": "https://www.perfil.com/noticias/economia/chau-monotributo-la-propuesta-que-estaria-estudiando-el-gobierno-para-eliminarlo.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-13 19:12:00"
-        },
-        {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 13 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-13-noviembre-n6213304",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-13 19:09:00"
-        },
-        {
-          "titulo": "Vuelve el DEBIN: fintechs anticipan que pueden bajar las tasas y aumentar los créditos",
-          "link": "https://www.iprofesional.com/finanzas/441872-vuelve-debin-fintech-anticipan-que-pueden-bajar-tasas-aumentar-creditos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 19:05:00"
-        },
-        {
-          "titulo": "Los industriales advierten: \"Argentina no se puede apoyar solo en la fuerza de recursos naturales\"",
-          "link": "https://www.ambito.com/economia/los-industriales-advierten-argentina-no-se-puede-apoyar-solo-la-fuerza-recursos-naturales-n6213636",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 18:57:00"
-        },
-        {
-          "titulo": "El S&P Merval en dólares anotó su mayor caída en un mes y el riesgo país se consolidó arriba de los 600 puntos",
-          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-profundizan-el-optimismo-el-dato-inflacion-n6213368",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 18:38:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cerró este jueves 13 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-jueves-13-noviembre-n6213622",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 18:36:00"
-        },
-        {
-          "titulo": "Brasil, más caro para los argentinos: qué pasó con el real y cómo impactará en las cuentas del BCRA",
-          "link": "https://www.ambito.com/finanzas/brasil-mas-caro-los-argentinos-que-paso-el-real-y-como-impactara-las-cuentas-del-bcra-n6213319",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 18:35:00"
-        },
-        {
-          "titulo": "Se confirmó el bono navideño de ANSES: quiénes lo podrán cobrar y de cuánto será",
-          "link": "https://www.minutouno.com/economia/se-confirmo-el-bono-navideno-anses-quienes-lo-podran-cobrar-y-cuanto-sera-n6212715",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 18:12:00"
-        },
-        {
-          "titulo": "Efecto postelecciones: la venta de dólares por home banking se desplomó en noviembre",
-          "link": "https://www.iprofesional.com/economia/441855-por-que-venta-dolares-por-home-banking-desplomo-noviembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 18:10:00"
-        },
-        {
-          "titulo": "Empleo: se perdieron más de 13.000 puestos en agosto y el monotributo no llegó a compensar ni la mitad de la baja",
-          "link": "https://www.ambito.com/economia/empleo-se-perdieron-mas-13000-puestos-agosto-y-el-monotributo-no-llego-compensar-ni-la-mitad-la-baja-n6213597",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 17:48:00"
-        },
-        {
-          "titulo": "Monotributo: cuántas personas lo usan y por qué el Gobierno lo quiere eliminar",
-          "link": "https://www.iprofesional.com/impuestos/441862-monotributo-cuantas-personas-usan-y-por-que-gobierno-quiere-eliminar",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-13 17:32:00"
         },
         {
           "titulo": "¿Se desploma?: las 5 señales que pueden mover al dólar en las próximas semanas",
@@ -572,17 +440,21 @@
           "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-13-noviembre-n6213332",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-13 17:17:00"
+        },
+        {
+          "titulo": "El dólar blue superó al minorista del Banco Nación por primera vez en lo que va del mes",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-supero-al-minorista-del-banco-nacion-primera-vez-lo-que-va-del-mes-n6213606",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 16:51:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
-        "Minuto1",
-        "Infobae",
-        "La Nación",
+        "Clarín",
+        "Ámbito Financiero",
         "iProfesional",
-        "Perfil",
-        "Ámbito Financiero"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -590,62 +462,44 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflictos_y_alianzas_20251114",
-      "tema": "Conflictos y Alianzas Geopolíticas Globales",
-      "tema_normalizado": "conflictos y alianzas geopoliticas globales",
-      "resumen": "📌 **¿Qué está pasando?**\n• El panorama global se caracteriza por la intensificación de conflictos y la consolidación de alianzas estratégicas.\n• Estados Unidos, bajo la administración Trump, está reforzando sus lazos de defensa con Taiwán y Corea del Sur, mientras escala su presencia militar en el Caribe en una operación dirigida a Venezuela.\n• Simultáneamente, la guerra en Ucrania continúa con ataques masivos, y la tensión entre israelíes y palestinos en Cisjordania alcanza niveles críticos debido a la violencia de colonos.\n\n🔍 **Datos clave:**\n• **Taiwán:** EE.UU. aprobó una venta de armamento de 330 millones de dólares en repuestos para cazas F-16, C-130 e IDF.\n• **Ucrania:** Rusia lanzó un ataque masivo con misiles y drones en Kiev, resultando en al menos 1 muerto, 25 heridos (incluyendo un niño de 10 años y una mujer embarazada) y daños en infraestructura.\n• **Corea del Sur:** Acuerdos clave con EE.UU. implican una inversión surcoreana de 350.000 millones de dólares en EE.UU. (con un límite anual de 20.000 millones) y la adquisición de 25.000 millones de dólares en equipamiento militar estadounidense para 2030.\n• **Venezuela:** EE.UU. inició la \"Operación Lanza del Sur\", desplegando el portaaviones Gerald R. Ford, 10.000 militares y 20 embarcaciones, y realizando ataques que han causado cerca de 81 muertes.\n• **Cisjordania:** Octubre fue el mes más violento desde 2013, registrándose 536 agresiones de colonos israelíes, incluyendo el asalto a la mezquita Hajja Hamida.\n\n⚡ **Desarrollo:**\n• La venta de armamento a Taiwán busca mejorar su capacidad de defensa ante la constante amenaza de China, que considera la isla una provincia rebelde y no descarta la \"reunificación\" por la fuerza.\n• La guerra en Ucrania continúa con la capital Kiev siendo blanco de ataques que causan daños extensos a propiedades y servicios esenciales, afectando directamente a la población civil.\n• Los acuerdos entre EE.UU. y Corea del Sur fortalecen su alianza en comercio y defensa, buscando un equilibrio regional frente a las tensiones con Corea del Norte y la competencia con China en semiconductores.\n• La \"Operación Lanza del Sur\" en el Caribe, anunciada por EE.UU. como una misión antidrogas, es vista por Venezuela como una escalada de presión militar y una potencial amenaza de intervención.\n• En Cisjordania, la violencia de colonos israelíes, a menudo con apoyo o inacción militar, incrementa la tensión y los conflictos territoriales, afectando gravemente la vida y los recursos de las comunidades palestinas.\n\n💡 **¿Por qué importa?**\n• Estos eventos reflejan una reconfiguración del poder global, donde las potencias buscan asegurar sus intereses y esferas de influencia a través de alianzas estratégicas y demostraciones de fuerza.\n• Las tensiones geopolíticas tienen consecuencias directas en la estabilidad regional, la seguridad internacional y la vida de millones de personas, desde conflictos armados hasta crisis humanitarias y económicas.",
-      "cantidad_noticias": 7,
+      "tema_id": "pagos_y_prestaciones_20251114",
+      "tema": "Pagos y Prestaciones de ANSES",
+      "tema_normalizado": "pagos y prestaciones de anses",
+      "resumen": "📌 **¿Qué está pasando?**\n• La ANSES está informando sobre los pagos de noviembre y ha confirmado los calendarios y montos para diciembre de 2025.\n• Esto incluye actualizaciones en jubilaciones, pensiones y diversas asignaciones, además de bonos de refuerzo extraordinarios.\n• Los beneficiarios pueden consultar las fechas de cobro específicas organizadas por la terminación de su DNI.\n\n🔍 **Datos clave:**\n• **Aumento prestaciones noviembre:** 2,08%.\n• **Aumento jubilaciones/pensiones diciembre:** 2,3%.\n• **Jubilación mínima noviembre 2025:** $333.150.\n• **Jubilación mínima diciembre 2025:** $340.746.\n• **Bono extraordinario:** $70.000 (para haberes hasta un tope).\n• **Total mínimo diciembre (haber + aguinaldo + bono):** $581.119.\n• **Asignación Universal por Hijo (AUH) noviembre (bruto):** $119.714.\n\n⚡ **Desarrollo:**\n• En noviembre, la ANSES realizó pagos específicos el día 14, incluyendo jubilaciones y pensiones que no superan la mínima, AUH, Asignación por Embarazo (AUE), Prenatal y Maternidad, y Pensiones no Contributivas (PNC).\n• Las fechas de cobro se organizan habitualmente según la terminación del DNI, garantizando un acceso ordenado a las prestaciones.\n• Las prestaciones sociales de noviembre recibieron una suba del 2,08%, en concordancia con la inflación registrada en septiembre.\n• Para diciembre, se oficializó un incremento del 2,3% en jubilaciones y pensiones, elevando el haber mínimo a $340.746.\n• Los jubilados y pensionados recibirán en diciembre el medio aguinaldo (Sueldo Anual Complementario), además de su haber mensual actualizado.\n• Se mantiene el bono de refuerzo extraordinario de $70.000, destinado a beneficiarios de la mínima, PUAM y PNC, o aquellos cuyo ingreso total no supere un tope preestablecido.\n• Este bono busca complementar los ingresos y no se considera parte del cálculo del aguinaldo.\n• El calendario de pagos de diciembre establece que ANSES acreditará el monto total (haber, aguinaldo y bono) en una única fecha por DNI.\n• Por ejemplo, las jubilaciones y pensiones que no superan la mínima cobrarán desde el 10 al 20 de diciembre, mientras que las que superan la mínima lo harán del 20 al 28 de diciembre.\n• Las asignaciones como AUH, AUE, PUAM y PNC tienen montos específicos y condiciones de aplicación del bono según la categoría.\n\n💡 **¿Por qué importa?**\n• Estas medidas son cruciales para millones de personas en Argentina, brindando soporte económico a jubilados, pensionados y familias con hijos.\n• La actualización de montos y la implementación de bonos buscan proteger el poder adquisitivo frente a la inflación y mejorar la calidad de vida de los beneficiarios.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "EE.UU. da luz verde a la primera venta de armamento a Taiwán del segundo mandato de Trump",
-          "link": "https://www.infobae.com/america/agencias/2025/11/14/eeuu-da-luz-verde-a-la-primera-venta-de-armamento-a-taiwan-del-segundo-mandato-de-trump/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 03:13:12"
-        },
-        {
-          "titulo": "Rusia lanzó un ataque masivo con misiles y drones contra Kiev: al menos un muerto y decenas de heridos",
-          "link": "https://www.infobae.com/america/mundo/2025/11/14/rusia-lanzo-un-ataque-masivo-con-misiles-y-drones-contra-kiev-al-menos-un-muerto-y-decenas-de-heridos/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 03:07:34"
-        },
-        {
-          "titulo": "Corea del Sur y Estados Unidos formalizaron los acuerdos clave sobre comercio, defensa y cooperación nuclear naval",
-          "link": "https://www.infobae.com/america/mundo/2025/11/14/corea-del-sur-y-estados-unidos-formalizaron-los-acuerdos-clave-sobre-comercio-defensa-y-cooperacion-nuclear-naval/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-14 01:48:50"
-        },
-        {
-          "titulo": "En medio de la creciente tensión con Venezuela, EEUU anunció la Operación Lanza del Sur",
-          "link": "https://www.ambito.com/mundo/en-medio-la-creciente-tension-venezuela-eeuu-anuncio-la-operacion-lanza-del-sur-n6213749",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 23:27:16"
-        },
-        {
-          "titulo": "Estados Unidos anunció una operación militar antinarco y escala el conflicto con Venezuela tras el envío del portaaviones Gerald R. Ford",
-          "link": "https://www.clarin.com/mundo/estados-unidos-anuncio-operacion-lanza-sur-plena-tension-venezuela-envio-portaviones-gerald-r-ford_0_u7RjOP0i6K.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-13 21:54:41"
-        },
-        {
-          "titulo": "Por órdenes de Trump, el Pentágono anuncia la operación Lanza del Sur en el Caribe",
-          "link": "https://www.lanacion.com.ar/el-mundo/por-ordenes-de-trump-el-pentagono-anuncia-la-operacion-lanza-del-sur-en-el-caribe-nid13112025/",
+          "titulo": "Calendario de la Anses: todas las prestaciones sociales que se pagan este viernes 14 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-de-la-anses-todas-las-prestaciones-sociales-que-se-pagan-este-viernes-14-de-noviembre-nid14112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-13 21:18:36"
+          "fecha": "2025-11-14 06:00:01"
         },
         {
-          "titulo": "Tensión entre israelíes y palestinos: el asalto a una mezquita, la última muestra de la creciente violencia colona en Cisjordania",
-          "link": "https://www.clarin.com/mundo/tension-israelies-palestinos-asalto-mezquita-ultima-muestra-creciente-violencia-colona-cisjordania_0_brrSJoYQUN.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-13 18:00:40"
+          "titulo": "ANSES: quiénes cobran hoy, 14 de noviembre",
+          "link": "https://www.infobae.com/economia/2025/11/14/anses-quienes-cobran-hoy-14-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 06:00:01"
+        },
+        {
+          "titulo": "Se confirmó el bono navideño de ANSES: quiénes lo podrán cobrar y de cuánto será",
+          "link": "https://www.minutouno.com/economia/se-confirmo-el-bono-navideno-anses-quienes-lo-podran-cobrar-y-cuanto-sera-n6212715",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 18:12:00"
+        },
+        {
+          "titulo": "Aguinaldo, aumento y bono: cuánto cobrarán los jubilados ANSES en diciembre",
+          "link": "https://www.perfil.com/noticias/economia/aguinaldo-aumento-y-bono-cuanto-cobraran-los-jubilados-anses-en-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 16:56:00"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
         "Infobae",
-        "Clarín"
+        "Perfil",
+        "Minuto1",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -653,11 +507,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "justicia_argentina:_casos_20251114",
-      "tema": "Justicia Argentina: Casos Relevantes",
-      "tema_normalizado": "justicia argentina: casos relevantes",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La justicia argentina está lidiando con varios casos de alto impacto, que abarcan desde la integridad de las pruebas en causas de corrupción hasta la regulación de servicios esenciales.\n*   Recientemente, se procesó a un expolicía por adulterar pruebas clave en la causa \"Cuadernos\" y se declaró la inconstitucionalidad de la desregulación de las cuotas de prepagas.\n*   Además, un exministro comenzó a cumplir condena por la Tragedia de Once, mientras otro empresario fue declarado inimputable para ser juzgado en la causa \"Cuadernos\".\n\n🔍 **Datos clave:**\n*   **Jorge Bacigalupo:** Expolicía procesado nuevamente por adulterar los \"cuadernos\" del chofer Oscar Centeno.\n*   **DNU 70/2023:** Artículos 267 y 269 declarados inconstitucionales por el Juzgado Civil y Comercial Federal 8.\n*   **Julio De Vido:** Exministro condenado a 4 años de prisión por administración fraudulenta en la Tragedia de Once.\n*   **Tragedia de Once:** Ocurrida el 22 de febrero de 2012, dejó 52 muertos y más de 700 heridos.\n*   **Enrique Pescarmona:** Empresario del grupo IMPSA, declarado no apto para ser juzgado en la causa Cuadernos.\n*   **2,98 millones de dólares:** Monto de sobornos atribuidos a IMPSA en el caso Cuadernos.\n*   **13 de noviembre:** Fecha del procesamiento de Bacigalupo por el juez Marcelo Martínez de Giorgi.\n\n⚡ **Desarrollo:**\n*   Bacigalupo fue procesado tras peritajes caligráficos y lingüísticos que confirmaron la alteración de nombres (ej., \"Marcelo\" por \"Armando\") y direcciones en los cuadernos N° 4 y N° 7.\n*   La manipulación buscaba desviar la investigación y perjudicar al empresario Armando Loson, imputado en la causa principal.\n*   El juez Marcelo Gota declaró la inconstitucionalidad de los artículos del DNU 70/2023 que eliminaban el control estatal sobre los aumentos de las prepagas.\n*   Esta decisión judicial restaura la facultad de la Superintendencia de Servicios de Salud para autorizar y controlar los incrementos de las cuotas.\n*   Julio De Vido se entregó en Comodoro Py, siendo trasladado a la cárcel de Ezeiza, luego de que la Corte Suprema rechazara un último recurso de su defensa.\n*   El exministro cumple condena por su responsabilidad en la Tragedia de Once y sigue acusado como miembro de una asociación ilícita en la causa Cuadernos.\n*   La psiquiatra Soledad Puppo dictaminó que Enrique Pescarmona presenta un \"síndrome demencial cortical progresivo\", que le impide comprender la acusación y participar en el juicio.\n\n💡 **¿Por qué importa?**\n*   Estos casos reflejan los desafíos actuales de la justicia argentina en su rol de control, tanto en la lucha contra la corrupción como en la protección de los derechos ciudadanos.\n*   Demuestran la importancia de la validez de las pruebas, el control judicial sobre las decisiones del Poder Ejecutivo y la evaluación de la aptitud para el juicio en procesos complejos y sensibles.",
-      "cantidad_noticias": 4,
+      "tema_id": "causa_cuadernos:_desarrollos_20251114",
+      "tema": "Causa Cuadernos: Desarrollos Judiciales",
+      "tema_normalizado": "causa cuadernos: desarrollos judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Recientes desarrollos en la Causa Cuadernos incluyen un nuevo procesamiento clave por manipulación de pruebas y la declaración de incapacidad de un importante empresario para ser juzgado.\n*   El Tribunal Oral Federal N° 7 (TOF 7) que lleva adelante la causa ratificó la modalidad semipresencial del juicio, a pesar de las críticas y la falta de recursos.\n*   Paralelamente, un exministro vinculado a este expediente fue encarcelado para cumplir una condena por otra causa.\n\n🔍 **Datos clave:**\n*   **Jorge Bacigalupo:** Expolicía, nuevamente procesado el 13 de noviembre por adulterar los cuadernos de Oscar Centeno.\n*   **Armando Loson:** Empresario que sería perjudicado por las alteraciones encontradas en los cuadernos.\n*   **Enrique Pescarmona:** Fundador del grupo IMPSA, declarado no apto para ser juzgado por \"síndrome demencial cortical progresivo\".\n*   **Julio De Vido:** Exministro de Planificación, condenado a 4 años por la Tragedia de Once; también acusado en la Causa Cuadernos.\n*   **Marcelo Martínez de Giorgi:** Juez que dictó el nuevo procesamiento contra Bacigalupo.\n*   **TOF 7 (Méndez Signori, Canero, Castelli):** Tribunal que juzga la Causa Cuadernos, ratificó la modalidad telemática del juicio.\n*   **25 de noviembre:** Fecha a partir de la cual las audiencias del TOF 7 se incrementarán a dos veces por semana.\n*   **$2.98 millones:** Monto de sobornos que IMPSA pagó, según declaraciones de arrepentidos.\n\n⚡ **Desarrollo:**\n*   Jorge Bacigalupo fue procesado nuevamente por el juez Marcelo Martínez de Giorgi el 13 de noviembre, al confirmarse mediante pericias caligráficas y lingüísticas que alteró los cuadernos de Oscar Centeno.\n*   Las modificaciones, como reemplazar nombres y corregir direcciones, fueron una maniobra para perjudicar al empresario Armando Loson y favorecer a un tercero.\n*   El empresario Enrique Pescarmona, fundador de IMPSA y arrepentido en la causa, fue declarado no apto para enfrentar el juicio oral por el TOF 7, basándose en informes médicos que indicaron un \"síndrome demencial cortical progresivo\".\n*   Pescarmona y el gerente Rodolfo Valenti habían admitido el pago de $2.98 millones en sobornos al Ministerio de Planificación Federal.\n*   El exministro Julio De Vido se entregó a la Justicia para cumplir una condena de 4 años de prisión por administración fraudulenta en la Tragedia de Once, mientras participa de las audiencias de la Causa Cuadernos de forma virtual desde la cárcel de Ezeiza.\n*   El TOF 7, compuesto por los jueces Enrique Méndez Signori, Fernando Canero y Germán Castelli, defendió la modalidad telemática y mixta del juicio de Cuadernos, argumentando falta de infraestructura y personal.\n*   El tribunal también resolvió incrementar la frecuencia de las audiencias a dos veces por semana a partir del 25 de noviembre para acelerar el proceso.\n*   La lentitud del juicio y su formato han sido objeto de fuertes críticas mediáticas, con acusaciones de dilación contra los jueces.\n\n💡 **¿Por qué importa?**\n*   Estos desarrollos resaltan la complejidad y los desafíos que enfrenta la Causa Cuadernos, uno de los juicios por corrupción más importantes de Argentina, impactando la credibilidad de las pruebas y la capacidad de los acusados.\n*   La tensión entre las limitaciones del sistema judicial y la demanda pública por celeridad y transparencia en casos de gran envergadura pone de manifiesto el escrutinio sobre el Poder Judicial.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
           "titulo": "Nuevo procesamiento para Bacigalupo: confirman que el expolicía adulteró los \"cuadernos\" para desviar la investigación",
@@ -678,18 +532,24 @@
           "fecha": "2025-11-13 17:50:00"
         },
         {
-          "titulo": "La Justicia ratificó que el Estado debe definir los aumentos de las prepagas",
-          "link": "https://www.perfil.com/noticias/politica/la-justicia-ratifico-que-el-estado-debe-definir-los-aumentos-de-las-prepagas.phtml",
+          "titulo": "Cuadernos: el Tribunal Oral defendió la \"modalidad telemática\" del juicio y volvió a reclamar recursos a la Corte Suprema",
+          "link": "https://www.ambito.com/politica/cuadernos-el-tribunal-oral-defendio-la-modalidad-telematica-del-juicio-y-volvio-reclamar-recursos-la-corte-suprema-n6213444",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 17:15:00"
+        },
+        {
+          "titulo": "Feinmann contra los jueces de la Causa Cuadrenos: \"Están jugando para la chorra\"",
+          "link": "https://noticias.perfil.com/noticias/politica/feinmann-contra-los-jueces-de-la-causa-cuadrenos-estan-jugando-para-la-chorra.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-13 17:41:00"
+          "fecha": "2025-11-13 17:11:22"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
+        "Clarín",
         "Perfil",
-        "Ámbito Financiero",
-        "Clarín"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -697,41 +557,35 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "mercados_financieros_y_20251114",
-      "tema": "Mercados Financieros y Criptomonedas Globales",
-      "tema_normalizado": "mercados financieros y criptomonedas globales",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Los mercados financieros globales muestran volatilidad, con importantes caídas en Wall Street y el sector de las criptomonedas, mientras el oro experimenta un alza.\n*   El tipo de cambio euro-dólar es un indicador clave de la salud económica mundial, reflejando tensiones y proyecciones entre las economías de la UE y EE. UU.\n*   Las expectativas sobre las decisiones de la Reserva Federal (Fed) respecto a las tasas de interés y las consecuencias del reciente cierre gubernamental en Estados Unidos son factores centrales que impulsan estos movimientos.\n\n🔍 **Datos clave:**\n*   **Euro-Dólar:** 1 dólar estadounidense se cambia por 0,8590 euros (al 14 de noviembre).\n*   **Bitcoin (BTC):** Recortó 2,6% y se ubicó en u$s98.900, perforando la barrera de los u$s100.000.\n*   **Wall Street:** El Dow Jones bajó 1,7%, el S&P 500 perdió 1,6% y el Nasdaq Composite se depreció 2,3%.\n*   **Oro al contado:** Ganó 0,2%, alcanzando u$s4.206,64 la onza, su máximo en más de tres semanas.\n*   **Cierre Gubernamental EE. UU.:** Finalizó el cierre administrativo de 43 días, el más largo en la historia del país.\n*   **Inflación Eurozona:** Proyectada en 2% para 2024 y 2026, según el BCE.\n\n⚡ **Desarrollo:**\n*   La cotización euro-dólar es un indicador crítico que refleja la relación económica entre las dos principales economías mundiales, impactando en el comercio y las inversiones globales.\n*   Las proyecciones para la economía europea son de un avance moderado con recuperación en 2026, buscando alcanzar el objetivo de inflación del 2% del Banco Central Europeo (BCE).\n*   El mercado de criptomonedas mostró una tendencia bajista, con Bitcoin cayendo por debajo de los u$s100.000 y arrastrando a altcoins como Ethereum (-6,2%), Solana (-7,5%) y Dogecoin (-5,1%).\n*   La caída de Wall Street se debió a la rotación de capitales fuera del sector tecnológico y a la reducción de las probabilidades de un recorte de tasas por parte de la Fed en diciembre.\n*   El fin del prolongado cierre gubernamental en EE. UU. genera incertidumbre sobre la publicación de datos económicos cruciales, que son fundamentales para las decisiones de la Fed.\n*   El oro extendió sus ganancias, ya que los operadores esperan que los datos económicos post-cierre revelen debilidad en el mercado laboral de EE. UU., impulsando un recorte de tasas de la Fed.\n*   La presidenta del Banco de la Reserva Federal de Cleveland, Beth Hammack, enfatizó que las tasas de interés deben mantenerse restrictivas para combatir las preocupaciones inflacionarias persistentes.\n\n💡 **¿Por qué importa?**\n*   Estos eventos resaltan la interconexión de los mercados financieros globales y su sensibilidad a las políticas monetarias de grandes economías, como la de EE. UU., y a los eventos geopolíticos.\n*   La volatilidad observada en divisas, acciones, criptomonedas y materias primas tiene un impacto directo en la estabilidad económica global, las decisiones de inversión y el poder adquisitivo de empresas y ciudadanos.",
-      "cantidad_noticias": 4,
+      "tema_id": "venta_armas_eeuu_20251114",
+      "tema": "Venta Armas EEUU a Taiwán",
+      "tema_normalizado": "venta armas eeuu a taiwan",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha aprobado una millonaria venta de repuestos y equipos de mantenimiento militar a Taiwán.\n• La transacción, valorada en 330 millones de dólares, es la primera bajo la administración de Donald Trump y busca fortalecer la capacidad defensiva de la isla.\n• China ha reaccionado enérgicamente, calificándola como una \"línea roja\" que infringe su soberanía y envía señales negativas a los independentistas taiwaneses.\n\n🔍 **Datos clave:**\n• Monto de la venta: 330 millones de dólares (aproximadamente 280 millones de euros).\n• Presidente de EE.UU.: Donald Trump.\n• Beneficiario: Taiwán.\n• Equipos clave: Repuestos y mantenimiento para cazas F-16, aviones de transporte C-130 y cazas IDF taiwaneses.\n• Organismo estadounidense: Agencia de Cooperación para la Seguridad de la Defensa (DSCA).\n• Presidente de China: Xi Jinping.\n\n⚡ **Desarrollo:**\n• La solicitud de estos componentes fue realizada por la Oficina de Representación de Taipéi en Washington.\n• El paquete será provisto desde reservas del Gobierno estadounidense, agilizando los plazos de transferencia de los materiales.\n• Para Taiwán, esta venta es crucial para sostener la preparación operativa de sus escuadrones aéreos y reforzar su defensa antiaérea.\n• También mejora la respuesta de Taiwán ante las \"incursiones en zona gris\" de China, que son tácticas de presión no abiertamente militares.\n• EE.UU. justifica la venta como consistente con su legislación y vital para la modernización de las fuerzas armadas taiwanesas, apoyando la estabilidad regional.\n• China considera a Taiwán una provincia rebelde y parte \"inalienable\" de su territorio, con la reunificación como un objetivo central desde 2012 bajo Xi Jinping.\n• A pesar de no tener vínculos diplomáticos formales con Taiwán, Estados Unidos es su principal proveedor de armamento y mantiene un compromiso implícito de asistencia en caso de conflicto.\n• Estas ventas se concretan semanas después de un encuentro entre Trump y Xi Jinping en Corea del Sur, donde el tema de Taiwán no fue públicamente discutido.\n\n💡 **¿Por qué importa?**\n• La venta eleva la tensión geopolítica en la región del Indo-Pacífico, con China advirtiendo que no tolerará ninguna medida que considere un obstáculo para su objetivo de reunificación.\n• Resalta el delicado equilibrio entre la política de EE.UU. de apoyar la capacidad defensiva de Taiwán y las firmes objeciones de China, manteniendo la isla como un punto crítico de disputa global.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Cotización del euro frente al dólar hoy 14 de noviembre",
-          "link": "https://www.infobae.com/espana/2025/11/14/cotizacion-del-euro-frente-al-dolar-hoy-14-de-noviembre/",
+          "titulo": "Donald Trump aprobó una millonaria venta militar a Taiwán y China reaccionó: \"Es nuestra línea roja\"",
+          "link": "https://www.clarin.com/mundo/donald-trump-aprobo-millonaria-venta-militar-taiwan-china-reacciono-linea-roja_0_B2WSHcjEIw.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 05:24:27"
+        },
+        {
+          "titulo": "EEUU aprueba una venta de armas a Taiwán por 280 millones de euros, la primera del segundo mandato de Trump",
+          "link": "https://www.infobae.com/america/agencias/2025/11/14/eeuu-aprueba-una-venta-de-armas-a-taiwan-por-280-millones-de-euros-la-primera-del-segundo-mandato-de-trump/",
           "fuente": "Infobae",
-          "fecha": "2025-11-14 02:15:35"
+          "fecha": "2025-11-14 05:15:16"
         },
         {
-          "titulo": "Bitcoin en picada: vuelve a perforar los u$s100.000 y arrastra a las altcoins, que caen hasta 7,5%",
-          "link": "https://www.ambito.com/finanzas/bitcoin-perfora-los-us102000-mientras-espera-los-efectos-la-reapertura-del-gobierno-eeuu-n6213321",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 19:24:00"
-        },
-        {
-          "titulo": "Wall Street se hundió hasta 2,3% ante el temor de que la Fed pueda ralentizar los recortes de tasas",
-          "link": "https://www.ambito.com/finanzas/el-shutdown-llego-su-fin-pero-wall-street-baja-la-espera-los-datos-economicos-demorados-n6213327",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 19:06:00"
-        },
-        {
-          "titulo": "El oro extendió ganancias y anotó máximos de más de tres semanas, ante las expectativas por la baja de tasas en EEUU",
-          "link": "https://www.ambito.com/finanzas/el-oro-continua-al-alza-y-toca-maximos-mas-tres-semanas-las-expectativas-la-baja-tasas-eeuu-n6213380",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-13 17:48:00"
+          "titulo": "Estados Unidos aprobó la venta de repuestos y equipos de mantenimiento para aeronaves militares de Taiwán",
+          "link": "https://www.infobae.com/america/mundo/2025/11/14/estados-unidos-aprobo-la-venta-de-repuestos-y-equipos-de-mantenimiento-para-aeronaves-militares-de-taiwan/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-14 04:06:52"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
-        "Ámbito Financiero",
+        "Clarín",
         "Infobae"
       ],
       "es_tema_nuevo": true,
@@ -740,30 +594,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "escandalos_donald_trump_20251114",
-      "tema": "Escándalos Donald Trump y Epstein",
-      "tema_normalizado": "escandalos donald trump y epstein",
-      "resumen": "📌 **¿Qué está pasando?**\n• Documentos internos (correos electrónicos) del fallecido depredador sexual Jeffrey Epstein sugieren que Donald Trump tenía conocimiento de sus actividades y se reunió con una víctima.\n• Por otro lado, la BBC se disculpó con Donald Trump por una edición engañosa de su discurso del 6 de enero de 2021, que dio la impresión de incitar a la violencia.\n\n🔍 **Datos clave:**\n• **Jeffrey Epstein:** Financista y depredador sexual, fallecido en 2019.\n• **Ghislaine Maxwell:** Aliada de Epstein, cumple 20 años de condena por tráfico sexual.\n• **Enero 6, 2021:** Fecha del discurso de Trump que la BBC editó incorrectamente.\n• **1.000 millones de dólares:** Cifra que Trump exigía a la BBC por difamación.\n• **2019 y 2011:** Fechas de los correos electrónicos clave de Epstein sobre Trump.\n\n⚡ **Desarrollo:**\n• **Sobre Epstein y Trump:**\n    • Correos electrónicos de 2019 atribuidos a Epstein afirmaban al periodista Michael Wolff que Trump \"sabía sobre las chicas\" y había pedido a Ghislaine Maxwell que cesara sus acciones.\n    • Otro mensaje de Epstein de 2011 indicaba que Trump \"pasó horas\" en su residencia con una joven víctima de trata, cuya identidad fue censurada en la publicación.\n    • Aunque republicanos sugirieron que la víctima era Virginia Giuffre, ella reiteró que Trump nunca la agredió; Giuffre falleció a principios de este año.\n    • Ghislaine Maxwell, condenada por tráfico sexual, ha manifestado su intención de solicitar una conmutación de pena al expresidente Trump.\n• **Sobre la BBC y Trump:**\n    • La BBC se disculpó por una edición en su programa \"Panorama\" que unió extractos del discurso de Trump del 6 de enero de 2021, pronunciados con casi una hora de diferencia.\n    • Esta edición creó la impresión errónea de que Trump había exhortado directamente a actuar con violencia, omitiendo una parte donde pedía una manifestación pacífica.\n    • El abogado de Trump había exigido una disculpa y una indemnización de 1.000 millones de dólares, alegando difamación.\n    • El presidente de la BBC, Samir Shah, envió una carta personal de disculpa; el director general Tim Davie y la jefa de noticias Deborah Turness renunciaron el domingo, asumiendo la responsabilidad por el escándalo.\n\n💡 **¿Por qué importa?**\n• La revelación de los correos de Epstein reabre un expediente sensible para Donald Trump, planteando dudas sobre su posible conocimiento de una red de explotación sexual.\n• El incidente con la BBC subraya la complejidad de la relación entre Donald Trump y los medios, así como los desafíos de la precisión periodística en un entorno político tenso.",
-      "cantidad_noticias": 2,
+      "tema_id": "tension_eeuu-venezuela:_operacion_20251114",
+      "tema": "Tensión EEUU-Venezuela: Operación Lanza del Sur",
+      "tema_normalizado": "tension eeuu-venezuela: operacion lanza del sur",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos anunció la \"Operación Lanza del Sur\" (Operation Southern Spear), liderada por la Fuerza de Tarea Conjunta Southern Spear y el Comando Sur (SOUTHCOM).\n*   El objetivo declarado es combatir el narcotráfico y expulsar a \"narcoterroristas\" del hemisferio occidental para proteger el territorio estadounidense.\n*   Este anuncio eleva la tensión con Venezuela y se produce en medio de un significativo despliegue militar de EE. UU. en el Mar Caribe, incluyendo el portaaviones Gerald R. Ford.\n\n🔍 **Datos clave:**\n*   **Operación:** Lanza del Sur (Southern Spear).\n*   **Fecha de anuncio:** 13 de noviembre de 2025, según informes.\n*   **Actores clave:** Pete Hegseth (Secretario de Defensa/Guerra de EE. UU.), Donald Trump (Presidente de EE. UU.), Nicolás Maduro (Presidente de Venezuela).\n*   **Activos militares:** Portaaviones USS Gerald R. Ford (el más grande del mundo), 10.000 militares, más de 20 embarcaciones y aviones de guerra en la zona.\n*   **Ataques previos:** Al menos 19 ataques, resultando en la muerte de cerca de 81 personas (otras fuentes mencionan más de 60).\n\n⚡ **Desarrollo:**\n*   La operación fue ordenada por el Presidente Trump, quien inició una \"cruzada\" contra el narcotráfico, acusando a líderes venezolanos de narcotráfico, incluido Nicolás Maduro.\n*   Pete Hegseth anunció que la misión busca defender la patria estadounidense, calificando al hemisferio occidental como la \"vecindad de Estados Unidos\" que protegerán.\n*   El despliegue militar en el Caribe se intensificó con la llegada del USS Gerald R. Ford, sumándose a destructores y buques de desembarco anfibio ya presentes desde agosto.\n*   Desde septiembre, EE. UU. ha realizado ataques contra supuestas \"narcolanchas\" y sumergibles, que han resultado en decenas de muertes.\n*   En respuesta al despliegue y las amenazas, Venezuela elevó su alerta militar, activó ejercicios de sus Fuerzas Armadas y milicias civiles, y Maduro advirtió sobre una posible \"invasión\".\n*   El Alto Comisionado de la ONU para los Derechos Humanos, Volker Türk, y gobiernos como Colombia, México y Brasil, han criticado los bombardeos, calificándolos de \"ejecuciones sumarias\" contrarias al derecho internacional.\n*   La presencia del portaaviones es vista como una herramienta de disuasión que envía un mensaje de poder militar a la región, generando ansiedad y expectativa sobre el uso de la fuerza.\n*   Cabe destacar que el Comando Sur ya había anunciado una operación llamada Lanza del Sur en enero, con un enfoque en el uso de tecnología robótica contra el narcotráfico.\n\n💡 **¿Por qué importa?**\n*   La Operación Lanza del Sur intensifica significativamente la confrontación entre Estados Unidos y Venezuela, aumentando el riesgo de un conflicto militar en el Caribe.\n*   Genera preocupación internacional por la soberanía de los países y el respeto al derecho internacional, especialmente ante las acciones militares unilaterales y las víctimas reportadas.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Qué revelan ahora los mails internos de Jeffrey Epstein sobre Donald Trump",
-          "link": "https://www.minutouno.com/mundo/que-revelan-ahora-los-mails-internos-jeffrey-epstein-donald-trump-n6213603",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-13 20:14:00"
+          "titulo": "En medio de la creciente tensión con Venezuela, EEUU anunció la Operación Lanza del Sur",
+          "link": "https://www.ambito.com/mundo/en-medio-la-creciente-tension-venezuela-eeuu-anuncio-la-operacion-lanza-del-sur-n6213749",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 23:27:16"
         },
         {
-          "titulo": "La BBC se disculpó con Donald Trump por una edición engañosa, pero negó haberlo difamado",
-          "link": "https://www.clarin.com/mundo/bbc-disculpo-donald-trump-edicion-enganosa-nego-haberlo-difamado_0_A6PBUOjsyk.html",
+          "titulo": "Estados Unidos anunció una operación militar antinarco y escala el conflicto con Venezuela tras el envío del portaaviones Gerald R. Ford",
+          "link": "https://www.clarin.com/mundo/estados-unidos-anuncio-operacion-lanza-sur-plena-tension-venezuela-envio-portaviones-gerald-r-ford_0_u7RjOP0i6K.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-13 19:48:39"
+          "fecha": "2025-11-13 21:54:41"
+        },
+        {
+          "titulo": "Por órdenes de Trump, el Pentágono anuncia la operación Lanza del Sur en el Caribe",
+          "link": "https://www.lanacion.com.ar/el-mundo/por-ordenes-de-trump-el-pentagono-anuncia-la-operacion-lanza-del-sur-en-el-caribe-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 21:18:36"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
-        "Minuto1",
-        "Clarín"
+        "Clarín",
+        "Ámbito Financiero",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -771,12 +632,190 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "oposicion_politica_argentina_20251114",
-      "tema": "Oposición Política Argentina Actual",
-      "tema_normalizado": "oposicion politica argentina actual",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno nacional ha intensificado la exclusión del diálogo y el retaceo de fondos a gobernadores peronistas considerados \"enemigos políticos\".\n• Mandatarios como Axel Kicillof (Buenos Aires) y Ricardo Quintela (La Rioja) denuncian un ahogo financiero intencional por parte de Nación.\n• En respuesta, referentes de la oposición, como Cristina Kirchner, están fortaleciendo contactos con estos gobernadores para articular un frente común.\n\n🔍 **Datos clave:**\n• **Axel Kicillof:** Gobernador de Buenos Aires, no invitado a reuniones con Nación; denuncia retención de fondos.\n• **Ricardo Quintela:** Gobernador de La Rioja, excluido del diálogo con Casa Rosada; se reunió con Cristina Kirchner.\n• **Cristina Kirchner:** Expresidenta, recibió a Quintela para abordar el desfinanciamiento provincial y la ausencia de obra pública.\n• **$12,1 billones:** Cifra de la deuda que, según Buenos Aires, Nación adeuda a la provincia.\n• **Pacto de Mayo y RIGI:** Argumentos del gobierno nacional para justificar la exclusión de Kicillof del diálogo.\n• **Diego Santilli:** Ministro del Interior, quien respondió públicamente a los reclamos de diálogo de Buenos Aires.\n• **Gildo Insfrán (Formosa) y Gustavo Melella (Tierra del Fuego):** Otros gobernadores peronistas marcados como \"enemigos políticos\" por el gobierno.\n\n⚡ **Desarrollo:**\n• El gobierno de Javier Milei ha optado por aislar a cuatro gobernadores peronistas específicos, cortando canales de diálogo y, según las provincias, la transferencia de fondos.\n• La Casa Rosada argumenta que la exclusión de Kicillof se debe a su negativa a adherir al Pacto de Mayo y a proyectos como el Régimen de Incentivo para Grandes Inversiones (RIGI).\n• Desde la Provincia de Buenos Aires, a través de Carlos \"Carli\" Bianco, se intentó formalmente un encuentro con el ministro Santilli, quien respondió con un tono irónico y la misma justificación.\n• Cristina Kirchner se posiciona como articuladora de la oposición al reunirse con Quintela, quien también fue ignorado por el gobierno nacional debido a su postura ideológica.\n• Ambas figuras de la oposición coinciden en señalar el desfinanciamiento de las provincias por la caída de la recaudación y la paralización total de la obra pública.\n• Paralelamente, el gobierno nacional busca tejer alianzas con otros gobernadores peronistas \"dialoguistas\" como Osvaldo Jaldo (Tucumán) y Gustavo Sáenz (Salta).\n• Esta estrategia gubernamental busca conseguir el consenso necesario en el Congreso para sus reformas y el Presupuesto 2026.\n\n💡 **¿Por qué importa?**\n• La confrontación y la falta de diálogo entre Nación y algunas provincias peronistas tensionan la gobernabilidad y dificultan el avance de la agenda legislativa del oficialismo.\n• El desfinanciamiento provincial, con el posible recorte de coparticipación y obra pública, afecta directamente la vida de los ciudadanos y el desarrollo regional.\n• Este escenario reconfigura el mapa político argentino, impulsando una reorganización de la oposición peronista y la búsqueda de nuevos equilibrios de poder.",
-      "cantidad_noticias": 2,
+      "tema_id": "debate_sobre_reforma_20251114",
+      "tema": "Debate sobre Reforma Laboral y Monotributo",
+      "tema_normalizado": "debate sobre reforma laboral y monotributo",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino impulsa una profunda reforma laboral y evalúa la eliminación del Monotributo, buscando formalizar la economía y reducir costos laborales.\n• Estas propuestas generan un intenso debate y división entre el sector empresario, que las apoya con reservas, y los sindicatos, que las rechazan enérgicamente.\n• La discusión fue central en la 31° Conferencia Industrial de la UIA y motivó medidas de fuerza gremiales.\n\n🔍 **Datos clave:**\n• **Monotributo:** Abarca a ~3 millones de contribuyentes. Se propone su eliminación para que pasen al régimen general de autónomos.\n• **Informalidad laboral:** 52% de la fuerza laboral argentina es informal, según el ministro Diego Santilli.\n• **Pérdida de empleo formal:** 223.796 puestos de trabajo asalariados perdidos entre noviembre de 2023 y agosto de 2024.\n• **Reforma laboral:** Propone reducir contribuciones patronales (del 25.5% al 17%) y aportes personales (del 17% al 13%) para nuevas contrataciones, ex-monotributistas o personas sin trabajo por más de 6 meses.\n• **Reclamo FMI:** El Fondo Monetario Internacional sugirió armonizar el Monotributo y mejorar la transición al sistema fiscal general.\n• **UIA Conferencia:** La 31° Conferencia Industrial registró récord de asistencia con más de 1.400 inscriptos.\n• **Paro gremial:** ATE y Aceiteros lanzaron un \"paro preventivo\" de 24 horas y movilización en rechazo a la reforma laboral.\n\n⚡ **Desarrollo:**\n• El Gobierno busca, con estas reformas, formalizar la economía, impulsar el mercado de capitales y asegurar la sostenibilidad previsional, simplificando la tributación y reduciendo la \"industria del juicio\".\n• La eliminación del Monotributo implicaría el pase de sus contribuyentes al régimen de autónomos, con una posible modificación de la escala de aportes ($100.000-$500.000) y la posibilidad de deducir gastos personales.\n• El sector industrial, a través de la UIA, si bien apoya las reformas estructurales, reclama una \"política industrial\" activa y estratégica, más allá de los recursos naturales, para fomentar el desarrollo sectorial.\n• Empresarios como Paolo Rocca (Techint) enfatizan la necesidad de una segunda fase del plan económico que contemple la defensa contra la competencia desleal y el impulso a una estructura industrial fuerte.\n• Los sindicatos, liderados por Rodolfo Aguiar (ATE) y Daniel Yofra (Aceiteros), acusan al Gobierno de querer \"joder\" los derechos laborales y de buscar la desindustrialización del país, anticipando el rechazo en las calles.\n• Se discuten también modificaciones al Impuesto a las Ganancias (mínimo no imponible en ~$1.7M/mes en 2025 para un soltero) y al IVA (umbral mínimo equivalente a Categoría F de Monotributo, ~$3M/mes de facturación).\n\n💡 **¿Por qué importa?**\n• Estas reformas buscan reconfigurar la estructura económica y laboral de Argentina, con un impacto directo en la vida de millones de trabajadores, pequeños contribuyentes y empresas.\n• El debate refleja una profunda tensión entre las visiones del Gobierno y los empresarios sobre el crecimiento y la formalización, y la fuerte oposición sindical a la posible pérdida de derechos laborales.",
+      "cantidad_noticias": 10,
       "noticias": [
+        {
+          "titulo": "Resignación con Luis Caputo, desahogo con Paolo Rocca, y el anhelo del plan industrial: las claves de la cumbre de la UIA",
+          "link": "https://www.perfil.com/noticias/economia/resignacion-con-luis-caputo-desahogo-con-paolo-rocca-y-el-anhelo-plan-industrial-las-claves-de-la-cumbre-de-la-uia.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 05:30:00"
+        },
+        {
+          "titulo": "ATE y Aceiteros lanzan un \"paro preventivo\" contra la reforma laboral: \"Nos quieren joder\"",
+          "link": "https://www.perfil.com/noticias/politica/ate-y-aceiteros-lanzan-un-paro-preventivo-contra-la-reforma-laboral-no-hay-que-esperar-la-letra-chica.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 22:51:00"
+        },
+        {
+          "titulo": "Un pacto que pega de lleno en el sector de los laboratorios nacionales",
+          "link": "https://www.lanacion.com.ar/economia/un-pacto-que-pega-de-lleno-en-el-sector-de-los-laboratorios-nacionales-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 21:52:57"
+        },
+        {
+          "titulo": "María Furtado, de UIA Joven: \"Tenemos que discutir hoy el proyecto industrial del país porque mañana vamos a hacernos cargo\"",
+          "link": "https://www.ambito.com/economia/maria-furtado-uia-joven-tenemos-que-discutir-hoy-el-proyecto-industrial-del-pais-porque-manana-vamos-hacernos-cargo-n6213734",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 21:52:00"
+        },
+        {
+          "titulo": "Chau Monotributo: la propuesta que estaría estudiando el Gobierno para eliminarlo",
+          "link": "https://www.perfil.com/noticias/economia/chau-monotributo-la-propuesta-que-estaria-estudiando-el-gobierno-para-eliminarlo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 19:12:00"
+        },
+        {
+          "titulo": "Diego Santilli defendió la reforma laboral en el Congreso de la UIA: \"Mejoras para todos\"",
+          "link": "https://www.minutouno.com/politica/diego-santilli-defendio-la-reforma-laboral-el-congreso-la-uia-mejoras-todos-n6213661",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 19:09:00"
+        },
+        {
+          "titulo": "Los industriales advierten: \"Argentina no se puede apoyar solo en la fuerza de recursos naturales\"",
+          "link": "https://www.ambito.com/economia/los-industriales-advierten-argentina-no-se-puede-apoyar-solo-la-fuerza-recursos-naturales-n6213636",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 18:57:00"
+        },
+        {
+          "titulo": "En la Conferencia Industrial de la UIA, Santilli afirmó que “la Argentina que recibió nuestro presidente no generaba empleo hace 15 años”",
+          "link": "https://www.perfil.com/noticias/politica/en-la-conferencia-industrial-de-la-uia-santilli-afirmo-que-el-sector-empresario-es-central-y-pidio-un-dialogo-maduro-con-sindicatos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 17:56:00"
+        },
+        {
+          "titulo": "Monotributo: cuántas personas lo usan y por qué el Gobierno lo quiere eliminar",
+          "link": "https://www.iprofesional.com/impuestos/441862-monotributo-cuantas-personas-usan-y-por-que-gobierno-quiere-eliminar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 17:32:00"
+        },
+        {
+          "titulo": "Aseguran que e Gobierno evalúa eliminar el Monotributo y modificar Ganancias",
+          "link": "https://www.minutouno.com/economia/aseguran-que-e-gobierno-evalua-eliminar-el-monotributo-y-modificar-ganancias-n6213613",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 16:52:02"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-14",
+      "fuentes": [
+        "iProfesional",
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "medidas_y_gestion_20251114",
+      "tema": "Medidas y Gestión del Gobierno Nacional",
+      "tema_normalizado": "medidas y gestion del gobierno nacional",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional ha anunciado un acuerdo de comercio e inversiones con Estados Unidos, generando un fuerte debate político entre el oficialismo y la oposición.\n• Paralelamente, la administración busca consolidar su gestión interna, impulsando reformas económicas y políticas clave, y manejando situaciones como la deuda y emergencias agropecuarias.\n\n🔍 **Datos clave:**\n• **Acuerdo bilateral:** Argentina y Estados Unidos, celebrado como \"inserción en el mundo libre\".\n• **Presupuesto 2026:** Propone la congelación de vacantes de empleados públicos por dos años.\n• **Emergencia Agropecuaria:** Declarada en Buenos Aires, Entre Ríos y Río Negro por eventos climáticos extremos.\n• **Deuda Pública:** El Ministro Caputo busca sumar reservas para afrontar vencimientos de US$4.500 millones en enero y otros en 2026.\n• **Prepagas:** La Justicia declaró inconstitucionales artículos del DNU 70/2023 que desregulaban sus aumentos.\n• **Ausencia ministerial:** Ministro de Salud y funcionarios de ANMAT citados por la Comisión de Fentanilo por no comparecer.\n\n⚡ **Desarrollo:**\n• El acuerdo con EE.UU. es impulsado por el Gobierno como un \"triunfo\" de su alineamiento, pero la oposición advierte sobre condiciones que podrían ser perjudiciales para la producción local y el acceso a ciertos mercados.\n• El Gobierno ha iniciado una \"nueva etapa\" de diálogo, con Manuel Adorni (Jefe de Gabinete) y Diego Santilli (Ministro del Interior) reuniéndose con gobernadores para discutir el Presupuesto 2026, la reforma tributaria y laboral, y el nuevo Código Penal.\n• Sin embargo, el diálogo no incluye a todos; gobernadores como Kicillof (Buenos Aires) y Quintela (La Rioja) son excluidos por la Casa Rosada debido a diferencias políticas.\n• En el plano económico, el Ministro Luis Caputo detalla una estrategia para acumular reservas y cumplir vencimientos de deuda, utilizando el swap con China, asistencia de EE.UU. y opciones de mercado.\n• El Presupuesto 2026 centraliza la aprobación de todas las nuevas contrataciones del Estado en la Jefatura de Gabinete, aunque se contemplan excepciones para cargos superiores y áreas críticas.\n• La política exterior de Milei, con un \"ciego alineamiento\" con EE.UU. e Israel, se ve reflejada en su posible ausencia en la cumbre del G20 y dudas sobre su participación en el Mercosur.\n• También ha habido controversias, como una polémica muestra de caricaturas en Santa Rosa con imágenes consideradas antisemitas y las duras críticas a la ausencia de funcionarios de Salud ante una comisión legislativa.\n• La Justicia intervino en el sector de las prepagas, restituyendo el control estatal sobre los aumentos y cuestionando la \"necesidad y urgencia\" invocada para la desregulación.\n• El evangelismo ha ganado relevancia en la arena política, reuniéndose con el Presidente y aumentando su presencia en el Congreso, demostrando su capacidad de articulación multisectorial.\n\n💡 **¿Por qué importa?**\n• Estas medidas y decisiones gubernamentales están redefiniendo el modelo económico, la política exterior y las relaciones interinstitucionales del país, con implicaciones directas en la vida cotidiana y el futuro de Argentina.\n• La capacidad del Gobierno para lograr consensos en el Congreso y con las provincias será clave para la implementación de su agenda reformista, en un contexto de debates y judicializaciones.",
+      "cantidad_noticias": 23,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 05:00:00"
+        },
+        {
+          "titulo": "Empezó la nueva etapa del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/empezo-la-nueva-etapa-del-gobierno-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 02:52:53"
+        },
+        {
+          "titulo": "Santiago Caputo chicaneó a los periodistas que criticaron las \"intervenciones\" de Javier Milei en el exterior",
+          "link": "https://www.perfil.com/noticias/politica/santiago-caputo-chicaneo-a-los-periodistas-que-criticaron-las-intervenciones-de-javier-milei-en-el-exterior.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 02:28:00"
+        },
+        {
+          "titulo": "Polémica muestra de caricaturas en el Concejo Deliberante de Santa Rosa: advierten sobre imágenes antisemitas y con burlas hacia el Presidente",
+          "link": "https://www.clarin.com/politica/polemica-muestra-caricaturas-concejo-deliberante-santa-rosa-advierten-presuntas-imagenes-antisemitas-burlas-presidente_0_XvZh9O5cKD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 01:25:14"
+        },
+        {
+          "titulo": "Adorni y Santilli se reunieron con el gobernador de Salta",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 00:07:30"
+        },
+        {
+          "titulo": "Javier Milei no va al G20 y ahora duda en concurrir a la cumbre del Mercosur",
+          "link": "https://www.minutouno.com/politica/javier-milei-no-va-al-g20-y-ahora-duda-concurrir-la-cumbre-del-mercosur-n6213754",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 00:07:00"
+        },
+        {
+          "titulo": "Javier Milei en Corrientes: entre el festejo del acuerdo con EE.UU., un nuevo tono amable y la exaltación del reformismo",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-corrientes-entre-el-festejo-del-acuerdo-con-eeuu-un-nuevo-tono-amable-y-la-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 00:05:43"
+        },
+        {
+          "titulo": "$LIBRA, 9 meses después: el rastro cripto de US$120 millones y las preguntas que persiguen a los hermanos Milei",
+          "link": "https://www.lanacion.com.ar/politica/libra-9-meses-despues-el-rastro-cripto-de-us120-millones-y-las-preguntas-que-persiguen-a-los-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 00:02:00"
+        },
+        {
+          "titulo": "Con pragmatismo y sin grietas partidarias, el evangelismo crece en la arena política argentina",
+          "link": "https://www.ambito.com/politica/con-pragmatismo-y-grietas-partidarias-el-evangelismo-crece-la-arena-argentina-n6213736",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 00:00:00"
+        },
+        {
+          "titulo": "El Gobierno quiere dejar en manos de Manuel Adorni el nombramiento de todos los empleados públicos",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-quiere-dejar-en-manos-de-manuel-adorni-el-nombramiento-de-todos-los-empleados-publicos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 23:46:00"
+        },
+        {
+          "titulo": "La Comisión de Fentanilo citó nuevamente al ministro Mario Lugones y expresó su enojo ante su faltazo: \"¡Hay que traerlo de los pelos!\"",
+          "link": "https://www.perfil.com/noticias/politica/la-comision-de-fentanilo-cito-nuevamente-al-ministro-mario-lugones-y-expreso-su-enojo-ante-su-faltazo-hay-que-traerlo-de-los-pelos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 23:06:00"
+        },
+        {
+          "titulo": "El expresidente de Fiat habló de Javier Milei y de la gente del conurbano: narcos, ladrones y \"planeros\"",
+          "link": "https://www.minutouno.com/politica/el-expresidente-fiat-hablo-javier-milei-y-la-gente-del-conurbano-narcos-ladrones-y-planeros-n6213743",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 22:44:00"
+        },
+        {
+          "titulo": "El anuncio desató la euforia en el oficialismo y dudas en la oposición",
+          "link": "https://www.lanacion.com.ar/politica/el-anuncio-desasto-la-euforia-en-el-oficialismo-y-dudas-en-la-oposicion-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-13 22:13:31"
+        },
+        {
+          "titulo": "La nueva estrategia del Gobierno: cómo piensa sumar reservas y cumplir los vencimientos del 2026",
+          "link": "https://www.iprofesional.com/finanzas/441776-estrategia-del-gobierno-con-reservas-y-pago-de-deuda-como-cumplira-compromisos-del-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-13 21:25:00"
+        },
+        {
+          "titulo": "El Gobierno declaró la emergencia agropecuaria en las provincias de Buenos Aires, Entre Ríos y Río Negro",
+          "link": "https://www.minutouno.com/politica/el-gobierno-declaro-la-emergencia-agropecuaria-las-provincias-buenos-aires-rios-y-rio-negro-n6213649",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 20:02:00"
+        },
+        {
+          "titulo": "Presupuesto 2026: Javier Milei congela vacantes de empleados públicos por dos años",
+          "link": "https://www.minutouno.com/politica/presupuesto-2026-javier-milei-congela-vacantes-empleados-publicos-dos-anos-n6213688",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-13 19:54:00"
+        },
         {
           "titulo": "Kicillof, sin foto ni fondos: la deuda de Nación, teléfonos cortados y una pelea por el territorio para 2027",
           "link": "https://www.perfil.com/noticias/politica/kicillof-sin-foto-ni-fondos-la-deuda-de-nacion-telefonos-cortados-y-una-pelea-por-el-territorio-para-2027.phtml",
@@ -788,12 +827,46 @@
           "link": "https://www.clarin.com/politica/cristina-kirchner-recibio-ricardo-quintela-gobernadores-milei-invito-casa-rosada_0_dmDgLtXRki.html",
           "fuente": "Clarín",
           "fecha": "2025-11-13 19:13:01"
+        },
+        {
+          "titulo": "Carolina Losada: \"Los pedidos de la UIA están comprendidos en el trabajo que viene haciendo el Consejo de Mayo\"",
+          "link": "https://www.ambito.com/politica/carolina-losada-los-pedidos-la-uia-estan-comprendidos-el-trabajo-que-viene-haciendo-el-consejo-mayo-n6213599",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 19:02:00"
+        },
+        {
+          "titulo": "Santilli pone a un hombre de confianza como su vice en Interior y Pareja gana una banca en la Legislatura bonaerense",
+          "link": "https://www.clarin.com/politica/santilli-pone-hombre-confianza-vice-interior-pareja-gana-banca-legislatura-bonaerense_0_eWTisjoh7S.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-13 18:56:24"
+        },
+        {
+          "titulo": "La Justicia ratificó que el Estado debe definir los aumentos de las prepagas",
+          "link": "https://www.perfil.com/noticias/politica/la-justicia-ratifico-que-el-estado-debe-definir-los-aumentos-de-las-prepagas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 17:41:00"
+        },
+        {
+          "titulo": "El Gobierno declaró la emergencia agropecuaria en Buenos Aires, Entre Ríos y Río Negro",
+          "link": "https://www.ambito.com/politica/el-gobierno-declaro-la-emergencia-agropecuaria-buenos-aires-rios-y-rio-negro-n6213607",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-13 17:17:00"
+        },
+        {
+          "titulo": "El plan de Cristina Kirchner para, aun presa, pasar sus vacaciones en El Calafate",
+          "link": "https://noticias.perfil.com/noticias/politica/el-plan-de-cristina-kirchner-para-aun-presa-pasar-sus-vacaciones-en-el-calafate.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-13 17:15:10"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-14",
       "fuentes": [
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1",
         "Perfil",
+        "La Nación",
         "Clarín"
       ],
       "es_tema_nuevo": true,
