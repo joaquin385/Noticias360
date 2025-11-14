@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-14",
-  "fecha_generacion": "2025-11-14T15:16:33.154586",
+  "fecha_generacion": "2025-11-14T18:21:30.661399",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 23,
-      "fecha_generacion": "2025-11-14T15:16:16.875292",
+      "cantidad_noticias": 20,
+      "fecha_generacion": "2025-11-14T18:21:27.494598",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Argentina y Estados Unidos formalizaron un acuerdo comercial bilateral que profundiza la cooperación, reduce aranceles y protege la propiedad intelectual. El oficialismo celebró el pacto como una señal de crecimiento y alineamiento con el \"mundo libre\", marcando un alejamiento geopolítico de China. La administración provincial de Kicillof, a través de su Ministro de Producción, manifestó preocupación por el posible impacto negativo en la industria bonaerense. Se anticipa la firma del convenio y futuros anuncios por parte del presidente Trump.\n\nEn el ámbito político interno argentino, Manuel Adorni inició su rol como Jefe de Gabinete realizando conferencias de prensa sin preguntas. El Gobierno avanza con sus reformas estructurales, buscando apoyos provinciales a través de reuniones como la de Santilli con Cornejo en Mendoza. Paralelamente, Villarruel y Bullrich se reunieron para alinear estrategias legislativas. La Sindicatura General de la Nación (SIGEN) estableció nuevas normas de control para empresas con participación estatal. Adorni desmintió rumores sobre la reforma laboral y la eliminación del monotributo.\n\nEn el plano judicial, se reactivó una megacausa de corrupción que investiga el desvío de $800 millones destinados a viviendas, con más de 200 personas imputadas. Asimismo, se espera el veredicto en el juicio contra el clan Sena por el caso Cecilia Strzyzowski, mientras que la Procuración solicitó la destitución de la jueza Makintach por presunta manipulación de procesos. En la región, Chile se prepara para sus elecciones presidenciales de este domingo, con el voto obligatorio como factor clave que podría torcer la balanza entre los ocho contendientes.",
-      "cantidad_noticias": 28,
-      "fecha_generacion": "2025-11-14T15:16:32.586091",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-14T18:21:28.102603",
       "categoria": "politica"
     },
     "economia": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-14T15:16:33.154355",
+      "fecha_generacion": "2025-11-14T18:21:30.661124",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-14T15:16:33.154569"
+      "fecha_generacion": "2025-11-14T18:21:30.661376"
     }
   }
 }
