@@ -1,14 +1,64 @@
 {
   "fecha": "2025-11-15",
-  "fecha_generacion": "2025-11-15T18:23:57.219911",
+  "fecha_generacion": "2025-11-15T21:18:37.999036",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "politica_argentina:_monotributo_20251115",
-      "tema": "Política Argentina: Monotributo Debate",
-      "tema_normalizado": "politica argentina: monotributo debate",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se generó un intenso debate en Argentina sobre la posible eliminación del régimen del Monotributo.\n• El presidente Javier Milei negó rotundamente estas versiones, calificándolas de \"mentiras y operaciones\" mediáticas.\n• Sin embargo, figuras de la oposición han criticado la medida, propuesto alternativas y vinculado el debate a exigencias del Fondo Monetario Internacional (FMI).\n\n🔍 **Datos clave:**\n• **Monotributistas actuales:** Hay 4,7 millones de monotributistas en el país (según Michel), aunque otras fuentes mencionan 3 millones.\n• **Recaudación:** El Monotributo representa solo el 1,4% del total de la recaudación fiscal.\n• **Costo actual (categoría mínima):** Los monotributistas de la categoría más baja abonan $37.085 mensuales.\n• **Costo jubilación autónomos:** Si se eliminara el Monotributo, se debería pagar alrededor de $82.000 por jubilación de autónomos.\n• **FMI:** El diputado Guillermo Michel afirmó que la eliminación es un compromiso argentino con el FMI, mencionado en el Staff Report y el Acuerdo de Facilidades Extendidas.\n• **Propuesta alternativa:** El diputado Michel impulsó un proyecto llamado \"Simple\" para PyMEs, con un esquema simplificado.\n\n⚡ **Desarrollo:**\n• El Monotributo, creado en la década de los 90, es un sistema simplificado que permite a pequeños emprendedores, profesionales y comerciantes formalizarse y tributar IVA y Ganancias de forma unificada.\n• Los rumores sobre su eliminación surgieron de documentos internos del gobierno que analizaban una reforma tributaria y laboral, alineada con recomendaciones del FMI.\n• El diputado Guillermo Michel defendió el Monotributo, argumentando que afecta a millones de argentinos (85% en categorías bajas) y es una herramienta clave, especialmente en el interior del país.\n• Michel criticó que la posible eliminación surge de \"ideas improvisadas\" y exigencias del FMI, y propuso su \"Régimen Simple\" para evitar que PyMEs y emprendedores caigan en la informalidad.\n• Por otro lado, el presidente Javier Milei y el jefe de Gabinete Manuel Adorni desmintieron la eliminación, afirmando que los proyectos de reforma se están trabajando y se darán a conocer a su debido tiempo por canales oficiales.\n• Una eventual eliminación del Monotributo sin una reforma integral del Régimen General impactaría negativamente, obligando a enfrentar mayores costos, como la jubilación de autónomos y la necesidad de una medicina prepaga.\n• Además, implicaría mayores exigencias administrativas (declaraciones de IVA y Ganancias separadas) y la pérdida de la unificación de Ingresos Brutos y tasas municipales.\n• Expertos tributaristas advierten que esta medida podría aumentar la informalidad y dejar a muchas personas sin cobertura médica ni previsional.\n\n💡 **¿Por qué importa?**\n• El Monotributo es vital para la formalización y el funcionamiento económico de millones de pequeños contribuyentes, emprendedores y profesionales en Argentina.\n• Su eliminación sin una alternativa viable y adecuada generaría un impacto socioeconómico negativo, aumentando la informalidad, la complejidad fiscal y dejando a gran parte de la población sin acceso a sistemas de salud y previsión social.",
-      "cantidad_noticias": 8,
+      "tema_id": "elecciones_presidenciales_chile_20251115",
+      "tema": "Elecciones Presidenciales Chile 2025",
+      "tema_normalizado": "elecciones presidenciales chile 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Chile se prepara para sus próximas elecciones presidenciales, que se proyectan para finales de 2025, para elegir al sucesor del actual presidente Gabriel Boric.\n*   Estos comicios se desarrollarán en un clima de marcada polarización, con un anticipado giro a la derecha en el país.\n*   Una de las grandes novedades es el regreso del voto obligatorio, lo que podría aumentar significativamente la participación electoral.\n\n🔍 **Datos clave:**\n*   **Fecha principal:** Proyectada para el 16 de noviembre de 2025, con una posible segunda vuelta el 14 de diciembre.\n*   **Candidatos:** Ocho candidatos buscan la presidencia.\n*   **Voto:** Obligatorio nuevamente después de 13 años, por primera vez en una presidencial desde 1990.\n*   **Participación esperada:** Se estima entre 85% y 90% del padrón, frente al 53% en 2021.\n*   **Renovación legislativa:** Se renovará la totalidad de los 155 diputados y 23 de los 50 senadores.\n\n⚡ **Desarrollo:**\n*   Los principales favoritos son Jeannette Jara, del Partido Comunista (candidata del oficialismo de centroizquierda), y José Antonio Kast, del Partido Republicano (derecha).\n*   Otros candidatos relevantes de derecha incluyen a Johannes Kaiser (ultraderecha/libertario) y Evelyn Matthei (derecha tradicional).\n*   La seguridad es el tema central de la campaña, con discursos de \"mano dura\" ganando apoyo frente a la percepción de un aumento de la criminalidad y la violencia.\n*   El presidente argentino Javier Milei ha manifestado su apuesta por un triunfo de la derecha en Chile (Kast o Kaiser) para establecer un vínculo afín con el próximo gobierno.\n*   El oficialismo de Jara enfrenta el desafío de la baja popularidad del presidente Boric y las resistencias históricas hacia el Partido Comunista.\n*   La campaña se disputa fuertemente en redes sociales, con la circulación de noticias falsas y encuestas no oficiales debido a la veda de sondeos tradicionales.\n\n💡 **¿Por qué importa?**\n*   Estas elecciones podrían marcar un giro político significativo en Chile hacia la derecha, impactando las políticas de seguridad, economía y el rol del Estado.\n*   El retorno del voto obligatorio introducirá a millones de votantes \"despolitizados\", haciendo los resultados más impredecibles y con potencial para reconfigurar el panorama político del país.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Milei apuesta a un triunfo de la derecha en las elecciones presidenciales de Chile",
+          "link": "https://www.lanacion.com.ar/politica/milei-apuesta-a-un-triunfo-de-la-derecha-en-las-elecciones-presidenciales-de-chile-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-15 17:47:03"
+        },
+        {
+          "titulo": "Elecciones en Chile: ocho candidatos buscan la presidencia, en el regreso del voto obligatorio",
+          "link": "https://www.ambito.com/mundo/elecciones-chile-ocho-candidatos-buscan-la-presidencia-el-regreso-del-voto-obligatorio-n6214258",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 17:36:00"
+        },
+        {
+          "titulo": "¿Chile se volvió un país peligroso? Los discursos de mano dura ganan apoyo frente al pánico antes de las elecciones",
+          "link": "https://www.lanacion.com.ar/el-mundo/chile-se-volvio-un-pais-peligroso-los-discursos-de-mano-dura-ganan-apoyo-frente-al-panico-antes-de-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-15 17:01:31"
+        },
+        {
+          "titulo": "Chile elige presidente en un clima de polarización, con incertidumbre y un casi seguro giro a la derecha",
+          "link": "https://www.clarin.com/mundo/chile-elige-presidente-clima-polarizacion-incertidumbre-seguro-giro-derecha_0_C2cOKKgqDi.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 17:00:58"
+        },
+        {
+          "titulo": "Noticias falsas y encuestas \"bajo la mesa\": la campaña para las elecciones en Chile se disputa en las redes sociales",
+          "link": "https://www.clarin.com/mundo/noticias-falsas-encuestas-mesa-campana-elecciones-chile-disputa-redes-sociales_0_w8QyQdgxPY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 10:00:56"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "debate_monotributo_regimen_20251115",
+      "tema": "Debate Monotributo Régimen Simplificado",
+      "tema_normalizado": "debate monotributo regimen simplificado",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se generó un debate importante en Argentina sobre la posible eliminación del Monotributo, un régimen simplificado para pequeños contribuyentes.\n• El presidente Javier Milei desmintió enfáticamente estas versiones, calificándolas de \"mentiras y operaciones\".\n• Por su parte, el diputado Guillermo Michel defendió el Monotributo y propuso crear un \"régimen Simple\" específico para PyMEs.\n\n🔍 **Datos clave:**\n• **4.7 millones:** Monotributistas actuales en Argentina.\n• **1.4%:** Porcentaje del total de la recaudación fiscal que proviene del Monotributo, según Michel.\n• **$37.085:** Pago mensual aproximado de la categoría más baja del Monotributo.\n• **$82.000:** Costo estimado para jubilación de autónomos si los monotributistas pasaran al Régimen General sin cambios.\n• **Javier Milei:** Presidente de Argentina, quien negó la eliminación del régimen.\n• **Guillermo Michel:** Diputado por Entre Ríos, defensor del Monotributo y proponente del \"régimen Simple\".\n• **Manuel Adorni:** Jefe de Gabinete y vocero presidencial, también desmintió la medida.\n• **FMI:** Habría sugerido en el pasado la eliminación o reforma del Monotributo.\n\n⚡ **Desarrollo:**\n• El debate surgió por filtraciones y análisis que indicaban que el Gobierno evaluaba eliminar el Monotributo como parte de una reforma tributaria y laboral.\n• Esta supuesta medida buscaría formalizar la economía e impulsar el mercado de capitales, según reportes internos.\n• El diputado Michel criticó la idea, señalando que el Gobierno \"desconoce cómo viven y trabajan\" la mayoría de los 4.7 millones de monotributistas, el 85% en las categorías más bajas.\n• Destacó que el Monotributo es una herramienta esencial para simplificar la vida de emprendedores y profesionales, especialmente en el interior del país.\n• Michel propuso un proyecto llamado \"Simple\", diseñado como un puente para PyMEs, ofreciendo un esquema simplificado de presentación y pago para evitar la informalidad.\n• El presidente Milei y su Jefe de Gabinete, Manuel Adorni, aseguraron que las informaciones sobre la eliminación del Monotributo son \"falsas\" y \"mentiras inventadas por los medios\".\n• Confirmaron que se están trabajando en reformas tributarias y de modernización laboral, pero que los proyectos finales se darán a conocer \"cuando tengan que estar\".\n• Expertos tributaristas, como Sebastián Domínguez, advirtieron que eliminar el Monotributo sin una reforma integral del Régimen General tendría un impacto negativo.\n• Podría generar más informalidad, expulsar a personas del sistema previsional y dejar a millones sin cobertura médica.\n• Los monotributistas pasarían a enfrentar costos significativamente más altos (jubilación de autónomos, medicina prepaga, IVA, Ganancias) y mayores exigencias administrativas.\n\n💡 **¿Por qué importa?**\n• La posible eliminación o reforma del Monotributo afecta directamente a millones de trabajadores independientes, pequeños comerciantes y profesionales en Argentina.\n• Define la facilidad o dificultad con la que estos sectores pueden operar formalmente, impactando su capacidad de desarrollo y acceso a derechos como obra social y jubilación.",
+      "cantidad_noticias": 7,
       "noticias": [
         {
           "titulo": "El diputado Guillermo Michel defendió el monotributo y propuso establecer un \"régimen Simple\" para las pymes",
@@ -27,12 +77,6 @@
           "link": "https://www.ambito.com/economia/monotributo-que-pasa-los-contribuyentes-si-se-elimina-el-regimen-simplificado-n6214050",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-15 07:00:00"
-        },
-        {
-          "titulo": "Michel: “La política tributaria no se define acá”",
-          "link": "https://www.perfil.com/noticias/economia/michel-la-politica-tributaria-no-se-define-aca.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 04:02:39"
         },
         {
           "titulo": "Milei: “La eliminación del monotributo es una mentira de los medios”",
@@ -62,10 +106,86 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
-        "Perfil",
         "iProfesional",
         "Ámbito Financiero",
-        "Minuto1"
+        "Minuto1",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_dolar_argentina_20251115",
+      "tema": "Cotización Dólar Argentina",
+      "tema_normalizado": "cotizacion dolar argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El sábado 15 de noviembre de 2025, Argentina opera con múltiples tipos de dólar, cada uno con cotizaciones y reglas específicas que configuran un complejo escenario cambiario.\n• Economistas como Carlos Melconian proyectan un dólar sostenible en una banda de $1.500 a $2.000, a la vez que critican políticas económicas recientes y la gestión del cepo.\n• Existen brechas significativas entre estas cotizaciones, afectando las transacciones de ahorro, consumo en el exterior e inversiones.\n\n🔍 **Datos clave:**\n• **Fecha:** Sábado 15 de noviembre de 2025.\n• **Dólar Oficial (BNA):** Compra $1.375 / Venta $1.425.\n• **Dólar Blue:** Compra $1.410 / Venta $1.430 (bajó $5 el viernes, subió $15 semanal).\n• **Dólar Tarjeta/Ahorro:** $1.852,50 (incluye 60% de impuestos).\n• **Dólar MEP:** Compra $1.450,50 / Venta $1.456,10 (subió 33% en el último año).\n• **Dólar CCL:** Compra $1.484,40 / Venta $1.485,50 (subió 31% en el último año).\n• **Brecha Dólar Tarjeta vs Blue:** 31%.\n• **Brecha Dólar CCL vs Oficial:** 5,9%.\n• **Pronóstico de Melconian:** Dólar \"entre $1.500 y $2.000 se la banca\".\n• **Reservas Netas BCRA:** U$S 1.428 millones.\n\n⚡ **Desarrollo:**\n• El mercado argentino se caracteriza por la coexistencia del dólar oficial, el informal (blue) y varios tipos financieros o regulados con distintas cargas impositivas.\n• El Dólar Tarjeta y Ahorro, con el mismo valor de $1852,50, se forman sumando un 30% de Impuesto PAÍS y un 30% de Impuesto a las Ganancias al dólar oficial. Estos valores cayeron 1% en la última semana, pero subieron 13% en el último año.\n• Los dólares financieros como el MEP y el CCL permiten adquirir divisas de forma legal a través de la compra y venta de bonos; el MEP para el mercado local y el CCL para transferencias al exterior.\n• El economista Carlos Melconian enfatizó que hubo una \"salida de capitales sin precedentes\" en el último semestre y tildó de \"mala praxis\" la decisión de remover el cepo para personas.\n• Melconian destacó la importancia de la asistencia financiera de Estados Unidos, a través del secretario Scott Bessent, para evitar un colapso cambiario en Argentina.\n• Las reservas brutas internacionales retrocedieron $44 millones, situándose en U$S 40.636 millones, mientras que las reservas netas continúan en un nivel bajo, en U$S 1.428 millones.\n\n💡 **¿Por qué importa?**\n• La multiplicidad de tipos de dólar y sus brechas generan incertidumbre económica, influyen en las decisiones de consumo, ahorro e inversión, y complejizan la planificación financiera para individuos y empresas.\n• Las proyecciones de expertos y el estado de las reservas son indicadores clave de la estabilidad monetaria del país y los desafíos que el gobierno enfrenta para consolidar la economía.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-15-noviembre_0_evqCD1CeIb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 07:08:01"
+        },
+        {
+          "titulo": "Dólar ahorro hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-sabado-15-noviembre_0_J0Phon326I.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 07:08:01"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-15-noviembre_0_6qdWTJbqAR.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 07:08:01"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-sabado-15-noviembre_0_U33X9kYHva.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 07:05:01"
+        },
+        {
+          "titulo": "Melconian: “El dólar entre $ 1.500 y $ 2.000 se la banca”",
+          "link": "https://www.perfil.com/noticias/economia/melconian-el-dolar-entre-1500-y-2000-se-la-banca.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 03:44:58"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-noviembre-n6214146",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este sábado 15 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-15-noviembre-n6214144",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este sábado 15 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-sabado-15-noviembre-n6214058",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Para Melconian, el dólar se va hasta los $ 2000: \"Bessent evitó el infarto\"",
+          "link": "https://www.iprofesional.com/finanzas/441963-para-carlos-melconian-precio-dolar-se-va-hasta-2000-pesos-scott-bessent-evito-infarto-cambiario",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 18:57:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Clarín",
+        "Minuto1",
+        "Perfil",
+        "iProfesional",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -76,7 +196,7 @@
       "tema_id": "acuerdo_comercial_argentina-eeuu_20251115",
       "tema": "Acuerdo Comercial Argentina-EEUU",
       "tema_normalizado": "acuerdo comercial argentina-eeuu",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina y Estados Unidos anunciaron un \"Marco de Acuerdo de Comercio Recíproco e Inversión\" para fortalecer sus lazos económicos.\n*   Este entendimiento busca abrir mercados, reducir barreras comerciales y alinear regulaciones clave entre ambos países.\n*   Mientras el sector empresarial argentino celebró el acuerdo, agricultores y ganaderos de EE.UU. expresaron preocupación y se sintieron \"traicionados\".\n\n🔍 **Datos clave:**\n*   **Cuota de carne vacuna:** Se evalúa un aumento de la cuota de importación de carne argentina a EE.UU., de 20.000 a 80.000 toneladas anuales.\n*   **AmCham:** Las empresas de la Cámara de Comercio de EE.UU. en Argentina (más de 700) aportan el 24% del PBI y generan el 45% de las exportaciones del país.\n*   **Plazo para carne aviar:** Argentina se comprometió a facilitar el ingreso de carne aviar estadounidense en el plazo de un año.\n*   **47% de las exportaciones:** Este porcentaje de las exportaciones argentinas compite directamente con productos de EE.UU.\n\n⚡ **Desarrollo:**\n*   El acuerdo es, por el momento, un \"entendimiento político\" o marco general, y los \"detalles específicos\" o \"letra chica\" aún no fueron publicados y serían confidenciales.\n*   Empresarios argentinos de AEA y la UIA celebraron el pacto como un paso \"en la dirección correcta\" para integrar a Argentina con economías occidentales y promover el desarrollo industrial.\n*   AmCham respaldó el acuerdo como una \"señal contundente de confianza mutua\" que posiciona a Argentina en nuevas cadenas de valor globales como el \"nearshoring\" y \"friendshoring\".\n*   Productores agrícolas y ganaderos de EE.UU., particularmente los de carne y soja, manifestaron su enfado, temiendo un impacto negativo en sus precios y mercados.\n*   Argentina otorgará acceso preferencial a bienes estadounidenses como medicamentos, productos químicos, maquinaria, tecnología, dispositivos médicos, vehículos y una amplia gama de productos agrícolas.\n*   EE.UU., a cambio, eliminará aranceles recíprocos sobre ciertos recursos naturales no disponibles en su territorio e insumos farmacéuticos no patentados de origen argentino.\n*   Argentina se comprometió a eliminar licencias de importación, el \"impuesto estadístico\" para bienes de EE.UU., y a aceptar estándares y certificaciones estadounidenses (ej. FDA) sin evaluaciones adicionales.\n*   El acuerdo también incluye cooperación en minerales críticos, propiedad intelectual, y mecanismos para estabilizar el mercado global de soja, donde ambos países son grandes productores.\n*   La implementación del acuerdo no tiene plazos definidos y requerirá la aprobación del Congreso argentino, lo que podría implicar modificar leyes aduaneras y de comercio internacional.\n\n💡 **¿Por qué importa?**\n*   Este acuerdo busca una reorientación estratégica de la política comercial argentina, buscando una mayor integración con las economías occidentales y fomentando la inversión.\n*   Su impacto potencial abarca desde la modificación de barreras arancelarias y no arancelarias hasta la generación de empleo, pero también podría aumentar la competencia en sectores sensibles para ambos países.",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos anunciaron un \"Marco de Acuerdo de Comercio Recíproco e Inversión\", buscando una mayor apertura comercial entre ambos países.\n• El pacto busca reducir barreras, alinear regulaciones y facilitar el intercambio de bienes, servicios y capitales.\n• Este entendimiento generó reacciones divididas: furia entre agricultores de EE.UU. y celebración en gran parte del sector empresarial argentino.\n\n🔍 **Datos clave:**\n• **Sector clave:** Carne vacuna. EE.UU. podría aumentar la cuota de importación de carne argentina (trascendió que de 20.000 a 80.000 toneladas anuales).\n• **Acceso preferencial de Argentina:** A una amplia canasta de bienes estadounidenses, incluyendo medicamentos, maquinaria, tecnología, vehículos y productos agrícolas.\n• **Eliminación de aranceles de EE.UU.:** Para ciertos recursos naturales argentinos no disponibles en su territorio y para insumos farmacéuticos no patentados.\n• **Actores involucrados:** Los presidentes Donald Trump (mencionado por agricultores) y Javier Milei; referentes empresariales argentinos como Jaime Campos (AEA), UIA y AmCham.\n• **Estado actual:** Es un \"entendimiento político\" o \"marco\", con detalles aún por definir y sin fecha de aplicación o firma final.\n\n⚡ **Desarrollo:**\n• **Preocupación en EE.UU.:** Agricultores y ganaderos se sienten \"traicionados\" por el presidente Trump, temiendo que el aumento de la carne argentina baje los precios locales y afecte un sector ya golpeado por la política arancelaria.\n• **Celebración en Argentina:** Empresarios de AEA, UIA y AmCham lo ven como un paso clave para el desarrollo industrial, la integración con economías occidentales y la atracción de inversiones.\n• **Compromisos argentinos específicos:** Facilitar el ingreso de ganado bovino vivo, habilitar el acceso a aves de corral en un año, simplificar registros sanitarios para carnes y no exigir registro de plantas para lácteos de EE.UU.\n• **Otras áreas del acuerdo:** Incluye cooperación en minerales críticos, esfuerzos para estabilizar el mercado global de soja, capítulos sobre propiedad intelectual y transferencia de datos.\n• **Desafíos de implementación:** La \"letra chica\" es confidencial y su aplicación requeriría la aprobación del Congreso argentino (Art. 75 CN), lo que podría implicar modificar leyes aduaneras y de comercio internacional.\n\n💡 **¿Por qué importa?**\n• El acuerdo señala una posible reorientación de la política comercial argentina, buscando mayor alineamiento con Occidente y fomentando la inversión extranjera.\n• Aunque preliminar, suscita fuertes expectativas y críticas, revelando la complejidad de equilibrar intereses nacionales e internacionales en un pacto comercial.",
       "cantidad_noticias": 6,
       "noticias": [
         {
@@ -116,100 +236,11 @@
           "fecha": "2025-11-14 19:24:00"
         }
       ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-15",
-      "fuentes": [
-        "Perfil",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "mercado_cambiario_argentina:_20251115",
-      "tema": "Mercado Cambiario Argentina: Dólar",
-      "tema_normalizado": "mercado cambiario argentina: dolar",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado cambiario argentino presenta una complejidad de múltiples cotizaciones del dólar, muy por encima del valor oficial, reflejando inestabilidad y restricciones.\n*   Entidades como el Banco Central investigan activamente operaciones en el mercado paralelo, incluyendo casos de presunto abastecimiento ilegal.\n*   Economistas analizan la situación actual, proyectan futuros valores del dólar y critican algunas decisiones gubernamentales en materia cambiaria.\n\n🔍 **Datos clave:**\n*   **Dólar Blue (15/11/2025):** $1.410 (compra) / $1.430 (venta).\n*   **Dólar Oficial (14/11/2025):** $1.375 (compra) / $1.425 (venta).\n*   **Dólar Tarjeta y Ahorro (15/11/2025):** $1.852,50, compuesto por el dólar oficial más un 60% de impuestos (30% Impuesto País + 30%/45% Ganancias).\n*   **Dólar MEP (15/11/2025):** $1.450,50 (compra) / $1.456,10 (venta), con una brecha del 3% respecto al blue.\n*   **Dólar CCL (15/11/2025):** $1.484,40 (compra) / $1.485,50 (venta), herramienta financiera para sacar divisas legalmente.\n*   **Arg Exchange:** Casa de cambio investigada por el BCRA, que en 2023 vendió US$250 millones sin justificación de fondos.\n*   **Carlos Melconian:** Economista que pronostica un dólar \"sostenible\" entre $1.500 y $2.000, y califica la remoción del cepo para personas en abril como \"mala praxis\".\n*   **Scott Bessent:** Secretario del Tesoro de EE.UU., a quien Melconian atribuye una intervención crucial para evitar un \"infarto cambiario\" en Argentina.\n\n⚡ **Desarrollo:**\n*   El Banco Central investiga a la casa de cambio Arg Exchange, asociada a Elías Piccirillo (\"El rey del dólar blue\"), por adquirir divisas a valor oficial y presuntamente destinarlas al mercado paralelo durante 2023, en el auge del \"cepo\".\n*   La Argentina cuenta con distintos tipos de dólar debido a las restricciones cambiarias implementadas desde 2011 y endurecidas en los últimos años.\n*   El dólar blue, también llamado \"dólar paralelo\" o \"informal\", opera por fuera del circuito bancario y sus valores no tienen límites oficiales.\n*   Los dólares MEP y Contado Con Liquidación (CCL) son opciones financieras legales para adquirir divisas mediante la compra-venta de bonos, siendo el MEP una alternativa de atesoramiento y el CCL una vía para sacar fondos del país.\n*   El dólar tarjeta y el dólar ahorro incorporan recargos impositivos sobre el dólar oficial minorista, elevando su valor para gastos en el exterior o la compra mensual de divisas permitida.\n*   Carlos Melconian ha señalado una salida de capitales \"sin precedentes\" en los últimos seis meses y la ineficacia de la apertura del cepo para personas.\n*   La asistencia de Estados Unidos fue vital para evitar una crisis cambiaria mayor, según la visión del economista.\n\n💡 **¿Por qué importa?**\n*   La multiplicidad de valores del dólar genera confusión y distorsiones en la economía, afectando la planificación financiera de ciudadanos y empresas.\n*   Las investigaciones sobre el mercado paralelo son clave para la transparencia financiera y para que el Banco Central pueda gestionar adecuadamente las reservas del país.",
-      "cantidad_noticias": 11,
-      "noticias": [
-        {
-          "titulo": "Una empresa de Piccirillo vendió US$250 millones en un año: el “pasa manos” y los secretos del blue",
-          "link": "https://www.lanacion.com.ar/politica/una-empresa-de-piccirillo-vendio-us250-millones-en-un-ano-el-pasa-manos-y-los-secretos-del-blue-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 10:32:36"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-15-noviembre_0_evqCD1CeIb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Dólar ahorro hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-sabado-15-noviembre_0_J0Phon326I.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-15-noviembre_0_6qdWTJbqAR.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-sabado-15-noviembre_0_U33X9kYHva.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:05:01"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-sabado-15-noviembre_0_TuNA2ciREU.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:00:01"
-        },
-        {
-          "titulo": "Melconian: “El dólar entre $ 1.500 y $ 2.000 se la banca”",
-          "link": "https://www.perfil.com/noticias/economia/melconian-el-dolar-entre-1500-y-2000-se-la-banca.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 03:44:58"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este sábado 15 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-sabado-15-noviembre-n6214058",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 00:00:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este viernes 14 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-viernes-14-noviembre-n6213811",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-14 21:03:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 14 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-14-noviembre-n6213692",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-14 20:57:00"
-        },
-        {
-          "titulo": "Para Melconian, el dólar se va hasta los $ 2000: \"Bessent evitó el infarto\"",
-          "link": "https://www.iprofesional.com/finanzas/441963-para-carlos-melconian-precio-dolar-se-va-hasta-2000-pesos-scott-bessent-evito-infarto-cambiario",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-14 18:57:00"
-        }
-      ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
         "Clarín",
-        "iProfesional",
         "Ámbito Financiero",
-        "Minuto1",
-        "La Nación",
         "Perfil"
       ],
       "es_tema_nuevo": true,
@@ -218,10 +249,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_corrupcion_andis/spagnuolo_20251115",
-      "tema": "Causa Corrupción Andis/Spagnuolo",
-      "tema_normalizado": "causa corrupcion andis/spagnuolo",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia investiga una grave causa de corrupción en la Agencia Nacional de Discapacidad (ANDIS) que involucra a exfuncionarios y empresarios.\n• Se descubrió un entramado para desviar fondos públicos mediante direccionamiento de compras, sobreprecios, cobro de sobornos y posible lavado de activos.\n• El ex titular de ANDIS, Diego Spagnuolo, y otras 14 personas han sido citadas a declaración indagatoria por el fiscal Franco Picardi.\n\n🔍 **Datos clave:**\n• **Diego Spagnuolo:** Ex titular de ANDIS, citado a indagatoria.\n• **Miguel Ángel Calvete:** Operador paraestatal clave, vinculado a droguerías y con estrecho vínculo con Spagnuolo.\n• **Sergio Daniel Mastropietro:** Empresario de aviación y socio de Fred Machado, apuntado como responsable del lavado de dinero.\n• **5 millones de pesos:** Monto de pagos sospechosos que habría recibido Spagnuolo, relacionados con un viaje a Israel.\n• **15 personas:** Cantidad total de implicados citados a indagatoria.\n• **10 de septiembre de 2025:** Fecha en que Calvete envió archivos de transferencias a Mastropietro por cientos de millones de pesos.\n• **Agosto:** Mes en que se inició la causa tras la difusión de audios.\n\n⚡ **Desarrollo:**\n• La investigación del fiscal Franco Picardi reveló una \"organización delictiva\" que afectaba directamente al Programa Incluir Salud y a personas con discapacidad.\n• Las maniobras incluían favorecer a droguerías como Profarma S.A., Prolite Orthopedics S.R.L. y Probock S.R.L. con adjudicaciones irregulares.\n• Sergio Daniel Mastropietro utilizaba su empresa Baires Fly S.A. para mover y legitimar los fondos, emitiendo facturas falsas por \"compra de kilómetros nacionales\".\n• Las pruebas incluyen imágenes de Spagnuolo visitando a Calvete con una mochila y conversaciones en chats sobre pagos de millones de pesos.\n• Daniel Garbellini, ex mano derecha de Spagnuolo y ex titular del Programa Incluir Salud, también está implicado por instaurar un \"circuito paralelo de coimas\".\n• Un grupo de WhatsApp denominado \"Grupo Museo\", creado en febrero de 2022, evidenció la búsqueda de un organismo público (\"caja estatal\") por parte de Atchabahian, Garbellini y otros.\n• Pablo Atchabahian, ex Director Nacional de Acceso a los Servicios de Salud, cuya detención fue ordenada, daba órdenes a Garbellini sobre pagos y contrataciones.\n• En los chats se menciona a Spagnuolo como quien \"habría pedido la ANDIS\" y a Karina Milei como \"la que define todo\", aunque el fiscal aclaró que no están imputados.\n• El abogado Gregorio Dalbón, denunciante inicial, advirtió públicamente al presidente Javier Milei y a su hermana Karina en el marco de la causa.\n• Los audios que iniciaron la causa relataban un presunto mecanismo de retornos del 3% por parte de droguerías.\n\n💡 **¿Por qué importa?**\n• Este caso expone un grave entramado de corrupción que habría desviado fondos públicos esenciales para la salud y bienestar de las personas con discapacidad, un sector vulnerable.\n• La investigación busca determinar responsabilidades políticas, administrativas y penales, enviando un mensaje sobre la transparencia en la gestión de fondos estatales.",
+      "tema_id": "causa_corrupcion_spagnuolo_20251115",
+      "tema": "Causa Corrupción Spagnuolo ANDIS",
+      "tema_normalizado": "causa corrupcion spagnuolo andis",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia investiga una red de corrupción en la Agencia Nacional de Discapacidad (ANDIS) que involucra a su extitular, Diego Spagnuolo, y a otros 14 exfuncionarios y empresarios.\n• Se detectaron maniobras de direccionamiento de compras, sobreprecios, cobro de sobornos y lavado de dinero con fondos destinados a personas con discapacidad.\n• El fiscal federal Franco Picardi citó a indagatoria a los implicados tras identificar una \"organización delictiva\" operando en el organismo.\n\n🔍 **Datos clave:**\n• **Diego Spagnuolo:** Ex-titular de ANDIS, citado a indagatoria por presunta corrupción y vínculos con operadores.\n• **Franco Picardi:** Fiscal federal a cargo de la investigación, citó a un total de 15 personas.\n• **Miguel Ángel Calvete:** Señalado como el operador paraestatal clave que comandaba el grupo corrupto en ANDIS.\n• **Sergio Daniel Mastropietro:** Empresario de aviación, socio de Fred Machado, apuntado como posible lavador de activos.\n• **Baires Fly S.A.:** Empresa de aviación privada utilizada para presuntas operaciones de lavado de dinero.\n• **Droguerías implicadas:** Profarma S.A., Prolite Orthopedics S.R.L., Probock S.R.L., Génesis S.A. y New Farma S.A.\n• **Daniel Garbellini:** Ex-mano derecha de Spagnuolo y titular del Programa Incluir Salud, también citado a declarar.\n• **Pablo Atchabahian:** Ex-Director Nacional de Acceso a los Servicios de Salud, tiene una orden de detención emitida.\n• **3%:** Porcentaje de los supuestos \"retornos\" o coimas mencionados en audios atribuidos a Spagnuolo.\n• **5 millones de pesos:** Monto que Spagnuolo habría recibido, vinculado a un viaje a Israel.\n• **10 de septiembre de 2025:** Fecha mencionada en un envío clave de archivos de transferencias bancarias de Calvete a Mastropietro.\n\n⚡ **Desarrollo:**\n• La investigación expone un entramado de corrupción en ANDIS con gestión irregular de fondos públicos, direccionamiento de compras y adjudicaciones a medida.\n• Miguel Ángel Calvete es señalado como el operador clave paraestatal, con vínculos con Spagnuolo y otros funcionarios, quien habría comandado el grupo delictivo.\n• Sergio Mastropietro, socio de Fred Machado (acusado de narcotráfico en EE.UU.), es apuntado como el encargado de mover y lavar el dinero ilícito.\n• El esquema de lavado incluía transferencias millonarias de droguerías favorecidas a Baires Fly S.A., que luego emitía facturas por \"compra de kilómetros nacionales\" a las mismas firmas.\n• Evidencias como imágenes de Spagnuolo ingresando al domicilio de Calvete con una mochila y chats sobre pagos refuerzan las sospechas de una estructura organizada.\n• Audios atribuidos a Spagnuolo mencionan un presunto mecanismo de retornos del 3% por parte de droguerías, lo que desató la causa en agosto.\n• Un grupo de WhatsApp denominado \"Grupo Museo\", que incluía a Garbellini y Atchabahian, buscaba una \"caja estatal\" en ANDIS para gestionar intereses particulares, evidenciando una asociación ilícita.\n• La causa también analiza menciones a Karina Milei y \"Lule\" Menem en conversaciones, y visitas de Spagnuolo a Milei, aunque el fiscal no los imputó.\n\n💡 **¿Por qué importa?**\n• La corrupción afectó directamente a uno de los sectores más vulnerables de la sociedad, las personas con discapacidad, al desviar fondos esenciales del Estado.\n• La investigación expone un sofisticado entramado de corrupción y lavado de dinero con posibles conexiones en el ámbito político y empresarial, buscando responsabilidades claras.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -252,8 +283,8 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
-        "La Nación",
         "Perfil",
+        "La Nación",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -262,23 +293,23 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politica_argentina:_actividad_20251115",
-      "tema": "Política Argentina: Actividad Santilli",
-      "tema_normalizado": "politica argentina: actividad santilli",
-      "resumen": "📌 **¿Qué está pasando?**\n• Diego Santilli, Ministro del Interior, realiza una gira federal por distintas provincias argentinas.\n• Su principal misión es buscar el apoyo de los gobernadores para el Presupuesto 2026 y las reformas que el Gobierno Nacional quiere impulsar.\n• Durante su primera semana en el cargo, visitó Neuquén y Mendoza, reuniéndose con sus respectivos gobernadores.\n\n🔍 **Datos clave:**\n• **Funcionario clave:** Diego Santilli (Ministro del Interior).\n• **Gobernadores visitados:** Rolando Figueroa (Neuquén) y Alfredo Cornejo (Mendoza).\n• **Reforma principal:** Reforma laboral, inspirada en el convenio colectivo de Vaca Muerta.\n• **Modelo de Vaca Muerta:** Acuerdo de 2017 con Guillermo Pereyra (Sindicato Petróleo y Gas Privado).\n• **Crédito gestionado:** Nación actuó como contragarantía para un préstamo de USD 75 millones a Mendoza para obras de agua.\n• **Trabajadores (según Santilli):** 6 millones formales privados, 3 millones públicos, más de 9 millones informales.\n• **Proyectos en discusión:** Presupuesto 2026, reforma laboral, tributaria y nuevo código penal.\n\n⚡ **Desarrollo:**\n• Santilli fue encomendado por el Presidente Javier Milei para coordinar agendas entre las provincias y Nación.\n• La gira busca generar consensos para \"modernizar\" la economía, bajar impuestos y crear empleo formal.\n• La reforma laboral es un eje central; se espera que ingrese próximamente y se base en el diálogo con diferentes sectores.\n• El modelo a seguir es el Convenio Colectivo de Trabajo (CCT) petrolero de Vaca Muerta, que Santilli considera clave para el crecimiento del sector.\n• Este CCT de Vaca Muerta, firmado en 2017, permitió reorganizar turnos y reducir \"horas taxi\" para aumentar la inversión y empleo.\n• El ministro argumenta que la reforma laboral busca incluir a los más de 9 millones de trabajadores informales, dándoles acceso a derechos como jubilación y salud.\n• En Mendoza, Santilli aseguró el respaldo de Nación para un crédito de USD 75 millones para obras hídricas.\n• Los gobernadores esperan que Nación libere fondos para obras públicas pendientes a cambio de su apoyo en el Congreso.\n• Santilli subraya la necesidad de escuchar las agendas regionales y promover reformas estructurales para el país.\n\n💡 **¿Por qué importa?**\n• La actividad de Santilli es fundamental para el Gobierno, ya que busca asegurar los apoyos legislativos necesarios para aprobar reformas cruciales.\n• La propuesta de reforma laboral, basada en el modelo de Vaca Muerta, podría generar un impacto significativo en el mercado de trabajo y la economía argentina.",
+      "tema_id": "actividad_politica_diego_20251115",
+      "tema": "Actividad Política Diego Santilli",
+      "tema_normalizado": "actividad politica diego santilli",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro del Interior, Diego Santilli, está llevando a cabo una \"gira federal\" por diversas provincias argentinas.\n• Esta iniciativa, encomendada directamente por el Presidente Javier Milei, busca construir puentes de diálogo y consensos políticos.\n• El objetivo principal es recabar apoyos para la aprobación del Presupuesto 2026 y una serie de reformas estructurales clave para el gobierno.\n\n🔍 **Datos clave:**\n• **Funcionario clave:** Diego Santilli, Ministro del Interior.\n• **Impulsor de la gira:** Presidente Javier Milei.\n• **Gobernadores visitados (recientemente):** Rolando Figueroa (Neuquén) y Alfredo Cornejo (Mendoza).\n• **Agenda principal:** Presupuesto 2026, reforma tributaria, modernización laboral, nuevo Código Penal.\n• **Aporte a Mendoza:** Contragarantía nacional para un crédito de U$S 75 millones.\n• **Decreto facilitador:** 806/2025 (relacionado con el apoyo crediticio).\n\n⚡ **Desarrollo:**\n• Santilli dedicó su primera semana como ministro a esta \"peregrinación\" federal, recolectando reuniones y fotos con jefes provinciales.\n• El propósito de esta tarea es \"acercar posiciones y establecer pactos\" en el Congreso Nacional para impulsar las reformas.\n• En su encuentro con el gobernador Rolando Figueroa en Neuquén, se destacaron la importancia del trabajo recíproco y el diálogo Nación-provincias.\n• Figueroa afirmó que Neuquén \"no pelea por pelear\", sino que apoyará cada iniciativa que beneficie a la provincia e impulse su crecimiento.\n• Santilli resaltó la experiencia de Neuquén con la modernización laboral en Vaca Muerta como un modelo exitoso de expansión del empleo y la inversión.\n• La agenda de reformas del gobierno incluye la generación de empleo formal, la baja de impuestos y la resolución de situaciones específicas de cada provincia.\n• En Mendoza, tras la reunión con Alfredo Cornejo, se anunció el respaldo de Nación a un crédito de U$S 75 millones para obras de agua potable en el Gran Mendoza y San Rafael.\n• El gobernador Cornejo insistió en la necesidad de que el gobierno nacional libere fondos y atienda reclamos pendientes de obra pública.\n\n💡 **¿Por qué importa?**\n• Esta serie de encuentros es fundamental para que el Gobierno Nacional pueda asegurar los consensos políticos necesarios para aprobar su ambiciosa agenda legislativa.\n• Establece un canal de comunicación directo con las provincias, vital para la gobernabilidad y la implementación efectiva de las reformas económicas y estructurales propuestas.",
       "cantidad_noticias": 3,
       "noticias": [
+        {
+          "titulo": "Diego Santilli visitó al gobernador de Neuquén Rolando Figueroa",
+          "link": "https://www.minutouno.com/politica/diego-santilli-visito-al-gobernador-neuquen-rolando-figueroa-n6214247",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 15:30:00"
+        },
         {
           "titulo": "Diego Santilli se reunió con el gobernador Rolando Figueroa en Neuquén",
           "link": "https://www.ambito.com/politica/diego-santilli-sigue-su-gira-federal-y-se-reune-neuquen-el-gobernador-rolando-figueroa-n6214195",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-15 14:33:00"
-        },
-        {
-          "titulo": "Diego Santilli viajó a Neuquén y reveló cuál es el modelo que mira el Gobierno para la reforma laboral",
-          "link": "https://www.infobae.com/politica/2025/11/15/diego-santilli-viajo-a-neuquen-y-revelo-cual-es-el-modelo-que-mira-el-gobierno-para-la-reforma-laboral/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-15 14:12:32"
         },
         {
           "titulo": "Santilli terminó su primera semana de “peregrinación” federal",
@@ -290,9 +321,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
-        "Perfil",
         "Ámbito Financiero",
-        "Infobae"
+        "Minuto1",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -300,23 +331,17 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "mercado_financiero_argentina:_20251115",
-      "tema": "Mercado Financiero Argentina: Deuda/Riesgo País",
-      "tema_normalizado": "mercado financiero argentina: deuda/riesgo pais",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina experimenta un creciente optimismo en los mercados financieros, con perspectivas de baja del riesgo país y suba de acciones.\n• Este escenario favorable se debe a un importante ingreso de capitales que tiende a estabilizar el tipo de cambio.\n• La \"city\" ya anticipa una posible vuelta de Argentina a los mercados internacionales de deuda para 2026, aunque sujeta a una serie de pasos previos clave.\n\n🔍 **Datos clave:**\n• **Riesgo País (14/11/2025):** Cerró en 612 puntos básicos, con un mínimo reciente de 596 puntos el 10/11/2025, según J.P. Morgan Chase & Co.\n• **Umbral de retorno a mercados:** Entre 400 y 500 puntos básicos para acceder a financiamiento voluntario.\n• **Vencimientos de deuda (2026):** Se proyectan aproximadamente u$s26.000 millones, incluyendo u$s11.000 millones en intereses.\n• **Ingreso de divisas:** u$s2.900 millones en Obligaciones Negociables en los primeros 15 días de noviembre, un récord para el gobierno actual.\n• **Reservas netas BCRA:** Se estiman en u$s12.000 millones negativas.\n• **Dólar previsto:** Se proyecta entre $1.320 y $1.360, con una inflación anual esperada del 20% en 12 meses.\n\n⚡ **Desarrollo:**\n• El gobierno actual ha superado exitosamente el ajuste fiscal inicial y la salida del \"crawling peg\", lo que genera confianza en los mercados.\n• La \"city\" prevé tres pasos antes de volver a los mercados: mejora del rendimiento de los bonos (posiblemente con recompra de deuda), ajustes en el esquema cambiario para enero (tras revisión del FMI), y capacidad del sector público para comprar reservas sin emitir pesos para marzo/abril.\n• El ministro de Economía, Luis Caputo, ha mencionado un plan integral que incluye recompras de deuda, acumulación de reservas y ajustes cambiarios.\n• Un acuerdo comercial con EE.UU., un swap de u$s20.000 millones y financiamiento de bancos americanos alivian la preocupación por el pago de la deuda.\n• No sería necesario acumular u$s9.000 millones en reservas del BCRA para honrar la deuda gracias a estos acuerdos, lo que permite enfocar esfuerzos en la actividad económica.\n• La acumulación de reservas se priorizaría cuando la actividad económica impulse una mayor demanda de pesos, evitando así un potencial déficit cuasifiscal.\n• La volatilidad del Riesgo País refleja una combinación de optimismo por la recompra de deuda y cautela ante la necesidad de consolidar la estabilidad macroeconómica y lograr acuerdos legislativos.\n\n💡 **¿Por qué importa?**\n• Una reducción sostenida del Riesgo País es crucial para disminuir el costo del endeudamiento de Argentina y reabrir su acceso al financiamiento externo.\n• La estabilización macroeconómica, el fomento de la inversión y una gestión eficaz de la deuda son fundamentales para la recuperación económica y la mejora de la confianza inversora a largo plazo en el país.",
-      "cantidad_noticias": 4,
+      "tema_id": "riesgo_pais_argentina_20251115",
+      "tema": "Riesgo País Argentina",
+      "tema_normalizado": "riesgo pais argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n* El Riesgo País de Argentina, un termómetro de la confianza de los inversores, ha mostrado volatilidad reciente y se sitúa por encima de los 600 puntos básicos.\n* Para que el país retorne al mercado internacional de deuda, analistas señalan que este indicador debería caer a un rango de 400-500 puntos.\n* Este escenario se enmarca en un contexto de proyecciones positivas para los activos financieros, ingreso de capitales y desafíos de vencimientos de deuda.\n\n🔍 **Datos clave:**\n* **612 puntos básicos:** Cierre del Riesgo País el 14 de noviembre de 2025.\n* **596 puntos básicos:** Mínimo alcanzado el 10 de noviembre de 2025, no visto desde enero.\n* **400-500 puntos básicos:** Nivel considerado clave para que Argentina acceda al financiamiento internacional.\n* **U$S 26.000 millones:** Vencimientos de deuda que el Estado argentino debe afrontar en 2026.\n* **U$S 2.900 millones:** Ingreso de divisas del exterior en los primeros 15 días de noviembre de 2025, récord para el gobierno de Javier Milei.\n* **-U$S 12.000 millones:** Reservas netas negativas que mantiene el Banco Central.\n* **J.P. Morgan Chase & Co.:** Entidad que elabora el índice de Riesgo País.\n\n⚡ **Desarrollo:**\n* El Riesgo País es un spread que mide el diferencial de rendimiento entre los bonos soberanos de un país emergente (como Argentina) y los bonos del Tesoro de EE.UU. (libres de riesgo).\n* Una baja en este indicador refleja una menor percepción de riesgo de default por parte del mercado, lo que abarata el costo de endeudamiento para el país.\n* El 10 de noviembre de 2025, el Riesgo País cayó fuertemente impulsado por el optimismo de los inversores ante la posible recompra de deuda y acumulación de reservas, aunque luego rebotó.\n* El gobierno de Javier Milei, fortalecido tras las elecciones legislativas de octubre, busca la estabilidad macroeconómica y acuerdos para impulsar reformas.\n* A pesar del ingreso de capitales y la euforia bursátil, el país enfrenta un importante desafío con los vencimientos de deuda de 2026 y la situación de las reservas del BCRA.\n* Se proyecta un dólar más cercano a la zona de $1.320 - $1.360 debido al fuerte ingreso de divisas que generará sobreoferta en el mercado cambiario.\n* El Gobierno busca tender puentes a la inversión mediante la baja de impuestos para impulsar la actividad económica y generar un círculo virtuoso.\n\n💡 **¿Por qué importa?**\n* Un nivel bajo del Riesgo País es fundamental para que Argentina recupere la confianza de los mercados y pueda financiarse de forma sostenible, reduciendo la presión sobre sus reservas y el presupuesto.\n* Este indicador influye directamente en el costo del crédito para el Estado y las empresas, impactando en la inversión, el empleo y el crecimiento económico del país.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
           "titulo": "Lo que viene: nuevo piso para el dólar y oportunidad de inversión en bonos por riesgo país en caída",
           "link": "https://www.iprofesional.com/finanzas/441927-guru-de-la-city-preve-que-nuevo-piso-del-dolar-sera-de",
           "fuente": "iProfesional",
           "fecha": "2025-11-15 07:38:00"
-        },
-        {
-          "titulo": "La city ya le pone fecha a la vuelta de la Argentina a los mercados de deuda: cuáles son los tres pasos previos",
-          "link": "https://www.ambito.com/economia/la-city-ya-le-pone-fecha-la-vuelta-la-argentina-los-mercados-deuda-cuales-son-los-tres-pasos-previos-n6213983",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 07:00:00"
         },
         {
           "titulo": "A cuánto cotizó el Riesgo País hoy, 14 de noviembre de 2025 a35",
@@ -334,8 +359,8 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
-        "Perfil",
         "iProfesional",
+        "Perfil",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -344,122 +369,91 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_de_vido:_20251115",
-      "tema": "Causa De Vido: Condiciones Detención",
-      "tema_normalizado": "causa de vido: condiciones detencion",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El exministro Julio De Vido ingresó a prisión en el penal federal de Ezeiza tras la confirmación de su condena a cuatro años por la Tragedia de Once.\n*   Su esposa, Alessandra Minnicelli, denunció públicamente graves condiciones de detención y malos tratos en el Hospital Penitenciario Central (HPC) de Ezeiza.\n*   Las quejas principales incluyen la falta de acceso a medicación esencial, una dieta inadecuada para su diabetes y severas restricciones en su día a día, calificando la situación de \"gravísima\".\n\n🔍 **Datos clave:**\n*   **Condena:** 4 años de prisión por administración fraudulenta en la Tragedia de Once (2012).\n*   **Edad de De Vido:** 75 años al momento de su detención (cumplirá 76 el 26 de diciembre).\n*   **Lugar de detención:** Hospital Penitenciario Central (HPC) de Ezeiza.\n*   **Fecha de ingreso:** Jueves 13 de diciembre por la tarde.\n*   **Jueces de la Corte Suprema:** Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti.\n\n⚡ **Desarrollo:**\n*   La Corte Suprema de Justicia dejó firme la sentencia contra De Vido, considerándolo partícipe necesario del delito de administración fraudulenta en perjuicio de la administración pública.\n*   Su defensa, a cargo de Maximiliano Rusconi, calificó la decisión de la Corte como \"arbitraria y violatoria de los derechos humanos fundamentales\".\n*   La defensa había solicitado prisión domiciliaria, citando diversas enfermedades crónicas como diabetes insulinodependiente, hipertensión, vasculopatía y problemas respiratorios; esta petición fue denegada inicialmente por el Tribunal Oral Federal N°4.\n*   Minnicelli informó que a De Vido no se le permitió acceder a sus pertenencias ni a su bolso, quedándose solo con una camiseta térmica en un clima de altas temperaturas.\n*   Alertó sobre una alimentación inapropiada para un diabético, mencionando el ofrecimiento de cinco panes en el desayuno, lo cual calificó de \"veneno\" para su condición.\n*   Además, se le habría negado acceso a agua caliente para preparar mate cocido y la posibilidad de ducharse, limitando también su comunicación exterior a un único teléfono con tarjeta y horarios restringidos.\n*   Frente a esta situación, se realizó una presentación judicial y el juez interviniente envió un oficio al Hospital Penitenciario para investigar las denuncias.\n\n💡 **¿Por qué importa?**\n*   Este caso pone en el centro del debate las condiciones de detención para personas mayores con problemas de salud graves, y la garantía de sus derechos fundamentales en el sistema penitenciario argentino.\n*   Subraya el escrutinio público sobre el cumplimiento de las sentencias y el trato a exfuncionarios de alto perfil, afectando la percepción de justicia y los estándares de derechos penitenciarios en el país.",
+      "tema_id": "mercado_deuda_argentina_20251115",
+      "tema": "Mercado Deuda Argentina",
+      "tema_normalizado": "mercado deuda argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Empresas argentinas, principalmente del sector energético, han reactivado la emisión de deuda en mercados internacionales, atrayendo una importante \"lluvia de dólares\".\n• Tras las elecciones de octubre, ocho compañías captaron más de US$ 3.000 millones en solo 19 días, marcando un récord mensual en casi una década.\n• Este ingreso de divisas frescas ayuda a abastecer la demanda de dólares en el país, reemplazando en parte la oferta del sector agropecuario.\n\n🔍 **Datos clave:**\n• **US$ 3.092 millones:** Monto emitido por 8 empresas en 19 días post-elecciones de octubre, el mayor valor mensual desde enero de 2015.\n• **US$ 12.460 millones:** Récord de emisiones de deuda corporativa en 2022.\n• **2026:** Fecha estimada por la \"city\" para el regreso de Argentina a los mercados de deuda soberana internacional.\n• **7,6% a 10,7%:** Rango de tasas de interés obtenidas en las recientes emisiones de bonos corporativos.\n• **12 años:** Plazo más largo para la deuda emitida (por Pampa Energía).\n• **Empresas destacadas:** Tecpetrol, YPF, Pluspetrol, TGS, Pampa Energía, Edenor.\n\n⚡ **Desarrollo:**\n• La victoria de Javier Milei en las elecciones de octubre generó optimismo, impulsando una ola de emisiones de Obligaciones Negociables (bonos corporativos).\n• El objetivo principal de las empresas es financiar nuevas inversiones o mejorar su perfil de deuda, buscando tasas más bajas o extendiendo los plazos de vencimiento.\n• El contexto histórico del blanqueo de capitales, que movilizó cerca de US$ 20.000 millones, ya había propiciado un récord de emisiones en años anteriores.\n• Para el retorno del Estado argentino a los mercados de deuda soberana, el economista Eric Ritondale de Puente, prevé tres pasos previos clave.\n• El primer paso es la mejora del rendimiento de los bonos, posiblemente a través de un swap o recompra de títulos públicos, siguiendo un camino similar al de Colombia.\n• En segunda instancia, se esperan ajustes en el esquema cambiario para enero, tras la revisión del acuerdo con el Fondo Monetario Internacional (FMI).\n• Finalmente, entre marzo y abril, se estima que el sector público podrá comprar reservas sin necesidad de absorber los pesos emitidos por esa operación.\n• El ministro de Economía, Luis Caputo, adelantó la presentación de un plan integral que incluirá recompras de deuda, acumulación de reservas y ajustes en las bandas cambiarias.\n\n💡 **¿Por qué importa?**\n• Las emisiones de deuda corporativa proveen dólares frescos, lo que es vital para la economía argentina, financiando sectores clave y aliviando la escasez de divisas.\n• Un eventual retorno del Estado argentino a los mercados de deuda soberana internacional indicaría una mejora significativa en la percepción de riesgo y la estabilidad económica del país.",
       "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "La esposa de Julio De Vido denunció malas condiciones de detención del exfuncionario: \"No accede a su medicación\"",
-          "link": "https://www.minutouno.com/politica/la-esposa-julio-vido-denuncio-malas-condiciones-detencion-del-exfuncionario-no-accede-su-medicacion-n6214236",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 14:20:00"
+          "titulo": "Lluvia de dólares: ocho empresas argentinas ya emitieron deuda por más de US$ 3.000 millones desde las elecciones",
+          "link": "https://www.clarin.com/economia/lluvia-dolares-empresas-argentinas-emitieron-deuda-us-3000-millones-elecciones_0_Fq4OtXAw7s.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 11:36:19"
         },
         {
-          "titulo": "De Vido pasará el fin de semana preso en el penal federal de Ezeiza",
-          "link": "https://www.perfil.com/noticias/politica/de-vido-pasara-el-fin-de-semana-preso-en-el-penal-federal-de-ezeiza.phtml",
+          "titulo": "La city ya le pone fecha a la vuelta de la Argentina a los mercados de deuda: cuáles son los tres pasos previos",
+          "link": "https://www.ambito.com/economia/la-city-ya-le-pone-fecha-la-vuelta-la-argentina-los-mercados-deuda-cuales-son-los-tres-pasos-previos-n6213983",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 07:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "aumento_boleto_colectivo_20251115",
+      "tema": "Aumento Boleto Colectivo AMBA",
+      "tema_normalizado": "aumento boleto colectivo amba",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El boleto de colectivo en el Área Metropolitana de Buenos Aires (AMBA) aumentará casi un 10% a partir de esta semana.\n*   Esta medida elevará el boleto mínimo de $451,01 a $495 para los viajes más cortos.\n*   La decisión será oficializada mediante su publicación en el Boletín Oficial, aplicándose a las líneas que cruzan la Avenida General Paz o el Riachuelo.\n\n🔍 **Datos clave:**\n*   **Aumento:** 9,7% (casi 10%).\n*   **Nuevo boleto mínimo (0 a 3 km):** $495 (antes $451,01 con SUBE registrada).\n*   **Nuevas tarifas por sección (aproximadas):**\n    *   3 a 6 km: $551 (antes $502,43).\n    *   6 a 12 km: $594 (antes $541,13).\n    *   12 a 27 km: $636 (antes $579,87).\n    *   Más de 27 km: $678 (antes $618,35).\n*   **Vigencia:** A partir de la publicación en el Boletín Oficial, esta misma semana.\n*   **Costo sin subsidio (según AAETA):** Alcanzó los $1713 por viaje en el AMBA.\n\n⚡ **Desarrollo:**\n*   El Gobierno resolvió este incremento con el objetivo de continuar reduciendo el monto de los subsidios al transporte.\n*   Esta decisión forma parte de la política oficial para achicar el gasto público y que los precios reflejen de forma más integral los costos de los servicios.\n*   El Ministerio de Economía, con Luis Caputo a cargo, venía analizando esta suba desde las últimas elecciones.\n*   Históricamente, los colectivos del AMBA eran regulados por el Gobierno Nacional, dada su composición por tres jurisdicciones (Nación, CABA y Provincia de Buenos Aires).\n*   Desde 2024, el actual gobierno transfirió parte de esas responsabilidades tarifarias al jefe de Gobierno porteño, Jorge Macri, y al gobernador bonaerense, Axel Kicillof.\n*   Esta transferencia aplica a las líneas que operan únicamente dentro de sus territorios y no cruzan los límites de la Ciudad de Buenos Aires.\n*   Macri y Kicillof desacoplaron sus tarifas y aplican aumentos mensuales (inflación minorista más dos puntos porcentuales) a sus líneas internas.\n*   Para las líneas del AMBA (que cruzan jurisdicciones), el último aumento se había aplicado a mediados de julio de 2023, antes del proceso electoral, sumándose a otras subas previas en mayo y junio.\n\n💡 **¿Por qué importa?**\n*   Afecta directamente el bolsillo de millones de pasajeros que utilizan el transporte público de colectivos diariamente en el Área Metropolitana de Buenos Aires.\n*   Es una medida clave en la estrategia del Gobierno para reducir el gasto público y la dependencia de los subsidios, buscando que las tarifas se acerquen a los costos operativos reales.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Desde este lunes aumenta casi 10% el boleto de colectivo en el AMBA",
+          "link": "https://www.infobae.com/economia/2025/11/15/desde-este-lunes-aumenta-casi-10-el-boleto-de-colectivo-en-el-amba/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-15 17:10:54"
+        },
+        {
+          "titulo": "El boleto de colectivos aumenta 10% en el AMBA esta semana",
+          "link": "https://www.clarin.com/economia/boleto-colectivos-aumenta-10-amba-semana_0_v1CYGX3wkp.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 14:04:27"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "negociaciones_politicas_senado_20251115",
+      "tema": "Negociaciones Políticas Senado",
+      "tema_normalizado": "negociaciones politicas senado",
+      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich (futura senadora y jefa de bloque de La Libertad Avanza) y Victoria Villarruel (Vicepresidenta y Presidenta del Senado) se reunieron recientemente.\n• El encuentro buscó negociar la agenda legislativa y la colaboración institucional ante la nueva configuración de la Cámara alta.\n• Bullrich pretende asegurar un \"espacio preferencial\" para las iniciativas del gobierno de Javier Milei.\n\n🔍 **Datos clave:**\n• **Actores principales:** Victoria Villarruel (Vicepresidenta, Presidenta del Senado) y Patricia Bullrich (Ministra de Seguridad, futura Senadora por la CABA y Jefa del bloque LLA).\n• **Crecimiento de LLA:** El bloque de La Libertad Avanza pasará de 7 a 20 senadores.\n• **Fecha de juramento:** Los nuevos senadores asumirán sus bancas el 28 de noviembre a las 11 horas.\n• **Consensos previos de Villarruel:** Logró acuerdos con 39 senadores para votar autoridades y aprobar la Ley Bases.\n\n⚡ **Desarrollo:**\n• La reunión, que se realizó sin foto conjunta, buscó establecer una \"tregua\" entre la Casa Rosada y el Senado. Esto es crucial para ordenar el debate legislativo.\n• Patricia Bullrich le solicitó a Villarruel no \"obstaculizar\" las iniciativas del Poder Ejecutivo. Expresó la necesidad de que la agenda del oficialismo tenga prioridad.\n• Victoria Villarruel respondió que su rol institucional no le permite obstaculizar nada. Aclaró que no tiene potestades para evitar sesiones ni indicar a los senadores cómo actuar, ya que el cuerpo es \"soberano\".\n• La Vicepresidenta resaltó su habilidad para lograr consensos, como el acuerdo con 39 senadores. Esto le permitió un funcionamiento ordenado y la aprobación de leyes clave.\n• Bullrich enfatizó que su tarea como jefa de bloque será construir una mayoría sólida y ordenada. Diferenció esto de la función de la Presidenta del Senado, que es garantizar el orden parlamentario.\n• Villarruel aseguró que mantendrá una política de \"puertas abiertas\" para todos los bloques. Su objetivo es que todos los senadores, elegidos por el pueblo, puedan trabajar cómodamente.\n\n💡 **¿Por qué importa?**\n• Estas negociaciones son fundamentales para la gobernabilidad y el avance de la agenda legislativa del gobierno de Javier Milei en su segundo tramo.\n• Definen el equilibrio de poder y la dinámica de trabajo entre la Vicepresidenta y el bloque oficialista, impactando directamente en la capacidad de aprobar reformas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Sin foto, Villarruel y Bullrich comenzaron a negociar la convivencia dentro del Senado",
+          "link": "https://www.perfil.com/noticias/politica/sin-foto-villarruel-y-bullrich-comenzaron-a-negociar-la-convivencia-dentro-del-senado.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-15 03:27:14"
+          "fecha": "2025-11-15 01:02:52"
+        },
+        {
+          "titulo": "El \"espacio preferencial\" que Patricia Bullrich le reclamó a Victoria Villarruel",
+          "link": "https://www.minutouno.com/politica/el-espacio-preferencial-que-patricia-bullrich-le-reclamo-victoria-villarruel-n6214110",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 19:46:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-15",
       "fuentes": [
         "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_argentina:_cambios_20251115",
-      "tema": "Política Argentina: Cambios Gabinete Scioli",
-      "tema_normalizado": "politica argentina: cambios gabinete scioli",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino está redefiniendo el rol de Daniel Scioli y sus áreas de gestión dentro del gabinete.\n• La Secretaría de Turismo, Ambiente y Deporte, que estaba bajo su control, será dividida y redistribuida entre otros funcionarios.\n• Estos cambios se dan en un contexto de reacomodamiento y pujas de poder internas en la administración libertaria.\n\n🔍 **Datos clave:**\n• **Daniel Scioli:** Ex-secretario de Turismo, Ambiente y Deporte. Continuará gestionando Turismo y Ambiente bajo Jefatura de Gabinete.\n• **Manuel Adorni:** Nuevo Jefe de Gabinete. Asume la órbita de Turismo y Ambiente, con Scioli en su equipo.\n• **Diego Santilli:** Ministro del Interior. Recupera la gestión de Deportes y busca revertir el traspaso de Renaper y Migraciones.\n• **Decreto 793/2025:** Publicado esta semana, trasladó el Registro Nacional de las Personas (Renaper) y la Dirección Nacional de Migraciones al Ministerio de Seguridad.\n\n⚡ **Desarrollo:**\n• La Secretaría de Turismo, Ambiente y Deporte de Scioli será \"desguazada\": Turismo y Ambiente pasarán a la órbita de Jefatura de Gabinete, bajo la supervisión de Manuel Adorni.\n• La Secretaría de Deportes volverá al Ministerio del Interior, fortaleciendo el control de Diego Santilli sobre áreas clave.\n• El traspaso del Renaper y Migraciones al Ministerio de Seguridad, inicialmente decidido, es disputado; el Ministerio del Interior espera que estos organismos regresen a su cartera.\n• Patricia Bullrich, Ministra de Seguridad, había reconocido que el traspaso de Renaper fue un \"error\", lo que alimenta la expectativa de un nuevo decreto que revierta la medida.\n• Santilli, además de estos reacomodos, está en plena ronda de negociaciones con gobernadores para el debate del Presupuesto 2026, buscando sumar voluntades.\n• Scioli, pese a la división de su secretaría original, seguirá en funciones oficiales, aunque su misión específica más allá de Turismo y Ambiente no ha sido detallada completamente.\n\n💡 **¿Por qué importa?**\n• Estos movimientos reorganizan áreas estratégicas del Gobierno y reflejan una redistribución de poder entre figuras clave del gabinete.\n• La redefinición de roles y competencias busca consolidar la \"segunda etapa\" de la gestión, pero también muestra las internas y tensiones existentes por el control de áreas importantes.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Scioli, en riesgo: perdería sus áreas de gestión, que pasarían a manos de Adorni y Santilli",
-          "link": "https://www.perfil.com/noticias/politica/le-sacan-la-secretaria-a-daniel-scioli-en-medio-de-las-internas-y-el-reacomodamiento-del-gabinete.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-14 22:36:18"
-        },
-        {
-          "titulo": "Cambios en el Gobierno: Scioli se queda pero le dividen la Secretaría y Santilli recupera poder",
-          "link": "https://www.clarin.com/politica/cambios-gobierno-scioli-queda-dividen-secretaria-santilli-gana-poder_0_OHIE7pmsN4.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-14 20:05:20"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-15",
-      "fuentes": [
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_argentina:_macri_20251115",
-      "tema": "Política Argentina: Macri Figura",
-      "tema_normalizado": "politica argentina: macri figura",
-      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente Mauricio Macri ha estado en el centro de la atención política por dos motivos principales.\n• Anunció la publicación de un nuevo libro y, simultáneamente, su partido PRO busca reafirmar su identidad y autonomía frente al gobierno de La Libertad Avanza (LLA).\n\n🔍 **Datos clave:**\n• **Libro:** \"Franco\", dedicado a la vida de su padre.\n• **Lanzamiento:** Próximo 26 de noviembre.\n• **Relación padre:** Descrita por Macri como \"me amaba pero a la vez me quería destruir\".\n• **Reunión PRO:** Celebrada en la sede partidaria de Balcarce 412, San Telmo.\n• **Decepciones:** Macri expresó una \"gran decepción\" tras una reciente cena con el presidente Javier Milei.\n• **Legisladores:** Siete diputados nacionales, una senadora y una diputada de Córdoba se pasaron a LLA, provenientes del PRO.\n• **Secuestro:** Ocurrió en 1991 y duró 12 días.\n\n⚡ **Desarrollo:**\n• El libro \"Franco\" explora la compleja relación de Macri con su padre, Franco Macri, a quien describe como su \"maestro más influyente\" y \"mayor antagonista\". El texto aborda cómo su secuestro en 1991 marcó un antes y un después en su vida y su vínculo familiar, impulsándolo a buscar un camino propio, como la presidencia de Boca.\n• En el ámbito político, el PRO, bajo el liderazgo de Macri, busca distanciarse de La Libertad Avanza (LLA) y consolidar su identidad partidaria, afirmando que \"ya no podemos ser satélite\" del oficialismo. El partido aspira a presentar un candidato propio a la presidencia en 2027.\n• La estrategia del PRO incluye mantener sus bloques parlamentarios independientes en el Senado, Diputados y legislaturas provinciales, descartando cualquier integración interparlamentaria con LLA para evitar más fugas de dirigentes.\n• Macri ha expresado diferencias con los libertarios, enfatizando la importancia de una \"visión liberal completa\" que fortalezca las instituciones y no se base en \"personalismos\". También recordó que el PRO es un \"partido de gestión\".\n• En materia legislativa, el PRO acompañará reformas propuestas por el Gobierno, como la laboral y tributaria, pero analizará la \"letra chica\" y propondrá modificaciones. También exigirá fondos de coparticipación para la Ciudad de Buenos Aires en el Presupuesto 2026.\n\n💡 **¿Por qué importa?**\n• La figura de Mauricio Macri sigue siendo central en la política argentina, tanto por su relato personal sobre el poder y la familia como por su rol en la reconfiguración del espacio político de centro-derecha.\n• Su estrategia de distanciamiento de LLA y la reafirmación del PRO buscan posicionar al partido como una fuerza autónoma y potencial alternativa de gobierno, con miras a las elecciones de 2027, impactando el equilibrio de poder actual.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Macri y su nuevo libro Franco, sobre la vida de su padre: “Me amaba pero me quería destruir”",
-          "link": "https://www.lanacion.com.ar/politica/macri-y-su-nuevo-libro-franco-sobre-la-vida-de-su-padre-me-amaba-pero-a-la-vez-me-queria-destruir-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 13:18:38"
-        },
-        {
-          "titulo": "Mauricio Macri se distancia de LLA y se aferra a cinco conclusiones",
-          "link": "https://www.perfil.com/noticias/politica/macri-se-distancia-de-lla-y-se-aferra-a-cinco-conclusiones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 03:28:22"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-15",
-      "fuentes": [
-        "La Nación",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "economia_argentina:_salarios/jubilaciones_20251115",
-      "tema": "Economía Argentina: Salarios/Jubilaciones",
-      "tema_normalizado": "economia argentina: salarios/jubilaciones",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino ha confirmado los montos que se pagarán en el próximo mes de diciembre para jubilaciones, pensiones y diversas prestaciones sociales, incluyendo un bono adicional.\n• También se han actualizado las escalas salariales para el personal de casas particulares, incluyendo niñeras y cuidadores de adultos, que regirán para diciembre de 2025.\n• Estos ajustes buscan adecuar los ingresos de millones de beneficiarios y trabajadores en un contexto económico desafiante.\n\n🔍 **Datos clave:**\n• **Bono jubilatorio:** $70.000 para jubilados y pensionados con el haber mínimo en diciembre, oficializado por el Decreto 771/2025.\n• **Jubilación mínima total (diciembre):** $584.616,93 (incluye haber básico, bono y medio aguinaldo).\n• **Jubilación máxima total (diciembre):** $3.462.884,75 (incluye haber básico y medio aguinaldo).\n• **AUH total (diciembre):** $122.444 por cada menor de 18 años, con un pago directo de $97.955,20.\n• **Salario mensual niñeras/cuidadores (diciembre 2025 con retiro):** $427.821,61.\n• **Salario por hora niñeras/cuidadores (diciembre 2025 con retiro):** $3.383,54.\n\n⚡ **Desarrollo:**\n• ANSES detalló los pagos de diciembre, aplicando un aumento del 3% a los haberes jubilatorios, elevando la jubilación mínima a $343.077,95.\n• Además del aumento, se suma un bono extraordinario de $70.000 y el medio aguinaldo, resultando en un ingreso total de $584.616,93 para jubilados y pensionados mínimos.\n• Las Pensiones No Contributivas (PNC) y la Pensión Universal para el Adulto Mayor (PUAM) también recibirán incrementos, bonos y aguinaldo, con un total de $584.616,93 para PNC Madres de siete hijos.\n• La Asignación Universal por Hijo (AUH) registra un aumento del 2,3%, llegando a $122.444, aunque se retiene el 20% ($24.488,80) para cobro anual tras presentar la Libreta AUH.\n• La Unión Personal Auxiliar de Casas Particulares (Upacp) difundió los valores de referencia para el personal doméstico, incluyendo niñeras y cuidadores, para diciembre de 2025.\n• Estos salarios base se aplican a diferentes modalidades (por hora o mensuales, con o sin retiro) y los empleadores deben abonar adicionalmente conceptos como antigüedad, aportes jubilatorios y obra social.\n• Se detallan las distintas categorías del personal doméstico, como supervisores o personal para tareas generales, con sus respectivos salarios actualizados para diciembre de 2025.\n\n💡 **¿Por qué importa?**\n• Estos ajustes en jubilaciones, pensiones y salarios impactan directamente el poder adquisitivo de millones de argentinos, siendo cruciales para la planificación económica familiar.\n• La combinación de aumentos y bonos busca mitigar el efecto de la inflación en los sectores más vulnerables, mientras que las actualizaciones salariales marcan la referencia para el empleo formal.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "ANSES: los montos confirmados de diciembre para las jubilaciones y las prestaciones sociales",
-          "link": "https://www.minutouno.com/economia/anses-los-montos-confirmados-diciembre-las-jubilaciones-y-las-prestaciones-sociales-n6214019",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 08:55:00"
-        },
-        {
-          "titulo": "Cuánto cobran las niñeras y cuidadores de adultos en diciembre 2025",
-          "link": "https://www.iprofesional.com/impuestos/441487-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-diciembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-15 07:58:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-15",
-      "fuentes": [
-        "iProfesional",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
