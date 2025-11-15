@@ -1,6 +1,594 @@
 {
-  "fecha": "2025-11-14",
-  "fecha_generacion": "2025-11-15T00:53:09.110442",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-15",
+  "fecha_generacion": "2025-11-15T03:44:48.073449",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "acuerdo_comercial_argentina-eeuu_20251115",
+      "tema": "Acuerdo Comercial Argentina-EEUU",
+      "tema_normalizado": "acuerdo comercial argentina-eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos anunciaron recientemente un \"acuerdo marco\" de cooperación comercial y de inversiones tras meses de negociaciones.\n• Este pacto busca eliminar aranceles y barreras no arancelarias para impulsar el comercio bilateral y las inversiones entre ambos países.\n• El anuncio se da en un contexto de buena sintonía entre los presidentes Javier Milei y Donald Trump.\n\n🔍 **Datos clave:**\n• **Inicio de negociaciones:** Comenzaron en enero de este año, pero tomaron fuerza tras la implementación de aranceles recíprocos por Trump el 2 de abril.\n• **Compromisos argentinos:** Acceso preferencial para productos de EE.UU. (medicamentos, maquinaria, tecnología, vehículos, agro), alineamiento con estándares regulatorios estadounidenses (ej. FDA) y compromisos sobre propiedad intelectual y datos digitales.\n• **Concesiones de EE.UU.:** Eliminará aranceles sobre ciertos recursos naturales argentinos e insumos farmacéuticos no patentados, y mejorará el acceso para la carne vacuna argentina. Un decreto presidencial ya eximió de aranceles a productos como la carne vacuna y el café.\n• **Reacción del mercado:** Las acciones en la bolsa porteña subieron hasta 27,2% y el S&P Merval superó los 2.000 puntos en dólares, mientras que los bonos también mostraron alzas.\n• **Impacto regional:** Brasil fue tomado por sorpresa, ya que Argentina no informó al Mercosur previamente, y el acuerdo complica sus propias negociaciones comerciales con EE.UU.\n\n⚡ **Desarrollo:**\n• El acuerdo implica que Argentina abrirá su mercado y aceptará los estándares y certificaciones de EE.UU. en varios sectores, renunciando a exigir evaluaciones técnicas propias.\n• El representante de Comercio de EE.UU., Jamieson Greer, defendió el pacto como parte de una estrategia para abrir mercados y reducir déficits comerciales.\n• La Unión Industrial Argentina (UIA) y la Cámara de Comercio de EE.UU. en Argentina (AmCham) celebraron el entendimiento, destacando que fomenta la integración argentina a las economías occidentales y el empleo.\n• Sin embargo, la provincia de Buenos Aires y algunos analistas críticos advierten sobre un posible \"desequilibrio\" en los beneficios y el riesgo para la industria local por la apertura masiva de mercado.\n• El pacto incluye cláusulas sobre la prohibición de importaciones producidas con \"trabajo forzoso\", lo que podría generar tensiones con socios como China.\n• Varios de los compromisos asumidos por Argentina, como los tratados internacionales para adoptar estándares globales de propiedad intelectual, requerirán aprobación del Congreso argentino.\n\n💡 **¿Por qué importa?**\n• El acuerdo marca una reorientación estratégica de Argentina hacia los países occidentales, con potenciales efectos profundos en la economía, la producción industrial y los costos para el consumidor.\n• Su implementación total depende de la \"letra chica\" y de los procesos legislativos internos, tanto en Argentina como en EE.UU., y genera debate sobre sus beneficios y riesgos reales.",
+      "cantidad_noticias": 13,
+      "noticias": [
+        {
+          "titulo": "El acuerdo con EE.UU. toma por sorpresa a Brasil y complica al Mercosur",
+          "link": "https://www.lanacion.com.ar/politica/el-acuerdo-con-eeuu-toma-por-sorpresa-a-brasil-y-complica-al-mercosur-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-15 01:00:00"
+        },
+        {
+          "titulo": "Acuerdo comercial entre EE.UU. y Argentina: repercusiones del anuncio y las próximas etapas, este viernes 14",
+          "link": "https://www.lanacion.com.ar/politica/acuerdo-comercial-entre-eeuu-y-argentina-en-vivo-repercusiones-del-anuncio-y-las-proximas-etapas-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 21:38:00"
+        },
+        {
+          "titulo": "La UIA celebró el acuerdo comercial con EEUU: \"Promoverá el desarrollo industrial integrándose a los países occidentales\"",
+          "link": "https://www.ambito.com/economia/la-uia-celebro-el-acuerdo-comercial-eeuu-promovera-el-desarrollo-industrial-integrandose-los-paises-occidentales-n6214132",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 21:04:00"
+        },
+        {
+          "titulo": "Nuevo gesto de Estados Unidos: Trump dio marcha atrás con aranceles que le había puesto a la carne vacuna",
+          "link": "https://www.lanacion.com.ar/economia/campo/nuevo-gesto-de-estados-unidos-trump-dio-marcha-atras-con-aranceles-que-le-habia-puesto-a-la-carne-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 20:26:38"
+        },
+        {
+          "titulo": "El acuerdo comercial con Estados Unidos: secretos de una negociación que llevó meses e involucró a decenas de actores",
+          "link": "https://www.lanacion.com.ar/politica/el-acuerdo-comercial-con-estados-unidos-secretos-de-una-negociacion-que-llevo-meses-e-involucro-a-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 20:10:27"
+        },
+        {
+          "titulo": "AmCham celebró el pacto comercial de Milei con Estados Unidos",
+          "link": "https://www.perfil.com/noticias/politica/amcham-celebro-el-pacto-comercial-de-milei-con-estados-unidos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 19:24:00"
+        },
+        {
+          "titulo": "El mercado celebró el acuerdo con EEUU: las acciones saltaron hasta 27,2% y el S&P Merval cruzó los 2.000 puntos",
+          "link": "https://www.ambito.com/finanzas/los-activos-argentinos-se-miden-la-ultima-rueda-la-semana-el-anuncio-del-acuerdo-eeuu-n6213819",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 18:45:00"
+        },
+        {
+          "titulo": "Un importante funcionario de Trump defendió el acuerdo con Argentina: \"Estamos abriendo nuevos mercados\"",
+          "link": "https://www.clarin.com/economia/importante-funcionario-trump-defendio-acuerdo-argentina-abriendo-nuevos-mercados_0_QJU6d7t9uf.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 18:39:56"
+        },
+        {
+          "titulo": "Bonos en dólares y los ADRs suben tras el anuncio del acuerdo comercia entre Argentina y EEUU",
+          "link": "https://www.iprofesional.com/finanzas/441935-como-cotizan-hoy-14-de-noviembre-merval-adrs-bonos-y-riesgo-pais",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 17:35:00"
+        },
+        {
+          "titulo": "Acuerdo con EEUU: ¿cuáles son los puntos que deberán pasar por el Congreso?",
+          "link": "https://www.ambito.com/politica/acuerdo-eeuu-cuales-son-los-puntos-que-deberan-pasar-el-congreso-n6214041",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 17:06:00"
+        },
+        {
+          "titulo": "Uno por uno, cuáles son los puntos polémicos del acuerdo comercial con Estados Unidos",
+          "link": "https://www.iprofesional.com/economia/441950-cuales-son-puntos-polemicos-acuerdo-comercial-con-estados-unidos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 16:51:00"
+        },
+        {
+          "titulo": "Acuerdo comercial: a la espera de la letra chica, cuáles son los beneficios y riesgos para la Argentina",
+          "link": "https://www.ambito.com/economia/acuerdo-comercial-la-espera-la-letra-chica-cuales-son-los-beneficios-y-riesgos-la-argentina-n6213925",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:23:00"
+        },
+        {
+          "titulo": "\"Esto golpea de lleno a la industria\": la fuerte advertencia de Provincia por el pacto de Javier Milei con Estados Unidos",
+          "link": "https://www.perfil.com/noticias/politica/esto-golpea-de-lleno-a-la-industria-la-fuerte-advertencia-de-provincia-por-el-pacto-de-milei-con-eeuu.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 15:51:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_y_proyecciones_20251115",
+      "tema": "Cotización y Proyecciones Dólar Argentina",
+      "tema_normalizado": "cotizacion y proyecciones dolar argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino experimentó un período de relativa calma a mediados de noviembre, con el dólar blue cerrando a la baja el viernes 14.\n• El dólar oficial también mostró estabilidad, con una significativa caída de casi $50 en su cotización mayorista durante la semana.\n• A pesar de esta \"pax cambiaria\", el economista Carlos Melconian proyectó que el dólar podría alcanzar los $2.000 sin generar una tragedia.\n\n🔍 **Datos clave:**\n• **Dólar Blue (14/15 Nov):** Compra $1.410 / Venta $1.430. Cedió $5 el viernes.\n• **Dólar Oficial (14 Nov):** Compra BNA $1.375 / Venta BNA $1.425. Mayorista: $1.403.\n• **Caída Semanal Dólar Oficial:** Casi $50.\n• **Dólar MEP (14 Nov):** $1.452,64 (Brecha 3,5% con oficial).\n• **Dólar CCL (14 Nov):** $1.485,38 (Brecha 5,9% con oficial).\n• **Proyección Melconian:** Dólar fuera de banda, posible rango sostenible entre $1.500 y $2.000.\n• **Reservas Brutas Internacionales (BCRA):** u$s40.636 millones (Subieron u$s376M semanalmente, a pesar de una caída puntual de u$s44M).\n• **Reservas Netas (estimado):** u$s1.428 millones.\n\n⚡ **Desarrollo:**\n• El \"dólar blue\" es la cotización del mercado informal, donde los precios se acuerdan sin límites oficiales, y su nombre remite a operaciones \"oscuras\" o a bonos \"blue chips\".\n• Históricamente, el dólar blue ha mostrado grandes variaciones, con un salto del 111% en 2020 y un aumento del 16,7% en 2024, cerrando ese año en $1.230.\n• La tranquilidad actual en el mercado se vio favorecida por un acuerdo comercial con Estados Unidos, impulsando al alza las acciones y reduciendo el riesgo país.\n• Carlos Melconian advirtió sobre la \"mala praxis\" de la apertura del cepo para personas y la necesidad de resolver cuatro puntos decisivos del plan económico.\n• Según Melconian, la asistencia financiera del Tesoro de EE.UU. fue clave para evitar un \"infarto cambiario\", y enfatizó que noviembre y diciembre suelen ser meses de alta dolarización.\n• Además del blue y el oficial, existen otras cotizaciones como el dólar tarjeta ($1.852), el dólar cripto ($1.482,48), y los valores paralelos del Real Blue ($272,75 venta) y Euro Blue ($1.730,75 venta).\n\n💡 **¿Por qué importa?**\n• La evolución de las distintas cotizaciones del dólar es un termómetro clave de la economía argentina, afectando los costos, la inflación y el poder adquisitivo de los ciudadanos.\n• Las proyecciones y el comportamiento del mercado son fundamentales para la toma de decisiones económicas tanto a nivel individual como empresarial, influyendo en la confianza y la inversión.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este sábado 15 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-sabado-15-noviembre-n6214058",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-viernes-14-noviembre-n6213811",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 21:03:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-14-noviembre-n6213692",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 20:57:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-14-noviembre-n6213774",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 17:58:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cerró este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-14-noviembre-n6214061",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 17:27:00"
+        },
+        {
+          "titulo": "A contramano del dólar oficial, el blue cerró la semana al alza",
+          "link": "https://www.ambito.com/finanzas/a-contramano-del-dolar-oficial-el-blue-cerro-la-semana-al-alza-n6214040",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:47:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-14-noviembre-n6213689",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:33:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este viernes 14 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-14-noviembre-n6213690",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:14:00"
+        },
+        {
+          "titulo": "El pronóstico de Carlos Melconian: \"Veo al dólar afuera de la banda y puede ir hasta los $2.000\"",
+          "link": "https://www.ambito.com/economia/el-pronostico-carlos-melconian-veo-al-dolar-afuera-la-banda-y-puede-ir-los-2000-n6213987",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:04:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 14 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-14-noviembre-n6213630",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 15:40:00"
+        },
+        {
+          "titulo": "El dólar oficial cayó casi $50 en la semana, pero cerró por encima de los $1.400",
+          "link": "https://www.ambito.com/finanzas/el-dolar-extiende-la-calma-mientras-el-gobierno-insiste-la-defensa-las-bandas-n6213792",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 15:22:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "rumores_y_desmentidas_20251115",
+      "tema": "Rumores y Desmentidas Fin Monotributo",
+      "tema_normalizado": "rumores y desmentidas fin monotributo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Han circulado intensos rumores sobre la posible eliminación del Monotributo como parte de una reforma tributaria integral. Estos trascendidos generaron gran incertidumbre entre los pequeños contribuyentes.\n• El presidente Javier Milei desmintió enfáticamente estas versiones. Las calificó de \"mentiras y operaciones de delincuentes que usan la patente de periodistas\".\n• Manuel Adorni, Jefe de Gabinete, también negó la eliminación, pidiendo a los medios solo difundir información proveniente de los canales oficiales del Gobierno.\n\n🔍 **Datos clave:**\n• **Javier Milei:** Presidente de Argentina, negó públicamente el fin del Monotributo en entrevistas.\n• **Manuel Adorni:** Jefe de Gabinete, pidió considerar falsa toda información no oficial sobre las reformas.\n• **4,7 millones:** Cantidad de personas en Argentina registradas como Monotributistas.\n• **FMI (Fondo Monetario Internacional):** Ha recomendado la revisión de este régimen desde 2018.\n• **Miércoles:** Día en que los proyectos de reforma se aunaron en la reunión de gabinete.\n• **Ministerio de Desregulación y Secretaría de Trabajo:** Áreas que trabajan en la modernización laboral y tributaria.\n\n⚡ **Desarrollo:**\n• Los rumores sugerían que la posible eliminación del Monotributo llevaría a sus contribuyentes al régimen general, implicando cambios en Ganancias e IVA. Se habló de un documento interno que circulaba bajo reserva.\n• Milei aseguró que los proyectos de reforma están en fase de \"confección final\" en la Secretaría de Legal y Técnica y se tratarán en sesiones extraordinarias. Calificó las noticias como \"inventadas por los medios para generar ruido\".\n• Adorni responsabilizó a \"ruidosos gremialistas\" por los trascendidos, destacando que la reforma laboral aún no presentada no modificará la Ley de Empleo Público.\n• Desde la perspectiva económica, se argumenta que el Monotributo distorsiona la capacidad contributiva, tiene un costo previsional subsidiado y promueve el \"enanismo fiscal\".\n• La eventual eliminación generó un fuerte rechazo de tributaristas, legisladores y organizaciones, preocupados por el impacto en 4,7 millones de personas. Muchos perderían su obra social.\n• Se especuló que la exigencia de eliminar el Monotributo podría ser una condición del FMI. Esto surgiría ante un posible \"waiver\" por parte del Gobierno por no cumplir metas de acumulación de reservas.\n• Como posibles alternativas, se mencionó el sistema español (RETA y TRADE), donde los autónomos cotizan por rango de ingresos. Este modelo busca sostenibilidad previsional y tributación general.\n\n💡 **¿Por qué importa?**\n• La posible modificación o eliminación del Monotributo afectaría directamente la situación fiscal, previsional y de salud de millones de trabajadores independientes.\n• La desmentida presidencial busca calmar la incertidumbre. Sin embargo, el debate subraya la necesidad de una reforma tributaria que considere la capacidad contributiva de los pequeños contribuyentes sin incrementar la presión fiscal.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Javier Milei desmintió el fin del monotributo: \"Son mentiras y operaciones de delincuentes\"",
+          "link": "https://www.ambito.com/economia/javier-milei-desmintio-el-fin-del-monotributo-son-mentiras-y-operaciones-delincuentes-n6214092",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 21:52:00"
+        },
+        {
+          "titulo": "Milei negó la eliminación del Monotributo y apuntó contra \"periodistas mentirosos\"",
+          "link": "https://www.iprofesional.com/impuestos/441966-milei-nego-eliminacion-monotributo-y-apunto-contra-periodistas-mentirosos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 19:37:00"
+        },
+        {
+          "titulo": "Javier Milei: \"La eliminación del Monotributo es una mentira inventada por los medios para generar ruido\"",
+          "link": "https://www.perfil.com/noticias/economia/javier-milei-argentina-ya-esta-en-condiciones-de-volver-al-mercado-de-capitales.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 19:19:00"
+        },
+        {
+          "titulo": "Por qué al Gobierno no le cierra el Monotributo y cuáles serían las consecuencias de su eliminación",
+          "link": "https://www.iprofesional.com/impuestos/441932-por-que-al-gobierno-no-le-cierra-monotributo-y-consecuencias-su-posible-fin",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 17:13:00"
+        },
+        {
+          "titulo": "Cómo funciona el sistema español para autónomos que reemplazaría al Monotributo",
+          "link": "https://www.iprofesional.com/impuestos/441930-como-funciona-sistema-espanol-para-autonomos-que-reemplazaria-al-monotributo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 17:10:00"
+        },
+        {
+          "titulo": "Monotributo: rechazo generalizado a su eventual eliminación y dudas sobre condiciones que fijaría el FMI",
+          "link": "https://www.ambito.com/economia/monotributo-rechazo-generalizado-su-eventual-eliminacion-y-dudas-condiciones-que-fijaria-el-fmi-n6214042",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:53:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "internas_y_cambios_20251115",
+      "tema": "Internas y Cambios Gabinete Milei",
+      "tema_normalizado": "internas y cambios gabinete milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno de Javier Milei está redefiniendo su estructura interna, con ajustes en ministerios y secretarías.\n*   Se observan disputas de poder y nuevas alianzas entre figuras clave de La Libertad Avanza (LLA) y otros espacios.\n*   Estos movimientos buscan consolidar el respaldo legislativo del oficialismo y proyectar el futuro político del presidente.\n\n🔍 **Datos clave:**\n*   **Daniel Scioli:** Su secretaría de Turismo, Ambiente y Deportes se divide. Deportes vuelve a Interior, Turismo y Ambiente pasan a Jefatura de Gabinete.\n*   **Diego Santilli:** Nuevo Ministro del Interior, gana poder al recuperar Renaper y Deportes; busca una secretaría para el Congreso.\n*   **Patricia Bullrich:** Asumirá como senadora y jefa del bloque de LLA (pasa de 7 a 20 bancas); exige prioridad para la agenda oficialista en el Senado.\n*   **Victoria Villarruel:** Vicepresidenta y Presidenta del Senado; busca un rol institucional colaborativo, aclaró no tener facultades para obstaculizar.\n*   **Karina Milei:** Secretaria General de la Presidencia; su influencia crece; inició gira y deslizó plan de reelección de Milei para 2027.\n*   **PRO:** Bullrich promueve fugas de legisladores hacia LLA, pese a la ratificación de Macri de no formar interbloque.\n*   **Legislatura Bonaerense:** Interna entre \"territoriales\" y \"tuiteros\" de LLA por la conducción de bloques.\n\n⚡ **Desarrollo:**\n*   **Reorganización del Gabinete:** El Ministerio de Turismo y Deportes se dividió. Scioli mantiene Turismo y Ambiente bajo Jefatura de Gabinete (Manuel Adorni). Deportes, Renaper y pasos fronterizos pasan a Interior (Diego Santilli).\n*   **Relación Bullrich-Villarruel:** Se reunieron para coordinar el Senado. Bullrich, como jefa de bloque de LLA, busca prioridad para la agenda oficial. Villarruel subraya su rol institucional y de colaboración.\n*   **Estrategia Legislativa LLA:** Bullrich busca construir mayorías en el Senado (20 senadores). Santilli intenta fragmentar el peronismo en Diputados para que el oficialismo logre la primera minoría.\n*   **Consolidación del \"Karinismo\":** La influencia de Karina Milei se extiende, afectando reordenamientos internos de LLA y gabinetes. Su \"Tour de la Gratitud\" se interpreta como el inicio de la campaña por la reelección de Javier Milei en 2027.\n*   **Fragmentación en el PRO:** Bullrich continúa impulsando el pase de legisladores del PRO a LLA. Esto genera tensión con Mauricio Macri y Cristian Ritondo, afectando la cohesión del bloque opositor.\n\n💡 **¿Por qué importa?**\n*   Estos cambios y tensiones son cruciales para la gobernabilidad de Milei, afectando la composición de su equipo y su capacidad de negociación legislativa.\n*   La consolidación de poder interno y la búsqueda de mayorías definirán la viabilidad de las reformas propuestas por el Gobierno.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Cambios en el Gobierno: Scioli se queda pero le dividen la Secretaría y Santilli recupera poder",
+          "link": "https://www.clarin.com/politica/cambios-gobierno-scioli-queda-dividen-secretaria-santilli-gana-poder_0_OHIE7pmsN4.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 20:05:20"
+        },
+        {
+          "titulo": "El \"espacio preferencial\" que Patricia Bullrich le reclamó a Victoria Villarruel",
+          "link": "https://www.minutouno.com/politica/el-espacio-preferencial-que-patricia-bullrich-le-reclamo-victoria-villarruel-n6214110",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 19:46:00"
+        },
+        {
+          "titulo": "Karina Milei comenzó su \"tour de gratitud\" en Corrientes y deslizó el plan de reelección para 2027",
+          "link": "https://www.minutouno.com/politica/karina-milei-comenzo-su-tour-gratitud-corrientes-y-deslizo-el-plan-reeleccion-2027-n6214082",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 18:23:00"
+        },
+        {
+          "titulo": "Bullrich y Villarruel se reunieron en busca de una \"tregua\" para ordenar el Senado y garantizar la agenda de Milei",
+          "link": "https://www.perfil.com/noticias/politica/bullrich-y-villarruel-se-reunieron-en-busca-de-una-tregua-para-ordenar-el-senado-y-garantizar-la-agenda-de-milei.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 17:56:00"
+        },
+        {
+          "titulo": "El Ministerio de Turismo y Deportes se divide: uno queda en manos de Manuel Adorni y el otro para Santilli",
+          "link": "https://www.minutouno.com/politica/el-ministerio-turismo-y-deportes-se-divide-uno-queda-manos-manuel-adorni-y-el-otro-santilli-n6214065",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 17:30:00"
+        },
+        {
+          "titulo": "Santilli intenta romper el bloque del peronismo, Bullrich promueve fugas en el PRO y cambia el diseño del gabinete",
+          "link": "https://www.clarin.com/politica/diego-santilli-intenta-romper-bloque-peronismo-patricia-bullrich-promueve-fugas-pro_0_nvCSCfRqZe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 17:24:22"
+        },
+        {
+          "titulo": "La interna libertaria también estalla en la Legislatura bonaerense: crecen las diferencias entre los tuiteros y los territoriales",
+          "link": "https://www.clarin.com/politica/interna-libertaria-estalla-legislatura-bonaerense-crecen-diferencias-tuiteros-territoriales_0_FeDflW6kOl.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 16:56:25"
+        },
+        {
+          "titulo": "Un encuentro clave en el Senado: Victoria Villarruel y Patricia Bullrich sellaron un acuerdo político",
+          "link": "https://www.minutouno.com/politica/un-encuentro-clave-el-senado-victoria-villarruel-y-patricia-bullrich-sellaron-un-acuerdo-politico-n6214024",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 16:10:00"
+        },
+        {
+          "titulo": "Victoria Villarruel, tras reunirse con Patricia Bullrich: \"Le aclaré que no tengo facultades para obstaculizar nada\"",
+          "link": "https://www.clarin.com/politica/victoria-villarruel-reunirse-patricia-bullrich-aclare-facultades-obstaculizar_0_J4d1WtHePY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 16:08:35"
+        },
+        {
+          "titulo": "Patricia Bullrich toma las riendas políticas del Senado y acota a Victoria Villarruel a lo institucional",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-toma-las-riendas-s-del-senado-y-acota-victoria-villarruel-lo-institucional-n6213993",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 15:38:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Minuto1",
+        "Perfil",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_andis_corrupcion_20251115",
+      "tema": "Causa ANDIS Corrupción y Spagnuolo",
+      "tema_normalizado": "causa andis corrupcion y spagnuolo",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La justicia investiga una grave causa de corrupción en la Agencia Nacional de Discapacidad (ANDIS) que involucra a su exdirector, Diego Spagnuolo, y a otras 14 personas.\n*   Se detectaron presuntas coimas, direccionamiento de contrataciones públicas y sobreprecios en la compra de medicamentos e insumos de alto costo.\n*   Estas maniobras habrían afectado al Programa Incluir Salud, perjudicando a personas con pensiones no contributivas y sin cobertura médica.\n\n🔍 **Datos clave:**\n*   **15 personas:** Total de implicados llamados a indagatoria, incluyendo a Diego Spagnuolo.\n*   **Fiscal Franco Picardi y Juez Sebastián Casanello:** Llevan adelante la investigación.\n*   **Droguería Suizo Argentina:** Mencionada en audios como posible beneficiaria de un esquema de retornos.\n*   **Sistema SIIPFIS:** Herramienta informática utilizada para el aparente direccionamiento de contrataciones.\n*   **19 de noviembre, 13 hs:** Fecha en que Diego Spagnuolo deberá presentarse a indagatoria.\n*   **15 de febrero de 2022:** Creación del grupo de WhatsApp \"Grupo Museo\", clave en la investigación inicial.\n\n⚡ **Desarrollo:**\n*   La causa se inició con la divulgación de audios atribuidos a Diego Spagnuolo, donde supuestamente describe maniobras de corrupción y retornos en la compra de medicamentos.\n*   El Fiscal Picardi sostiene que en ANDIS existió un \"esquema estructurado y sostenido de direccionamientos de contrataciones públicas\" y \"defraudación al erario nacional\".\n*   Se investiga un \"círculo íntimo\" o \"Grupo Museo\", conformado por Daniel María Garbellini (mano derecha de Spagnuolo), Pablo Atchabahian, Patricio Rama y Mariano Caballi, que buscaba una \"caja estatal\" en ANDIS.\n*   Pablo Atchabahian, sin cargo formal, habría dado órdenes a Garbellini, indicando a quiénes pagar, a quiénes incorporar al sistema SIIPFIS y qué personal despedir.\n*   Se sospecha que parte de los beneficios obtenidos fueron movilizados a terceras firmas no vinculadas directamente a las droguerías, como Baires Jets S.A. y Baires Fly S.A., para su blanqueo.\n*   En los audios, se mencionan posibles pagos de sobornos a funcionarios relevantes, como Karina Milei y Martín Menem, entre otros.\n*   La defensa de Spagnuolo, a cargo de Mauricio D’Alessandro, niega la autenticidad de los audios, alegando que son falsos, editados o realizados con inteligencia artificial, y pidió la nulidad de la causa.\n\n💡 **¿Por qué importa?**\n*   Este caso de corrupción afecta directamente fondos públicos destinados a un sector vulnerable de la población: personas con discapacidad y beneficiarios del Programa Incluir Salud.\n*   El escándalo ha llevado al despido de altos funcionarios de ANDIS y pone en cuestión la transparencia en la gestión de organismos estatales clave.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "ANDIS: El círculo íntimo del \"Grupo Museo\", la casa de Calvete y la búsqueda de una \"caja estatal\" para gestionar intereses particulares",
+          "link": "https://www.ambito.com/politica/andis-el-circulo-intimo-del-grupo-museo-la-casa-calvete-y-la-busqueda-una-caja-estatal-gestionar-intereses-particulares-n6214150",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 22:13:00"
+        },
+        {
+          "titulo": "Coimas en la ANDIS: llaman a indagatoria a Diego Spagnuolo",
+          "link": "https://www.minutouno.com/politica/coimas-la-andis-llaman-indagatoria-diego-spagnuolo-n6214094",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 18:56:00"
+        },
+        {
+          "titulo": "Causa coimas en ANDIS: pidieron la detención de Diego Spagnuolo",
+          "link": "https://www.ambito.com/politica/causa-coimas-andis-citan-indagatoria-diego-spagnuolo-n6214072",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 17:46:00"
+        },
+        {
+          "titulo": "Llamaron a indagatoria a Diego Spagnuolo por las presuntos direccionamientos de contratos en la agencia de discapacidad ANDIS",
+          "link": "https://www.clarin.com/politica/llamaron-indagatoria-diego-spagnuolo-presuntas-coimas-agencia-discapacidad-andis_0_fYJpzsEFdZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 17:16:13"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "pedido_prision_domiciliaria_20251115",
+      "tema": "Pedido Prisión Domiciliaria De Vido",
+      "tema_normalizado": "pedido prision domiciliaria de vido",
+      "resumen": "📌 **¿Qué está pasando?**\n• El ex ministro de Planificación Federal, Julio De Vido, solicitó cumplir su condena en prisión domiciliaria tras ser detenido por la Tragedia de Once.\n• Esta petición se basa en su avanzada edad (75 años) y múltiples problemas de salud, que requerirían atención médica constante.\n• La Justicia ya inició el trámite para evaluar su estado de salud y la idoneidad del domicilio propuesto en Zárate para la vigilancia electrónica.\n\n🔍 **Datos clave:**\n• **Edad:** 75 años (la ley permite la domiciliaria a partir de los 70).\n• **Condena:** 4 años de prisión efectiva por administración fraudulenta en el caso Once.\n• **Tragedia de Once:** 22 de febrero de 2012, con 52 víctimas fatales y más de 700 heridos.\n• **Ubicación propuesta:** Su chacra en la localidad bonaerense de Zárate.\n• **Problemas de salud declarados:** Hipertensión arterial, asma, insulino-dependencia e hipertrofia ventricular izquierda.\n\n⚡ **Desarrollo:**\n• La Corte Suprema de Justicia de la Nación dejó firme la condena contra De Vido, lo que provocó su inmediata detención y traslado a la cárcel federal de Ezeiza.\n• El Tribunal Oral Federal N° 4 (TOF N° 4), a cargo de la causa, ordenó al Cuerpo Médico Forense realizar un examen exhaustivo para determinar su estado de salud actual.\n• Asimismo, el tribunal solicitó a la Dirección del Programa de Asistencia de Personas Bajo Vigilancia Electrónica un informe socioambiental y técnico sobre la viabilidad de su chacra en Zárate.\n• La defensa argumenta que los problemas de salud y la edad de De Vido encuadran en los supuestos del artículo 10 del Código Penal y 32 de la ley 24.660 para otorgar la prisión domiciliaria.\n• De Vido fue encontrado responsable de administración fraudulenta por el mal manejo de fondos públicos asignados a la empresa Trenes de Buenos Aires (TBA), pero absuelto por el estrago culposo.\n• Esta no es la primera vez que De Vido es privado de su libertad; estuvo detenido previamente en 2017 por la causa Río Turbio y tiene otras condenas en primera instancia por corrupción.\n\n💡 **¿Por qué importa?**\n• La resolución de este pedido es clave porque establece la aplicación de beneficios penitenciarios en casos de alta visibilidad vinculados a corrupción y tragedias públicas.\n• Subraya la firmeza de la condena impuesta por la Corte Suprema, siendo un hito en la persecución de delitos de corrupción en la función pública.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Tragedia de Once: después de su primer día en la cárcel, la Justicia comenzó a tramitar el pedido de prisión domiciliaria de De Vido",
+          "link": "https://www.clarin.com/politica/tragedia-once-despues-primer-dia-carcel-justicia-comenzo-tramitar-pedido-prision-domiciliaria-vido_0_egwAzaoEPb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 18:25:28"
+        },
+        {
+          "titulo": "De Vido preso: los argumentos que presentó para tener domiciliaria",
+          "link": "https://noticias.perfil.com/noticias/politica/de-vido-preso-los-argumentos-que-presento-para-tener-domiciliaria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 17:47:37"
+        },
+        {
+          "titulo": "De Vido preso: la tapa de NOTICIAS que hablaba de su \"superbanda\"",
+          "link": "https://noticias.perfil.com/noticias/politica/de-vido-preso-la-tapa-de-noticias-que-hablaba-de-su-superbanda.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 16:57:01"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_fiscal_y_20251115",
+      "tema": "Política Fiscal y Recaudación Argentina",
+      "tema_normalizado": "politica fiscal y recaudacion argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Diversas jurisdicciones en Argentina están implementando o proponiendo cambios en su política fiscal y sistemas de recaudación.\n*   Estos ajustes varían desde el aumento de tasas municipales resistido por empresarios, hasta la modificación de impuestos provinciales como patentes e Ingresos Brutos.\n*   Las iniciativas buscan equilibrar la necesidad de financiamiento para obras y servicios con el fomento de la inversión y la dinamización de las economías locales.\n\n🔍 **Datos clave:**\n*   **Bahía Blanca:** Intendente Federico Susbielles propone un aumento del ABL del 90%, de la alícuota sobre facturación del 0.8% al 2.0%, y una nueva \"tasa solidaria\".\n*   **Provincia de Buenos Aires (ARBA):** Desde 2026, la patente automotor será de pago mensual y sus alícuotas se reducirán (mínima del 3.64% al 1%; máxima del 5% al 4.5%).\n*   **Córdoba:** El gobernador Martín Llaryora presenta un Programa de Reducción Impositiva de $900 mil millones dentro del Presupuesto 2026.\n*   **Córdoba (IIBB):** Se baja la alícuota del Impuesto a los Ingresos Brutos de 3.5% a 2.5% (-30%) para el 64% de los comerciantes.\n*   **CABA:** Para 2026, las patentes automotores mantendrán escalas progresivas con alícuotas del 1.6% al 3.5% para el 92% de los vehículos.\n*   **Córdoba (Inmobiliario Urbano):** Ningún contribuyente tendrá aumentos en términos reales; el 41% verá reducciones de hasta el 25% respecto a 2025.\n\n⚡ **Desarrollo:**\n*   En **Bahía Blanca**, la propuesta de nuevas tasas generó un fuerte rechazo de empresarios del Polo Petroquímico, quienes la califican de \"anti RIGI\" y evalúan acciones legales o dejar de facturar en la ciudad. Las tasas buscan financiar obras hidráulicas.\n*   La reforma de la **patente en Provincia de Buenos Aires**, que regirá desde 2026, busca facilitar el pago mensual y aliviar la carga fiscal para vehículos de menor valor, con reducciones de hasta el 60%.\n*   **CABA** también rediseña la patente para 2026, incorporando un monto fijo y una tasa sobre el excedente para autos de mayor valor, manteniendo un esquema progresivo.\n*   Tanto la Provincia de Buenos Aires como CABA mantienen incentivos fiscales para la **movilidad sustentable**, con exenciones para vehículos eléctricos e híbridos.\n*   El plan de **Córdoba** busca dinamizar la economía provincial a través de una significativa reducción de la presión tributaria, totalizando $900 mil millones que quedarán en manos de los contribuyentes.\n*   Este programa cordobés incluye una Ley de Promoción Industrial con Ingresos Brutos (IIBB) cero para quienes inviertan y facturen menos de $3.200 millones, y exenciones para inversiones en salud, educación y agricultura.\n*   Para el Impuesto Inmobiliario Urbano en Córdoba, se prevén reducciones para una parte de los contribuyentes y exenciones del 100% para 175 mil personas e instituciones.\n\n💡 **¿Por qué importa?**\n*   Estas políticas fiscales impactan directamente el poder adquisitivo de los ciudadanos y la rentabilidad de las empresas, afectando decisiones de consumo e inversión.\n*   Reflejan el constante desafío de los gobiernos de equilibrar la financiación de servicios públicos esenciales con la necesidad de crear un entorno favorable para el desarrollo económico.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Bahía Blanca: rechazo de empresarios a la creación de una \"tasa solidaria\" en el Polo Petroquímico",
+          "link": "https://www.ambito.com/politica/bahia-blanca-rechazo-empresarios-la-creacion-una-tasa-solidaria-el-polo-petroquimico-n6214087",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 20:35:00"
+        },
+        {
+          "titulo": "Nuevos valores de las patentes: cuánto habrá que pagar en 2026 con los cambios de ARBA",
+          "link": "https://www.iprofesional.com/impuestos/441964-nuevos-valores-patentes-autos-suv-cuanto-habra-que-pagar-2026-con-cambios-de-arba",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 19:15:00"
+        },
+        {
+          "titulo": "Martín Llaryora lanzó un histórico programa de reducción impositiva para dinamizar la economía cordobesa",
+          "link": "https://www.perfil.com/noticias/economia/martin-llaryora-lanzo-un-historico-programa-de-reduccion-impositiva-para-dinamizar-la-economia-cordobesa.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 15:40:18"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "salarios,_jubilaciones_y_20251115",
+      "tema": "Salarios, Jubilaciones y Costo de Vida",
+      "tema_normalizado": "salarios, jubilaciones y costo de vida",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Los salarios y las jubilaciones en Argentina están bajo presión debido a la alta inflación, afectando el poder adquisitivo de diversos sectores.\n*   Mientras docentes universitarios denuncian una pérdida salarial significativa, jubilados reciben bonos y el costo de vida, incluyendo la crianza, sigue en aumento.\n*   Algunos gremios, como el bancario, lograron actualizaciones salariales alineadas con la inflación, pero la situación es heterogénea.\n\n🔍 **Datos clave:**\n*   **Pérdida salarial docentes:** Casi 44% para docentes universitarios desde diciembre 2023.\n*   **Inflación acumulada (ADUNA):** 240,9% entre diciembre 2023 y octubre 2025.\n*   **Aumento salarial docentes:** 136,8% en el mismo período, otorgado por decreto.\n*   **Bono jubilados diciembre 2025:** $70.000 para quienes cobran la jubilación mínima, llevando el total a $410.826,90.\n*   **Costo de crianza (octubre 2025):** Entre $441.173 (recién nacido) y $557.173 (niño 6-12 años).\n*   **Salario inicial bancario (noviembre 2025):** Aproximadamente $3.707.189,47 con retroactivos y bono.\n*   **Créditos Banco Nación:** Tasa preferencial del 35% anual para MiPyMEs para pagar aguinaldos.\n\n⚡ **Desarrollo:**\n*   **Docentes universitarios:** Realizaron paros reclamando salarios y mayor presupuesto, ya que sus aumentos se han dado unilateralmente sin acuerdo paritario.\n*   El subsecretario de Políticas Universitarias, Alejandro Álvarez, confirmó la postura del Gobierno de incrementos salariales unilaterales y se propone la derogación de leyes que fijan mínimos para educación y ciencia en el Presupuesto 2026.\n*   **Jubilados:** ANSES abonará el aguinaldo antes del 18 de diciembre y un bono extraordinario de $70.000 para aquellos con haberes mínimos.\n*   **Costo de Vida:** La canasta de crianza del INDEC mostró un aumento del 2,8% en octubre, superando la inflación de ese mes (2,3%), reflejando el encarecimiento de bienes, servicios y el cuidado infantil.\n*   **Aguinaldos:** El Banco Nación lanzó una línea de créditos con tasas preferenciales para que MiPyMEs y grandes empresas puedan cumplir con el pago del Sueldo Anual Complementario (SAC) en diciembre.\n*   **Sector Bancario:** El gremio La Bancaria cerró un incremento salarial del 2,3% en noviembre, acumulando un 24,8% desde diciembre de 2024, asegurando un ingreso inicial elevado con retroactivos y bonos.\n\n💡 **¿Por qué importa?**\n*   La erosión del poder adquisitivo en sectores clave como la educación y las jubilaciones genera preocupación social y económica, impactando directamente en la calidad de vida de las familias.\n*   La dinámica de las negociaciones salariales y las políticas de compensación frente a la inflación son cruciales para mantener la estabilidad económica y social del país.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Docentes universitarios denuncian que sus salarios perdieron casi 44% desde la llegada de Javier Milei",
+          "link": "https://www.ambito.com/economia/docentes-universitarios-denuncian-que-sus-salarios-perdieron-casi-44-la-llegada-javier-milei-n6214045",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 18:33:00"
+        },
+        {
+          "titulo": "ANSES: quiénes recibirán el aguinaldo en diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-quienes-recibiran-el-aguinaldo-diciembre-2025-n6213529",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 18:02:00"
+        },
+        {
+          "titulo": "ANSES: las jubilaciones sufrirán cambio en sus haberes en diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-las-jubilaciones-sufriran-cambio-sus-haberes-diciembre-2025-n6213498",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-14 17:34:00"
+        },
+        {
+          "titulo": "La canasta de crianza subió por encima de la inflación en octubre: ¿cuánto se necesita para mantener un hijo?",
+          "link": "https://www.ambito.com/economia/la-canasta-crianza-subio-encima-la-inflacion-octubre-cuanto-se-necesita-mantener-un-hijo-n6214030",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 16:55:00"
+        },
+        {
+          "titulo": "El Banco Nación lanzó una línea de créditos especiales para el pago de aguinaldos",
+          "link": "https://www.clarin.com/economia/banco-nacion-lanzo-linea-creditos-especiales-pago-aguinaldos_0_SlYLkQthXN.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 16:07:48"
+        },
+        {
+          "titulo": "Bancarios cerraron aumento de sueldo y cobrarán casi $4 millones este mes",
+          "link": "https://www.iprofesional.com/economia/441947-aumento-sueldo-para-empleados-bancarios-cobraran-casi-4-millones-pesos-noviembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 15:32:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "iProfesional",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "inversiones_y_mercado_20251115",
+      "tema": "Inversiones y Mercado Financiero Argentina",
+      "tema_normalizado": "inversiones y mercado financiero argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Banco Central de Argentina (BCRA) informó que no sería necesario volver a activar el swap de monedas con Estados Unidos, señalando un nuevo equilibrio en el mercado cambiario.\n• El Riesgo País de Argentina mostró volatilidad durante la semana, cerrando en 612 puntos básicos el 14 de noviembre de 2025, tras haber alcanzado un mínimo.\n• El gobierno anunció la atracción de US$100.000 millones en inversiones para el país, vinculadas a proyectos de gran envergadura como el RIGI.\n• Los plazos fijos en pesos volvieron a ganar atractivo para los ahorristas locales, ofreciendo rendimientos superiores a la inflación y al dólar.\n\n🔍 **Datos clave:**\n• **Santiago Bausili:** Presidente del Banco Central de Argentina (BCRA).\n• **US$3.500 millones:** Cantidad de deuda que empresas locales lograron colocar en el exterior este mes.\n• **US$100.000 millones:** Inversiones anunciadas para Argentina por el canciller Pablo Quirno.\n• **612 puntos básicos:** Nivel de cierre del Riesgo País el 14 de noviembre de 2025.\n• **400-500 puntos básicos:** Umbral estimado de Riesgo País para que Argentina retorne al mercado internacional de deuda.\n• **US$26.000 millones:** Vencimientos de deuda que el Estado argentino debe afrontar en 2026.\n• **28% TNA:** Tasa Nominal Anual ofrecida por el plazo fijo digital en Banco Provincia para 30 días.\n• **$1.046.027:** Ganancia obtenida en 30 días al invertir $2 millones en un plazo fijo Banco Provincia.\n\n⚡ **Desarrollo:**\n• El BCRA tiene como meta \"comprar reservas\" y renegociará el acuerdo de acumulación de divisas con el FMI, priorizando la recuperación de la demanda de pesos.\n• La reciente baja del Riesgo País se atribuyó al optimismo por el interés del Gobierno en la recompra de deuda soberana y la expectativa de acumulación de reservas.\n• Los analistas del mercado enfatizan que la clave para sostener la mejora del Riesgo País reside en la consolidación de la estabilidad macroeconómica y los acuerdos legislativos.\n• El gobierno busca construir una \"autopista de seguridad jurídica y de estándares\" para que las empresas extranjeras, especialmente de EE.UU., se sientan cómodas invirtiendo.\n• Los plazos fijos se tornaron más atractivos debido a una inflación mensual estabilizada en torno al 2% y la depreciación del dólar del 3% durante noviembre.\n• Argentina enfrenta el desafío de gestionar vencimientos de deuda significativos en 2026, mientras mantiene reservas netas negativas de aproximadamente US$12.000 millones.\n\n💡 **¿Por qué importa?**\n• Estos acontecimientos son cruciales para la estabilidad económica argentina, mostrando esfuerzos por reducir la presión cambiaria y atraer inversiones extranjeras.\n• La evolución del Riesgo País y el acceso a financiamiento internacional son determinantes para la capacidad del país de afrontar sus obligaciones y fomentar el crecimiento.\n• Las políticas monetarias y las tasas de interés afectan directamente la capacidad de ahorro y las decisiones de inversión de los ciudadanos y empresas locales.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "El Banco Central cree que no será necesario volver a activar el swap con Estados Unidos",
+          "link": "https://www.lanacion.com.ar/economia/el-banco-central-cree-que-no-sera-necesario-volver-a-activar-el-swap-con-estados-unidos-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 21:59:41"
+        },
+        {
+          "titulo": "A cuánto cotizó el Riesgo País hoy, 14 de noviembre de 2025 a35",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotizo-el-riesgo-pais-hoy-14-de-noviembre-de-2025-a35.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-14 20:10:02"
+        },
+        {
+          "titulo": "Pablo Quirno afirmó que \"hay cien mil millones de dólares anunciados para invertir en Argentina\"",
+          "link": "https://www.clarin.com/economia/pablo-quirno-afirmo-cien-mil-millones-dolares-anunciados-invertir-argentina_0_3SdbFqFEZa.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-14 20:03:13"
+        },
+        {
+          "titulo": "Riesgo país: a qué nivel debería caer para que la Argentina retorne al mercado de deuda, según la city",
+          "link": "https://www.ambito.com/finanzas/riesgo-pais-que-nivel-deberia-caer-que-la-argentina-retorne-al-mercado-deuda-segun-la-city-n6213092",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-14 19:51:00"
+        },
+        {
+          "titulo": "Plazo fijo Banco Provincia con nueva tasa: cuánto ganás ahora si invertís $2 millones",
+          "link": "https://www.iprofesional.com/finanzas/441948-plazo-fijo-banco-provincia-con-nueva-tasa-cuanto-ganas-ahora-si-invertis-2-millones-pesos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-14 17:05:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "donald_trump_y_20251115",
+      "tema": "Donald Trump y Repercusiones Políticas",
+      "tema_normalizado": "donald trump y repercusiones politicas",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Donald Trump anunció que demandará a la BBC por hasta 5.000 millones de dólares, acusándola de difamación por la edición manipulada de un discurso previo al asalto al Capitolio de 2021.\n*   En paralelo, Trump criticó fuertemente al gobierno de Colombia, así como a México y Venezuela, por su manejo del narcotráfico, asegurando que \"tenemos un problema\" en la región.\n*   Además, ordenó una investigación federal sobre los supuestos vínculos de personalidades, incluyendo al expresidente Bill Clinton, con la red del delincuente sexual Jeffrey Epstein.\n\n🔍 **Datos clave:**\n*   **Demanda:** Trump exige entre 1.000 y 5.000 millones de dólares a la BBC.\n*   **BBC:** La cadena británica ofreció disculpas por generar una impresión engañosa del discurso del 6 de enero de 2021, llevando a renuncias internas. Su presidente, Samir Shah, envió una carta personal de disculpa.\n*   **Colombia:** El presidente Gustavo Petro ha rechazado el uso de violencia contra campesinos en la lucha antidrogas.\n*   **Epstein:** Magnate y delincuente sexual convicto, falleció por suicidio en 2019. El Departamento de Justicia ya publicó 50.000 páginas de documentos relacionados.\n*   **Investigación:** Dirigida por la procuradora general Pam Bondi junto al FBI y el Departamento de Justicia, incluye a Bill Clinton, Larry Summers, Reid Hoffman y J.P. Morgan, Chase.\n\n⚡ **Desarrollo:**\n*   La BBC había emitido un documental que, por su edición, hizo parecer que Trump incitó directamente a la \"acción violenta\", lo que provocó la dimisión del director general y el máximo responsable de noticias de la corporación. La BBC lamenta la edición pero rechaza el fundamento de la demanda.\n*   Las declaraciones de Trump sobre Colombia se dieron en el Air Force One, señalando la ineficacia de la política antidrogas del país sudamericano, una postura recurrente en su narrativa.\n*   Trump acusa a los demócratas de usar el caso Epstein como una \"farsa\" política, comparándolo con la investigación de \"vínculos ilegales con Rusia\" de 2016, que él siempre tildó de \"farsa rusa\".\n*   La investigación ordenada busca profundizar en las conexiones de figuras políticas y empresariales con la extensa red de abuso de Epstein, un tema que Trump prometió abordar fuertemente en su campaña.\n\n💡 **¿Por qué importa?**\n*   Estos incidentes ilustran la confrontacional y disruptiva postura de Donald Trump frente a los medios de comunicación y su enfoque de política exterior, además de su tacticismo para atacar rivales políticos.\n*   Las repercusiones incluyen la intensificación de batallas legales y mediáticas, tensiones diplomáticas con naciones clave, y el uso estratégico de escándalos para movilizar su base y desacreditar a opositores en el panorama político.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Trump afirmó que demandará a la BBC por hasta 5.000 millones de dólares tras la manipulación del video de su discurso",
+          "link": "https://www.infobae.com/america/mundo/2025/11/15/trump-afirmo-que-demandara-a-la-bbc-por-hasta-5000-millones-de-dolares-por-la-manipulacion-del-video-de-su-discurso/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-15 00:08:03"
+        },
+        {
+          "titulo": "Donald Trump fue tajante contra el Gobierno Petro: “Tenemos un problema en Colombia”",
+          "link": "https://www.infobae.com/colombia/2025/11/15/donald-trump-fue-tajante-contra-el-gobierno-petro-tenemos-un-problema-en-colombia/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-15 00:03:16"
+        },
+        {
+          "titulo": "Trump ordena investigar los presuntos vínculos de Bill Clinton con el delincuente sexual Jeffrey Epstein",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-ordena-investigar-los-presuntos-vinculos-de-bill-clinton-con-el-delincuente-sexual-jeffrey-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-14 21:24:35"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-15",
+      "fuentes": [
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
