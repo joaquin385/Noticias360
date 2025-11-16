@@ -1,281 +1,51 @@
 {
   "fecha": "2025-11-16",
-  "fecha_generacion": "2025-11-16T12:29:08.774003",
+  "fecha_generacion": "2025-11-16T15:19:29.064157",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "dolar_argentina:_cotizaciones_20251116",
-      "tema": "Dólar Argentina: Cotizaciones Diarias",
-      "tema_normalizado": "dolar argentina: cotizaciones diarias",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino experimenta una \"paz cambiaria\" con el dólar oficial manteniéndose estable o con tendencia a la baja, ubicándose cerca de los $1.400.\n• A mediados de noviembre de 2025, las diferentes cotizaciones del dólar (oficial, blue, ahorro, MEP, CCL, tarjeta) muestran variaciones controladas.\n• Esta calma se debe principalmente al desarme de posiciones en dólares después de las elecciones de octubre de 2025 y a un notable ingreso de capitales financieros.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (Banco Nación, venta):** $1.425 (domingo 16/11/2025 y previsto para lunes 17/11/2025).\n• **Dólar Blue (venta):** $1.430 (domingo 16/11/2025) y $1.435 (previsto para lunes 17/11/2025).\n• **Dólar Ahorro y Dólar Tarjeta:** $1.852,50 (domingo 16/11/2025).\n• **Dólar MEP (venta):** $1.456,10 (domingo 16/11/2025) y $1.462 (previsto para lunes 17/11/2025).\n• **Dólar CCL (venta):** $1.485,50 (domingo 16/11/2025) y $1.486 (previsto para lunes 17/11/2025).\n• **Inversión extranjera:** Ingreso de aproximadamente u$s2.700 millones en emisiones de deuda de empresas locales en noviembre de 2025.\n\n⚡ **Desarrollo:**\n• La tranquilidad del dólar se atribuye al \"desarme de posiciones\" de quienes habían comprado dólares excesivamente antes de las elecciones por temor a un resultado adverso para el mercado.\n• El ingreso de capitales financieros se vio impulsado por emisiones de deuda en el exterior de grandes empresas como YPF, Tecpetrol, Pampa Energía y Transportadora de Gas del Sur.\n• El tipo de cambio oficial se mantiene un 7% por debajo del techo de la banda de flotación, lo que permite al Gobierno comprar reservas sin presionar al alza la cotización.\n• El Dólar Ahorro y el Dólar Tarjeta incluyen recargos impositivos (30% Impuesto País + 45% Ganancias para Ahorro, 30% Impuesto País + 30% Ganancias para Tarjeta), lo que los hace más caros.\n• El Dólar MEP y el Contado con Liquidación (CCL) son mecanismos financieros legales para comprar dólares mediante la transacción de bonos, con cotizaciones generalmente más accesibles que el dólar ahorro/tarjeta.\n• El Dólar Blue, que opera en el mercado informal, ha mostrado cierta estabilidad, con una baja de $5 el viernes y un aumento de $15 en la última semana, y se negocia sin las restricciones del oficial.\n• Las cotizaciones del Euro y del Real brasileño también presentan sus valores oficiales y \"blue\", con el Euro oficial en $1.688,03 (venta) y el Euro blue en $1.665,66 (venta) al domingo 16 de noviembre de 2025.\n\n💡 **¿Por qué importa?**\n• La estabilidad cambiaria es crucial para la economía, ya que reduce la incertidumbre y puede reorientar las inversiones, por ejemplo, hacia los CEDEARs, ante la menor rentabilidad de las tasas en pesos.\n• Conocer las distintas cotizaciones diarias es fundamental para planificar gastos, viajes o inversiones, impactando tanto en el bolsillo de los ciudadanos como en la estrategia de las empresas.",
-      "cantidad_noticias": 12,
-      "noticias": [
-        {
-          "titulo": "De la dolarización extrema a la paz cambiaria: cuál es el \"secreto\" detrás de la calma del dólar",
-          "link": "https://www.iprofesional.com/finanzas/441895-por-que-mercado-paso-dolarizacion-extrema-a-paz-dolar",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-16 07:11:00"
-        },
-        {
-          "titulo": "Dólar ahorro hoy: a cuánto cotiza este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-domingo-16-noviembre_0_4rYSbNRGkS.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:08:01"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-domingo-16-noviembre_0_7uzO2JIOQk.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:08:01"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-16-noviembre_0_mhs9B97w7h.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:08:01"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-domingo-16-noviembre_0_c97MiKfuMC.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:05:01"
-        },
-        {
-          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-domingo-16-noviembre_0_KfNaxygJ9j.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:00:01"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este domingo 16 de noviembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-domingo-16-noviembre_0_FABdo1okLF.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 07:00:01"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este domingo 16 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-domingo-16-noviembre-n6214059",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-16 00:00:00"
-        },
-        {
-          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 17 de noviembre",
-          "link": "https://www.iprofesional.com/economia/441985-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-lunes-17-de-noviembre",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-15 20:20:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-noviembre-n6214146",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este sábado 15 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-15-noviembre-n6214144",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este sábado 15 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-sabado-15-noviembre-n6214058",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 00:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Minuto1",
-        "iProfesional",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "gobierno_milei:_acciones_20251116",
-      "tema": "Gobierno Milei: Acciones y Evaluaciones",
-      "tema_normalizado": "gobierno milei: acciones y evaluaciones",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei está acelerando su agenda de reformas internas y afianzando una alineación estratégica con Estados Unidos.\n• Esto se evidencia en un inminente acuerdo comercial con EE.UU. y el impulso de leyes clave como la reforma laboral y el Presupuesto 2026.\n• Si bien el mercado financiero muestra optimismo, la gestión enfrenta resistencia política interna y una opinión pública dividida.\n\n🔍 **Datos clave:**\n• **Acuerdo comercial con EE.UU.:** Se espera la firma entre Milei y Trump el 5 de diciembre en Washington.\n• **Imagen negativa de Milei:** 51,8% según encuesta Giacobbe (29 Oct - 2 Nov 2025).\n• **Reforma Laboral:** 40% a favor, 41,5% en contra, según Giacobbe.\n• **Inflación proyectada:** Ramiro Castiñeira estima un dígito anual al final del mandato de Milei (desde 2,3% en Octubre).\n• **Anuncios de inversión:** Argentina recibió $100 mil millones de dólares en el último año.\n• **Presupuesto 2026:** El Gobierno busca aprobar un superávit primario no menor a 1,5% del PBI.\n\n⚡ **Desarrollo:**\n• El presidente Milei ha fortalecido su relación con Donald Trump, con cinco encuentros desde noviembre de 2024, lo que facilitó el acuerdo comercial y apoyo en el FMI.\n• Este acuerdo es crucial para la \"segunda fase\" de reformas y busca atraer inversiones, aunque los detalles de la \"letra chica\" aún son confidenciales y su paso por el Congreso incierto.\n• Internamente, Karina Milei, junto a Martín Menem y Manuel Adorni, consolida su poder. Diego Santilli asume como Ministro del Interior y busca el apoyo de los gobernadores.\n• Existe desconfianza entre los gobernadores dialoguistas, quienes reclaman más detalles sobre las reformas laboral y de coparticipación, además de la exclusión de Axel Kicillof.\n• El clima de negocios se tornó eufórico post-elecciones, con baja del riesgo país y reactivación de emisiones de deuda en el exterior, reflejando confianza de inversores.\n• La Unión Industrial Argentina (UIA) demanda una \"segunda etapa\" con enfoque en infraestructura y política industrial, más allá de la estabilización macroeconómica.\n• El Gobierno promociona el país a nivel turístico con un video \"libertario\" titulado \"Argentina te da la única libertad que importa: la tuya\".\n• Mientras el 48% de la población cree que el gobierno \"hace sufrir a la gente sin sentido\", un 38,5% opina que \"el esfuerzo vale la pena\", indicando una sociedad reflexiva.\n\n💡 **¿Por qué importa?**\n• Las decisiones y acciones del Gobierno de Milei marcan un cambio profundo en la política exterior y económica de Argentina, con un fuerte enfoque en la alineación con EE.UU. y reformas liberales.\n• La implementación de estas reformas y su impacto dependerán de la capacidad del gobierno para gestionar la compleja interacción entre el optimismo financiero, la percepción social y la resistencia política.",
-      "cantidad_noticias": 17,
-      "noticias": [
-        {
-          "titulo": "Milei y Trump podrían encontrarse en Washington para firmar el acuerdo comercial y presenciar el sorteo del Mundial 2026",
-          "link": "https://www.infobae.com/politica/2025/11/16/milei-y-trump-podrian-encontrarse-en-washington-para-firmar-el-acuerdo-comercial-y-presenciar-el-sorteo-del-mundial-2026/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 08:34:45"
-        },
-        {
-          "titulo": "Karina Milei evalúa otro avance, los Menem traman una venganza y Diego Santilli prueba ácido",
-          "link": "https://www.clarin.com/politica/karina-milei-evalua-otro-avance-los-menem-traman-una-venganza-y-diego-santilli-prueba-acido_0_WIDeMoBUOr.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 06:49:05"
-        },
-        {
-          "titulo": "Guillermo Oliveto: “El Gobierno debe salir de la etapa punk y la destrucción; la gente apostó a, al menos, no estar peor”",
-          "link": "https://www.clarin.com/economia/guillermo-oliveto-gobierno-debe-salir-etapa-punk-destruccion-gente-aposto-peor_0_BQTqef4oms.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-16 06:13:04"
-        },
-        {
-          "titulo": "De la decepción a la euforia. La Argentina de Milei entra en la fase de aceleración",
-          "link": "https://www.lanacion.com.ar/economia/de-la-decepcion-a-la-euforia-la-argentina-de-milei-entra-en-la-fase-de-aceleracion-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 06:00:01"
-        },
-        {
-          "titulo": "Milei redefine el lugar de la Argentina en el orden global de Trump",
-          "link": "https://www.lanacion.com.ar/politica/milei-redefine-el-lugar-de-la-argentina-en-el-orden-global-de-trump-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 03:57:49"
-        },
-        {
-          "titulo": "El sueño de un “cambio irreversible” y la nube tóxica que vuelve",
-          "link": "https://www.lanacion.com.ar/politica/el-sueno-de-un-cambio-irreversible-y-la-nube-toxica-que-vuelve-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 03:54:03"
-        },
-        {
-          "titulo": "Desconfianza de los aliados: letra chica de la reforma laboral, coparticipación y obra pública",
-          "link": "https://www.perfil.com/noticias/politica/desconfianza-de-los-aliados-letra-chica-de-la-reforma-laboral-coparticipacion-y-obra-publica.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-16 02:22:55"
-        },
-        {
-          "titulo": "Ramiro Castiñeira: “La inflación llegará a un dígito anual al final del mandato de Javier Milei”",
-          "link": "https://www.ambito.com/economia/ramiro-castineira-la-inflacion-llegara-un-digito-anual-al-final-del-mandato-javier-milei-n6214289",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-16 00:03:00"
-        },
-        {
-          "titulo": "UIA pide una \"segunda etapa\" a Javier Milei y crece preocupación por el insólito destino de los dólares de Scott Bessent",
-          "link": "https://www.ambito.com/economia/uia-pide-una-segunda-etapa-javier-milei-y-crece-preocupacion-el-insolito-destino-los-dolares-scott-bessent-n6214210",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-16 00:03:00"
-        },
-        {
-          "titulo": "Un test para el Gobierno y para la voluntad reformista de la oposición moderada",
-          "link": "https://www.lanacion.com.ar/economia/un-test-para-el-gobierno-y-para-la-voluntad-reformista-de-la-oposicion-moderada-nid16112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 00:01:00"
-        },
-        {
-          "titulo": "Javier Milei avanza en el llano: acuerdo con EEUU, discusión PJ por interbloques y un PRO en contención",
-          "link": "https://www.ambito.com/politica/javier-milei-avanza-el-llano-acuerdo-eeuu-discusion-pj-interbloques-y-un-pro-contencion-n6214312",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-16 00:00:00"
-        },
-        {
-          "titulo": "Según Giacobbe, Milei tiene 51,8% de imagen negativa y el 48% cree que \"hace sufrir a la gente sin sentido\"",
-          "link": "https://www.perfil.com/noticias/politica/encuesta-javier-milei-tiene-un-5185-de-imagen-negativa-y-el-480-opina-que-el-gobierno-esta-haciendo-sufrir-a-la-gente-sin-sentido.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 20:48:22"
-        },
-        {
-          "titulo": "Javier Milei pide acelerar la reforma laboral, pero los gobernadores quieren tener más detalles del proyecto",
-          "link": "https://www.clarin.com/politica/javier-milei-pide-acelerar-reforma-laboral-falta-dialogo-sindicalistas-gobernadores-conocen-letra-chica_0_44q6tHGn1c.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 19:14:55"
-        },
-        {
-          "titulo": "Joaquín Cottani, exvice de Luis Caputo: \"Es el momento de dejar que el mercado, y no el Gobierno, sea el que determine el tipo de cambio\".",
-          "link": "https://www.ambito.com/economia/joaquin-cottani-exvice-luis-caputo-es-el-momento-dejar-que-el-mercado-y-no-el-gobierno-sea-el-que-determine-el-tipo-cambio-n6214267",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 18:29:00"
-        },
-        {
-          "titulo": "\"Freedom lives here\": el video libertario que publicó el Gobierno para promocionar Argentina y atraer al turismo en el extranjero",
-          "link": "https://www.clarin.com/politica/freedom-lives-here-video-libertario-publico-gobierno-promocionar-argentina-atraer-turismo-extranjero_0_sbY5XTupWb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 16:39:21"
-        },
-        {
-          "titulo": "Kicillof, sin reunión ni fondos: la deuda de Nación, teléfonos cortados y la pelea del 2027",
-          "link": "https://www.perfil.com/noticias/politica/kicillof-sin-reunion-ni-fondos-la-deuda-de-nacion-telefonos-cortados-y-la-pelea-del-2027.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 03:33:21"
-        },
-        {
-          "titulo": "La Rosada no sabe cuándo se aplicará el acuerdo con EE.UU.",
-          "link": "https://www.perfil.com/noticias/politica/la-rosada-no-sabe-cuando-se-aplicara-el-acuerdo-con-eeuu.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 02:27:56"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Perfil",
-        "La Nación",
-        "Ámbito Financiero",
-        "Infobae",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "causa_spagnuolo_y_20251116",
-      "tema": "Causa Spagnuolo y Corrupción ANDIS",
-      "tema_normalizado": "causa spagnuolo y corrupcion andis",
-      "resumen": "📌 **¿Qué está pasando?**\n• El extitular de la Agencia Nacional de Discapacidad (ANDIS), Diego Spagnuolo, y otros 14 exfuncionarios y empresarios fueron citados a indagatoria por el fiscal Franco Picardi.\n• La investigación apunta a un esquema de corrupción millonario en la compra de medicamentos e insumos de alto costo para personas con discapacidad.\n• Se detectaron maniobras de direccionamiento de licitaciones, sobreprecios y el cobro de sobornos.\n\n🔍 **Datos clave:**\n• **Figura central:** Diego Spagnuolo, extitular de ANDIS.\n• **Fiscal a cargo:** Franco Picardi; **Juez federal:** Sebastián Casanello.\n• **Monto estimado de la defraudación:** Más de $48.000 millones.\n• **Personas citadas a indagatoria:** 15.\n• **Droguerías implicadas:** Profarma, Génesis, New Farma, Floresta.\n• **\"Cerebro\" de la organización (según fiscalía):** Miguel Ángel Calvete.\n• **Inicio de la investigación:** Agosto/septiembre de 2023.\n\n⚡ **Desarrollo:**\n• La Justicia describe la existencia de un \"grupo Museo\" dentro de ANDIS que orquestó la manipulación de licitaciones públicas.\n• Se restringió artificialmente la competencia, beneficiando a un grupo cerrado de droguerías vinculadas a funcionarios y operadores del organismo.\n• El sistema informático SIIPFIS habría sido usado para simular transparencia mientras se realizaban las adjudicaciones irregulares.\n• Una vez que el circuito de compras fue controlado, las empresas beneficiadas procedieron a incrementar de forma sostenida los precios de los medicamentos.\n• Pruebas clave incluyen el contenido de celulares y cuadernos manuscritos de exfuncionarios como Daniel Garbellini (extitular de Incluir Salud) y Miguel Ángel Calvete.\n• Audios que mencionaban un \"3% para Karina Milei\" no fueron citados como prueba principal por el fiscal, debido a dudas sobre su autenticidad y posible manipulación.\n• Pese a la intervención de ANDIS en agosto de 2023, persiste el hermetismo sobre el avance de la auditoría interna del Gobierno.\n• Se reporta que algunos implicados, como Eduardo Nelio González y Lorena Di Giorno, continuarían trabajando en la agencia.\n\n💡 **¿Por qué importa?**\n• Este caso representa un grave perjuicio para la población con discapacidad, desviando fondos públicos esenciales destinados a su salud.\n• Es un escándalo de corrupción significativo que pone en tela de juicio la transparencia y la efectividad de los controles estatales en la administración pública.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "El caso Spagnuolo se reactiva y opaca la euforia del Gobierno",
-          "link": "https://www.perfil.com/noticias/politica/el-caso-spagnuolo-se-reactiva-y-opaca-la-euforia-del-gobierno.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-16 03:51:06"
-        },
-        {
-          "titulo": "Giro del fiscal: pidió la indagatoria de Spagnuolo, pero no cita como prueba el audio de la supuesta coima del 3% para Karina Milei",
-          "link": "https://www.clarin.com/politica/giro-fiscal-pidio-indagatoria-spagnuolo-cita-prueba-audio-supuesta-coima-3-karina-milei_0_e6sdAME0ib.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 19:43:59"
-        },
-        {
-          "titulo": "Cuadernos manuscritos y chats desnudan la maniobra de direccionamiento de contratos en la ANDIS por más de $ 48.000 millones",
-          "link": "https://www.clarin.com/politica/cuadernos-manuscritos-chats-desnudan-maniobra-direccionamiento-contratos-andis-48000-millones_0_UZmdKiU5O2.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 17:09:11"
-        },
-        {
-          "titulo": "Tras el llamado a indagatoria a Spagnuolo, el abogado de Cristina Kirchner advirtió a Milei: “Voy por vos y por tu hermana\"",
-          "link": "https://www.perfil.com/noticias/politica/tras-el-llamado-a-indagatoria-a-spagnuolo-el-abogado-de-cristina-kirchner-advirtio-a-milei-voy-por-vos-y-por-tu-hermana.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 10:27:33"
-        },
-        {
-          "titulo": "Presuntas coimas en Andis: citan a Diego Spagnuolo a indagatoria como parte de un entramado “criminal”",
-          "link": "https://www.perfil.com/noticias/politica/presuntas-coimas-en-andis-citan-a-diego-spagnuolo-a-indagatoria-como-parte-de-un-entramado-criminal.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 02:29:40"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
       "tema_id": "elecciones_presidenciales_chile_20251116",
-      "tema": "Elecciones Presidenciales Chile",
-      "tema_normalizado": "elecciones presidenciales chile",
-      "resumen": "📌 **¿Qué está pasando?**\n• Chile se prepara para unas elecciones presidenciales cruciales, donde se elegirá al sucesor de Gabriel Boric.\n• También se renovará completamente la Cámara de Diputados y gran parte del Senado, definiendo el futuro del Congreso.\n• La gran novedad es el regreso del voto obligatorio tras 13 años, lo que proyecta un escenario inédito con alta participación ciudadana.\n\n🔍 **Datos clave:**\n• **Votantes habilitados:** Cerca de 15.770.000 chilenos.\n• **Fecha de la elección:** Este domingo 16 de noviembre.\n• **Candidatos presidenciales:** Ocho en total compiten por la presidencia.\n• **Posible balotaje:** Se proyecta una segunda vuelta para el 14 de diciembre.\n• **Asunción del nuevo gobierno:** El próximo mandatario asumirá en marzo de 2026.\n• **Renovación legislativa:** Se eligen todos los diputados (155) y 23 de 50 senadores.\n• **Participación esperada:** Se estima entre un 85% y 90% del padrón debido al voto obligatorio.\n\n⚡ **Desarrollo:**\n• Las encuestas previas sugieren un fuerte giro político hacia la derecha o ultraderecha, con el oficialismo izquierdista de Gabriel Boric enfrentando un gran desgaste. Se prevé una derrota en ambas cámaras del Congreso.\n• Jeannette Jara (Unidad por Chile), del oficialismo y parte del Partido Comunista, lidera las encuestas en primera vuelta, pero lejos del 50% necesario para evitar un balotaje. Ella fue Ministra del Trabajo y propone fortalecer derechos laborales y la seguridad.\n• José Antonio Kast (Partido Republicano) representa a la derecha, impulsando un programa centrado en la inmigración irregular y la seguridad interna, con planes de deportaciones masivas y prisiones de máxima seguridad. Ya perdió la segunda vuelta de 2021 frente a Boric.\n• Evelyn Matthei (Centroderecha) y Johannes Kaiser (Extrema derecha), un youtuber afín a ideas pinochetistas y comparado con Javier Milei, también son figuras clave con posibilidades en la oposición. Kaiser irrumpió con fuerza en los últimos meses.\n• La sociedad chilena ha cambiado drásticamente sus prioridades, pasando de las demandas sociales de 2019 a una urgencia por la seguridad ciudadana y la lucha contra el crimen transnacional. El gobierno actual ha sido percibido como ineficaz en estos temas.\n• Millones de votantes \"obligados\" por la nueva ley son considerados más pragmáticos y despolitizados, sin lealtad partidista, lo que genera gran incertidumbre sobre los resultados finales y la confiabilidad de las encuestas tradicionales.\n• La campaña electoral se vio influenciada por la veda de encuestas oficiales y la proliferación de noticias falsas o sondeos \"bajo la mesa\" en redes sociales, dificultando la percepción real de preferencias.\n\n💡 **¿Por qué importa?**\n• Esta elección marcaría un posible y significativo cambio en la dirección política de Chile, alejándose del progresismo actual.\n• El retorno del voto obligatorio reconfigura el panorama electoral, introduciendo un gran número de votantes nuevos y pragmáticos que podrían definir el futuro del país.",
-      "cantidad_noticias": 5,
+      "tema": "Elecciones Presidenciales Chile 2025",
+      "tema_normalizado": "elecciones presidenciales chile 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n• Chile celebra sus elecciones presidenciales y legislativas el domingo 16 de noviembre de 2025 para elegir al sucesor de Gabriel Boric.\n• El voto es obligatorio por primera vez en más de una década, con multas de hasta 103.000 pesos chilenos por inasistencia sin justificación.\n• Se prevé una participación masiva y un balotaje casi seguro el 14 de diciembre, ya que ningún candidato alcanzaría la mayoría absoluta.\n\n🔍 **Datos clave:**\n• **Fecha Elección (1ª vuelta):** Domingo 16 de noviembre de 2025\n• **Fecha posible Balotaje:** 14 de diciembre de 2025\n• **Voto Obligatorio:** Cerca de 15,6 millones de chilenos habilitados\n• **Candidatos principales:** Jeannette Jara (Partido Comunista), José Antonio Kast (Partido Republicano), Johannes Kaiser (Partido Nacional Libertario), Evelyn Matthei (UDI).\n• **Encuestas (pre-veda):** Jara (27-29%), Kast (20-22%), Kaiser (14-18%).\n\n⚡ **Desarrollo:**\n• Además de la presidencia, se renueva la totalidad de la Cámara de Diputados (155 escaños) y la mitad del Senado (23 de 50 escaños).\n• La campaña estuvo fuertemente marcada por la polarización y la preocupación ciudadana por la seguridad, el aumento del crimen violento y la migración irregular.\n• La candidata oficialista, Jeannette Jara, exministra de Boric, propone elevar el salario mínimo, fortalecer derechos laborales y expandir la presencia estatal en el litio.\n• José Antonio Kast, ultraconservador, enfoca su programa en mano dura contra el crimen y la inmigración ilegal, proponiendo deportaciones masivas y nuevas prisiones.\n• Johannes Kaiser, de extrema derecha, ha prometido un Estado reducido y una postura estricta contra el crimen, llegando a sugerir ejecuciones para ciertos delitos.\n• El presidente Boric, que no puede buscar la reelección, enfrenta una desaprobación récord (más del 60%), lo que añade presión a la candidatura de Jara.\n• Kast ha declarado que apoyará \"a cualquier lista distinta a la del Gobierno\" si no accede al balotaje, insinuando una posible unidad opositora.\n• La reintroducción del voto obligatorio busca contrarrestar el bajo ausentismo electoral de procesos anteriores y podría movilizar a 6 millones de nuevos votantes.\n\n💡 **¿Por qué importa?**\n• Estas elecciones son definitorias para el futuro de Chile, con un pronóstico de posible giro a la derecha después de cuatro años de gobierno progresista.\n• Reflejan un cambio en las prioridades del electorado chileno, que ahora busca principalmente seguridad y orden frente a la delincuencia y la migración descontrolada.",
+      "cantidad_noticias": 11,
       "noticias": [
+        {
+          "titulo": "Chile inicia su jornada electoral: inseguridad, polarización y el elogio Johannes Kaiser a Milei",
+          "link": "https://www.lanacion.com.ar/el-mundo/chile-inicia-su-jornada-electoral-inseguridad-polarizacion-y-el-elogio-johannes-kaiser-a-milei-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 11:43:29"
+        },
+        {
+          "titulo": "Elecciones en Chile: José Antonio Kast dijo que si no accede al balotaje apoyará “a cualquier lista” que se oponga al Gobierno",
+          "link": "https://www.infobae.com/america/america-latina/2025/11/16/elecciones-en-chile-jose-antonio-kast-dijo-que-si-no-accede-al-balotaje-apoyara-a-cualquier-lista-que-se-oponga-al-gobierno/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 11:42:33"
+        },
+        {
+          "titulo": "Elecciones en Chile: lo que hay que saber",
+          "link": "https://www.infobae.com/america/the-new-york-times/2025/11/16/elecciones-en-chile-lo-que-hay-que-saber/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 10:45:15"
+        },
+        {
+          "titulo": "Elecciones en Chile: jornada de votación clave para elegir al sucesor de Gabriel Boric",
+          "link": "https://www.ambito.com/mundo/elecciones-chile-jornada-votacion-clave-elegir-al-sucesor-gabriel-boric-n6214362",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 10:36:00"
+        },
+        {
+          "titulo": "Elecciones en Chile: el candidato libertario habló del \"milagro\" de Milei pero aclaró que el modelo argentino no es extrapolable a su país",
+          "link": "https://www.clarin.com/politica/elecciones-chile-candidato-libertario-hablo-milagro-milei-aclaro-modelo-argentino-extrapolable-pais_0_AypWNWrWyn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 10:30:21"
+        },
+        {
+          "titulo": "Los chilenos ya empezaron a votar, en una jornada incierta que definirá el rumbo para los próximos cuatro años",
+          "link": "https://www.clarin.com/mundo/chilenos-empezaron-votar-jornada-incierta-definira-rumbo-proximos-anos_0_Y7Tm5h1XL9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 09:47:12"
+        },
         {
           "titulo": "Chile elige nuevo presidente: quiénes son los candidatos para suceder a Gabriel Boric",
           "link": "https://www.minutouno.com/mundo/chile-elige-nuevo-presidente-quienes-son-los-candidatos-suceder-gabriel-boric-n6214270",
@@ -311,6 +81,147 @@
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
         "Minuto1",
+        "La Nación",
+        "Clarín",
+        "Infobae",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_dolar_argentina_20251116",
+      "tema": "Cotización Dólar Argentina Noviembre",
+      "tema_normalizado": "cotizacion dolar argentina noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado cambiario argentino experimentó un período de \"paz\" y estabilidad durante noviembre, mostrando una tendencia a la baja en la cotización de los diversos tipos de dólar.\n*   Esta calma se debe principalmente al desarme de posiciones en dólares por parte de inversores tras las elecciones de octubre y a un flujo considerable de ingresos de capitales.\n\n🔍 **Datos clave:**\n*   **Dólar Oficial (venta):** $1425 (Banco Nación, al 16/17 de noviembre).\n*   **Dólar Blue (venta):** $1430 (al 16 de noviembre) / $1435 (al 17 de noviembre).\n*   **Dólar MEP (venta):** $1456,10 (al 16 de noviembre) / $1462 (al 17 de noviembre).\n*   **Dólar CCL (venta):** $1485,50 (al 16 de noviembre) / $1486 (al 17 de noviembre).\n*   **Dólar Ahorro/Tarjeta (venta):** $1852,50 (al 16 de noviembre).\n*   **Inflación de Octubre:** 2.3% (Indec).\n*   **Ingreso de Capitales (primeros 15 días de noviembre):** u$s2.900 millones por emisiones de deuda.\n*   **Reservas líquidas (sin oro ni swap):** Aproximadamente u$s18.000 millones, mayormente de bancos.\n\n⚡ **Desarrollo:**\n*   La estabilidad cambiaria se explica por la liquidación de coberturas en dólares que se habían acumulado antes de las elecciones y por un robusto ingreso de capitales financieros a través de la colocación de deuda de empresas locales.\n*   El gobierno fue señalado por intervenir en el mercado, comprando dólares para intentar recomponer reservas, aunque economistas como Joaquín Cottani advierten sobre los riesgos de usar activos bancarios para este fin.\n*   La calma del dólar y la menor inflación (2.3% en octubre) están reconfigurando el escenario de inversión, con un resurgimiento del interés por los CEDEARs para buscar exposición internacional.\n*   Existe un debate sobre el rol del gobierno en la determinación del tipo de cambio; algunos expertos como Carlos Melconian opinan que un dólar entre $1500 y $2000 sería sostenible, mientras otros sugieren dejar que el mercado lo defina.\n*   Críticas previas señalan como \"mala praxis\" la decisión de levantar el cepo a personas físicas en abril, lo que habría provocado una \"salida de capitales sin precedentes\" y desequilibrios.\n*   Analistas proyectan que, de mantenerse el ingreso de divisas y una política económica abierta, el dólar oficial podría tender a valores más bajos, en el rango de $1320-$1360.\n\n💡 **¿Por qué importa?**\n*   La estabilidad del dólar en noviembre, junto con la entrada de capitales, ofrece un alivio económico, pero abre el debate sobre la sostenibilidad de las políticas de intervención estatal y la acumulación de reservas.\n*   Este escenario cambiario reorienta las oportunidades de inversión hacia activos dolarizados como los CEDEARs y plantea la necesidad de una estrategia clara para la política monetaria y fiscal a futuro.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-16-de-noviembre-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 09:43:01"
+        },
+        {
+          "titulo": "De la dolarización extrema a la paz cambiaria: cuál es el \"secreto\" detrás de la calma del dólar",
+          "link": "https://www.iprofesional.com/finanzas/441895-por-que-mercado-paso-dolarizacion-extrema-a-paz-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-16 07:11:00"
+        },
+        {
+          "titulo": "Dólar ahorro hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-domingo-16-noviembre_0_4rYSbNRGkS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 07:08:01"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-domingo-16-noviembre_0_7uzO2JIOQk.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 07:08:01"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-16-noviembre_0_mhs9B97w7h.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 07:08:01"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-domingo-16-noviembre_0_c97MiKfuMC.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 07:05:01"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este domingo 16 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-domingo-16-noviembre-n6214059",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-16 00:00:00"
+        },
+        {
+          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 17 de noviembre",
+          "link": "https://www.iprofesional.com/economia/441985-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-lunes-17-de-noviembre",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-15 20:20:00"
+        },
+        {
+          "titulo": "Joaquín Cottani, exvice de Luis Caputo: \"Es el momento de dejar que el mercado, y no el Gobierno, sea el que determine el tipo de cambio\".",
+          "link": "https://www.ambito.com/economia/joaquin-cottani-exvice-luis-caputo-es-el-momento-dejar-que-el-mercado-y-no-el-gobierno-sea-el-que-determine-el-tipo-cambio-n6214267",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 18:29:00"
+        },
+        {
+          "titulo": "Lo que viene: nuevo piso para el dólar y oportunidad de inversión en bonos por riesgo país en caída",
+          "link": "https://www.iprofesional.com/finanzas/441927-guru-de-la-city-preve-que-nuevo-piso-del-dolar-sera-de",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-15 07:38:00"
+        },
+        {
+          "titulo": "Melconian: “El dólar entre $ 1.500 y $ 2.000 se la banca”",
+          "link": "https://www.perfil.com/noticias/economia/melconian-el-dolar-entre-1500-y-2000-se-la-banca.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 03:44:58"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "iProfesional",
+        "Minuto1",
+        "La Nación",
+        "Clarín",
+        "Perfil",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_interna_gobierno_20251116",
+      "tema": "Política Interna Gobierno Milei",
+      "tema_normalizado": "politica interna gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está reconfigurando su estructura de poder interna, con un rol central de Karina Milei y el ascenso de nuevas figuras.\n• Se observa un empoderamiento del Ministro del Interior, Diego Santilli, quien recupera competencias y asume mayor capacidad de negociación.\n• Estos movimientos buscan fortalecer la gestión y la capacidad de diálogo con gobernadores y el Congreso para avanzar en la agenda legislativa.\n\n🔍 **Datos clave:**\n• **Karina Milei:** Conocida como \"El Jefe\" o \"la hermanísima\", figura clave y centro del poder en la toma de decisiones.\n• **Diego Santilli:** Asumió como Ministro del Interior y recuperó el Registro Nacional de las Personas (Renaper) y la Secretaría de Deportes.\n• **Santiago Caputo:** Mantiene su cuota de poder, aunque con un perfil más bajo en esta nueva etapa.\n• **Patricia Bullrich:** Ministra de Seguridad, mantiene la Dirección Nacional de Migraciones bajo su órbita.\n• **2022-2023:** Período en que Santilli comenzó a construir relación con Karina Milei en cenas del \"círculo rojo\".\n\n⚡ **Desarrollo:**\n• La política interna del Gobierno Milei se ordena tras las elecciones, buscando una nueva geometría del poder donde Karina Milei agiganta su figura.\n• Diego Santilli, quien \"vio\" la lógica de poder de Karina desde el inicio, se posiciona como un interlocutor clave con las provincias y el Congreso.\n• Inicialmente, el Ministerio del Interior sufrió un \"desguace\" con el traspaso de Renaper y Migraciones, lo que fue una \"prueba de ácido\" para Santilli.\n• Sin embargo, el Gobierno dio marcha atrás, restituyendo el Renaper y la Secretaría de Deportes a la órbita de Interior, empoderando a Santilli.\n• La Dirección Nacional de Migraciones permanece en el Ministerio de Seguridad, una decisión acordada y vista como acertada por la experiencia compartida en seguridad entre Santilli y Bullrich.\n• Se planea la creación de una secretaría parlamentaria en Interior para articular el diálogo con el Congreso y negociar leyes clave como la reforma laboral y tributaria, y el Presupuesto 2026.\n• Algunos gobernadores expresan cautela, percibiendo que Santilli aún \"no tiene nada para ofrecernos\", lo que plantea desafíos para las negociaciones futuras.\n\n💡 **¿Por qué importa?**\n• Esta reorganización interna es crucial para la gobernabilidad, permitiendo al oficialismo consolidar alianzas y avanzar con su agenda legislativa en un Congreso fragmentado.\n• El fortalecimiento del Ministerio del Interior es vital para la relación con las provincias, elemento clave para la aprobación de reformas estructurales y la estabilidad política.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Círculo rojo: la nueva etapa del Gobierno, el ascenso de Santilli y los alcances de los acuerdos políticos",
+          "link": "https://www.infobae.com/politica/2025/11/16/circulo-rojo-la-nueva-etapa-del-gobierno-el-ascenso-de-santilli-y-los-alcances-de-los-acuerdos-politicos/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 11:40:18"
+        },
+        {
+          "titulo": "Marcha atrás del Gobierno en recortes de áreas: empoderan a Diego Santilli en el Ministerio del Interior",
+          "link": "https://www.ambito.com/politica/marcha-atras-del-gobierno-recortes-areas-empoderan-diego-santilli-el-ministerio-del-interior-n6214335",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 11:22:00"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: todas las novedades del Gobierno, minuto a minuto",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-todas-novedades-gobierno-minuto-minuto_0_deENUmcalI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 09:40:25"
+        },
+        {
+          "titulo": "Karina Milei evalúa otro avance, los Menem traman una venganza y Diego Santilli prueba ácido",
+          "link": "https://www.clarin.com/politica/karina-milei-evalua-otro-avance-los-menem-traman-una-venganza-y-diego-santilli-prueba-acido_0_WIDeMoBUOr.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 06:49:05"
+        },
+        {
+          "titulo": "Javier Milei avanza en el llano: acuerdo con EEUU, discusión PJ por interbloques y un PRO en contención",
+          "link": "https://www.ambito.com/politica/javier-milei-avanza-el-llano-acuerdo-eeuu-discusion-pj-interbloques-y-un-pro-contencion-n6214312",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 00:00:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "Infobae",
         "Ámbito Financiero",
         "Clarín"
       ],
@@ -320,10 +231,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "debate_sobre_monotributo_20251116",
-      "tema": "Debate sobre Monotributo",
-      "tema_normalizado": "debate sobre monotributo",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se ha generado un intenso debate en Argentina sobre la posible eliminación o reforma del Monotributo, un régimen simplificado clave para millones de pequeños contribuyentes.\n• A pesar de los rumores, el Presidente Javier Milei y su vocero Manuel Adorni desmintieron categóricamente la intención de eliminarlo, calificándola de \"mentiras y operaciones\".\n• Paralelamente, la agencia ARCA emitió una alerta sobre el adelanto del vencimiento de la cuota del Monotributo de noviembre de 2025 al jueves 20, debido a la proximidad de feriados.\n\n🔍 **Datos clave:**\n• **4,7 millones:** Cantidad de monotributistas en el país, de los cuales 3 millones perderían su obra social si el régimen se elimina sin una reforma integral.\n• **1,4%:** Porcentaje del total de la recaudación que representa el Monotributo, según el diputado Guillermo Michel.\n• **$37.085,74:** Monto mínimo mensual que abona la Categoría A de Monotributo (cuota de noviembre 2025).\n• **$82.000:** Costo estimado mensual por jubilación de autónomos si se elimina el Monotributo y los afectados pasan al Régimen General.\n• **20 de noviembre de 2025:** Nueva fecha límite para el pago del Monotributo de noviembre, adelantada por ARCA.\n• **Guillermo Michel:** Diputado por Entre Ríos que defendió el Monotributo y propuso un \"régimen Simple\" para PyMEs.\n\n⚡ **Desarrollo:**\n• El Monotributo es un sistema tributario creado en los años 90 para otorgar un marco legal y fiscal básico a profesionales liberales, trabajadores independientes, pequeños comerciantes y emprendedores.\n• El diputado Guillermo Michel criticó las versiones sobre la eliminación, argumentando que el régimen simplifica la vida de 4,7 millones de contribuyentes, muchos en las categorías más bajas, y es vital fuera de Capital Federal.\n• Una eventual eliminación del Monotributo sin una reforma integral del Régimen General (IVA y Ganancias) generaría mayores costos administrativos y tributarios, además de obligar a contratar seguros de salud privados.\n• Expertos tributaristas advierten que una supresión abrupta podría conducir a más informalidad, la salida de contribuyentes del sistema y la pérdida de cobertura previsional y médica para millones de personas.\n• Aunque Milei negó la eliminación, el gobierno sí está trabajando en una reforma tributaria y modernización laboral integral, que incluiría un rediseño del Impuesto a las Ganancias y cambios en el Régimen de Autónomos.\n• ARCA recordó que el incumplimiento en el pago del Monotributo genera recargos e intereses, y puede derivar en la exclusión del régimen, afectando el acceso a obra social y previsión.\n\n💡 **¿Por qué importa?**\n• El debate sobre el Monotributo es crucial porque afecta directamente la estabilidad económica, la formalidad y el acceso a servicios básicos (salud, jubilación) de millones de pequeños contribuyentes y emprendedores en Argentina.\n• Las decisiones sobre este régimen, en el marco de una reforma tributaria más amplia, definirán el futuro de una parte significativa de la economía y la capacidad de subsistencia de un amplio sector productivo.",
+      "tema_id": "monotributo_y_regimen_20251116",
+      "tema": "Monotributo y Régimen Simplificado",
+      "tema_normalizado": "monotributo y regimen simplificado",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se ha generado un intenso debate sobre la posible eliminación o reforma del Monotributo en Argentina, un régimen simplificado que abarca a millones de contribuyentes.\n• Mientras el presidente Javier Milei negó las versiones sobre su eliminación, calificándolas de \"mentiras y operaciones\", su gobierno sí está trabajando en reformas tributarias y laborales.\n• Paralelamente, la Agencia ARCA adelantó la fecha de vencimiento del pago del monotributo de noviembre de 2025 y actualizó las escalas, alertando sobre sanciones por incumplimiento.\n\n🔍 **Datos clave:**\n• **4,7 millones:** Cantidad de monotributistas en el país; 3 millones podrían perder su obra social si se elimina el régimen.\n• **1,4%:** Porcentaje de la recaudación total que representa el Monotributo, según el diputado Michel.\n• **Jueves 20 de noviembre de 2025:** Nueva fecha de vencimiento para el pago del Monotributo de noviembre, adelantada por ARCA debido a feriados.\n• **$8.992.597,87 (Cat. A) a $94.805.682,90 (Cat. K):** Nuevos topes de facturación anual por categoría de Monotributo.\n• **$37.085,74 (Cat. A) a $391.400,62 (Cat. H servicios):** Nuevos montos mensuales a pagar según categoría y tipo de actividad.\n\n⚡ **Desarrollo:**\n• El Monotributo es un sistema creado en los años 90 para simplificar la situación fiscal de pequeños emprendimientos y profesionales, otorgando un marco legal básico, cobertura médica y previsional.\n• Un posible documento interno del gobierno, aunque desmentido por Milei, proponía la eliminación del Monotributo como parte de una reforma para formalizar la economía y mejorar la sustentabilidad previsional.\n• Si el Monotributo fuera eliminado sin una reforma integral del Régimen General, los contribuyentes enfrentarían costos mucho mayores (ej. alrededor de $82.000 mensuales solo para jubilación de autónomos) y mayores exigencias administrativas.\n• Expertos advierten que una eliminación abrupta del Monotributo podría generar más informalidad, reducir la cantidad de contribuyentes cumplidores y dejar a muchas personas sin cobertura social y previsional.\n• El diputado Guillermo Michel defendió el Monotributo, destacando su importancia en el interior del país y para las PyMEs, y propuso un \"régimen Simple\" como puente para la formalización.\n• ARCA recordó a los monotributistas la importancia de revisar su categoría vigente y cumplir con los plazos para evitar exclusión del régimen, recargos y la pérdida de beneficios como la obra social.\n\n💡 **¿Por qué importa?**\n• El futuro del Monotributo y las reformas tributarias impactan directamente en millones de trabajadores independientes, pequeños comerciantes y emprendedores, definiendo su marco legal, fiscal y acceso a servicios esenciales.\n• La discusión resalta la tensión entre la búsqueda de formalización económica y la necesidad de un sistema accesible que no empuje a la informalidad a vastos sectores de la población.",
       "cantidad_noticias": 5,
       "noticias": [
         {
@@ -360,9 +271,9 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Perfil",
         "Minuto1",
-        "Ámbito Financiero"
+        "Ámbito Financiero",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -370,18 +281,55 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "femicidio_cecilia_sena:_20251116",
-      "tema": "Femicidio Cecilia Sena: Condena Clan",
-      "tema_normalizado": "femicidio cecilia sena: condena clan",
-      "resumen": "📌 **¿Qué está pasando?**\n• Recientemente, un jurado popular condenó al \"Clan Sena\" por el femicidio de Cecilia Strzyzowski en Chaco, Argentina.\n• César Sena, pareja de la víctima, fue declarado autor del crimen, mientras que sus padres, Emerenciano Sena y Marcela Acuña, fueron condenados como partícipes necesarios.\n• El veredicto generó una masiva celebración social, clamando por justicia y visibilidad para la víctima.\n\n🔍 **Datos clave:**\n• **Víctima:** Cecilia Strzyzowski.\n• **Condenados principales:** César Sena, Marcela Acuña, Emerenciano Sena.\n• **Delito principal:** Femicidio agravado por el vínculo y en contexto de violencia de género.\n• **Pena esperada:** Prisión perpetua para los tres principales responsables.\n• **Otros condenados:** José Gustavo Obregón (encubrimiento agravado), Fabiana González (encubrimiento agravado), Gustavo Melgarejo (encubrimiento simple).\n• **Absuelta:** Griselda Lucía Reinoso.\n• **Lugar:** Resistencia, Chaco, Argentina.\n• **Fecha del crimen:** El femicidio de Cecilia en 2023 fue un punto de inflexión.\n\n⚡ **Desarrollo:**\n• El asesinato de Cecilia Strzyzowski en 2023 conmocionó al país por la brutalidad del hecho y el intento de desaparecer su cuerpo.\n• El \"Clan Sena\" era una familia con significativo poder político y fuertes vínculos con el entonces gobernador de Chaco, Jorge Capitanich.\n• Emerenciano Sena y Marcela Acuña se postulaban para cargos públicos al momento de los hechos, y eran percibidos como \"dueños del territorio y de la vida de la gente\" por su influencia local.\n• El juicio se llevó a cabo con un jurado popular que deliberó por más de un día en el Centro de Estudios Judiciales de Resistencia.\n• La Ministra de Seguridad, Patricia Bullrich, celebró la condena, criticando la \"protección política\" que, según ella, los Sena creyeron tener.\n• Referentes del Gobierno de Javier Milei, incluido el presidente, replicaron mensajes asociando la condena con un cambio político bajo la consigna \"Kirchnerismo o justicia\".\n• Durante todo el proceso judicial y al conocerse el veredicto, hubo una fuerte movilización social en Chaco, con marchas masivas y vigilias pidiendo justicia para Cecilia.\n\n💡 **¿Por qué importa?**\n• La condena del Clan Sena es un fallo histórico y ejemplar contra la impunidad en casos de femicidio, especialmente cuando los acusados poseen poder político.\n• Expone las redes de influencia y clientelismo en la política provincial y reaviva el debate sobre la independencia judicial y la justicia de género en Argentina.",
+      "tema_id": "caso_spagnuolo_indagatoria_20251116",
+      "tema": "Caso Spagnuolo Indagatoria",
+      "tema_normalizado": "caso spagnuolo indagatoria",
+      "resumen": "📌 **¿Qué está pasando?**\n• El extitular de la Agencia Nacional de Discapacidad (ANDIS), Diego Spagnuolo, y otras 14 personas fueron citados a indagatoria por el fiscal federal Franco Piccardi.\n• Se les investiga por una presunta organización delictiva dedicada a la corrupción, con direccionamiento de licitaciones, sobreprecios y cobro de sobornos en la compra de medicamentos e insumos de alto costo.\n\n🔍 **Datos clave:**\n• **15 citados:** Incluyen a Diego Spagnuolo, Daniel Garbellini, Miguel Ángel Calvete, Pablo Atchabahian, exfuncionarios y empresarios.\n• **$43 mil millones:** Estimado de la recaudación ilícita en casi dos años de gestión de la trama.\n• **\"3 por ciento para Karina Milei\":** Mencionado en chats de acusados y un audio, aunque el fiscal no usará el audio como prueba por dudas de autenticidad.\n• **Droguerías beneficiadas:** Profarma, Génesis, New Farma y Floresta.\n• **Fiscal y juez:** Franco Piccardi y Sebastián Casanello.\n\n⚡ **Desarrollo:**\n• La investigación del fiscal Piccardi señala la existencia de un \"grupo Museo\" dentro de ANDIS que habría direccionado licitaciones millonarias.\n• Miguel Ángel Calvete, con antecedentes por explotación sexual, es identificado como el supuesto \"cerebro\" de la organización.\n• Entre las pruebas, se encuentran filmaciones de Spagnuolo ingresando a la casa de Calvete con una mochila y chats que hablan de pagos de 5 millones de pesos.\n• A pesar de los chats que sugieren vínculos con \"Karina Milei\", el fiscal evitó usar un audio con esa mención como prueba, dado que presentaría cortes y posibles intervenciones.\n• El gobierno de Milei intervino ANDIS en agosto, pero la auditoría interna no ha arrojado resultados y personas investigadas seguirían trabajando en la agencia.\n• Daniel Garbellini, ex titular de Incluir Salud, también es investigado por un presunto \"circuito paralelo de coimas\" dentro del organismo.\n• El abogado Gregorio Dalbón advirtió públicamente al presidente Javier Milei y a su hermana Karina sobre futuras acciones legales relacionadas con el caso.\n\n💡 **¿Por qué importa?**\n• Es uno de los principales escándalos de corrupción que atraviesa la gestión del gobierno de Javier Milei, generando tensiones políticas.\n• El caso afecta gravemente a un sector vulnerable de la población, las personas con discapacidad, al desviar fondos esenciales destinados a su salud y bienestar.",
       "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Un grito de desahogo que ni el diluvio pudo acallar: justicia por Cecilia",
-          "link": "https://www.lanacion.com.ar/politica/un-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 21:38:32"
+          "titulo": "El caso Spagnuolo se reactiva y opaca la euforia del Gobierno",
+          "link": "https://www.perfil.com/noticias/politica/el-caso-spagnuolo-se-reactiva-y-opaca-la-euforia-del-gobierno.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-16 03:51:06"
         },
+        {
+          "titulo": "Giro del fiscal: pidió la indagatoria de Spagnuolo, pero no cita como prueba el audio de la supuesta coima del 3% para Karina Milei",
+          "link": "https://www.clarin.com/politica/giro-fiscal-pidio-indagatoria-spagnuolo-cita-prueba-audio-supuesta-coima-3-karina-milei_0_e6sdAME0ib.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 19:43:59"
+        },
+        {
+          "titulo": "Tras el llamado a indagatoria a Spagnuolo, el abogado de Cristina Kirchner advirtió a Milei: “Voy por vos y por tu hermana\"",
+          "link": "https://www.perfil.com/noticias/politica/tras-el-llamado-a-indagatoria-a-spagnuolo-el-abogado-de-cristina-kirchner-advirtio-a-milei-voy-por-vos-y-por-tu-hermana.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 10:27:33"
+        },
+        {
+          "titulo": "Presuntas coimas en Andis: citan a Diego Spagnuolo a indagatoria como parte de un entramado “criminal”",
+          "link": "https://www.perfil.com/noticias/politica/presuntas-coimas-en-andis-citan-a-diego-spagnuolo-a-indagatoria-como-parte-de-un-entramado-criminal.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 02:29:40"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "femicidio_cecilia_sena_20251116",
+      "tema": "Femicidio Cecilia Sena Sentencia",
+      "tema_normalizado": "femicidio cecilia sena sentencia",
+      "resumen": "📌 **¿Qué está pasando?**\n• Un jurado popular condenó a los principales involucrados en el femicidio de Cecilia Strzyzowski, un caso de alto impacto en Chaco y en todo el país.\n• César Sena fue hallado culpable como autor del homicidio doblemente agravado, mientras que sus padres, Emerenciano Sena y Marcela Acuña, fueron condenados como partícipes primarios.\n• Se espera que la sentencia final en la audiencia de cesura implique prisión perpetua para los tres líderes del \"Clan Sena\".\n\n🔍 **Datos clave:**\n• **Víctima:** Cecilia Strzyzowski.\n• **Condenado principal (autor):** César Sena.\n• **Condenados partícipes primarios:** Emerenciano Sena y Marcela Acuña.\n• **Otros condenados:** José Gustavo Obregón y Fabiana González (encubrimiento agravado); Gustavo Melgarejo (encubrimiento simple).\n• **Única absuelta:** Griselda Lucía Reinoso.\n• **Lugar:** Provincia de Chaco, Argentina.\n• **Momento del veredicto:** Sábado, tras más de un día de deliberación del jurado.\n\n⚡ **Desarrollo:**\n• El crimen de Cecilia Strzyzowski fue descrito como \"atroz y macabro\", involucrando su asesinato y posterior quema durante horas.\n• El \"Clan Sena\" era una familia con una vasta influencia política y territorial en Chaco, a quienes se les calificó de \"feudales\" y \"dueños de la vida de la gente\".\n• La familia Sena y sus movimientos sociales mantuvieron fuertes lazos con el peronismo local, participando en candidaturas y actos junto al exgobernador Jorge Capitanich.\n• La ministra de Seguridad, Patricia Bullrich, celebró la condena enfatizando que \"se hizo justicia\" y criticando la creencia del clan en una supuesta \"protección política\".\n• Bullrich también apuntó al \"silencio de cierto ‘feminismo’\" que, según ella, no actuó para salvar a Cecilia ni en su memoria.\n• Desde el gobierno de Javier Milei, funcionarios replicaron mensajes bajo la consigna \"Kirchnerismo o justicia\", interpretando el fallo como una muestra de que la justicia opera mejor sin la anterior administración.\n• El fallo del jurado popular se conoció pasadas las 15 horas, con la condena a César Sena por homicidio agravado por el vínculo y violencia de género de forma unánime.\n• Los condenados restantes por encubrimiento también recibieron su veredicto, mientras que la única absuelta, Griselda Reinoso, fue liberada de inmediato.\n• Las penas finales para cada uno de los culpables serán establecidas en una audiencia de cesura que será convocada por la jueza técnica Dolly Fernández.\n\n💡 **¿Por qué importa?**\n• Este veredicto es considerado un hito ejemplar que demuestra que la justicia puede actuar incluso contra estructuras de poder arraigadas, ofreciendo un mensaje de esperanza para las víctimas de femicidios.\n• El caso destapa el entramado de corrupción y abuso de poder en el ámbito político local, generando un debate nacional sobre la influencia de estos \"clanes\" en la sociedad.",
+      "cantidad_noticias": 3,
+      "noticias": [
         {
           "titulo": "Patricia Bullrich celebró la condena contra el 'Clan Sena': \"Creyeron que la protección política los iba a salvar\"",
           "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-celebro-la-condena-contra-el-clan-sena-creyeron-que-la-proteccion-politica-los-iba-a-salvar.phtml",
@@ -404,10 +352,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
+        "Minuto1",
         "Perfil",
-        "Clarín",
-        "La Nación",
-        "Minuto1"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -415,18 +362,12 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "caso_de_vido:_20251116",
-      "tema": "Caso De Vido: Denuncias y Detención",
-      "tema_normalizado": "caso de vido: denuncias y detencion",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El exministro Julio De Vido fue detenido el jueves 13 de noviembre para cumplir una condena de cuatro años de prisión por la Tragedia de Once.\n*   Su encarcelamiento se hizo efectivo tras el rechazo de la Corte Suprema de Justicia a un último recurso de su defensa, dejando firme la sentencia.\n*   Dirigentes peronistas y la esposa de De Vido denunciaron \"persecución judicial\" y malas condiciones de detención, solicitando prisión domiciliaria debido a su edad y estado de salud.\n\n🔍 **Datos clave:**\n*   **Condena:** 4 años de prisión por administración fraudulenta en perjuicio del Estado.\n*   **Tragedia de Once:** Ocurrida el 22 de febrero de 2012, con un saldo de 52 muertos y más de 700 heridos.\n*   **Detención:** Desde el 13 de noviembre en el penal federal de Ezeiza.\n*   **Edad de De Vido:** 75 años (al momento de la detención).\n*   **Jueces de la Corte:** Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti.\n\n⚡ **Desarrollo:**\n*   De Vido fue condenado como partícipe necesario en el delito de administración fraudulenta por el manejo deficiente de los subsidios al ferrocarril Sarmiento.\n*   La sentencia fue confirmada por la Corte Suprema, que validó el fallo del Tribunal Oral Federal N.º 4 (TOF 4) que lo había condenado a cinco años en 2018, pena luego reducida a cuatro por Casación.\n*   Su defensa solicitó prisión domiciliaria citando su edad avanzada y problemas de salud como diabetes insulinodependiente, hipertensión, y afecciones cardíacas y respiratorias, pero fue rechazada inicialmente.\n*   El gobernador Axel Kicillof, junto a ministros e intendentes peronistas, expresó su \"solidaridad\" con De Vido y denunció una \"condena injusta\" y \"persecución judicial\" (lawfare) el 16 de noviembre.\n*   Senadores de Unión por la Patria, el sábado 15 de noviembre, repudiaron la detención calificándola de \"arbitraria\" y parte de un \"plan sistemático de persecución política\".\n*   Alessandra Minnicelli, esposa de De Vido, denunció públicamente desde el Hospital Penitenciario Central de Ezeiza que su marido no tenía acceso a medicación, una dieta adecuada para diabéticos ni a servicios básicos como duchas.\n*   Producto de estas denuncias, se realizó una presentación judicial y el juez interviniente envió un oficio al Hospital Penitenciario para evaluar y garantizar las condiciones de detención.\n\n💡 **¿Por qué importa?**\n*   El caso reaviva el debate sobre la actuación del Poder Judicial en Argentina, las acusaciones de \"lawfare\" y la supuesta persecución política a dirigentes.\n*   Las denuncias sobre las condiciones de detención y el acceso a la salud de un exfuncionario de edad avanzada plantean serios interrogantes sobre el respeto a los derechos humanos y las garantías constitucionales en el sistema penitenciario.",
-      "cantidad_noticias": 4,
+      "tema_id": "detencion_ex-funcionario_de_20251116",
+      "tema": "Detención Ex-Funcionario De Vido",
+      "tema_normalizado": "detencion ex-funcionario de vido",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El exministro Julio De Vido se entregó el jueves 13 de noviembre para cumplir una condena de cuatro años de prisión por la Tragedia de Once, luego de que la Corte Suprema de Justicia confirmara la sentencia.\n*   Actualmente se encuentra detenido en el penal federal de Ezeiza, mientras su defensa busca la prisión domiciliaria debido a su edad y problemas de salud.\n*   Su detención generó repudio de senadores de Unión por la Patria, quienes denunciaron \"persecución política\", y acusaciones de malas condiciones de reclusión por parte de su esposa.\n\n🔍 **Datos clave:**\n*   **Condena:** 4 años de prisión efectiva.\n*   **Delito:** Administración fraudulenta en perjuicio de la administración pública (partícipe necesario).\n*   **Fecha de entrega:** Jueves 13 de noviembre.\n*   **Edad de De Vido:** 75 años (al momento de la condena), cumplirá 76 en diciembre.\n*   **Tribunal:** Tribunal Oral Federal Nº4, con sentencia confirmada por la Corte Suprema de Justicia.\n*   **Lugar de detención:** Penal Federal de Ezeiza (inicialmente en el Hospital Penitenciario Central).\n\n⚡ **Desarrollo:**\n*   Julio De Vido, quien fue ministro de Planificación Federal, Inversión Pública y Servicios entre 2003 y 2015, se presentó en Comodoro Py tras el rechazo de su pedido de prisión domiciliaria.\n*   Su esposa, Alessandra Minnicelli, denunció graves irregularidades en su detención, como la falta de acceso a su medicación para la diabetes insulinodependiente y una dieta inadecuada.\n*   También se mencionó la dificultad para comunicarse con el exterior, la negación de servicios básicos como agua caliente o ducha, y la falta de acceso a sus pertenencias.\n*   Senadores de Unión por la Patria y el ministro Andrés 'Cuervo' Larroque repudiaron la detención, calificándola de \"arbitraria\" y denunciando una \"persecución política\" y un \"plan sistemático\" contra referentes opositores.\n*   De Vido presenta problemas de salud como hipertrofia ventricular izquierda, hipertensión y asma, que su defensa argumentó para la prisión domiciliaria, pero no fueron certificadas por los magistrados.\n*   El abogado Maximiliano Rusconi calificó la decisión de la Corte Suprema, integrada por Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti, como \"arbitraria y violatoria de los derechos humanos fundamentales\".\n*   Se realizó una presentación judicial por las malas condiciones de detención, lo que llevó a un juez a enviar un oficio al Hospital Penitenciario.\n\n💡 **¿Por qué importa?**\n*   La detención y condena de un exministro de alto perfil del kirchnerismo, que nunca había estado preso por esta causa, genera un significativo impacto político y mediático en el país.\n*   Las denuncias de \"persecución política\" y las presuntas violaciones a los derechos humanos de un detenido con problemas de salud y de edad avanzada abren un debate importante sobre el debido proceso y las condiciones carcelarias.",
+      "cantidad_noticias": 3,
       "noticias": [
-        {
-          "titulo": "Kicillof manifestó su solidaridad con De Vido y exigió que reciba atención médica",
-          "link": "https://www.lanacion.com.ar/politica/kicillof-manifesto-su-solidaridad-con-de-vido-y-exigio-que-reciba-atencion-medica-nid16112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 09:13:43"
-        },
         {
           "titulo": "Senadores peronistas repudiaron la prisión de De Vido y denunciaron que sufre \"persecución política\"",
           "link": "https://www.perfil.com/noticias/politica/senadores-de-union-por-la-patria-repudiaron-el-encarcelamiento-de-julio-de-vido-y-denunciaron-que-sufre-persecucion-politica.phtml",
@@ -449,9 +390,8 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Perfil",
         "Minuto1",
-        "La Nación"
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -459,23 +399,61 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "crisis_moyano_y_20251116",
-      "tema": "Crisis Moyano y Sindicato Camioneros",
-      "tema_normalizado": "crisis moyano y sindicato camioneros",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Sindicato de Camioneros, liderado por Hugo Moyano por 38 años, atraviesa su momento más delicado con una profunda crisis interna y una ofensiva del Gobierno.\n• El poder de Moyano se ve diluido, enfrentando un fuerte desafío de su hijo Pablo y el colapso financiero de su obra social, OSCHOCA.\n• Esta situación compromete la capacidad de negociación salarial del gremio y la calidad de las prestaciones de salud para sus afiliados.\n\n🔍 **Datos clave:**\n• **Hugo Moyano:** 81 años, líder del gremio desde 1987 (38 años en el cargo).\n• **Paritarias 2024:** El sindicato aceptó un techo salarial del 1% mensual, impuesto por el Ministerio de Economía.\n• **OSCHOCA:** Obra social de Camioneros, gestionada por IARAI, empresa fundada por Liliana Zulet (esposa de Moyano).\n• **Afiliados OSCHOCA:** Pasó de aproximadamente 200.000 beneficiarios a conservar apenas un cuarto.\n• **Pablo Moyano:** Hijo de Hugo y secretario adjunto, crítico de la gestión actual y las negociaciones salariales.\n\n⚡ **Desarrollo:**\n• La crisis se manifiesta en un áspero enfrentamiento entre Hugo Moyano y su hijo Pablo, quien le recrimina la baja negociación salarial y la falta de renovación dirigencial.\n• Pablo criticó la aceptación del techo paritario del 1%, muy por debajo de la inflación, generando un fuerte descontento en las bases del gremio.\n• La obra social OSCHOCA se encuentra al borde del colapso financiero debido a una \"mala administración\" y los altísimos costos de su extensa infraestructura propia y de lujo.\n• Liliana Zulet, esposa de Hugo Moyano, y su hija Valeria Salerno, a través de IARAI, son señaladas como las principales responsables de la gestión deficiente de OSCHOCA.\n• Se cuestiona si la construcción de sanatorios con un alto estándar de \"hotelería\" fue más un negocio para empresas vinculadas, como Aconra SA (controlada por Zulet y sus hijos), que una solución eficiente para los afiliados.\n• La situación económica y de servicios de salud lleva a trabajadores, como los de Coca-Cola, a considerar abandonar el sindicato.\n• Por primera vez en décadas, Moyano ve su poder seriamente cuestionado, enfrentando una ofensiva gubernamental que busca limitar la influencia sindical.\n\n💡 **¿Por qué importa?**\n• La crisis en Camioneros marca un punto de inflexión en el poder sindical argentino, con uno de sus líderes más influyentes en una situación de debilidad inédita.\n• Tiene un impacto directo en los ingresos y la salud de miles de trabajadores camioneros, y podría sentar un precedente para futuras negociaciones gremiales y la relación entre sindicatos y el Gobierno.",
+      "tema_id": "diego_santilli_gira_20251116",
+      "tema": "Diego Santilli Gira Federal",
+      "tema_normalizado": "diego santilli gira federal",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diego Santilli, el ministro del Interior, está llevando a cabo una Gira Federal encomendada por el Presidente Javier Milei.\n• Su misión es dialogar directamente con los gobernadores de las provincias para recolectar apoyos legislativos.\n• El objetivo central es asegurar la aprobación del Presupuesto 2026 y de reformas estructurales clave en el Congreso Nacional.\n\n🔍 **Datos clave:**\n• **Funcionario a cargo:** Diego Santilli, Ministro del Interior.\n• **Presidente impulsor:** Javier Milei.\n• **Provincias visitadas (ejemplos recientes):** Neuquén (Gobernador Rolando Figueroa) y Mendoza (Gobernador Alfredo Cornejo).\n• **Fecha clave en agenda:** Discusión del Presupuesto 2026.\n• **Anuncio concreto en Mendoza:** Contragarantía nacional para un crédito de USD 75 millones para obras de agua.\n• **Reformas principales en discusión:** Tributaria, Laboral y nuevo Código Penal.\n\n⚡ **Desarrollo:**\n• La \"peregrinación\" federal de Santilli tiene como fin escuchar las agendas y propuestas de trabajo de cada provincia, buscando coincidencias y puntos de acuerdo.\n• En Neuquén, el ministro y el gobernador Figueroa abordaron la discusión del Presupuesto 2026, la reforma tributaria, la modernización laboral y el nuevo Código Penal, destacando la importancia del trabajo recíproco.\n• Figueroa manifestó el apoyo de Neuquén a iniciativas que beneficien a la provincia y promuevan su crecimiento, siempre desde un espíritu constructivo.\n• La agenda de reformas del Gobierno incluye generar trabajo para formalizar la economía, reducir impuestos y resolver problemáticas provinciales específicas.\n• La visita a Mendoza resultó en el compromiso de Nación como contragarantía para un crédito de 75 millones de dólares, gestionado por Santilli antes de su asunción formal, para obras de agua potable.\n• El Gobierno Nacional busca impulsar una modernización laboral que se discutirá en gabinete y luego con el Congreso, tomando como ejemplo experiencias exitosas como la de Vaca Muerta.\n• La tarea encomendada por Milei a Santilli se concentra en \"acercar posiciones y establecer pactos\" para lograr el respaldo necesario a los proyectos del oficialismo.\n\n💡 **¿Por qué importa?**\n• Esta gira es fundamental para el Gobierno, ya que busca cimentar el diálogo con las provincias y afianzar los respaldos necesarios en el Congreso.\n• Los acuerdos generados son vitales para la gobernabilidad, la aprobación de leyes estructurales y la implementación del plan económico del Presidente Javier Milei.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Diego Santilli visitó al gobernador de Neuquén Rolando Figueroa",
+          "link": "https://www.minutouno.com/politica/diego-santilli-visito-al-gobernador-neuquen-rolando-figueroa-n6214247",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 15:30:00"
+        },
+        {
+          "titulo": "Diego Santilli se reunió con el gobernador Rolando Figueroa en Neuquén",
+          "link": "https://www.ambito.com/politica/diego-santilli-sigue-su-gira-federal-y-se-reune-neuquen-el-gobernador-rolando-figueroa-n6214195",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 14:33:00"
+        },
+        {
+          "titulo": "Santilli terminó su primera semana de “peregrinación” federal",
+          "link": "https://www.perfil.com/noticias/politica/santilli-termino-su-primera-semana-de-peregrinacion-federal.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 03:25:44"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "crisis_interna_peronismo_20251116",
+      "tema": "Crisis Interna Peronismo Argentina",
+      "tema_normalizado": "crisis interna peronismo argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El peronismo argentino atraviesa una profunda crisis interna, marcada por la división de sus gobernadores frente al gobierno libertario y la amenaza de rupturas en su bloque de Diputados.\n*   La unidad del movimiento está comprometida debido a las distintas posturas provinciales, que van desde el diálogo y la negociación hasta la oposición férrea.\n*   Esta fragmentación podría significar la pérdida de la primera minoría en la Cámara de Diputados para el peronismo, facilitando el avance de la agenda legislativa oficialista.\n\n🔍 **Datos clave:**\n*   **96 escaños:** Proyectados para el bloque de Unión por la Patria en Diputados, un número que pone en riesgo su liderazgo como primera minoría.\n*   **3 velocidades:** Las diferentes posturas de los gobernadores peronistas (dialoguistas, críticos intermedios y opositores firmes).\n*   **2.253 votos:** La ajustada diferencia con la que el peronismo ganó en La Pampa, mostrando una base electoral débil en algunas provincias.\n*   **Diciembre:** Mes clave para la reconfiguración de bloques en la Cámara de Diputados.\n*   **Osvaldo Jaldo (Tucumán) y Raúl Jalil (Catamarca):** Gobernadores identificados como \"permeables al diálogo\" con el gobierno actual.\n*   **Axel Kicillof (Buenos Aires) y Gildo Insfrán (Formosa):** Representan la \"trinchera\" de oposición sin matices.\n*   **Carlos D'Alessandro:** Diputado que renunció a su banca nacional y se sumará como articulador de un nuevo bloque de provincias.\n\n⚡ **Desarrollo:**\n*   La división surge de la necesidad de los gobernadores de negociar con la Casa Rosada para asegurar fondos provinciales, ante la escasez y deudas pendientes.\n*   Gobernadores como Osvaldo Jaldo y Raúl Jalil han sido los primeros en acercarse al gobierno libertario, buscando margen de autonomía y negociación, incluso con movimientos de sus legisladores.\n*   En la Cámara de Diputados, la alarma se encendió con la salida de Javier Noguera (Tucumán) hacia el Bloque Independencia de Jaldo, y la posible migración de diputados de Catamarca (4) y Santiago del Estero (6).\n*   La Libertad Avanza ha explotado estas divisiones, excluyendo de reuniones clave a los gobernadores de oposición más dura (Kicillof, Insfrán, Quintela, Melella) para ahondar la interna peronista.\n*   Sergio Ziliotto (La Pampa) ejemplifica la postura crítica pero dialoguista, presionado por la situación financiera de su provincia y una victoria electoral muy ajustada.\n*   El \"dogmatismo\" ideológico dentro del peronismo parece estar cediendo ante un pragmatismo enfocado en la gestión provincial y la supervivencia política frente al nuevo escenario nacional.\n\n💡 **¿Por qué importa?**\n*   Esta crisis debilita significativamente la capacidad de articulación del peronismo, fragmentando al principal bloque opositor en un momento crucial.\n*   La posible pérdida de la primera minoría en Diputados otorgaría al gobierno una mayor capacidad para impulsar sus reformas estructurales, sin la misma resistencia legislativa.",
       "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "La pelea de los Moyano: entrampados entre el escándalo y la ofensiva del Gobierno",
-          "link": "https://www.perfil.com/noticias/politica/la-pelea-de-los-moyano-entrampados-entre-el-escandalo-y-la-ofensiva-del-gobierno.phtml",
+          "titulo": "Peronismo en crisis: los gobernadores en tres velocidades distintas y la unidad en peligro",
+          "link": "https://www.perfil.com/noticias/politica/peronismo-en-crisis-los-gobernadores-en-tres-velocidades-distintas-y-la-unidad-en-peligro.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-16 04:32:49"
+          "fecha": "2025-11-16 03:49:51"
         },
         {
-          "titulo": "Radiografía de la crisis en Camioneros: cómo Moyano y Zulet llevaron al borde del colapso a la obra social",
-          "link": "https://www.clarin.com/politica/radiografia-crisis-camioneros-moyano-zulet-llevaron-borde-colapso-obra-social_0_miBcBoPSvG.html",
+          "titulo": "El peronismo bajo alerta por la amenaza de ruptura en Diputados",
+          "link": "https://www.clarin.com/politica/peronismo-alerta-amenaza-ruptura-diputados_0_oZVWQeQbha.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-15 19:53:06"
+          "fecha": "2025-11-15 17:43:48"
         }
       ],
       "categoria_principal": "politica",
@@ -490,60 +468,29 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "fabiola_yanez:_revocacion_20251116",
-      "tema": "Fabiola Yañez: Revocación Residencia España",
-      "tema_normalizado": "fabiola yanez: revocacion residencia espana",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Ministerio de Migraciones de España revocó la autorización de residencia de la ex primera dama argentina Fabiola Yañez, a raíz de un reclamo de su expareja, Alberto Fernández.\n• El expresidente hizo pública la decisión, argumentando \"irregularidades\" en el otorgamiento original del permiso de residencia.\n• La noticia se dio a conocer horas antes de que se emitiera una entrevista grabada de Yañez en el programa de Mirtha Legrand, donde habló de su vida en España.\n\n🔍 **Datos clave:**\n• **Fecha de revocación:** La resolución fue comunicada por Alberto Fernández el 15 de noviembre de 2025, tras un proceso iniciado el 24 de octubre de 2025.\n• **Tipo de residencia:** \"Autorización de residencia inicial para familiares de profesionales altamente cualificados\", concedida también a su hijo Francisco.\n• **Fecha de concesión original:** 19 de febrero de 2025.\n• **Plazo para alegaciones:** 10 días hábiles, los cuales Yañez no utilizó para presentar documentación o argumentos.\n• **Plazo para apelar:** Fabiola Yañez dispone de un mes para recurrir la decisión ante el Gobierno de España.\n• **Actores principales:** Fabiola Yañez (ex primera dama), Alberto Fernández (expresidente y reclamante), Dirección General de Gestión Migratoria de España.\n\n⚡ **Desarrollo:**\n• Alberto Fernández había reclamado \"durante más de un año como padre\" ante las autoridades españolas, señalando supuestas irregularidades en la residencia obtenida por Yañez.\n• La Dirección de Migraciones de España procedió a \"extinguir\" la autorización al no recibir respuesta ni documentación de la exprimera dama dentro del plazo establecido.\n• Yañez había declarado públicamente que tenía residencia hasta 2028, obtenida por sus contratos laborales como \"profesional altamente cualificada\" en un medio como \"OK diario\".\n• La exprimera dama y su hijo Francisco regresaron a Argentina a principios de octubre de 2025 por \"cuestiones familiares de fuerza mayor\" relacionadas con su madre.\n• Esta revocación es un capítulo más en la creciente disputa legal y personal entre Fernández y Yañez, que incluye denuncias de violencia de género y cruces públicos.\n• El permiso inicial se tramitó bajo la categoría de graduados/postgraduados universitarios y de escuelas de negocios, con asistencia del empresario Ramiro Iturralde Ale.\n\n💡 **¿Por qué importa?**\n• La revocación de la residencia intensifica el conflicto entre Alberto Fernández y Fabiola Yañez, añadiendo una nueva dimensión legal a su pública separación.\n• Pone en el centro del debate la legalidad y transparencia de los procedimientos migratorios para personalidades públicas y el uso de recursos legales en disputas personales de alto perfil.",
+      "tema_id": "reforma_laboral_y_20251116",
+      "tema": "Reforma Laboral y Gobernadores",
+      "tema_normalizado": "reforma laboral y gobernadores",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei impulsa acelerar la discusión de una reforma laboral, considerándola prioritaria junto al Presupuesto 2026.\n• Sin embargo, los gobernadores \"dialoguistas\" expresan desconfianza y preocupación por la falta de información sobre los detalles del proyecto.\n• Demandan conocer la \"letra chica\" de la reforma y ser consultados para asegurar cambios efectivos y consensuados.\n\n🔍 **Datos clave:**\n• **Presupuesto 2026:** El Gobierno busca su sanción, el primero en tres años.\n• **18 de enero:** Posible reinicio de sesiones extraordinarias para debatir la reforma laboral.\n• **Febrero:** Mes estimado para su debate y votación en el Congreso.\n• **15 de diciembre:** Fecha posible para que una primera versión oficial se conozca en el Consejo de Mayo.\n• **Gustavo Sáenz:** Gobernador de Salta, pidió una mesa de trabajo para discutir la reforma.\n• **Julio Cordero:** Secretario de Trabajo, aún no abrió el proyecto a consultas, según gobernadores.\n• **Martín Menem:** Titular de Diputados, adelantó que la iniciativa está \"casi terminada\".\n• **Manuel Adorni:** Jefe de Gabinete, confirmó que la reforma no incluirá cambios a la Ley de Empleo Público.\n• **Federico Sturzenegger:** Ministro de Desregulación, propone quitar el aporte sindical, generando debate interno.\n\n⚡ **Desarrollo:**\n• Los gobernadores desconfían de la Casa Rosada, mencionando \"promesas incumplidas\" de gestiones pasadas y la falta de \"rosca y diálogo\".\n• La principal preocupación de los mandatarios es que la reforma carezca de profundidad, buscando solo una \"victoria política\" superficial.\n• Reclaman que ni ellos ni los empresarios provinciales han sido convocados para aportar sobre las necesidades de sus industrias.\n• El presidente Javier Milei insistió en \"acelerar más fuerte\" con los cambios, aunque hay reconocimiento de la necesidad de más diálogo.\n• Sectores gremialistas temen una flexibilización que no genere empleo, mientras algunos empresarios dudan de la profundidad de los cambios.\n• Internamente, el Gobierno debate hasta qué punto confrontar a los sindicatos, con propuestas como la eliminación del aporte sindical aún no saldadas.\n\n💡 **¿Por qué importa?**\n• La reforma laboral es un eje central de la agenda del gobierno y su capacidad para construir consensos legislativos.\n• El contenido y la forma de su implementación impactarán significativamente en el mercado de trabajo, las relaciones laborales y la economía del país.",
       "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Alberto Fernández mostró un documento que prueba que España revocó la autorización de residencia de Fabiola Yañez",
-          "link": "https://www.lanacion.com.ar/politica/alberto-fernandez-mostro-un-documento-que-prueba-que-espana-revoco-la-autorizacion-de-residencia-de-nid16112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 08:21:54"
+          "titulo": "Desconfianza de los aliados: letra chica de la reforma laboral, coparticipación y obra pública",
+          "link": "https://www.perfil.com/noticias/politica/desconfianza-de-los-aliados-letra-chica-de-la-reforma-laboral-coparticipacion-y-obra-publica.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-16 02:22:55"
         },
         {
-          "titulo": "Alberto Fernández anunció que España le revocó la autorización de residencia a Fabiola Yañez",
-          "link": "https://www.clarin.com/politica/alberto-fernandez-anuncio-espana-revoco-autorizacion-residencia-fabiola-yanez_0_7TUmQSrXnD.html",
+          "titulo": "Javier Milei pide acelerar la reforma laboral, pero los gobernadores quieren tener más detalles del proyecto",
+          "link": "https://www.clarin.com/politica/javier-milei-pide-acelerar-reforma-laboral-falta-dialogo-sindicalistas-gobernadores-conocen-letra-chica_0_44q6tHGn1c.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-15 21:30:39"
+          "fecha": "2025-11-15 19:14:55"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "internacional:_protestas_contra_20251116",
-      "tema": "Internacional: Protestas contra Gobierno México",
-      "tema_normalizado": "internacional: protestas contra gobierno mexico",
-      "resumen": "📌 **¿Qué está pasando?**\n• Miles de personas protestaron contra el gobierno de Claudia Sheinbaum en México, culminando en disturbios violentos en el Zócalo de la Ciudad de México.\n• La marcha, convocada por la autodenominada \"Generación Z\", denunció la persistente violencia e inseguridad en el país.\n• Los manifestantes se enfrentaron con la policía tras derribar vallas que protegían el Palacio Nacional, resultando en al menos 20 heridos.\n\n🔍 **Datos clave:**\n• **20 heridos:** Número de personas atendidas por paramédicos durante los disturbios en el Zócalo capitalino.\n• **1 de noviembre:** Fecha del asesinato de Carlos Manzo, alcalde de Uruapan, Michoacán, un caso emblemático para los manifestantes.\n• **\"Generación Z\" México:** Grupo que convocó la protesta a través de redes sociales, aunque la movilización incluyó a diversas generaciones.\n• **Palacio Nacional:** Sede del Poder Ejecutivo, donde ocurrieron los incidentes más violentos al ser derribadas las vallas de seguridad.\n• **Claudia Sheinbaum:** Presidenta de México, quien fue el objetivo de las críticas y las protestas.\n• **Ángel de la Independencia:** Punto de partida de la marcha pacífica en la Ciudad de México.\n\n⚡ **Desarrollo:**\n• La protesta inició pacíficamente desde el Ángel de la Independencia, pero al llegar al Zócalo, un \"bloque negro\" de manifestantes usó martillos y piedras para derribar las vallas que resguardaban el Palacio Nacional.\n• La policía capitalina respondió lanzando gases lacrimógenos para contener a los manifestantes, quienes a su vez arrojaron proyectiles contra los agentes.\n• Los principales motivos de la movilización fueron la creciente inseguridad y la violencia, con un llamado a \"no olvidar\" a las víctimas en el país.\n• El asesinato del alcalde Carlos Manzo en Uruapan, Michoacán, fue un punto central de la protesta, con pancartas que le rendían homenaje.\n• La presidenta Sheinbaum vinculó a los organizadores de la marcha con la oposición y sugirió que la protesta fue \"inorgánica\", \"pagada\" y \"promovida incluso desde el extranjero\", condenando la violencia de los \"enchapuchados\".\n• A pesar de ser convocada por la \"Generación Z\", la marcha atrajo a un amplio espectro de ciudadanos, incluyendo estudiantes, campesinos, miembros de la oposición y personas afectadas directamente por la violencia en estados como Michoacán.\n• Además de la Ciudad de México, se registraron protestas similares en otras ciudades importantes del país como Guadalajara y Toluca.\n\n💡 **¿Por qué importa?**\n• Estas protestas evidencian un creciente descontento social en México por la inseguridad y la violencia, presentando un desafío temprano para el nuevo gobierno de Claudia Sheinbaum.\n• La reacción del gobierno de vincular las manifestaciones a la oposición y cuestionar su legitimidad, subraya la polarización política en torno a la expresión del descontento ciudadano en el país.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Violencia y choques con la Policía en la protesta de la \"Generación Z\" contra el gobierno de Sheinbaum en México",
-          "link": "https://www.clarin.com/mundo/violencia-choques-policia-protesta-generacion-z-gobierno-sheinbaum-mexico_0_hcPsDo63Gb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 20:42:35"
-        },
-        {
-          "titulo": "Violentas protestas en México contra la presidenta Claudia Sheinbaum: las imágenes",
-          "link": "https://www.minutouno.com/mundo/violentas-protestas-mexico-contra-la-presidenta-claudia-sheinbaum-las-imagenes-n6214280",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 19:42:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Minuto1",
+        "Perfil",
         "Clarín"
       ],
       "es_tema_nuevo": true,
