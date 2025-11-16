@@ -1,40 +1,92 @@
 {
   "fecha": "2025-11-16",
-  "fecha_generacion": "2025-11-16T06:26:11.433907",
+  "fecha_generacion": "2025-11-16T09:20:17.149500",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "reforma_laboral_de_20251116",
-      "tema": "Reforma Laboral de Milei",
-      "tema_normalizado": "reforma laboral de milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei busca acelerar la aprobación de una reforma laboral, considerándola una prioridad.\n• Sin embargo, hay desconfianza y falta de información sobre los detalles del proyecto entre gobernadores, empresarios y la CGT.\n• Estos actores piden conocer la \"letra chica\" y temen que la reforma sea superficial o incompatible con derechos laborales y acuerdos internacionales.\n\n🔍 **Datos clave:**\n• **Javier Milei:** Presidente, impulsor principal de la reforma.\n• **CGT:** Central General del Trabajo, principal actor de oposición.\n• **DNU 70/23:** Decreto de Necesidad y Urgencia, base de varias propuestas rechazadas judicialmente.\n• **Consejo de Mayo:** Mesa multisectorial donde se debate el proyecto.\n• **10 propuestas:** Cantidad mínima de puntos conflictivos para la CGT.\n• **18 de enero:** Fecha estimada de envío del proyecto al Congreso.\n• **Ultractividad:** Principio clave de los convenios colectivos, su limitación es un punto central de la reforma.\n\n⚡ **Desarrollo:**\n• La reforma laboral es una prioridad para el gobierno de Javier Milei, quien busca \"acelerar más fuerte\" su aprobación para enero/febrero.\n• Gobernadores y empresarios expresan desconfianza por la falta de información y conocimiento de la \"letra chica\" del proyecto, pidiendo diálogo y una mesa de trabajo.\n• La CGT, liderada por Gerardo Martínez (UOCRA), rechaza \"contundente y categóricamente\" las propuestas inspiradas en el DNU 70/23.\n• Entre las propuestas más controvertidas se incluye la limitación de la ultractividad de los convenios colectivos, manteniendo solo cláusulas normativas y haciendo caer las obligacionales.\n• Otro punto clave que genera fricción es dar prioridad a los convenios por empresa sobre los sectoriales.\n• La falta de consulta genera quejas, ya que se pide acompañamiento sin dar detalles, incluso dentro del propio gobierno no todos conocen el alcance del proyecto.\n• Existe el temor entre empresarios de que los cambios sean superficiales y entre gremialistas de una flexibilización excesiva que no genere empleo.\n• La CGT menciona que el acuerdo con Estados Unidos implica respetar derechos laborales internacionales, lo que podría generar conflictos con ciertos artículos de la reforma.\n• Manuel Adorni, jefe de Gabinete, confirmó que la reforma no incluirá cambios a la Ley de Empleo Público.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca modificar aspectos fundamentales del mercado de trabajo argentino, con potencial impacto en la empleabilidad, los costos laborales y la relación entre empleadores y empleados.\n• Su aprobación es clave para el gobierno de Milei, pero enfrenta una fuerte oposición de sindicatos y dudas de actores políticos y económicos, anticipando un intenso debate y posible conflicto.",
-      "cantidad_noticias": 3,
+      "tema_id": "dolar_y_politica_20251116",
+      "tema": "Dólar y política cambiaria Argentina",
+      "tema_normalizado": "dolar y politica cambiaria argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino mantiene una política de bandas cambiarias para regular el valor del dólar, lo que ha contribuido a una relativa estabilidad en el mercado de divisas.\n• Esta calma se ve impulsada por acuerdos internacionales y una significativa entrada de capitales, aunque persisten debates sobre la sostenibilidad del esquema frente a la inflación.\n• La brecha entre los diferentes tipos de dólar sigue siendo un punto de atención, con el mercado analizando la necesidad de ajustes futuros.\n\n🔍 **Datos clave:**\n• **Dólar Blue (16 Nov 2025):** Compra $1410 / Venta $1430.\n• **Dólar Oficial (Banco Nación, 16 Nov 2025):** Compra $1375 / Venta $1425.\n• **Brecha Dólar Blue vs. Oficial:** Aproximadamente 3%.\n• **Dólar Tarjeta (15 Nov 2025):** $1852,50, incluyendo un 60% de impuestos (30% Impuesto País + 30% Ganancias).\n• **Crecimiento Mensual del Techo de la Banda Cambiaria:** 1%.\n• **Inflación Mensual (Octubre 2025):** 2,3%.\n• **Ingreso de Capitales (primeros 15 días de Nov 2025):** u$s2.900 millones por emisiones de deuda corporativa.\n• **Riesgo País (14 Nov 2025):** 619 puntos básicos.\n• **Reservas Brutas Internacionales (15 Nov 2025):** u$s40.636 millones.\n\n⚡ **Desarrollo:**\n• El gobierno sostiene un sistema de bandas cambiarias con un techo que crece al 1% mensual, pero la inflación (2,3% en octubre) lo supera, generando debate sobre un posible \"atraso cambiario\".\n• Economistas como Hernán Lacunza y Joaquín Cottani sugieren que las bandas operan como un \"crawling peg\" (ajuste lento preestablecido) y cuestionan el uso de reservas (mayormente bancarias) para intervenciones, calificándolo de \"jugar con fuego\".\n• La actual calma cambiaria se debe a un \"despeje del horizonte político\" post-electoral y a un fuerte ingreso de capitales, incluyendo emisiones de deuda corporativa y acuerdos como el swap con EE.UU.\n• Estos flujos han evitado que el Banco Central o el Tesoro necesiten intervenir activamente en el mercado, manteniendo el dólar spot por debajo del techo de la banda.\n• Joaquín Cottani, ex-funcionario, aboga por que el mercado fije el tipo de cambio, lo que, según él, permitiría aumentar las reservas, mientras el FMI enfatiza la importancia de fortalecerlas.\n• El dólar blue y el dólar tarjeta, con sus propias cotizaciones y el último con un 60% de impuestos, reflejan las distintas realidades y restricciones del mercado cambiario.\n\n💡 **¿Por qué importa?**\n• La gestión del dólar y la política cambiaria son fundamentales para la estabilidad económica de Argentina, influyendo directamente en la inflación, la inversión y el crecimiento del país.\n• La capacidad del gobierno para sostener la calma cambiaria y acumular reservas definirá la confianza del mercado y el éxito de las políticas económicas a mediano plazo.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "Desconfianza de los aliados: letra chica de la reforma laboral, coparticipación y obra pública",
-          "link": "https://www.perfil.com/noticias/politica/desconfianza-de-los-aliados-letra-chica-de-la-reforma-laboral-coparticipacion-y-obra-publica.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-16 02:22:55"
-        },
-        {
-          "titulo": "Cuáles son las 10 propuestas de la reforma laboral de Milei que desatarán la guerra con la CGT",
-          "link": "https://www.infobae.com/politica/2025/11/16/cuales-son-las-10-propuestas-de-la-reforma-laboral-de-milei-que-desataran-la-guerra-con-la-cgt/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 01:46:15"
-        },
-        {
-          "titulo": "Javier Milei pide acelerar la reforma laboral, pero los gobernadores quieren tener más detalles del proyecto",
-          "link": "https://www.clarin.com/politica/javier-milei-pide-acelerar-reforma-laboral-falta-dialogo-sindicalistas-gobernadores-conocen-letra-chica_0_44q6tHGn1c.html",
+          "titulo": "Dólar blue hoy: a cuánto cotiza este domingo 16 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-16-noviembre_0_oZuFxVc80I.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-15 19:14:55"
+          "fecha": "2025-11-16 04:00:01"
+        },
+        {
+          "titulo": "Cuáles son los riesgos que afronta el Gobierno por seguir sosteniendo las bandas cambiarias para contener el dólar",
+          "link": "https://www.infobae.com/economia/2025/11/16/cuales-son-los-riesgos-que-afronta-el-gobierno-por-seguir-sosteniendo-las-bandas-cambiarias-para-contener-el-dolar/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 01:52:06"
+        },
+        {
+          "titulo": "El mercado empieza a creer en la continuidad de las bandas",
+          "link": "https://www.lanacion.com.ar/economia/el-mercado-empieza-a-creer-en-la-continuidad-de-las-bandas-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 00:01:00"
+        },
+        {
+          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 17 de noviembre",
+          "link": "https://www.iprofesional.com/economia/441985-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-lunes-17-de-noviembre",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-15 20:20:00"
+        },
+        {
+          "titulo": "Joaquín Cottani, exvice de Luis Caputo: \"Es el momento de dejar que el mercado, y no el Gobierno, sea el que determine el tipo de cambio\".",
+          "link": "https://www.ambito.com/economia/joaquin-cottani-exvice-luis-caputo-es-el-momento-dejar-que-el-mercado-y-no-el-gobierno-sea-el-que-determine-el-tipo-cambio-n6214267",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 18:29:00"
+        },
+        {
+          "titulo": "Lo que viene: nuevo piso para el dólar y oportunidad de inversión en bonos por riesgo país en caída",
+          "link": "https://www.iprofesional.com/finanzas/441927-guru-de-la-city-preve-que-nuevo-piso-del-dolar-sera-de",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-15 07:38:00"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-15-noviembre_0_evqCD1CeIb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 07:08:01"
+        },
+        {
+          "titulo": "Melconian: “El dólar entre $ 1.500 y $ 2.000 se la banca”",
+          "link": "https://www.perfil.com/noticias/economia/melconian-el-dolar-entre-1500-y-2000-se-la-banca.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 03:44:58"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este sábado 15 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-noviembre-n6214146",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este sábado 15 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-15-noviembre-n6214144",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este sábado 15 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-sabado-15-noviembre-n6214058",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 00:00:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
+        "La Nación",
+        "Minuto1",
         "Perfil",
-        "Infobae",
-        "Clarín"
+        "Ámbito Financiero",
+        "Clarín",
+        "iProfesional",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -42,10 +94,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "caso_cecilia_sena:_20251116",
-      "tema": "Caso Cecilia Sena: Condena y Repercusiones",
-      "tema_normalizado": "caso cecilia sena: condena y repercusiones",
-      "resumen": "📌 **¿Qué está pasando?**\n• Un jurado popular en Chaco declaró culpables a los principales miembros del \"Clan Sena\" por el brutal femicidio de Cecilia Strzyzowski, un caso que conmocionó a la provincia y al país desde 2023.\n• César Sena fue condenado como autor material del homicidio doblemente agravado, mientras que sus padres, Emerenciano Sena y Marcela Acuña, fueron hallados partícipes primarios del mismo crimen.\n• La lectura del veredicto, el pasado sábado, desató un fuerte desahogo popular en Resistencia, con festejos y un clamor de justicia que resonó en las calles.\n\n🔍 **Datos clave:**\n• **Fecha del veredicto:** Sábado, pasadas las 15 horas, tras más de un día de deliberación.\n• **Condenados a prisión perpetua (principales):** César Sena (pareja de Cecilia), Emerenciano Sena (líder social) y Marcela Acuña (política y pareja de Emerenciano).\n• **Otros condenados:** José Gustavo Obregón y Fabiana González (encubrimiento agravado), Gustavo Melgarejo (encubrimiento simple).\n• **Única absuelta:** Griselda Lucía Reinoso, declarada \"no culpable\" por unanimidad y liberada de inmediato.\n• **Jueza técnica:** Dolly Fernández, quien encabezó el proceso judicial.\n\n⚡ **Desarrollo:**\n• El femicidio de Cecilia Strzyzowski, ocurrido en 2023, se convirtió en un punto de inflexión, al exponer cómo una familia con fuerte poder y vínculos políticos operaba en la provincia.\n• Los Sena, conocidos por su influencia y movimientos sociales, tenían estrecha relación con el exgobernador Jorge Capitanich; Emerenciano era precandidato a diputado y Marcela a intendenta de Resistencia.\n• La investigación reveló que la brutalidad del crimen incluyó el asesinato y la quema del cuerpo de Cecilia, con el clan creyendo que la \"protección política\" los salvaría de la justicia.\n• La ministra de Seguridad, Patricia Bullrich, celebró la condena y cuestionó la estructura \"feudal\" de los Sena, apuntando también al \"silencio de cierto feminismo\" que, según ella, ignoró el caso.\n• El presidente Javier Milei y otros funcionarios de La Libertad Avanza utilizaron el fallo para cuestionar al kirchnerismo, bajo la consigna \"Kirchnerismo o justicia\", sugiriendo que la condena solo fue posible sin ese poder.\n• Aunque el jurado popular ya emitió su fallo de culpabilidad, la jueza técnica Dolly Fernández convocará a una audiencia de cesura en los próximos días para determinar oficialmente las penas para cada condenado.\n\n💡 **¿Por qué importa?**\n• Este caso visibilizó la profunda vinculación entre el poder político y el crimen organizado, generando un masivo reclamo social por justicia y transparencia, especialmente en la provincia de Chaco.\n• La condena del \"Clan Sena\" sienta un precedente crucial en la lucha contra la violencia de género y la impunidad, reafirmando la importancia de la justicia popular en casos de alto impacto social.",
+      "tema_id": "femicidio_cecilia_strzyzowski_20251116",
+      "tema": "Femicidio Cecilia Strzyzowski y Clan Sena",
+      "tema_normalizado": "femicidio cecilia strzyzowski y clan sena",
+      "resumen": "📌 **¿Qué está pasando?**\n• El 1 de junio de 2024, un jurado popular dictó sentencia por el femicidio de Cecilia Strzyzowski, un caso de alto impacto en Argentina.\n• César Sena fue hallado culpable como autor material, mientras que sus padres, Marcela Acuña y Emerenciano Sena, fueron condenados como partícipes primarios.\n• Los tres principales acusados recibieron la pena de prisión perpetua, cerrando una causa que generó un masivo reclamo de justicia en Chaco.\n\n🔍 **Datos clave:**\n• **Víctima:** Cecilia Strzyzowski, de 28 años.\n• **Condenados a perpetua:** César Sena, Marcela Acuña, y Emerenciano Sena.\n• **Otros condenados:** José Gustavo Obregón y Fabiana González (encubrimiento agravado); Gustavo Melgarejo (encubrimiento simple).\n• **Absuelta:** Griselda Lucía Reinoso.\n• **Lugar del crimen:** Resistencia, Chaco, Argentina.\n• **Fecha del veredicto:** 1 de junio de 2024.\n• **Jueza técnica:** Dolly Fernández.\n\n⚡ **Desarrollo:**\n• El femicidio de Cecilia, ocurrido en junio de 2023, provocó numerosas marchas en Chaco, donde el color rosa se convirtió en símbolo de su búsqueda y el pedido de justicia.\n• La familia Sena gozaba de gran poder político en la provincia, con Emerenciano y Marcela postulándose a cargos y vinculados al entonces gobernador Jorge Capitanich.\n• La investigación reveló que Cecilia fue asesinada y su cuerpo quemado durante horas en un intento de desaparecer la evidencia.\n• El jurado popular deliberó por más de un día antes de emitir su veredicto de culpabilidad unánime contra César Sena por homicidio agravado por el vínculo y violencia de género.\n• Marcela Acuña y Emerenciano Sena fueron declarados partícipes primarios del mismo delito, ratificando su rol en la trama criminal.\n• La ministra de Seguridad, Patricia Bullrich, celebró la condena, calificando a los Sena de \"feudales\" y criticando el \"silencio de cierto feminismo\".\n• Funcionarios del gobierno de Javier Milei, incluyendo al propio Presidente, reaccionaron asociando el caso a la necesidad de \"justicia\" y cuestionando la \"protección política\" que habría tenido el clan en el pasado.\n\n💡 **¿Por qué importa?**\n• Este fallo judicial es un hito en la lucha contra los femicidios, especialmente cuando involucran redes de poder y posibles encubrimientos políticos.\n• Resalta la fuerza de la movilización social y la exigencia ciudadana como motores indispensables para lograr que se haga justicia y prevenir la impunidad.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -76,10 +128,86 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Perfil",
+        "La Nación",
         "Minuto1",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reformas_economicas_milei_20251116",
+      "tema": "Reformas económicas Milei y debates",
+      "tema_normalizado": "reformas economicas milei y debates",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Argentina de Javier Milei experimenta un cambio de clima de \"decepción a euforia\" en los mercados tras las elecciones del 26 de octubre, impulsando la agenda de reformas económicas.\n• El gobierno busca avanzar en una \"segunda fase\" de reformas estructurales post-estabilización, aunque la economía real y el consumo muestran signos de debilidad.\n• La baja del riesgo país y la recuperación de activos financieros contrastan con la persistencia de la inflación y las preocupaciones sobre las reservas del Banco Central.\n\n🔍 **Datos clave:**\n• **Elecciones:** 26 de octubre, respaldo del 40.7% de los votos para el oficialismo.\n• **Inflación (octubre):** 2.3% mensual, 31.3% interanual (Indec), acelerándose por 3er mes.\n• **Riesgo País:** Bajó a la zona de 600 puntos básicos post-elección.\n• **Reservas Netas BCRA:** Negativas en aproximadamente US$11.000 millones.\n• **Caída consumo (octubre):** -9.5% interanual en ventas minoristas.\n• **Presupuesto 2026:** El FMI solicita un superávit primario del 2.2% del PBI.\n\n⚡ **Desarrollo:**\n• El resultado electoral del 26 de octubre de 2025 es un punto de inflexión político que otorga al gobierno un mayor respaldo para sus reformas iniciadas en diciembre de 2023.\n• Luis Caputo, Ministro de Economía, anticipa una acumulación significativa de reservas y un \"boom de crecimiento\", mientras empresas como Tecpetrol, YPF y Pampa Energía ya emitieron deuda externa.\n• Esteban Domecq (Invecq Consultora) advierte que, si bien el frente financiero está despejado, la economía real sigue \"anémica\" y las reformas profundas son cruciales para no perder la oportunidad.\n• La Unión Industrial Argentina (UIA), a través de Paolo Rocca (Techint), demanda una \"segunda etapa\" que incluya infraestructura, inserción internacional y una política industrial, preocupada por el aumento de importaciones chinas.\n• Ramiro Castiñeira (Econométrica) predice una inflación de un dígito anual al final del mandato de Milei, defendiendo un esquema de bandas cambiarias como puente hacia la liberalización.\n• El Fondo Monetario Internacional (FMI) insiste en la necesidad de reforzar las reservas, mientras que datos del INDEC muestran caídas en la actividad industrial (4.1% sept vs dic 2024) y el comercio.\n• La \"desinflación desordenada\" se evidencia en precios específicos, como alquileres (87.3%), educación privada (46%) y prepagas (36.1%), que suben muy por encima del índice general.\n• El gobierno planea aprovechar la remonetización económica para comprar hasta US$20.000 millones en reservas y/o reducir deuda, e impulsar reformas laboral, impositiva y la adhesión provincial a la transparencia fiscal.\n\n💡 **¿Por qué importa?**\n• El sólido respaldo electoral brinda al gobierno la gobernabilidad necesaria para impulsar reformas estructurales clave, pero el desafío es traducir la estabilización financiera en una recuperación de la economía real y un control efectivo de la inflación.\n• La capacidad de Argentina para atraer inversiones, acceder a mercados de crédito y acumular reservas dependerá de la implementación exitosa de estas reformas y del apoyo internacional, en un contexto donde América Latina podría experimentar un \"rally de commodities\" en 2026.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "De la decepción a la euforia. La Argentina de Milei entra en la fase de aceleración",
+          "link": "https://www.lanacion.com.ar/economia/de-la-decepcion-a-la-euforia-la-argentina-de-milei-entra-en-la-fase-de-aceleracion-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 06:00:01"
+        },
+        {
+          "titulo": "Esteban Domecq, de Invecq Consultora: “Sin reformas profundas, la oportunidad argentina se puede perder”",
+          "link": "https://www.infobae.com/economia/2025/11/16/esteban-domecq-de-invecq-consultora-sin-reformas-profundas-la-oportunidad-argentina-se-puede-perder/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 01:52:59"
+        },
+        {
+          "titulo": "Ramiro Castiñeira: “La inflación llegará a un dígito anual al final del mandato de Javier Milei”",
+          "link": "https://www.ambito.com/economia/ramiro-castineira-la-inflacion-llegara-un-digito-anual-al-final-del-mandato-javier-milei-n6214289",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 00:03:00"
+        },
+        {
+          "titulo": "UIA pide una \"segunda etapa\" a Javier Milei y crece preocupación por el insólito destino de los dólares de Scott Bessent",
+          "link": "https://www.ambito.com/economia/uia-pide-una-segunda-etapa-javier-milei-y-crece-preocupacion-el-insolito-destino-los-dolares-scott-bessent-n6214210",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 00:03:00"
+        },
+        {
+          "titulo": "Un test para el Gobierno y para la voluntad reformista de la oposición moderada",
+          "link": "https://www.lanacion.com.ar/economia/un-test-para-el-gobierno-y-para-la-voluntad-reformista-de-la-oposicion-moderada-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 00:01:00"
+        },
+        {
+          "titulo": "Inflación y malestar socioeconómico: qué dicen las últimas encuestas",
+          "link": "https://www.perfil.com/noticias/cordoba/inflacion-y-malestar-socioeconomico-que-dicen-las-ultimas-encuestas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 22:51:00"
+        },
+        {
+          "titulo": "La Casa Rosada quiere pedirle a las provincias que adhieran a la transparencia fiscal",
+          "link": "https://www.lanacion.com.ar/economia/la-casa-rosada-quiere-pedirle-a-las-provincias-que-adhieran-a-la-transparencia-fiscal-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-15 20:16:46"
+        },
+        {
+          "titulo": "Entre reservas bajo presión y una desinflación desordenada",
+          "link": "https://www.clarin.com/economia/reservas-presion-desinflacion-desordenada_0_1onkBJyC7j.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 12:10:56"
+        },
+        {
+          "titulo": "Bueno para la Argentina: aseguran que América Latina podría experimentar un \"rally de commodities\" en 2026",
+          "link": "https://www.ambito.com/economia/bueno-la-argentina-aseguran-que-america-latina-podria-experimentar-un-rally-commodities-2026-n6213554",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 00:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "La Nación",
+        "Perfil",
+        "Ámbito Financiero",
         "Clarín",
-        "La Nación"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -88,22 +216,22 @@
     },
     {
       "tema_id": "elecciones_presidenciales_en_20251116",
-      "tema": "Elecciones Presidenciales en Chile",
+      "tema": "Elecciones presidenciales en Chile",
       "tema_normalizado": "elecciones presidenciales en chile",
-      "resumen": "📌 **¿Qué está pasando?**\n• Chile se prepara para unas elecciones presidenciales y parlamentarias altamente significativas.\n• El país elegirá a su próximo presidente, renovará la totalidad de la Cámara de Diputados y parte del Senado.\n• Este proceso ocurre en un contexto de voto obligatorio, una alta polarización y un previsible giro a la derecha en el panorama político.\n\n🔍 **Datos clave:**\n• Fecha de votación: 16 de noviembre (primera vuelta), 14 de diciembre (posible balotaje).\n• Votantes habilitados: Cerca de 15.770.000 chilenos.\n• Cargos a elegir: Presidente, 155 diputados y 23 de los 50 senadores.\n• Candidatos presidenciales clave: Jeannette Jara (oficialista, 29% en encuestas), José Antonio Kast (derecha, 22%), Johannes Kaiser (ultraderecha, 18%) y Evelyn Matthei (centroderecha, 14%).\n\n⚡ **Desarrollo:**\n• Es la primera elección presidencial con voto obligatorio desde 2012, incorporando entre 5 y 6 millones de nuevos votantes, a menudo menos ideologizados.\n• El descontento ciudadano, inicialmente por demandas sociales, ha evolucionado hacia una fuerte preocupación por la seguridad, el crimen transnacional y la inmigración, desplazando otros temas.\n• La aprobación del presidente Gabriel Boric oscila entre 23% y 35%, lo que impacta negativamente a la candidata oficialista, Jeannette Jara.\n• Las encuestas previas anticipan un balotaje y un triunfo de la derecha o ultraderecha, con Jara liderando la primera vuelta pero con desventaja en una segunda.\n• Se proyecta un Congreso dominado por el conservadurismo y la ultraderecha, lo que podría dificultar la gobernabilidad y permitir reformas constitucionales si alcanzan los 4/7 de los escaños.\n• La fragmentación política y la indisciplina partidaria actual en el Congreso ya dificultaron la agenda del gobierno de Boric.\n• La campaña se vio afectada por la veda de encuestas y la proliferación de sondeos falsos y noticias dudosas en redes sociales.\n• La unión de las tres derechas es un factor clave, con el potencial de dejar a la candidata oficialista fuera de la segunda vuelta o asegurarles el triunfo.\n\n💡 **¿Por qué importa?**\n• Estas elecciones son cruciales para definir el futuro equilibrio de poder y la dirección política de Chile para los próximos años.\n• Marcan un posible giro radical en la agenda del país, priorizando el orden y la seguridad frente a las demandas sociales y progresistas previas.",
+      "resumen": "📌 **¿Qué está pasando?**\n• Chile celebra elecciones presidenciales y parlamentarias en un contexto de alta polarización, incertidumbre y descontento con el gobierno actual.\n• El voto es obligatorio, lo que ha generado un padrón electoral masivo con millones de nuevos votantes, haciendo impredecibles los resultados.\n• Se prevé un giro hacia la derecha en la dirección política del país, con una segunda vuelta casi segura entre la candidata oficialista y una opción opositora de derecha o ultraderecha.\n\n🔍 **Datos clave:**\n• **Fecha de la elección:** Este domingo (se refieren al 16 de noviembre en los artículos).\n• **Fecha posible balotaje:** 14 de diciembre.\n• **Voto:** Obligatorio, por primera vez en una presidencial desde 1990.\n• **Padrón electoral:** Cerca de 15.770.000 chilenos habilitados para votar.\n• **Desaprobación presidencial (Boric):** 62% en octubre, según Cadem.\n• **Candidatos presidenciales:** 8 en total, destacando Jeannette Jara (oficialista), José Antonio Kast (Partido Republicano), Johannes Kaiser (Partido Nacional Libertario) y Evelyn Matthei (Chile Vamos).\n• **Multa por no votar:** Entre USD 38 y USD 113.\n\n⚡ **Desarrollo:**\n• El ambiente electoral está marcado por una profunda crisis de inseguridad, el combate al crimen organizado, la inmigración descontrolada y el descontento generalizado con la gestión del presidente Gabriel Boric.\n• El regreso del voto obligatorio ha incorporado entre 5 y 6 millones de nuevos votantes que son descritos como menos ideologizados, más pragmáticos y desconfiados del sistema político.\n• La candidata oficialista, Jeannette Jara (PC), lidera las encuestas en primera vuelta, pero las proyecciones indican que perdería en una eventual segunda vuelta contra Kast, Kaiser o Matthei.\n• La seguridad se ha convertido en el eje central de la campaña, con propuestas que van desde la modernización policial hasta la construcción de nuevas cárceles y deportaciones masivas.\n• El gobierno de Boric, que asumió con un programa progresista, ha visto caer su aprobación al no lograr responder eficazmente a las nuevas prioridades ciudadanas como la seguridad.\n• La veda de encuestas ha fomentado la circulación de sondeos extraoficiales y noticias falsas en redes sociales, generando mayor confusión sobre los posibles resultados.\n\n💡 **¿Por qué importa?**\n• Estas elecciones podrían significar un cambio radical en el rumbo político y social de Chile, inclinándose hacia un mayor énfasis en el orden y la seguridad.\n• La masiva participación del voto obligatorio reflejará un estado de ánimo social amplio y no solo partidista, reconfigurando el panorama político del país.",
       "cantidad_noticias": 7,
       "noticias": [
         {
-          "titulo": "Chile renueva el Parlamento en las elecciones presidenciales: hay 178 bancas en juego y más de mil candidatos",
-          "link": "https://www.infobae.com/america/america-latina/2025/11/16/chile-renueva-el-parlamento-en-las-elecciones-presidenciales-hay-178-bancas-en-juego-y-mas-de-mil-candidatos/",
+          "titulo": "Chile celebra unas elecciones marcadas por la polarización, la inseguridad y un alto descontento a la gestión de Boric",
+          "link": "https://www.infobae.com/america/america-latina/2025/11/16/chile-celebra-unas-elecciones-marcadas-por-la-polarizacion-la-inseguridad-y-un-alto-descontento-a-la-gestion-de-boric/",
           "fuente": "Infobae",
-          "fecha": "2025-11-16 01:06:38"
+          "fecha": "2025-11-16 05:00:56"
         },
         {
           "titulo": "La inseguridad, el voto obligatorio y un electorado desconocido, los factores que pueden alterar todos los pronósticos",
           "link": "https://www.lanacion.com.ar/el-mundo/la-inseguridad-el-voto-obligatorio-y-un-electorado-desconocido-factores-que-pueden-alterar-los-nid15112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-16 00:05:00"
+          "fecha": "2025-11-16 03:47:53"
         },
         {
           "titulo": "Chile elige nuevo presidente: quiénes son los candidatos para suceder a Gabriel Boric",
@@ -139,68 +267,11 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Infobae",
-        "Clarín",
         "La Nación",
-        "Ámbito Financiero",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "protestas_generacion_z_20251116",
-      "tema": "Protestas Generación Z en México",
-      "tema_normalizado": "protestas generacion z en mexico",
-      "resumen": "📌 **¿Qué está pasando?**\n• El 15 de noviembre, miles de personas en México, inicialmente convocadas por la \"Generación Z\", marcharon para protestar contra la inseguridad y la violencia, criticando al gobierno de Claudia Sheinbaum.\n• Aunque la manifestación fue planeada como pacífica, en la Ciudad de México un grupo conocido como \"Bloque Negro\" generó disturbios y enfrentamientos violentos con la policía en el Zócalo.\n• La movilización se replicó en varios estados del país, evidenciando un extendido descontento social.\n\n🔍 **Datos clave:**\n• **Fecha de la marcha:** 15 de noviembre.\n• **Asesinato catalizador:** Carlos Manzo, alcalde de Uruapan, Michoacán, asesinado el 1 de noviembre.\n• **Financiamiento acusado:** 90 millones de pesos supuestamente invertidos en redes sociales para la promoción de la movilización.\n• **Heridos en CDMX:** Aproximadamente 20 personas sufrieron golpes durante los disturbios.\n• **Duración en el Zócalo:** La confrontación principal frente a Palacio Nacional duró poco más de 5 horas.\n\n⚡ **Desarrollo:**\n• La convocatoria, difundida en redes sociales, aunque iniciada por la \"Generación Z\", atrajo a un público diverso de distintas edades, incluyendo estudiantes, campesinos, y simpatizantes de la oposición.\n• Las principales demandas de los manifestantes fueron un alto a la violencia y mayor seguridad y justicia, usando el caso del alcalde Carlos Manzo como un fuerte símbolo del problema nacional.\n• En la capital, el \"Bloque Negro\" derribó entre 10 y 12 vallas de protección alrededor del Palacio Nacional y rompió vidrios, lo que llevó a la policía a responder con extintores y gases lacrimógenos para dispersar.\n• La presidenta Claudia Sheinbaum condenó los actos de violencia y acusó a grupos de la derecha, incluyendo al PRI y PAN, de organizar y financiar la marcha con cuentas no genuinas, algunas manejadas desde el extranjero.\n• Sheinbaum también señaló una \"poca presencia de jóvenes\" en la movilización; sin embargo, los manifestantes afirmaron no ser \"bots\" y que su protesta era apartidista.\n• Marchas similares, aunque de menor escala, se realizaron en ciudades como Guadalajara, Monterrey, Mérida, Puebla, León, Celaya, Irapuato, Veracruz y Toluca.\n\n💡 **¿Por qué importa?**\n• La protesta pone de manifiesto un profundo malestar social y la preocupación persistente por la inseguridad y la violencia en México, que sigue siendo un desafío importante a pesar de los cambios gubernamentales.\n• El evento resalta la polarización política del país, con el gobierno acusando manipulación y la oposición utilizando las redes sociales como herramienta de convocatoria, generando un debate sobre la legitimidad y financiamiento de los movimientos sociales.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Sheinbaum condena agresiones en la marcha de la Gen Z: “Había pocos jóvenes, nunca hay que usar la violencia para cambiar”",
-          "link": "https://www.infobae.com/mexico/2025/11/15/claudia-sheinbaum-reacciona-a-la-violencia-en-la-marcha-de-la-gen-z-habia-pocos-jovenes/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 00:34:20"
-        },
-        {
-          "titulo": "Marcha de la Gen Z se replica en todo el país, piden seguridad y justicia",
-          "link": "https://www.infobae.com/mexico/2025/11/16/marcha-de-la-gen-z-se-replica-en-todo-el-pais-piden-seguridad-y-justicia/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 00:31:21"
-        },
-        {
-          "titulo": "Tras graves disturbios en la marcha de la Gen Z en CDMX, policías dispersaron a los manifestantes en el Zócalo",
-          "link": "https://www.infobae.com/mexico/2025/11/15/manifestacion-de-la-gen-z-en-la-cdmx/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 00:25:39"
-        },
-        {
-          "titulo": "Violencia y choques con la Policía en la protesta de la \"Generación Z\" contra el gobierno de Sheinbaum en México",
-          "link": "https://www.clarin.com/mundo/violencia-choques-policia-protesta-generacion-z-gobierno-sheinbaum-mexico_0_hcPsDo63Gb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 20:42:35"
-        },
-        {
-          "titulo": "Una marcha de la Generación Z en México se vuelve una violenta protesta contra Sheinbaum",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-marcha-de-la-generacion-z-en-mexico-se-vuelve-una-violenta-protesta-contra-sheinbaum-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 20:23:13"
-        },
-        {
-          "titulo": "Violentas protestas en México contra la presidenta Claudia Sheinbaum: las imágenes",
-          "link": "https://www.minutouno.com/mundo/violentas-protestas-mexico-contra-la-presidenta-claudia-sheinbaum-las-imagenes-n6214280",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-15 19:42:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Infobae",
         "Minuto1",
+        "Ámbito Financiero",
         "Clarín",
-        "La Nación"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -208,171 +279,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cotizacion_del_dolar_20251116",
-      "tema": "Cotización del Dólar en Argentina",
-      "tema_normalizado": "cotizacion del dolar en argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El dólar en Argentina experimenta un período de relativa calma, manteniéndose \"planchado\" tras las elecciones y con una cotización estable por debajo de los valores máximos recientes.\n• Esta estabilidad se atribuye a la firmeza del Gobierno en mantener las bandas cambiarias y a un importante flujo de ingreso de capitales extranjeros.\n• Sin embargo, la persistente inflación por encima del crecimiento de la banda y las reservas negativas del Banco Central plantean interrogantes sobre la sostenibilidad a largo plazo.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (BNA 17/11):** $1.425 para la venta.\n• **Dólar Blue (15/11):** $1.410 (compra) y $1.430 (venta).\n• **Dólar CCL (15/11):** $1.484,40 (compra) y $1.485,50 (venta).\n• **Dólar MEP (15/11):** $1.452,64.\n• **Dólar Tarjeta/Ahorro (15/11):** $1.852,50 (incluye un 60% de impuestos).\n• **Techo Banda Cambiaria:** Crece al 1% mensual, ubicándose a $1.503, con el dólar oficial actual a un 7% de distancia ($1.403).\n• **Inflación Mensual:** 2,3% en octubre, superando el ajuste de la banda cambiaria.\n• **Ingreso de Capitales:** US$3.100 millones en emisiones de deuda corporativa (US$2.900M internacional) entre el 28 de octubre y el 13 de noviembre.\n• **Riesgo País (15/11):** Comprimió de 647 pbs a 619 pbs, tocando un mínimo de 599 pbs.\n• **Reservas Netas BCRA:** Estimadas en US$1.428 millones.\n\n⚡ **Desarrollo:**\n• El Gobierno ha reconfirmado su política de bandas cambiarias sin intervención, aunque en la práctica el dólar oficial se mueve cerca del techo, asemejándose a un \"crawling peg\".\n• La aparente tranquilidad del mercado cambiario se debe a la apertura de la cuenta financiera y a un fuerte ingreso de divisas, que suple la baja oferta del sector agropecuario.\n• La distancia del dólar spot al techo de la banda (6,8%) es la mayor en más de un mes, lo que ha generado que el mercado comience a creer en la continuidad de esta política.\n• Economistas como Hernán Lacunza señalan los riesgos de sostener las bandas, ya que la inflación supera su crecimiento, generando presiones sobre la competitividad si el dólar sigue apreciándose en términos reales.\n• La baja de las tasas de interés (TNA 35%) y la estabilización inflacionaria reconfiguran el escenario de inversiones, haciendo menos atractivos los rendimientos en pesos y reavivando el apetito por activos dolarizados como los CEDEARs.\n• Hay expectativas de un nuevo piso para el dólar oficial, proyectándose hacia la zona de $1.320 - $1.360, impulsado por el ingreso de capitales y acuerdos financieros con Estados Unidos.\n• La asistencia de EE.UU. y los acuerdos de financiamiento han sido cruciales para evitar una crisis cambiaria, aunque el país aún enfrenta el desafío de acumular reservas sin generar un costo fiscal.\n• Carlos Melconian criticó la \"mala praxis\" al quitar el cepo, lo que generó una gran salida de capitales, y sugiere que un dólar entre $1.500 y $2.000 sería sostenible fuera de las bandas actuales.\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar es fundamental para la economía argentina, impactando directamente en los precios, la inflación y la planificación financiera de empresas y ciudadanos.\n• La actual calma cambiaria, aunque con fragilidades subyacentes, redefine las oportunidades de inversión, incentivando la búsqueda de cobertura y exposición internacional a través de instrumentos como los CEDEARs.",
-      "cantidad_noticias": 11,
+      "tema_id": "caso_spagnuolo_y_20251116",
+      "tema": "Caso Spagnuolo y corrupción ANDIS",
+      "tema_normalizado": "caso spagnuolo y corrupcion andis",
+      "resumen": "📌 **¿Qué está pasando?**\n• El extitular de la Agencia Nacional de Discapacidad (ANDIS), Diego Spagnuolo, fue llamado a indagatoria por presunta corrupción.\n• La Justicia investiga un esquema de direccionamiento de licitaciones públicas y sobreprecios en la compra de medicamentos e insumos esenciales.\n• Este caso, que involucra a 15 personas entre exfuncionarios y empresarios, afectaría fondos destinados a personas con discapacidad.\n\n🔍 **Datos clave:**\n• **Organismo:** Agencia Nacional de Discapacidad (ANDIS).\n• **Principal implicado:** Diego Spagnuolo, extitular de ANDIS.\n• **Monto estimado de la defraudación:** Más de $48.783 millones.\n• **Fiscal a cargo:** Franco Piccardi, quien citó a 15 personas a indagatoria.\n• **Empresas beneficiadas:** Droguerías Profarma, Génesis, New Farma y Floresta.\n• **Fecha de intervención de ANDIS:** 22 de agosto, por el Gobierno actual.\n\n⚡ **Desarrollo:**\n• La Justicia sospecha que se armó un \"grupo Museo\" interno en ANDIS para manipular licitaciones, restringiendo la competencia y favoreciendo a un grupo específico de droguerías.\n• Los contratos dirigidos habrían generado sobreprecios una vez que estas empresas controlaban el circuito de compras, defraudando al Estado.\n• Evidencias clave incluyen cuadernos manuscritos y chats de celulares de Daniel Garbellini (ex subalterno de Spagnuolo) y Miguel Ángel Calvete, considerado el \"cerebro\" de la organización.\n• Aunque audios iniciales mencionaban un supuesto \"3% para Karina Milei\", el fiscal no los usó como prueba por dudas sobre su autenticidad, aunque sí citó chats con referencias similares.\n• La auditoría interna lanzada por el Gobierno no ha presentado resultados públicos, y algunos implicados en la causa judicial seguirían trabajando en ANDIS.\n• El abogado Gregorio Dalbón, denunciante inicial, advirtió al presidente Javier Milei y a su hermana Karina sobre la gravedad de la causa.\n\n💡 **¿Por qué importa?**\n• Este caso revela un grave escándalo de corrupción que desvió recursos públicos vitales para uno de los sectores más vulnerables de la sociedad.\n• Pone en evidencia la necesidad de mayor transparencia y control en la gestión de fondos estatales, especialmente en organismos sensibles como ANDIS.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Cuáles son los riesgos que afronta el Gobierno por seguir sosteniendo las bandas cambiarias para contener el dólar",
-          "link": "https://www.infobae.com/economia/2025/11/16/cuales-son-los-riesgos-que-afronta-el-gobierno-por-seguir-sosteniendo-las-bandas-cambiarias-para-contener-el-dolar/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 01:52:06"
-        },
-        {
-          "titulo": "El mercado empieza a creer en la continuidad de las bandas",
-          "link": "https://www.lanacion.com.ar/economia/el-mercado-empieza-a-creer-en-la-continuidad-de-las-bandas-nid16112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 00:01:00"
-        },
-        {
-          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 17 de noviembre",
-          "link": "https://www.iprofesional.com/economia/441985-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-lunes-17-de-noviembre",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-15 20:20:00"
-        },
-        {
-          "titulo": "Dólar planchado y tasas en caída reaviva el apetito por los CEDEAR: en cuáles invierte hoy la City",
-          "link": "https://www.iprofesional.com/economia/441858-con-dolar-planchado-inversores-apuestan-por-cedear-con-mucho-potencial",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-15 15:24:00"
-        },
-        {
-          "titulo": "Lo que viene: nuevo piso para el dólar y oportunidad de inversión en bonos por riesgo país en caída",
-          "link": "https://www.iprofesional.com/finanzas/441927-guru-de-la-city-preve-que-nuevo-piso-del-dolar-sera-de",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-15 07:38:00"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-15-noviembre_0_evqCD1CeIb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Dólar ahorro hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-sabado-15-noviembre_0_J0Phon326I.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-15-noviembre_0_6qdWTJbqAR.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 07:08:01"
-        },
-        {
-          "titulo": "Melconian: “El dólar entre $ 1.500 y $ 2.000 se la banca”",
-          "link": "https://www.perfil.com/noticias/economia/melconian-el-dolar-entre-1500-y-2000-se-la-banca.phtml",
+          "titulo": "El caso Spagnuolo se reactiva y opaca la euforia del Gobierno",
+          "link": "https://www.perfil.com/noticias/politica/el-caso-spagnuolo-se-reactiva-y-opaca-la-euforia-del-gobierno.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-15 03:44:58"
+          "fecha": "2025-11-16 03:51:06"
         },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este sábado 15 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-15-noviembre-n6214146",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este sábado 15 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-15-noviembre-n6214144",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 00:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Infobae",
-        "Clarín",
-        "La Nación",
-        "iProfesional",
-        "Perfil",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "acuerdos_comerciales_argentina-eeuu_20251116",
-      "tema": "Acuerdos Comerciales Argentina-EEUU (Milei-Trump)",
-      "tema_normalizado": "acuerdos comerciales argentina-eeuu (milei-trump)",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos anunciaron un \"Marco de Acuerdo de Comercio Recíproco e Inversión\" para reducir barreras y alinear regulaciones clave.\n• Este entendimiento busca facilitar el intercambio de bienes, servicios y capitales, impulsando la competitividad de la economía argentina.\n• El acuerdo se enmarca en la estrecha relación personal e ideológica entre los presidentes Javier Milei y Donald Trump.\n\n🔍 **Datos clave:**\n• **Anuncio:** El \"marco de acuerdo\" fue comunicado por la Casa Blanca, con Javier Milei realizando una disertación académica en Corrientes.\n• **Encuentros Milei-Trump:** Ya tuvieron 5 reuniones entre el 14/11/2024 y el 14/10/2025. Un sexto encuentro es posible el 06/12/2026 en Washington para la firma del acuerdo y el sorteo del Mundial 2026.\n• **Inversiones Argentina:** Javier Milei mencionó anuncios de inversión por 100 mil millones de dólares para Argentina en el último año.\n• **Carne vacuna:** Se proyecta un posible aumento en la cuota de importación de carne argentina a EE.UU. de 20.000 a 80.000 toneladas anuales.\n• **Exportaciones Competitivas:** El 47% de las exportaciones argentinas compiten con productos de EE.UU.\n• **Balanza Comercial Bilateral:** Argentina tuvo saldo superavitario en solo 2 de los últimos 11 años, acumulando US$ 678 millones en 2024 y lo que va del año.\n\n⚡ **Desarrollo:**\n• El acuerdo es resultado del fuerte vínculo y el \"salvataje financiero y político\" que Donald Trump brindó a La Libertad Avanza antes de las elecciones.\n• Es un \"entendimiento político\" preliminar; el canciller Pablo Quirno indicó que la \"letra chica\" y los detalles específicos aún no se conocen y podrían ser confidenciales.\n• Argentina ofrecería acceso preferencial a productos estadounidenses como medicamentos, maquinaria, tecnología, vehículos y una amplia lista de productos agrícolas.\n• A cambio, EE.UU. eliminaría aranceles recíprocos para ciertos recursos naturales no disponibles en su territorio e insumos farmacéuticos no patentados de Argentina.\n• Se fortalecerá la cooperación en minerales críticos, y se contempla mejorar el acceso recíproco a los mercados de carne bovina, aves de corral y lácteos.\n• Agricultores y ganaderos de EE.UU. expresaron \"furia\" y se sintieron \"traicionados\", preocupados por la competencia de carne argentina y el impacto en sus mercados.\n• En Argentina, la Asociación Empresaria Argentina (AEA) celebró el acuerdo, considerándolo un \"paso muy importante\", aunque esperan conocer los detalles específicos.\n• Existe incertidumbre sobre la fecha exacta de aplicación y la necesidad de aprobación parlamentaria en Argentina, ya que el Congreso debe aprobar tratados internacionales (Artículo 75 de la Constitución Nacional).\n• Este acuerdo se interpreta también como una decisión geopolítica de Argentina para redefinir su rol en el orden global, priorizando la relación con EE.UU.\n\n💡 **¿Por qué importa?**\n• El acuerdo redefine la política exterior argentina, priorizando la relación con Estados Unidos bajo un modelo de \"diplomacia presidencial\" y acuerdos bilaterales directos.\n• Abre posibles oportunidades comerciales y de inversión, pero también genera preocupaciones en sectores productivos de ambos países y dudas sobre su implementación y alcance real debido a la falta de detalles.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "Milei y Trump podrían encontrarse en Washington para firmar el acuerdo comercial y presenciar el sorteo del Mundial 2026",
-          "link": "https://www.infobae.com/politica/2025/11/16/milei-y-trump-podrian-encontrarse-en-washington-para-firmar-el-acuerdo-comercial-y-presenciar-el-sorteo-del-mundial-2026/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 01:33:56"
-        },
-        {
-          "titulo": "Javier Milei avanza en el llano: acuerdo con EEUU, discusión PJ por interbloques y un PRO en contención",
-          "link": "https://www.ambito.com/politica/javier-milei-avanza-el-llano-acuerdo-eeuu-discusion-pj-interbloques-y-un-pro-contencion-n6214312",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-16 00:00:00"
-        },
-        {
-          "titulo": "Milei redefine el lugar de la Argentina en el orden global de Trump",
-          "link": "https://www.lanacion.com.ar/politica/milei-redefine-el-lugar-de-la-argentina-en-el-orden-global-de-trump-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 22:50:00"
-        },
-        {
-          "titulo": "Agricultores y ganaderos de EE.UU. están furiosos por el acuerdo comercial: \"Trump nos traicionó por Argentina\"",
-          "link": "https://www.clarin.com/economia/agricultores-ganaderos-eeuu-furiosos-acuerdo-comercial-trump-traiciono-argentina_0_QBsy71YDH8.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 13:13:34"
-        },
-        {
-          "titulo": "Empresarios de AEA celebraron el acuerdo comercial con EEUU",
-          "link": "https://www.ambito.com/economia/empresarios-aea-celebraron-el-acuerdo-comercial-eeuu-n6214206",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 11:31:00"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente podría viajar otra vez a Estados Unidos para la firma del acuerdo comercial con el gobierno de Trump",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-podria-viajar-vez-estados-unidos-firma-acuerdo-comercial-gobierno-trump_0_uRkkHA2TOh.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 08:10:03"
-        },
-        {
-          "titulo": "El 47% de las exportaciones argentinas compiten con los productos de EE.UU.",
-          "link": "https://www.perfil.com/noticias/economia/el-47-de-las-exportaciones-argentinas-compiten-con-los-productos-de-eeuu.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 03:43:35"
-        },
-        {
-          "titulo": "La Rosada no sabe cuándo se aplicará el acuerdo con EE.UU.",
-          "link": "https://www.perfil.com/noticias/politica/la-rosada-no-sabe-cuando-se-aplicara-el-acuerdo-con-eeuu.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-15 02:27:56"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-16",
-      "fuentes": [
-        "Infobae",
-        "Clarín",
-        "La Nación",
-        "Perfil",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "corrupcion_y_justicia_20251116",
-      "tema": "Corrupción y Justicia en Argentina (Caso Spagnuolo/ANDIS)",
-      "tema_normalizado": "corrupcion y justicia en argentina (caso spagnuolo/andis)",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina investiga una presunta red de corrupción en la Agencia Nacional de Discapacidad (ANDIS) durante la gestión de Diego Spagnuolo.\n• Se acusa a exfuncionarios y empresarios de direccionar contratos millonarios, aplicar sobreprecios y cobrar sobornos en la compra de medicamentos e insumos de alto costo.\n• El fiscal federal Franco Picardi ha llamado a indagatoria a Spagnuolo y a otras 14 personas implicadas.\n\n🔍 **Datos clave:**\n• **Monto del fraude:** Más de $48.000 millones (aproximadamente $48.783.043.406,77).\n• **Principal acusado:** Diego Spagnuolo, ex titular de la ANDIS.\n• **\"Cerebro\" de la organización:** Miguel Ángel Calvete, vinculado a droguerías y con antecedentes penales.\n• **Empresas beneficiadas:** Droguerías Profarma S.A., Génesis S.A., New Farma S.A., y Floresta S.A.\n• **Porcentajes de contratos:** Génesis S.A. y Profarma S.A. se repartieron el 93,11% de $30.337 millones en licitaciones \"reducidas\".\n• **Personas citadas a indagatoria:** 15 exfuncionarios y empresarios.\n• **Monto de presuntos pagos:** $5 millones (mencionados en chats, que Spagnuolo habría retirado).\n• **Mencionados en audios/chats:** Karina Milei (por un \"3 por ciento\") y \"Lule\" Menem.\n\n⚡ **Desarrollo:**\n• La maniobra se articuló mediante un \"grupo Museo\" en WhatsApp y la manipulación del sistema informático SIIPFIS para restringir la competencia en licitaciones.\n• Esto aseguró la adjudicación de contratos a un grupo cerrado de droguerías, las cuales luego incrementaban sostenidamente los precios de los productos.\n• Las pruebas clave incluyen cuadernos manuscritos de Miguel Ángel Calvete, chats de los implicados y el celular de Daniel Garbellini, ex subalterno de Spagnuolo.\n• El fiscal Picardi no usó como prueba principal un audio de Spagnuolo que mencionaba un \"3 por ciento para Karina Milei\", citando dudas sobre su autenticidad.\n• El esquema de corrupción afectó directamente a la población con discapacidad, especialmente a beneficiarios del Programa Incluir Salud, al desviar recursos esenciales.\n• El abogado Gregorio Dalbón, promotor de la denuncia inicial, ha advertido públicamente a Javier y Karina Milei sobre el avance de la investigación.\n• Se investigan imágenes de Spagnuolo ingresando y saliendo del domicilio de Calvete con una mochila, y un posible vínculo de pagos con un viaje de Spagnuolo a Israel.\n\n💡 **¿Por qué importa?**\n• El caso revela un grave esquema de corrupción que habría defraudado al Estado por miles de millones de pesos, afectando a uno de los sectores más vulnerables de la sociedad.\n• Pone en evidencia la complejidad de las redes de corrupción, con la participación de funcionarios públicos y operadores privados, y plantea interrogantes sobre la posible implicación de figuras políticas de alto nivel.",
-      "cantidad_noticias": 4,
-      "noticias": [
         {
           "titulo": "Giro del fiscal: pidió la indagatoria de Spagnuolo, pero no cita como prueba el audio de la supuesta coima del 3% para Karina Milei",
           "link": "https://www.clarin.com/politica/giro-fiscal-pidio-indagatoria-spagnuolo-cita-prueba-audio-supuesta-coima-3-karina-milei_0_e6sdAME0ib.html",
@@ -410,10 +328,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "monotributo_y_regimen_20251116",
-      "tema": "Monotributo y Régimen Simplificado (Argentina)",
-      "tema_normalizado": "monotributo y regimen simplificado (argentina)",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Monotributo, un régimen simplificado para pequeños contribuyentes en Argentina, ha sido objeto de debate sobre su posible eliminación.\n• El Presidente Javier Milei desmintió estas versiones, calificándolas de \"mentiras y operaciones\".\n• Por otro lado, el diputado Guillermo Michel defendió el Monotributo y propuso un \"Régimen Simple\" alternativo para PyMEs.\n\n🔍 **Datos clave:**\n• **4,7 millones** de monotributistas hay en el país actualmente.\n• **3 millones** de ellos perderían su obra social si se eliminara el régimen.\n• El Monotributo representa solo el **1,4%** del total de la recaudación.\n• Fue un sistema creado en la **década del 90**.\n• El aporte mensual de la categoría más baja es de **$37.085**.\n• Si pasaran al Régimen General, la jubilación de autónomos costaría alrededor de **$82.000**.\n• **Guillermo Michel** (diputado por Entre Ríos) y **Javier Milei** (Presidente).\n\n⚡ **Desarrollo:**\n• El Monotributo es un sistema tributario que simplifica el pago de impuestos (IVA, Ganancias) y aportes (jubilación, obra social) para emprendedores, profesionales y pequeños comerciantes.\n• Versiones no oficiales indicaron que el Gobierno analizaba su eliminación como parte de una reforma laboral y tributaria, buscando formalizar la economía.\n• Javier Milei negó tajantemente estas afirmaciones, asegurando que \"la eliminación del monotributo es una mentira inventada por los medios para generar ruido\".\n• El Presidente aclaró que los equipos de Economía y Trabajo están trabajando en reformas, pero que los proyectos \"van a estar cuando tengan que estar\" y aún no hay comunicaciones oficiales.\n• El diputado Guillermo Michel criticó la posible medida, argumentando que el Gobierno \"desconoce cómo viven y trabajan la mayoría de los argentinos\" y que la eliminación sería un \"ajuste inútil\".\n• Michel propuso un \"régimen Simple\" para PyMEs como un \"puente\" que les permita tener un esquema de presentación y pago simplificado, evitando que muchos emprendedores caigan en la informalidad al alcanzar el tope de categoría.\n• Expertos tributaristas advierten que eliminar el Monotributo sin una reforma integral del Régimen General llevaría a un impacto negativo, aumentando la informalidad y dejando a muchas personas sin cobertura médica y previsional.\n• Pasar al Régimen General implicaría mayores costos, la necesidad de contratar asesoría contable y la presentación de declaraciones juradas de IVA y Ganancias, entre otras obligaciones.\n\n💡 **¿Por qué importa?**\n• La continuidad o reforma del Monotributo impacta directamente en la estabilidad económica y social de millones de pequeños contribuyentes y emprendedores en Argentina.\n• Define el acceso a la seguridad social y la formalización laboral para un sector fundamental de la economía, con implicaciones significativas en la recaudación y la administración fiscal del país.",
+      "tema_id": "monotributo:_posible_eliminacion_20251116",
+      "tema": "Monotributo: posible eliminación y defensa",
+      "tema_normalizado": "monotributo: posible eliminacion y defensa",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se generó un intenso debate sobre la posible eliminación del Monotributo, un régimen tributario simplificado clave para millones de pequeños contribuyentes en Argentina.\n• Mientras un diputado defendió fuertemente su permanencia y propuso alternativas, el presidente Javier Milei desmintió categóricamente planes de suprimirlo, calificando las versiones de \"mentiras y operaciones\".\n\n🔍 **Datos clave:**\n• **4.7 millones:** Cantidad de monotributistas que podrían verse afectados; 3 millones perderían su obra social.\n• **1.4%:** Representa la recaudación del Monotributo sobre el total de ingresos fiscales, según el diputado Michel.\n• **$37.085:** Monto mensual que abona actualmente la categoría más baja del Monotributo.\n• **$82.000:** Costo estimado de la jubilación de autónomos, al que pasarían si el Monotributo se eliminara sin cambios.\n• **Guillermo Michel:** Diputado por Entre Ríos, defensor del Monotributo y proponente del \"Régimen Simple\" para PyMEs.\n• **Javier Milei:** Presidente de la Nación, quien negó la eliminación del Monotributo.\n• **Década del '90:** Período en que fue creado el Régimen Simplificado del Monotributo.\n\n⚡ **Desarrollo:**\n• El diputado Guillermo Michel criticó la posible eliminación del Monotributo, argumentando que el Gobierno desconoce la realidad de sus 4.7 millones de adherentes, en su mayoría de categorías bajas.\n• Michel propuso un \"Régimen Simple\" para PyMEs como un sistema puente que simplifique la presentación y pago de impuestos, buscando evitar la informalidad.\n• El presidente Javier Milei, junto con su Jefe de Gabinete Manuel Adorni, desmintió públicamente las versiones sobre la eliminación del Monotributo, atribuyéndolas a \"mentiras\" y \"operaciones\" de los medios.\n• El Gobierno aclaró que sus equipos están trabajando en una reforma tributaria y modernización laboral integral, y que los proyectos se presentarán de manera oficial cuando estén listos.\n• Había trascendido que la eliminación del Monotributo era una medida analizada en documentos internos con el objetivo de \"formalizar la economía\" e impulsar la \"sustentabilidad previsional\".\n• Expertos tributarios advierten que eliminar el Monotributo sin una reforma profunda del Régimen General resultaría en mayor informalidad y dejaría a muchas personas sin cobertura médica ni previsional.\n• Sin el Monotributo, los contribuyentes enfrentarían costos significativamente mayores, incluyendo jubilación de autónomos, medicina prepaga, IVA, Impuesto a las Ganancias, y mayores exigencias administrativas.\n\n💡 **¿Por qué importa?**\n• Una eventual eliminación impactaría negativamente a millones de emprendedores, pequeños comerciantes y profesionales, quienes dependen de este sistema simplificado para su actividad formal y acceso a beneficios básicos.\n• El debate resalta la complejidad de las reformas fiscales y la necesidad de soluciones que promuevan la formalización sin expulsar a los contribuyentes del sistema, garantizando acceso a la seguridad social y de salud.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -445,7 +363,115 @@
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
         "Ámbito Financiero",
+        "Minuto1",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "alianza_milei-trump_y_20251116",
+      "tema": "Alianza Milei-Trump y acuerdo EEUU",
+      "tema_normalizado": "alianza milei-trump y acuerdo eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente argentino Javier Milei y el expresidente estadounidense Donald Trump están consolidando una estrecha alianza política y económica.\n• Esta cercanía se materializó en un reciente \"Marco de Acuerdo de Comercio Recíproco e Inversión\" entre Argentina y EE.UU.\n• Ambos líderes también muestran sintonía al planear asistir al Foro Económico Mundial de Davos en enero de 2026, mientras Milei se ausentó de la cumbre del G-20, replicando la decisión de Trump.\n\n🔍 **Datos clave:**\n• **Acuerdo:** \"Marco de Acuerdo de Comercio Recíproco e Inversión\" entre Argentina y EE.UU., anunciado un jueves reciente.\n• **Davos 2026:** Trump confirmó su asistencia; Milei recibió invitación y planea ir entre el 19 y 23 de enero.\n• **G-20:** Milei no viajó a la cumbre en Sudáfrica, en sintonía con la decisión de Trump de no enviar funcionarios.\n• **Comercio de carne:** Se prevé un aumento de la cuota de importación de carne argentina a EE.UU., con proyecciones de 20.000 a 80.000 toneladas anuales.\n• **Contexto legal Trump:** La Corte Suprema de EE.UU. consideró los límites de los acuerdos arancelarios de Trump el 5 de noviembre, resaltando la precariedad jurídica de su estilo.\n• **Competencia comercial:** El 47% de las exportaciones argentinas compiten con productos de EE.UU.\n\n⚡ **Desarrollo:**\n• La alianza entre Milei y Trump se fortaleció tras el \"auxilio\" político y económico brindado por Trump a La Libertad Avanza (LLA) antes de las elecciones.\n• El acuerdo comercial busca abrir mercados, reducir barreras y alinear regulaciones, permitiendo a Argentina acceso preferencial a productos estadounidenses y a EE.UU. a ciertos recursos naturales argentinos e insumos farmacéuticos no patentados.\n• En el sector agropecuario, Argentina facilitará el ingreso de ganado bovino vivo y aves de corral de EE.UU., además de simplificar los registros sanitarios para carnes y no exigir el registro de plantas para lácteos estadounidenses.\n• El pacto incluye cooperación en minerales críticos, estratégicos para Washington, y compromisos para estabilizar el mercado global de soja, donde ambos países compiten directamente.\n• Mientras empresarios de la Asociación Empresaria Argentina (AEA) celebraron el acuerdo como \"un paso muy importante\", agricultores y ganaderos de EE.UU. expresaron \"furia\" y se sintieron \"traicionados\" por el potencial aumento en la cuota de carne argentina.\n• El Canciller Pablo Quirno calificó el anuncio como un \"entendimiento político\" inicial, sin detalles de la letra chica ni fecha de firma final, la cual se espera sea confidencial.\n• Expertos señalan la \"precariedad jurídica\" de los acuerdos bajo el estilo de Trump, quien prioriza \"tratos\" sobre las reglas de la OMC, y la necesidad de aprobación parlamentaria en Argentina (Artículo 75 de la Constitución Nacional) para su plena implementación.\n\n💡 **¿Por qué importa?**\n• Este acuerdo y la alianza Milei-Trump redefinen la inserción geopolítica de Argentina, orientándola hacia una relación bilateral prioritaria con EE.UU. y una agenda global afín a las ideas liberales de ambos líderes.\n• Genera oportunidades económicas para la apertura de mercados, pero también controversia en sectores productivos específicos y plantea importantes desafíos legales y parlamentarios para su implementación en ambos países.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "¿No al G-20 y sí a Davos? Milei piensa en regresar el foro económico, mientras Trump ya confirmó que irá",
+          "link": "https://www.clarin.com/economia/g-20-davos-milei-piensa-regresar-foro-economico-trump-confirmo-ira_0_A8K6Rknt3o.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 05:01:02"
+        },
+        {
+          "titulo": "Milei redefine el lugar de la Argentina en el orden global de Trump",
+          "link": "https://www.lanacion.com.ar/politica/milei-redefine-el-lugar-de-la-argentina-en-el-orden-global-de-trump-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 03:57:49"
+        },
+        {
+          "titulo": "Javier Milei avanza en el llano: acuerdo con EEUU, discusión PJ por interbloques y un PRO en contención",
+          "link": "https://www.ambito.com/politica/javier-milei-avanza-el-llano-acuerdo-eeuu-discusion-pj-interbloques-y-un-pro-contencion-n6214312",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 00:00:00"
+        },
+        {
+          "titulo": "Agricultores y ganaderos de EE.UU. están furiosos por el acuerdo comercial: \"Trump nos traicionó por Argentina\"",
+          "link": "https://www.clarin.com/economia/agricultores-ganaderos-eeuu-furiosos-acuerdo-comercial-trump-traiciono-argentina_0_QBsy71YDH8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 13:13:34"
+        },
+        {
+          "titulo": "Empresarios de AEA celebraron el acuerdo comercial con EEUU",
+          "link": "https://www.ambito.com/economia/empresarios-aea-celebraron-el-acuerdo-comercial-eeuu-n6214206",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 11:31:00"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente podría viajar otra vez a Estados Unidos para la firma del acuerdo comercial con el gobierno de Trump",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-podria-viajar-vez-estados-unidos-firma-acuerdo-comercial-gobierno-trump_0_uRkkHA2TOh.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 08:10:03"
+        },
+        {
+          "titulo": "La Rosada no sabe cuándo se aplicará el acuerdo con EE.UU.",
+          "link": "https://www.perfil.com/noticias/politica/la-rosada-no-sabe-cuando-se-aplicara-el-acuerdo-con-eeuu.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-15 02:27:56"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
         "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "protestas_generacion_z_20251116",
+      "tema": "Protestas Generación Z en México",
+      "tema_normalizado": "protestas generacion z en mexico",
+      "resumen": "📌 **¿Qué está pasando?**\n• Una marcha convocada por la \"Generación Z\" en México, que protestaba contra el gobierno de la presidenta Claudia Sheinbaum y la inseguridad, terminó en violentos disturbios.\n• Manifestantes se enfrentaron con la policía en el Zócalo de la Ciudad de México, derribando vallas y causando daños.\n• El gobierno y el partido Morena condenaron los actos violentos y acusaron a la oposición de manipular la movilización.\n\n🔍 **Datos clave:**\n• **Fecha principal:** 15 de noviembre de 2025 (según una fuente, referida como \"este sábado\" en otras).\n• **Lugar central:** Zócalo y Palacio Nacional, Ciudad de México.\n• **Figuras involucradas:** Presidenta Claudia Sheinbaum, partido Morena, dirigente Luisa María Alcalde, expresidente Vicente Fox, empresario Ricardo Salinas Pliego, alcalde Carlos Manzo (asesinado).\n• **Incidentes:** 20 heridos atendidos, derribo de vallas, lanzamiento de gases lacrimógenos y proyectiles.\n• **Participación:** Miles de personas en CDMX, con réplicas en varias ciudades (Monterrey, Guadalajara, Toluca, Mérida, Puebla, Xalapa, Querétaro, Cuernavaca).\n\n⚡ **Desarrollo:**\n• La marcha inició de forma pacífica desde el Ángel de la Independencia, congregando a personas de diversas generaciones, no solo jóvenes.\n• Al llegar al Zócalo, un \"bloque negro\" de manifestantes usó martillos y piedras para derribar las vallas que protegían el Palacio Nacional, generando choques con la policía.\n• Los motivos de la protesta incluyeron la creciente inseguridad y violencia en el país, destacando el asesinato del alcalde Carlos Manzo en Uruapan, Michoacán.\n• El gobierno de Claudia Sheinbaum y el partido Morena denunciaron que la marcha fue \"manipulada\", \"pagada\" y \"orquestada\" por la oposición y sectores de derecha, incluyendo \"bots\" y financiamiento extranjero.\n• Morena afirmó que la convocatoria no representó a la verdadera Generación Z y que hubo predominio de adultos mayores y grupos privilegiados.\n• Aunque algunos activistas de la Generación Z se deslindaron de los incidentes, figuras de la oposición como Vicente Fox y Ricardo Salinas Pliego alentaron las protestas.\n• La presidenta Sheinbaum hizo un llamado a manifestarse de manera pacífica, rechazando el uso de la violencia para expresar desacuerdos.\n\n💡 **¿Por qué importa?**\n• Estas protestas reflejan un profundo descontento social con la inseguridad y la percepción de falta de justicia en México.\n• Evidencian una creciente polarización política y distintas narrativas sobre la participación ciudadana y la legitimidad de las movilizaciones contra el gobierno actual.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Morena condena actos de violencia en marcha de la Generación Z y se solidariza con Claudia Sheinbaum",
+          "link": "https://www.infobae.com/mexico/2025/11/16/morena-condena-actos-de-violencia-en-marcha-de-la-generacion-z-y-se-solidariza-con-claudia-sheinbaum/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-16 05:03:13"
+        },
+        {
+          "titulo": "Violencia y choques con la Policía en la protesta de la \"Generación Z\" contra el gobierno de Sheinbaum en México",
+          "link": "https://www.clarin.com/mundo/violencia-choques-policia-protesta-generacion-z-gobierno-sheinbaum-mexico_0_hcPsDo63Gb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 20:42:35"
+        },
+        {
+          "titulo": "Una marcha de la Generación Z en México se vuelve una violenta protesta contra Sheinbaum",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-marcha-de-la-generacion-z-en-mexico-se-vuelve-una-violenta-protesta-contra-sheinbaum-nid15112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-15 20:23:13"
+        },
+        {
+          "titulo": "Violentas protestas en México contra la presidenta Claudia Sheinbaum: las imágenes",
+          "link": "https://www.minutouno.com/mundo/violentas-protestas-mexico-contra-la-presidenta-claudia-sheinbaum-las-imagenes-n6214280",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-15 19:42:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-16",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -454,30 +480,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "crisis_politica_en_20251116",
-      "tema": "Crisis Política en Venezuela (Machado y Militares)",
-      "tema_normalizado": "crisis politica en venezuela (machado y militares)",
-      "resumen": "📌 **¿Qué está pasando?**\n• María Corina Machado, líder opositora venezolana, hizo un llamado directo a las fuerzas armadas y de seguridad para que desobedezcan al gobierno de Nicolás Maduro.\n• Advirtió que el \"momento decisivo es inminente\" y les instó a deponer las armas para acompañar la libertad de Venezuela.\n\n🔍 **Datos clave:**\n• **Actores principales:** María Corina Machado (líder opositora), Nicolás Maduro (gobierno), militares venezolanos, Estados Unidos (Pentágono, Comando Sur).\n• **Fecha del mensaje clave:** 15 de noviembre de 2025, difundido por Machado en redes sociales.\n• **Contexto gubernamental:** Maduro convocó una jornada de \"alistamiento de fuerzas milicianas\".\n• **Presión externa:** Estados Unidos lanzó la operación 'Lanza del sur' a través del Pentágono y el Comando Sur.\n\n⚡ **Desarrollo:**\n• Machado pidió a los uniformados \"ignorar\" las \"órdenes infames\" del régimen, al que describió como una tiranía en desmoronamiento.\n• Les advirtió que \"la historia, la ley y el pueblo venezolano serán sus jueces\", instándolos a ser \"héroes\" y no \"criminales\".\n• La líder opositora acusó al gobierno de Maduro de mantener al país como \"rehén\" mediante la persecución, el hambre y la separación familiar.\n• Además, dirigió un mensaje a empleados públicos, policías, jueces y maestros, asegurando que el régimen \"está llegando a su fin\".\n• El llamado de Machado ocurre en un momento de creciente tensión, con la presión de Estados Unidos sobre Caracas.\n• Previamente, Machado había respaldado la estrategia del entonces presidente Donald Trump, que incluía el hundimiento de barcos en el Caribe y operaciones encubiertas de la CIA en territorio venezolano.\n\n💡 **¿Por qué importa?**\n• Este llamado directo de María Corina Machado intensifica la crisis política en Venezuela al desafiar abiertamente la lealtad militar hacia el gobierno de Maduro.\n• La situación incrementa la inestabilidad interna y podría escalar las tensiones en el país, con posibles repercusiones regionales debido a la presión externa de Estados Unidos.",
-      "cantidad_noticias": 2,
+      "tema_id": "crisis_y_reformas_20251116",
+      "tema": "Crisis y reformas en Peronismo / Sindicatos",
+      "tema_normalizado": "crisis y reformas en peronismo / sindicatos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El peronismo y los principales sindicatos, como Camioneros, atraviesan profundas crisis internas y enfrentan la ofensiva del gobierno actual.\n*   En el peronismo, los gobernadores se dividen en su postura frente al gobierno, amenazando la unidad del bloque en Diputados.\n*   El sindicato de Camioneros, liderado por Hugo Moyano, sufre una lucha de poder familiar y el colapso de su obra social, además de aceptar paritarias muy bajas.\n\n🔍 **Datos clave:**\n*   **Hugo Moyano:** Lidera el gremio de Camioneros desde hace 38 años.\n*   **Paritarias Camioneros:** Negociadas en torno al 1%, por debajo de la inflación del INDEC.\n*   **OSCHOCA:** Obra social de Camioneros, sus beneficiarios cayeron de 200.000 a \"apenas un cuarto\".\n*   **Unión por la Patria (UxP):** Bloque peronista en Diputados, se reduciría a 96 escaños con las fugas.\n*   **Liliana Zulet:** Esposa de Moyano, fundadora de IARAI, empresa que gerencia OSCHOCA y responsable de su colapso financiero.\n*   **Edad de Moyano:** 81 años.\n\n⚡ **Desarrollo:**\n*   La crisis en Camioneros se evidencia en la disputa entre Hugo y su hijo Pablo Moyano, quien critica la falta de renovación dirigencial y las bajas paritarias (1%) aceptadas al Ministerio de Economía de Luis Caputo.\n*   La obra social OSCHOCA enfrenta un colapso financiero, atribuido a la mala administración de Liliana Zulet y a la costosa infraestructura con sanatorios propios y habitaciones individuales, llevando a la pérdida masiva de afiliados.\n*   El peronismo provincial se ha fragmentado en \"tres velocidades\": gestores dialoguistas (Osvaldo Jaldo de Tucumán, Raúl Jalil de Catamarca), interlocutores críticos (Sergio Ziliotto de La Pampa, Gerardo Zamora de Santiago del Estero) y una oposición de \"trinchera\" (Axel Kicillof de Buenos Aires, Gildo Insfrán de Formosa).\n*   Gobernadores como Jaldo y Jalil buscan autonomía y negociación con el gobierno, lo que se traduce en la posible creación de nuevos bloques en el Congreso, alejados de la conducción tradicional.\n*   Diputados peronistas como Javier Noguera (Tucumán) ya abandonaron el bloque de UxP para sumarse a armados provinciales, debilitando su representación y poniendo en riesgo la primera minoría frente al oficialismo.\n*   La situación económica provincial y la necesidad de auxilio financiero son un factor clave que empuja a algunos gobernadores a negociar y distanciarse del liderazgo kirchnerista.\n\n💡 **¿Por qué importa?**\n*   Estas crisis internas y externas ponen en jaque el futuro y la capacidad de influencia del peronismo y los grandes sindicatos en el escenario político argentino.\n*   La fragmentación del peronismo en el Congreso podría facilitar la aprobación de reformas propuestas por el gobierno actual, como la laboral y fiscal, con un impacto directo en los trabajadores y la sociedad.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "María Corina Machado llama a los militares venezolanos a desobedecer al dictador Maduro",
-          "link": "https://www.lanacion.com.ar/el-mundo/maria-corina-machado-llama-a-los-militares-venezolanos-a-desobedecer-al-dictador-maduro-nid15112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-15 21:17:57"
+          "titulo": "La pelea de los Moyano: entrampados entre el escándalo y la ofensiva del Gobierno",
+          "link": "https://www.perfil.com/noticias/politica/la-pelea-de-los-moyano-entrampados-entre-el-escandalo-y-la-ofensiva-del-gobierno.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-16 04:32:49"
         },
         {
-          "titulo": "Dramática advertencia de María Corina Machado a los militares venezolanos: \"Lo que va a pasar ya está pasando, la hora decisiva es inminente\"",
-          "link": "https://www.clarin.com/mundo/dramatica-advertencia-maria-corina-machado-militares-venezolanos-va-pasar-pasando-hora-decisiva-inminente_0_hnjWaLsMhm.html",
+          "titulo": "Peronismo en crisis: los gobernadores en tres velocidades distintas y la unidad en peligro",
+          "link": "https://www.perfil.com/noticias/politica/peronismo-en-crisis-los-gobernadores-en-tres-velocidades-distintas-y-la-unidad-en-peligro.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-16 03:49:51"
+        },
+        {
+          "titulo": "Radiografía de la crisis en Camioneros: cómo Moyano y Zulet llevaron al borde del colapso a la obra social",
+          "link": "https://www.clarin.com/politica/radiografia-crisis-camioneros-moyano-zulet-llevaron-borde-colapso-obra-social_0_miBcBoPSvG.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-15 19:24:19"
+          "fecha": "2025-11-15 19:53:06"
+        },
+        {
+          "titulo": "El peronismo bajo alerta por la amenaza de ruptura en Diputados",
+          "link": "https://www.clarin.com/politica/peronismo-alerta-amenaza-ruptura-diputados_0_oZVWQeQbha.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 17:43:48"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Clarín",
-        "La Nación"
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -485,51 +523,50 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "actividad_legislativa_argentina_20251116",
-      "tema": "Actividad Legislativa Argentina (Senado)",
-      "tema_normalizado": "actividad legislativa argentina (senado)",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Senado argentino se prepara para la jura de 24 nuevos legisladores el 28 de noviembre, lo que reconfigurará los bloques políticos y el balance de poder.\n*   En este contexto, se intensifican las negociaciones clave para la agenda legislativa, incluyendo la designación de jueces de la Corte Suprema y la discusión de leyes importantes.\n*   Existe tensión sobre la posibilidad de sesionar antes de diciembre para tratar normativas urgentes como la regulación de la ludopatía online y la Auditoría General de la Nación (AGN).\n\n🔍 **Datos clave:**\n*   **28 de noviembre:** Fecha fijada para la jura de 24 nuevos senadores, quienes asumirán por un período de seis años.\n*   **La Libertad Avanza (LLA):** Aumentará su bloque a 21 senadores.\n*   **Peronismo:** Mantiene el predominio con 28 senadores.\n*   **2/3 de los votos:** Requisito indispensable en el Senado para la designación de jueces de la Corte Suprema.\n*   **+135 votos:** Cifra de aprobación en Diputados para la Ley de Prevención de la Ludopatía, ahora en el Senado.\n*   **Auditoría General de la Nación (AGN):** Pendiente la designación de nuevos auditores por el Senado.\n\n⚡ **Desarrollo:**\n*   La nueva conformación del Senado muestra un crecimiento del bloque libertario, pero la mayoría peronista y la emergencia de bloques provincialistas (9 senadores) obligan a buscar amplios consensos.\n*   Se negocian nombres para completar la Corte Suprema, como el camarista Mariano Llorens y la senadora Anabel Fernández Sagasti, requiriendo 2/3 de los votos de los senadores presentes.\n*   Las discusiones sobre la Corte Suprema se postergaron hasta marzo del próximo año, con expectativas de que Patricia Bullrich juegue un rol clave en las negociaciones.\n*   La relación entre la vicepresidenta Victoria Villarruel, quien preside el Senado, y Patricia Bullrich, futura jefa del bloque de LLA, es fundamental para organizar la agenda legislativa y avanzar con las iniciativas del gobierno.\n*   La oposición, en particular la UCR, enfrenta desafíos internos por la designación de miembros para la AGN, existiendo propuestas para reducir sus mandatos de ocho a cuatro años.\n*   El Senado tiene pendiente el tratamiento de la Ley de Prevención de la Ludopatía, que ya cuenta con media sanción de Diputados y busca prohibir la publicidad y regular los juegos de azar online.\n*   Esta ley es crucial ante el crecimiento de la ludopatía juvenil, con 8 de cada 10 sitios de apuestas en Argentina operando ilegalmente y afectando a millones de personas.\n\n💡 **¿Por qué importa?**\n*   La reconfiguración del Senado y la capacidad de construir consensos determinarán la gobernabilidad y el avance de reformas clave del Poder Ejecutivo durante los próximos años.\n*   Las decisiones sobre la designación de jueces de la Corte Suprema, la regulación del juego online y el control de gastos tendrán un impacto directo en la institucionalidad y la vida social argentina.",
+      "tema_id": "inversiones_y_mercados_20251116",
+      "tema": "Inversiones y mercados financieros argentinos",
+      "tema_normalizado": "inversiones y mercados financieros argentinos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado financiero argentino se reconfigura, con inversores priorizando la protección de capital y la exposición internacional ante la calma del dólar y la caída de las tasas en pesos.\n• Las empresas argentinas están emitiendo deuda en dólares a niveles elevados, inyectando divisas y financiando proyectos.\n• Se vislumbra un posible regreso de Argentina a los mercados de deuda soberana internacional para 2026, sujeto a una serie de ajustes macroeconómicos.\n\n🔍 **Datos clave:**\n• **US$ 3.150 millones:** Deuda corporativa emitida por 10 empresas argentinas (principalmente energéticas) desde las elecciones de octubre.\n• **Bitcoin:** Es considerado principalmente una \"forma de ahorro\" en Argentina, no para consumo, según Sebastián Serrano de Ripio.\n• **Plazo Fijo Digital:** Ofrece una TNA del 27% y TEA del 30,61%, superando al tradicional en sucursal (TNA 22,5%, TEA 24,98%) para $500.000 a 30 días.\n• **2026:** Fecha estimada por la \"City\" para el regreso de Argentina a los mercados internacionales de deuda soberana.\n• **40% ETF XLP:** Parte de la cartera sugerida por PPI en CEDEARs para consumo básico, destacando la diversificación internacional.\n\n⚡ **Desarrollo:**\n• La **estabilización del dólar** y la **baja de tasas en pesos (TNA del 35%)** reducen el atractivo de los rendimientos locales, impulsando la búsqueda de alternativas en dólares y activos externos.\n• Los **CEDEARs** se consolidan como vehículo predilecto para dolarizar carteras e invertir en acciones internacionales de forma ágil, combinando sectores defensivos y de crecimiento tecnológico.\n• La **inteligencia artificial** es señalada por Inviu como un motor de inversión global, con un Capex de las Big Tech que podría alcanzar hasta **US$ 364.000 millones en 2025**.\n• Los **plazos fijos** mantienen su rol como opción segura y predecible, con la modalidad digital ofreciendo una rentabilidad superior.\n• La **emisión récord de Obligaciones Negociables** por empresas como Tecpetrol (US$750M a 5 años) e YPF (US$500M a 6 años) contribuye con un ingreso de divisas frescas y permite a las firmas mejorar su perfil de deuda.\n• El **Gobierno** planifica tres pasos previos al regreso a mercados soberanos: mejorar el rendimiento de bonos, ajustar el esquema cambiario (potencialmente en enero) y acumular reservas (entre marzo y abril).\n• Ripio, una plataforma cripto argentina, lanzará una **stablecoin 1 a 1 con el peso argentino** para facilitar las transacciones cripto-fiat y mejorar la experiencia de los usuarios.\n\n💡 **¿Por qué importa?**\n• Estos movimientos reflejan una **adaptación de los inversores y empresas** a la dinámica económica actual, buscando proteger el valor del capital y generar rendimientos en un entorno volátil.\n• El flujo de **inversiones corporativas en deuda** y las **perspectivas de retorno del país a los mercados internacionales** son indicadores clave de confianza y estabilidad futura para la economía argentina.",
       "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Negocian dos nombres para la Corte Suprema: la kirchnerista Fernández Sagasti y el camarista Llorens",
-          "link": "https://www.lanacion.com.ar/politica/negocian-dos-nombres-para-la-corte-suprema-la-kirchnerista-fernandez-sagasti-y-el-camarista-llorens-nid16112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-16 03:02:22"
-        },
-        {
-          "titulo": "Senado: la puja por sesionar antes de diciembre deja a la UCR al borde del quiebre por la AGN",
-          "link": "https://www.infobae.com/politica/2025/11/16/senado-la-puja-por-sesionar-antes-de-diciembre-deja-a-la-ucr-al-borde-del-quiebre-por-la-agn/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-16 01:46:39"
-        },
-        {
-          "titulo": "El Senado fijó fecha de nueva sesión y prepara la jura de los legisladores electos",
-          "link": "https://www.ambito.com/politica/el-senado-fijo-fecha-nueva-sesion-y-prepara-la-jura-los-legisladores-electos-n6214275",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-15 19:20:00"
-        },
-        {
-          "titulo": "Senadores: no apuesten con la vida de los jóvenes",
-          "link": "https://www.clarin.com/opinion/senadores-apuesten-vida-jovenes_0_4YYfeg6edP.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-15 11:18:56"
-        },
-        {
-          "titulo": "Sin foto, Villarruel y Bullrich comenzaron a negociar la convivencia dentro del Senado",
-          "link": "https://www.perfil.com/noticias/politica/sin-foto-villarruel-y-bullrich-comenzaron-a-negociar-la-convivencia-dentro-del-senado.phtml",
+          "titulo": "Sebastián Serrano: “El que compra bitcoin lo hace por ahorro”",
+          "link": "https://www.perfil.com/noticias/economia/sebastian-serrano-el-que-compra-bitcoin-lo-hace-por-ahorro.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-15 01:02:52"
+          "fecha": "2025-11-16 04:13:28"
+        },
+        {
+          "titulo": "Dólar planchado y tasas en caída reaviva el apetito por los CEDEAR: en cuáles invierte hoy la City",
+          "link": "https://www.iprofesional.com/economia/441858-con-dolar-planchado-inversores-apuestan-por-cedear-con-mucho-potencial",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-15 15:24:00"
+        },
+        {
+          "titulo": "¿Todavía conviene ir al banco para abrir un plazo fijo? Esto es lo que ganás a 30 días si invertís $500.000",
+          "link": "https://www.ambito.com/economia/todavia-conviene-ir-al-banco-abrir-un-plazo-fijo-esto-es-lo-que-ganas-30-dias-si-invertis-500000-n6213911",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 13:00:00"
+        },
+        {
+          "titulo": "Lluvia de dólares: 10 empresas argentinas ya emitieron deuda por más de US$ 3.000 millones desde las elecciones",
+          "link": "https://www.clarin.com/economia/lluvia-dolares-empresas-argentinas-emitieron-deuda-us-3000-millones-elecciones_0_Fq4OtXAw7s.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-15 11:36:19"
+        },
+        {
+          "titulo": "La city ya le pone fecha a la vuelta de la Argentina a los mercados de deuda: cuáles son los tres pasos previos",
+          "link": "https://www.ambito.com/economia/la-city-ya-le-pone-fecha-la-vuelta-la-argentina-los-mercados-deuda-cuales-son-los-tres-pasos-previos-n6213983",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-15 07:00:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-16",
       "fuentes": [
-        "Infobae",
-        "Clarín",
-        "La Nación",
+        "iProfesional",
+        "Ámbito Financiero",
         "Perfil",
-        "Ámbito Financiero"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
