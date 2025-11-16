@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-15",
-  "fecha_generacion": "2025-11-15T21:14:23.091963",
+  "fecha_generacion": "2025-11-16T00:57:46.465606",
   "resumenes": {
     "internacional": {
-      "resumen": "Las noticias internacionales recientes revelan una marcada polarización política en América Latina y decisiones clave en Estados Unidos, junto con la preparación para las festividades de fin de año y variadas dinámicas socioeconómicas.\n\nEn América Latina, Chile se prepara para unas elecciones presidenciales en un clima de polarización, con la oficialista Jeannette Jara enfrentando un posible balotaje y la derecha ganando terreno. La campaña se ve influenciada por la desinformación en redes sociales y un pánico creciente ante el aumento del crimen organizado y la percepción de inseguridad. Simultáneamente, el expresidente brasileño Jair Bolsonaro se encuentra en una situación legal precaria, al borde de la cárcel tras un fallo de la Corte Suprema.\n\nEstados Unidos es epicentro de actividad política y económica. El portaaviones USS Gerald R. Ford ha arribado al Caribe, elevando la tensión. El presidente Donald Trump ha tomado medidas como eliminar aranceles a productos agrícolas para reducir costos y ha prometido cheques de reembolso de US$2000, mientras busca investigar a figuras como Clinton y J.P. Morgan por el caso Epstein. En el ámbito migratorio, California implementa nuevas leyes en apoyo a inmigrantes, mientras un condado de Houston enfrenta una demanda por financiar asistencia legal para deportaciones. La CBP también interceptó un cargamento millonario de productos falsificados de China en Chicago y emitió alertas por compras navideñas.\n\nLa vida cotidiana en EE.UU. se enfoca en las próximas festividades de Acción de Gracias y Navidad, con recomendaciones sobre seguros de viaje y el anuncio de eventos como el encendido del árbol del Rockefeller Center y el desfile de Macy’s en Nueva York. Otras noticias abarcan desde cierres de sucursales bancarias (TD Bank), comparativas de precios de tecnología (Samsung vs. iPhone), rankings de autos con mayor valor de reventa y ciudades seguras en Florida, hasta curiosidades locales y perfiles de innovación.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-15T21:13:56.905898",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-16T00:57:46.465131"
     },
     "politica": {
-      "resumen": "La agenda política se ha centrado en importantes desarrollos judiciales, movimientos en el gabinete nacional y el panorama electoral regional.\n\nEn el ámbito judicial, la causa ANDIS cobró relevancia con la citación a indagatoria de Diego Spagnuolo por presuntas coimas y vínculos con Fred Machado, en un contexto donde el fiscal detectó elementos de una posible asociación ilícita. Paralelamente, Patricia Bullrich celebró el veredicto contra los Sena. Se registraron denuncias sobre las condiciones de detención del exministro Julio De Vido, cuya pena fue confirmada por la Corte Suprema. La causa Cuadernos resurge con peritajes que serían “un búmeran” y revelaciones del \"contador de los K\", Víctor Manzanares.\n\nRespecto al gobierno, el ministro del Interior, Diego Santilli, ha intensificado su gira federal, reuniéndose con gobernadores para fortalecer el respaldo a los proyectos del Ejecutivo, especialmente de cara al Presupuesto 2026. Se reportaron cambios en la estructura de gabinetes, que implicarían la asignación de áreas de gestión a Santilli. La relación entre Patricia Bullrich y Victoria Villarruel mostró tensiones, aunque se iniciaron negociaciones para la convivencia en el Senado. El presidente Javier Milei evalúa un posible decimoquinto viaje a Estados Unidos para un acuerdo comercial. Mauricio Macri, por su parte, se distancia de La Libertad Avanza.\n\nEn el plano regional, se monitorean las elecciones presidenciales en Chile, donde el presidente Milei expresó su apoyo a los candidatos de derecha como José Antonio Kast. A nivel local, se lanzó una campaña para facilitar el acceso gratuito al DNI electrónico. Un gobernador recurrió a la Justicia para exigir arreglos \"inmediatos\" en tramos de la Ruta Nacional 40, mientras que empresarios en Bahía Blanca rechazaron la creación de una \"tasa solidaria\".",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-15T21:14:07.912981",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-16T00:57:46.465284"
     },
     "economia": {
-      "resumen": "El gobierno implementará cambios fiscales desde diciembre, incluyendo la obligatoriedad del IVA Simple y la eliminación de la factura M. El presidente Milei desmintió reiteradamente la eliminación del monotributo, calificándolo de \"mentiras y operaciones\". Además, se confirmó un aumento del 10% en el boleto de colectivo del AMBA, una medida de Economía para reducir subsidios. En el ámbito social, la Encuesta Permanente de Hogares del Indec mostró resultados mixtos, con 10 millones de personas mejorando sus condiciones de vida, pero 7 millones empeorándolas en el primer semestre de 2025. ANSES detalló los montos de jubilaciones y prestaciones sociales para diciembre.\n\nEl mercado financiero muestra un dólar relativamente estable y tasas en caída, impulsando el apetito por CEDEARs, especialmente en Big Tech, consumo defensivo y el sector financiero. Se vislumbra una oportunidad de inversión en bonos ante la baja del riesgo país, con expectativas de \"dólar tranquilo\" y activos financieros al alza, mientras el plazo fijo sigue siendo una opción elegida. Un acuerdo de swap con EE.UU. generó ganancias para Washington y un pasivo adicional para el Banco Central.\n\nEl sector agrícola presenta un momento favorable para canjear girasol por insumos, beneficiándose de una menor relación de precios, y se anunció una inversión de US$20.000 millones en ganadería, a pesar de desafíos como plagas y problemas de infraestructura vial. A nivel internacional, un acuerdo que amplía la exportación de carne argentina a EE.UU. generó controversia, y se destaca que casi la mitad de las exportaciones argentinas compiten con productos estadounidenses. Mientras el turismo emisivo argentino ha registrado cifras récord, la economía general lucha por la recuperación en un contexto de desinflación desordenada y presiones del FMI por acumular reservas. Un fondo de inversión se ha creado en relación al juicio por YPF, pagando ganancias si Argentina pierde el litigio de US$16.000 millones.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-15T21:14:23.091542",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-16T00:57:46.465443"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-15T21:14:23.091942"
+      "fecha_generacion": "2025-11-16T00:57:46.465591"
     }
   }
 }
