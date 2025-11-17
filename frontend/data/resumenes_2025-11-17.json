@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-17",
-  "fecha_generacion": "2025-11-17T15:18:55.697194",
+  "fecha_generacion": "2025-11-17T18:20:47.554581",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-17T15:18:44.881806",
+      "cantidad_noticias": 26,
+      "fecha_generacion": "2025-11-17T18:20:33.660731",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 24,
-      "fecha_generacion": "2025-11-17T15:18:46.318736",
+      "resumen": "El gobierno nacional, a través del jefe de Gabinete Manuel Adorni y el ministro del Interior Diego Santilli, intensifica las negociaciones con gobernadores provinciales, incluyendo a Leandro Zdero (Chaco) y Alberto Weretilneck (Río Negro), buscando asegurar el apoyo necesario para la aprobación del Presupuesto 2026 y otras reformas clave. Santilli ha recibido a una decena de mandatarios que respaldan la línea oficialista, mientras que gobernadores, empresarios y académicos se reunirán en la UBA para debatir estrategias económicas.\n\nPresidente Javier Milei reforzará su alianza con Donald Trump al confirmar su viaje a Washington para compartir el sorteo del Mundial 2026. Este acercamiento se produce en un contexto de debate sobre el nuevo acuerdo comercial con Estados Unidos, el cual ha sido defendido por el embajador argentino Alec Oxenford pero criticado fuertemente por el gobernador Axel Kicillof.\n\nEn el ámbito judicial, se destacan avances en investigaciones de corrupción, como las órdenes de pago de la Andis por $48.000 millones a droguerías, la inminente declaración de Víctor Manzanares contra Cristina Kirchner, y el juicio por lavado de dinero contra la familia Sena. Simultáneamente, la ministra de Seguridad Patricia Bullrich denunció formalmente al titular de ATE, Rodolfo Aguiar, por \"amenaza contra el orden constitucional\" tras sus declaraciones sobre la reforma laboral.\n\nLa política interna muestra a Mauricio Macri distanciándose del oficialismo, explorando una candidatura propia para 2027, lo que podría complejizar el escenario electoral. Además, en Chile, las elecciones presidenciales avanzan a un balotaje entre Jeannette Jara y José Antonio Kast, con este último sumando apoyos de la derecha y partiendo con ventaja.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-17T18:20:46.240507",
       "categoria": "politica"
     },
     "economia": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-17T15:18:55.696891",
+      "fecha_generacion": "2025-11-17T18:20:47.554361",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-17T15:18:55.697171"
+      "fecha_generacion": "2025-11-17T18:20:47.554556"
     }
   }
 }
