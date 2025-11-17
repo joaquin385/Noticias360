@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-16",
-  "fecha_generacion": "2025-11-16T21:15:22.231343",
+  "fecha_generacion": "2025-11-17T00:55:41.128765",
   "resumenes": {
     "internacional": {
-      "resumen": "**Política Latinoamericana y tensiones regionales:** Chile celebró elecciones presidenciales con alta participación, marcadas por un balotaje incierto que definirá el futuro político del país. En Ecuador, se llevó a cabo un referéndum constitucional crucial, impulsado por el presidente Noboa, para definir temas como reformas a la Carta Magna, la habilitación de bases militares extranjeras, la reducción parlamentaria y el financiamiento a partidos, en un contexto de importantes detenciones de líderes criminales. Paralelamente, la tensión se incrementó en el Caribe debido a la movilización militar de Estados Unidos, incluyendo el despliegue de un portaaviones cerca de Venezuela, lo que llevó al régimen de Nicolás Maduro a ordenar una \"vigilia permanente\" y a hacer llamados a la paz. En México, la presidenta Sheinbaum insinuó la posible injerencia de \"manos extranjeras de derecha\" tras protestas que resultaron en heridos y detenidos.\n\n**Conflicto en Oriente Medio y legislación migratoria en EE.UU.:** El primer ministro israelí, Benjamin Netanyahu, reafirmó su postura de rechazo a la creación de un Estado palestino, una declaración clave previa a una votación trascendental en el Consejo de Seguridad de la ONU. En Estados Unidos, se observaron varios desarrollos migratorios: Nueva Jersey evalúa una Ley de Confianza para Inmigrantes, se detallan los documentos necesarios para solicitar suspensiones de deportación en Orlando, la ley H.R. 1 modificará la cobertura de salud para miles de inmigrantes y la CBP anunció nuevos requisitos biométricos fronterizos a partir de diciembre de 2025. El salario mínimo en Florida también proyecta cambios para 2026.\n\n**Otros desarrollos globales:** Otros eventos internacionales relevantes incluyen el incierto regreso a Uruguay de un buque con 2.901 vacas desde Turquía, generando preocupación por el bienestar animal. El Papa León XIV hizo un llamado global por la justicia y la paz, instando a la escucha de los más pobres durante un almuerzo con marginados. En el ámbito de la innovación médica, se destacó la contribución del argentino Julio Palmaz al desarrollo del stent coronario, y en cultura, se inauguró una estatua gigante de la Virgen de Fátima en Brasil y se esperan eventos como el encendido del árbol de Navidad en el Rockefeller Center de Nueva York.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-16T21:15:00.449087",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-17T00:55:41.128260"
     },
     "politica": {
-      "resumen": "Las elecciones presidenciales en Chile fueron el foco principal, con ocho candidatos y una jornada de votación polarizada. Jeannette Jara (Partido Comunista) y José Antonio Kast (Partido Republicano) se posicionan como principales contendientes, anticipándose un balotaje. El presidente Gabriel Boric llamó a la unidad nacional, mientras algunos candidatos chilenos hicieron alusión a la gestión de Javier Milei, con posturas divergentes sobre su modelo.\n\nEn Argentina, la administración de Javier Milei avanza con reformas laborales, impositivas y un acuerdo comercial con Estados Unidos, recibiendo elogios internacionales por su \"terapia de shock\". El Ministerio del Interior, bajo Diego Santilli, se fortalece para la negociación con gobernadores y el Congreso, buscando consenso para el presupuesto 2026 y la autorización de deuda provincial. Sin embargo, surgen controversias por posibles modificaciones a la Ley de Glaciares, criticadas por Greenpeace, y denuncias sobre una cesión de tierras vinculada al padre del presidente en Santiago del Estero.\n\nEl peronismo atraviesa una profunda crisis interna, buscando recalibrar estrategias tras la derrota electoral y enfrentando divisiones entre sus gobernadores. Se observan intentos de bloquear la asunción de una senadora de LLA y presiones gubernamentales sobre gremios como el de los Moyano en el contexto de una posible reforma laboral. En el ámbito judicial, destacaron las acusaciones de Fabiola Yañez contra Alberto Fernández por violencia doméstica y la denuncia de senadores peronistas de \"persecución política\" por la prisión de Julio De Vido.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-16T21:15:08.598414",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-17T00:55:41.128425"
     },
     "economia": {
-      "resumen": "El mercado laboral argentino exhibe una marcada precariedad y estancamiento, con la pérdida de 33 mil empleos registrados en el último trimestre y un debate acelerado sobre una reforma de la legislación laboral. A esto se suma que el 40,8% de los hogares recurre a la venta de bienes o ahorros para subsistir, afectando particularmente a la clase media. ANSES, por su parte, informó sobre el calendario de pagos de prestaciones como jubilaciones mínimas y superiores, AUH y SUAF para noviembre y diciembre, incluyendo un bono de $70.000 con algunas exclusiones para jubilados.\n\nEn el ámbito financiero, el dólar experimenta una \"paz cambiaria\" con una tendencia bajista en su cotización oficial, aunque las múltiples variantes (ahorro, CCL, tarjeta, MEP, blue) continúan siendo monitoreadas diariamente. Mientras tanto, Bitcoin profundiza una de sus correcciones más severas del año, acercándose a los u$s90.000 en un contexto de aversión al riesgo. Existen opciones de inversión a bajo riesgo con proyecciones de ganancias en dólares, y el plazo fijo sigue siendo una alternativa en pesos.\n\nLas políticas económicas y comerciales están bajo la lupa. El acuerdo comercial con Estados Unidos, analizado por entidades empresarias, genera tensión en el país norteamericano por la ampliación de la cuota de carne argentina. Expertos advierten que sin reformas profundas, Argentina podría perder su oportunidad económica. El Banco Nación lanzó créditos para financiar el aguinaldo, pero los préstamos en pesos no logran despegar pese a la baja de tasas, y los monotributistas deben atender las modificaciones en plazos de pago de ARCA.\n\nFinalmente, en cuanto a consumo y servicios, se confirmó un aumento del boleto de colectivo en el AMBA y del saldo negativo de la tarjeta SUBE. Para reactivar el consumo, se lanzó el Black Week Nacional Mayorista con descuentos de hasta el 40%. Preocupa que 15 millones de argentinos carecen de acceso a servicios básicos como agua, gas o cloacas, con un presupuesto nacional para estas obras en mínimos históricos. El turismo en La Rioja, no obstante, mostró un crecimiento del 10%.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-16T21:15:22.230966",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-17T00:55:41.128588"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-16T21:15:22.231327"
+      "fecha_generacion": "2025-11-17T00:55:41.128749"
     }
   }
 }
