@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-17",
-  "fecha_generacion": "2025-11-17T09:21:06.077875",
+  "fecha_generacion": "2025-11-17T12:27:31.396582",
   "resumenes": {
     "internacional": {
-      "resumen": "Las elecciones presidenciales chilenas resultaron en una segunda vuelta el 14 de diciembre. Jeannette Jara (Unidad por Chile) lideró con 26.82% de los votos, seguida por José Antonio Kast (Partido Republicano) con casi 24%. El 20% obtenido por el outsider Franco Parisi será crucial. Kast, un conservador con un discurso de mano dura, buscará su tercera presidencia.\n\nEl gobierno del presidente Noboa sufrió una clara derrota en un referéndum nacional. La ciudadanía rechazó las cuatro propuestas oficiales, incluyendo la instalación de bases militares extranjeras, una reforma constitucional y la reducción del Parlamento, con entre 53% y 61% de oposición.\n\nLa tensión entre Estados Unidos y Venezuela se acentúa en el Caribe y el Pacífico. El despliegue militar estadounidense, enfocado en narcotráfico, coincide con la consideración de Donald Trump de dialogar con Nicolás Maduro. Washington también planea designar al Cártel de los Soles como terrorista. Maduro ordenó una \"vigilia permanente\" tras un ataque de EE.UU. a una \"narcolancha\" con tres muertes.\n\nEstados Unidos ha reforzado normativas migratorias y de seguridad. La TSA mantiene estrictos controles en vuelos internos. El USCIS finalizó la extensión automática del EAD, advirtiendo sobre retrasos por errores. Se emitieron guías para patrocinar Green Cards y se alertó a residentes sobre errores al viajar que afectan su elegibilidad a la ciudadanía.\n\nA nivel de desastres, Ecuador registró 22 muertes por la caída de un micro, y el Congo 32 fallecidos en un derrumbe minero. En Europa, el presidente del Senado español instó al gobierno a adelantar elecciones. Donald Trump presionó para publicar archivos de Jeffrey Epstein. Brasil inauguró una estatua gigante de la Virgen de Fátima.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-17T09:21:03.027138",
+      "resumen": "Chile se dirige a una segunda vuelta presidencial el 14 de diciembre entre Jeannette Jara (26,85%) y José Antonio Kast (23,92%), quien busca la presidencia por tercera vez con un discurso conservador de mano dura. En Ecuador, el gobierno de Noboa sufrió una dura derrota en un referéndum nacional, ya que la ciudadanía rechazó todas sus propuestas, incluyendo reformas constitucionales, la instalación de bases militares extranjeras, la reducción del parlamento y el fin del financiamiento estatal a partidos políticos.\n\nLa tensión entre Venezuela y Estados Unidos se intensifica; Nicolás Maduro ha interpretado \"Imagine\" ante un despliegue militar estadounidense en el Caribe, que Caracas considera una amenaza de invasión. Pese a ello, Donald Trump no descartó dialogar con Maduro y evalúa abrir un canal de contacto, aunque su administración designará al Cártel de los Soles como organización terrorista. En el Pacífico, un ataque de Estados Unidos contra una supuesta \"narcolancha\" elevó a 83 el número de muertes vinculadas a operativos antinarcóticos.\n\nEn Estados Unidos, el USCIS ha detallado los documentos obligatorios para migrantes con “green card” que viajan fuera del país y los requisitos para obtener un permiso de reingreso. Florida, por su parte, endurecerá las normativas de E-Verify, lo que podría afectar la contratación de miles de inmigrantes. Otros eventos relevantes incluyen el derrumbe de una mina de cobalto en la República del Congo, que dejó al menos 32 muertos, y la sugerencia del presidente del Senado español de adelantar elecciones ante la ruptura del gobierno con los catalanes.",
+      "cantidad_noticias": 20,
+      "fecha_generacion": "2025-11-17T12:27:29.731894",
       "categoria": "internacional"
     },
     "politica": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-17T09:21:03.900307",
+      "fecha_generacion": "2025-11-17T12:27:30.761573",
       "categoria": "politica"
     },
     "economia": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-17T09:21:06.077627",
+      "fecha_generacion": "2025-11-17T12:27:31.396300",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-17T09:21:06.077857"
+      "fecha_generacion": "2025-11-17T12:27:31.396562"
     }
   }
 }
