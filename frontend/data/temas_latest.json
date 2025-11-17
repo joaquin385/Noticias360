@@ -1,6 +1,467 @@
 {
-  "fecha": "2025-11-16",
-  "fecha_generacion": "2025-11-17T00:55:45.245441",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-17",
+  "fecha_generacion": "2025-11-17T03:52:09.708003",
+  "total_temas": 9,
+  "temas": [
+    {
+      "tema_id": "elecciones_presidenciales_chile_20251117",
+      "tema": "Elecciones Presidenciales Chile 2025: Balotaje",
+      "tema_normalizado": "elecciones presidenciales chile 2025: balotaje",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las elecciones presidenciales de Chile 2025 han definido un balotaje entre Jeannette Jara (izquierda oficialista) y José Antonio Kast (derecha conservadora).\n• Jara ganó la primera vuelta el domingo 16 de noviembre con un ajustado margen, forzando una segunda vuelta electoral.\n• El electorado de Franco Parisi, quien quedó en tercer lugar, es considerado clave y volátil para determinar el resultado final.\n\n🔍 **Datos clave:**\n• **Fecha del Balotaje:** Domingo 14 de diciembre de 2025.\n• **Resultados Primera Vuelta (aprox. 97% escrutado):**\n    • Jeannette Jara (Partido Comunista/Oficialismo): 26.82%\n    • José Antonio Kast (Partido Republicano): 23.97%\n    • Franco Parisi (Partido de la Gente): 19.63%\n    • Johannes Kaiser (Partido Nacional Libertario): 13.93%\n    • Evelyn Matthei (UDI/Centro-derecha): 12.53%\n• Esta fue la **primera elección presidencial con voto obligatorio** en más de tres décadas en Chile.\n\n⚡ **Desarrollo:**\n• Jeannette Jara, candidata del oficialismo y militante comunista, enfrenta el desafío de superar la desconfianza hacia su partido y ampliar su electorado más allá del gobierno de Gabriel Boric.\n• José Antonio Kast, líder de la derecha, recibió el apoyo inmediato de Johannes Kaiser y Evelyn Matthei, consolidando un frente de derecha con una ventaja inicial para el balotaje.\n• Franco Parisi, considerado un \"outsider\" populista, mantuvo el misterio sobre a quién apoyaría, señalando que su electorado no sigue endosos automáticos y buscará gestos de los candidatos.\n• El panorama político chileno se muestra profundamente polarizado, con los polos dominando la primera vuelta y un centro debilitado que será disputado en el balotaje.\n• La seguridad pública y la situación económica son temas centrales para los votantes, lo que favorece el discurso de \"orden\" de Kast frente al desgaste del actual gobierno.\n• La coalición oficialista obtuvo un resultado legislativo adverso, enfrentando una minoría en ambas cámaras del Congreso, lo que podría dificultar la gobernabilidad del próximo presidente.\n\n💡 **¿Por qué importa?**\n• El balotaje definirá entre dos visiones de país diametralmente opuestas, marcando el rumbo político, económico y social de Chile para los próximos cuatro años.\n• La movilización de los votos de los candidatos eliminados, especialmente el de Franco Parisi, será crucial para determinar quién sucederá al presidente Gabriel Boric.",
+      "cantidad_noticias": 22,
+      "noticias": [
+        {
+          "titulo": "Franco Parisi, el outsider que volvió a sorprender en las elecciones en Chile: qué pasará con sus votos",
+          "link": "https://www.lanacion.com.ar/el-mundo/franco-parisi-el-outsider-que-volvio-a-sorprender-en-las-elecciones-en-chile-que-pasara-con-sus-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:34:31"
+        },
+        {
+          "titulo": "Elecciones en Chile: Jara ganó y se enfrentará en un balotaje con Kast, que suma apoyos y arranca con ventaja",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-jara-gano-y-se-enfrentara-en-un-balotaje-con-kast-que-suma-apoyos-y-arranca-con-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:21:32"
+        },
+        {
+          "titulo": "Elecciones en Chile: los dos triunfos de la derecha y el votante que definirá al próximo presidente",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-los-dos-triunfos-de-la-derecha-y-el-votante-que-definira-al-proximo-presidente-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:17:03"
+        },
+        {
+          "titulo": "Elecciones en Chile: con Jeannette Jara, la izquierda obtiene un triunfo con sabor a derrota y un muy mal resultado legislativo",
+          "link": "https://www.clarin.com/mundo/elecciones-chile-jeannette-jara-izquierda-obtiene-triunfo-sabor-derrota-mal-resultado-legislativo_0_JQaYNlbSLZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 23:03:21"
+        },
+        {
+          "titulo": "Resultados en vivo en Chile: quién ganó las elecciones para presidente 2025",
+          "link": "https://www.lanacion.com.ar/el-mundo/resultados-en-vivo-en-chile-como-van-las-elecciones-para-presidente-2025-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:01:08"
+        },
+        {
+          "titulo": "Quién ganó las elecciones presidenciales en Chile 2025",
+          "link": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-presidenciales-en-chile-2025-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 22:59:55"
+        },
+        {
+          "titulo": "Cuándo es el balotaje presidencial de Chile 2025",
+          "link": "https://www.lanacion.com.ar/el-mundo/cuando-es-el-balotaje-presidencial-de-chile-2025-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 22:58:39"
+        },
+        {
+          "titulo": "Chile: quiénes son Jeannette Jara y José Antonio Kast, los candidatos a la presidencia",
+          "link": "https://www.ambito.com/mundo/chile-quienes-son-jeannette-jara-y-jose-antonio-kast-los-candidatos-la-presidencia-n6214513",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 22:55:44"
+        },
+        {
+          "titulo": "Clonada Elecciones en Chile: Jara ganó y se enfrentará en un balotaje con Kast, que suma apoyos y arranca con ventaja - Clone",
+          "link": "https://www.lanacion.com.ar/el-mundo/clonada-elecciones-en-chile-jara-gano-y-se-enfrentara-en-un-balotaje-con-kast-que-suma-apoyos-y-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 22:41:39"
+        },
+        {
+          "titulo": "Quién gana las elecciones presidenciales en Chile: los resultados",
+          "link": "https://www.minutouno.com/mundo/quien-gana-las-elecciones-presidenciales-chile-los-resultados-n6214458",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-16 22:11:00"
+        },
+        {
+          "titulo": "Chile: Jeannette Jara se impuso sobre José Antonio Kast por escaso margen y habrá segunda vuelta",
+          "link": "https://www.ambito.com/mundo/elecciones-chile-jornada-votacion-clave-elegir-al-sucesor-gabriel-boric-n6214362",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 21:42:00"
+        },
+        {
+          "titulo": "El Gobierno descuenta que Kast será el próximo presidente de Chile y que se profundizará el giro a la derecha en la región",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-descuenta-que-kast-sera-el-proximo-presidente-de-chile-y-que-se-profundizara-el-giro-a-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 21:23:20"
+        },
+        {
+          "titulo": "Elecciones en Chile: José Antonio Kast, el candidato que moderó su mensaje para ampliar su base y alcanzar la presidencia",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-jose-antonio-kast-el-candidato-que-modero-su-mensaje-para-ampliar-su-base-y-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 21:09:00"
+        },
+        {
+          "titulo": "Elecciones en Chile: quién es Jeanette Jara, la candidata comunista que enfrentará un camino difícil hacia el balotaje",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-en-chile-quien-es-jeanette-jara-la-candidata-comunista-que-enfrentara-un-camino-dificil-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 21:01:57"
+        },
+        {
+          "titulo": "Elecciones Chile 2025, en vivo: la espera por los resultados minuto a minuto y las últimas noticias",
+          "link": "https://www.lanacion.com.ar/el-mundo/elecciones-chile-2025-en-vivo-la-espera-por-los-resultados-minuto-a-minuto-y-las-ultimas-noticias-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 20:34:57"
+        },
+        {
+          "titulo": "José Antonio Kast, el conservador que busca por tercera vez la presidencia de Chile",
+          "link": "https://www.clarin.com/mundo/jose-antonio-kast-conservador-busca-tercera-vez-presidencia-chile_0_yMaCZtYK80.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 20:26:43"
+        },
+        {
+          "titulo": "Elecciones en Chile: Jeannette Jara, la militante comunista que ya ganó dos veces y busca el triunfo definitivo",
+          "link": "https://www.clarin.com/mundo/elecciones-chile-jeannette-jara-militante-comunista-gano-veces-busca-triunfo-definitivo_0_ycsv9xG5pX.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 20:26:26"
+        },
+        {
+          "titulo": "Elecciones en Chile: Jeannette Jara llamó al diálogo y pidió evitar \"volver a épocas de dictadura\"",
+          "link": "https://www.ambito.com/mundo/elecciones-chile-jeannette-jara-llamo-al-dialogo-y-pidio-evitar-volver-epocas-dictadura-n6214460",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 18:23:00"
+        },
+        {
+          "titulo": "Elecciones presidenciales en Chile: gana la oficialista Jeannette Jara pero tendrá que disputar una segunda vuelta con José Antonio Kast",
+          "link": "https://www.clarin.com/mundo/elecciones-presidenciales-chile-amplia-participacion-incidentes-cierran-urnas-comienzan-contar-votos_0_FtgLln2IO5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 18:01:55"
+        },
+        {
+          "titulo": "Elecciones en Chile: Gabriel Boric votó y llamó a la unidad nacional",
+          "link": "https://www.minutouno.com/mundo/elecciones-chile-gabriel-boric-voto-y-llamo-la-unidad-nacional-n6214405",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-16 13:47:00"
+        },
+        {
+          "titulo": "Elecciones en Chile: las encuestas anticipan un balotaje entre el oficialismo y la ultraderecha",
+          "link": "https://www.minutouno.com/mundo/elecciones-chile-las-encuestas-anticipan-un-balotaje-el-oficialismo-y-la-ultraderecha-n6214397",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-16 13:00:00"
+        },
+        {
+          "titulo": "Elecciones en Chile: el candidato libertario habló del \"milagro\" de Milei pero aclaró que el modelo argentino no es extrapolable a su país",
+          "link": "https://www.clarin.com/politica/elecciones-chile-candidato-libertario-hablo-milagro-milei-aclaro-modelo-argentino-extrapolable-pais_0_AypWNWrWyn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 10:30:21"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "referendum_constitucional_ecuador:_20251117",
+      "tema": "Referéndum Constitucional Ecuador: Derrota Noboa",
+      "tema_normalizado": "referendum constitucional ecuador: derrota noboa",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los ecuatorianos votaron en un referéndum y rechazaron contundentemente las cuatro preguntas principales impulsadas por el presidente Daniel Noboa.\n• Este resultado representa una clara derrota política para el gobierno de Noboa, quien buscaba importantes reformas constitucionales y la habilitación de bases militares extranjeras.\n\n🔍 **Datos clave:**\n• **Fecha:** La jornada de votación se realizó un domingo reciente.\n• **Participación:** Más de 13.9 millones de ecuatorianos estaban habilitados, con una asistencia a las urnas que superó el 80%.\n• **Propuestas rechazadas:** Todas las iniciativas del presidente Noboa fueron desaprobadas por la ciudadanía.\n• **Rechazo a nueva Constitución:** Alrededor del 60-61% de los votantes se opuso a iniciar un proceso constituyente.\n• **Rechazo a bases militares extranjeras:** Aproximadamente el 60-61% votó en contra de permitir su instalación, una prohibición vigente desde 2009.\n\n⚡ **Desarrollo:**\n• El referéndum incluía preguntas clave como la convocatoria a una Asamblea Constituyente para redactar una nueva Carta Magna y la posibilidad de reinstalar bases militares extranjeras.\n• El presidente Noboa argumentó que la Constitución vigente desde 2008 (promovida por Rafael Correa) limita su capacidad para combatir el crimen organizado y atraer inversiones, abogando por \"refundar el país\".\n• Otras propuestas rechazadas fueron la reducción de la Asamblea Nacional de 151 a 73 miembros (con un rechazo del 52-57%) y la eliminación del financiamiento público para los partidos políticos (rechazado por 57.31%).\n• Daniel Noboa, quien siguió el escrutinio desde Olón, reconoció la derrota mediante una publicación en X, afirmando que su \"compromiso no cambia, se fortalece\" y que respetaba la voluntad popular.\n• La principal fuerza de oposición, el correísmo, con su excandidata Luisa González, hizo una fuerte campaña por el \"No\". El expresidente Rafael Correa celebró la victoria desde el exterior, calificándola de \"gran triunfo de todo un pueblo\".\n• Expertos como Matías Abad interpretaron el resultado como un \"voto de hartazgo\" de una ciudadanía afectada por la inseguridad y el deterioro de la calidad de vida, más que un respaldo directo a la oposición.\n\n💡 **¿Por qué importa?**\n• La derrota representa un freno significativo a la agenda legislativa y de reformas del presidente Daniel Noboa, limitando sus herramientas para enfrentar los desafíos del país.\n• Este resultado evidencia un claro mensaje de descontento popular hacia las propuestas del gobierno, lo que podría reconfigurar el escenario político ecuatoriano a mediano y largo plazo.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Freno a Noboa: Ecuador rechazó en un referéndum el regreso de las bases militares extranjeras y sus otras propuestas",
+          "link": "https://www.lanacion.com.ar/el-mundo/freno-a-noboa-ecuador-rechazo-en-un-referendum-el-regreso-de-las-bases-militares-extranjeras-y-sus-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:45:24"
+        },
+        {
+          "titulo": "Referéndum en Ecuador: el oficialismo sufrió una dura derrota y la ciudadanía rechazó la reforma constitucional",
+          "link": "https://www.ambito.com/mundo/referendum-ecuador-jornada-clave-definir-una-posible-reforma-constitucional-y-el-regreso-bases-militares-extranjeras-n6214389",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 23:15:00"
+        },
+        {
+          "titulo": "Referéndum en Ecuador: los resultados oficiales dan una derrota del gobierno de Noboa en las cuatro preguntas",
+          "link": "https://www.clarin.com/mundo/referendum-ecuador-primeros-resultados-oficiales-dan-derrota-gobierno-noboa-preguntas_0_erHqVLYRvZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 22:06:32"
+        },
+        {
+          "titulo": "Cierran las urnas del referéndum en Ecuador y se inicia el escrutinio de votos",
+          "link": "https://www.clarin.com/mundo/cierran-urnas-referendum-ecuador-inicia-escrutinio-votos_0_iRoZmCUuOh.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 19:11:27"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tension_eeuu-venezuela:_dialogo_20251117",
+      "tema": "Tensión EEUU-Venezuela: Diálogo y Operaciones Antinarco",
+      "tema_normalizado": "tension eeuu-venezuela: dialogo y operaciones antinarco",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos evalúa abrir un canal de diálogo con el gobierno de Nicolás Maduro, a pesar de las crecientes tensiones y un notable despliegue militar en el Caribe.\n*   En paralelo, Washington intensifica sus operaciones antinarcóticos y se prepara para designar al Cártel de los Soles como organización terrorista extranjera.\n*   Venezuela, por su parte, ha respondido con una \"vigilia permanente\" y movilización de sus fuerzas ante lo que considera una amenaza militar directa.\n\n🔍 **Datos clave:**\n*   **83+ personas:** Número de fallecidos en operativos antinarcóticos de EE. UU. en el Caribe y Pacífico desde septiembre.\n*   **24 de noviembre:** Fecha en que el Cártel de los Soles será designado oficialmente como Organización Terrorista Extranjera (FTO) por EE. UU.\n*   **USS Gerald R. Ford:** Portaaviones estadounidense, el más grande de su flota, desplegado en aguas caribeñas como parte de un operativo.\n*   **$50 millones:** Recompensa ofrecida por EE. UU. por la captura de Nicolás Maduro.\n*   **6 estados venezolanos:** Bolívar, Delta Amacuro, Monagas, Anzoátegui, Nueva Esparta y Sucre, puestos en \"vigilia permanente\" por Maduro.\n\n⚡ **Desarrollo:**\n*   El presidente Donald Trump manifestó su disposición a conversar con Maduro, señalando que Venezuela ha expresado su interés en el diálogo, pese a la escalada de la tensión.\n*   La declaración de Trump coincide con un reforzamiento militar de EE. UU. en el Caribe, incluyendo el portaaviones USS Gerald R. Ford, bajo el argumento de combatir el narcotráfico y presionar al gobierno chavista.\n*   El Departamento de Estado confirmó que el Cártel de los Soles, organización vinculada a altos mandos del chavismo, será catalogado como FTO, lo que habilita sanciones más severas y acciones directas contra sus redes.\n*   Las operaciones antinarcóticos del Comando Sur han implicado ataques a \"narcolanchas\" en el Caribe y Pacífico, resultando en al menos 83 muertes, sin que EE. UU. presente pruebas concluyentes sobre todos los individuos.\n*   Nicolás Maduro calificó los ejercicios militares de EE. UU. en Trinidad y Tobago como \"irresponsables\" y ordenó la movilización civil, militar y policial en seis estados fronterizos y costeros.\n*   Maduro acusa a Washington de buscar \"desencadenar acciones violentas\" y un conflicto, mientras EE. UU. sigue sin reconocerlo como presidente legítimo de Venezuela.\n\n💡 **¿Por qué importa?**\n*   La situación representa una compleja dualidad entre la apertura a un posible diálogo y una escalada de presión militar y sanciones, manteniendo un alto nivel de tensión en la región caribeña.\n*   Las operaciones antinarcóticos de EE. UU. plantean interrogantes sobre la legalidad internacional y los derechos humanos, mientras la designación del Cártel de los Soles podría abrir la puerta a acciones más contundentes contra el gobierno venezolano.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Donald Trump evalúa abrir un canal con Nicolás Maduro en medio de la escalada de tensiones",
+          "link": "https://www.ambito.com/mundo/donald-trump-evalua-abrir-un-canal-nicolas-maduro-medio-la-escalada-tensiones-n6214521",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 23:55:59"
+        },
+        {
+          "titulo": "Trump afirma que están hablando con la dictadura chavista, pero mantiene la ofensiva contra las narcolanchas en el Caribe y en Pacífico",
+          "link": "https://www.lanacion.com.ar/el-mundo/estados-unidos-hundio-otra-supuesta-lancha-narco-hubo-tres-muertos-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 19:49:21"
+        },
+        {
+          "titulo": "Un nuevo ataque de Estados Unidos contra una supuesta \"narcolancha\" en el Pacífico eleva cifra de muertes a 83 personas",
+          "link": "https://www.clarin.com/mundo/nuevo-ataque-estados-unidos-supuesta-narcolancha-pacifico-eleva-cifra-muertes-83-personas_0_plO4NN7zUr.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 19:43:26"
+        },
+        {
+          "titulo": "Nicolás Maduro ordena una \"vigilia permanente\" ante el avance militar de EEUU y crece la tensión en el Caribe",
+          "link": "https://www.ambito.com/mundo/nicolas-maduro-ordena-una-vigilia-permanente-el-avance-militar-eeuu-y-crece-la-tension-el-caribe-n6214367",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 11:09:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "negociaciones_politicas_argentina:_20251117",
+      "tema": "Negociaciones Políticas Argentina: Santilli y Gobernadores",
+      "tema_normalizado": "negociaciones politicas argentina: santilli y gobernadores",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro del Interior, Diego Santilli, está llevando a cabo una intensa ronda de reuniones con gobernadores provinciales.\n• El objetivo principal es asegurar el apoyo legislativo para la aprobación del Presupuesto 2026 y otras reformas clave.\n• Estas negociaciones, impulsadas por el presidente Javier Milei, buscan fortalecer el vínculo con las provincias y obtener consensos en el Congreso.\n\n🔍 **Datos clave:**\n• **Negociador principal:** Diego Santilli, Ministro del Interior.\n• **Presidente impulsor:** Javier Milei.\n• **Número de gobernadores a negociar:** 20 (excluyendo a 4 peronistas).\n• **Gobernadores excluidos (peronistas):** Axel Kicillof (Buenos Aires), Ricardo Quintela (La Rioja), Gildo Insfrán (Formosa) y Gustavo Melella (Tierra del Fuego).\n• **Proyectos prioritarios:** Presupuesto 2026, reformas laboral, penal y tributaria.\n• **Concesión a provincias:** Avales nacionales para que puedan tomar deuda.\n• **Áreas recuperadas por Interior:** Registro Nacional de las Personas (Renaper) y la Subsecretaría de Deportes.\n• **Sesiones para Presupuesto:** Extraordinarias del Congreso.\n\n⚡ **Desarrollo:**\n• Santilli, por instrucción presidencial, recorre el interior del país para escuchar las agendas de los gobernadores y buscar apoyo para las reformas estructurales.\n• La principal premisa del Gobierno Nacional es lograr consensos \"sin perder el equilibrio fiscal\", priorizando la sostenibilidad económica.\n• Los gobernadores, por su parte, demandan más recursos, el cumplimiento de obras públicas y la definición de temas como los ATN y el impuesto a los combustibles líquidos.\n• Como una de las primeras \"victorias\" de las negociaciones, se consolida el consenso para que en 2026 haya un presupuesto nacional aprobado.\n• El Gobierno promete avales nacionales para que las provincias puedan acceder a financiamiento a través de deuda con organismos o mercados, aprovechando la baja del riesgo país.\n• Los mandatarios provinciales coinciden en la necesidad de reformas, pero advierten que no aprobarán \"a libro cerrado\" las iniciativas que envíe el Poder Ejecutivo al Congreso.\n• El Ministerio del Interior ha sido empoderado, recuperando áreas como el Renaper y Deportes, que le otorgan mayor poder negociador en el gabinete.\n• La Dirección Nacional de Migraciones, sin embargo, permanecerá bajo la órbita del Ministerio de Seguridad, en una decisión acordada.\n• Se trabaja en una \"adenda\" al proyecto de Presupuesto para incorporar la obra pública reclamada por las provincias, involucrando a figuras como Martín Menem y Patricia Bullrich.\n\n💡 **¿Por qué importa?**\n• Estas negociaciones son cruciales para la gobernabilidad del Presidente Javier Milei, ya que buscan asegurar el respaldo legislativo necesario para impulsar su agenda de reformas económicas y estructurales.\n• El éxito o fracaso de estas conversaciones definirá la capacidad del gobierno nacional para implementar sus políticas y establecerá las bases de la relación con las provincias en el mediano plazo.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Diego Santilli prepara nuevas reuniones con gobernadores, excluyendo a peronistas",
+          "link": "https://www.minutouno.com/politica/diego-santilli-prepara-nuevas-reuniones-gobernadores-excluyendo-peronistas-n6214506",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-16 21:56:00"
+        },
+        {
+          "titulo": "A una semana del debut de Santilli, suma consenso la sanción del presupuesto y a cambio Nación avala que las provincias tomen deuda",
+          "link": "https://www.lanacion.com.ar/politica/a-una-semana-del-debut-de-santilli-suma-consenso-la-sancion-del-presupuesto-y-a-cambio-nacion-avala-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 21:34:22"
+        },
+        {
+          "titulo": "Diego Santilli avanza con las reuniones con gobernadores y recibirá al rionegrino Alberto Weretilneck",
+          "link": "https://www.ambito.com/politica/diego-santilli-avanza-las-reuniones-gobernadores-y-recibira-alberto-weretilneck-n6214472",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 19:59:00"
+        },
+        {
+          "titulo": "Santilli termina la ronda de reuniones con gobernadores y buscan sellar el apoyo para aprobar el Presupuesto",
+          "link": "https://www.clarin.com/politica/santilli-termina-ronda-reuniones-gobernadores-buscan-sellar-apoyo-aprobar-presupuesto_0_eIbLlAvaoj.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 18:03:29"
+        },
+        {
+          "titulo": "Marcha atrás del Gobierno en recortes de áreas: empoderan a Diego Santilli en el Ministerio del Interior",
+          "link": "https://www.ambito.com/politica/marcha-atras-del-gobierno-recortes-areas-empoderan-diego-santilli-el-ministerio-del-interior-n6214335",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 11:22:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "economia_argentina:_credito_20251117",
+      "tema": "Economía Argentina: Crédito y Empleo",
+      "tema_normalizado": "economia argentina: credito y empleo",
+      "resumen": "📌 **¿Qué está pasando?**\n• La economía argentina enfrenta un escenario complejo con una considerable pérdida de empleo y un estancamiento en el sector del crédito.\n• Desde la asunción de Javier Milei, se registra una marcada caída de puestos de trabajo registrados y el cierre de numerosas empresas.\n• A la par, el crédito al sector privado no logra reactivarse, a pesar de las bajas de tasas, y la mora en los pagos se extiende incluso a hogares de mayores ingresos.\n\n🔍 **Datos clave:**\n• **276.624:** Puestos de trabajo registrados perdidos entre noviembre de 2023 y agosto de 2025.\n• **19.164:** Empresas con personal registrado que cerraron en el mismo período, promediando casi 30 cierres diarios.\n• **6,6%:** Ratio de mora para los préstamos a las familias a agosto último, superando el 1,4% para empresas.\n• **$84,9 billones:** Saldo total de préstamos en pesos al sector privado a octubre de 2025, con un crecimiento real mensual de solo 0,3%.\n• **Jóvenes (18-25 años):** Franja etaria con mayores dificultades para cumplir con los compromisos financieros.\n\n⚡ **Desarrollo:**\n• Un informe del CEPA revela que se perdieron 276.624 puestos de trabajo registrados entre noviembre de 2023 y agosto de 2025, lo que equivale a más de 432 bajas diarias.\n• Los sectores más golpeados por la pérdida de empleo fueron Administración Pública, Construcción (con una caída del 16%), Servicios de Transporte y Almacenamiento, e Industria Manufacturera.\n• En cuanto a los cierres, 19.164 empresas con personal registrado dejaron de operar; las firmas con hasta 500 empleados concentraron el 99,63% de estas bajas.\n• A pesar de que las pequeñas y medianas empresas concentraron los cierres, las compañías más grandes (más de 500 empleados) explicaron el 68,15% de los puestos de trabajo eliminados.\n• La mora en el pago de préstamos y tarjetas de crédito se ha incrementado, impactando incluso a los sectores de mayores ingresos, lo que indica un estrés financiero generalizado, según un estudio de SIISA.\n• Los jóvenes de entre 18 y 25 años, que acceden a menos crédito, presentan mayores tasas de mora, debido a una menor tasa de empleo formal y menores ingresos.\n• El crédito en pesos al sector privado se mantuvo estancado en octubre de 2025, con un crecimiento real de apenas 0,3% mensual, a pesar de la baja de tasas.\n• Préstamos personales y saldos de tarjetas de crédito registraron caídas reales en octubre, mientras que los préstamos en dólares retrocedieron un 2,5% mensual, rompiendo una tendencia de casi dos años al alza.\n• Los bancos priorizan la \"sanidad de la cartera\" ante el aumento de la morosidad, y la incertidumbre cambiaria disuade la toma de nuevos compromisos en moneda extranjera.\n\n💡 **¿Por qué importa?**\n• La combinación de una fuerte destrucción de empleo y un sistema crediticio contraído limita la capacidad de crecimiento y recuperación económica del país.\n• El estancamiento del crédito y el aumento de la morosidad reflejan un clima de incertidumbre que impacta negativamente en la inversión, el consumo y la estabilidad financiera de familias y empresas.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Desde que asumió Javier Milei, se perdieron 276.000 puestos de trabajo registrados y cerraron casi 30 empresas por día",
+          "link": "https://www.ambito.com/economia/desde-que-asumio-javier-milei-se-perdieron-276-mil-puestos-trabajo-registrados-y-cerraron-casi-30-empresas-dia-n6214507",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 22:12:00"
+        },
+        {
+          "titulo": "Ni la clase alta se salva: crecen los atrasos en el pago de préstamos y tarjetas de crédito",
+          "link": "https://www.clarin.com/economia/clase-alta-salva-crecen-atrasos-pago-prestamos-tarjetas-credito_0_gZ0xzvpWYa.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 22:06:39"
+        },
+        {
+          "titulo": "El crédito privado siguió estancado en octubre",
+          "link": "https://www.lanacion.com.ar/economia/el-credito-privado-siguio-estancado-en-octubre-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 18:42:12"
+        },
+        {
+          "titulo": "Los préstamos en pesos no logran despegar pese a la baja de tasas y señales de reactivación",
+          "link": "https://www.ambito.com/economia/los-prestamos-pesos-no-logran-despegar-pese-la-baja-tasas-y-senales-reactivacion-n6214376",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 11:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "presupuesto_bonaerense:_debate_20251117",
+      "tema": "Presupuesto Bonaerense: Debate Kicillof y La Cámpora",
+      "tema_normalizado": "presupuesto bonaerense: debate kicillof y campora",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Axel Kicillof inicia una semana clave con el debate en la Legislatura bonaerense sobre el Presupuesto provincial 2026, la Ley Fiscal Impositiva y una solicitud de financiamiento.\n• Este proceso genera tensiones internas, principalmente con La Cámpora, que exige mayor diálogo y concreción en los proyectos presentados por el Ejecutivo.\n• La oposición, tanto interna del PJ como de otros espacios, también presenta sus demandas para otorgar el apoyo necesario para la aprobación de las leyes.\n\n🔍 **Datos clave:**\n• **Presupuesto 2026:** El Estado bonaerense prevé un gasto total de 43 billones de pesos para el próximo período.\n• **Endeudamiento solicitado:** Se busca financiamiento externo por 3.865 millones de dólares.\n• **Astillero Río Santiago (ARS):** Estima un gasto de $105.175 millones de pesos y solo $1.210 millones de ingresos en 2026.\n• **Empleados ARS:** Cuenta con 2.700 agentes, destinando el 93,5% de su presupuesto a remuneraciones, con un sueldo promedio de $2.800.000.\n• **Reunión clave:** La comisión de Presupuesto e Impuestos fue convocada para el martes 18 a las 14hs para iniciar el debate.\n\n⚡ **Desarrollo:**\n• El presidente de la Cámara de Diputados, Alexis Guerrera, convocó formalmente a la comisión para dar comienzo al tratamiento parlamentario de las leyes enviadas por Kicillof.\n• La senadora Teresa García, referente de La Cámpora, había solicitado previamente “mayor diálogo” con el gobernador y concreciones al presentar los proyectos.\n• El oficialismo designó a Mariano Cascallares y Gabriel Katopodis como negociadores en Diputados, y a Verónica Magario en el Senado, para buscar los consensos necesarios.\n• La oposición exige negociar cargos pendientes, como los de la Suprema Corte bonaerense, y un fondo de libre disponibilidad para los intendentes, propuesta que el ministro Carlos Bianco calificó de \"inviable\", sugiriendo un 8% de los fondos a distribuir.\n• Un punto de fuerte observación en el Presupuesto es el Astillero Río Santiago (ARS), considerado un \"elefante blanco\" por su desequilibrio financiero.\n• El ARS, fundado en 1953, no ha firmado un contrato de construcción de gran calado en 20 años y su presupuesto previsto para 2026 supera más del doble al de todo el Ministerio de Producción.\n\n💡 **¿Por qué importa?**\n• La aprobación del Presupuesto 2026 es crucial para definir la capacidad de gestión de Axel Kicillof y las prioridades de la provincia de Buenos Aires.\n• Las negociaciones y tensiones con La Cámpora y la oposición son determinantes para la gobernabilidad, mientras que casos como el del Astillero Río Santiago evidencian la lupa sobre la eficiencia del gasto público.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Semana crucial entre Axel Kicillof y La Cámpora: comienza el debate por el Presupuesto bonaerense",
+          "link": "https://www.perfil.com/noticias/politica/semana-crucial-entre-axel-kicillof-y-la-campora-comienza-el-debate-por-el-presupuesto-bonaerense.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-16 21:38:07"
+        },
+        {
+          "titulo": "El \"elefante blanco\" del Presupuesto de Kicillof: Astillero Río Santiago gasta 100 mil millones, recauda mil y no tiene contratos",
+          "link": "https://www.clarin.com/politica/elefante-blanco-presupuesto-kicillof-astillero-rio-santiago-gasta-100-mil-millones-recauda-mil-contratos_0_Zo07LEhO92.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 19:09:19"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "comercio_y_consumo_20251117",
+      "tema": "Comercio y Consumo Argentina: Black Week",
+      "tema_normalizado": "comercio y consumo argentina: black week",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se está desarrollando la Black Week mayorista en Argentina, un evento organizado por la Cámara Argentina de Distribuidores y Autoservicios Mayoristas (CADAM).\n• La iniciativa busca reactivar el consumo y el volumen de ventas en el sector, ofreciendo rebajas de hasta el 40% en una amplia variedad de productos.\n• Está dirigida tanto al público general como a los comercios de proximidad, buscando impulsar la cadena comercial completa.\n\n🔍 **Datos clave:**\n• **Fecha:** Del lunes al domingo 23 de noviembre.\n• **Organizador:** Cámara Argentina de Distribuidores y Autoservicios Mayoristas (CADAM).\n• **Descuentos:** Hasta 40% en productos de consumo masivo.\n• **Caída ventas mayoristas:** 5,4% en el primer semestre del año.\n• **Consumo Masivo (Septiembre interanual):** Creció 4,4%, pero cayó 3,7% intermensual.\n• **Caída Mayoristas (acumulado anual):** Registra una baja del 5,3%.\n• **Comercio Electrónico (acumulado anual):** Muestra un crecimiento del 11,9%.\n\n⚡ **Desarrollo:**\n• La Black Week mayorista es un esfuerzo conjunto entre fabricantes, distribuidores y mayoristas para dinamizar el consumo en un contexto de ventas débiles y menor poder adquisitivo.\n• El evento busca generar un efecto multiplicador que beneficie a toda la cadena, desde los grandes proveedores hasta los pequeños almacenes y autoservicios de barrio, que son clave en el abastecimiento cotidiano.\n• Los mayoristas adheridos participan con ofertas tanto en sus puntos de venta físicos como en sus canales online, en categorías como alimentos, bebidas, artículos de limpieza y perfumería.\n• Inspirada en los eventos \"Black\", la acción tiene como objetivo que las cuentas en \"rojo\" de los balances se acerquen al \"negro\", impulsando así la rentabilidad del sector.\n• Pese a acciones como esta, el sector mayorista y de consumo masivo enfrenta desafíos, con caídas en la mayoría de los canales y una demanda de los comerciantes de una reforma fiscal y laboral que reduzca costos.\n• Factores como tener un día menos en septiembre y el impacto del Día del Empleado de Comercio influyeron en la retracción mensual de las ventas en varios canales.\n• El comercio electrónico se destaca como el único canal con crecimiento sostenido, mostrando mejoras significativas tanto interanuales como acumuladas.\n\n💡 **¿Por qué importa?**\n• Esta Black Week es una oportunidad crucial para el sector mayorista y los consumidores argentinos para reactivar las ventas y acceder a productos con descuentos significativos antes de fin de año.\n• El evento subraya la fragilidad del consumo y la economía, evidenciando que, si bien las promociones son un alivio temporal, la recuperación sostenible requiere cambios estructurales demandados por el sector comercial.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Arranca este lunes el Black Week mayorista",
+          "link": "https://www.lanacion.com.ar/economia/arranca-manana-el-black-week-mayorista-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 21:42:06"
+        },
+        {
+          "titulo": "Arranca el Black Week Nacional Mayorista: una semana de descuentos para reactivar el consumo",
+          "link": "https://www.ambito.com/economia/arranca-el-black-week-nacional-mayorista-una-semana-descuentos-reactivar-el-consumo-n6214399",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 12:23:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "mercado_criptomonedas:_ethereum_20251117",
+      "tema": "Mercado Criptomonedas: Ethereum y Bitcoin",
+      "tema_normalizado": "mercado criptomonedas: ethereum y bitcoin",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado de criptomonedas presenta una fuerte dicotomía: Bitcoin sufre una corrección significativa mientras se lanza una alianza clave para la adopción de Ethereum.\n*   Bitcoin se acerca a los u$s90.000, habiendo retrocedido más del 20% desde principios de octubre, impulsado por la aversión global al riesgo y retiros de fondos masivos.\n*   Simultáneamente, las empresas BoulderTech y Lambda Class crearon BoulderLam para integrar el ecosistema Ethereum de forma segura y regulada en instituciones de América Latina.\n\n🔍 **Datos clave:**\n*   **u$s90.000:** Nivel de precio al que Bitcoin se acerca, considerado un punto con poco soporte técnico en el contexto actual.\n*   **20%:** Retroceso acumulado de Bitcoin desde su récord alcanzado a comienzos de octubre.\n*   **u$s19.000 millones:** Valor de operaciones liquidadas el 10 de octubre, borrando más de u$s1 billón del valor total del ecosistema cripto.\n*   **u$s870 millones:** Salidas netas de los ETF de Bitcoin en un solo día, siendo la segunda mayor retirada diaria desde su lanzamiento.\n*   **BoulderLam:** Nombre de la alianza estratégica creada por BoulderTech (respaldada por Grupo IRSA) y Lambda Class.\n*   **Rodrigo Benzaquen:** CEO de BoulderLam, quien señaló la necesidad de cerrar la brecha para que las instituciones adopten las criptomonedas con seguridad.\n\n⚡ **Desarrollo:**\n*   La caída de Bitcoin se atribuye a una fuerte aversión global al riesgo, retiros masivos de fondos vinculados a criptoactivos y una menor liquidez en el mercado.\n*   Los fondos cotizados en bolsa (ETF) de Bitcoin registraron importantes salidas de capital, reflejando una disminución del apetito inversor y la incertidumbre sobre la política monetaria de Estados Unidos.\n*   La liquidez del mercado cripto ha caído aproximadamente un 30% desde su máximo anual, lo que amplifica la volatilidad y los bruscos movimientos de precios.\n*   BoulderLam busca desarrollar infraestructura para que empresas e instituciones accedan al ecosistema Ethereum, centrándose en la tokenización de activos reales (RWA).\n*   La alianza utilizará Ethereum como su columna vertebral tecnológica para construir soluciones empresariales que integren el mundo financiero tradicional con la economía digital, garantizando trazabilidad y seguridad criptográfica.\n*   Lambda Class aporta su reconocida capacidad técnica en sistemas distribuidos y blockchain, incluyendo la construcción de componentes de Ethereum como Ethrex, mientras BoulderTech suma su experiencia institucional y en cumplimiento regulatorio.\n\n💡 **¿Por qué importa?**\n*   La corrección de Bitcoin subraya la elevada sensibilidad de las criptomonedas a los factores macroeconómicos y la política monetaria global, consolidando su percepción como activos de riesgo.\n*   La iniciativa BoulderLam es crucial para la institucionalización del mercado cripto, promoviendo la adopción segura y regulada de Ethereum y facilitando la integración de la economía digital en el sector empresarial tradicional de América Latina.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Lanzan una alianza para acercar el ecosistema Ethereum a las empresas",
+          "link": "https://www.clarin.com/economia/lanzan-alianza-acercar-ecosistema-ethereum-empresas_0_Wk1XbaXowD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 23:59:11"
+        },
+        {
+          "titulo": "Bitcoin se acerca a los u$s90.000: qué está detrás de la fuerte corrección del mercado de criptomonedas",
+          "link": "https://www.ambito.com/finanzas/bitcoin-se-acerca-los-us90000-que-esta-detras-la-fuerte-correccion-del-mercado-criptomonedas-n6214417",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-16 14:21:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "articulacion_politica_pro:_20251117",
+      "tema": "Articulación Política PRO: Bullrich y Senado",
+      "tema_normalizado": "articulacion politica pro: bullrich y senado",
+      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich, ministra de Seguridad y senadora nacional electa, prepara su desembarco en el Senado y se reunió con la vicepresidenta Victoria Villarruel.\n• Bullrich busca que Villarruel \"ayude a empujar los proyectos\" que el Gobierno de Javier Milei necesita y pidió al PRO que apoye estas iniciativas \"sin miedo\" y \"sin cortapisas\".\n\n🔍 **Datos clave:**\n• **Actores principales:** Patricia Bullrich, Victoria Villarruel, PRO (Mauricio Macri), La Libertad Avanza (LLA).\n• **Rol de Bullrich:** Dejará el Ministerio de Seguridad para liderar el bloque de LLA en el Senado, buscando al menos 37 votos para los proyectos.\n• **Fecha clave:** Bullrich propone adelantar la sesión preparatoria del Senado de su fecha reglamentaria del 24 de febrero a diciembre.\n• **Reunión:** Se llevó a cabo el pasado viernes con Villarruel, donde se notaron \"ciertas diferencias\" sobre el rol de la Vicepresidenta.\n\n⚡ **Desarrollo:**\n• Bullrich expresó que la Vicepresidenta, al ser parte del gobierno, debería \"tomar partido\" y apoyar activamente la agenda legislativa del Ejecutivo.\n• Su principal objetivo será asegurar el quórum y construir las mayorías necesarias para aprobar el paquete de reformas que el gobierno de Milei planea impulsar.\n• La ministra dejó un mensaje contundente al PRO, partido con el que había roto meses atrás, instando a todos los sectores republicanos a apoyar al gobierno sin objeciones para evitar \"volver al populismo\".\n• Su transición implica dejar una tarea ejecutiva de toma de decisiones constante para dedicarse a la \"conversación\" y la articulación política en el parlamento.\n• Esta estrategia de Bullrich también busca impedir que el Congreso actual sesione antes del 10 de diciembre, evitando que la oposición logre aprobar ciertas medidas o designaciones pendientes.\n• El adelantamiento de la sesión preparatoria en diciembre tiene precedentes en 2023, con Cristina Kirchner, y en 2019, con Federico Pinedo para el PRO, estableciendo que la presidencia provisional del Senado debe ir al partido gobernante.\n\n💡 **¿Por qué importa?**\n• La incorporación de Patricia Bullrich al Senado como figura clave de LLA es fundamental para la capacidad del gobierno de Milei de articular acuerdos y aprobar su agenda de reformas económicas y políticas.\n• Su rol en la Cámara alta será determinante para la gobernabilidad y la relación con la oposición y los aliados, definiendo el margen de maniobra legislativa del Ejecutivo desde el inicio.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Patricia Bullrich habló sobre su reunión con Villarruel y le dejó un mensaje al Pro previo a su desembarco en el Senado",
+          "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-hablo-sobre-su-reunion-con-villarruel-y-le-dejo-un-mensaje-al-pro-previo-a-su-nid16112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-16 23:43:50"
+        },
+        {
+          "titulo": "Patricia Bullrich avanza en el Senado, Santilli en el espejo de De Narváez y el objetivo común de libertarios y K",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-avanza-senado-santilli-espejo-narvaez-objetivo-comun-libertarios-k_0_TXghIZdjNx.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-16 18:29:17"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-17",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
