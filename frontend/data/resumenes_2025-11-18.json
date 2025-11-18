@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-18",
-  "fecha_generacion": "2025-11-18T12:31:53.029599",
+  "fecha_generacion": "2025-11-18T15:18:35.225811",
   "resumenes": {
     "internacional": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 10,
-      "fecha_generacion": "2025-11-18T12:31:43.951282",
+      "resumen": "La política exterior de Estados Unidos, bajo la administración Trump, se enfoca en una \"Doctrina Donroe\" que busca reforzar su control sobre América Latina mediante recompensas a aliados y sanciones a adversarios, generando debate sobre la intervención en Venezuela. A nivel global, el Consejo de Seguridad de la ONU aprobó un plan de paz para Gaza propuesto por Trump, que establece un alto el fuego, la creación de una Junta de Paz y el despliegue de una fuerza internacional para desmilitarizar el enclave. Esta resolución, que incluye referencias a una Palestina independiente, fue bien recibida por Israel y la Autoridad Palestina, aunque rechazada por Hamas. Internamente, Trump también ha lanzado medidas para abordar el costo de vida en EE.UU.\n\nEn materia de infraestructura global, China ha reafirmado su liderazgo al inaugurar el tren bala CR450, el más rápido del mundo. Este modelo alcanzó 450 km/h en pruebas y operará a 400 km/h. Por otra parte, Sudáfrica ha iniciado una investigación ante la llegada de cientos de residentes palestinos de Gaza en vuelos calificados como misteriosos y sospechosos.\n\nEn el ámbito regional y deportivo, Chile se prepara para una segunda vuelta presidencial en diciembre de 2025 entre Jeannette Jara y José Antonio Kast. Paralelamente, las eliminatorias de Concacaf para el Mundial 2026 están en una fase crucial, con partidos decisivos para definir clasificaciones, mientras se prepara el sorteo del Mundial 2026, donde las selecciones de Concacaf, a excepción de los anfitriones, ocuparán el cuarto bombo.",
+      "cantidad_noticias": 20,
+      "fecha_generacion": "2025-11-18T15:18:08.325178",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 21,
-      "fecha_generacion": "2025-11-18T12:31:52.651452",
+      "resumen": "El Gobierno de Javier Milei mantiene una intensa agenda, con un paquete económico de USD 20.000 millones respaldado por EE. UU. y el desafío de posicionarse como un líder regional alineado con Donald Trump. Sin embargo, su administración enfrenta una investigación por el caso $LIBRA, donde la oposición acusa a Javier y Karina Milei de responsabilidad política por presuntos pagos a funcionarios. La reforma laboral promovida por Federico Sturzenegger sigue generando debate.\n\nVarias causas de corrupción de alto perfil experimentan avances judiciales. La Cámara de Casación y el ministro de la Corte Suprema Ricardo Lorenzetti impulsan la celeridad y presencialidad del juicio por los \"Cuadernos de las Coimas\". Simultáneamente, la investigación ANDIS, que involucra a una agencia de discapacidad y droguerías, progresa con testimonios clave que exponen presuntas \"empresas a dedo\" y manipulación. Otros casos incluyen la próxima fecha de veredicto del juicio por \"Fútbol para Todos\" y la indagatoria a exfuncionarios de Desarrollo Social por un desvío de $710 millones. La justicia también evalúa nuevas restricciones a las visitas de Cristina Kirchner.\n\nEn el Congreso, la presidencia de la Cámara de Diputados, a cargo de Martín Menem, ha generado controversia al ordenar a los legisladores salientes devolver sus despachos, amenazando con la retención de dietas y acciones judiciales. A nivel interno peronista, Axel Kicillof lanzó una crítica velada a Cristina Kirchner, mientras que un intendente peronista rechazó dichos estigmatizantes sobre el Conurbano.\n\nInternacionalmente, Argentina busca relanzar el vínculo bilateral con Uruguay, mientras que la Comisión Interamericana de Derechos Humanos analizará las agresiones contra el periodismo en el país, alertada por el deterioro de la libertad de expresión y el hostigamiento en redes sociales.",
+      "cantidad_noticias": 25,
+      "fecha_generacion": "2025-11-18T15:18:23.136868",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "La estabilidad cambiaria muestra fragilidad. Si bien el dólar oficial y el blue mantienen cotizaciones en torno a $1415-$1430, analistas advierten sobre la sostenibilidad de la \"pax cambiaria\" ante la dependencia de dólares externos y la necesidad de decisiones gubernamentales. Instituciones financieras como JP Morgan y Morgan Stanley evalúan operaciones de rescate financiero y gestión de pasivos para Argentina, contemplando la acumulación de reservas del BCRA, posiblemente respaldadas por activos de la Reserva Federal.\n\nEl mercado de criptomonedas experimentó una notable caída, con Bitcoin perforando los 90.000 dólares por primera vez en siete meses, generando temores de que el piso no se alcance hasta 2026. A nivel doméstico, el Gobierno desreguló el sector yerbatero mediante decreto, eliminando la intervención y capacidad de fijación de precios. Este escenario se complementa con un estancamiento persistente en los créditos en pesos y un aumento en los despidos formales, evidenciado por el cierre de comercios como Yaguar, atribuido a la contracción del consumo. La Ley Fiscal provincial también fue objeto de críticas por centralizar facultades.\n\nANSES confirmó incrementos en la Asignación Universal por Hijo (AUH) y las jubilaciones mínimas para noviembre y diciembre de 2025, incluyendo bonos adicionales y la difusión de calendarios de pago. Paralelamente, el mercado de hipotecas UVA exhibe volatilidad, con algunas entidades bancarias aplicando significativos aumentos en sus tasas. En tendencias globales, la Inteligencia Artificial plantea un doble impacto, generando tanto preocupación por la pérdida de empleo como mejoras en la productividad. Wall Street registró bajas ante las expectativas por los balances tecnológicos y las declaraciones de la Fed.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T12:31:53.029326",
+      "fecha_generacion": "2025-11-18T15:18:35.225275",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-18T12:31:53.029576"
+      "fecha_generacion": "2025-11-18T15:18:35.225786"
     }
   }
 }

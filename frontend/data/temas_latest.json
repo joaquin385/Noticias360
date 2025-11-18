@@ -1,431 +1,135 @@
 {
   "fecha": "2025-11-18",
-  "fecha_generacion": "2025-11-18T06:28:23.046125",
-  "total_temas": 10,
+  "fecha_generacion": "2025-11-18T15:22:29.754949",
+  "total_temas": 9,
   "temas": [
     {
-      "tema_id": "negociaciones_gobernadores-gobierno_nacional_20251118",
-      "tema": "Negociaciones Gobernadores-Gobierno Nacional",
-      "tema_normalizado": "negociaciones gobernadores-gobierno nacional",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional está negociando activamente con los gobernadores provinciales para asegurar el apoyo legislativo al Presupuesto 2026 y un paquete de reformas clave.\n• Los gobernadores utilizan sus votos en el Congreso como moneda de cambio para obtener fondos, la concreción de obras públicas y soluciones a las deudas que la Nación mantiene con las provincias.\n• El Ministro del Interior, Diego Santilli, y el Jefe de Gabinete, Manuel Adorni, son los principales interlocutores en estos encuentros.\n\n🔍 **Datos clave:**\n• **Interlocutores principales:** Diego Santilli (Min. Interior) y Manuel Adorni (Jefe de Gabinete).\n• **Leyes en debate:** Presupuesto 2026, reformas laboral, tributaria, fiscal, penal y el Régimen de Incentivo a las Grandes Inversiones (RIGI).\n• **Gobernadores \"dialoguistas\" recibidos:** 14 mandatarios hasta el momento, incluyendo Alberto Weretilneck (Río Negro) y Leandro Zdero (Chaco) en reuniones recientes.\n• **Gobernadores del PJ en bloque:** 6 mandatarios (Kicillof, Ziliotto, Quintela, Insfrán, Melella, Zamora) se articulan para negociar recursos. Cuatro de ellos no son invitados a las reuniones \"mano a mano\" de Santilli.\n• **Votos LLA en Congreso:** 18 senadores y 88 diputados; necesitan consensos para lograr quórum y aprobar leyes.\n• **Deudas reclamadas:** Por obras públicas, coparticipación no automática (bajó 80% promedio) y cajas previsionales.\n• **Fallo judicial Ruta 40:** La Justicia Federal ordenó a Vialidad Nacional reparar urgentemente la Ruta 40 entre El Bolsón y Bariloche, reclamo impulsado por Weretilneck.\n\n⚡ **Desarrollo:**\n• El Gobierno, sin mayoría propia en ambas Cámaras del Congreso, busca el respaldo de los gobernadores para avanzar con su agenda legislativa.\n• La estrategia oficial consiste en negociar \"mano a mano\", priorizando a gobernadores que demuestren afinidad con el modelo de ajuste y reformas propuesto.\n• Los mandatarios provinciales demandan fondos para infraestructura (rutas, universidades), saldar deudas nacionales y garantizar la coparticipación, clave para el pago de salarios y aguinaldos.\n• El gobernador de Río Negro, Alberto Weretilneck, celebra el diálogo, pero su prioridad es el mantenimiento de rutas nacionales (muchas deterioradas y algunas judicializadas) y el impulso de obras pendientes.\n• El gobernador de Chaco, Leandro Zdero, manifestó apoyo al Presupuesto y la reforma laboral, pidiendo atención a la compleja situación financiera y desarrollo productivo de su provincia.\n• Gobernadores peronistas han formado un bloque para negociar colectivamente, denunciando \"asfixia financiera\" por la reducción de recursos y buscan condicionar el Presupuesto a cambio de mayores asignaciones.\n\n💡 **¿Por qué importa?**\n• El éxito de estas negociaciones es fundamental para la gobernabilidad del país y la capacidad del Gobierno de implementar sus reformas y el Presupuesto 2026.\n• El resultado impactará directamente en la situación financiera de las provincias, la continuidad de obras públicas y la estabilidad económica regional.",
-      "cantidad_noticias": 8,
+      "tema_id": "argentina:_cotizacion_dolar_20251118",
+      "tema": "Argentina: Cotización Dólar y Mercado Cambiario",
+      "tema_normalizado": "argentina: cotizacion dolar y mercado cambiario",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial en Argentina ha experimentado una inusual tendencia a la baja este martes 18 de noviembre, perforando los $1.400 en el mercado mayorista.\n• Esta \"pax cambiaria\" contrasta con las múltiples cotizaciones del dólar, donde el blue subió levemente y la brecha con los dólares financieros se amplió.\n\n🔍 **Datos clave:**\n• Dólar Oficial (minorista, Banco Nación): $1.415 (venta)\n• Dólar Mayorista: $1.387 - $1.390\n• Dólar Blue: $1.430 - $1.435 (venta)\n• Dólar Contado con Liquidación (CCL): $1.485 - $1.494 (venta)\n• Dólar MEP (Mercado Electrónico de Pagos): $1.445 - $1.449 (venta)\n• Dólar Tarjeta/Ahorro: $1.839,50\n• Brecha CCL vs. Oficial: 6,9% (la más alta desde las elecciones)\n\n⚡ **Desarrollo:**\n• La actual estabilidad del dólar se atribuye a un giro en las expectativas tras el resultado electoral y una recomposición política.\n• Un factor clave es el \"boom\" de emisiones de Obligaciones Negociables (ONs) de empresas en dólares, sumando cerca de USD 3.000 millones en noviembre, liderado por el sector energético.\n• Esto incrementó la oferta de divisas en el mercado y contribuyó a una reducción del riesgo país.\n• El Gobierno, a través del Ministro Luis Caputo, defiende el actual \"esquema de bandas de flotación\" para el tipo de cambio, indicando que no es momento para una flotación libre.\n• El Tesoro Nacional estaría realizando \"compras silenciosas\" de dólares para recomponer reservas sin generar un salto en la cotización oficial.\n• Los contratos de dólar futuro reflejan la credibilidad en el esquema, operando por debajo del techo de la banda hasta julio de 2026.\n• A pesar de la calma en el dólar oficial, la brecha con el dólar blue y los financieros (MEP y CCL) creció, impulsada por arbitrajes y la falta de pesos.\n\n💡 **¿Por qué importa?**\n• Esta calma cambiaria, atípica para la época, brinda un respiro a la economía, pero su sostenibilidad dependerá de corregir desequilibrios estructurales.\n• La gestión gubernamental para acumular reservas y mantener el control sobre las distintas cotizaciones será crucial para la estabilidad económica futura.",
+      "cantidad_noticias": 19,
       "noticias": [
         {
-          "titulo": "Río Negro celebró el diálogo con Casa Rosada y pidió definiciones por el estado de rutas nacionales",
-          "link": "https://www.infobae.com/politica/2025/11/18/rio-negro-celebro-el-dialogo-con-casa-rosada-y-pidio-definiciones-por-el-estado-de-rutas-nacionales/",
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-18-noviembre-n6214941",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 12:00:00"
+        },
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-18-de-noviembre-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 11:51:42"
+        },
+        {
+          "titulo": "¿El dólar amaga con romper su calma?: por qué el verano podría traerle problemas a Caputo",
+          "link": "https://www.iprofesional.com/finanzas/442164-el-dolar-amaga-con-romper-su-calma-por-que-el-verano-podria-traerle-problemas-a-caputo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 11:47:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-18-noviembre-n6214869",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 11:42:00"
+        },
+        {
+          "titulo": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este martes 18 de noviembre",
+          "link": "https://www.infobae.com/economia/2025/11/18/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-18-de-noviembre/",
           "fuente": "Infobae",
-          "fecha": "2025-11-18 02:14:32"
+          "fecha": "2025-11-18 11:40:12"
         },
         {
-          "titulo": "Gobernadores del PJ le dan forma a su propio bloque para negociar el Presupuesto y las reformas con Milei",
-          "link": "https://www.infobae.com/politica/2025/11/18/gobernadores-del-pj-le-dan-forma-a-su-propio-bloque-para-negociar-el-presupuesto-y-las-reformas-con-milei/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 01:48:09"
-        },
-        {
-          "titulo": "El futuro de las reformas está en manos de los gobernadores: cuántos votos suman en el Congreso",
-          "link": "https://www.ambito.com/politica/el-futuro-las-reformas-esta-manos-los-gobernadores-cuantos-votos-suman-el-congreso-n6214805",
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-18-noviembre-n6214867",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 01:44:00"
+          "fecha": "2025-11-18 11:36:00"
         },
         {
-          "titulo": "Sigue la búsqueda de respaldo al Presupuesto y a las reformas: el Gobierno recibió a los gobernadores de Chaco y Río Negro",
-          "link": "https://www.clarin.com/politica/sigue-busqueda-respaldo-presupuesto-reformas-gobierno-recibio-gobernadores-chaco-rio-negro_0_XqjjvqCQNq.html",
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-18-noviembre-n6214873",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 11:31:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-martes-18-noviembre-n6215021",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 11:30:00"
+        },
+        {
+          "titulo": "El dólar mayorista se acomoda abajo de $1.400 pero la brecha con el CCL está al nivel más alto desde las elecciones",
+          "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-acomoda-abajo-1400-y-ya-se-ubica-85-del-techo-la-banda-n6214943",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 10:57:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 18 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-18-noviembre_0_MCLFds4Zjj.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 19:18:38"
+          "fecha": "2025-11-18 09:00:02"
         },
         {
-          "titulo": "Diego Santilli recibió en Casa Rosada a los gobernadores de Chaco y Río Negro: \"Hay que tender puentes en el país\"",
-          "link": "https://www.perfil.com/noticias/politica/diego-santilli-continua-sus-reuniones-este-lunes-con-los-mandatarios-de-chaco-y-rio-negro.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 18:43:00"
-        },
-        {
-          "titulo": "Manuel Adorni y Diego Santilli se reunieron con Leandro Zdero y Alberto Weretilneck",
-          "link": "https://www.minutouno.com/politica/manuel-adorni-y-diego-santilli-se-reunieron-leandro-zdero-y-alberto-weretilneck-n6214758",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-17 14:56:00"
-        },
-        {
-          "titulo": "El Gobierno acelera negociaciones con gobernadores por el Presupuesto 2026: guiño de Leandro Zdero y reunión con Alberto Weretilneck",
-          "link": "https://www.ambito.com/politica/el-gobierno-acelera-negociaciones-gobernadores-el-presupuesto-2026-guino-leandro-zdero-y-reunion-alberto-weretilneck-n6214734",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 14:41:00"
-        },
-        {
-          "titulo": "Quiénes son los gobernadores que peregrinan para ver a Santilli",
-          "link": "https://noticias.perfil.com/noticias/politica/quienes-son-los-gobernadores-que-peregrinan-para-ver-a-santilli.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 14:33:02"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Perfil",
-        "Infobae",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cotizacion_dolar_y_20251118",
-      "tema": "Cotización Dólar y Mercados Financieros Argentina",
-      "tema_normalizado": "cotizacion dolar y mercados financieros argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El dólar oficial en Argentina experimentó una caída significativa, perforando los $1.400 en el segmento mayorista, alcanzando su valor más bajo en un mes y generando una \"pax cambiaria\".\n*   Esta baja se debe, en parte, a la escasez de pesos en el mercado y a un aumento en la oferta de dólares por emisiones de deuda corporativa, mientras el dólar blue subió levemente.\n\n🔍 **Datos clave:**\n*   **Fecha de referencia:** Lunes 17 de noviembre de 2025.\n*   **Dólar Mayorista:** $1.387 (caída de $16 o 1,14%).\n*   **Dólar Oficial (BNA):** $1.415 (venta), $1.365 (compra).\n*   **Dólar Blue:** $1.435 (venta), $1.415 (compra) (subió $5).\n*   **Dólar MEP:** $1.448,93.\n*   **Dólar Contado con Liquidación (CCL):** $1.487,10 (venta).\n*   **Reservas Brutas BCRA:** USD 40.356 millones (baja de USD 280 millones).\n*   **Riesgo País JP Morgan:** 616 puntos básicos (leve alza de 4 puntos).\n*   **Vencimientos Tesoro (próx. sem.):** $14,5 billones en bonos.\n*   **Emisiones Corporativas Noviembre:** USD 3.150 millones.\n*   **Recomendación Morgan Stanley:** Depreciación del 10-15% del tipo de cambio.\n\n⚡ **Desarrollo:**\n*   La falta de pesos en la economía impulsa a inversores a vender activos en moneda local, lo que contribuye a la caída del dólar oficial y limita la baja de las tasas de interés.\n*   A pesar de la baja del dólar, el mercado mira con preocupación la acumulación de reservas, que cedieron USD 280 millones por pagos de deuda a organismos internacionales.\n*   Los futuros del dólar muestran un cambio en las expectativas, proyectando estabilidad para los próximos meses, con valores de $1451 para diciembre 2025 y $1540 para mayo 2026.\n*   La emisión de deuda corporativa y provincial en dólares (ej. CABA con USD 600M, Santa Fe USD 1.000M, Chubut USD 500M) ha inyectado divisas, contribuyendo a la calma cambiaria.\n*   Morgan Stanley, tras visitar Argentina, respaldó el rumbo económico pero advirtió sobre la necesidad de una depreciación del 10-15% del tipo de cambio para eliminar el déficit de cuenta corriente.\n*   La próxima licitación de bonos del Tesoro por $14,5 billones es clave para la liquidez, ante el desafío de cubrir vencimientos importantes, incluyendo bonos *dollar linked*.\n*   El Riesgo País, aunque en niveles relativamente bajos, sigue siendo un factor crucial, impactando el acceso al crédito y las inversiones, con las acciones y bonos argentinos mostrando bajas en Wall Street.\n\n💡 **¿Por qué importa?**\n*   La aparente calma del dólar oficial es una \"pax cambiaria\" frágil, sostenida por factores temporales como la iliquidez de pesos y la oferta de divisas, en lugar de una mejora estructural de las reservas.\n*   La sostenibilidad de esta estabilidad dependerá de la acumulación efectiva de reservas, una gestión exitosa de los vencimientos de deuda y la implementación de reformas que consoliden la confianza inversora.",
-      "cantidad_noticias": 21,
-      "noticias": [
-        {
-          "titulo": "La falta de pesos frena la baja de tasas y acelera la caída del dólar, con el mercado atento a las reservas",
-          "link": "https://www.infobae.com/economia/2025/11/18/la-falta-de-pesos-frena-la-baja-de-tasas-y-acelera-la-caida-del-dolar-con-el-mercado-atento-a-las-reservas/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 02:06:05"
-        },
-        {
-          "titulo": "El Riesgo País de Argentina cotizó en 616 puntos, con una leve alza en la jornada",
-          "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-de-argentina-cotizo-en-616-puntos-con-una-leve-alza-en-la-jornada-a35.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 21:05:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-17-noviembre-n6214541",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 19:18:00"
-        },
-        {
-          "titulo": "Los ADRs retrocedieron hasta 5% en Wall Street y el S&P Merval cayó por debajo de los 2.000 puntos",
-          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-mixtos-y-el-sp-merval-extiende-su-marcha-alcista-n6214634",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 19:10:00"
-        },
-        {
-          "titulo": "A cuánto cerró el dólar blue hoy lunes 17 de noviembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-lunes-17-de-noviembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 18:11:00"
-        },
-        {
-          "titulo": "A cuánto cerró el euro blue hoy lunes 17 de noviembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-lunes-17-de-noviembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 18:08:00"
-        },
-        {
-          "titulo": "Morgan Stanley respaldó el rumbo económico, pero lanzó una contundente advertencia sobre el dólar",
-          "link": "https://www.iprofesional.com/economia/442090-contundente-advertencia-morgan-stanley-sobre-dolar-cuanto-deberia-subir",
+          "titulo": "Qué cambia en el mercado cambiario tras la baja del dólar y el ajuste de tasas",
+          "link": "https://www.iprofesional.com/finanzas/442123-como-impacta-ingreso-de-divisas-en-caida-del-dolar-y-tasas-en-argentina",
           "fuente": "iProfesional",
-          "fecha": "2025-11-17 17:58:00"
+          "fecha": "2025-11-18 08:00:00"
         },
         {
-          "titulo": "Dólar hoy: a cuánto cerró este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-17-noviembre-n6214825",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 17:37:00"
-        },
-        {
-          "titulo": "Subió el dólar blue, a contramano del oficial, y la brecha se alzó a máximos en más de tres semanas",
-          "link": "https://www.ambito.com/finanzas/subio-el-dolar-blue-contramano-del-oficial-y-la-brecha-se-alzo-maximos-mas-tres-semanas-n6214797",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:57:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-lunes-17-noviembre-n6214611",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:45:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-lunes-17-noviembre-n6214809",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:43:00"
-        },
-        {
-          "titulo": "El dólar cayó a su valor más bajo en un mes y se desplomó el precio en el mercado de futuros",
-          "link": "https://www.iprofesional.com/finanzas/442037-dolar-cayo-valor-mas-bajo-en-mes-que-proyecta-mercado-para-proximos-meses",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-17 16:40:00"
-        },
-        {
-          "titulo": "El dólar cayó a su valor más bajo en un mes y se desplomó el precio en el mercado de futuros",
-          "link": "https://www.iprofesional.com/index.php/finanzas/442037-dolar-cayo-valor-mas-bajo-en-mes-que-proyecta-mercado-para-proximos-meses",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-17 16:40:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-lunes-17-noviembre-n6214511",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:30:00"
-        },
-        {
-          "titulo": "La acción argentina que puede dispararse hasta 80%, según una reconocida sociedad de bolsa",
-          "link": "https://www.iprofesional.com/finanzas/442080-que-accion-argentina-puede-subir-hasta-80-por-ciento-segun-famosa-sociedad-bolsa",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-17 16:27:00"
-        },
-        {
-          "titulo": "La acción argentina que puede dispararse hasta 80%, según una reconocida sociedad de bolsa",
-          "link": "https://www.iprofesional.com/index.php/finanzas/442080-que-accion-argentina-puede-subir-hasta-80-por-ciento-segun-famosa-sociedad-bolsa",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-17 16:27:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-17-noviembre-n6214509",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:27:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este lunes 17 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-17-noviembre-n6214510",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:23:00"
-        },
-        {
-          "titulo": "El dólar mayorista bajó y perforó los $1.400: marcó su mayor distancia con el techo de la banda en un mes",
-          "link": "https://www.ambito.com/finanzas/la-tranquilidad-el-dolar-oficial-se-sostiene-y-amaga-perforar-los-1400-n6214572",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 16:14:00"
-        },
-        {
-          "titulo": "El dólar bajó en el arranque de semana a $ 1.415, su menor valor desde principios de octubre",
-          "link": "https://www.clarin.com/economia/dolar-arranque-semana-1415-menor-valor-principios-octubre_0_97OXGlYqbv.html",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 18 de noviembre, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-18-noviembre-minuto-minuto_0_tU8s56lENM.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 16:11:08"
+          "fecha": "2025-11-18 07:15:04"
         },
         {
-          "titulo": "Después de la Ciudad de Buenos Aires, otras dos provincias buscarán dólares en Wall Street por la baja del riesgo país",
-          "link": "https://www.clarin.com/economia/despues-ciudad-buenos-aires-provincias-buscaran-dolares-wall-street-baja-riesgo-pais_0_95Z9u55au0.html",
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-18-noviembre_0_UEREDpLiqn.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 16:02:14"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Perfil",
-        "Infobae",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "inmigracion_y_visas_20251118",
-      "tema": "Inmigración y Visas en Estados Unidos",
-      "tema_normalizado": "inmigracion y visas en estados unidos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos está ajustando sus políticas migratorias y de visas, implementando medidas que van desde la facilitación para visitantes del Mundial 2026 hasta la prohibición de entrada por apoyar la migración irregular.\n• El país también está reforzando el control fronterizo con tecnología avanzada y recordando los derechos de los migrantes ante detenciones, mientras clarifica procesos para cambios de estatus y permisos de trabajo.\n\n🔍 **Datos clave:**\n• **Mundial 2026:** Del 11 de junio al 19 de julio de 2026, con 400 funcionarios consulares adicionales desplegados.\n• **FIFA Pass:** Programa de citas prioritarias para visas de turista para quienes tienen entradas del Mundial 2026.\n• **Formulario I-131:** Solicitud de \"advance parole\" (permiso de reingreso adelantado).\n• **Formulario I-485:** Solicitud de ajuste de estatus para residencia permanente ante USCIS.\n• **Formulario I-765:** Solicitud para renovar el Documento de Autorización de Empleo (EAD), se recomienda aplicar 180 días antes del vencimiento.\n• **Visa SB-1:** Requerida para residentes permanentes (Green Card) que permanecen fuera de EE.UU. por más de 1 año.\n• **Tecnología ICE:** Uso de la aplicación \"Mobile Fortify\" con escaneo facial e IA; datos biométricos almacenados por 15 años.\n• **Derecho Constitucional:** \"Estoy ejerciendo mi derecho a guardar silencio\", amparado por la Quinta Enmienda ante detenciones de ICE.\n\n⚡ **Desarrollo:**\n• El Gobierno estadounidense prohibió la entrada a personas del sector turístico nicaragüense, como \"propietarios, ejecutivos y altos cargos\", por facilitar la migración irregular, revocando sus visados.\n• Para el Mundial 2026, la administración Trump y el secretario Marco Rubio han impulsado el \"FIFA Pass\" para citas prioritarias de visa, aunque sin garantizar la aprobación del visado.\n• El \"advance parole\" (Formulario I-131) permite a inmigrantes con solicitudes pendientes salir temporalmente, pero no asegura la readmisión y no usarlo puede cancelar solicitudes como el TPS o la Green Card.\n• El USCIS advierte que los cambios de estatus (ej. Formulario I-485) no son efectivos hasta su aprobación y salir del país sin un permiso adelantado puede abandonar el proceso.\n• La renovación del EAD (Formulario I-765) requiere documentos específicos como el Formulario I-94 y el EAD anterior, siendo esencial aplicar con antelación para evitar interrupciones en el beneficio.\n• Residentes permanentes que exceden un año fuera de EE.UU. deben solicitar la visa SB-1, demostrando la intención de regresar y que la prolongación de su estadía fue por causas ajenas a su voluntad.\n• El ICE está utilizando nuevas herramientas como escaneo facial y análisis de redes sociales con IA para la identificación y expulsión de inmigrantes, almacenando datos biométricos.\n• Ante una detención del ICE, los migrantes tienen derecho a guardar silencio y a solicitar un abogado, sin importar su estatus migratorio, amparados por la Constitución estadounidense.\n\n💡 **¿Por qué importa?**\n• Estas actualizaciones impactan directamente la vida de millones de personas, afectando desde la planificación de viajes y eventos internacionales hasta la protección de derechos y el futuro migratorio.\n• Reflejan un panorama complejo de control fronterizo, facilitación de procesos para ciertas categorías y la constante evolución de las políticas y tecnologías migratorias en Estados Unidos.",
-      "cantidad_noticias": 10,
-      "noticias": [
-        {
-          "titulo": "EEUU prohíbe la entrada al país a un grupo de personas por facilitar la migración irregular desde Nicaragua",
-          "link": "https://www.infobae.com/america/agencias/2025/11/18/eeuu-prohibe-la-entrada-al-pais-a-un-grupo-de-personas-por-facilitar-la-migracion-irregular-desde-nicaragua/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 02:00:20"
+          "fecha": "2025-11-18 07:08:01"
         },
         {
-          "titulo": "Cuáles son los riesgos del advance parole para los inmigrantes que viven en EE.UU. en 2025",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/cuales-son-los-riesgos-del-advance-parole-para-los-inmigrantes-que-viven-en-eeuu-en-2025-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 23:45:00"
-        },
-        {
-          "titulo": "Para detener al ICE en Charlotte: las siete palabras en español que pueden salvar a un migrante de la deportación",
-          "link": "https://www.lanacion.com.ar/estados-unidos/carolina-del-norte/para-detener-al-ice-en-charlotte-las-siete-palabras-en-espanol-que-pueden-salvar-a-un-migrante-de-la-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 22:28:00"
-        },
-        {
-          "titulo": "Es oficial: el consejo de Marco Rubio para conseguir turno para la visa de EE.UU. mucho más rápido",
-          "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/es-oficial-el-consejo-de-marco-rubio-para-conseguir-turno-para-la-visa-de-eeuu-mucho-mas-rapido-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 21:53:34"
-        },
-        {
-          "titulo": "¿Qué ocurre si vence mi estatus en EE.UU. y el Uscis no responde mi cambio?",
-          "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/que-ocurre-si-vence-mi-estatus-en-eeuu-y-el-uscis-no-responde-mi-cambio-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 21:41:00"
-        },
-        {
-          "titulo": "EAD: los únicos documentos que aceptará el Uscis en 2025 para renovar el permiso de trabajo en EE.UU.",
-          "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/ead-los-unicos-documentos-que-aceptara-el-uscis-en-2025-para-renovar-el-permiso-de-trabajo-en-eeuu-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 21:37:49"
-        },
-        {
-          "titulo": "Los migrantes que necesitan un permiso especial tras viajar fuera de EE.UU., aunque tengan green card",
-          "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/los-migrantes-que-necesitan-un-permiso-especial-tras-viajar-fuera-de-eeuu-aunque-tengan-green-card-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 20:32:56"
-        },
-        {
-          "titulo": "Mundial 2026: Donald Trump anticipó que los hinchas con entradas tendrán prioridad para tramitar la visa",
-          "link": "https://www.ambito.com/mundo/mundial-2026-donald-trump-anticipo-que-los-hinchas-entradas-tendran-prioridad-tramitar-la-visa-n6214879",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 20:15:00"
-        },
-        {
-          "titulo": "Guía actualizada sobre el trámite de “Adjustment of Status” para inmigrantes que ya están en Estados Unidos",
-          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/guia-actualizada-sobre-el-tramite-de-adjustment-of-status-para-inmigrantes-que-ya-estan-en-estados-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-17 20:15:00"
-        },
-        {
-          "titulo": "EEUU incorpora escaneo facial e inteligencia artificial para acelerar la identificación y expulsión de inmigrantes",
-          "link": "https://www.ambito.com/mundo/eeuu-incorpora-escaneo-facial-e-inteligencia-artificial-acelerar-la-identificacion-y-expulsion-inmigrantes-n6214856",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 20:04:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "estrategia_y_reorganizacion_20251118",
-      "tema": "Estrategia y Reorganización del Partido Justicialista",
-      "tema_normalizado": "estrategia y reorganizacion del partido justicialista",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Partido Justicialista (PJ) está en un proceso clave de reorganización para definir una \"estrategia común\" frente a las reformas impulsadas por el gobierno de Javier Milei.\n• El peronismo busca unificar posiciones ante el Presupuesto 2026 y las propuestas de reforma laboral y tributaria.\n• Además, trabajan en la elaboración de un modelo económico alternativo y deben gestionar las divisiones internas tras la reciente derrota electoral.\n\n🔍 **Datos clave:**\n• **Fecha de reuniones clave:** Martes (Consejo Nacional del PJ) y Miércoles (senadores peronistas).\n• **Sedes de reunión:** Matheu 130/139 (PJ) y San José 1111 (reunión de CFK con economistas).\n• **Actores principales:** Cristina Fernández de Kirchner (lidera el partido), José Mayans (senador), Axel Kicillof (gobernador), Sergio Massa (Frente Renovador).\n• **Reforma de Milei:** Incluye Presupuesto 2026, laboral, impositiva, tributaria y penal.\n• **Documento económico:** Más de 400 páginas, elaborado por más de 80 profesionales en 45 jornadas de trabajo.\n• **Derrota electoral:** Mencionada en los comicios del 26 de octubre.\n\n⚡ **Desarrollo:**\n• Tras la derrota electoral, el peronismo reconoce que la estrategia de solo \"frenar a Milei\" no es suficiente y necesita ofrecer propuestas concretas a la sociedad.\n• El Consejo Nacional del PJ, con secretarías e \"invitados especiales\", se reunió el martes en Matheu 130/139 para empezar a consensuar posturas.\n• El miércoles, el senador José Mayans encabezará un encuentro con los senadores peronistas, un sector clave por su relación con los gobernadores.\n• Cristina Kirchner recibió a un grupo de economistas que le presentaron un \"modelo económico nacional de crecimiento productivo y federal para el siglo XXI\".\n• Este documento de 400 páginas busca ser una \"hoja de ruta abierta al debate\" dentro del PJ.\n• Axel Kicillof ha llamado a una construcción política más \"democrática y participativa\", rechazando un \"pensamiento que baje de ninguna esfera\".\n• Sergio Massa, desde el Frente Renovador, también planea reagrupar a su espacio para diseñar una propuesta alternativa y mantener la unidad peronista.\n• Las divisiones internas, como las del bloque de senadores peronistas (dividido en tres), son un desafío para la cohesión del partido.\n• El Gobierno de Milei, por su parte, avanza con reuniones con gobernadores (excluyendo a Kicillof y otros peronistas) para asegurar el apoyo al Presupuesto 2026 y sus reformas.\n\n💡 **¿Por qué importa?**\n• Esta serie de reuniones y debates es fundamental para el futuro del peronismo como principal fuerza opositora en Argentina.\n• De su reorganización dependerá la capacidad del partido para influir en el debate legislativo y presentar una alternativa al modelo de gobierno actual.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "El Partido Justicialista enfrenta dos reuniones claves para redefinir su estrategia",
-          "link": "https://www.perfil.com/noticias/politica/el-partido-justicialista-prepara-dos-reuniones-claves-esta-semana-para-redefinir-su-estrategia.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-18 02:40:00"
-        },
-        {
-          "titulo": "Consejo Nacional del PJ se reúne en busca de una \"estrategia común\" frente a las reformas del Gobierno",
-          "link": "https://www.minutouno.com/politica/consejo-nacional-del-pj-se-reune-busca-una-estrategia-comun-frente-las-reformas-del-gobierno-n6214929",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 00:44:00"
-        },
-        {
-          "titulo": "Mensaje de Axel Kicillof para la interna peronista: \"Esto no se arregla con un pensamiento que baje de ninguna esfera\"",
-          "link": "https://www.clarin.com/politica/mensaje-axel-kicillof-interna-peronista-arregla-pensamiento-baje-esfera_0_Kt47Fp3EpB.html",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-18-noviembre_0_V5sSpVA5CB.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 21:04:13"
+          "fecha": "2025-11-18 07:08:00"
         },
         {
-          "titulo": "El Consejo Nacional del PJ se reúne para definir una \"estrategia común\" frente a las reformas del Gobierno",
-          "link": "https://www.ambito.com/politica/el-consejo-nacional-del-pj-se-reune-definir-una-estrategia-comun-frente-las-reformas-del-gobierno-n6214864",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 19:47:00"
-        },
-        {
-          "titulo": "Sergio Massa reúne al Frente Renovador y diseña una propuesta alternativa a Javier Milei",
-          "link": "https://www.ambito.com/politica/sergio-massa-reune-al-frente-renovador-y-disena-una-propuesta-alternativa-javier-milei-n6214686",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 15:34:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "causa_corrupcion_andis_20251118",
-      "tema": "Causa Corrupción ANDIS",
-      "tema_normalizado": "causa corrupcion andis",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia investiga una compleja trama de corrupción dentro de la Agencia Nacional de Discapacidad (ANDIS), que involucra a exfuncionarios de alto rango y empresarios.\n• Se sospecha de sobreprecios en la compra de medicamentos e insumos, direccionamiento de contrataciones y el pago de sobornos.\n• Esta semana, Diego Spagnuolo, extitular de ANDIS, y Daniel Garbellini, exdirector del organismo, declaran en indagatoria.\n\n🔍 **Datos clave:**\n• **48.000 millones de pesos:** Monto estimado de fondos públicos comprometidos en la supuesta corrupción.\n• **Diciembre de 2023:** Periodo en que habrían iniciado las maniobras delictivas, según la investigación.\n• **15 personas:** Exfuncionarios y empresarios citados a indagatoria, incluyendo a Spagnuolo, Garbellini, Pablo Atchabahian y Miguel Ángel Calvete.\n• **3% de sobornos:** Porcentaje que, según audios filtrados de Spagnuolo, se destinaría a Karina Milei y Eduardo “Lule” Menem.\n• **Pablo Atchabahian:** Único detenido en la causa hasta el momento.\n\n⚡ **Desarrollo:**\n• La investigación, impulsada por el fiscal Franco Picardi y el juez Sebastián Casanello, se profundizó tras el análisis del celular de Daniel Garbellini.\n• Garbellini, quien estaba a cargo del programa Incluir Salud y vinculado a Atchabahian, es señalado por presuntamente beneficiar a ciertas empresas con contrataciones.\n• Un empresario, Luis Cella, admitió haber gestionado el ingreso de Prevent S.A. como proveedora y describió un esquema de \"compulsas simuladas\" entre droguerías para fijar precios.\n• Spagnuolo fue despedido tras la difusión de grabaciones donde denunciaba un esquema de coimas e implicaba a \"Lule\" Menem en la designación de un \"tipo para chorear\".\n• Se identificó un grupo de WhatsApp llamado \"Grupo Museo\", creado por Garbellini en 2022 junto a Atchabahian y otros, donde planificaban negocios en el Estado.\n• La \"organización delictiva\" habría operado en perjuicio de la administración pública y, en particular, del sector de personas con discapacidad adheridas al Programa Incluir Salud.\n• Miguel Ángel Calvete, el primer indagado, es apuntado por sus lazos con múltiples droguerías y su consulta sobre pagos espurios desde el organismo.\n\n💡 **¿Por qué importa?**\n• Este caso pone en evidencia un grave daño a la administración pública y, principalmente, a la población más vulnerable: las personas con discapacidad que dependen de los servicios de la ANDIS.\n• Subraya la urgencia de fortalecer los mecanismos de control y transparencia en la gestión de fondos estatales, especialmente en áreas tan sensibles como la salud y la discapacidad.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Coimas en ANDIS: Diego Spaugnolo y otro exfuncionario clave declaran esta semana en Comodoro Py",
-          "link": "https://www.perfil.com/noticias/politica/coimas-en-andis-diego-spaugnolo-y-otro-ex-funcionario-clave-declaran-esta-semana-en-comodoro-py.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-18 01:00:00"
-        },
-        {
-          "titulo": "Causa ANDIS: empresario admitió gestiones ante Diego Spagnuolo y reveló presuntos acuerdos ilegales en el negocio de medicamentos",
-          "link": "https://www.ambito.com/politica/causa-andis-empresario-admitio-gestiones-diego-spagnuolo-y-revelo-presuntos-acuerdos-ilegales-el-negocio-medicamentos-n6214924",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 23:57:00"
-        },
-        {
-          "titulo": "Causa ANDIS: arrancan las indagatorias con un hombre clave en el circuito de sobreprecios y coimas",
-          "link": "https://www.clarin.com/politica/causa-andis-arrancan-indagatorias-hombre-clave-circuito-sobreprecios-coimas_0_kkTTo3uv27.html",
+          "titulo": "Dólar ahorro hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-martes-18-noviembre_0_mFM72682FI.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 19:07:16"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "volatilidad_bitcoin_y_20251118",
-      "tema": "Volatilidad Bitcoin y Criptomonedas",
-      "tema_normalizado": "volatilidad bitcoin y criptomonedas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El valor de Bitcoin ha experimentado una fuerte corrección, cayendo a mínimos de seis meses y borrando brevemente sus ganancias de 2025.\n• Esto ocurre a pesar del creciente respaldo de Wall Street y figuras políticas como Donald Trump, lo que ha generado una notable incertidumbre en el mercado cripto.\n\n🔍 **Datos clave:**\n• Caída de Bitcoin: Aproximadamente $600.000 millones de su valor total desde el máximo de octubre de 2024.\n• Precio actual de Bitcoin: Ronday alrededor de los $91.750, un mínimo de seis meses y una caída del 11,7% en una semana.\n• Evento \"halving\" de Bitcoin: Tuvo lugar en abril de 2024, con el máximo de precios en octubre.\n• Binance Pay: Superó los 20 millones de comerciantes y 45 millones de usuarios globalmente.\n• Pagos B2C en stablecoins (Binance Pay): Más del 98% de las transacciones en 2025 se liquidaron en ellas.\n• DevConnect (feria Ethereum en Buenos Aires): Convocó a más de 17.000 asistentes, de los cuales cerca del 70% fueron internacionales.\n• Salidas netas de capital de ETFs de Bitcoin en EEUU: Registraron $870 millones en un solo día, el segundo nivel más alto histórico.\n• Expectativa de recorte de tasas de interés de la Fed: Bajó al 40% para diciembre, desde el 90% a principios de mes.\n\n⚡ **Desarrollo:**\n• Aunque la volatilidad es inherente a las criptomonedas, la rapidez con que se evaporó la confianza en este ciclo es inusual y genera confusión sobre las causas exactas.\n• Algunos analistas recurren al modelo del \"halving\" cada cuatro años, que históricamente impulsa ciclos de auge y caída, pero la influencia de grandes compradores institucionales podría estar alterando este patrón.\n• La reciente corrección se debe en parte a una ola de liquidaciones que superó los $620 millones, afectando principalmente a posiciones largas en Bitcoin y Ethereum.\n• Las significativas salidas de capital de los fondos cotizados en bolsa (ETFs) de Bitcoin en el mercado estadounidense también han presionado a la baja el precio, debilitando la confianza institucional.\n• La cautela de los traders se ve acentuada por la menor expectativa de un recorte de las tasas de interés por parte de la Reserva Federal de Estados Unidos, un factor clave para la liquidez del mercado.\n• En contraste con la volatilidad de Bitcoin, el uso de stablecoins para pagos cotidianos está creciendo exponencialmente, como demuestra Binance Pay. Estas resuelven problemas de sistemas tradicionales con transacciones instantáneas y bajo costo.\n• La comunidad cripto sigue mostrando una fuerte expansión y vitalidad, como lo evidencia el éxito rotundo de la feria global DevConnect en Buenos Aires, que atrajo a miles de desarrolladores y expertos internacionales.\n\n💡 **¿Por qué importa?**\n• La actual caída de Bitcoin pone a prueba la solidez del mercado cripto, generando dudas sobre su estabilidad como activo de inversión y su legitimidad en un entorno financiero tradicional.\n• Sin embargo, el crecimiento masivo en la adopción de stablecoins para transacciones y el auge de eventos globales demuestran que, más allá de la especulación, la tecnología blockchain sigue consolidándose como una herramienta transformadora para los pagos y la economía digital.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Bitcoin en baja: por qué ni el apoyo de Donald Trump ni el de Wall Street evitan la caída del precio",
-          "link": "https://www.infobae.com/economia/2025/11/18/bitcoin-en-baja-por-que-ni-el-apoyo-de-donald-trump-ni-el-de-wall-street-evitan-la-caida-del-precio/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 02:21:31"
+          "fecha": "2025-11-18 07:08:00"
         },
         {
-          "titulo": "Una feria cripto global desató una fiebre por Buenos Aires: más de 17 mil asistentes y un nuevo récord para Argentina",
-          "link": "https://www.clarin.com/economia/feria-cripto-global-desato-fiebre-buenos-aires-17-mil-asistentes-nuevo-record-argentina_0_c9aD3Nc3xk.html",
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-martes-18-noviembre_0_B8iVArQqqJ.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 20:20:02"
+          "fecha": "2025-11-18 07:05:02"
         },
         {
-          "titulo": "Binance Pay supera los 20 millones de comerciantes mientras crece el uso de stablecoins",
-          "link": "https://www.iprofesional.com/economia/442093-binance-pay-supera-20-millones-comerciantes-mientras-crece-uso-stablecoins",
+          "titulo": "Compras silenciosas: la nueva estrategia de Caputo para sumar reservas sin alterar al dólar",
+          "link": "https://www.iprofesional.com/economia/442105-compras-silenciosas-la-estrategia-luis-caputo-para-sumar-reservas-sin-alterar-dolar",
           "fuente": "iProfesional",
-          "fecha": "2025-11-17 18:37:00"
+          "fecha": "2025-11-18 07:02:00"
         },
         {
-          "titulo": "Bitcoin toca mínimos de seis meses; fuertes salidas de capital y baja expectativa por el recorte de tasas en EEUU",
-          "link": "https://www.ambito.com/finanzas/bitcoin-toca-minimos-seis-meses-fuertes-salidas-capital-y-baja-expectativa-el-recorte-tasas-eeuu-n6214567",
+          "titulo": "¿Conviene abandonar el dólar ahora que cae?: el mercado prevé nuevo precio tope y da su veredicto",
+          "link": "https://www.iprofesional.com/finanzas/442112-dolar-mal-negocio-nuevo-precio-techo-que-preve-el-mercado",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 07:00:00"
+        },
+        {
+          "titulo": "Dólar: futuros ya operan debajo del techo de la banda hasta julio y refuerzan credibilidad del esquema cambiario",
+          "link": "https://www.ambito.com/finanzas/dolar-futuros-ya-operan-debajo-del-techo-la-banda-julio-y-refuerzan-credibilidad-del-esquema-cambiario-n6214765",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 14:50:00"
+          "fecha": "2025-11-18 07:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
         "iProfesional",
+        "La Nación",
         "Clarín",
         "Infobae",
         "Ámbito Financiero"
@@ -436,44 +140,74 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "relacion_argentina-estados_unidos_20251118",
-      "tema": "Relación Argentina-Estados Unidos",
-      "tema_normalizado": "relacion argentina-estados unidos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos están avanzando en un \"joint statement\", paso previo a un posible tratado de libre comercio bilateral.\n• Este acercamiento generó un contrapunto con la administración de la Provincia de Buenos Aires, que expresó preocupaciones por un potencial impacto negativo.\n• El gobierno nacional defiende el acuerdo, destacando el potencial de inversiones y el aumento de exportaciones para el país.\n\n🔍 **Datos clave:**\n• **Cuota de carne vacuna:** Proyección de aumento de 20.000 a 80.000 toneladas anuales a EE.UU.\n• **Ingreso adicional:** Estimado en 600 millones de dólares anuales por el incremento en carne.\n• **Sectores clave:** El acero y el aluminio son mencionados como beneficiados por el nuevo acceso al mercado estadounidense.\n• **Siderar (San Nicolás):** Exporta $800 millones anuales y planea una inversión de $300 millones en una nueva planta de acero.\n• **Exportaciones de servicios de conocimiento:** Proyectadas en $2.500 millones para fines de 2025, con EE.UU. como principal destino (60%).\n• **Inversión en IA:** Argentina busca atraer parte del proyecto Stargate de OpenAI, una iniciativa global valuada en $25.000 millones.\n• **Mercado financiero:** El índice Merval experimentó su mayor suba histórica en una semana en octubre; el Riesgo País se redujo significativamente.\n\n⚡ **Desarrollo:**\n• El embajador argentino en EE.UU., Alec Oxenford, desestimó las críticas provinciales, subrayando los beneficios para el sector agropecuario bonaerense y la economía nacional.\n• El acuerdo incluye la baja recíproca de aranceles y la posibilidad de negociar cláusulas sobre productos clave como acero y aluminio.\n• El gobierno busca posicionar a Argentina como un hub tecnológico y de inteligencia artificial, impulsando alianzas con empresas del sector como OpenAI.\n• Este acercamiento es parte de la estrategia del gobierno de Javier Milei para normalizar la macroeconomía y atraer inversiones en un entorno más previsible.\n• Los mercados respondieron positivamente, con un \"rally\" en bonos y acciones, anticipando reformas estructurales y una mejora en la percepción de la sostenibilidad de la deuda.\n• Se sugiere a los inversores una estrategia de exposición estructural, priorizando bonos soberanos y provinciales a largo plazo, y acciones de sectores como el financiero y servicios públicos.\n\n💡 **¿Por qué importa?**\n• La profundización de la relación con EE.UU. busca generar más exportaciones, atraer inversiones directas y diversificar la matriz económica, incorporando sectores de alto valor agregado como la tecnología.\n• Este cambio de estrategia tiene un impacto directo en la confianza de los mercados y en las oportunidades de desarrollo para diversos sectores productivos del país, desde el agro hasta la inteligencia artificial.",
-      "cantidad_noticias": 4,
+      "tema_id": "argentina:_avances_causas_20251118",
+      "tema": "Argentina: Avances Causas Corrupción Gubernamental",
+      "tema_normalizado": "argentina: avances causas corrupcion gubernamental",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina se encuentra inmersa en múltiples investigaciones por presunta corrupción gubernamental en diversas áreas del Estado.\n*   Estos casos involucran desde desvíos de fondos y direccionamiento de compras hasta supuestas estafas con criptomonedas y sobornos históricos.\n*   La situación pone en evidencia desafíos en la administración pública y la necesidad de una mayor celeridad judicial para combatir la impunidad.\n\n🔍 **Datos clave:**\n*   **ANDIS:** Investigación sobre irregularidades en la Agencia Nacional de Discapacidad; involucrados Diego Spagnuolo (exdirector) y Miguel Ángel Calvete (operador). Se secuestraron $700.000 USD en un allanamiento.\n*   **Cuadernos de las Coimas:** Juicio por sobornos (2003-2015) que incluye a Cristina Kirchner y 86 imputados; la Corte Suprema exige acelerar el proceso.\n*   **Causa $LIBRA:** Comisión investigadora apunta a responsabilidades políticas de Javier y Karina Milei por presunta estafa con criptomoneda; US$90 millones retirados.\n*   **Fútbol para Todos:** Veredicto (5 de diciembre) para exjefes de Gabinete Aníbal Fernández y Jorge Capitanich, por desvío de $456 millones entre 2009 y 2015.\n*   **Desvío de Guardapolvos:** Exfuncionarios de Desarrollo Social y cooperativistas indagados por desvío de $710 millones destinados a uniformes escolares en 2023.\n\n⚡ **Desarrollo:**\n*   **Caso ANDIS:** Miguel Calvete es señalado como \"director para-estatal\" que direccionaba compras y conectaba a la agencia con droguerías, en un sistema de \"compulsas simuladas\" y \"empresas a dedo\", según testimonios y audios.\n*   **Juicio Cuadernos:** La Cámara de Casación busca acelerar el juicio debido a su lentitud (una audiencia semanal, modalidad virtual), lo que ha sido criticado por el fiscal y el juez Ricardo Lorenzetti como \"inadmisible\" para una \"mega causa\".\n*   **Causa $LIBRA:** Tras la recomendación del Presidente, la criptomoneda colapsó; la comisión investigadora de Diputados presentará un informe señalando presuntas responsabilidades políticas por negligencia y falta de controles.\n*   **Fútbol para Todos:** El juicio investiga la administración fraudulenta de fondos públicos que debían sanear las finanzas de los clubes de fútbol, con pedidos de pena de prisión para exfuncionarios clave.\n*   **Desvío de Guardapolvos:** La investigación apunta a un \"plan orquestado\" donde una cooperativa sin capacidad fue contratada para 165.000 guardapolvos, subcontratando a otras que niegan haber recibido el dinero ni realizado el trabajo.\n\n💡 **¿Por qué importa?**\n*   Estos casos demuestran la persistencia de esquemas de corrupción en diferentes esferas del Estado argentino, afectando fondos públicos y la confianza ciudadana.\n*   La lenta progresión judicial de \"mega causas\" y las deficiencias en los controles internos evidencian desafíos estructurales que impactan la efectividad de la justicia y la rendición de cuentas.",
+      "cantidad_noticias": 9,
       "noticias": [
         {
-          "titulo": "El embajador argentino en EE.UU. respondió a los funcionarios de Kicillof: \"El pacto no es negativo para la provincia\"",
-          "link": "https://www.perfil.com/noticias/politica/el-embajador-argentino-en-eeuu-respondio-a-los-funcionarios-de-kicillof-el-pacto-no-es-negativo-para-la-provincia-eso-es-absurdo.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-18 00:20:00"
-        },
-        {
-          "titulo": "El acuerdo con Estados Unidos, una gran noticia para la Argentina, y también para la Provincia de Buenos Aires",
-          "link": "https://www.clarin.com/politica/acuerdo-estados-unidos-gran-noticia-argentina-provincia-buenos-aires_0_oN62k66oiy.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-17 20:33:01"
-        },
-        {
-          "titulo": "El Gobierno avanza con su estrategia en EE.UU. para reforzar vínculos con empresas tecnológicas y atraer inversiones",
-          "link": "https://www.lanacion.com.ar/estados-unidos/el-gobierno-avanza-con-su-estrategia-en-eeuu-para-reforzar-vinculos-con-empresas-tecnologicas-y-nid17112025/",
+          "titulo": "Caso Andis: declara uno de los presuntos nexos entre la agencia de discapacidad y las droguerías",
+          "link": "https://www.lanacion.com.ar/politica/caso-andis-declara-uno-de-los-presuntos-nexos-entre-la-agencia-de-discapacidad-y-las-droguerias-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-17 20:12:24"
+          "fecha": "2025-11-18 11:52:20"
         },
         {
-          "titulo": "Las inversiones que elige la City tras acuerdo comercial entre Argentina y EEUU",
-          "link": "https://www.iprofesional.com/finanzas/442085-bonos-acciones-en-que-invertir-tras-acuerdo-comercial-entre-argentina-y-estados-unidos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-17 16:33:00"
+          "titulo": "Cuadernos de las coimas: la Cámara de Casación se reúne con el Tribunal para darle más velocidad al juicio",
+          "link": "https://www.clarin.com/politica/cuadernos-coimas-camara-casacion-reune-tribunal-darle-velocidad-juicio_0_C85A1pKQun.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 11:37:21"
+        },
+        {
+          "titulo": "Comisión investigadora $LIBRA: la oposición apuntará contra Javier y Karina Milei y los señalará como responsables políticos de la maniobra",
+          "link": "https://www.lanacion.com.ar/politica/comision-investigadora-libra-la-oposicion-apuntara-contra-javier-y-karina-milei-y-los-senalara-como-nid17112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 09:59:08"
+        },
+        {
+          "titulo": "El mail que complica a Diego Spagnuolo en la causa ANDIS: \"Empresas a dedo\"",
+          "link": "https://www.minutouno.com/politica/el-mail-que-complica-diego-spagnuolo-la-causa-andis-empresas-dedo-n6214961",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 09:50:00"
+        },
+        {
+          "titulo": "Tiene fecha de veredicto el juicio por la causa del \"Fútbol para Todos\" en la que están Capitanich y Aníbal Fernández",
+          "link": "https://www.clarin.com/politica/fecha-veredicto-juicio-causa-futbol-capitanich-anibal-fernandez_0_YzJrmVPqkn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 09:48:13"
+        },
+        {
+          "titulo": "Indagan a exfuncionarios de Desarrollo Social y cooperativistas por el desvío de $710 millones destinados a guardapolvos",
+          "link": "https://www.lanacion.com.ar/politica/indagan-a-exfuncionarios-de-desarrollo-social-y-cooperativistas-por-el-desvio-de-710-millones-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 09:46:59"
+        },
+        {
+          "titulo": "Ricardo Lorenzetti exigió acelerar el juicio de los Cuadernos de las Coimas y cuestionó cómo fue organizado: \"No es admisible\"",
+          "link": "https://www.clarin.com/politica/ricardo-lorenzetti-exigio-acelerar-juicio-cuadernos-coimas-cuestiono-organizado-admisible_0_gNJ2RhrXYK.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 09:32:40"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: la comisión investigadora de $LIBRA le llevó al fiscal pruebas de presuntos pagos a funcionarios y presenta el informe final en Diputados",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-comision-investigadora-libra-llevo-fiscal-pruebas-presuntos-pagos-funcionarios-presenta-informe-final-diputados_0_cKRWv9Ptfk.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 08:47:14"
+        },
+        {
+          "titulo": "Causa ANDIS: declara Miguel Calvete, la mano derecha de Diego Spagnuolo",
+          "link": "https://www.ambito.com/politica/causa-andis-declara-miguel-calvete-la-mano-derecha-diego-spagnuolo-n6214949",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 08:39:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "iProfesional",
-        "La Nación",
+        "Ámbito Financiero",
         "Clarín",
-        "Perfil"
+        "Minuto1",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -481,36 +215,74 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cristina_kirchner:_agenda_20251118",
-      "tema": "Cristina Kirchner: Agenda Económica",
-      "tema_normalizado": "cristina kirchner: agenda economica",
-      "resumen": "📌 **¿Qué está pasando?**\n• La expresidenta Cristina Kirchner recibió a un grupo de economistas en su domicilio para analizar una \"Hoja de Ruta\" económica de largo plazo.\n• Esta iniciativa busca impulsar un modelo de crecimiento productivo y federal para Argentina en el siglo XXI.\n• La exmandataria enfatizó la urgencia de dejar atrás la \"macroeconomía del desacuerdo\" y construir un desarrollo con soberanía e inclusión.\n\n🔍 **Datos clave:**\n• **Documento:** La \"Hoja de Ruta\" consta de más de 400 páginas de propuestas.\n• **Elaboración:** Fue trabajada a lo largo de 45 días por un equipo de profesionales.\n• **Equipo:** Contó con la participación de más de 80 economistas y expertos.\n• **Ubicación:** El encuentro se realizó en su domicilio de San José 1111.\n• **Contexto temporal:** La reunión tuvo lugar en el marco del Día del Militante.\n\n⚡ **Desarrollo:**\n• Cristina Kirchner destacó en sus redes sociales que Argentina se enfrenta a una encrucijada histórica, marcada por transformaciones tecnológicas, tensiones geopolíticas y nuevos desafíos ambientales.\n• Subrayó que la crisis nacional va más allá de lo financiero, siendo también una \"crisis de proyecto de país\" que requiere decidir qué nación se quiere construir.\n• La propuesta será presentada ante el Partido Justicialista para su debate y discusión, buscando una estrategia unificada para el espacio.\n• Este movimiento refleja un proceso de reorganización del peronismo, que busca definir una \"estrategia común\" frente a las reformas impulsadas por el actual gobierno.\n• Se han anticipado reuniones del Consejo Nacional del PJ para abordar temas clave como el Presupuesto 2026 y posibles reformas laboral, impositiva y tributaria.\n\n💡 **¿Por qué importa?**\n• Este impulso marca una participación activa de Cristina Kirchner en la definición de una propuesta económica y política alternativa desde el principal partido de oposición.\n• Representa un intento de construir una visión integral y de largo plazo para el país, buscando influir en la agenda pública y el rumbo estratégico de Argentina.",
-      "cantidad_noticias": 3,
+      "tema_id": "argentina:_pagos_jubilaciones_20251118",
+      "tema": "Argentina: Pagos Jubilaciones y AUH",
+      "tema_normalizado": "argentina: pagos jubilaciones y auh",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Administración Nacional de la Seguridad Social (ANSES) actualizó los montos de jubilaciones, pensiones y la Asignación Universal por Hijo (AUH) para noviembre y diciembre de 2025.\n• Los ajustes mensuales se basan en la inflación y se complementan con bonos extraordinarios y el medio aguinaldo de diciembre para jubilados y pensionados.\n• Los pagos se organizan mediante un calendario específico, determinado por la terminación del DNI de cada beneficiario.\n\n🔍 **Datos clave:**\n• **Aumento Noviembre 2025:** 2,08% (basado en la inflación de septiembre).\n• **Aumento Diciembre 2025:** 2,3% (aplicado a jubilaciones, pensiones y asignaciones, basado en la inflación de agosto/octubre).\n• **Bono Extraordinario Jubilados:** $70.000 (para haberes mínimos y proporcionales).\n• **Jubilación Mínima Diciembre 2025 (total con bono y aguinaldo):** Aproximadamente $581.119,53.\n• **AUH Diciembre 2025 (monto total):** $122.444 (el 80% se cobra mensualmente: $97.955,20).\n• **Fecha Límite Libreta AUH 2025:** 31 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• ANSES aplica una fórmula de movilidad mensual que ajusta las prestaciones (jubilaciones, pensiones, AUH, PUAM, PNC) según el Índice de Precios al Consumidor (IPC).\n• En noviembre, jubilados y beneficiarios de AUH recibieron un incremento del 2,08%. Por ejemplo, aquellos con DNI terminados en 7 cobraron el 19 de noviembre (haberes mínimos) o el 27 (haberes superiores). El monto total de AUH fue de $95.737,66.\n• Para diciembre, el aumento general es del 2,3%. Los jubilados con haber mínimo suman el bono de $70.000 y el medio aguinaldo, alcanzando un total de aproximadamente $581.119,53.\n• La AUH en diciembre asciende a $122.444 por hijo (monto total). Los beneficiarios reciben mensualmente el 80% de este valor ($97.955,20) y el 20% restante ($24.488,80) se retiene.\n• El 20% retenido de la AUH se cobra anualmente al presentar la Libreta AUH, que acredita controles de salud, vacunación y asistencia escolar de los menores.\n• La Libreta AUH 2025 puede presentarse de forma digital a través de la aplicación o web Mi ANSES hasta el 31 de diciembre de 2025.\n• Otras prestaciones como la Pensión Universal para el Adulto Mayor (PUAM) y las Pensiones No Contributivas (PNC) también se actualizan y, en diciembre, incluyen el bono y aguinaldo.\n\n💡 **¿Por qué importa?**\n• Estos aumentos y complementos son cruciales para millones de argentinos, ya que buscan preservar el poder adquisitivo frente a la inflación.\n• Permiten a los beneficiarios de jubilaciones, pensiones y AUH acceder a ingresos fundamentales para cubrir sus necesidades básicas.",
+      "cantidad_noticias": 9,
       "noticias": [
         {
-          "titulo": "Cristina Kirchner recibió a economistas e impulsa una \"Hoja de Ruta\" económica de 400 páginas",
-          "link": "https://www.minutouno.com/politica/cristina-kirchner-recibio-economistas-e-impulsa-una-hoja-ruta-economica-400-paginas-n6214927",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 00:18:48"
+          "titulo": "AUH en diciembre 2025: de cuánto será con el aumento",
+          "link": "https://www.clarin.com/economia/auh-diciembre-2025-aumento_0_wk4CIyMKVJ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 11:33:42"
         },
         {
-          "titulo": "Cristina Kirchner recibió a un grupo de economistas en San José 1111",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid17112025/",
+          "titulo": "Cuándo cobro la AUH en noviembre 2025 si mi DNI termina en 7",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-la-auh-en-noviembre-2025-si-mi-dni-termina-en-7-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-18 00:04:42"
+          "fecha": "2025-11-18 11:30:06"
         },
         {
-          "titulo": "Cristina Kirchner recibió a economistas para analizar propuestas de \"crecimiento productivo y federal\"",
-          "link": "https://www.ambito.com/politica/cristina-kirchner-se-reunio-economistas-analizar-propuestas-crecimiento-productivo-y-federal-n6214886",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-17 20:47:00"
+          "titulo": "Anses: cuándo cobro la jubilación de noviembre si mi DNI termina en 7",
+          "link": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-noviembre-si-mi-dni-termina-en-7-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 11:30:04"
+        },
+        {
+          "titulo": "ANSES: cómo quedarán los haberes con el aumento y el bono extra",
+          "link": "https://www.minutouno.com/economia/anses-como-quedaran-los-haberes-el-aumento-y-el-bono-extra-n6215041",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 11:25:00"
+        },
+        {
+          "titulo": "ANSES: en cuánto quedará la mínima de los jubilados después de los aumentos",
+          "link": "https://www.minutouno.com/economia/anses-cuanto-quedara-la-minima-los-jubilados-despues-los-aumentos-n6215034",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 11:00:00"
+        },
+        {
+          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 08:37:38"
+        },
+        {
+          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 08:27:55"
+        },
+        {
+          "titulo": "Así quedará el haber mínimo para jubilados con 30 años de aportes en diciembre 2025",
+          "link": "https://www.iprofesional.com/impuestos/441672-jubilados-anses-cual-sera-el-haber-con-30-anos-de-aportes-en-diciembre-con-aguinaldo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 07:50:00"
+        },
+        {
+          "titulo": "ANSES: quiénes cobran hoy martes 18 de noviembre y cómo sigue el calendario de pagos",
+          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-hoy-martes-18-de-noviembre-y-como-sigue-el-calendario-de-pagos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 07:15:24"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "Ámbito Financiero",
+        "iProfesional",
         "La Nación",
+        "Clarín",
+        "Perfil",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -519,37 +291,62 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "caso_fiesta_olivos_20251118",
-      "tema": "Caso Fiesta Olivos y Fabiola Yáñez",
-      "tema_normalizado": "caso fiesta olivos y fabiola yanez",
-      "resumen": "📌 **¿Qué está pasando?**\n• La ex Primera Dama, Fabiola Yáñez, volvió a disculparse públicamente por la celebración de su cumpleaños en la Quinta de Olivos en julio de 2020, durante la estricta cuarentena por COVID-19.\n• En recientes entrevistas, Yáñez reveló detalles inéditos sobre su experiencia personal durante la pandemia, acusaciones de violencia de género contra Alberto Fernández y supuestas infidelidades del entonces presidente.\n\n🔍 **Datos clave:**\n• **Evento central:** Fiesta de cumpleaños de Fabiola Yáñez en la Quinta de Olivos (julio de 2020).\n• **Contexto:** Cuarentena obligatoria y restricciones sanitarias por la pandemia de COVID-19 en Argentina.\n• **Protagonistas:** Fabiola Yáñez (ex Primera Dama) y Alberto Fernández (ex Presidente de Argentina).\n• **Personas involucradas:** Mirtha Legrand (periodista), Viviana Canosa (periodista), Victoria Onetto (actriz mencionada).\n• **Fallecimiento:** Goldy (Silvia Legrand), hermana gemela de Mirtha, el 1 de mayo de 2020 a los 93 años.\n\n⚡ **Desarrollo:**\n• Yáñez afirmó que desde la presidencia se le impidió recibir la vacuna contra el COVID-19 para evitar un \"escándalo público\", a pesar de que el presidente y su comitiva sí estaban inmunizados.\n• Atribuyó la filtración del video de la fiesta al propio Gobierno y la foto a una persona de su equipo, cuyo teléfono fue intervenido desde Olivos.\n• Durante un tenso cruce televisivo, Mirtha Legrand le confrontó, relatando cómo vio el funeral de su hermana Goldy por televisión debido a las restricciones, un claro contraste con la celebración en Olivos.\n• Fabiola Yáñez denunció a Alberto Fernández por violencia de género, alegando que él le pidió abortar, no aceptó su embarazo y la forzaba a salir de ascensores, además de llamarla \"loca\".\n• También insinuó que Fernández mantuvo múltiples infidelidades durante sus 14 años de relación, incluyendo una relación \"muy íntima\" con la periodista Viviana Canosa y el hallazgo de fotos comprometedoras de una actriz, posiblemente Victoria Onetto.\n• El ex presidente, por su parte, había acusado a Yáñez de tener \"problemas con el alcohol\", lo que ella desmintió calificándolo de \"discurso arcaico\".\n\n💡 **¿Por qué importa?**\n• El \"Caso Fiesta Olivos\" generó indignación generalizada al mostrar un incumplimiento de las normas sanitarias por parte de las autoridades, contrastando con el sacrificio y las restricciones impuestas a la ciudadanía.\n• Las recientes revelaciones de Yáñez reabren la polémica, exponiendo graves acusaciones de violencia de género, infidelidades y decisiones controversiales sobre la vacunación, que impactan en la percepción pública de la exgestión presidencial y sus protagonistas.",
-      "cantidad_noticias": 3,
+      "tema_id": "argentina:_desregulacion_economia_20251118",
+      "tema": "Argentina: Desregulación Economía y Reformas",
+      "tema_normalizado": "argentina: desregulacion economia y reformas",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno argentino está implementando un ambicioso plan de desregulación económica y reformas para reducir la intervención estatal y promover el libre mercado.\n*   Las acciones recientes incluyen la desregulación completa del mercado de la yerba mate y la discusión de una amplia reforma laboral.\n*   También se están analizando posibles modificaciones al régimen del Monotributo para simplificar el sistema tributario y laboral.\n\n🔍 **Datos clave:**\n*   **Decreto 812/2025:** Norma que formalizó la desregulación del mercado de la yerba mate.\n*   **30 días:** Plazo máximo otorgado al INYM para adecuar toda su normativa a la desregulación.\n*   **$100.000:** Estimación del ministro Sturzenegger sobre el aumento salarial mensual posible al reducir intermediaciones laborales.\n*   **12 horas:** Límite máximo propuesto para la jornada laboral diaria en el proyecto de reforma laboral.\n*   **44,3%:** Caída real en los precios de la yerba mate desde diciembre de 2023, según datos del Ministerio de Desregulación.\n*   **60%:** Porcentaje de trabajadores cuentapropistas informales en Argentina, según datos de IDESA.\n\n⚡ **Desarrollo:**\n*   **Desregulación de la yerba mate:** El Gobierno, mediante el Decreto 812/2025, eliminó la facultad del Instituto Nacional de la Yerba Mate (INYM) de fijar precios de referencia, buscando un mercado más libre y competitivo. Esto limita al INYM a verificaciones de calidad y deroga varios artículos del decreto original de su creación (1240/02).\n*   **Reforma laboral propuesta:** El ministro Federico Sturzenegger impulsa cambios para aumentar el empleo y los salarios, criticando los \"carancheos\" (impuestos estatales, comisiones sindicales, \"industria del juicio\" laboral) que, según él, encarecen la contratación. Argumenta que reducir estas intermediaciones podría incrementar significativamente los salarios de los trabajadores.\n*   **Modificaciones laborales específicas:** Las propuestas incluyen la extensión de la jornada laboral hasta 12 horas (aunque relativizado por Sturzenegger), la posibilidad de fraccionar vacaciones por mutuo acuerdo y el pago de indemnizaciones para PYMES en hasta 12 cuotas. El objetivo es dar más certidumbre y transparencia, sin eliminar la Ley de Contrato de Trabajo, sino acotar las multiplicaciones judiciales de indemnizaciones.\n*   **Reforma del Monotributo:** Se evalúa su modificación o sustitución, con el ministro Luis Caputo buscando reducir la carga tributaria sobre el empleo. Expertos como IDESA sugieren unificar los regímenes de ingresos (dependencia, autónomos y monotributo) en un único impuesto personal con alícuotas progresivas.\n*   **Impacto y desafíos:** La desregulación de la yerba mate genera preocupaciones en productores misioneros, que denuncian una crisis por la cartelización del mercado. Expertos advierten que cualquier cambio en el Monotributo debe ser muy cuidadoso para no aumentar la alta informalidad laboral existente.\n\n💡 **¿Por qué importa?**\n*   Estas reformas buscan transformar profundamente la estructura económica y laboral de Argentina, con el objetivo de impulsar la competencia, reducir la burocracia y mejorar la situación de empleo y salarios.\n*   Sin embargo, las medidas generan un intenso debate, ya que buscan equilibrar la promoción de la libertad de mercado con la protección de sectores vulnerables y la eficacia del sistema para integrar a los trabajadores informales.",
+      "cantidad_noticias": 7,
       "noticias": [
         {
-          "titulo": "Fabiola Yañez volvió a pedir disculpas por la foto en Olivos durante la pandemia y dijo: “A mi no me vacunaron”",
-          "link": "https://www.lanacion.com.ar/politica/fabiola-yanez-volvio-a-pedir-disculpas-por-la-foto-en-olivos-durante-la-pandemia-y-dijo-a-mi-no-me-nid17112025/",
+          "titulo": "El Gobierno desregula la yerba mate y elimina la Intervención total en el sector",
+          "link": "https://www.iprofesional.com/economia/442150-el-gobierno-desregula-la-yerba-mate-y-elimina-la-intervencion-total-en-el-sector",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 10:51:00"
+        },
+        {
+          "titulo": "Sturzenegger habló de los posibles cambios en la reforma laboral y el monotributo",
+          "link": "https://www.lanacion.com.ar/economia/sturzenegger-hablo-de-los-posibles-cambios-en-la-reforma-laboral-y-el-monotributo-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-17 22:59:27"
+          "fecha": "2025-11-18 10:13:30"
         },
         {
-          "titulo": "Fabiola Yañez dijo que Alberto Fernández y Viviana Canosa tenían una relación \"muy íntima\": \"Faltaba que se le tirara encima en las entrevistas\"",
-          "link": "https://www.clarin.com/politica/fabiola-yanez-dijo-alberto-fernandez-viviana-canosa-relacion-intima-faltaba-tirara-encima-entrevistas_0_gUkHEOKCN6.html",
+          "titulo": "Sturzenegger habló de los posibles cambios en el Monotributo: qué dijo",
+          "link": "https://www.iprofesional.com/impuestos/442142-sturzenegger-hablo-de-los-posibles-cambios-en-el-monotributo-que-dijo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 09:39:00"
+        },
+        {
+          "titulo": "Federico Sturzenegger citó a Jesús multiplicando los panes para responder las críticas a la reforma laboral: \"Acá no hay milagros\"",
+          "link": "https://www.clarin.com/politica/federico-sturzenegger-cito-multiplicacion-panes-jesus-responder-criticas-reforma-laboral-aca-milagros_0_nV19Z9wYqa.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 22:44:11"
+          "fecha": "2025-11-18 09:36:56"
         },
         {
-          "titulo": "Mirtha Legrand a Fabiola Yáñez por la fiesta de Olivos: \"Yo vi el funeral de mi hermana por TV\"",
-          "link": "https://noticias.perfil.com/noticias/politica/mirtha-legrand-a-fabiola-yanez-por-la-fiesta-de-olivos-yo-vi-el-funeral-de-mi-hermana-por-tv.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 17:29:07"
+          "titulo": "Milei le quitó al organismo que regulaba al sector yerbatero toda capacidad de intervenir en el mercado y fijar precios",
+          "link": "https://www.clarin.com/rural/milei-quito-organismo-regulaba-sector-yerbatero-toda-capacidad-intervenir-mercado-fijar-precios_0_5aHDVsFLKq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 09:12:51"
+        },
+        {
+          "titulo": "Expertos proponen sustituir el Monotributo por un único impuesto a los ingresos",
+          "link": "https://www.iprofesional.com/impuestos/442060-expertos-proponen-sustituir-el-monotributo-por-un-unico-impuesto-a-los-ingresos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 08:25:00"
+        },
+        {
+          "titulo": "El Gobierno liberó el precio de la yerba mate y desregula la actividad",
+          "link": "https://www.minutouno.com/economia/el-gobierno-libero-el-precio-la-yerba-mate-y-desregula-la-actividad-n6214940",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 08:00:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "La Nación",
+        "iProfesional",
         "Clarín",
-        "Perfil"
+        "Minuto1",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -557,37 +354,181 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "impacto_inundaciones_provincia_20251118",
-      "tema": "Impacto Inundaciones Provincia de Buenos Aires",
-      "tema_normalizado": "impacto inundaciones provincia de buenos aires",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Una extensa región del centro y oeste de la provincia de Buenos Aires enfrenta una grave y prolongada crisis por inundaciones, algunas persistiendo hasta por nueve meses.\n*   Esta situación ha afectado millones de hectáreas de producción agropecuaria, amenazando la próxima campaña agrícola con pérdidas millonarias y severos impactos económicos.\n\n🔍 **Datos clave:**\n*   **Hectáreas afectadas:** Cerca de 6 millones de hectáreas, de las cuales 2 millones están directamente bajo el agua y casi 4 millones están \"afectadas\" (no aptas para producción).\n*   **Pérdidas económicas estimadas:** US$ 2.000 millones, proyectadas para la campaña agrícola de 2026, principalmente en soja y maíz.\n*   **Hectáreas en riesgo de improductividad:** Más de 1.5 millones de hectáreas agrícolas tienen un riesgo muy alto de no poder producir este año.\n*   **Organismo denunciante:** Confederación de Asociaciones Rurales de Buenos Aires y La Pampa (CARBAP).\n*   **Obras pendientes:** El Plan Maestro del Río Salado, que debería estar finalizado hace diez años, presenta un avance \"apenas supera la mitad\".\n*   **Cultivos comprometidos:** Se perdieron siembras de trigo y gran parte de la soja cosechada entre abril y mayo, afectando también la siembra de maíz de primera.\n\n⚡ **Desarrollo:**\n*   La falta de avances en las obras de infraestructura hídrica del Plan Maestro del Río Salado es señalada como una causa principal de la magnitud de las inundaciones y su prolongación.\n*   CARBAP critica a los municipios por el mal estado de la red vial rural, fundamental para el transporte de la producción, y acusa el desvío de fondos de la \"tasa vial\".\n*   Las áreas afectadas, aun sin agua visible, carecen de las condiciones mínimas para la siembra: falta de piso, caminos intransitables y ausencia de accesibilidad para maquinaria agrícola.\n*   La advertencia es urgente: la \"ventana de siembra\" de cultivos clave como la soja y el maíz se está cerrando rápidamente, lo que agrava el riesgo de dejar tierras fuera de producción.\n*   Los partidos de Bolívar, 9 de Julio, Pehuajó, 25 de Mayo, Lincoln, Carlos Casares, Las Flores, entre otros, son los más impactados, con más de 1.1 millones de hectáreas directamente bajo el agua en algunos casos.\n*   Los productores exigen la finalización total de las obras del Plan Maestro del Río Salado para el año 2030, considerándolo una obligación moral y productiva.\n\n💡 **¿Por qué importa?**\n*   Las millonarias pérdidas no solo afectan a los productores agropecuarios, sino que impactan a toda la cadena de valor (contratistas, transportistas, proveedores y comercios locales) y reducen la recaudación estatal.\n*   Este escenario destaca la necesidad crítica de una gestión hídrica eficiente y la inversión en infraestructura para proteger la producción y la economía de una de las zonas agrícolas más importantes del país.",
-      "cantidad_noticias": 3,
+      "tema_id": "argentina:_rescate_financiero_20251118",
+      "tema": "Argentina: Rescate Financiero EE.UU./JPMorgan",
+      "tema_normalizado": "argentina: rescate financiero ee.uu./jpmorgan",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina recibió un significativo respaldo financiero de Estados Unidos, que incluye un swap de divisas y la participación de bancos de Wall Street.\n• Este paquete busca estabilizar la moneda argentina y respaldar el programa económico del gobierno de Javier Milei.\n• El Wall Street Journal destacó el rol clave de ex-ejecutivos de JPMorgan, apodados \"los chicos de JPMorgan\", en las negociaciones y en el equipo económico argentino.\n\n🔍 **Datos clave:**\n• **Monto del paquete:** US$20.000 millones, principalmente a través de un swap de monedas.\n• **Actores clave:** Luis Caputo (Ministro de Economía de Argentina), Scott Bessent (Secretario del Tesoro de EE.UU.).\n• **Bancos involucrados:** J.P. Morgan, Citigroup, Bank of America, Goldman Sachs.\n• **Garantía:** Activos de la System Open Market Account (SOMA) de la Reserva Federal de EE.UU.\n• **Ganancia estimada para EE.UU.:** Aproximadamente US$2.700 millones, según la Casa Blanca.\n• **Funcionarios argentinos ex-JPMorgan:** José Luis Daza, Pablo Quirno, Santiago Bausili, además de Luis Caputo.\n\n⚡ **Desarrollo:**\n• El equipo económico argentino, liderado por Luis Caputo (ex-JPMorgan y Deutsche Bank), fue elogiado por \"orquestar el negocio de su vida\" para asegurar el apoyo de la administración estadounidense.\n• Scott Bessent, también ex-operador de divisas, fue crucial en el diseño del paquete de asistencia bilateral.\n• Los bancos de Wall Street asumieron la garantía del préstamo utilizando activos de la Reserva Federal, un giro respecto a su petición inicial de que el Tesoro de EE.UU. asumiera el riesgo soberano.\n• El Tesoro de EE.UU. también inyectó US$2.000 millones adicionales antes de las elecciones, afirmando haber obtenido ganancias con estas operaciones.\n• El objetivo principal es evitar que Argentina caiga en su histórico patrón de crisis cambiarias y falta de dólares, incluso siendo el mayor deudor del FMI.\n• Luis Caputo se opone a una flotación total del peso, argumentando que el mercado cambiario argentino es demasiado pequeño y volátil.\n\n💡 **¿Por qué importa?**\n• Este apoyo financiero busca dar estabilidad a Argentina y margen para continuar con sus reformas económicas.\n• Subraya la influencia de ex-operadores financieros en la dirección de la política económica y las relaciones bilaterales, transformando su rol de \"cabalgadores\" a \"domadores\" de fuerzas de mercado.\n• Se presenta como una operación mutuamente beneficiosa para EE.UU., generando ganancias y fortaleciendo su posición global sin costos directos para sus contribuyentes.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "El campo cuestionó a Kicillof por la falta de obras y advierte por pérdidas millonarias tras las inundaciones",
-          "link": "https://www.infobae.com/politica/2025/11/18/el-campo-cuestiono-a-kicillof-por-la-falta-de-obras-y-advierte-por-perdidas-millonarias-tras-las-inundaciones/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 02:08:42"
+          "titulo": "The Wall Street Journal habló del rol de “los chicos de JP Morgan” en el rescate financiero a la Argentina",
+          "link": "https://www.lanacion.com.ar/economia/the-wall-street-journal-hablo-del-rol-de-los-chicos-de-jp-morgan-en-el-rescate-financiero-a-la-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 12:00:04"
         },
         {
-          "titulo": "Las inundaciones en Buenos Aires afectan a casi 6 millones de hectáreas y generarán pérdidas por US$ 2.000 millones",
-          "link": "https://www.perfil.com/noticias/economia/las-inundaciones-en-buenos-aires-afectan-a-casi-6-millones-de-hectareas-y-generaran-perdidas-por-us-2000-millones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-17 16:15:03"
+          "titulo": "La trama JPMorgan en la Tesorería que impulsó el apoyo de EE. UU. a Argentina",
+          "link": "https://www.iprofesional.com/politica/442172-la-trama-jpmorgan-en-la-tesoreria-que-impulso-el-apoyo-de-ee-uu-a-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 11:36:00"
         },
         {
-          "titulo": "Hay casi 6 millones de hectáreas afectadas por las inundaciones en Buenos Aires: las pérdidas llegan a US$ 2.000 millones",
-          "link": "https://www.clarin.com/rural/6-millones-hectareas-afectadas-inundaciones-buenos-aires-us-2000-dejarian-ingresar-circuito-economico-2026_0_8llyCt0ugE.html",
+          "titulo": "Bancos de Wall Street asumirían la garantía de préstamo a la Argentina con activos de la Fed",
+          "link": "https://www.minutouno.com/economia/bancos-wall-street-asumirian-la-garantia-prestamo-la-argentina-activos-la-fed-n6215007",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 10:55:00"
+        },
+        {
+          "titulo": "\"Trump vuelve a ganar a lo grande con el intercambio de pesos argentinos\", el artículo que difundió la Casa Blanca sobre las ganancias de Estados Unidos",
+          "link": "https://www.clarin.com/politica/trump-vuelve-ganar-grande-intercambio-pesos-argentinos-articulo-difundio-casa-blanca-ganancias-estados-unidos_0_VjM80fPdtA.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-17 15:27:14"
+          "fecha": "2025-11-18 08:41:01"
+        },
+        {
+          "titulo": "Rescate de EE.UU. a Argentina: el rol clave de los ‘Chicos de JPMorgan’ en la negociación, según The Wall Street Journal",
+          "link": "https://www.clarin.com/economia/chicos-jpmorgan-detras-rescate-estados-unidos-argentina-the-wall-street-journal_0_FtQ0b4oWHf.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 08:26:23"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "Perfil",
+        "iProfesional",
         "Clarín",
-        "Infobae"
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_polemica_despachos_20251118",
+      "tema": "Argentina: Polémica Despachos Diputados",
+      "tema_normalizado": "argentina: polemica despachos diputados",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Martín Menem, presidente de la Cámara de Diputados, ordenó a los legisladores que finalizan su mandato devolver los despachos, mobiliario y equipos asignados.\n*   Amenazó con retener la última dieta (salario) a quienes no cumplan con la restitución de estos bienes públicos.\n*   La medida busca una reorganización general de los espacios físicos ante la inminente renovación parlamentaria.\n\n🔍 **Datos clave:**\n*   **Autoridad:** Martín Menem, Presidente de la Cámara de Diputados.\n*   **Fecha de formalización de la medida:** 14 de noviembre.\n*   **Plazo límite de devolución:** Hasta el 9 de diciembre.\n*   **Fecha de asunción de nuevos diputados:** 10 de diciembre.\n*   **Marco legal:** Artículo 1° de la Constitución Nacional, Ley 24.156 de Administración Financiera, Ley 25.188 de Ética en la Función Pública.\n\n⚡ **Desarrollo:**\n*   La Presidencia de la Cámara de Diputados emitió una resolución exigiendo la restitución de todos los espacios físicos, como oficinas y despachos, así como el mobiliario y el equipamiento electrónico e informático asignado.\n*   Esta obligación aplica a los diputados que finalizan su mandato o cesan en sus funciones por cualquier motivo, y también a los presidentes de bloques o comisiones.\n*   La principal consecuencia por el incumplimiento es el descuento de la última dieta del legislador saliente, hasta completar el importe total de los bienes no restituidos.\n*   En caso de que el valor de los bienes no devueltos supere el monto de la liquidación final, se instruye al Servicio Jurídico Permanente de la Cámara a iniciar acciones judiciales para su recupero o el valor equivalente.\n*   El gobierno fundamenta esta decisión en la necesidad de rendir cuentas sobre la administración de bienes públicos y promover la transparencia en la gestión del patrimonio institucional.\n*   La medida es clave para la reorganización que debe ocurrir antes de que los nuevos diputados electos asuman sus bancas el 10 de diciembre.\n*   En un contexto relacionado, el Gobierno confirmó la convocatoria a sesiones extraordinarias entre el 10 y el 31 de diciembre, con una agenda que incluye el Presupuesto 2026, reformas laboral y tributaria, y un nuevo Código Penal.\n\n💡 **¿Por qué importa?**\n*   Esta acción marca una clara señal del nuevo gobierno de priorizar la austeridad y la transparencia en el manejo de los recursos públicos, generando un precedente en la Cámara de Diputados.\n*   La polémica revela tensiones inherentes al traspaso de poder y a los cambios en las dinámicas y privilegios habituales dentro del ámbito legislativo argentino.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Martín Menem amenazó a los diputados que terminan sus mandatos para que devuelvan sus despachos",
+          "link": "https://www.minutouno.com/politica/martin-menem-amenazo-los-diputados-que-terminan-sus-mandatos-que-devuelvan-sus-despachos-n6215045",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 11:40:00"
+        },
+        {
+          "titulo": "Discusiones, un nuevo protocolo en Diputados y polémica: Martín Menem pidió que todos  devuelvan los despachos y amenaza con multas",
+          "link": "https://www.clarin.com/politica/discusiones-nuevo-protocolo-diputados-polemica-martin-menem-pidio-devuelvan-despachos-amenaza-multas_0_qRBJUEFp9L.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 10:43:25"
+        },
+        {
+          "titulo": "Ordenan a los diputados que terminan mandato que devuelvan los despachos o no cobrarán su dieta",
+          "link": "https://www.ambito.com/politica/ordenan-los-diputados-que-terminan-mandato-que-devuelvan-los-despachos-o-no-cobraran-su-dieta-n6214950",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 09:10:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "Clarín",
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflicto_gaza:_plan_20251118",
+      "tema": "Conflicto Gaza: Plan Paz Trump",
+      "tema_normalizado": "conflicto gaza: plan paz trump",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Consejo de Seguridad de la ONU aprobó una resolución presentada por Estados Unidos que respalda el plan de paz del presidente Donald Trump para Gaza.\n• Este plan busca poner fin a la guerra, establecer una autoridad transitoria y desplegar una fuerza internacional de estabilización en el enclave palestino.\n• La iniciativa, que incluye un anexo de 20 puntos, también abre una posible vía hacia un futuro Estado palestino.\n\n🔍 **Datos clave:**\n• **Aprobación ONU:** Lunes, 13 votos a favor, 0 en contra, 2 abstenciones (Rusia y China).\n• **Autoridad transitoria:** Junta de Paz, presidida por Donald Trump, para supervisar reconstrucción.\n• **Fuerza Internacional:** Fuerza Internacional de Estabilización (ISF, por sus siglas en inglés).\n• **Vigencia:** Autorización de la Junta de Paz y la ISF hasta fines de 2027.\n• **Primera fase del plan:** Un alto el fuego y un mecanismo inicial para la liberación de rehenes.\n\n⚡ **Desarrollo:**\n• El plan establece una \"Junta de Paz\", encabezada por Trump, que se encargará de supervisar la reconstrucción y el proceso de recuperación económica de Gaza.\n• Se autoriza el despliegue de una Fuerza Internacional de Estabilización (ISF) con mandato para garantizar la desmilitarización del territorio, incluyendo el desarme y la destrucción de infraestructura militar.\n• La ISF también debe asegurar las zonas fronterizas, coordinar con una fuerza policial palestina entrenada y garantizar la llegada de ayuda humanitaria, cooperando con Egipto e Israel.\n• La retirada de las tropas israelíes del enclave se realizará progresivamente, basada en hitos y plazos que serán definidos por la ISF, Israel, EE. UU. y los garantes del alto el fuego.\n• Estados Unidos considera que el plan desmantela el control de Hamas y ofrece un camino para que Gaza \"se levante libre de la sombra del terror, próspera y segura\".\n• El primer ministro israelí, Benjamin Netanyahu, celebró la aprobación del plan por su énfasis en la desmilitarización y desradicalización, aunque un día antes se había manifestado contrario a la creación de un Estado palestino.\n• Hamas rechazó la iniciativa, calificándola de instrumento de control extranjero y argumentando que el mandato de desarme de la ISF la \"despoja de su neutralidad\".\n• Por otro lado, la Autoridad Palestina dio la bienvenida a la resolución, declarándose lista para implementarla y cooperar con Estados Unidos, la ONU y otros estados.\n\n💡 **¿Por qué importa?**\n• La resolución legitima un marco internacional con el respaldo de la ONU para intentar lograr la paz y estabilidad en Gaza, estableciendo mecanismos de gobernanza transitoria y seguridad.\n• Su implementación enfrenta desafíos significativos debido a las reacciones polarizadas de los principales actores involucrados, especialmente el rechazo de Hamas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Cómo es el plan de paz de Trump para Gaza que aprobó la ONU y qué dice sobre el futuro del enclave",
+          "link": "https://www.lanacion.com.ar/el-mundo/como-es-el-plan-de-paz-de-trump-para-gaza-que-aprobo-la-onu-y-que-dice-sobre-el-futuro-del-enclave-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 10:48:03"
+        },
+        {
+          "titulo": "Avance: el Consejo de Seguridad aprobó el plan de Trump para Gaza con la formación de una fuerza militar internacional",
+          "link": "https://www.clarin.com/mundo/avance-consejo-seguridad-aprobo-plan-trump-gaza-formacion-fuerza-militar-internacional_0_cjTBorMHYw.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 08:41:45"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caida_precio_bitcoin_20251118",
+      "tema": "Caída Precio Bitcoin Noviembre",
+      "tema_normalizado": "caida precio bitcoin noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El precio de Bitcoin (BTC) experimentó una fuerte caída en noviembre, perforando la marca de los u$s90.000 por primera vez en siete meses.\n• Esta baja se suma a un retroceso general del mercado de criptomonedas, afectando también a altcoins como Ethereum.\n• La tensión y el \"miedo extremo\" se apoderaron del mercado, generando preocupación entre los inversores.\n\n🔍 **Datos clave:**\n• **Precio:** Bitcoin cayó hasta u$s89.000, desde un máximo previo de u$s126.200.\n• **Período:** La caída se dio en pocas semanas, alcanzando el mínimo en noviembre (este martes, según la noticia, haciendo referencia a la fecha de publicación original).\n• **Analista:** Ali Martinez predice que Bitcoin tocará fondo en octubre de 2026.\n• **Ventas récord:** Holders de largo plazo vendieron más de 800.000 BTC.\n• **ETFs:** Fondos de Bitcoin en EE. UU. registraron salidas de hasta u$s800 millones diarios.\n• **Capitalización:** El mercado cripto borró u$s1,2 billones en capitalización, el 28% de su valor total.\n\n⚡ **Desarrollo:**\n• La corrección del precio de Bitcoin se debió a una combinación de factores, incluyendo el agotamiento de un rally previo que había llevado la criptomoneda a los u$s126.000.\n• Entre las causas principales se encuentran las ventas masivas de inversores a largo plazo y las liquidaciones forzadas en los mercados de futuros, producto de un exceso de apalancamiento.\n• Los Fondos Cotizados en Bolsa (ETF) de Bitcoin en Estados Unidos, que antes impulsaban el precio, pasaron a registrar salidas millonarias, revirtiendo la tendencia.\n• El contexto macroeconómico global también influyó, con menor liquidez, temores de recesión en EE. UU. y la incertidumbre sobre la política de tasas de interés de la Reserva Federal.\n• Analistas como Ali Martinez proyectan que el fondo del mercado bajista podría llegar en octubre de 2026, basándose en ciclos históricos.\n• Otros expertos, como Tom Lee, son más optimistas y sugieren un nuevo máximo del ciclo cripto en 12 a 36 meses.\n• La caída de Bitcoin arrastró a otras criptomonedas importantes como Ethereum (ETH), XRP, BNB y Solana (SOL).\n\n💡 **¿Por qué importa?**\n• La caída expone una \"purga de excesos\" y la necesidad de limpiar el apalancamiento en el mercado antes de un posible nuevo ciclo alcista.\n• Para algunos analistas, este momento podría representar una oportunidad ideal de compra a largo plazo, anticipando un repunte futuro.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Bitcoin se desploma a casi u$s90.000 y analistas temen que toque fondo en 2026",
+          "link": "https://www.ambito.com/finanzas/bitcoin-se-desploma-casi-us90000-y-analistas-temen-que-toque-fondo-2026-n6214945",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 12:05:00"
+        },
+        {
+          "titulo": "Bitcoin perfora los 90.000 dólares por primera vez en siete meses",
+          "link": "https://www.iprofesional.com/finanzas/442040-bitcoin-tambalea-y-un-importante-banco-de-eeuu-alerta-por-su-escenario-mas-temido",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 12:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "iProfesional",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "china:_nuevo_tren_20251118",
+      "tema": "China: Nuevo Tren Bala Rápido",
+      "tema_normalizado": "china: nuevo tren bala rapido",
+      "resumen": "📌 **¿Qué está pasando?**\n• China ha presentado el prototipo CR450, su nuevo tren bala que se proyecta como el más rápido del mundo.\n• Este modelo alcanzó 450 km/h en pruebas y está diseñado para operar comercialmente a 400 km/h, superando significativamente a otros trenes de alta velocidad.\n• Su desarrollo, liderado por el Grupo Estatal de Ferrocarriles de China, consolida la posición del país como líder global en tecnología ferroviaria avanzada.\n\n🔍 **Datos clave:**\n• **Velocidad máxima en pruebas:** 450 km/h (con un pico registrado de 453 km/h).\n• **Velocidad operativa comercial:** 400 km/h.\n• **Inicio de operaciones estimado:** 2026.\n• **Fabricante principal:** CRRC Corporation Limited.\n• **Extensión de la red de alta velocidad en China:** Aproximadamente 47,000 kilómetros.\n\n⚡ **Desarrollo:**\n• El CR450 representa un avance notable frente al actual Fuxing (CR400) de China, que opera a 350 km/h, y modelos como el Shinkansen japonés (320 km/h) o el ICE 3 alemán (330 km/h).\n• Sus innovaciones incluyen una reducción del 22% en la resistencia operativa y una disminución del 10% en su peso total, gracias a un diseño más aerodinámico y materiales ultralivianos.\n• Incorpora un avanzado sistema de tracción con imanes permanentes enfriados por agua y boogies de alta estabilidad, además de un sistema de frenado de emergencia multinivel.\n• El tren integra más de 4,000 sensores para monitorear en tiempo real componentes clave y tecnología de reconocimiento más allá del horizonte para mejorar la respuesta ante emergencias.\n• Durante las pruebas, logró una hazaña al cruzar dos formaciones a una velocidad combinada de 896 km/h, y aceleró de 0 a 350 km/h en tan solo 4 minutos y 40 segundos.\n• Ofrece mayor confort a los pasajeros con técnicas de reducción de ruido que disminuyen 2 decibeles en el interior y amplían un 4% el espacio de servicio.\n• China no solo domina en velocidad, sino también en infraestructura, extendiendo su experiencia a proyectos internacionales en Indonesia y Serbia.\n\n💡 **¿Por qué importa?**\n• El CR450 solidifica el liderazgo indiscutible de China en la industria ferroviaria global, marcando un nuevo hito en velocidad, seguridad y eficiencia del transporte.\n• Este avance tecnológico promete redefinir los estándares mundiales para los trenes de alta velocidad y fortalece la influencia de China en el desarrollo de infraestructuras globales.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "China inauguró el tren bala más rápido del mundo: así es el nuevo CR450",
+          "link": "https://www.ambito.com/mundo/china-inauguro-el-tren-bala-mas-rapido-del-asi-es-el-nuevo-cr450-n6214983",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 10:32:00"
+        },
+        {
+          "titulo": "Probaron el tren bala más rápido del mundo: qué velocidad alcanza",
+          "link": "https://www.minutouno.com/mundo/probaron-el-tren-bala-mas-rapido-del-que-velocidad-alcanza-n6214996",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 09:55:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
