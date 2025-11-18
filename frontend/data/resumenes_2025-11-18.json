@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-18",
-  "fecha_generacion": "2025-11-18T09:18:58.969051",
+  "fecha_generacion": "2025-11-18T12:31:53.029599",
   "resumenes": {
     "internacional": {
       "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T09:18:21.700853",
+      "cantidad_noticias": 10,
+      "fecha_generacion": "2025-11-18T12:31:43.951282",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "El gobierno de Javier Milei intensifica sus gestiones legislativas, centrándose en la aprobación de reformas estructurales y el Presupuesto 2026. La estrategia principal es negociar directamente con los gobernadores para asegurar los votos necesarios en el Congreso a cambio de fondos y obras. Entre las iniciativas, se destaca un proyecto para modificar la Ley de Glaciares y promover inversiones mineras. Paralelamente, se implementan medidas de austeridad, como la venta de vehículos oficiales del Congreso, mientras la dinámica de la Casa Rosada muestra una intensa actividad.\n\nLa oposición peronista, por su parte, busca redefinir su estrategia frente a las reformas gubernamentales, con el Consejo Nacional del PJ celebrando reuniones cruciales para establecer una postura común. Cristina Kirchner impulsa una \"Hoja de Ruta\" económica de 400 páginas, mientras que Axel Kicillof enfatiza la necesidad de un debate interno. Se observan divisiones dentro del peronismo, especialmente en torno a la nominación de jueces para la Corte Suprema y la reconfiguración de bloques provinciales, con movimientos como la ruptura del gobernador Jalil con Unión por la Patria.\n\nEn el ámbito internacional, se consolida un alineamiento \"sin precedentes\" entre el presidente Milei y Donald Trump, reforzado por un rescate financiero y una futura aparición conjunta. Este vínculo se traduce en acuerdos económicos significativos, como la ampliación del acceso al mercado estadounidense para acero, aluminio y carne vacuna, proyectando un incremento anual de 600 millones de dólares en exportaciones que beneficiarán a varias provincias.\n\nFinalmente, la justicia avanza en la causa de corrupción de la Agencia Nacional de Discapacidad (ANDIS). Esta semana son clave las indagatorias de exfuncionarios y empresarios, quienes enfrentan acusaciones de sobreprecios y acuerdos ilegales en el negocio de medicamentos, con un empresario ya admitiendo gestiones irregulares.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T09:18:38.599178",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "cantidad_noticias": 21,
+      "fecha_generacion": "2025-11-18T12:31:52.651452",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "El ministro de Economía, Luis Caputo, se encamina a solicitar un nuevo *waiver* al Fondo Monetario Internacional, en un periodo donde el Gobierno argentino reportó un superávit financiero en octubre y una reducción de más de USD 11.000 millones en la deuda pública. El Riesgo País se mantuvo en 616 puntos, reflejando un cauteloso optimismo que busca sentar las bases para la reactivación del crédito al sector privado.\n\nLos mercados financieros y cambiarios evidenciaron movimientos dispares. El dólar blue cerró a $1.435, mientras que el euro blue se mantuvo estable. A nivel internacional, se observaron caídas en Wall Street, el Swiss Market y el Euro Stoxx 50. Localmente, esta tendencia se replicó en los ADRs argentinos y en el S&P Merval, que retrocedió por debajo de los 2.000 puntos.\n\nLa actividad interna muestra una contracción del consumo, manifestada en bajas de alquileres comerciales en Avenida Avellaneda y descuentos en productos como neumáticos. En el ámbito regulatorio, se debate la sustitución del Monotributo por un impuesto único a los ingresos, y se anticipan desafíos jurídicos para la reforma laboral, con potenciales impactos en el Impuesto a las Ganancias. El Gobierno, además, desreguló el Instituto Nacional de la Yerba Mate. El sector agropecuario experimentó un alza significativa en el precio de la soja internacional, si bien enfrenta pérdidas estimadas en USD 2.000 millones por inundaciones en Buenos Aires. Finalmente, Buenos Aires consolidó su posición como hub cripto al albergar una feria global que generó un impacto económico de USD 50 millones, mientras ANSES comunicó bonos para desempleados y el calendario de pagos habitual.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T09:18:58.968539",
+      "fecha_generacion": "2025-11-18T12:31:53.029326",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-18T09:18:58.969027"
+      "fecha_generacion": "2025-11-18T12:31:53.029576"
     }
   }
 }
