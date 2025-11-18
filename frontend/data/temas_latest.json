@@ -1,137 +1,336 @@
 {
   "fecha": "2025-11-18",
-  "fecha_generacion": "2025-11-18T15:22:29.754949",
-  "total_temas": 9,
+  "fecha_generacion": "2025-11-18T18:27:08.024174",
+  "total_temas": 10,
   "temas": [
     {
-      "tema_id": "argentina:_cotizacion_dolar_20251118",
-      "tema": "Argentina: Cotización Dólar y Mercado Cambiario",
-      "tema_normalizado": "argentina: cotizacion dolar y mercado cambiario",
-      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial en Argentina ha experimentado una inusual tendencia a la baja este martes 18 de noviembre, perforando los $1.400 en el mercado mayorista.\n• Esta \"pax cambiaria\" contrasta con las múltiples cotizaciones del dólar, donde el blue subió levemente y la brecha con los dólares financieros se amplió.\n\n🔍 **Datos clave:**\n• Dólar Oficial (minorista, Banco Nación): $1.415 (venta)\n• Dólar Mayorista: $1.387 - $1.390\n• Dólar Blue: $1.430 - $1.435 (venta)\n• Dólar Contado con Liquidación (CCL): $1.485 - $1.494 (venta)\n• Dólar MEP (Mercado Electrónico de Pagos): $1.445 - $1.449 (venta)\n• Dólar Tarjeta/Ahorro: $1.839,50\n• Brecha CCL vs. Oficial: 6,9% (la más alta desde las elecciones)\n\n⚡ **Desarrollo:**\n• La actual estabilidad del dólar se atribuye a un giro en las expectativas tras el resultado electoral y una recomposición política.\n• Un factor clave es el \"boom\" de emisiones de Obligaciones Negociables (ONs) de empresas en dólares, sumando cerca de USD 3.000 millones en noviembre, liderado por el sector energético.\n• Esto incrementó la oferta de divisas en el mercado y contribuyó a una reducción del riesgo país.\n• El Gobierno, a través del Ministro Luis Caputo, defiende el actual \"esquema de bandas de flotación\" para el tipo de cambio, indicando que no es momento para una flotación libre.\n• El Tesoro Nacional estaría realizando \"compras silenciosas\" de dólares para recomponer reservas sin generar un salto en la cotización oficial.\n• Los contratos de dólar futuro reflejan la credibilidad en el esquema, operando por debajo del techo de la banda hasta julio de 2026.\n• A pesar de la calma en el dólar oficial, la brecha con el dólar blue y los financieros (MEP y CCL) creció, impulsada por arbitrajes y la falta de pesos.\n\n💡 **¿Por qué importa?**\n• Esta calma cambiaria, atípica para la época, brinda un respiro a la economía, pero su sostenibilidad dependerá de corregir desequilibrios estructurales.\n• La gestión gubernamental para acumular reservas y mantener el control sobre las distintas cotizaciones será crucial para la estabilidad económica futura.",
-      "cantidad_noticias": 19,
+      "tema_id": "bcra:_acumulacion_reservas_20251118",
+      "tema": "BCRA: acumulación reservas y política monetaria",
+      "tema_normalizado": "bcra: acumulacion reservas y politica monetaria",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Banco Central de la República Argentina (BCRA), bajo la presidencia de Santiago Bausili, ha delineado su estrategia para la acumulación de reservas internacionales, priorizando la estabilidad y la \"remonetización\" de la economía.\n*   Esta visión difiere de la postura de algunos economistas que instan a una compra más agresiva de divisas por parte de la entidad monetaria.\n*   Analistas financieros, como Morgan Stanley, sugieren que la acumulación de reservas se intensificará tras una posible operación de manejo de deuda externa.\n\n🔍 **Datos clave:**\n*   **Santiago Bausili:** Presidente del BCRA.\n*   **Remonetización:** Proceso clave para la estrategia de reservas; se encuentra al 50% de sus niveles históricos.\n*   **Déficit externo:** Morgan Stanley estima que corregirlo implicaría una depreciación cambiaria del 10-15%.\n*   **Vencimientos 2026/2027:** Posible objetivo de una operación de gestión de pasivos para liberar divisas.\n*   **Simposio Internacional de Economía:** Escenario donde Bausili expuso su postura.\n\n⚡ **Desarrollo:**\n*   Bausili afirmó que la acumulación de reservas será una *consecuencia* del éxito del programa de estabilización y no su motor principal o un objetivo \"a cualquier costo\" que comprometa la estabilidad económica.\n*   La estrategia del BCRA no contempla la acumulación a través de un \"tipo de cambio real artificialmente alto\" que refleje una economía deprimida ni mediante la cuenta corriente.\n*   La \"remonetización de la economía\" es el pilar central: el aumento de la demanda de pesos permitirá al BCRA proveer esa liquidez y, a la vez, sumar reservas.\n*   El presidente Javier Milei ha respaldado esta postura, rechazando la compra de dólares de forma indiscriminada que podría generar una suba del tipo de cambio.\n*   Morgan Stanley anticipa que el BCRA iniciaría un programa de compra de divisas una vez que se reduzcan los pagos de la deuda externa a corto plazo.\n*   Esto podría materializarse mediante una \"operación de gestión de pasivos\" (recompra o reestructuración de deuda) para liquidar vencimientos de 2026 y 2027 con \"financiación más barata\".\n*   Dicha operación buscaría reducir el riesgo país y facilitar un mayor acceso al mercado de capitales, mientras que Morgan Stanley también ve un \"dólar más alto\" (depreciación del 10-15%) como inevitable para eliminar el déficit externo.\n\n💡 **¿Por qué importa?**\n*   La estrategia define cómo el BCRA buscará fortalecer las reservas internacionales, un factor crítico para la confianza y la estabilidad macroeconómica de Argentina.\n*   Sugiere una hoja de ruta hacia la normalización cambiaria y un eventual acceso a los mercados de capitales, atado al éxito de la remonetización y las operaciones de deuda.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 18 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-18-noviembre-n6214941",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 12:00:00"
+          "titulo": "Santiago Bausili: “El ritmo de acumulación de reservas será definido por el proceso de remonetización, y no al revés”",
+          "link": "https://www.lanacion.com.ar/economia/dolar/santiago-bausili-el-ritmo-de-acumulacion-de-reservas-sera-definido-por-el-proceso-de-remonetizacion-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 14:42:11"
         },
+        {
+          "titulo": "Santiago Bausili, presidente del BCRA: “El objetivo del programa no puede ser la acumulación de reservas a cualquier costo”",
+          "link": "https://www.infobae.com/economia/2025/11/18/santiago-bausili-presidente-del-bcra-el-objetivo-del-programa-no-puede-ser-la-acumulacion-de-reservas-a-cualquier-costo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 14:32:24"
+        },
+        {
+          "titulo": "Bausili dijo que la acumulación de reservas no será con \"un dólar artificialmente alto\"",
+          "link": "https://www.clarin.com/economia/bausili-dijo-acumulacion-reservas-dolar-artificialmente-alto_0_1bJYOeeanN.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 14:12:12"
+        },
+        {
+          "titulo": "Para Morgan Stanley, la clave para sumar reservas será una operación de manejo de deuda",
+          "link": "https://www.iprofesional.com/finanzas/442187-morgan-stanley-la-acumulacion-de-reservas-dependera-de-una-operacion-previa-de-deuda",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 13:18:00"
+        },
+        {
+          "titulo": "Morgan Stanley espera que la acumulación de reservas del BCRA se active tras una recompra de deuda",
+          "link": "https://www.ambito.com/economia/morgan-stanley-espera-que-la-acumulacion-reservas-del-bcra-se-active-una-recompra-deuda-n6215039",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 11:46:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Ámbito Financiero",
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_andis:_corrupcion_20251118",
+      "tema": "Causa ANDIS: corrupción y renuncias",
+      "tema_normalizado": "causa andis: corrupcion y renuncias",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga una compleja red de corrupción, sobornos y sobreprecios en la Agencia Nacional de Discapacidad (ANDIS), que involucra a ex funcionarios y operadores externos.\n• Esta causa ya provocó la renuncia de una alta funcionaria del Ministerio de Economía y el llamado a indagatoria de importantes figuras vinculadas al organismo.\n• El escándalo destapa una trama familiar donde se sospecha de manejos ilícitos de dinero y conexiones con empresas proveedoras.\n\n🔍 **Datos clave:**\n• **Miguel Ángel Calvete:** Condenado en junio de 2019 a cuatro años de prisión por explotación económica del ejercicio de la prostitución (entre 2015 y 2016); ahora es un operador central en la causa ANDIS y fue indagado recientemente.\n• **Ornella Calvete:** Hija de Miguel Ángel Calvete; ocupaba cargos clave como directora Nacional de Desarrollo Regional y Sectorial en Economía y representante en la CAAE; renunció tras su implicación.\n• **700.000 dólares:** Cantidad de dinero en efectivo, de origen injustificado, secuestrada el 9 de octubre en el domicilio de Ornella Calvete durante un operativo judicial.\n• **Diego Spagnuolo:** Ex titular de la ANDIS, es considerado el principal acusado y fue llamado a declaración indagatoria para el 19 de noviembre.\n• **Fiscal Franco Picardi:** Impulsa la investigación por presuntos sobornos, sobreprecios y lavado de dinero dentro del organismo.\n\n⚡ **Desarrollo:**\n• La investigación del fiscal Picardi se centra en la digitación de compras para \"Prestaciones e Insumos de Alto Costo y Baja Incidencia\" (PACBI), caracterizadas por su elevado valor.\n• Miguel Ángel Calvete, cuya pena de prisión se efectivizó el mes pasado, es señalado por la fiscalía como un operador clave con llegada directa al ex titular de ANDIS, Diego Spagnuolo.\n• Ornella Calvete quedó vinculada a la trama delictiva a través de intercambios directos con su padre, los cuales revelan gestiones y referencias a flujos de dinero con empresarios del sector ortopédico.\n• El hallazgo de los 700.000 dólares en su casa, y su intento por justificarlo de manera alternativa, se convirtió en el indicio más fuerte en su contra y aceleró su salida del Gobierno.\n• La causa ya generó apartamientos de funcionarios en distintos niveles y se espera que continúe expandiéndose, investigando los vínculos entre funcionarios, operadores privados y empresas proveedoras.\n\n💡 **¿Por qué importa?**\n• El caso evidencia un posible desvío masivo de recursos públicos destinados a la asistencia de personas con discapacidad, impactando directamente en un sector vulnerable.\n• La megainvestigación sacude al gobierno y expone fallas en el control de organismos estatales, con consecuencias políticas que podrían escalar a niveles más altos.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Miguel Ángel Calvete, de condenado por explotación económica del ejercicio de la prostitución a operador de ANDIS",
+          "link": "https://www.ambito.com/politica/miguel-angel-calvete-condenado-explotacion-economica-del-ejercicio-la-prostitucion-operador-andis-n6215130",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 13:49:00"
+        },
+        {
+          "titulo": "Renunció una funcionaria del ministerio de Economía por el caso ANDIS: le encontraron 700 mil dólares",
+          "link": "https://www.minutouno.com/politica/renuncio-una-funcionaria-del-ministerio-economia-el-caso-andis-le-encontraron-700-mil-dolares-n6215108",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 13:47:00"
+        },
+        {
+          "titulo": "Ornella Calvete dejó su puesto en Economía tras quedar bajo sospecha por la causa Andis",
+          "link": "https://www.iprofesional.com/politica/442194-efecto-domino-por-la-causa-andis-ornella-calvete-dejo-economia-tras-quedar-bajo-sospecha",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 13:39:00"
+        },
+        {
+          "titulo": "Calvete, de condenado por explotación económica del ejercicio de la prostitución a operador de ANDIS",
+          "link": "https://www.minutouno.com/politica/calvete-condenado-explotacion-economica-del-ejercicio-la-prostitucion-operador-andis-n6215129",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 13:30:00"
+        },
+        {
+          "titulo": "Causa ANDIS: renunció Ornella Calvete a su cargo en Economía tras su vinculación al escándalo de corrupción",
+          "link": "https://www.ambito.com/politica/causa-andis-renuncio-ornella-calvete-su-cargo-economia-su-vinculacion-al-escandalo-corrupcion-n6215086",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 12:53:00"
+        },
+        {
+          "titulo": "Presuntas coimas en la ANDIS: renunció Ornella Calvete, funcionaria del Ministerio de Economía e hija de uno de los acusados",
+          "link": "https://www.clarin.com/politica/presuntas-coimas-andis-renuncio-ornella-calvete-funcionaria-ministerio-economia-hija-acusados_0_D65PFQRvAz.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 12:11:14"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "Clarín",
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_dolar_oficial_20251118",
+      "tema": "Cotización dólar oficial y blue",
+      "tema_normalizado": "cotizacion dolar oficial y blue",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial y el dólar blue, junto con otros tipos de cambio paralelos, están siendo activamente monitoreados y cotizados el 18 de noviembre en Argentina.\n• A pesar de una tendencia bajista en el dólar mayorista, la brecha cambiaria con el Contado con Liquidación (CCL) y otros dólares financieros se ha ampliado significativamente, alcanzando niveles no vistos desde las últimas elecciones.\n• Esta dinámica se desarrolla en un contexto de un auge de emisiones de deuda corporativa en dólares por parte de empresas argentinas.\n\n🔍 **Datos clave:**\n• Fecha: Martes 18 de noviembre.\n• Dólar Oficial (venta Banco Nación): $1.415.\n• Dólar Mayorista: $1.387 (su valor más bajo en un mes).\n• Dólar Blue (venta): $1.435.\n• Dólar MEP: $1.449.\n• Dólar CCL: $1.494.\n• Brecha CCL vs. dólar oficial: Alrededor del 7%, el nivel más alto post-elecciones.\n• Emisiones corporativas en dólares: Cerca de USD 3.000 millones en las primeras dos semanas de noviembre, un récord para el periodo.\n\n⚡ **Desarrollo:**\n• El Banco Central (BCRA) es responsable de la cotización del dólar oficial, mientras que el dólar blue opera en el mercado informal. Las cotizaciones se difunden a lo largo de la mañana.\n• La baja del dólar mayorista es impulsada por la falta de pesos en la plaza y una mayor oferta de divisas, incluyendo la venta por parte de inversores que buscan liquidez.\n• La creciente brecha cambiaria se explica en gran parte por la demanda de dólares CCL. Las empresas argentinas están colocando deuda en el mercado internacional, y los inversores necesitan CCL para mover divisas al exterior y participar en estas operaciones.\n• El BCRA había prohibido el \"rulo financiero\" a fines de septiembre mediante restricciones cruzadas, una medida que algunos analistas sugieren revisar para manejar la brecha.\n• La emisión récord de Obligaciones Negociables (ONs) en noviembre genera una doble presión: aumenta la demanda del CCL y, a la vez, el ingreso de esos dólares por parte de las empresas puede presionar a la baja el dólar oficial.\n• El mercado también aguarda definiciones sobre la política de acumulación de reservas del BCRA y prevé una baja gradual de las tasas de interés.\n\n💡 **¿Por qué importa?**\n• La evolución del dólar es un indicador crucial de la salud macroeconómica del país y de la confianza de los inversores.\n• Una brecha cambiaria amplia y creciente puede generar incertidumbre, distorsionar la economía real y afectar el consumo y la actividad económica.\n• Esto representa un desafío significativo para el gobierno y el BCRA en la búsqueda de estabilidad cambiaria y la gestión de la política monetaria.",
+      "cantidad_noticias": 8,
+      "noticias": [
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 18 de noviembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-18-de-noviembre-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-18 11:51:42"
+          "fecha": "2025-11-18 15:07:49"
+        },
+        {
+          "titulo": "Dólar hoy en vivo: en el Banco Nación se mantiene a $1.415 para la venta",
+          "link": "https://www.infobae.com/economia/2025/11/18/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-18-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 15:04:09"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-18-noviembre-n6214941",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 14:53:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-18-noviembre-n6214869",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 13:51:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-18-noviembre-n6214867",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 13:51:00"
+        },
+        {
+          "titulo": "Demanda de dólares: vuelve a crecer la brecha cambiaria y creen que el Banco Central debería rehabilitar el \"rulo\" financiero",
+          "link": "https://www.clarin.com/economia/demanda-dolares-vuelve-crecer-brecha-cambiaria-creen-banco-central-deberia-rehabilitar-rulo-financiero_0_a7ksgSTTLa.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 12:43:32"
+        },
+        {
+          "titulo": "El dólar mayorista se hunde debajo de los $1.400 pero la brecha con el CCL está al nivel más alto desde las elecciones",
+          "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-acomoda-abajo-1400-y-ya-se-ubica-85-del-techo-la-banda-n6214943",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 12:43:00"
         },
         {
           "titulo": "¿El dólar amaga con romper su calma?: por qué el verano podría traerle problemas a Caputo",
           "link": "https://www.iprofesional.com/finanzas/442164-el-dolar-amaga-con-romper-su-calma-por-que-el-verano-podria-traerle-problemas-a-caputo",
           "fuente": "iProfesional",
           "fecha": "2025-11-18 11:47:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este martes 18 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-18-noviembre-n6214869",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 11:42:00"
-        },
-        {
-          "titulo": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este martes 18 de noviembre",
-          "link": "https://www.infobae.com/economia/2025/11/18/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-martes-18-de-noviembre/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-18 11:40:12"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este martes 18 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-18-noviembre-n6214867",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 11:36:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 18 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-18-noviembre-n6214873",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 11:31:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este martes 18 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-martes-18-noviembre-n6215021",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 11:30:00"
-        },
-        {
-          "titulo": "El dólar mayorista se acomoda abajo de $1.400 pero la brecha con el CCL está al nivel más alto desde las elecciones",
-          "link": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-acomoda-abajo-1400-y-ya-se-ubica-85-del-techo-la-banda-n6214943",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 10:57:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 18 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-18-noviembre_0_MCLFds4Zjj.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 09:00:02"
-        },
-        {
-          "titulo": "Qué cambia en el mercado cambiario tras la baja del dólar y el ajuste de tasas",
-          "link": "https://www.iprofesional.com/finanzas/442123-como-impacta-ingreso-de-divisas-en-caida-del-dolar-y-tasas-en-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 08:00:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 18 de noviembre, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-18-noviembre-minuto-minuto_0_tU8s56lENM.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 07:15:04"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 18 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-18-noviembre_0_UEREDpLiqn.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 07:08:01"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 18 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-18-noviembre_0_V5sSpVA5CB.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 07:08:00"
-        },
-        {
-          "titulo": "Dólar ahorro hoy: a cuánto cotiza este martes 18 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ahorro-hoy-cotiza-martes-18-noviembre_0_mFM72682FI.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 07:08:00"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este martes 18 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-martes-18-noviembre_0_B8iVArQqqJ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 07:05:02"
-        },
-        {
-          "titulo": "Compras silenciosas: la nueva estrategia de Caputo para sumar reservas sin alterar al dólar",
-          "link": "https://www.iprofesional.com/economia/442105-compras-silenciosas-la-estrategia-luis-caputo-para-sumar-reservas-sin-alterar-dolar",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 07:02:00"
-        },
-        {
-          "titulo": "¿Conviene abandonar el dólar ahora que cae?: el mercado prevé nuevo precio tope y da su veredicto",
-          "link": "https://www.iprofesional.com/finanzas/442112-dolar-mal-negocio-nuevo-precio-techo-que-preve-el-mercado",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 07:00:00"
-        },
-        {
-          "titulo": "Dólar: futuros ya operan debajo del techo de la banda hasta julio y refuerzan credibilidad del esquema cambiario",
-          "link": "https://www.ambito.com/finanzas/dolar-futuros-ya-operan-debajo-del-techo-la-banda-julio-y-refuerzan-credibilidad-del-esquema-cambiario-n6214765",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 07:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "iProfesional",
         "La Nación",
-        "Clarín",
         "Infobae",
+        "Ámbito Financiero",
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "debate_reforma_laboral_20251118",
+      "tema": "Debate reforma laboral Argentina",
+      "tema_normalizado": "debate reforma laboral argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino impulsa una reforma laboral con el objetivo central de aumentar el empleo formal y mejorar los salarios en el país.\n• Esta iniciativa genera un fuerte debate y la oposición de los sindicatos y gremios, quienes rechazan cualquier modificación que implique una pérdida de derechos laborales.\n\n🔍 **Datos clave:**\n• **Federico Sturzenegger:** Ministro de Desregulación y Transformación del Estado, principal defensor de la reforma.\n• **CGT:** La central obrera, con su nueva conducción, lidera el rechazo y se reúne con diputados para coordinar acciones.\n• **$100.000:** Estimación gubernamental del potencial aumento salarial mensual si se eliminan \"peajes\" e intermediaciones.\n• **15 años:** Período durante el cual Argentina no ha creado empleo formal, según el diagnóstico oficial.\n• **UOCRA:** Sindicato cuyo modelo de indemnización por cese es presentado como ejemplo de baja litigiosidad a replicar.\n• **17 puntos:** Potencial incremento del empleo en algunas regiones si se adopta la \"federalización laboral\" con negociaciones locales.\n\n⚡ **Desarrollo:**\n• El gobierno sostiene que la reforma busca \"subir el sueldo de la gente y que haya más empleo formal\", abordando la falta de creación de puestos de trabajo por 15 años.\n• Sturzenegger critica que el actual sistema laboral está marcado por que \"todos caranchean\" (el Estado, los sindicatos, la \"industria del juicio\" y parte del empresariado).\n• Propone eliminar los \"peajes\" o costos asociados a la relación laboral, argumentando que esto permitiría un aumento salarial de $100.000 mensuales para los trabajadores.\n• Un eje clave es combatir la \"industria del juicio laboral\", que genera incertidumbre por fallos que multiplican las indemnizaciones, lo que desincentiva la contratación.\n• Se plantea replicar el modelo de indemnización de la UOCRA, que logró \"litigiosidad laboral a cero\", y la \"federalización laboral\" para negociaciones por provincia o empresa.\n• La CGT, bajo la dirección de Octavio Argüello, Jorge Sola y Cristian Jerónimo, se articula con 8 diputados sindicales y planea reunirse con gobernadores para frenar la reforma en el Congreso.\n• Gremios como el de Petroleros de Vaca Muerta, liderado por Marcelo Rucci, rechazan explícitamente la \"flexibilización o recorte de derechos laborales\".\n• Rucci enfatizó el sacrificio de los trabajadores del sector, recordando la muerte de 84 compañeros en la pandemia y más de 100 desde el inicio de Vaca Muerta, y advirtió sobre posibles medidas de fuerza.\n• La postura sindical se divide entre la búsqueda de una negociación que implique \"más derechos\" y la posición de sectores más duros que consideran \"no hay nada que negociar\".\n\n💡 **¿Por qué importa?**\n• La reforma laboral propone cambios estructurales en el mercado de trabajo argentino, con impacto directo en los derechos de los trabajadores, los costos laborales y la dinámica de las empresas.\n• Su aprobación o rechazo tendrá consecuencias significativas en la creación de empleo formal, los niveles salariales y el poder de negociación de los sindicatos en el país.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Federico Sturzenegger afirmó que la reforma laboral apunta a que \"suba el sueldo de la gente y haya más empleo\"",
+          "link": "https://www.ambito.com/politica/federico-sturzenegger-afirmo-que-la-reforma-laboral-apunta-que-suba-el-sueldo-la-gente-y-haya-mas-empleo-n6215097",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 13:10:23"
+        },
+        {
+          "titulo": "La nueva conducción de la CGT recibe a diputados para preparar el rechazo a la reforma laboral",
+          "link": "https://www.minutouno.com/politica/la-nueva-conduccion-la-cgt-recibe-diputados-preparar-el-rechazo-la-reforma-laboral-n6215098",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 13:00:00"
+        },
+        {
+          "titulo": "Petroleros de Vaca Muerta rechazan la reforma laboral: \"Respeten la dignidad y el trabajo\"",
+          "link": "https://www.iprofesional.com/economia/442181-petroleros-de-vaca-muerta-rechazan-la-reforma-laboral-respeten-la-dignidad-y-el-trabajo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 12:31:00"
+        },
+        {
+          "titulo": "El plan de Sturzenegger para limitar indemnizaciones y frenar los juicios laborales",
+          "link": "https://www.iprofesional.com/politica/442153-fin-al-juicio-laboral-sturzenegger-busca-limitar-la-multiplicacion-de-multas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 10:59:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "desregulacion_yerba_mate_20251118",
+      "tema": "Desregulación yerba mate por decreto",
+      "tema_normalizado": "desregulacion yerba mate por decreto",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional desreguló aún más el mercado de la yerba mate mediante el Decreto 812/2025, firmado por Javier Milei, Manuel Adorni y Luis Caputo.\n• Esta medida restringe la capacidad del Instituto Nacional de la Yerba Mate (INYM) para intervenir en precios o generar barreras de entrada.\n• Profundiza la desregulación iniciada en diciembre de 2023 con el DNU 70/2023, que ya había quitado al INYM la potestad de fijar precios.\n\n🔍 **Datos clave:**\n• **Decreto 812/2025:** Publicado por el Gobierno para formalizar la desregulación, modificando el Decreto 1240/2002 que regula al INYM.\n• **INYM:** Creado en 2002 tras una gran protesta agraria, ahora pierde su función reguladora de precios y oferta.\n• **DNU 70/2023 (Dic. 2023):** Fue la primera medida que quitó al INYM la facultad de fijar precios para la materia prima.\n• **12.500 productores:** Número estimado de pequeños yerbateros que, según los críticos, serán gravemente afectados por la medida.\n• **44.3%:** Caída del precio real de la yerba mate desde diciembre de 2023, según un informe del Ministerio de Desregulación.\n• **30 días:** Plazo otorgado al INYM para adecuar toda su normativa a las nuevas disposiciones del decreto.\n\n⚡ **Desarrollo:**\n• El Decreto 812/2025 modificó el artículo 8 del Decreto 1240/2002, estableciendo que el INYM no puede distorsionar precios ni interferir con la oferta y demanda.\n• Se derogaron los artículos 9, y del 11 al 19 del Decreto 1240/2002, eliminando las facultades del INYM para limitar plantaciones o fijar precios.\n• Federico Sturzenegger, ministro de Desregulación, afirmó que el INYM debe ahora enfocarse en la calidad y promoción, siguiendo un modelo similar al INV (vitivinicultura).\n• Productores yerbateros como Jonás Petterson y Manfredo Seifert expresaron su rechazo, calificando la medida como \"el certificado de defunción\" de los pequeños productores.\n• El decreto también libera el calendario de cosecha, eliminando la prohibición de cosechar en octubre y noviembre.\n• El Ministerio de Desregulación informó un aumento del 29% en la producción y 16.6% en las exportaciones de yerba de 2023 a 2024, proyectando un récord de más de 50 millones de kilos exportados en 2025.\n\n💡 **¿Por qué importa?**\n• La medida transforma radicalmente el rol del INYM, pasando de un organismo regulador de precios a uno enfocado únicamente en la calidad y promoción de la yerba mate.\n• Genera un fuerte debate entre el Gobierno, que busca la libre competencia, y los pequeños productores, quienes advierten sobre un futuro incierto y la posible desaparición de sus medios de vida.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "“El certificado de defunción de 12.500 productores”: rechazo de yerbateros a un decreto desregulador de Milei",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-certificado-de-defuncion-de-12500-productores-rechazo-de-yerbateros-a-un-decreto-desregulador-de-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 14:53:46"
+        },
+        {
+          "titulo": "Decreto: Milei le dio otro golpe al Instituto de la Yerba para “impedir su intromisión” en el mercado",
+          "link": "https://www.lanacion.com.ar/economia/campo/decreto-milei-le-dio-otro-golpe-al-instituto-de-la-yerba-para-impedir-su-intromision-en-el-mercado-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 12:47:30"
+        },
+        {
+          "titulo": "El Gobierno desregula la yerba mate y elimina la intervención total en el sector",
+          "link": "https://www.iprofesional.com/economia/442150-el-gobierno-desregula-la-yerba-mate-y-elimina-la-intervencion-total-en-el-sector",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 10:51:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "La Nación",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "presupuesto_2026_y_20251118",
+      "tema": "Presupuesto 2026 y estrategia parlamentaria",
+      "tema_normalizado": "presupuesto 2026 y estrategia parlamentaria",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei realizó una importante reunión de su mesa política, incluyendo al ministro de Economía Luis Caputo, para finalizar los detalles del Presupuesto 2026.\n• El objetivo es definir la estrategia legislativa y negociar los apoyos necesarios con gobernadores y bloques opositores en el Congreso.\n• También se abordó la futura agenda de \"reformas de segunda generación\" que el Gobierno busca impulsar con la nueva composición parlamentaria.\n\n🔍 **Datos clave:**\n• **Presupuesto 2026:** Se presentará en diciembre a través de la Cámara de Diputados, específicamente después del 10 de diciembre por la renovación legislativa.\n• **$274.000 millones:** Deuda acumulada por la Nación con la Ciudad de Buenos Aires desde agosto de 2025, según el PRO.\n• **$600 millones:** Posible emisión de un bono por parte de CABA para cubrir vencimientos y financiar obra pública.\n• **20 gobernadores:** Número de mandatarios provinciales con los que el Ministro del Interior, Diego Santilli, planea reunirse para buscar acuerdos.\n• **Mesa Política:** Integrada por Karina Milei, Manuel Adorni, Santiago Caputo, Diego Santilli, Patricia Bullrich, Martín Menem, y con la participación de Luis Caputo.\n\n⚡ **Desarrollo:**\n• La mesa política, sin la presencia del Presidente, analizó la \"letra chica\" del proyecto presupuestario y evaluó las posibilidades de conseguir su aprobación.\n• El ministro del Interior, Diego Santilli, es el principal interlocutor con los gobernadores, realizando reuniones individuales junto a Manuel Adorni para buscar consensos.\n• El Gobierno prioriza negociar con provincias como Misiones, Salta, Tucumán, Catamarca, Río Negro y Neuquén, debido a la influencia de sus legisladores.\n• El bloque PRO, liderado por Cristian Ritondo, fijará su postura ante el Presupuesto, ya mostrando disidencia por la deuda nacional con CABA y la coparticipación.\n• Luis Caputo fue clave en la reunión para brindar claridad sobre los aspectos económicos del Presupuesto y las reformas, esenciales para la elaboración de los textos definitivos.\n• Gobernadores como Martín Llaryora (Córdoba) y Alberto Weretilneck (Río Negro) han solicitado modificaciones al proyecto o fondos específicos para obra pública a cambio de su apoyo.\n• Martín Menem en Diputados y Patricia Bullrich en el Senado jugarán roles cruciales en la gestión legislativa para asegurar el tratamiento y aprobación de los proyectos.\n\n💡 **¿Por qué importa?**\n• La aprobación del Presupuesto 2026 es un pilar fundamental para la gobernabilidad y la implementación de la política económica del gobierno de Javier Milei.\n• El éxito de la estrategia parlamentaria y la capacidad de construir consensos con la oposición y los gobernadores serán clave para avanzar con las reformas estructurales propuestas.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Días clave por el Presupuesto 2026: la mesa chica de Milei se reunió con Caputo y ajustan los detalles finales",
+          "link": "https://www.infobae.com/politica/2025/11/18/cumbre-por-el-presupuesto-2026-la-mesa-chica-de-milei-se-reunira-con-luis-caputo-para-revisar-la-letra-fina-del-proyecto/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 15:15:59"
+        },
+        {
+          "titulo": "Ritondo reunirá por primera vez al nuevo bloque PRO para definir la postura sobre el Presupuesto y las futuras reformas",
+          "link": "https://www.infobae.com/politica/2025/11/18/ritondo-reunira-por-primera-vez-al-nuevo-bloque-pro-para-definir-la-postura-sobre-el-presupuesto-y-las-futuras-reformas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 14:49:51"
+        },
+        {
+          "titulo": "Luis Caputo se sumó a la mesa política para definir la estrategia parlamentaria de cara al presupuesto y las reformas",
+          "link": "https://www.lanacion.com.ar/politica/luis-caputo-se-sumo-a-la-mesa-politica-para-definir-la-estrategia-parlamentaria-de-cara-al-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 13:34:30"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "mercado_de_criptomonedas_20251118",
+      "tema": "Mercado de criptomonedas (Bitcoin)",
+      "tema_normalizado": "mercado de criptomonedas (bitcoin)",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado de criptomonedas experimenta una fuerte caída, con Bitcoin (BTC) perforando los $90.000 por primera vez en siete meses.\n• Este desplome ha borrado las ganancias de 2025, llevando a la principal criptomoneda a su nivel más bajo desde abril.\n• Mientras algunos analistas proyectan que Bitcoin podría \"tocar fondo\" en octubre de 2026, otros mantienen la esperanza de un repunte futuro.\n\n🔍 **Datos clave:**\n• Precio actual de Bitcoin: Oscila entre $92.000 y $93.000, tras haber caído hasta los $89.253.\n• Máximo histórico reciente: Alcanzó los $126.275 en octubre del año pasado.\n• Caída desde el máximo: Aproximadamente 28% del valor de Bitcoin.\n• Pérdida de capitalización: El mercado cripto borró $1.2 billones, equivalente al 28% de su valor total.\n• Ventas de holders de largo plazo: Más de 800.000 BTC vendidos en pocas semanas (nivel no visto desde enero de 2024).\n• Predicción de \"fondo\" (Ali Martinez): Octubre de 2026, basándose en ciclos históricos.\n• Índice de Miedo y Codicia: Acentúa su \"miedo extremo\" a niveles no vistos desde febrero.\n\n⚡ **Desarrollo:**\n• La corrección se atribuye a una \"tormenta perfecta\" que incluye ventas masivas de inversores de largo plazo y liquidaciones forzadas en futuros.\n• También se suman salidas récord de capital institucional de los ETF de Bitcoin en EE. UU., como el fondo IBIT de BlackRock, que registró $1.260 millones en retiros este mes.\n• La postura restrictiva de la Reserva Federal (Fed) y la menor expectativa de recortes de tasas disminuyen el atractivo de activos como Bitcoin.\n• Un factor técnico clave fue la confirmación de la \"Cruz de la Muerte\", donde la media móvil de 50 días cruzó por debajo de la de 200 días.\n• Analistas sugieren que el mercado necesitaba \"limpiar\" el exceso de apalancamiento antes de un nuevo ciclo alcista.\n• A pesar de la caída, la Bolsa de Singapur lanzó futuros de Bitcoin y Ethereum, mostrando interés institucional a largo plazo.\n• La recuperación podría tardar debido a la vulnerabilidad técnica (posible objetivo de caída a $74.000-$76.000) y la incertidumbre macroeconómica.\n\n💡 **¿Por qué importa?**\n• Representa un momento de \"reconfiguración profunda\" del mercado cripto, cuestionando la sostenibilidad de los ciclos alcistas anteriores.\n• Destaca la creciente sensibilidad de Bitcoin a factores macroeconómicos globales y la dinámica de inversión institucional.\n• Genera una señal de alerta para inversores sobre la alta volatilidad y el riesgo, sugiriendo una oportunidad de compra a largo plazo para algunos expertos.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Bitcoin se asienta entre los u$s92.000 y u$s93.000, pero analistas temen que toque fondo en 2026",
+          "link": "https://www.ambito.com/finanzas/bitcoin-se-desploma-casi-us90000-y-analistas-temen-que-toque-fondo-2026-n6214945",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 14:58:00"
+        },
+        {
+          "titulo": "Bitcoin perfora los 90.000 dólares por primera vez en siete meses",
+          "link": "https://www.iprofesional.com/finanzas/442040-bitcoin-tambalea-y-un-importante-banco-de-eeuu-alerta-por-su-escenario-mas-temido",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 12:00:00"
+        },
+        {
+          "titulo": "¿Por qué se desplomó el precio del Bitcoin por debajo de los $90.000 dólares? Los motivos de la caída y por qué podría tardar la recuperación de las criptomonedas",
+          "link": "https://www.clarin.com/estados-unidos/desplomo-bitcoin-debajo-90000-dolares-motivos-caida-podria-tardar-recuperacion-criptomonedas_0_5gSnlLQ0TU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 11:54:29"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-18",
+      "fuentes": [
+        "Clarín",
+        "iProfesional",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -140,104 +339,17 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina:_avances_causas_20251118",
-      "tema": "Argentina: Avances Causas Corrupción Gubernamental",
-      "tema_normalizado": "argentina: avances causas corrupcion gubernamental",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina se encuentra inmersa en múltiples investigaciones por presunta corrupción gubernamental en diversas áreas del Estado.\n*   Estos casos involucran desde desvíos de fondos y direccionamiento de compras hasta supuestas estafas con criptomonedas y sobornos históricos.\n*   La situación pone en evidencia desafíos en la administración pública y la necesidad de una mayor celeridad judicial para combatir la impunidad.\n\n🔍 **Datos clave:**\n*   **ANDIS:** Investigación sobre irregularidades en la Agencia Nacional de Discapacidad; involucrados Diego Spagnuolo (exdirector) y Miguel Ángel Calvete (operador). Se secuestraron $700.000 USD en un allanamiento.\n*   **Cuadernos de las Coimas:** Juicio por sobornos (2003-2015) que incluye a Cristina Kirchner y 86 imputados; la Corte Suprema exige acelerar el proceso.\n*   **Causa $LIBRA:** Comisión investigadora apunta a responsabilidades políticas de Javier y Karina Milei por presunta estafa con criptomoneda; US$90 millones retirados.\n*   **Fútbol para Todos:** Veredicto (5 de diciembre) para exjefes de Gabinete Aníbal Fernández y Jorge Capitanich, por desvío de $456 millones entre 2009 y 2015.\n*   **Desvío de Guardapolvos:** Exfuncionarios de Desarrollo Social y cooperativistas indagados por desvío de $710 millones destinados a uniformes escolares en 2023.\n\n⚡ **Desarrollo:**\n*   **Caso ANDIS:** Miguel Calvete es señalado como \"director para-estatal\" que direccionaba compras y conectaba a la agencia con droguerías, en un sistema de \"compulsas simuladas\" y \"empresas a dedo\", según testimonios y audios.\n*   **Juicio Cuadernos:** La Cámara de Casación busca acelerar el juicio debido a su lentitud (una audiencia semanal, modalidad virtual), lo que ha sido criticado por el fiscal y el juez Ricardo Lorenzetti como \"inadmisible\" para una \"mega causa\".\n*   **Causa $LIBRA:** Tras la recomendación del Presidente, la criptomoneda colapsó; la comisión investigadora de Diputados presentará un informe señalando presuntas responsabilidades políticas por negligencia y falta de controles.\n*   **Fútbol para Todos:** El juicio investiga la administración fraudulenta de fondos públicos que debían sanear las finanzas de los clubes de fútbol, con pedidos de pena de prisión para exfuncionarios clave.\n*   **Desvío de Guardapolvos:** La investigación apunta a un \"plan orquestado\" donde una cooperativa sin capacidad fue contratada para 165.000 guardapolvos, subcontratando a otras que niegan haber recibido el dinero ni realizado el trabajo.\n\n💡 **¿Por qué importa?**\n*   Estos casos demuestran la persistencia de esquemas de corrupción en diferentes esferas del Estado argentino, afectando fondos públicos y la confianza ciudadana.\n*   La lenta progresión judicial de \"mega causas\" y las deficiencias en los controles internos evidencian desafíos estructurales que impactan la efectividad de la justicia y la rendición de cuentas.",
-      "cantidad_noticias": 9,
+      "tema_id": "ayudas_anses:_auh,_20251118",
+      "tema": "Ayudas ANSES: AUH, jubilaciones y bonos",
+      "tema_normalizado": "ayudas anses: auh, jubilaciones y bonos",
+      "resumen": "📌 **¿Qué está pasando?**\n• ANSES aplicará un aumento del 2,3% en diciembre de 2025 para jubilaciones, pensiones y diversas asignaciones.\n• Este incremento se suma al pago del aguinaldo y a un bono de refuerzo extraordinario de $70.000 para ciertos beneficiarios.\n• Estos ajustes buscan equiparar las prestaciones con la inflación y asegurar un ingreso para millones de argentinos.\n\n🔍 **Datos clave:**\n• **Aumento general:** 2,3% efectivo en diciembre de 2025, calculado según la inflación de octubre.\n• **Bono de refuerzo:** $70.000 destinado a jubilados y pensionados de haberes mínimos.\n• **Jubilación Mínima Total:** $581.119,53 (suma haber, bono y medio aguinaldo).\n• **Asignación Universal por Hijo (AUH) en mano:** $97.955,20 mensuales.\n• **Fecha límite Libreta AUH 2025:** 31 de diciembre de 2025 para acreditar requisitos y cobrar el 20% retenido.\n\n⚡ **Desarrollo:**\n• El aumento del 2,3% forma parte de la nueva fórmula de movilidad mensual de ANSES, que ajusta los haberes en base a la inflación para proteger el poder de compra.\n• La jubilación mínima pasa a ser de $340.746,35, y con el bono de $70.000, ningún jubilado cobrará menos de $410.746,35 en diciembre.\n• Además, los jubilados recibirán el medio aguinaldo, que para la mínima será de $170.373,18, completando el total de $581.119,53.\n• La Asignación Universal por Hijo (AUH) alcanzará un monto total de $122.444 por cada hijo.\n• ANSES paga mensualmente el 80% de la AUH ($97.955,20), reteniendo el 20% ($24.488,80) hasta la presentación anual de la Libreta AUH.\n• Esta Libreta AUH es un requisito indispensable que verifica la asistencia escolar y los controles de salud y vacunación de los niños y adolescentes a cargo.\n• Las Pensiones No Contributivas (PNC) y la Pensión Universal para el Adulto Mayor (PUAM) también reciben el aumento y el bono, alcanzando totales de $427.783,67 y $478.895,62 respectivamente.\n• Los pagos de todas las prestaciones se realizan de manera automática en la cuenta bancaria de cada beneficiario, siguiendo un calendario por terminación de DNI.\n\n💡 **¿Por qué importa?**\n• Estos pagos son fundamentales para millones de jubilados, pensionados y familias con hijos, brindando un alivio económico frente al costo de vida.\n• El cumplimiento de los trámites como la Libreta AUH garantiza la continuidad de la ayuda y el acceso a derechos esenciales de los menores.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Caso Andis: declara uno de los presuntos nexos entre la agencia de discapacidad y las droguerías",
-          "link": "https://www.lanacion.com.ar/politica/caso-andis-declara-uno-de-los-presuntos-nexos-entre-la-agencia-de-discapacidad-y-las-droguerias-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 11:52:20"
-        },
-        {
-          "titulo": "Cuadernos de las coimas: la Cámara de Casación se reúne con el Tribunal para darle más velocidad al juicio",
-          "link": "https://www.clarin.com/politica/cuadernos-coimas-camara-casacion-reune-tribunal-darle-velocidad-juicio_0_C85A1pKQun.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 11:37:21"
-        },
-        {
-          "titulo": "Comisión investigadora $LIBRA: la oposición apuntará contra Javier y Karina Milei y los señalará como responsables políticos de la maniobra",
-          "link": "https://www.lanacion.com.ar/politica/comision-investigadora-libra-la-oposicion-apuntara-contra-javier-y-karina-milei-y-los-senalara-como-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 09:59:08"
-        },
-        {
-          "titulo": "El mail que complica a Diego Spagnuolo en la causa ANDIS: \"Empresas a dedo\"",
-          "link": "https://www.minutouno.com/politica/el-mail-que-complica-diego-spagnuolo-la-causa-andis-empresas-dedo-n6214961",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 09:50:00"
-        },
-        {
-          "titulo": "Tiene fecha de veredicto el juicio por la causa del \"Fútbol para Todos\" en la que están Capitanich y Aníbal Fernández",
-          "link": "https://www.clarin.com/politica/fecha-veredicto-juicio-causa-futbol-capitanich-anibal-fernandez_0_YzJrmVPqkn.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 09:48:13"
-        },
-        {
-          "titulo": "Indagan a exfuncionarios de Desarrollo Social y cooperativistas por el desvío de $710 millones destinados a guardapolvos",
-          "link": "https://www.lanacion.com.ar/politica/indagan-a-exfuncionarios-de-desarrollo-social-y-cooperativistas-por-el-desvio-de-710-millones-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 09:46:59"
-        },
-        {
-          "titulo": "Ricardo Lorenzetti exigió acelerar el juicio de los Cuadernos de las Coimas y cuestionó cómo fue organizado: \"No es admisible\"",
-          "link": "https://www.clarin.com/politica/ricardo-lorenzetti-exigio-acelerar-juicio-cuadernos-coimas-cuestiono-organizado-admisible_0_gNJ2RhrXYK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 09:32:40"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: la comisión investigadora de $LIBRA le llevó al fiscal pruebas de presuntos pagos a funcionarios y presenta el informe final en Diputados",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-comision-investigadora-libra-llevo-fiscal-pruebas-presuntos-pagos-funcionarios-presenta-informe-final-diputados_0_cKRWv9Ptfk.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 08:47:14"
-        },
-        {
-          "titulo": "Causa ANDIS: declara Miguel Calvete, la mano derecha de Diego Spagnuolo",
-          "link": "https://www.ambito.com/politica/causa-andis-declara-miguel-calvete-la-mano-derecha-diego-spagnuolo-n6214949",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 08:39:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_pagos_jubilaciones_20251118",
-      "tema": "Argentina: Pagos Jubilaciones y AUH",
-      "tema_normalizado": "argentina: pagos jubilaciones y auh",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Administración Nacional de la Seguridad Social (ANSES) actualizó los montos de jubilaciones, pensiones y la Asignación Universal por Hijo (AUH) para noviembre y diciembre de 2025.\n• Los ajustes mensuales se basan en la inflación y se complementan con bonos extraordinarios y el medio aguinaldo de diciembre para jubilados y pensionados.\n• Los pagos se organizan mediante un calendario específico, determinado por la terminación del DNI de cada beneficiario.\n\n🔍 **Datos clave:**\n• **Aumento Noviembre 2025:** 2,08% (basado en la inflación de septiembre).\n• **Aumento Diciembre 2025:** 2,3% (aplicado a jubilaciones, pensiones y asignaciones, basado en la inflación de agosto/octubre).\n• **Bono Extraordinario Jubilados:** $70.000 (para haberes mínimos y proporcionales).\n• **Jubilación Mínima Diciembre 2025 (total con bono y aguinaldo):** Aproximadamente $581.119,53.\n• **AUH Diciembre 2025 (monto total):** $122.444 (el 80% se cobra mensualmente: $97.955,20).\n• **Fecha Límite Libreta AUH 2025:** 31 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• ANSES aplica una fórmula de movilidad mensual que ajusta las prestaciones (jubilaciones, pensiones, AUH, PUAM, PNC) según el Índice de Precios al Consumidor (IPC).\n• En noviembre, jubilados y beneficiarios de AUH recibieron un incremento del 2,08%. Por ejemplo, aquellos con DNI terminados en 7 cobraron el 19 de noviembre (haberes mínimos) o el 27 (haberes superiores). El monto total de AUH fue de $95.737,66.\n• Para diciembre, el aumento general es del 2,3%. Los jubilados con haber mínimo suman el bono de $70.000 y el medio aguinaldo, alcanzando un total de aproximadamente $581.119,53.\n• La AUH en diciembre asciende a $122.444 por hijo (monto total). Los beneficiarios reciben mensualmente el 80% de este valor ($97.955,20) y el 20% restante ($24.488,80) se retiene.\n• El 20% retenido de la AUH se cobra anualmente al presentar la Libreta AUH, que acredita controles de salud, vacunación y asistencia escolar de los menores.\n• La Libreta AUH 2025 puede presentarse de forma digital a través de la aplicación o web Mi ANSES hasta el 31 de diciembre de 2025.\n• Otras prestaciones como la Pensión Universal para el Adulto Mayor (PUAM) y las Pensiones No Contributivas (PNC) también se actualizan y, en diciembre, incluyen el bono y aguinaldo.\n\n💡 **¿Por qué importa?**\n• Estos aumentos y complementos son cruciales para millones de argentinos, ya que buscan preservar el poder adquisitivo frente a la inflación.\n• Permiten a los beneficiarios de jubilaciones, pensiones y AUH acceder a ingresos fundamentales para cubrir sus necesidades básicas.",
-      "cantidad_noticias": 9,
-      "noticias": [
-        {
-          "titulo": "AUH en diciembre 2025: de cuánto será con el aumento",
+          "titulo": "AUH en diciembre 2025: de cuánto será el pago de ANSES con el aumento",
           "link": "https://www.clarin.com/economia/auh-diciembre-2025-aumento_0_wk4CIyMKVJ.html",
           "fuente": "Clarín",
           "fecha": "2025-11-18 11:33:42"
-        },
-        {
-          "titulo": "Cuándo cobro la AUH en noviembre 2025 si mi DNI termina en 7",
-          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-la-auh-en-noviembre-2025-si-mi-dni-termina-en-7-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 11:30:06"
-        },
-        {
-          "titulo": "Anses: cuándo cobro la jubilación de noviembre si mi DNI termina en 7",
-          "link": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-noviembre-si-mi-dni-termina-en-7-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 11:30:04"
         },
         {
           "titulo": "ANSES: cómo quedarán los haberes con el aumento y el bono extra",
@@ -250,39 +362,12 @@
           "link": "https://www.minutouno.com/economia/anses-cuanto-quedara-la-minima-los-jubilados-despues-los-aumentos-n6215034",
           "fuente": "Minuto1",
           "fecha": "2025-11-18 11:00:00"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 08:37:38"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 08:27:55"
-        },
-        {
-          "titulo": "Así quedará el haber mínimo para jubilados con 30 años de aportes en diciembre 2025",
-          "link": "https://www.iprofesional.com/impuestos/441672-jubilados-anses-cual-sera-el-haber-con-30-anos-de-aportes-en-diciembre-con-aguinaldo",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 07:50:00"
-        },
-        {
-          "titulo": "ANSES: quiénes cobran hoy martes 18 de noviembre y cómo sigue el calendario de pagos",
-          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-hoy-martes-18-de-noviembre-y-como-sigue-el-calendario-de-pagos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-18 07:15:24"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "iProfesional",
-        "La Nación",
         "Clarín",
-        "Perfil",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -291,151 +376,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina:_desregulacion_economia_20251118",
-      "tema": "Argentina: Desregulación Economía y Reformas",
-      "tema_normalizado": "argentina: desregulacion economia y reformas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno argentino está implementando un ambicioso plan de desregulación económica y reformas para reducir la intervención estatal y promover el libre mercado.\n*   Las acciones recientes incluyen la desregulación completa del mercado de la yerba mate y la discusión de una amplia reforma laboral.\n*   También se están analizando posibles modificaciones al régimen del Monotributo para simplificar el sistema tributario y laboral.\n\n🔍 **Datos clave:**\n*   **Decreto 812/2025:** Norma que formalizó la desregulación del mercado de la yerba mate.\n*   **30 días:** Plazo máximo otorgado al INYM para adecuar toda su normativa a la desregulación.\n*   **$100.000:** Estimación del ministro Sturzenegger sobre el aumento salarial mensual posible al reducir intermediaciones laborales.\n*   **12 horas:** Límite máximo propuesto para la jornada laboral diaria en el proyecto de reforma laboral.\n*   **44,3%:** Caída real en los precios de la yerba mate desde diciembre de 2023, según datos del Ministerio de Desregulación.\n*   **60%:** Porcentaje de trabajadores cuentapropistas informales en Argentina, según datos de IDESA.\n\n⚡ **Desarrollo:**\n*   **Desregulación de la yerba mate:** El Gobierno, mediante el Decreto 812/2025, eliminó la facultad del Instituto Nacional de la Yerba Mate (INYM) de fijar precios de referencia, buscando un mercado más libre y competitivo. Esto limita al INYM a verificaciones de calidad y deroga varios artículos del decreto original de su creación (1240/02).\n*   **Reforma laboral propuesta:** El ministro Federico Sturzenegger impulsa cambios para aumentar el empleo y los salarios, criticando los \"carancheos\" (impuestos estatales, comisiones sindicales, \"industria del juicio\" laboral) que, según él, encarecen la contratación. Argumenta que reducir estas intermediaciones podría incrementar significativamente los salarios de los trabajadores.\n*   **Modificaciones laborales específicas:** Las propuestas incluyen la extensión de la jornada laboral hasta 12 horas (aunque relativizado por Sturzenegger), la posibilidad de fraccionar vacaciones por mutuo acuerdo y el pago de indemnizaciones para PYMES en hasta 12 cuotas. El objetivo es dar más certidumbre y transparencia, sin eliminar la Ley de Contrato de Trabajo, sino acotar las multiplicaciones judiciales de indemnizaciones.\n*   **Reforma del Monotributo:** Se evalúa su modificación o sustitución, con el ministro Luis Caputo buscando reducir la carga tributaria sobre el empleo. Expertos como IDESA sugieren unificar los regímenes de ingresos (dependencia, autónomos y monotributo) en un único impuesto personal con alícuotas progresivas.\n*   **Impacto y desafíos:** La desregulación de la yerba mate genera preocupaciones en productores misioneros, que denuncian una crisis por la cartelización del mercado. Expertos advierten que cualquier cambio en el Monotributo debe ser muy cuidadoso para no aumentar la alta informalidad laboral existente.\n\n💡 **¿Por qué importa?**\n*   Estas reformas buscan transformar profundamente la estructura económica y laboral de Argentina, con el objetivo de impulsar la competencia, reducir la burocracia y mejorar la situación de empleo y salarios.\n*   Sin embargo, las medidas generan un intenso debate, ya que buscan equilibrar la promoción de la libertad de mercado con la protección de sectores vulnerables y la eficacia del sistema para integrar a los trabajadores informales.",
-      "cantidad_noticias": 7,
+      "tema_id": "procesamiento_alberto_fernandez_20251118",
+      "tema": "Procesamiento Alberto Fernández (seguros)",
+      "tema_normalizado": "procesamiento alberto fernandez (seguros)",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara Federal porteña confirmó el procesamiento del expresidente Alberto Fernández.\n• La acusación es por supuestas negociaciones incompatibles con la función pública, relacionadas con contrataciones de seguros del Estado.\n• Esta decisión lo acerca a un posible juicio oral y público por presunta corrupción.\n\n🔍 **Datos clave:**\n• **Acusado Principal:** Alberto Fernández (expresidente de Argentina).\n• **Cámara que confirma:** Cámara Federal porteña (o de Comodoro Py).\n• **Delito:** Negociaciones incompatibles con el ejercicio de la función pública.\n• **Monto del embargo:** $ 14.634.220.283.\n• **Intermediario clave:** Héctor Martínez Sosa (esposo de María Cantero, ex-secretaria privada del expresidente).\n• **Organismo involucrado:** Nación Seguros, a través del cual se habrían realizado las contrataciones.\n• **Jueces que conformaron mayoría:** Martín Irurzun y Eduardo Farah.\n\n⚡ **Desarrollo:**\n• La causa investiga supuestas irregularidades en la contratación de seguros por parte de organismos estatales durante la gestión de Alberto Fernández.\n• Se señala una \"intermediación\" de Héctor Martínez Sosa en estos contratos, quien mantiene un vínculo cercano con el exmandatario.\n• Las contrataciones habrían sido realizadas a través de Nación Seguros, afectando potencialmente los fondos públicos.\n• El procesamiento en calidad de autor del delito implica que los jueces encontraron suficientes elementos para avanzar en la investigación judicial.\n• Junto con el procesamiento, se ratificó un embargo millonario sobre sus bienes y se le impuso la prohibición de salir del país sin autorización judicial.\n• La confirmación por parte de la Cámara Federal significa que la investigación cuenta con el respaldo judicial para progresar hacia una instancia de juicio.\n\n💡 **¿Por qué importa?**\n• Se trata de un avance judicial significativo en una causa de corrupción que involucra a un expresidente de la Nación.\n• Subraya la importancia de la transparencia en las contrataciones estatales y el uso de los recursos públicos, sentando un precedente.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "El Gobierno desregula la yerba mate y elimina la Intervención total en el sector",
-          "link": "https://www.iprofesional.com/economia/442150-el-gobierno-desregula-la-yerba-mate-y-elimina-la-intervencion-total-en-el-sector",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 10:51:00"
-        },
-        {
-          "titulo": "Sturzenegger habló de los posibles cambios en la reforma laboral y el monotributo",
-          "link": "https://www.lanacion.com.ar/economia/sturzenegger-hablo-de-los-posibles-cambios-en-la-reforma-laboral-y-el-monotributo-nid18112025/",
+          "titulo": "Confirman el procesamiento de Alberto Fernández por el fraude de los seguros",
+          "link": "https://www.lanacion.com.ar/politica/confirman-el-procesamiento-de-alberto-fernandez-por-el-fraude-de-los-seguros-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-18 10:13:30"
+          "fecha": "2025-11-18 14:15:48"
         },
         {
-          "titulo": "Sturzenegger habló de los posibles cambios en el Monotributo: qué dijo",
-          "link": "https://www.iprofesional.com/impuestos/442142-sturzenegger-hablo-de-los-posibles-cambios-en-el-monotributo-que-dijo",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 09:39:00"
-        },
-        {
-          "titulo": "Federico Sturzenegger citó a Jesús multiplicando los panes para responder las críticas a la reforma laboral: \"Acá no hay milagros\"",
-          "link": "https://www.clarin.com/politica/federico-sturzenegger-cito-multiplicacion-panes-jesus-responder-criticas-reforma-laboral-aca-milagros_0_nV19Z9wYqa.html",
+          "titulo": "Confirmaron el procesamiento de Alberto Fernández en la causa de corrupción de los seguros",
+          "link": "https://www.clarin.com/politica/confirmaron-procesamiento-alberto-fernandez-causa-corrupcion-seguros_0_CSJXxvTcFu.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-18 09:36:56"
-        },
-        {
-          "titulo": "Milei le quitó al organismo que regulaba al sector yerbatero toda capacidad de intervenir en el mercado y fijar precios",
-          "link": "https://www.clarin.com/rural/milei-quito-organismo-regulaba-sector-yerbatero-toda-capacidad-intervenir-mercado-fijar-precios_0_5aHDVsFLKq.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 09:12:51"
-        },
-        {
-          "titulo": "Expertos proponen sustituir el Monotributo por un único impuesto a los ingresos",
-          "link": "https://www.iprofesional.com/impuestos/442060-expertos-proponen-sustituir-el-monotributo-por-un-unico-impuesto-a-los-ingresos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 08:25:00"
-        },
-        {
-          "titulo": "El Gobierno liberó el precio de la yerba mate y desregula la actividad",
-          "link": "https://www.minutouno.com/economia/el-gobierno-libero-el-precio-la-yerba-mate-y-desregula-la-actividad-n6214940",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 08:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "iProfesional",
-        "Clarín",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_rescate_financiero_20251118",
-      "tema": "Argentina: Rescate Financiero EE.UU./JPMorgan",
-      "tema_normalizado": "argentina: rescate financiero ee.uu./jpmorgan",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina recibió un significativo respaldo financiero de Estados Unidos, que incluye un swap de divisas y la participación de bancos de Wall Street.\n• Este paquete busca estabilizar la moneda argentina y respaldar el programa económico del gobierno de Javier Milei.\n• El Wall Street Journal destacó el rol clave de ex-ejecutivos de JPMorgan, apodados \"los chicos de JPMorgan\", en las negociaciones y en el equipo económico argentino.\n\n🔍 **Datos clave:**\n• **Monto del paquete:** US$20.000 millones, principalmente a través de un swap de monedas.\n• **Actores clave:** Luis Caputo (Ministro de Economía de Argentina), Scott Bessent (Secretario del Tesoro de EE.UU.).\n• **Bancos involucrados:** J.P. Morgan, Citigroup, Bank of America, Goldman Sachs.\n• **Garantía:** Activos de la System Open Market Account (SOMA) de la Reserva Federal de EE.UU.\n• **Ganancia estimada para EE.UU.:** Aproximadamente US$2.700 millones, según la Casa Blanca.\n• **Funcionarios argentinos ex-JPMorgan:** José Luis Daza, Pablo Quirno, Santiago Bausili, además de Luis Caputo.\n\n⚡ **Desarrollo:**\n• El equipo económico argentino, liderado por Luis Caputo (ex-JPMorgan y Deutsche Bank), fue elogiado por \"orquestar el negocio de su vida\" para asegurar el apoyo de la administración estadounidense.\n• Scott Bessent, también ex-operador de divisas, fue crucial en el diseño del paquete de asistencia bilateral.\n• Los bancos de Wall Street asumieron la garantía del préstamo utilizando activos de la Reserva Federal, un giro respecto a su petición inicial de que el Tesoro de EE.UU. asumiera el riesgo soberano.\n• El Tesoro de EE.UU. también inyectó US$2.000 millones adicionales antes de las elecciones, afirmando haber obtenido ganancias con estas operaciones.\n• El objetivo principal es evitar que Argentina caiga en su histórico patrón de crisis cambiarias y falta de dólares, incluso siendo el mayor deudor del FMI.\n• Luis Caputo se opone a una flotación total del peso, argumentando que el mercado cambiario argentino es demasiado pequeño y volátil.\n\n💡 **¿Por qué importa?**\n• Este apoyo financiero busca dar estabilidad a Argentina y margen para continuar con sus reformas económicas.\n• Subraya la influencia de ex-operadores financieros en la dirección de la política económica y las relaciones bilaterales, transformando su rol de \"cabalgadores\" a \"domadores\" de fuerzas de mercado.\n• Se presenta como una operación mutuamente beneficiosa para EE.UU., generando ganancias y fortaleciendo su posición global sin costos directos para sus contribuyentes.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "The Wall Street Journal habló del rol de “los chicos de JP Morgan” en el rescate financiero a la Argentina",
-          "link": "https://www.lanacion.com.ar/economia/the-wall-street-journal-hablo-del-rol-de-los-chicos-de-jp-morgan-en-el-rescate-financiero-a-la-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-18 12:00:04"
-        },
-        {
-          "titulo": "La trama JPMorgan en la Tesorería que impulsó el apoyo de EE. UU. a Argentina",
-          "link": "https://www.iprofesional.com/politica/442172-la-trama-jpmorgan-en-la-tesoreria-que-impulso-el-apoyo-de-ee-uu-a-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 11:36:00"
-        },
-        {
-          "titulo": "Bancos de Wall Street asumirían la garantía de préstamo a la Argentina con activos de la Fed",
-          "link": "https://www.minutouno.com/economia/bancos-wall-street-asumirian-la-garantia-prestamo-la-argentina-activos-la-fed-n6215007",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 10:55:00"
-        },
-        {
-          "titulo": "\"Trump vuelve a ganar a lo grande con el intercambio de pesos argentinos\", el artículo que difundió la Casa Blanca sobre las ganancias de Estados Unidos",
-          "link": "https://www.clarin.com/politica/trump-vuelve-ganar-grande-intercambio-pesos-argentinos-articulo-difundio-casa-blanca-ganancias-estados-unidos_0_VjM80fPdtA.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 08:41:01"
-        },
-        {
-          "titulo": "Rescate de EE.UU. a Argentina: el rol clave de los ‘Chicos de JPMorgan’ en la negociación, según The Wall Street Journal",
-          "link": "https://www.clarin.com/economia/chicos-jpmorgan-detras-rescate-estados-unidos-argentina-the-wall-street-journal_0_FtQ0b4oWHf.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 08:26:23"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "iProfesional",
-        "Clarín",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_polemica_despachos_20251118",
-      "tema": "Argentina: Polémica Despachos Diputados",
-      "tema_normalizado": "argentina: polemica despachos diputados",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Martín Menem, presidente de la Cámara de Diputados, ordenó a los legisladores que finalizan su mandato devolver los despachos, mobiliario y equipos asignados.\n*   Amenazó con retener la última dieta (salario) a quienes no cumplan con la restitución de estos bienes públicos.\n*   La medida busca una reorganización general de los espacios físicos ante la inminente renovación parlamentaria.\n\n🔍 **Datos clave:**\n*   **Autoridad:** Martín Menem, Presidente de la Cámara de Diputados.\n*   **Fecha de formalización de la medida:** 14 de noviembre.\n*   **Plazo límite de devolución:** Hasta el 9 de diciembre.\n*   **Fecha de asunción de nuevos diputados:** 10 de diciembre.\n*   **Marco legal:** Artículo 1° de la Constitución Nacional, Ley 24.156 de Administración Financiera, Ley 25.188 de Ética en la Función Pública.\n\n⚡ **Desarrollo:**\n*   La Presidencia de la Cámara de Diputados emitió una resolución exigiendo la restitución de todos los espacios físicos, como oficinas y despachos, así como el mobiliario y el equipamiento electrónico e informático asignado.\n*   Esta obligación aplica a los diputados que finalizan su mandato o cesan en sus funciones por cualquier motivo, y también a los presidentes de bloques o comisiones.\n*   La principal consecuencia por el incumplimiento es el descuento de la última dieta del legislador saliente, hasta completar el importe total de los bienes no restituidos.\n*   En caso de que el valor de los bienes no devueltos supere el monto de la liquidación final, se instruye al Servicio Jurídico Permanente de la Cámara a iniciar acciones judiciales para su recupero o el valor equivalente.\n*   El gobierno fundamenta esta decisión en la necesidad de rendir cuentas sobre la administración de bienes públicos y promover la transparencia en la gestión del patrimonio institucional.\n*   La medida es clave para la reorganización que debe ocurrir antes de que los nuevos diputados electos asuman sus bancas el 10 de diciembre.\n*   En un contexto relacionado, el Gobierno confirmó la convocatoria a sesiones extraordinarias entre el 10 y el 31 de diciembre, con una agenda que incluye el Presupuesto 2026, reformas laboral y tributaria, y un nuevo Código Penal.\n\n💡 **¿Por qué importa?**\n*   Esta acción marca una clara señal del nuevo gobierno de priorizar la austeridad y la transparencia en el manejo de los recursos públicos, generando un precedente en la Cámara de Diputados.\n*   La polémica revela tensiones inherentes al traspaso de poder y a los cambios en las dinámicas y privilegios habituales dentro del ámbito legislativo argentino.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Martín Menem amenazó a los diputados que terminan sus mandatos para que devuelvan sus despachos",
-          "link": "https://www.minutouno.com/politica/martin-menem-amenazo-los-diputados-que-terminan-sus-mandatos-que-devuelvan-sus-despachos-n6215045",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 11:40:00"
-        },
-        {
-          "titulo": "Discusiones, un nuevo protocolo en Diputados y polémica: Martín Menem pidió que todos  devuelvan los despachos y amenaza con multas",
-          "link": "https://www.clarin.com/politica/discusiones-nuevo-protocolo-diputados-polemica-martin-menem-pidio-devuelvan-despachos-amenaza-multas_0_qRBJUEFp9L.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 10:43:25"
-        },
-        {
-          "titulo": "Ordenan a los diputados que terminan mandato que devuelvan los despachos o no cobrarán su dieta",
-          "link": "https://www.ambito.com/politica/ordenan-los-diputados-que-terminan-mandato-que-devuelvan-los-despachos-o-no-cobraran-su-dieta-n6214950",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 09:10:00"
+          "fecha": "2025-11-18 13:41:19"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "Clarín",
-        "Minuto1",
-        "Ámbito Financiero"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -443,91 +407,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_gaza:_plan_20251118",
-      "tema": "Conflicto Gaza: Plan Paz Trump",
-      "tema_normalizado": "conflicto gaza: plan paz trump",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Consejo de Seguridad de la ONU aprobó una resolución presentada por Estados Unidos que respalda el plan de paz del presidente Donald Trump para Gaza.\n• Este plan busca poner fin a la guerra, establecer una autoridad transitoria y desplegar una fuerza internacional de estabilización en el enclave palestino.\n• La iniciativa, que incluye un anexo de 20 puntos, también abre una posible vía hacia un futuro Estado palestino.\n\n🔍 **Datos clave:**\n• **Aprobación ONU:** Lunes, 13 votos a favor, 0 en contra, 2 abstenciones (Rusia y China).\n• **Autoridad transitoria:** Junta de Paz, presidida por Donald Trump, para supervisar reconstrucción.\n• **Fuerza Internacional:** Fuerza Internacional de Estabilización (ISF, por sus siglas en inglés).\n• **Vigencia:** Autorización de la Junta de Paz y la ISF hasta fines de 2027.\n• **Primera fase del plan:** Un alto el fuego y un mecanismo inicial para la liberación de rehenes.\n\n⚡ **Desarrollo:**\n• El plan establece una \"Junta de Paz\", encabezada por Trump, que se encargará de supervisar la reconstrucción y el proceso de recuperación económica de Gaza.\n• Se autoriza el despliegue de una Fuerza Internacional de Estabilización (ISF) con mandato para garantizar la desmilitarización del territorio, incluyendo el desarme y la destrucción de infraestructura militar.\n• La ISF también debe asegurar las zonas fronterizas, coordinar con una fuerza policial palestina entrenada y garantizar la llegada de ayuda humanitaria, cooperando con Egipto e Israel.\n• La retirada de las tropas israelíes del enclave se realizará progresivamente, basada en hitos y plazos que serán definidos por la ISF, Israel, EE. UU. y los garantes del alto el fuego.\n• Estados Unidos considera que el plan desmantela el control de Hamas y ofrece un camino para que Gaza \"se levante libre de la sombra del terror, próspera y segura\".\n• El primer ministro israelí, Benjamin Netanyahu, celebró la aprobación del plan por su énfasis en la desmilitarización y desradicalización, aunque un día antes se había manifestado contrario a la creación de un Estado palestino.\n• Hamas rechazó la iniciativa, calificándola de instrumento de control extranjero y argumentando que el mandato de desarme de la ISF la \"despoja de su neutralidad\".\n• Por otro lado, la Autoridad Palestina dio la bienvenida a la resolución, declarándose lista para implementarla y cooperar con Estados Unidos, la ONU y otros estados.\n\n💡 **¿Por qué importa?**\n• La resolución legitima un marco internacional con el respaldo de la ONU para intentar lograr la paz y estabilidad en Gaza, estableciendo mecanismos de gobernanza transitoria y seguridad.\n• Su implementación enfrenta desafíos significativos debido a las reacciones polarizadas de los principales actores involucrados, especialmente el rechazo de Hamas.",
-      "cantidad_noticias": 2,
+      "tema_id": "actividad_volcanica_global_20251118",
+      "tema": "Actividad volcánica global reciente",
+      "tema_normalizado": "actividad volcanica global reciente",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se ha registrado una significativa actividad volcánica reciente a nivel global, con erupciones y exhalaciones en México, Japón y Hawái.\n• Volcanes como el Popocatépetl, Sakurajima y Kilauea han mostrado comportamientos que van desde columnas de ceniza y lava hasta emisiones de gases.\n• Las autoridades locales y científicas mantienen un monitoreo constante y emiten alertas para salvaguardar a la población cercana.\n\n🔍 **Datos clave:**\n• **Popocatépetl (México):** 9 exhalaciones el 18 de noviembre; Semáforo de Alerta Volcánica en Amarillo Fase 2.\n• **Sakurajima (Japón):** Erupción con columna de ceniza de 4400 metros de altura el 17 de noviembre; Nivel de alerta 3 sobre 5.\n• **Kilauea (Hawái):** Fuentes de lava superiores a los 450 metros de altura.\n• **Perímetro de seguridad:** 12 kilómetros a la redonda del Popocatépetl.\n\n⚡ **Desarrollo:**\n• En México, el volcán Popocatépetl, conocido como \"Don Goyo\", ha mantenido una actividad constante bajo el monitoreo integral del Cenapred y la UNAM.\n• Este monitoreo incluye sismógrafos para detectar movimientos tectónicos, cámaras de vigilancia visual y térmica, y equipos para analizar gases volcánicos como el dióxido de azufre (SO2).\n• Se ha establecido un perímetro de seguridad de 12 kilómetros, instando a la población a no acercarse al cráter ni a las barrancas por el riesgo de fragmentos balísticos o flujos de lodo.\n• En Japón, el volcán Sakurajima, en la prefectura de Kagoshima, tuvo una erupción explosiva desde el cráter Minamidake, lanzando ceniza a más de 4000 metros y grandes rocas volcánicas.\n• Las autoridades japonesas emitieron recomendaciones de protección ante la caída de ceniza, como usar máscaras y conducir lentamente, manteniendo el acceso a la montaña restringido.\n• En Hawái, el volcán Kilauea, uno de los más activos del planeta, registró una poderosa erupción con chorros de lava de cientos de metros, visible a varios kilómetros.\n• El Servicio Geológico de Estados Unidos (USGS) realiza una vigilancia estricta del Kilauea, monitoreando el flujo de lava y los gases volcánicos, aunque la erupción está contenida dentro del parque nacional.\n\n💡 **¿Por qué importa?**\n• La actividad volcánica global subraya la importancia de contar con sistemas de monitoreo avanzados y una preparación constante ante eventos naturales.\n• Estos sucesos recuerdan la dinámica constante de nuestro planeta y la necesidad de que la población siga las indicaciones de seguridad para prevenir riesgos.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Cómo es el plan de paz de Trump para Gaza que aprobó la ONU y qué dice sobre el futuro del enclave",
-          "link": "https://www.lanacion.com.ar/el-mundo/como-es-el-plan-de-paz-de-trump-para-gaza-que-aprobo-la-onu-y-que-dice-sobre-el-futuro-del-enclave-nid18112025/",
+          "titulo": "Popocatépetl hoy: volcán registró 9 exhalaciones este 18 de noviembre",
+          "link": "https://www.infobae.com/mexico/2025/11/18/popocatepetl-hoy-volcan-registro-9-exhalaciones-este-18-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 15:15:41"
+        },
+        {
+          "titulo": "Imponente erupción del volcán Sakurajima en Japón: dejó una columna de humo de más de 4000 metros de altura",
+          "link": "https://www.lanacion.com.ar/el-mundo/imponente-erupcion-del-volcan-sakurajima-en-japon-dejo-una-columna-de-humo-de-mas-de-4-km-de-altura-nid18112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-18 10:48:03"
+          "fecha": "2025-11-18 13:30:47"
         },
         {
-          "titulo": "Avance: el Consejo de Seguridad aprobó el plan de Trump para Gaza con la formación de una fuerza militar internacional",
-          "link": "https://www.clarin.com/mundo/avance-consejo-seguridad-aprobo-plan-trump-gaza-formacion-fuerza-militar-internacional_0_cjTBorMHYw.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-18 08:41:45"
+          "titulo": "Alerta en Hawái por la erupción del volcán Kilauea: alcanzó los 450 metros de altura",
+          "link": "https://www.ambito.com/mundo/alerta-hawai-la-erupcion-del-volcan-kilauea-alcanzo-los-450-metros-altura-n6215053",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 13:26:00"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-18",
       "fuentes": [
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "caida_precio_bitcoin_20251118",
-      "tema": "Caída Precio Bitcoin Noviembre",
-      "tema_normalizado": "caida precio bitcoin noviembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El precio de Bitcoin (BTC) experimentó una fuerte caída en noviembre, perforando la marca de los u$s90.000 por primera vez en siete meses.\n• Esta baja se suma a un retroceso general del mercado de criptomonedas, afectando también a altcoins como Ethereum.\n• La tensión y el \"miedo extremo\" se apoderaron del mercado, generando preocupación entre los inversores.\n\n🔍 **Datos clave:**\n• **Precio:** Bitcoin cayó hasta u$s89.000, desde un máximo previo de u$s126.200.\n• **Período:** La caída se dio en pocas semanas, alcanzando el mínimo en noviembre (este martes, según la noticia, haciendo referencia a la fecha de publicación original).\n• **Analista:** Ali Martinez predice que Bitcoin tocará fondo en octubre de 2026.\n• **Ventas récord:** Holders de largo plazo vendieron más de 800.000 BTC.\n• **ETFs:** Fondos de Bitcoin en EE. UU. registraron salidas de hasta u$s800 millones diarios.\n• **Capitalización:** El mercado cripto borró u$s1,2 billones en capitalización, el 28% de su valor total.\n\n⚡ **Desarrollo:**\n• La corrección del precio de Bitcoin se debió a una combinación de factores, incluyendo el agotamiento de un rally previo que había llevado la criptomoneda a los u$s126.000.\n• Entre las causas principales se encuentran las ventas masivas de inversores a largo plazo y las liquidaciones forzadas en los mercados de futuros, producto de un exceso de apalancamiento.\n• Los Fondos Cotizados en Bolsa (ETF) de Bitcoin en Estados Unidos, que antes impulsaban el precio, pasaron a registrar salidas millonarias, revirtiendo la tendencia.\n• El contexto macroeconómico global también influyó, con menor liquidez, temores de recesión en EE. UU. y la incertidumbre sobre la política de tasas de interés de la Reserva Federal.\n• Analistas como Ali Martinez proyectan que el fondo del mercado bajista podría llegar en octubre de 2026, basándose en ciclos históricos.\n• Otros expertos, como Tom Lee, son más optimistas y sugieren un nuevo máximo del ciclo cripto en 12 a 36 meses.\n• La caída de Bitcoin arrastró a otras criptomonedas importantes como Ethereum (ETH), XRP, BNB y Solana (SOL).\n\n💡 **¿Por qué importa?**\n• La caída expone una \"purga de excesos\" y la necesidad de limpiar el apalancamiento en el mercado antes de un posible nuevo ciclo alcista.\n• Para algunos analistas, este momento podría representar una oportunidad ideal de compra a largo plazo, anticipando un repunte futuro.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Bitcoin se desploma a casi u$s90.000 y analistas temen que toque fondo en 2026",
-          "link": "https://www.ambito.com/finanzas/bitcoin-se-desploma-casi-us90000-y-analistas-temen-que-toque-fondo-2026-n6214945",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 12:05:00"
-        },
-        {
-          "titulo": "Bitcoin perfora los 90.000 dólares por primera vez en siete meses",
-          "link": "https://www.iprofesional.com/finanzas/442040-bitcoin-tambalea-y-un-importante-banco-de-eeuu-alerta-por-su-escenario-mas-temido",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-18 12:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "iProfesional",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "china:_nuevo_tren_20251118",
-      "tema": "China: Nuevo Tren Bala Rápido",
-      "tema_normalizado": "china: nuevo tren bala rapido",
-      "resumen": "📌 **¿Qué está pasando?**\n• China ha presentado el prototipo CR450, su nuevo tren bala que se proyecta como el más rápido del mundo.\n• Este modelo alcanzó 450 km/h en pruebas y está diseñado para operar comercialmente a 400 km/h, superando significativamente a otros trenes de alta velocidad.\n• Su desarrollo, liderado por el Grupo Estatal de Ferrocarriles de China, consolida la posición del país como líder global en tecnología ferroviaria avanzada.\n\n🔍 **Datos clave:**\n• **Velocidad máxima en pruebas:** 450 km/h (con un pico registrado de 453 km/h).\n• **Velocidad operativa comercial:** 400 km/h.\n• **Inicio de operaciones estimado:** 2026.\n• **Fabricante principal:** CRRC Corporation Limited.\n• **Extensión de la red de alta velocidad en China:** Aproximadamente 47,000 kilómetros.\n\n⚡ **Desarrollo:**\n• El CR450 representa un avance notable frente al actual Fuxing (CR400) de China, que opera a 350 km/h, y modelos como el Shinkansen japonés (320 km/h) o el ICE 3 alemán (330 km/h).\n• Sus innovaciones incluyen una reducción del 22% en la resistencia operativa y una disminución del 10% en su peso total, gracias a un diseño más aerodinámico y materiales ultralivianos.\n• Incorpora un avanzado sistema de tracción con imanes permanentes enfriados por agua y boogies de alta estabilidad, además de un sistema de frenado de emergencia multinivel.\n• El tren integra más de 4,000 sensores para monitorear en tiempo real componentes clave y tecnología de reconocimiento más allá del horizonte para mejorar la respuesta ante emergencias.\n• Durante las pruebas, logró una hazaña al cruzar dos formaciones a una velocidad combinada de 896 km/h, y aceleró de 0 a 350 km/h en tan solo 4 minutos y 40 segundos.\n• Ofrece mayor confort a los pasajeros con técnicas de reducción de ruido que disminuyen 2 decibeles en el interior y amplían un 4% el espacio de servicio.\n• China no solo domina en velocidad, sino también en infraestructura, extendiendo su experiencia a proyectos internacionales en Indonesia y Serbia.\n\n💡 **¿Por qué importa?**\n• El CR450 solidifica el liderazgo indiscutible de China en la industria ferroviaria global, marcando un nuevo hito en velocidad, seguridad y eficiencia del transporte.\n• Este avance tecnológico promete redefinir los estándares mundiales para los trenes de alta velocidad y fortalece la influencia de China en el desarrollo de infraestructuras globales.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "China inauguró el tren bala más rápido del mundo: así es el nuevo CR450",
-          "link": "https://www.ambito.com/mundo/china-inauguro-el-tren-bala-mas-rapido-del-asi-es-el-nuevo-cr450-n6214983",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-18 10:32:00"
-        },
-        {
-          "titulo": "Probaron el tren bala más rápido del mundo: qué velocidad alcanza",
-          "link": "https://www.minutouno.com/mundo/probaron-el-tren-bala-mas-rapido-del-que-velocidad-alcanza-n6214996",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-18 09:55:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-18",
-      "fuentes": [
-        "Minuto1",
+        "La Nación",
+        "Infobae",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
