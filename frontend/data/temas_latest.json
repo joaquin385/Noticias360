@@ -1,145 +1,105 @@
 {
   "fecha": "2025-11-19",
-  "fecha_generacion": "2025-11-19T18:27:15.033441",
+  "fecha_generacion": "2025-11-19T21:18:30.838479",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "causa_andis:_corrupcion_20251119",
-      "tema": "Causa ANDIS: Corrupción Discapacidad",
-      "tema_normalizado": "causa andis: corrupcion discapacidad",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga un esquema de corrupción en la Agencia Nacional de Discapacidad (ANDIS) que habría desviado miles de millones de pesos.\n• Las acusaciones principales incluyen el direccionamiento de contratos a droguerías y el cobro de presuntas coimas a cambio de pagos.\n• El ex-titular de ANDIS, Diego Spagnuolo, y varios funcionarios, empresarios y lobistas están imputados en la causa.\n\n🔍 **Datos clave:**\n• **Monto Investigado:** El fiscal Franco Picardi estima desvíos por ~$43.000 millones (pesos) en contratos y fondos.\n• **Imputados Principales:** Diego Spagnuolo (ex-titular ANDIS), Miguel Ángel Calvete (empresario/lobista), Ornella Calvete (hija de Miguel, ex-directora en Economía), Daniel Garbellini (ex-número dos ANDIS), Pablo Atchabahian (lobista, detenido), Luciana Ferrari (ex-empleada Roche).\n• **Droguerías Mencionadas:** Profarma, Génesis, New Farma y Floresta, supuestamente beneficiadas.\n• **Hallazgo Relevante:** U$S 700.000 en efectivo, no declarados, encontrados en el domicilio de Ornella Calvete.\n• **Defensa Clave:** Spagnuolo y su abogado afirman que los audios incriminatorios fueron \"manipulados con Inteligencia Artificial\".\n\n⚡ **Desarrollo:**\n• La investigación se inició por audios atribuidos a Spagnuolo, donde se discutía un sistema de cobro de coimas para la compra de medicamentos para el programa Incluir Salud.\n• Spagnuolo compareció ante el juez Sebastián Casanello, negando los cargos pero ejerciendo su derecho a no responder preguntas, y anunció que presentará una pericia de los audios.\n• Miguel Ángel Calvete es señalado como un \"nexo clave\" y organizador de la trama, dirigiendo el esquema de cobros ilegales y las adjudicaciones desde fuera del organismo.\n• Su hija, Ornella Calvete, renunció a su cargo en Economía tras el allanamiento donde se encontraron los dólares, y chats sugieren su conocimiento y participación en las gestiones de su padre.\n• Luciana Ferrari, ex-empleada de Laboratorios Roche, fue despedida por su rol como nexo entre droguerías y Garbellini, con acceso irregular al sistema de contrataciones de ANDIS.\n• Las pruebas contra Spagnuolo incluyen visitas frecuentes de Calvete, fotografías con mochilas sugiriendo transporte de dinero, un aumento patrimonial sin justificar y la manipulación de su celular.\n• El Gobierno descarta, por el momento, separar a funcionarios como Javier Cardini (pareja de Ornella) y busca desvincular a Karina Milei, mencionada en los audios por un supuesto \"3 por ciento\" de recaudación ilegal.\n\n💡 **¿Por qué importa?**\n• El escándalo afecta directamente a personas con discapacidad al desviar fondos destinados a sus prestaciones y medicamentos, impactando en un sector vulnerable.\n• Genera un grave cuestionamiento sobre la transparencia y la ética en la gestión de organismos públicos y la posible implicación de funcionarios en esquemas de corrupción.",
-      "cantidad_noticias": 9,
+      "tema_id": "dolar_y_riesgo_20251119",
+      "tema": "Dólar y riesgo país argentino",
+      "tema_normalizado": "dolar y riesgo pais argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El riesgo país argentino ha caído por debajo de los 600 puntos básicos, un nivel no visto desde principios de enero.\n*   Esta mejora acerca al país a la posibilidad de volver a acceder a los mercados internacionales de deuda.\n*   En este contexto, el dólar oficial muestra estabilidad o leve suba, mientras ingresan divisas por colocaciones de deuda de empresas y gobiernos locales.\n\n🔍 **Datos clave:**\n*   **Riesgo País (JP Morgan EMBI+):** Perforó los 600 puntos básicos, llegando a 597 pb intradiario y cerrando en 601 pb (el miércoles 19 de noviembre).\n*   **Tasa de Rendimiento Argentina:** Los bonos soberanos rinden aproximadamente el 10,1% anual en dólares.\n*   **Emisión de Deuda CABA:** Colocó US$600 millones a una tasa del 7,8%, considerada la más baja de su historia.\n*   **Dólar Mayorista:** Cerró a $1.406,50 con un volumen negociado de USD 574 millones (el miércoles 19 de noviembre).\n*   **Dólar Blue y Oficial (BNA):** Ambos se ubicaron alrededor de $1.430 para la venta (el miércoles 19 de noviembre).\n*   **Reservas Brutas BCRA:** Aumentaron USD 152 millones, alcanzando los 40.772 millones de dólares.\n\n⚡ **Desarrollo:**\n*   La caída del riesgo país se atribuye a la suba de los bonos soberanos y a la disminución de la incertidumbre política tras las elecciones legislativas, lo que refuerza la gobernabilidad.\n*   Empresas como YPF, Tecpetrol, Pluspetrol, TGS, Edenor y Pampa Energía, junto a la Ciudad de Buenos Aires, aprovecharon las mejores condiciones para emitir deuda en dólares.\n*   Estas emisiones corporativas y subnacionales generaron una mayor oferta de divisas, lo que contribuyó a la calma en el mercado cambiario y compensó la baja liquidación del sector agropecuario.\n*   La estrategia del Banco Central es acumular reservas de manera cautelosa, priorizando la demanda de pesos para evitar inyectar liquidez no absorbida que pueda generar presiones inflacionarias.\n*   Un riesgo país más bajo no solo reduce el costo de financiamiento para el Estado, provincias y empresas, sino que también impulsa la expectativa de nuevas inversiones y el posible regreso del soberano a los mercados internacionales.\n\n💡 **¿Por qué importa?**\n*   La baja del riesgo país es un indicador clave de la recuperación de la confianza inversora, lo que es fundamental para obtener financiamiento más barato y fomentar la inversión productiva en Argentina.\n*   La estabilidad cambiaria, sostenida por el ingreso de divisas y la política del BCRA, es vital para la planificación económica y para reducir la incertidumbre en un contexto de búsqueda de desarrollo.",
+      "cantidad_noticias": 18,
       "noticias": [
         {
-          "titulo": "Escándalo de Andis: el abogado de Spagnuolo afirmó que los audios de las presuntas coimas fueron “manipulados con IA“",
-          "link": "https://www.lanacion.com.ar/politica/escandalo-de-andis-el-abogado-de-spagnuolo-afirmo-que-los-audios-de-las-presuntas-coimas-fueron-nid19112025/",
+          "titulo": "El riesgo país quedó al borde de perforar los 600 puntos básicos y el país se acerca a la posibilidad de volver a los mercados internacionales",
+          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-perforar-los-600-puntos-basicos-y-el-pais-se-acerca-a-la-posibilidad-de-nid19112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-19 15:11:45"
+          "fecha": "2025-11-19 18:01:44"
         },
         {
-          "titulo": "Echaron a una empleada de Laboratorios Roche por la causa Andis",
-          "link": "https://www.lanacion.com.ar/economia/echaron-a-una-empleada-del-laboratorio-roche-por-la-causa-andis-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 14:55:44"
+          "titulo": "Dólar hoy en vivo: en el Banco Nación subió a $1.430 para la venta",
+          "link": "https://www.infobae.com/economia/2025/11/19/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-19-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:59:18"
         },
-        {
-          "titulo": "Caso Andis: indagaron a Diego Spagnuolo en la causa por presunta corrupción en Discapacidad",
-          "link": "https://www.lanacion.com.ar/politica/caso-andis-diego-spagnuolo-llego-a-comodoro-py-para-declarar-por-los-audios-que-revelaron-presuntas-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 14:49:15"
-        },
-        {
-          "titulo": "ANDIS: Diego Spagnuolo rechazó las acusaciones y se negó a responder preguntas",
-          "link": "https://www.ambito.com/politica/andis-diego-spagnuolo-declara-la-causa-el-supuesto-pedidos-coimas-n6215449",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 14:45:00"
-        },
-        {
-          "titulo": "El abogado de Diego Spagnuolo confirmó que su defendido prestará hoy declaración indagatoria",
-          "link": "https://www.minutouno.com/politica/el-abogado-diego-spagnuolo-confirmo-que-su-defendido-prestara-hoy-declaracion-indagatoria-n6215614",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 13:59:12"
-        },
-        {
-          "titulo": "El Gobierno descarta separar de sus cargos a los funcionarios involucrados en el escándalo de Andis",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-descarta-separar-de-sus-cargos-a-los-funcionarios-involucrados-en-el-escandalo-de-andis-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 12:37:48"
-        },
-        {
-          "titulo": "Causa ANDIS: quién es Ornella Calvete, la funcionaria de Economía que tenía u$s700.000 en su casa",
-          "link": "https://www.ambito.com/politica/causa-andis-quien-es-ornella-calvete-la-funcionaria-economia-que-tenia-us700000-su-casa-n6215540",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 12:32:00"
-        },
-        {
-          "titulo": "El entramado que compromete a Ornella Calvete: los chats que la incriminan, miles de dólares en su casa y su vínculo con el poder libertario",
-          "link": "https://www.ambito.com/politica/el-entramado-que-compromete-ornella-calvete-los-chats-que-la-incriminan-miles-dolares-su-casa-y-su-vinculo-el-poder-libertario-n6215509",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 11:34:00"
-        },
-        {
-          "titulo": "Caso ANDIS: cuál es la acusación y las pruebas directas contra Diego Spagnuolo",
-          "link": "https://www.ambito.com/politica/caso-andis-cual-es-la-acusacion-y-las-pruebas-directas-contra-diego-spagnuolo-n6215523",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 11:13:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-19",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "dolar:_cotizacion_noviembre_20251119",
-      "tema": "Dólar: Cotización Noviembre",
-      "tema_normalizado": "dolar: cotizacion noviembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El miércoles 19 de noviembre, el mercado cambiario argentino experimentó un aumento en la cotización de sus principales tipos de dólar.\n• El dólar mayorista superó la barrera psicológica de los $1.400, mientras que el dólar blue y los dólares financieros (MEP y CCL) también registraron subas.\n• El Banco Central (BCRA) reiteró su postura de no buscar acumular reservas a través de un tipo de cambio artificialmente alto, enfocándose en la estabilidad y el desarrollo productivo.\n\n🔍 **Datos clave:**\n• **Fecha:** Miércoles 19 de noviembre.\n• **Dólar oficial (mayorista):** Cotizó entre $1.403 y $1.408.\n• **Dólar blue:** Se ubicó entre $1.410 (compra) y $1.430 - $1.435 (venta), con una suba de $5.\n• **Dólar MEP:** Operó cerca de $1.439,25.\n• **Dólar CCL:** Alcanzó los $1.465,70 - $1.467,98.\n• **Dólar tarjeta/turista:** Se posicionó en $1.859.\n• **Brecha CCL vs. oficial:** 4,8%.\n• **Bitcoin:** Perforó los u$s90.000, acumulando una baja del 30% desde su récord.\n• **Autoridad:** Presidente del BCRA, Santiago Bausili.\n\n⚡ **Desarrollo:**\n• El dólar oficial en el segmento mayorista mostró un cambio de tendencia al alza, superando los $1.400 y cerrando en $1.405, tras previas jornadas de baja.\n• Los contratos de dólar futuro, con vencimiento en abril de 2026, también reflejaron este movimiento, subiendo hasta un 1,7%.\n• Santiago Bausili, titular del BCRA, afirmó que la acumulación de reservas será una consecuencia del proceso de remonetización y del éxito del programa económico, y no un motor a cualquier costo.\n• Las cotizaciones minoristas del dólar oficial en el Banco Nación se ubicaron entre $1.375 y $1.380 para la compra y $1.425 y $1.430 para la venta.\n• La brecha cambiaria entre el dólar CCL y el dólar mayorista había llegado a ampliarse hasta el 7% el lunes, estabilizándose este miércoles en 4,8%.\n• El dólar blue, que en 2020 experimentó un salto del 111%, subió $5 en la jornada de este miércoles tras varias ruedas de calma.\n• Según analistas de Max Capital, el gobierno se encuentra u$s9.000 millones por debajo de la meta de reservas acordada con el FMI para diciembre.\n\n💡 **¿Por qué importa?**\n• Las variaciones en las diferentes cotizaciones del dólar impactan directamente en la economía real, influenciando precios, costos de importación y exportación, y el poder adquisitivo de los ciudadanos.\n• La estrategia y las declaraciones del Banco Central sobre el tipo de cambio y la acumulación de reservas son clave para la percepción de estabilidad económica y la confianza de los inversores.",
-      "cantidad_noticias": 6,
-      "noticias": [
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 19 de noviembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-19-de-noviembre-nid19112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-19 15:10:00"
+          "fecha": "2025-11-19 17:55:29"
+        },
+        {
+          "titulo": "El dólar subió por segundo día consecutivo en un mercado con fuerte volumen de operaciones",
+          "link": "https://www.infobae.com/economia/2025/11/19/el-dolar-subio-por-segundo-dia-consecutivo-en-un-mercado-con-fuerte-volumen-de-operaciones/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:48:23"
         },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 19 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-19-noviembre-n6215405",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 14:49:00"
+          "fecha": "2025-11-19 17:31:00"
+        },
+        {
+          "titulo": "Mercado en tensión: la jugada clave del Gobierno que puede cambiar para siempre el precio del dólar",
+          "link": "https://www.iprofesional.com/finanzas/442274-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 17:30:00"
+        },
+        {
+          "titulo": "El riesgo país llegó a perforar los 600 puntos en un contexto de fuerte ingreso de dólares",
+          "link": "https://www.infobae.com/economia/2025/11/19/el-riesgo-pais-perforo-el-piso-de-los-600-puntos-en-un-contexto-de-fuerte-ingreso-de-dolares/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:18:48"
+        },
+        {
+          "titulo": "Cómo tomar decisiones en el plano cambiario",
+          "link": "https://www.lanacion.com.ar/economia/como-tomar-decisiones-en-el-plano-cambiario-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 17:11:45"
+        },
+        {
+          "titulo": "El dólar blue se sostuvo en los $1.430 y cerró al mismo nivel que el billete en el Banco Nación",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-se-sostuvo-los-1430-y-cerro-al-mismo-nivel-que-el-billete-el-banco-nacion-n6215713",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 16:35:00"
         },
         {
           "titulo": "Dólar blue hoy: a cuánto opera este miércoles 19 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-19-noviembre-n6215327",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 13:47:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-19-noviembre-n6215324",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 13:46:00"
-        },
-        {
-          "titulo": "El dólar mayorista supera los $1.400 y los futuros se acomodan al alza",
-          "link": "https://www.ambito.com/finanzas/el-dolar-se-mueve-cautela-disminuye-la-brecha-los-financieros-y-el-tipo-cambio-se-mantiene-1400-n6215413",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 13:08:00"
+          "fecha": "2025-11-19 16:20:00"
         },
         {
           "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 19 de noviembre",
           "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-19-noviembre-n6215304",
           "fuente": "Minuto1",
-          "fecha": "2025-11-19 12:45:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-19",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "riesgo_pais:_caida_20251119",
-      "tema": "Riesgo País: Caída y Mercados",
-      "tema_normalizado": "riesgo pais: caida y mercados",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Riesgo País de Argentina ha caído significativamente, ubicándose por debajo de los 600 puntos básicos y llegando a marcar 595 unidades.\n• Esta baja genera una fuerte expectativa sobre el inminente regreso de Argentina a los mercados internacionales de deuda.\n• La mejora se atribuye al buen humor de los inversores y a exitosas colocaciones de deuda de empresas y provincias en el exterior.\n\n🔍 **Datos clave:**\n• **Riesgo País actual:** 595-599 puntos básicos (pb), perforando los 600 pb.\n• **Colocación de deuda de CABA:** US$600 millones a una tasa del 7.8% (la más baja de su historia).\n• **Ingreso de divisas (primeros 15 días de noviembre):** US$2.900 millones, un récord para el gobierno actual.\n• **Rendimiento de bonos argentinos:** Alrededor del 10.1% anual en dólares.\n• **Objetivo a corto plazo:** Comprimir el riesgo país hacia los ~500 pb.\n• **Fechas de referencia:** Niveles similares no se veían desde principios de enero.\n\n⚡ **Desarrollo:**\n• El indicador de Riesgo País, elaborado por J.P. Morgan (EMBI+), mide la probabilidad de default de un país, comparando el rendimiento de sus bonos soberanos con los del Tesoro de EE. UU.\n• La caída se debe a la robusta demanda en colocaciones de deuda corporativa (YPF, Tecpetrol, TGS, Edenor, Pampa Energía) y provincial, que preanuncian un regreso del soberano al mercado.\n• Factores como un posible nuevo crédito repo, la expectativa de recompra de bonos (Globales 29s y 30s) y las compras oficiales de divisas actúan como motores para esta compresión.\n• Un menor riesgo país significa una reducción en la tasa que el Estado, las provincias y las empresas deben pagar para endeudarse en el exterior, haciendo el crédito más barato.\n• Esta mejora ha traído calma al mercado cambiario, ya que la ola de emisiones corporativas generó una oferta abundante de divisas, ayudando a compensar las bajas liquidaciones del sector agropecuario.\n• La estrategia económica se enfoca en fomentar la inversión y la actividad económica, buscando un círculo virtuoso de baja de impuestos y crecimiento, en lugar de acumular reservas a cualquier costo.\n• A mediano plazo, se proyecta un escenario favorable para los activos argentinos, con expectativas de una apreciación del tipo de cambio por el ingreso de capitales y la confianza en reformas económicas.\n\n💡 **¿Por qué importa?**\n• La reducción del riesgo país abre la puerta para que Argentina recupere su acceso a los mercados internacionales de deuda, facilitando el financiamiento a menor costo para el gobierno y el sector privado.\n• Este escenario impulsa la inversión, reactiva proyectos productivos, genera actividad económica y empleo, sentando las bases para una mayor estabilidad y crecimiento del país.",
-      "cantidad_noticias": 4,
-      "noticias": [
+          "fecha": "2025-11-19 16:05:00"
+        },
+        {
+          "titulo": "El dólar oficial anotó su segunda suba consecutiva, mientras los futuros empezaron a despertarse",
+          "link": "https://www.ambito.com/finanzas/el-dolar-se-mueve-cautela-disminuye-la-brecha-los-financieros-y-el-tipo-cambio-se-mantiene-1400-n6215413",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 16:02:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-19-noviembre-n6215324",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 15:48:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy miércoles 19 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-miercoles-19-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 15:15:28"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue hoy miércoles 19 de noviembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-miercoles-19-de-noviembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 14:35:52"
+        },
         {
           "titulo": "El riesgo país cayó debajo de los 600 puntos y crece la expectativa por el regreso de Argentina a los mercados",
           "link": "https://www.clarin.com/economia/riesgo-pais-cayo-debajo-600-puntos-crece-expectativa-regreso-argentina-mercados_0_MG3fTbn4Hw.html",
@@ -157,70 +117,18 @@
           "link": "https://www.iprofesional.com/finanzas/442298-el-riesgo-pais-vuelve-a-perforar-los-600-puntos-basicos-que-posibilidades-se-abren",
           "fuente": "iProfesional",
           "fecha": "2025-11-19 13:45:00"
-        },
-        {
-          "titulo": "El riesgo país vuelve a perforar los 600 puntos básicos y el país se acerca a la posibilidad de volver a los mercados internacionales",
-          "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-perforar-los-600-puntos-basicos-y-el-pais-se-acerca-a-la-posibilidad-de-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 12:21:32"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-19",
       "fuentes": [
-        "Clarín",
-        "iProfesional",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "guerra_israel:_gaza_20251119",
-      "tema": "Guerra Israel: Gaza y Líbano",
-      "tema_normalizado": "guerra israel: gaza y libano",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Israel ha intensificado sus acciones militares en la Franja de Gaza y el sur de Líbano, alegando violaciones de los altos el fuego por parte de Hamás y Hezbolá.\n*   En Gaza, los bombardeos israelíes responden a disparos de Hamás, mientras en Líbano se atacan infraestructuras de Hezbolá a pesar de una tregua.\n*   Paralelamente, un plan de reconstrucción y gobernanza para Gaza, impulsado por Estados Unidos y respaldado por la ONU, enfrenta grandes desafíos para su implementación.\n\n🔍 **Datos clave:**\n*   **22 muertos:** Cifra de fallecidos en Gaza por ataques israelíes, según Defensa Civil de Gaza, tras una alegada ruptura del alto el fuego por Hamás.\n*   **10 de octubre de 2023:** Fecha en que entró en vigor el alto el fuego inicial en Gaza, que Israel acusa a Hamás de haber violado.\n*   **Noviembre de 2024:** Fecha del alto el fuego alcanzado en Líbano, que Israel ha violado al bombardear Hezbolá.\n*   **2 años:** Mandato inicial propuesto para Donald Trump como \"gobernante de facto\" en Gaza, con posibilidad de extensión.\n*   **Diciembre de 2027:** Plazo previsto para la presencia de una Fuerza de Seguridad Internacional (ISF) en Gaza, según resolución de la ONU.\n*   **12.000 soldados:** Número adicional de efectivos que las Fuerzas de Defensa de Israel (FDI) necesitan, influyendo en la decisión sobre el servicio militar.\n\n⚡ **Desarrollo:**\n*   Israel justificó los bombardeos en Gaza acusando a Hamás de romper el alto el fuego al abrir fuego contra sus tropas en Khan Younis, en la zona bajo control de las FDI.\n*   En Líbano, las FDI atacaron \"múltiples infraestructuras\" de Hezbolá en el sur, ordenando evacuaciones en localidades como Shahour y Deir Kifa, para \"contrarrestar\" actividades del grupo.\n*   El Consejo de Seguridad de la ONU aprobó con 13 votos un plan de EE. UU. para Gaza que incluye una \"Junta de la Paz\" presidida por Trump y una fuerza internacional de seguridad para desarmar a Hamás.\n*   Este plan busca reconstruir Gaza, pero enfrenta críticas por la falta de representación palestina formal y por no establecer plazos concretos para la retirada israelí o la reconstrucción.\n*   Un Centro de Coordinación Civil-Militar (CMCC) liderado por EE. UU. opera en Kiryat Gat, Israel, con participación de varios países, para supervisar el alto el fuego y planificar el futuro de Gaza.\n*   El Tribunal Supremo de Israel ordenó al gobierno emprender acciones penales contra jóvenes ultraortodoxos que evadan el servicio militar obligatorio, exigiendo una política de fiscalización efectiva.\n*   Aunque el liderazgo rabínico ultraortodoxo ha aprobado un borrador de ley más laxo sobre el alistamiento, líderes de la oposición lo han denunciado como una \"ley para evadir el servicio militar\".\n\n💡 **¿Por qué importa?**\n*   La persistente violencia y las violaciones del alto el fuego en Gaza y Líbano muestran la inestabilidad de la región y la dificultad para establecer una paz duradera.\n*   El plan internacional para Gaza y la controversia sobre el servicio militar en Israel reflejan los complejos desafíos políticos, humanitarios y sociales que el país y la región enfrentan.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Israel acusó al grupo terrorista Hamas de romper el alto el fuego y respondió con bombardeos en la Franja de Gaza",
-          "link": "https://www.infobae.com/america/mundo/2025/11/19/israel-acuso-al-grupo-terrorista-hamas-de-romper-el-alto-el-fuego-y-respondio-con-bombardeos-en-la-franja-de-gaza/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-19 14:56:02"
-        },
-        {
-          "titulo": "¿Cuáles serán los mayores desafíos para concretar el plan de Trump para Gaza?",
-          "link": "https://www.infobae.com/america/mundo/2025/11/19/cuales-seran-los-mayores-desafios-para-concretar-el-plan-de-trump-para-gaza/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-19 14:44:08"
-        },
-        {
-          "titulo": "Israel lanzó una nueva oleada de bombardeos contra Hezbollah en el Líbano",
-          "link": "https://www.ambito.com/mundo/israel-lanzo-una-nueva-oleada-bombardeos-contra-hezbollah-el-libano-n6215553",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 12:48:00"
-        },
-        {
-          "titulo": "Dentro de la base administrada por EE.UU que ayuda a planificar el futuro de Gaza",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/dentro-base-administrada-eeuu-ayuda-planificar-futuro-gaza_0_42vsSs0U16.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 11:34:28"
-        },
-        {
-          "titulo": "Israel obliga a los jóvenes ortodoxos a sumarse al Ejército: le iniciarán acciones penales a los que esquiven el servicio militar obligatorio",
-          "link": "https://www.clarin.com/mundo/israel-obliga-jovenes-ortodoxos-sumarse-ejercito-iniciaran-acciones-penales-esquiven-servicio-militar-obligatorio_0_5aTbKThqTK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 11:31:51"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-19",
-      "fuentes": [
         "Ámbito Financiero",
         "Infobae",
-        "Clarín"
+        "Minuto1",
+        "Clarín",
+        "La Nación",
+        "iProfesional",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -228,37 +136,88 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "paro_ate:_reforma_20251119",
-      "tema": "Paro ATE: Reforma Laboral",
-      "tema_normalizado": "paro ate: reforma laboral",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Asociación de Trabajadores del Estado (ATE) convocó a un paro nacional este miércoles 19 de noviembre en rechazo a la reforma laboral impulsada por el Gobierno.\n• El Gobierno advirtió que descontará el día a los empleados públicos que adhieran a la medida de fuerza.\n• ATE calificó la advertencia del Ejecutivo como una \"amenaza ilegal\" e \"inconstitucional\", defendiendo el derecho a huelga.\n\n🔍 **Datos clave:**\n• **Gremio convocante:** ATE (Asociación de Trabajadores del Estado).\n• **Fecha del paro:** 19 de noviembre (mencionado en las noticias como \"este miércoles\").\n• **Líder de ATE:** Rodolfo Aguiar.\n• **Acatamiento (estimado por ATE):** Superior al 90% a nivel nacional.\n• **Ministra de Seguridad:** Patricia Bullrich.\n• **Artículos legales mencionados:** Artículo 14 bis de la Constitución Nacional (derecho a huelga) y artículos 226 y 226 bis del Código Penal (amenazas al orden constitucional).\n\n⚡ **Desarrollo:**\n• El paro de ATE busca frenar la reforma laboral propuesta por el Gobierno de Javier Milei, la cual el gremio considera \"regresiva\", \"precarizadora\" y beneficiosa solo para las grandes patronales.\n• Rodolfo Aguiar defendió el derecho a huelga amparado en la Constitución y rechazó el descuento del día como una maniobra para desalentar la protesta.\n• La Ministra de Seguridad, Patricia Bullrich, denunció penalmente a Aguiar por \"amenazas al orden democrático\" tras sus dichos de que su \"trabajo es provocar la crisis de este Gobierno\".\n• Bullrich también emitió un \"recordatorio\" sobre el \"Protocolo Antipiquete\", exigiendo a los manifestantes marchar \"sobre la vereda y sin violencia\".\n• Durante la jornada del paro, se mantuvieron guardias mínimas en hospitales y atención de urgencia en centros asistenciales para niños, adolescentes y adultos mayores.\n• Aguiar afirmó que el gremio está dispuesto a realizar más protestas, incluso en Navidad y Año Nuevo, si es necesario para evitar la implementación de la reforma.\n\n💡 **¿Por qué importa?**\n• El paro de ATE representa un pulso fuerte entre el Gobierno y los sindicatos estatales en torno a la dirección de las políticas laborales.\n• Este conflicto destaca el choque entre el derecho a la protesta y las advertencias gubernamentales sobre sanciones y la aplicación de protocolos de seguridad.",
-      "cantidad_noticias": 3,
+      "tema_id": "restricciones_a_visitas_20251119",
+      "tema": "Restricciones a visitas de Cristina Kirchner",
+      "tema_normalizado": "restricciones a visitas de cristina kirchner",
+      "resumen": "Aquí tienes un resumen simple y didáctico sobre las restricciones a las visitas de Cristina Kirchner:\n\n📌 **¿Qué está pasando?**\n• La Justicia ha limitado las visitas que puede recibir Cristina Kirchner en su domicilio de San José 1111, donde cumple arresto domiciliario.\n• La decisión judicial se tomó luego de que la expresidenta difundiera una foto con nueve economistas, lo cual fue considerado un incumplimiento de las reglas.\n\n🔍 **Datos clave:**\n• **Condena:** 6 años de prisión por corrupción en la Causa Vialidad (cumpliendo en arresto domiciliario).\n• **Juez a cargo:** Jorge Gorini, del Tribunal Oral Federal 2.\n• **Visita detonante:** Un encuentro con 9 economistas en su casa de San José 1111.\n• **Nuevas restricciones:** Máximo 2 visitas por semana, no más de 3 personas por visita y duración máxima de 2 horas.\n• **Excepciones:** Las autorizaciones se mantienen para familiares, custodia policial, profesionales médicos y abogados defensores.\n• **Advertencia:** El incumplimiento de las nuevas reglas podría modificar o dejar sin efecto el régimen de prisión domiciliaria.\n\n⚡ **Desarrollo:**\n• El juez Gorini explicó que, si bien los economistas tenían autorización para visitarla individualmente, no se había solicitado permiso para un encuentro simultáneo y colectivo de un grupo tan numeroso.\n• La expresidenta reaccionó a la medida con la frase \"No es la foto… es la Economía estúpido\", difundiendo su descargo en redes sociales.\n• Cristina Kirchner argumentó que la verdadera molestia no fue la cantidad de personas o \"hacer política\", sino que en la reunión se debatió un \"Modelo Económico Nacional\" crítico al gobierno de Javier Milei.\n• Recordó haber recibido a grupos de 6 o 7 personas en encuentros anteriores, con publicación de fotos, sin que se generara la misma controversia.\n• A partir de ahora, la Justicia exige una autorización individual, expresa y previa, con una justificación detallada, para cada visita ajena al grupo familiar y profesional habitual.\n\n💡 **¿Por qué importa?**\n• Subraya el estricto control judicial sobre las condiciones del arresto domiciliario y las actividades de figuras públicas condenadas por la Justicia.\n• Reaviva el debate público sobre los límites entre el cumplimiento de una pena y la libertad de expresión o la participación política desde una situación de encierro.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "Paro de ATE contra la reforma laboral: el Gobierno advirtió que le descontará el día a los estatales que adhieran",
-          "link": "https://www.ambito.com/politica/paro-ate-contra-la-reforma-laboral-el-gobierno-advirtio-que-le-descontara-el-dia-los-estatales-que-adhieran-n6215618",
+          "titulo": "Limitan las visitas de Cristina Kirchner en su prisión domiciliaria",
+          "link": "https://www.lanacion.com.ar/politica/limitan-las-visitas-de-cristina-kirchner-en-su-prision-domiciliaria-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:42:40"
+        },
+        {
+          "titulo": "Cristina Kirchner vinculó la nueva restricción a sus visitas a sus criticas a Javier Milei",
+          "link": "https://www.ambito.com/politica/cristina-kirchner-vinculo-la-nueva-restriccion-sus-visitas-sus-criticas-javier-milei-n6215697",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 14:02:00"
+          "fecha": "2025-11-19 16:11:00"
         },
         {
-          "titulo": "El Gobierno amenaza con descontarles el día a los trabajadores estatales que adhieran al paro nacional de hoy",
-          "link": "https://www.minutouno.com/politica/el-gobierno-amenaza-descontarles-el-dia-los-trabajadores-estatales-que-adhieran-al-paro-nacional-hoy-n6215580",
+          "titulo": "Cristina Kirchner respondió a los cuestionamientos por recibir a nueve economistas en su casa",
+          "link": "https://www.lanacion.com.ar/politica/cristina-kirchner-respondio-a-los-cuestionamientos-por-recibir-a-nueve-economistas-en-su-casa-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:01:21"
+        },
+        {
+          "titulo": "La defensa de Cristina Kirchner tras la polémica por la foto con economistas en su domicilio",
+          "link": "https://www.minutouno.com/politica/la-defensa-cristina-kirchner-la-polemica-la-foto-economistas-su-domicilio-n6215694",
           "fuente": "Minuto1",
-          "fecha": "2025-11-19 12:30:00"
+          "fecha": "2025-11-19 15:50:00"
         },
         {
-          "titulo": "Paro nacional de ATE: \"Respeten el protocolo, sobre la vereda y sin violencia\", advirtió Patricia Bullrich en la previa de la marcha",
-          "link": "https://www.clarin.com/politica/paro-nacional-ate-respeten-protocolo-vereda-violencia-advirtio-patricia-bullrich-previa-marcha_0_d7vau8GjWM.html",
+          "titulo": "La Justicia impuso nuevas restricciones a Cristina Kirchner: cómo será ahora el régimen de visitas",
+          "link": "https://www.minutouno.com/politica/la-justicia-impuso-nuevas-restricciones-cristina-kirchner-como-sera-ahora-el-regimen-visitas-n6215690",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 15:47:00"
+        },
+        {
+          "titulo": "\"Es la economía, estúpido\": la reacción de Cristina Kirchner tras las nuevas restricciones por la foto con 9 economistas",
+          "link": "https://www.perfil.com/noticias/politica/es-la-economia-estupido-la-reaccion-de-cristina-kirchner-tras-las-nuevas-restricciones-por-la-foto-con-9-economistas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 15:45:55"
+        },
+        {
+          "titulo": "Nuevo revés para Cristina Kirchner: la Justicia limitó las visitas al departamento donde está presa",
+          "link": "https://www.iprofesional.com/politica/442308-nuevo-reves-para-cristina-kirchner-justicia-limito-visitas-departamento",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 15:39:00"
+        },
+        {
+          "titulo": "La Justicia dispuso nuevas restricciones al régimen de visitas de Cristina Kirchner",
+          "link": "https://www.ambito.com/politica/la-justicia-dispuso-nuevas-restricciones-al-regimen-visitas-cristina-kirchner-n6215686",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 15:37:00"
+        },
+        {
+          "titulo": "Cristina Kirchner defendió su foto con nueve economistas mientras cumple prisión domiciliaria: \"¿Cuál es el problema?\"",
+          "link": "https://www.clarin.com/politica/cristina-kirchner-defendio-foto-economistas-cumple-prision-domiciliaria-problema_0_W9V6GpuT7l.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-19 11:42:20"
+          "fecha": "2025-11-19 15:33:11"
+        },
+        {
+          "titulo": "Tras una foto con nueve economistas, aplican restricciones a las visitas de Cristina: grupos de tres y dos veces por semana",
+          "link": "https://www.clarin.com/politica/foto-9-economistas-aplican-restricciones-visitas-cristina-arresto-domiciliario_0_GnNqrKNFWH.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 15:30:39"
+        },
+        {
+          "titulo": "Florencia Kirchner es tendencia en redes porque la alcanzó el decomiso contra Cristina y Máximo",
+          "link": "https://noticias.perfil.com/noticias/politica/florencia-kirchner-es-tendencia-en-redes-porque-la-alcanzo-el-decomiso-contra-cristina-y-maximo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 13:08:33"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-19",
       "fuentes": [
         "Ámbito Financiero",
+        "Minuto1",
         "Clarín",
-        "Minuto1"
+        "La Nación",
+        "iProfesional",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -266,97 +225,61 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "miss_universo_2025:_20251119",
-      "tema": "Miss Universo 2025: Final y Controversias",
-      "tema_normalizado": "miss universo 2025: final y controversias",
-      "resumen": "📌 **¿Qué está pasando?**\n• La final de Miss Universo 2025 en Tailandia se acerca, generando gran expectativa y controversia.\n• Fátima Bosch, la representante de México, se ha posicionado como favorita, destacando por su traje nacional y el apoyo del público.\n• Sin embargo, el certamen enfrenta una polémica importante por la renuncia de uno de sus jueces, quien denunció fraude y falta de transparencia en la selección de finalistas.\n\n🔍 **Datos clave:**\n• **Fecha y Hora de la Final:** 21 de noviembre de 2025 (20:00 hrs en Tailandia).\n• **Transmisión en México:** 20 de noviembre de 2025, 19:00 horas (por Imagen Televisión y el canal de YouTube de Miss Universo).\n• **Juez Renunciante:** Omar Harfouch, quien dimitió el 18 de noviembre, a solo tres días de la gala final.\n• **Diseñador del Traje Nacional Mexicano:** Fernando Ortiz, de 29 años, de San Luis Potosí.\n• **Valor Estimado del Traje:** Más de 150.000 pesos mexicanos, con siete meses de elaboración.\n• **Cierre de Votaciones del Público:** 19 de noviembre de 2025, 10:00 horas (tiempo del centro de México).\n\n⚡ **Desarrollo:**\n• Fátima Bosch desfiló con un traje nacional inspirado en la Diosa Mexica Xochiquétzal, destacando por su diseño artesanal de pedrería, plumas y bordados, lo que le valió el reconocimiento mundial.\n• La popularidad de Fátima en México se disparó tras un incidente con Nawat Itsaragrisil, director de Miss Universo Tailandia, quien la llamó \"tonta\", generando una ola de indignación y respaldo.\n• El juez Omar Harfouch renunció alegando falta de transparencia, afirmando que se realizó una \"votación secreta\" para preseleccionar a 30 concursantes sin la participación de los jueces oficiales.\n• La organización de Miss Universo respondió a Harfouch, aclarando que la votación referida era para un programa independiente y no formaba parte del proceso oficial del concurso.\n• Harfouch ha anunciado su intención de demandar a la organización ante la Fiscalía General de Nueva York por incumplimiento de contrato, conflicto de intereses y daños a su reputación.\n• El público mexicano puede votar por Fátima Bosch en la categoría \"People's Choice\" a través de la aplicación oficial de Miss Universo, con opciones de voto gratuito y de pago.\n\n💡 **¿Por qué importa?**\n• La renuncia y las acusaciones de fraude del juez Omar Harfouch ponen en entredicho la integridad y transparencia del proceso de Miss Universo, generando incertidumbre sobre los resultados.\n• La destacada participación de Fátima Bosch y las controversias previas elevan la expectativa, haciendo de esta edición de Miss Universo una de las más seguidas y debatidas para el público mexicano.",
-      "cantidad_noticias": 3,
+      "tema_id": "corrupcion_en_andis_20251119",
+      "tema": "Corrupción en ANDIS y funcionaria",
+      "tema_normalizado": "corrupcion en andis y funcionaria",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga un presunto esquema de corrupción y coimas dentro de la Agencia Nacional de Discapacidad (ANDIS), que involucra a exfuncionarios, operadores y droguerías.\n• La Justicia allanó el domicilio de Ornella Calvete, funcionaria del Ministerio de Economía, y encontró cerca de US$ 700.000, una suma muy superior a lo declarado en su patrimonio.\n\n🔍 **Datos clave:**\n• **US$ 700.000:** Dinero incautado en el domicilio de Ornella Calvete, exdirectora en el Ministerio de Economía.\n• **US$ 45.000:** Monto declarado por Ornella Calvete en su declaración jurada ante la Oficina Anticorrupción (OA).\n• **Miguel Ángel Calvete:** Padre de Ornella, señalado como operador \"para-estatal\" clave en ANDIS.\n• **Diego Spagnuolo:** Exdirector de ANDIS, imputado por ser parte central del esquema de cobros y pagos ilegales.\n• **$40.000 millones:** Valor estimado de contratos direccionados a droguerías en el último año y medio.\n• **Juez Sebastián Casanello y Fiscal Franco Picardi:** A cargo de la investigación del caso.\n\n⚡ **Desarrollo:**\n• Ornella Calvete renunció a su cargo tras el hallazgo de los US$ 700.000, que contrastan drásticamente con los US$ 45.000 de su declaración patrimonial.\n• Su padre, Miguel Ángel Calvete, es una figura central de la causa, acusado de tener injerencia directa en la adjudicación de contratos y de coordinar pagos para droguerías.\n• Miguel Calvete, quien usa el alias \"Chuen Li\" en chats incautados, tiene una condena previa de 2019 por explotación económica de la prostitución ajena.\n• Diego Spagnuolo, exdirector de ANDIS, se negó a declarar formalmente ante el juez, pero rechazó las acusaciones y afirmó que los audios que lo comprometen fueron manipulados con inteligencia artificial.\n• Spagnuolo y su \"número dos\", Daniel Garbellini, son acusados de direccionar contratos millonarios a favor de droguerías como Profarma, Génesis, New Pharma y Floresta.\n• También se investigan fondos encontrados en una caja de seguridad de Spagnuolo (US$ 82.000 y 2.950 euros) y la remodelación de su vivienda, cuyo origen es sospechoso para la fiscalía.\n• La fiscalía sostiene que existió un esquema de defraudación al Estado y un circuito de coimas que incluía un \"3% para Karina\", como se menciona en audios incautados.\n\n💡 **¿Por qué importa?**\n• El caso destapa un presunto entramado de corrupción en un organismo estatal clave, afectando la compra de medicamentos para personas con discapacidad y el uso de fondos públicos.\n• Subraya la importancia de la transparencia y el control patrimonial de los funcionarios, y las consecuencias del enriquecimiento ilícito y el tráfico de influencias.",
+      "cantidad_noticias": 7,
       "noticias": [
         {
-          "titulo": "Quién es Fernando Ortiz, diseñador del vestido inspirado en Xochiquétzal que Fátima Bosch lució en Miss Universo 2025",
-          "link": "https://www.infobae.com/mexico/2025/11/19/quien-es-fernando-ortiz-disenador-del-vestido-inspirado-en-xochiquetzal-que-fatima-bosch-lucio-en-miss-universo-2025/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-19 15:12:36"
+          "titulo": "Los bienes de la funcionaria de Economía a la que le encontraron US$ 700 mil",
+          "link": "https://noticias.perfil.com/noticias/politica/los-bienes-de-la-funcionaria-de-economia-a-la-que-le-encontraron-us-700-mil.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 16:50:12"
         },
         {
-          "titulo": "Miss Universo 2025: dónde ver en televisión abierta la participación de Fátima Bosch en la gran final",
-          "link": "https://www.infobae.com/mexico/2025/11/17/miss-universo-2025-donde-ver-en-television-abierta-la-participacion-de-fatima-bosch-en-la-gran-final/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-19 15:07:54"
+          "titulo": "Coimagate: quién es el padre preso de la funcionaria de los 700 mil dólares",
+          "link": "https://noticias.perfil.com/noticias/politica/coimagate-quien-es-el-padre-preso-de-la-funcionaria-de-los-700-mil-dolares.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 16:47:59"
         },
         {
-          "titulo": "La polémica de Miss Universo 2025 que provocó la renuncia de uno de sus jueces horas antes de la final",
-          "link": "https://www.lanacion.com.ar/estados-unidos/la-polemica-de-miss-universo-2025-que-provoco-la-renuncia-de-uno-de-sus-jueces-horas-antes-de-la-nid19112025/",
+          "titulo": "Caso Andis: indagaron a Diego Spagnuolo en la causa por presunta corrupción en Discapacidad",
+          "link": "https://www.lanacion.com.ar/politica/caso-andis-diego-spagnuolo-llego-a-comodoro-py-para-declarar-por-los-audios-que-revelaron-presuntas-nid19112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-19 13:59:46"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-19",
-      "fuentes": [
-        "Infobae",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "colectivos:_crisis_subsidios_20251119",
-      "tema": "Colectivos: Crisis Subsidios y Pagos",
-      "tema_normalizado": "colectivos: crisis subsidios y pagos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Las empresas de colectivos del Área Metropolitana de Buenos Aires (AMBA) informaron al Gobierno que abonarán los salarios de noviembre de 2025 en dos cuotas y el aguinaldo (Segundo Sueldo Anual Complementario) en seis partes.\n*   Esta medida obedece a una \"gravísima coyuntura económica, financiera y operativa\" que ha quebrado el equilibrio económico del sector, imposibilitando el pago íntegro y a tiempo.\n*   La situación genera tensión con el gremio Unión Tranviarios Automotor (UTA) y presiona al Gobierno para otorgar mayor financiamiento.\n\n🔍 **Datos clave:**\n*   **Pagos escalonados:** Salarios de noviembre de 2025 en 2 cuotas, aguinaldo en 6 pagos.\n*   **Empresas:** Las cinco cámaras empresarias del sector.\n*   **Funcionarios notificados:** Luis Pierrini (Secretario de Transporte) y Julio Cordero (Secretario de Trabajo).\n*   **Aumento tarifario:** Reciente incremento del 9,71% en las tarifas para líneas de jurisdicción nacional.\n*   **Costos reales:** La \"tarifa técnica\" reconocida por la Secretaría de Transporte ($1,092.28 por boleto) está un 30% por debajo del costo real ($1,550.75 por pasajero, sin IVA).\n*   **Diferencia monetaria:** Una brecha de $458.87 por boleto, que suma $86,130.94 millones mensuales para el sistema.\n*   **Subsidios:** El Gobierno nacional envió $635,945 millones (actualizados por inflación) hasta octubre de 2025, un 43% menos que en el mismo período de 2024.\n\n⚡ **Desarrollo:**\n*   Las cámaras empresarias han advertido repetidamente sobre ingresos insuficientes y costos crecientes (combustible, repuestos, mantenimiento, seguros, cargas sociales).\n*   También señalan distorsiones tarifarias y la falta de actualización de los fondos compensadores (subsidios), que permanecen congelados desde julio.\n*   El aumento del 9,71% en las tarifas no implica mayores ingresos para las empresas, sino una reducción de los subsidios estatales y un mayor costo para los usuarios.\n*   Esta crisis, que se arrastra desde hace aproximadamente diez años y se agravó a mediados de 2022 por la inflación, ha llevado a muchas empresas al borde de la paralización operativa.\n*   Las empresas afirman que la medida de pagos escalonados es excepcional y transitoria, adoptada con el fin de preservar la prestación del servicio y las fuentes de trabajo.\n\n💡 **¿Por qué importa?**\n*   La imposibilidad de pagar salarios y aguinaldos en tiempo y forma puede generar conflictos laborales con el gremio UTA, incluyendo posibles medidas de fuerza.\n*   La persistente brecha entre costos reales y financiamiento reconocido degrada la calidad del servicio de transporte público, afectando la frecuencia y el estado de los vehículos para millones de usuarios.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Las empresas de colectivos advirtieron al Gobierno que pagarán el sueldo de noviembre en dos cuotas y el aguinaldo en seis",
-          "link": "https://www.infobae.com/economia/2025/11/19/las-empresas-de-colectivos-advirtieron-al-gobierno-que-pagaran-el-sueldo-de-noviembre-en-dos-cuotas-y-el-aguinaldo-en-seis/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-19 14:41:15"
+          "fecha": "2025-11-19 15:52:35"
         },
         {
-          "titulo": "Las firmas de colectivos pagarán aguinaldos en 6 cuotas y se tensa la crisis por los subsidios al transporte",
-          "link": "https://www.clarin.com/economia/firmas-colectivos-pagaran-aguinaldos-6-cuotas-tensa-crisis-subsidios-transporte_0_5izZIqNXZl.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 11:41:37"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-19",
-      "fuentes": [
-        "Infobae",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "trump-maduro:_negociaciones_secretas_20251119",
-      "tema": "Trump-Maduro: Negociaciones Secretas",
-      "tema_normalizado": "trump-maduro: negociaciones secretas",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos, bajo la administración de Donald Trump, desestimó una propuesta secreta de Nicolás Maduro para dejar la presidencia de Venezuela.\n• Maduro habría ofrecido una transición de dos a tres años, pero Washington consideró inaceptable cualquier demora, intensificando la presión militar.\n\n🔍 **Datos clave:**\n• **Actores principales:** Donald Trump (EEUU) y Nicolás Maduro (Venezuela).\n• **Plazo de transición propuesto:** De 2 a 3 años para la salida de Maduro del poder.\n• **Operación militar en el Caribe:** \"Lanza del Sur\", con despliegue de 15.000 soldados y el mayor portaaviones de EEUU.\n• **Ataques marítimos:** Al menos 21 ataques a embarcaciones, resultando en aproximadamente 83 muertes.\n• **Designación oficial:** El \"Cartel de los Soles\" como organización terrorista por el Departamento de Estado.\n• **Fuente principal:** Revelaciones del New York Times, citando a funcionarios anónimos.\n\n⚡ **Desarrollo:**\n• Las negociaciones informales se llevaron a cabo a través de contactos indirectos, autorizados por el entonces presidente Trump.\n• Maduro manifestó disposición a facilitar el acceso de empresas energéticas estadounidenses a las vastas reservas petroleras de Venezuela.\n• Pese a estas conversaciones, la Casa Blanca rechazó firmemente el plan de Maduro, insistiendo en su salida inmediata.\n• Simultáneamente, Trump dio luz verde a la CIA para preparar acciones encubiertas en Venezuela, buscando \"preparar el campo de batalla\" para futuras operaciones.\n• El Pentágono elaboraba listas de objetivos, incluyendo instalaciones vinculadas al narcotráfico y unidades militares cercanas a Maduro, para posibles ataques.\n• La escalada militar incluyó ataques a embarcaciones, que EEUU justificó como parte de la lucha contra el narcotráfico, aunque fueron criticados por su legalidad.\n• La designación del \"Cartel de los Soles\" como terrorista fue una medida adicional para incrementar la presión sobre el gobierno venezolano.\n• Trump, aunque públicamente se enfocaba en la migración y las drogas, en privado debatía sobre el acceso de compañías estadounidenses al petróleo venezolano.\n\n💡 **¿Por qué importa?**\n• Las revelaciones exponen un canal diplomático secreto entre adversarios, que coexistía con una estrategia de \"máxima presión\" y escalada militar.\n• Muestran la compleja dinámica de la política exterior de EEUU, que busca influir en el cambio de régimen mientras considera intereses económicos estratégicos como el petróleo.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "EEUU descartó una oferta de Nicolás Maduro para dejar el poder en Venezuela",
-          "link": "https://www.ambito.com/mundo/eeuu-descarto-una-oferta-nicolas-maduro-dejar-el-poder-venezuela-n6215608",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 14:24:00"
-        },
-        {
-          "titulo": "El New York Times reveló detalles de la negociación secreta entre Donald Trump y Nicolás Maduro",
-          "link": "https://www.minutouno.com/mundo/el-new-york-times-revelo-detalles-la-negociacion-secreta-donald-trump-y-nicolas-maduro-n6215537",
+          "titulo": "Coimas en la ANDIS: Diego Spagnuolo evitó responder preguntas y desestimó las acusaciones",
+          "link": "https://www.minutouno.com/politica/coimas-la-andis-diego-spagnuolo-evito-responder-preguntas-y-desestimo-las-acusaciones-n6215688",
           "fuente": "Minuto1",
-          "fecha": "2025-11-19 12:25:00"
+          "fecha": "2025-11-19 15:41:00"
+        },
+        {
+          "titulo": "ANDIS: Diego Spagnuolo rechazó las acusaciones y se negó a responder preguntas",
+          "link": "https://www.ambito.com/politica/andis-diego-spagnuolo-declara-la-causa-el-supuesto-pedidos-coimas-n6215449",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 15:15:00"
+        },
+        {
+          "titulo": "El abogado de Diego Spagnuolo confirmó que su defendido prestará hoy declaración indagatoria",
+          "link": "https://www.minutouno.com/politica/el-abogado-diego-spagnuolo-confirmo-que-su-defendido-prestara-hoy-declaracion-indagatoria-n6215614",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 13:59:00"
+        },
+        {
+          "titulo": "Diego Spagnuolo declaró en Comodoro Py por las coimas en ANDIS, presentó nuevos argumentos de defensa y descartó acogerse como arrepentido",
+          "link": "https://www.perfil.com/noticias/politica/diego-spagnuolo-llego-a-comodoro-py-para-ser-interrogado-por-las-coimas-en-andis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 13:09:19"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-19",
       "fuentes": [
+        "La Nación",
         "Ámbito Financiero",
+        "Perfil",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -365,36 +288,73 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "precios:_aumento_carne_20251119",
-      "tema": "Precios: Aumento Carne e Inflación",
-      "tema_normalizado": "precios: aumento carne e inflacion",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Los precios de la carne vacuna están experimentando fuertes aumentos, impulsados por factores de mercado y exportación.\n*   Estas subas, junto con el ajuste en el transporte público, están presionando al alza el índice de inflación de noviembre.\n*   Se anticipa que la inflación mensual podría superar el 2.3% de octubre, llegando hasta el 2.5% este mes.\n\n🔍 **Datos clave:**\n*   **Inflación proyectada noviembre:** 2.5% (consultora EcoGo).\n*   **Aumento boleto colectivo AMBA:** 10% (nacional), 1er incremento desde julio para líneas interjurisdiccionales.\n*   **Aumento hacienda en Cañuelas:** 15% promedio en 2 semanas; la media res subió 17% ($7.500 a $8.800) desde las elecciones.\n*   **Aumento carne en carnicerías:** entre 15% y 25% desde septiembre/octubre, según el corte y la zona.\n*   **Exportaciones adicionales a EEUU:** Se estiman 50.000 toneladas extra, sumando a las 35.000 anuales.\n*   **Proyección inflación carne (Indec):** 6-7% o más en diciembre (Víctor Tonelli).\n\n⚡ **Desarrollo:**\n*   El incremento de la carne se explica por una menor oferta de hacienda, problemas climáticos que demoraron la salida de animales y una fuerte presión exportadora.\n*   Los productores están reteniendo ganado, especialmente el novillo pesado, ante la expectativa de mayores ventas a Estados Unidos, lo que reduce la disponibilidad para el consumo interno.\n*   La reapertura del mercado de Estados Unidos genera un incentivo exportador que podría elevar los precios de algunos cortes consumidos en Argentina, con la excepción del asado.\n*   Consultoras como EcoGo y Econviews detectaron un fuerte ritmo de suba en alimentos y bebidas, proyectando un 3.2% de aumento para alimentos consumidos en el hogar en noviembre.\n*   Los aumentos en el transporte público (boleto de colectivo) y en cortes de carne son rubros sensibles que impactan directamente en el cálculo de la inflación general.\n*   Expertos como Leonardo Rafael y Sergio Pedace (Camya) confirman estas subas, indicando que el kilo de milanesas puede superar los $16.000, y en algunas zonas hasta $17.500.\n*   Aunque el consumo aún no absorbe todo el incremento, se espera que la demanda en las fiestas de fin de año impulse un traslado total de estas subas a los precios al consumidor.\n\n💡 **¿Por qué importa?**\n*   El sostenido aumento de la carne y el transporte impacta directamente en el bolsillo de los consumidores, erosionando su poder adquisitivo y el costo de la canasta básica.\n*   Estos incrementos tienen un peso significativo en el índice de inflación general, haciendo que el costo de vida siga en ascenso y anticipando un cierre de año con presiones inflacionarias.",
-      "cantidad_noticias": 3,
+      "tema_id": "medidas_y_reformas_20251119",
+      "tema": "Medidas y reformas del Gobierno Milei",
+      "tema_normalizado": "medidas y reformas del gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Javier Milei está impulsando un ambicioso paquete de medidas y reformas, enfocadas en la desregulación económica, la reducción del gasto público y la transformación del marco laboral.\n*   Estas acciones incluyen la negociación del Presupuesto 2026, la reestructuración de los Medios Públicos y una reforma laboral que busca impactar en el sector de plataformas digitales.\n*   Las iniciativas han generado fuerte controversia, con sindicatos como ATE realizando paros y movilizaciones en rechazo a los ajustes y la reforma laboral propuesta.\n\n🔍 **Datos clave:**\n*   **Presupuesto 2026:** Primera ley de este tipo impulsada por el Gobierno de Milei, con expectativa de aprobación en febrero próximo.\n*   **Medios Públicos:** Plan de retiro voluntario para reducir la planta de aproximadamente 2400 trabajadores (1300 en TVP, 1100 en Radio Nacional).\n*   **Reforma Laboral:** Uno de los objetivos es abordar la informalidad que afecta al 50% de la fuerza laboral argentina, con foco en plataformas como Rappi y Uber.\n*   **Protestas ATE:** Lideradas por Rodolfo Aguiar, el sindicato realizó paros nacionales, como el del 19 de noviembre, contra la reforma laboral.\n*   **Cine.Ar:** Las plataformas fueron devueltas al INCAA mediante el Decreto 821/2025 para ser licitadas al sector privado.\n\n⚡ **Desarrollo:**\n*   El Gobierno negocia activamente el Presupuesto 2026 con gobernadores provinciales, quienes buscan fondos para obra pública, mayores transferencias (ATN) y soluciones a deudas previsionales, siendo su apoyo clave para la aprobación legislativa.\n*   En los Medios Públicos, la administración busca modernizar y reducir la estructura, citando la gran diferencia de empleados respecto a empresas privadas similares y analizando la fusión de Radio y Televisión Argentina con Contenidos Artísticos.\n*   La reforma laboral dedica un capítulo específico a la economía de plataformas tecnológicas, buscando establecer reglas claras y de bajo costo que incentiven la formalización y brinden cobertura básica a los trabajadores independientes.\n*   El Ministerio de Seguridad, bajo Patricia Bullrich, aplicó el \"protocolo antipiquetes\" durante las protestas de ATE y otras organizaciones que reclamaban contra la reforma laboral, despidos y la pérdida del poder adquisitivo (calculado en 32% en 23 meses).\n*   Se generó una denuncia judicial contra Rodolfo Aguiar de ATE por sus declaraciones sobre \"provocar la crisis del Gobierno\", mientras el sindicato denuncia el descuento de días de paro como una \"amenaza ilegal\" e inconstitucional.\n*   Una de las medidas de gestión recientes fue la reversión del traspaso de las plataformas de cine (Cine.Ar) a la Secretaría de Comunicación, devolviéndolas al INCAA con el objetivo de privatizar su operación.\n*   El Gobierno plantea siete reformas estructurales (fiscal, tributaria, laboral, previsional y federal, entre otras) para fortalecer la economía, reducir la deuda pública y reconstruir las reservas internacionales.\n\n💡 **¿Por qué importa?**\n*   Estas reformas representan un cambio profundo en el modelo económico y de gestión estatal, con implicaciones directas en la estabilidad fiscal, el mercado laboral y la relación del gobierno con los diversos sectores de la sociedad.\n*   La implementación de estas medidas generará un impacto significativo en la vida cotidiana de los ciudadanos y en la dinámica política del país, marcando la dirección de la administración de Javier Milei.",
+      "cantidad_noticias": 9,
       "noticias": [
         {
-          "titulo": "Inflación: aumentos del colectivo y la carne meten presión a los precios y el índice podría llegar al 2,5% este mes",
-          "link": "https://www.clarin.com/economia/inflacion-aumentos-colectivo-carne-meten-presion-precios-indice-podria-llegar-25-mes_0_nxv2cNobIA.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 13:53:04"
-        },
-        {
-          "titulo": "Aumentó la hacienda en Cañuelas: las razones detrás del destape del precio de la carne",
-          "link": "https://www.iprofesional.com/economia/442295-aumento-la-hacienda-en-canuelas-las-razones-detras-del-destape-del-precio-de-la-carne",
+          "titulo": "Avanzan las negociaciones del Gobierno por el Presupuesto 2026: qué reclaman las provincias",
+          "link": "https://www.iprofesional.com/politica/442254-avanzan-negociaciones-gobierno-javier-milei-por-presupuesto-2026-que-piden-provincias",
           "fuente": "iProfesional",
-          "fecha": "2025-11-19 13:10:00"
+          "fecha": "2025-11-19 18:00:00"
         },
         {
-          "titulo": "La carne vuelve a subir hacia fin de año y ya acumula fuertes aumentos por menor oferta y presión exportadora",
-          "link": "https://www.ambito.com/economia/la-carne-vuelve-subir-fin-ano-y-ya-acumula-fuertes-aumentos-menor-oferta-y-presion-exportadora-n6215480",
+          "titulo": "El Gobierno prepara un retiro voluntario en los Medios Públicos para reducir la planta de empleados",
+          "link": "https://www.infobae.com/politica/2025/11/19/el-gobierno-prepara-un-retiro-voluntario-en-los-medios-publicos-para-reducir-la-planta-de-empleados/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:58:22"
+        },
+        {
+          "titulo": "La policía aplicó parcialmente el protocolo antipiquetes y hubo cortes alrededor del Congreso",
+          "link": "https://www.infobae.com/politica/2025/11/19/la-policia-aplica-el-protocolo-antipiquetes-frente-a-la-protesta-de-estatales-jubilados-y-universitarios/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:27:19"
+        },
+        {
+          "titulo": "Reforma laboral: cambios clave para trabajadores de Rappi, Pedidos Ya, Uber y otras plataformas",
+          "link": "https://www.iprofesional.com/economia/442315-reforma-laboral-cambios-clave-para-trabajadores-uber-rappi-pedidos-ya-y-otras-plataformas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 17:25:00"
+        },
+        {
+          "titulo": "Las siete reformas que necesita la Argentina para aprovechar la oportunidad",
+          "link": "https://www.lanacion.com.ar/economia/las-siete-reformas-que-necesita-la-argentina-para-aprovechar-la-oportunidad-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 17:15:29"
+        },
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 17:15:00"
+        },
+        {
+          "titulo": "Tras el paro de ATE, Rodolfo Aguiar se defendió de la denuncia de Bullrich y apuntó contra la reforma laboral",
+          "link": "https://www.lanacion.com.ar/politica/tras-el-paro-de-ate-rodolfo-aguiar-se-defendio-de-la-denuncia-de-bullrich-y-apunto-contra-la-reforma-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 17:09:38"
+        },
+        {
+          "titulo": "El Gobierno descontará el día a quienes participaron del paro de ATE y Aguiar denunció una “amenaza ilegal”",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-descontara-el-dia-a-quienes-participen-del-paro-de-ate-y-aguiar-denuncia-una-amenaza-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:12:25"
+        },
+        {
+          "titulo": "Paro de ATE contra la reforma laboral: el Gobierno advirtió que le descontará el día a los estatales que adhieran",
+          "link": "https://www.ambito.com/politica/paro-ate-contra-la-reforma-laboral-el-gobierno-advirtio-que-le-descontara-el-dia-los-estatales-que-adhieran-n6215618",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 11:16:00"
+          "fecha": "2025-11-19 14:02:00"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-19",
       "fuentes": [
+        "La Nación",
         "Ámbito Financiero",
-        "Clarín",
+        "Infobae",
         "iProfesional"
       ],
       "es_tema_nuevo": true,
@@ -403,30 +363,323 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "decomiso_bienes_familia_20251119",
-      "tema": "Decomiso Bienes Familia Kirchner",
-      "tema_normalizado": "decomiso bienes familia kirchner",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina ha ordenado el decomiso masivo de bienes que afectan directamente a la familia Kirchner.\n• Esta medida se enmarca en la \"Causa Vialidad\", que condenó a la expresidenta Cristina Kirchner por administración fraudulenta de fondos públicos.\n• El objetivo es recuperar el dinero que se considera fue desviado del Estado argentino.\n\n🔍 **Datos clave:**\n• **Monto del decomiso:** $684.990.350.139,86 (cifra actualizada por peritos).\n• **Causa judicial:** \"Causa Vialidad\" (fraude en la adjudicación de obras públicas).\n• **Tribunal a cargo:** Tribunal Oral en lo Criminal Federal 2 (TOF 2).\n• **Afectados principales:** Cristina Kirchner, Máximo Kirchner, Florencia Kirchner y el empresario Lázaro Báez.\n• **Fecha de firmeza del monto:** 10 de junio de 2025.\n\n⚡ **Desarrollo:**\n• El decomiso surge de la condena por fraude al Estado, que probó la adjudicación irregular de obras viales con sobreprecios entre 2003 y 2015.\n• Las obras se otorgaron a empresas ligadas a Báez y los Kirchner, manipulando licitaciones y generando un perjuicio económico al Estado.\n• Entre los bienes alcanzados figuran una propiedad en El Calafate, 19 propiedades en Santa Cruz, varios terrenos (incluyendo el Hotel Los Sauces) y todos los activos de empresas como Austral Construcciones S.A.\n• La medida afecta a Máximo y Florencia Kirchner porque algunos de los bienes identificados fueron cedidos a ellos como adelanto de herencia.\n• Florencia Kirchner fue tendencia en redes sociales al ser nombrada titular de algunos bienes siendo adolescente, lo que su defensa desvincula de actividades ilícitas.\n• Ella debió realizar tratamientos por linfedema y trastorno de estrés postraumático, una condición que su madre atribuyó a una \"persecución judicial feroz\".\n• Cristina Kirchner ya fue condenada a seis años de prisión domiciliaria y a la inhabilitación perpetua para ejercer cargos públicos, sentencia ratificada por la Corte Suprema.\n• Si los bienes principales no cubrieran el monto, la Justicia podría avanzar sobre el patrimonio de otros exfuncionarios implicados, como Nelson Periotti y José López.\n\n💡 **¿Por qué importa?**\n• Representa un hito significativo en la recuperación de fondos públicos desviados por casos de corrupción de alto perfil en Argentina.\n• Subraya la rendición de cuentas judicial sobre el patrimonio de exfuncionarios y sus familiares, incluso años después de ocurridos los hechos.",
-      "cantidad_noticias": 2,
+      "tema_id": "balanza_comercial_y_20251119",
+      "tema": "Balanza comercial y actividad económica Argentina",
+      "tema_normalizado": "balanza comercial y actividad economica argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La balanza comercial de Argentina registró un superávit de US$800 millones en octubre de 2025, marcando el vigésimo tercer mes consecutivo con saldo positivo.\n• Sin embargo, este superávit es el más bajo en cinco meses y se redujo en US$112 millones respecto a octubre de 2024.\n• Simultáneamente, la actividad industrial experimentó una caída del 5,3% interanual en octubre, el cuarto descenso consecutivo, con la contracción del sector automotriz como factor principal.\n\n🔍 **Datos clave:**\n• **Superávit comercial de octubre:** US$800 millones.\n• **Superávit acumulado enero-octubre 2025:** US$6.846 millones (menos de la mitad que los US$15.969 millones del mismo período en 2024).\n• **Crecimiento de exportaciones en octubre:** 13,1% (US$7.954 millones), impulsado por un 13,9% en cantidades.\n• **Crecimiento de importaciones en octubre:** 16,9% (US$7.154 millones), impulsado por un 19,7% en cantidades.\n• **Caída de la producción industrial en octubre:** 5,3% interanual.\n\n⚡ **Desarrollo:**\n• El menor superávit comercial se explica por el mayor crecimiento de las importaciones (16,9%) en comparación con las exportaciones (13,1%).\n• Las exportaciones fueron impulsadas principalmente por los productos primarios, que crecieron un 63,8%, destacándose la soja y sus derivados.\n• En las importaciones, sobresalió el aumento de vehículos automotores (69,2%), bienes de consumo (48,8%) y bienes de capital (20%).\n• Argentina registró déficits comerciales significativos con China (US$696 millones) y el Mercosur (US$264 millones) en octubre, aunque mantuvo superávits con otros bloques.\n• La caída de la industria en octubre fue liderada por la contracción del sector automotriz, arrastrando a la baja la actividad general. Algunos sectores como minerales no metálicos y alimentos y bebidas mostraron crecimiento.\n• La preocupación se extiende por cierres de empresas (como Frávega y la autopartista Dana) y potenciales despidos en varios rubros.\n• El sector agropecuario, a pesar de controversias por aumentos impositivos en la provincia de Buenos Aires, reportó que 53 de sus productos tuvieron el mejor desempeño exportador en siete años, sumando casi US$2.400 millones.\n• La cámara de alimentos y bebidas (COPAL) advirtió sobre los altos costos logísticos (40% más que el promedio regional) y la elevada carga tributaria (hasta el 40% de la facturación) como factores que restan competitividad.\n\n💡 **¿Por qué importa?**\n• La reducción del superávit comercial y la desaceleración industrial generan presión sobre las reservas internacionales y la estabilidad económica del país.\n• Estos datos reflejan desafíos estructurales en la economía argentina, como la necesidad de impulsar exportaciones con mayor valor agregado, moderar importaciones no esenciales y mejorar la competitividad de la producción local frente a barreras como la logística y la alta carga impositiva.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "Florencia Kirchner es tendencia en redes porque la alcanzó el decomiso contra Cristina y Máximo",
-          "link": "https://noticias.perfil.com/noticias/politica/florencia-kirchner-es-tendencia-en-redes-porque-la-alcanzo-el-decomiso-contra-cristina-y-maximo.phtml",
+          "titulo": "La balanza comercial registró un superávit de US$ 800 millones según el INDEC",
+          "link": "https://www.perfil.com/noticias/economia/la-balanza-comercial-registro-un-superavit-de-us-800-millones-segun-el-indec.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-19 13:08:33"
+          "fecha": "2025-11-19 17:44:03"
         },
         {
-          "titulo": "Uno por uno, todos los bienes que la Justicia le decomisará a Cristina Kirchner",
-          "link": "https://www.lanacion.com.ar/politica/uno-por-uno-todos-los-bienes-que-la-justicia-le-decomisara-a-cristina-kirchner-nid19112025/",
+          "titulo": "El superávit comercial acumulado es menos de la mitad que en el mismo período de 2024",
+          "link": "https://www.lanacion.com.ar/economia/el-superavit-comercial-acumulado-es-menos-de-la-mitad-que-en-el-mismo-periodo-de-2024-nid19112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-19 12:24:13"
+          "fecha": "2025-11-19 17:39:13"
+        },
+        {
+          "titulo": "La balanza comercial arrojó un superávit de USD 800 millones en octubre, el menor en cinco meses",
+          "link": "https://www.infobae.com/economia/2025/11/19/la-balanza-comercial-arrojo-un-superavit-de-usd-800-millones-en-octubre-el-menor-en-cinco-meses/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:39:03"
+        },
+        {
+          "titulo": "La industria cayó 5,6% en octubre por la contracción del sector automotriz",
+          "link": "https://www.infobae.com/economia/2025/11/19/el-industria-cayo-56-en-octubre-por-la-contraccion-del-sector-automotriz/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:30:23"
+        },
+        {
+          "titulo": "En octubre el superávit comercial llegó a US$ 800 millones, el nivel más bajo en cinco meses",
+          "link": "https://www.clarin.com/economia/octubre-superavit-comercial-llego-us-800-millones-nivel-meses_0_tRrZzLWoox.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 17:04:02"
+        },
+        {
+          "titulo": "“Disparatado”: alerta en el campo bonaerense por un impuesto que Kicillof podría aumentar hasta un 130%",
+          "link": "https://www.lanacion.com.ar/economia/campo/disparatado-alerta-en-el-campo-bonaerense-por-un-impuesto-que-kicillof-podria-aumentar-hasta-un-130-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:57:50"
+        },
+        {
+          "titulo": "Dedicada al langostino: nueva contramarcha para definir el destino de una planta y buques en Puerto Madryn",
+          "link": "https://www.lanacion.com.ar/economia/dedicada-al-langostino-nueva-contramarcha-para-definir-el-destino-de-una-planta-y-buques-en-puerto-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:56:28"
+        },
+        {
+          "titulo": "Ingresaron casi US$2400 millones: 53 productos del agro tuvieron el mejor desempeño exportador de los últimos 7 años",
+          "link": "https://www.lanacion.com.ar/economia/campo/ingresaron-casi-us2400-millones-53-productos-del-agro-tuvieron-el-mejor-desempeno-exportador-de-los-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:15:38"
+        },
+        {
+          "titulo": "“La logística y los impuestos nos ponen en una situación desventajosa”: el diagnóstico de la cámara de alimentos y bebidas ante la \"agresiva\" apertura de mercados",
+          "link": "https://www.clarin.com/rural/logistica-impuestos-ponen-situacion-desventajosa-diagnostico-camara-alimentos-bebidas-agresiva-apertura-mercados_0_BfWk4XzBBe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 15:20:17"
+        },
+        {
+          "titulo": "Frávega cierra sucursal en Temperley y advierten por cientos de despidos",
+          "link": "https://www.perfil.com/noticias/economia/fravega-cierra-sucursal-en-temperley-y-advierten-por-cientos-de-despidos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 14:52:14"
+        },
+        {
+          "titulo": "Una autopartista cerró su planta en San Luis y despidió a 50 operarios sin aviso",
+          "link": "https://www.clarin.com/economia/autopartista-persiana-planta-san-luis-despidio-50-operarios-aviso_0_neJn6QLByf.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 13:24:25"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "violencia_y_crimen_20251119",
+      "tema": "Violencia y crimen organizado en Latinoamérica",
+      "tema_normalizado": "violencia y crimen organizado en latinoamerica",
+      "resumen": "📌 **¿Qué está pasando?**\n• La violencia y el crimen organizado se intensifican en Latinoamérica, evidenciado por ataques armados, reclutamiento de menores y operativos policiales letales contra grupos criminales. Estos eventos afectan gravemente a la población civil y la infraestructura, mientras las autoridades luchan contra la expansión de las redes delictivas.\n• Las noticias recientes muestran un panorama de conflicto constante en países como Brasil, Colombia y México, con cifras alarmantes de víctimas y detenciones.\n\n🔍 **Datos clave:**\n• **Río de Janeiro, Brasil (19 de noviembre):** Operativo policial contra el Comando Vermelho (CV) con 2 muertos, 17 detenidos y el rescate de un secuestrado. Previamente, un megaoperativo de fines de octubre dejó 132 muertos.\n• **Cauca, Colombia (2025):** 233 niños han sido reclutados por grupos armados (como disidencias de \"Iván Mordisco\") solo este año; más de 600 entre 2022 y 2024. 15 menores han muerto en bombardeos militares en 2025.\n• **Suárez, Cauca, Colombia (19 de noviembre):** Un ataque con explosivos a una estación de policía causó la muerte de una civil ecuatoriana y dejó herido a un bebé.\n• **Michoacán, México (Noviembre):** Detención de Jorge Armando “N” (alias “El Licenciado”) el 18 de noviembre, autor intelectual del homicidio del ex-alcalde Carlos Manzo, vinculado al Cártel Jalisco Nueva Generación (CJNG). Dos ejecutores (Ramiro “N” y Fernando Josué “N”) fueron encontrados muertos el 10 de noviembre.\n• **Antioquia, Colombia (Madrugada del miércoles):** La vía Medellín-Costa Atlántica fue dinamitada en Yarumal, dejando un enorme cráter y paralizando el transporte de carga; el ELN es el principal sospechoso.\n\n⚡ **Desarrollo:**\n• Las organizaciones criminales, como el Comando Vermelho en Brasil y el CJNG en México, demuestran sofisticación en sus operaciones, utilizando desde drones y cámaras de monitoreo hasta células complejas para coordinar crímenes y expandir su control territorial.\n• En Colombia, grupos armados ilegales como las disidencias de las Farc y el ELN continúan generando violencia, afectando a la población civil con ataques terroristas a infraestructura y el inhumano reclutamiento forzado de niños para la guerra.\n• Los operativos policiales y militares, aunque buscan desarticular estas redes, a menudo resultan en confrontaciones violentas con un alto costo humano, incluyendo muertes de civiles y menores de edad.\n• La violencia no solo se limita a enfrentamientos directos, sino que también incluye asesinatos selectivos de figuras públicas y ataques a infraestructura clave, buscando generar terror e impacto económico y social.\n• La protección de los derechos humanos y el derecho internacional humanitario se ven constantemente vulnerados, especialmente el de los niños y la población civil, que quedan atrapados en el fuego cruzado y las consecuencias de estos conflictos.\n\n💡 **¿Por qué importa?**\n• La persistencia y escalada de la violencia y el crimen organizado en Latinoamérica representa una grave amenaza para la seguridad, estabilidad y desarrollo social de la región.\n• Estos eventos socavan el estado de derecho, generan desplazamiento, trauma social y requieren de una respuesta integral y coordinada por parte de los gobiernos para proteger a sus ciudadanos y restaurar la paz.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "La policía de Río suma dos muertos tras operativo anti-narco más letal de su historia",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-policia-de-rio-suma-dos-muertos-tras-operativo-anti-narco-mas-letal-de-su-historia-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 18:02:14"
+        },
+        {
+          "titulo": "Una ciudadana ecuatoriana murió en medio de atentado contra la estación de Policía en Suárez, Cauca: su bebé resultó herido",
+          "link": "https://www.infobae.com/colombia/2025/11/19/una-ciudadana-ecuatoriana-murio-en-medio-de-atentado-contra-la-estacion-de-policia-en-suarez-cauca-su-bebe-resulto-herido/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:55:46"
+        },
+        {
+          "titulo": "La crueldad de la guerra, más de 200 niños han sido reclutados por grupos armados durante 2025 en Cauca",
+          "link": "https://www.infobae.com/colombia/2025/11/19/la-crueldad-de-la-guerra-mas-de-200-ninos-han-sido-reclutados-por-grupos-armados-durante-2025-en-cauca/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:29:57"
+        },
+        {
+          "titulo": "Caso Carlos Manzo: así sería la estructura criminal detrás del homicidio del expresidente de Uruapan, Michoacán",
+          "link": "https://www.infobae.com/mexico/2025/11/19/caso-carlos-manzo-asi-seria-la-estructura-criminal-detras-del-homicidio-del-expresidente-de-uruapan-michoacan/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:24:03"
+        },
+        {
+          "titulo": "Volaron con explosivos la vía Medellín-Costa Atlántica: autoridades restringieron el paso por el enorme cráter",
+          "link": "https://www.infobae.com/colombia/2025/11/19/volaron-con-explosivos-la-via-medellin-costa-atlantica-autoridades-restringieron-el-paso-por-el-enorme-crater/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:04:53"
+        },
+        {
+          "titulo": "Harfuch confirma detención del autor intelectual del asesino de Carlos Manzo, estaría ligado al CJNG",
+          "link": "https://www.infobae.com/mexico/2025/11/19/harfuch-confirma-detencion-del-autor-intelectual-del-asesino-de-carlos-manzo-estaria-ligado-al-cjng/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:01:49"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "designaciones_y_bloques_20251119",
+      "tema": "Designaciones y bloques en el Congreso",
+      "tema_normalizado": "designaciones y bloques en congreso",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Congreso argentino se encuentra en un periodo clave de redefinición de sus bancas y designaciones de nuevos legisladores.\n*   En el Senado, la Comisión de Asuntos Constitucionales rechazó el pliego de la senadora electa Lorena Villaverde (LLA) por acusaciones relacionadas con narcotráfico, dejando su jura pendiente de votación en el recinto.\n*   En la Cámara de Diputados, La Libertad Avanza (LLA) ha sumado nuevos legisladores, lo que la posiciona cerca de desplazar a Unión por la Patria (UP) como primera minoría.\n\n🔍 **Datos clave:**\n*   **Lorena Villaverde:** Senadora electa por Río Negro (La Libertad Avanza), cuyo diploma fue rechazado en comisión.\n*   **12 de 19 firmas:** Votos en contra de Villaverde en la Comisión de Asuntos Constitucionales del Senado.\n*   **3 diputados \"radicales peluca\":** Mariano Campero (Tucumán), Luis Picat (Córdoba) y Federico Tournier (Corrientes), que se unieron a La Libertad Avanza.\n*   **91 bancas:** Nuevo número estimado de escaños para La Libertad Avanza en Diputados tras las incorporaciones.\n*   **92 bancas:** Nuevo número estimado de escaños para Unión por la Patria en Diputados tras las fugas reportadas.\n*   **10 de diciembre:** Fecha de jura de los nuevos legisladores, donde se definirán las composiciones finales.\n\n⚡ **Desarrollo:**\n*   La Comisión de Asuntos Constitucionales del Senado dictaminó el rechazo del título de Lorena Villaverde, alegando su \"falta de idoneidad moral\" por antecedentes judiciales en EE.UU. por tráfico de drogas y vínculos con una causa de narcotráfico.\n*   Este dictamen de rechazo, impulsado principalmente por Unión por la Patria, no tiene fuerza dispositiva y la decisión final sobre la asunción de Villaverde se tomará en el pleno del Senado la semana siguiente.\n*   Patricia Bullrich, ministra de Seguridad, presentó impugnaciones contra los senadores electos Jorge Capitanich y Martín Soria (UP) minutos antes de la reunión de comisión, pero estas no prosperaron.\n*   En Diputados, La Libertad Avanza fortaleció su bloque con la incorporación formal de tres legisladores de la \"Liga del Interior\", quienes previamente se habían distanciado de la UCR.\n*   Este movimiento es crucial, ya que acerca a LLA a la primera minoría en la Cámara Baja, lo que impacta directamente en el reparto de la representación en las comisiones legislativas.\n*   Unión por la Patria ha experimentado varias fugas en su bloque, con diputados de San Luis y Catamarca anunciando su escisión, reduciendo su número y poniendo en riesgo su posición de primera minoría.\n*   La Secretaría General de la Presidencia, Karina Milei, y el presidente de la Cámara de Diputados, Martín Menem, han sido figuras clave en la estrategia de expansión y consolidación de LLA en el Congreso.\n\n💡 **¿Por qué importa?**\n*   La conformación de los bloques y la validación de los pliegos de los legisladores son fundamentales para la gobernabilidad, ya que determinan la capacidad del oficialismo para aprobar sus proyectos y llevar adelante su agenda.\n*   Obtener la primera minoría en la Cámara de Diputados otorga una ventaja significativa en el control de las comisiones, que son el motor del trabajo legislativo, y es clave para el éxito de las reformas propuestas por el Presidente.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Por mayoría, la comisión de Asuntos Constitucionales del Senado rechazó el pliego de Lorena Villaverde",
+          "link": "https://www.infobae.com/politica/2025/11/19/por-mayoria-la-comision-de-asuntos-constitucionales-del-senado-rechazo-el-pliego-de-lorena-villaverde/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:59:34"
+        },
+        {
+          "titulo": "Congreso: proponen aclarar los requisitos para el nombramiento excepcional de docentes de universidades públicas",
+          "link": "https://www.infobae.com/peru/2025/11/19/congreso-proponen-aclarar-cuales-son-los-requisitos-para-que-nombramiento-excepcional-de-docentes-de-universidades-publicas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:05:20"
+        },
+        {
+          "titulo": "Senado: rechazan en comisión el ingreso de la libertaria Lorena Villaverde, pero su suerte se define la semana próxima en el recinto",
+          "link": "https://www.lanacion.com.ar/politica/senado-rechazan-en-comision-el-ingreso-de-la-libertaria-loreno-villaverde-pero-su-suerte-se-define-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:45:39"
+        },
+        {
+          "titulo": "Diputados: La Libertad Avanza suma tres radicales “peluca” y queda al borde de arrebatarle la primera minoría al PJ",
+          "link": "https://www.lanacion.com.ar/politica/diputados-la-libertad-avanza-suma-tres-radicales-peluca-y-queda-al-borde-de-arrebatarle-la-primera-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:40:23"
+        },
+        {
+          "titulo": "La Libertad Avanza sumó a tres diputados radicales a su bloque: está a una banca del peronismo",
+          "link": "https://www.minutouno.com/politica/la-libertad-avanza-sumo-tres-diputados-radicales-su-bloque-esta-una-banca-del-peronismo-n6215673",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 15:15:00"
+        },
+        {
+          "titulo": "La oposición rechazó el diploma de Villaverde y su futuro se define en el recinto",
+          "link": "https://www.ambito.com/politica/la-oposicion-rechazo-el-diploma-villaverde-y-su-futuro-se-define-el-recinto-n6215605",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 15:09:00"
+        },
+        {
+          "titulo": "Milei suma diputados: tres radicales se pasaron al bloque libertario que pelea la primera minoría con el kirchnerismo",
+          "link": "https://www.clarin.com/politica/milei-suma-diputados-radicales-pasaron-bloque-libertario-pelea-primera-minoria-kirchnerismo_0_bzwTt1rRjv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 13:35:02"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-19",
       "fuentes": [
-        "Perfil",
+        "Ámbito Financiero",
+        "Infobae",
+        "Minuto1",
+        "Clarín",
         "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tensiones_y_conflictos_20251119",
+      "tema": "Tensiones y conflictos geopolíticos globales",
+      "tema_normalizado": "tensiones y conflictos geopoliticos globales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mundo experimenta un repunte de tensiones geopolíticas, con ataques vinculados a \"guerra híbrida\" en Europa, escalada de presiones militares en Sudamérica, crisis humanitarias por deportaciones de niños y conflictos armados en Oriente Medio, además de un aumento de la tensión bélica en Asia.\n• Diversos actores estatales y no estatales están involucrados, empleando desde sabotajes hasta despliegues militares y presiones diplomáticas, impactando la seguridad global y la estabilidad regional.\n\n🔍 **Datos clave:**\n• **Polonia:** 16 de noviembre de 2025, ataque ferroviario en Mika; Primer Ministro Donald Tusk acusa a Rusia.\n• **Venezuela:** Presidente Donald Trump (EE. UU.) intensifica presión sobre Nicolás Maduro; operación “Lanza del Sur” con 15.000 soldados estadounidenses en el Caribe.\n• **Ucrania:** 19.546 niños oficialmente registrados como deportados o trasladados forzosamente por Rusia; Presidente Volodimir Zelensky pidió al Vaticano formalizar su mediación.\n• **Israel/Líbano:** 14 personas murieron en Líbano en 24 horas por ataques israelíes; conflicto iniciado el 8 de octubre de 2023.\n• **China/Japón:** Declaraciones de la ministra japonesa Sanae Takaichi sobre una posible respuesta militar si China ataca Taiwán; Taiwán está a ~100 km de la isla japonesa más cercana.\n\n⚡ **Desarrollo:**\n• **Guerra Híbrida en Europa:** Polonia acusará a dos ucranianos por un ataque ferroviario en Varsovia, vinculándolos a servicios secretos rusos y calificándolo de sabotaje terrorista. La UE y la OTAN analizan reforzar la protección de infraestructuras críticas ante estas tácticas.\n• **Presión de EE. UU. en Venezuela:** Estados Unidos, bajo la administración Trump, rechaza la oferta de Nicolás Maduro de dejar el poder en 2-3 años y aprueba acciones encubiertas de la CIA, además de planear posibles ataques militares. Maduro ha ofrecido acceso a las reservas petroleras venezolanas.\n• **Crisis Humanitaria en Ucrania:** Ucrania busca que el Vaticano formalice una plataforma para negociar con Rusia el retorno de miles de niños y civiles deportados. La falta de formalización permite a Rusia ignorar las demandas ucranianas.\n• **Escalada en Oriente Medio:** Israel ordenó evacuaciones en el sur del Líbano y escaló ataques contra objetivos de Hezbolá y Hamás, causando numerosas víctimas civiles. EE. UU. presiona al Líbano por el desarme de facciones.\n• **Tensión en Asia Oriental:** Las declaraciones de una ministra japonesa sobre una posible respuesta militar ante una agresión china a Taiwán han elevado la tensión, llevando a alertas de seguridad para ciudadanos y movilizaciones militares.\n\n💡 **¿Por qué importa?**\n• Estos eventos demuestran un aumento de la inestabilidad global, con la proliferación de tácticas de \"guerra híbrida\" y el riesgo de escalada en múltiples frentes.\n• Subrayan la interconexión de las crisis, afectando la seguridad regional, las relaciones internacionales y provocando graves consecuencias humanitarias.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Polonia acusará a dos ucranianos por el ataque ferroviario mientras la Unión Europea y Londres condenaron el hecho",
+          "link": "https://www.infobae.com/america/mundo/2025/11/19/polonia-acusara-a-dos-ucranianos-por-el-ataque-ferroviario-mientras-la-union-europea-y-londres-condenaron-el-hecho/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:27:02"
+        },
+        {
+          "titulo": "El Pentágono analiza posibles ataques en Venezuela, pero Trump mantiene abierta una posible salida diplomática",
+          "link": "https://www.lanacion.com.ar/estados-unidos/el-pentagono-analiza-posibles-ataques-en-venezuela-pero-trump-mantiene-abierta-una-posible-salida-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 17:24:42"
+        },
+        {
+          "titulo": "Ucrania pidió al Vaticano formalizar su rol como mediador para el retorno de niños deportados por Rusia",
+          "link": "https://www.infobae.com/america/mundo/2025/11/19/ucrania-pidio-al-vaticano-formalizar-su-rol-como-mediador-para-el-retorno-de-ninos-deportados-por-rusia/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 17:23:22"
+        },
+        {
+          "titulo": "Israel ordena evacuaciones antes de nuevos ataques en Líbano y crece la controversia por el presunto uso de municiones de racimo",
+          "link": "https://www.lanacion.com.ar/el-mundo/israel-ordena-evacuaciones-antes-de-nuevos-ataques-en-libano-y-crece-la-controversia-por-el-presunto-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 16:12:08"
+        },
+        {
+          "titulo": "Qué pasa entre Japón y China y por qué se elevó la tensión bélica",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-pasa-entre-japon-y-china-y-por-que-se-elevo-la-tension-belica-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 15:41:19"
+        },
+        {
+          "titulo": "EEUU descartó una oferta de Nicolás Maduro para dejar el poder en Venezuela",
+          "link": "https://www.ambito.com/mundo/eeuu-descarto-una-oferta-nicolas-maduro-dejar-el-poder-venezuela-n6215608",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 14:24:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "implicaciones_de_jeffrey_20251119",
+      "tema": "Implicaciones de Jeffrey Epstein en Harvard",
+      "tema_normalizado": "implicaciones de jeffrey epstein en harvard",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Universidad de Harvard ha reabierto una investigación sobre las conexiones entre su expresidente, Larry Summers, y Jeffrey Epstein.\n• Esta decisión surge tras la divulgación de documentos que evidencian la relación de Summers con Epstein, incluso después de la condena del financiero en 2008.\n\n🔍 **Datos clave:**\n• **Larry Summers:** Ex-presidente de Harvard (2001-2006) y ex-Secretario del Tesoro de Bill Clinton (1999-2001).\n• **Jeffrey Epstein:** Delincuente sexual convicto, fallecido en 2019.\n• **40+ visitas:** Número de veces que Epstein visitó Harvard después de su condena de 2008, según una revisión de 2020.\n• **Enero 2024:** Summers anunció que se retiraría de sus compromisos públicos, incluyendo su puesto en el consejo de administración de OpenAI.\n• **427 votos:** La Cámara Baja de EEUU aprobó con esta mayoría la desclasificación de archivos sobre el caso Epstein.\n\n⚡ **Desarrollo:**\n• La investigación actual de Harvard se centra en correos electrónicos que muestran una relación amistosa entre Summers y Epstein, mucho después de la condena de este último por delitos sexuales en 2008.\n• Larry Summers, quien también es profesor en la universidad, expresó su arrepentimiento y vergüenza por su comunicación con Epstein, anunciando su retiro temporal de actividades públicas.\n• Una revisión anterior de Harvard en 2020 reveló que Epstein tuvo acceso irrestricto al campus y una oficina en un centro de investigación, lo que resultó en una prohibición de dos años para el profesor que se la proporcionó.\n• La Universidad ha declarado que revisará toda la información relacionada con individuos de Harvard incluidos en los documentos de Epstein para determinar qué acciones son necesarias.\n• La desclasificación de los archivos del caso Epstein fue impulsada por el Congreso de EEUU, con una abrumadora mayoría de 427 votos a favor en la Cámara de Representantes.\n\n💡 **¿Por qué importa?**\n• El caso pone de relieve la implicación de una institución de prestigio mundial como Harvard en el escándalo de Jeffrey Epstein, generando cuestionamientos sobre la rendición de cuentas.\n• Subraya la importancia de la transparencia y la ética en las relaciones de figuras públicas y académicas con individuos con historiales delictivos graves.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El caso del pedófilo Jeffrey Epstein acorrala a Larry Summer, ex ministro de Economía de Clinton y presidente de Harvard",
+          "link": "https://www.clarin.com/mundo/caso-pedofilo-jeffrey-epstein-acorrala-larry-summer-ex-ministro-economia-clinton-presidente-harvard_0_US6F1EOgoq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 16:07:12"
+        },
+        {
+          "titulo": "La Universidad de Harvard investigará a su expresidente tras ser mencionado en los archivos de Jeffrey Epstein",
+          "link": "https://www.ambito.com/mundo/la-universidad-harvard-investigara-su-expresidente-ser-mencionado-los-archivos-jeffrey-epstein-n6215612",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 14:06:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "oferta_de_de_20251119",
+      "tema": "Oferta de De Narváez por Carrefour",
+      "tema_normalizado": "oferta de de narvaez por carrefour",
+      "resumen": "📌 **¿Qué está pasando?**\n• El grupo GDN, liderado por Francisco de Narváez, presentó una oferta de US$ 1.000 millones para adquirir Carrefour Argentina.\n• Esta propuesta es una \"oferta final\" condicionada a ajustes tras la auditoría, y se encuentra en evaluación por la casa matriz de Carrefour en París.\n• De Narváez busca consolidar su posición como líder del sector minorista en Argentina, unificando sus operaciones actuales con las de Carrefour.\n\n🔍 **Datos clave:**\n• **Monto de la oferta:** US$ 1.000 millones\n• **Socios de la oferta:** GDN (60%) y L Catterton (40%)\n• **Otros postores finalistas:** Grupo Coto y Klaff Realty (fondo estadounidense)\n• **Empleados Carrefour Argentina:** Aproximadamente 17.000\n• **Empleados totales (GDN + Carrefour):** Cerca de 39.000\n• **Sucursales totales (GDN + Carrefour):** Alrededor de 802 (709 de Carrefour + 93 de Changomás)\n• **Participación de mercado proyectada:** Cerca del 29% del retail nacional\n• **Banco a cargo de la venta:** Deutsche Bank\n• **Plazo de ofertas:** Venció el martes a las 17 hs de Nueva York\n• **Cierre estimado del acuerdo:** Antes de fin de año\n• **Cierre legal de la operación:** Principios de 2026\n\n⚡ **Desarrollo:**\n• GDN, liderado por Francisco de Narváez, realizó una oferta formal de US$ 1.000 millones por la totalidad de Carrefour Argentina, incluyendo sus sucursales y su banco.\n• La propuesta es conjunta con L Catterton, el mayor fondo global de inversiones en consumo, con quien De Narváez ya es socio en marcas de indumentaria como Caro Cuore y Rapsodia.\n• De Narváez obtuvo liquidez para esta operación al vender su cadena de supermercados Ta-Ta en Uruguay al grupo paraguayo Vierci.\n• La casa matriz de Carrefour en París debe decidir entre la oferta de GDN y las de los otros dos finalistas, Coto y Klaff Realty, que también presentaron propuestas.\n• Si la oferta de GDN prospera, el plan es negociar con París para mantener el uso de la marca Carrefour en Argentina, posiblemente bajo un esquema de licencia o franquicia.\n• GDN, que en 2020 adquirió las operaciones locales de Walmart (rebautizadas como Changomás), planea integrar Changomás bajo la marca Carrefour, haciendo desaparecer la primera.\n• La firma del acuerdo se podría concretar antes de fin de año, aunque el cierre legal de la operación y la transferencia del banco (sujeto a aprobación del Banco Central) se extenderían hasta 2026.\n\n💡 **¿Por qué importa?**\n• Esta operación convertiría al grupo de Francisco De Narváez en el líder indiscutible del supermercadismo en Argentina, creando un gigante con cerca del 29% del mercado y empleando a aproximadamente 39.000 personas.\n• La adquisición aseguraría la continuidad de la marca Carrefour en el país bajo una nueva administración local, marcando una de las transacciones empresariales más relevantes del año.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "De Narváez presentó una oferta de US$ 1.000 millones para quedarse con Carrefour Argentina",
+          "link": "https://www.perfil.com/noticias/economia/el-grupo-gdn-presento-una-oferta-de-us1000-millones-para-quedarse-con-carrefour-argentina.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 17:11:00"
+        },
+        {
+          "titulo": "Francisco De Narváez presentó una oferta de US$ 1.000 millones por Carrefour: cuándo podría cerrarse la venta y qué pasará con la cadena",
+          "link": "https://www.clarin.com/economia/francisco-narvaez-presento-oferta-us-1000-millones-carrefour-podria-cerrarse-venta-pasara-cadena_0_x5L42JAjkN.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 14:26:34"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
