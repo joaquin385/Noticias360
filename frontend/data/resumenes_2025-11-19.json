@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-19",
-  "fecha_generacion": "2025-11-19T12:27:17.956906",
+  "fecha_generacion": "2025-11-19T15:18:14.066477",
   "resumenes": {
     "internacional": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 17,
-      "fecha_generacion": "2025-11-19T12:27:12.617533",
+      "resumen": "Las tensiones geopolíticas dominan la escena internacional. El Reino Unido emitió una advertencia a Rusia tras detectar un buque espía cerca de sus aguas territoriales. Simultáneamente, Rusia intensificó sus bombardeos en Ucrania occidental, resultando en múltiples víctimas civiles, una acción que coincidió con la visita de Zelensky a Turquía. En Oriente Medio, Estados Unidos e Israel avanzan en la planificación del futuro de Gaza, un proceso en el que los palestinos no están incluidos. Por otro lado, Israel ordenó la incorporación de jóvenes ortodoxos al Ejército, bajo amenaza de acciones penales. En América Latina, el equipo de Donald Trump endureció su retórica contra Nicolás Maduro, describiéndolo como líder de un \"cártel\" e implicando la consideración de una intervención en Venezuela.\n\nLa política interna de Estados Unidos presenta desarrollos notables. Un juez federal bloqueó el nuevo mapa electoral de Texas, significando un revés para la administración estatal y la campaña de Donald Trump, quien también ha cedido a la presión para promulgar la difusión de los archivos del caso Jeffrey Epstein. Adicionalmente, un alto funcionario de la era Trump anunció un incremento en las redadas migratorias en Nueva York. A nivel estatal, Illinois implementó licencias e identificaciones digitales en iPhones, la Administración de la Seguridad Social (SSA) elevará los requisitos para obtener créditos de trabajo en 2026, y el gobernador de Florida, Ron DeSantis, decretó días feriados adicionales para los trabajadores estatales.\n\nOtros eventos globales relevantes incluyen la trágica muerte de cinco turistas en la Patagonia chilena debido a un temporal severo y la elevación al máximo de la alerta por la violenta erupción del volcán más grande de la Isla de Java en Indonesia. El museo del Louvre, respondiendo a un reciente incidente de robo, anunció la instalación de un centenar de cámaras y un puesto de policía móvil. En el ámbito deportivo, la Concacaf confirmó a sus clasificados y equipos para el repechaje del Mundial 2026. Rafael Grossi, director general de la OIEA, recibió el respaldo de Italia para postularse como nuevo secretario general de la ONU. Finalmente, China inauguró un tren bala de alta velocidad diseñado para fomentar el turismo de esquí, y se reportó sobre el envenenamiento de personas por el reciclaje de plomo en baterías en EE.UU.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-19T15:17:47.364365",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-19T12:27:14.003770",
+      "resumen": "El gobierno de Javier Milei intensifica las negociaciones con gobernadores para asegurar respaldo legislativo al Presupuesto 2026 y proyectos clave como la Boleta Única de Papel, buscando una \"alianza pro-reformas\". El ministro del Interior, Santilli, lidera estos encuentros, mientras Cristina Kirchner monitorea las conversaciones con los gobernadores peronistas para evitar la fractura del PJ. Paralelamente, la reforma laboral propuesta por el gobierno enfrenta la firme resistencia de la CGT, que advierte que \"chocará contra una pared\", en un contexto de paro nacional de ATE.\n\nEn el ámbito judicial, avanza la investigación por presunta corrupción en la Agencia Nacional de Discapacidad (ANDIS), con Diego Spagnuolo y Ornella Calvete señalados por un esquema de sobreprecios y pedidos de coimas. La justicia también procesó a un ex policía por tráfico de influencias, y se busca acelerar el juicio de la causa Cuadernos, donde se definirá el destino de 20 propiedades de Cristina Kirchner. Otros casos incluyen un escándalo por malversación de fondos en el municipio de Pinamar y la liberación de un concejal de La Libertad Avanza (LLA) acusado de violencia de género.\n\nAdicionalmente, se reporta un incipiente y controversial pacto entre Javier Milei y Cristina Kirchner para ampliar la Corte Suprema de Justicia, generando incomodidad política. En otras áreas, el gobierno anunció la privatización de Cine.ar, y un grupo de jubilados marchó a Plaza de Mayo para reclamar un haber mínimo de $1.250.000.",
+      "cantidad_noticias": 26,
+      "fecha_generacion": "2025-11-19T15:18:03.057676",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "resumen": "El mercado cambiario argentino se mantiene bajo tensión, con el dólar blue operando en $1.435 y el oficial en torno a $1.425. Las cotizaciones financieras (MEP y CCL) también son monitoreadas de cerca, mientras el gobierno evalúa intervenciones ante reservas limitadas y brechas crecientes. El dólar mayorista superó los $1.400, reflejando la volatilidad. Regionalmente, el \"súper peso\" mexicano continuó apreciándose frente al dólar estadounidense.\n\nLos mercados financieros globales y locales presentan dinámicas complejas. Wall Street está en alerta ante los resultados de NVIDIA, considerados un indicador clave para el negocio de la IA y la sostenibilidad del rally tecnológico. En Argentina, los bonos en dólares extienden su rally, llevando el riesgo país por debajo de los 600 puntos básicos, mientras las acciones líderes muestran ganancias significativas. Bitcoin se mantiene sobre los u$s90.000 tras una corrección. Expertos proyectan 2026 como el año de la economía real, destacando el potencial argentino, y se observa el lanzamiento de una billetera digital para el financiamiento de PyMEs.\n\nEn el ámbito de precios y salarios, la carne subió un 15%, previéndose mayor presión inflacionaria hacia fin de año. Se cerraron acuerdos paritarios para bancarios y trabajadores de la construcción con incrementos y retroactivos, mientras que el Salario Mínimo se mantiene sin cambios desde hace cuatro meses, a la espera de una nueva definición. El gobierno bonaerense impulsa un aumento extra del 10% en el transporte. ARBA aplicó una quinta cuota del Impuesto Inmobiliario para propiedades de alta valuación. La AFA anunció la tokenización de jugadores en el fútbol argentino, señalando una mayor adopción cripto. Adicionalmente, se prepara un paro nacional en respuesta a la inminente reforma laboral.",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-19T12:27:17.956622",
+      "fecha_generacion": "2025-11-19T15:18:14.066033",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-19T12:27:17.956887"
+      "fecha_generacion": "2025-11-19T15:18:14.066454"
     }
   }
 }
