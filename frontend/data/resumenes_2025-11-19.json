@@ -1,29 +1,29 @@
 {
   "fecha_consolidacion": "2025-11-19",
-  "fecha_generacion": "2025-11-19T09:18:50.327113",
+  "fecha_generacion": "2025-11-19T12:27:17.956906",
   "resumenes": {
     "internacional": {
-      "resumen": "**Geopolítica y Conflictos Internacionales.** Hamás rechazó deponer las armas sin la creación de un Estado palestino, pese a la aprobación de un acuerdo de paz en la ONU. España prometió 800 millones de euros a Ucrania para defensa militar, mientras Alemania busca soberanía industrial para reducir dependencias de China y Estados Unidos. Donald Trump se reunió con el príncipe Bin Salman para celebrar inversiones saudíes, minimizando el asesinato de Kashoggi, y Nicolás Maduro respondió a su invitación de diálogo.\n\n**Política y Justicia Doméstica.** El Congreso de EE.UU. aprobó la desclasificación de los documentos del caso Jeffrey Epstein, decisión que el presidente Trump finalmente apoyó tras un incidente verbal con una periodista. En Brasil, la Corte Suprema condenó a ocho militares y un policía por conspirar para asesinar a Lula en 2022. Ecuador renovó su gabinete tras un referéndum constitucional fallido. El Reino Unido avanza con un plan para confiscar bienes de migrantes y costear su alojamiento.\n\n**Emergencias y Salud Pública.** Japón sufrió un incendio masivo que destruyó 170 viviendas y forzó evacuaciones. Una tormenta fatal en la Patagonia chilena, con vientos huracanados y nevadas intensas, causó la muerte de cinco turistas. Estados Unidos corre el riesgo de perder su estatus de nación libre de sarampión, mantenido por 25 años, debido a brotes continuos.\n\n**Asuntos Sociales y Migratorios en EE.UU.** Se prevén cambios en el Seguro Social para 2026. California otorgará créditos fiscales para generar empleo. Las políticas migratorias continúan activas: Arizona implementará nuevas reglas para licencias de conducir de no ciudadanos, y el USCIS detalló normativas para el EAD, la Green Card y la ciudadanía, incluyendo la \"Regla de los 30 Meses\". El papa León XIV expresó su deseo de visitar varios países de América Latina.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-19T09:18:06.910216",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "cantidad_noticias": 17,
+      "fecha_generacion": "2025-11-19T12:27:12.617533",
       "categoria": "internacional"
     },
     "politica": {
-      "resumen": "La Justicia ordenó el decomiso de más de 80 propiedades de Cristina Kirchner, Lázaro Báez, y sus hijos Máximo y Florencia, valuadas en aproximadamente 685 mil millones de pesos, en el marco de la Causa Vialidad. Esta decisión del Tribunal Oral Federal 2 afecta inmuebles mayormente ubicados en Santa Cruz. Simultáneamente, el mismo tribunal endureció el régimen de prisión domiciliaria de la expresidenta tras una reunión y difusión de una foto con nueve economistas, interpretado como una provocación. En otros frentes judiciales, la Corte Suprema confirmó la condena de Romina Picolotti por defraudación y se rechazó la prisión domiciliaria para Julio De Vido por la tragedia de Once.\n\nEl Gobierno Nacional avanza en la definición de las fechas para presentar sus reformas laboral e impositiva y el Presupuesto 2026. Ante esto, la ATE convocó a un paro nacional contra la reforma laboral, con advertencias de la ministra Bullrich sobre el mantenimiento del orden. La CGT, tras reunirse con diputados peronistas, advirtió al Gobierno que \"chocará contra la pared\" si no hay diálogo sobre los cambios. Por su parte, el Consejo Nacional del PJ se reunió para articular una estrategia común frente a las reformas, mientras persisten tensiones internas en el peronismo.\n\nEn el ámbito provincial, la Legislatura bonaerense logró el dictamen para el Presupuesto 2026 y la Ley Impositiva, aunque el pedido de nuevo endeudamiento se mantiene trabado por internas entre el kicillofismo y La Cámpora, lo que retrasa los dos tercios necesarios. A nivel municipal, una funcionaria de Pinamar fue despedida e imputada por defraudar al Estado tras ser captada robando dinero. También se investigan supuestas coimas en ANDIS, con la negativa a declarar de Miguel Ángel Calvete. Finalmente, una comisión investigadora advirtió que los hechos relacionados con $LIBRA son compatibles con una estafa, sugiriendo lucro con la imagen presidencial de Javier Milei.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-19T09:18:34.905819",
+      "fecha_generacion": "2025-11-19T12:27:14.003770",
       "categoria": "politica"
     },
     "economia": {
-      "resumen": "El gobierno nacional prioriza la consolidación del superávit fiscal para 2026, mientras gestiona opciones para afrontar pagos a bonistas en enero, dada la limitación de reservas. Se eliminaron retenciones al petróleo convencional como incentivo a inversiones en la Patagonia y para asegurar apoyo provincial a reformas legislativas. En paralelo, se discuten ajustes tributarios, como la actualización del Impuesto a las Ganancias y una propuesta de gravar con 30% las compras en plataformas extranjeras como Shein y Temu para proteger la industria local. En la provincia de Buenos Aires, se anunció un incremento significativo en las últimas cuotas del Impuesto Inmobiliario.\n\nEl mercado laboral exhibe crecimiento salarial en ciertos sectores y provincias, superando la inflación interanual de octubre. No obstante, la industria textil enfrenta una crisis profunda con alta capacidad ociosa, despidos y suspensiones, buscando alivio fiscal, mientras se debate una reforma laboral con propuestas controvertidas. ANSES confirmó el calendario de pagos de diciembre para jubilados, incluyendo actualización, aguinaldo y un bono de refuerzo. En indicadores, la inflación mayorista sorprendió con una baja al 1,1% en octubre, y el Riesgo País descendió ligeramente, beneficiado por acuerdos comerciales y estabilidad cambiaria. El Tesoro reactivó compras de dólares para fortalecer reservas.\n\nLos costos de la construcción y los precios inmobiliarios en dólares mantienen una tendencia ascendente. A nivel internacional, los mercados bursátiles mostraron volatilidad; acciones europeas (Eurozona, Italia) bajaron, mientras las suizas subieron. Bitcoin se estabiliza, aunque analistas advierten sobre posibles futuras caídas. Wall Street sufrió pérdidas, impulsadas por ventas tecnológicas y la expectativa de resultados de Nvidia, en un contexto de declaraciones de la Reserva Federal.",
+      "resumen": "Error al generar resumen: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
       "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-19T09:18:50.326597",
+      "fecha_generacion": "2025-11-19T12:27:17.956622",
       "categoria": "economia"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-19T09:18:50.327092"
+      "fecha_generacion": "2025-11-19T12:27:17.956887"
     }
   }
 }
