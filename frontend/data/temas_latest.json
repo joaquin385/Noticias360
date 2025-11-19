@@ -1,6 +1,752 @@
 {
-  "fecha": "2025-11-18",
-  "fecha_generacion": "2025-11-19T00:54:20.433240",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-19",
+  "fecha_generacion": "2025-11-19T03:49:32.802040",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "causas_judiciales:_cristina_20251119",
+      "tema": "Causas Judiciales: Cristina Kirchner y Lázaro Báez",
+      "tema_normalizado": "causas judiciales: cristina kirchner y lazaro baez",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia ordenó decomisar una gran cantidad de bienes de la expresidenta Cristina Kirchner y el empresario Lázaro Báez debido a la condena en la Causa Vialidad.\n• Paralelamente, el régimen de prisión domiciliaria de Cristina Kirchner fue endurecido, limitando sus visitas tras una reunión con economistas que generó controversia.\n\n🔍 **Datos clave:**\n• **Monto del decomiso:** $684.990 millones (actualizado desde un monto inicial de $84.835 millones).\n• **Bienes afectados:** 122 inmuebles (principalmente de Lázaro Báez y sus empresas) y 20 propiedades de la familia Kirchner.\n• **Período de la maniobra delictiva:** Mayo de 2003 a diciembre de 2015.\n• **Tribunal a cargo:** Tribunal Oral Federal 2 (TOF 2), integrado por Jorge Gorini, Rodrigo Giménez Uriburu y Andrés Basso.\n• **Condena de CFK en Vialidad:** Seis años de prisión domiciliaria, cuya sentencia quedó firme en junio de este año.\n• **Fecha de la orden de decomiso:** 18 de noviembre.\n\n⚡ **Desarrollo:**\n• La Causa Vialidad demostró la existencia de un circuito de beneficios indebidos por la adjudicación irregular de obra pública en Santa Cruz, con sobreprecios y falta de controles.\n• La Justicia comprobó que este esquema benefició al empresario Lázaro Báez, generando un crecimiento patrimonial ilícito y negocios compartidos con la familia Kirchner.\n• El decomiso incluye propiedades de Báez (como Austral Construcciones) y bienes de la familia Kirchner, entre ellos el hotel Los Sauces Casa Patagónica y varios departamentos y terrenos cedidos a sus hijos, Máximo y Florencia.\n• Las defensas argumentaron la falta de vínculo directo entre los bienes y el delito, pero el tribunal consideró suficiente una conexión temporal y razonable.\n• La Corte Suprema de Justicia será la responsable de administrar y subastar los bienes decomisados, buscando que el delito no rinda frutos.\n• En cuanto a la prisión domiciliaria de Cristina Kirchner, el TOF 2 estableció nuevas restricciones: un máximo de 3 o 4 visitantes por vez y solo 1 o 2 visitas semanales.\n• Esta medida fue una consecuencia de una reunión grupal con nueve economistas que el tribunal consideró una \"provocación\" por incumplir las autorizaciones individuales previas.\n• Además, la Cámara de Casación solicitó al Tribunal Oral Federal N°7 agilizar el juicio oral por la Causa Cuadernos, en la que también está imputada Cristina Kirchner.\n\n💡 **¿Por qué importa?**\n• El decomiso es un paso fundamental para recuperar activos provenientes de la corrupción, cumpliendo con tratados internacionales y buscando reparar el daño causado al Estado.\n• Estas decisiones judiciales de alto impacto reafirman la acción de la justicia sobre figuras políticas relevantes, incidiendo en el debate público sobre la corrupción y la impunidad en Argentina.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "La Justicia decidió endurecer el régimen de visitas de Cristina Kirchner tras la foto con nueve economistas",
+          "link": "https://www.perfil.com/noticias/politica/la-justicia-decidio-endurecer-el-regimen-de-visitas-de-cristina-kirchner-tras-la-foto-con-nueve-economistas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 22:41:00"
+        },
+        {
+          "titulo": "Causa Vialidad: la Justicia ordenó decomisar todos los bienes de Cristina Kirchner y Lázaro Báez",
+          "link": "https://www.perfil.com/noticias/politica/causa-vialidad-la-justicia-ordeno-decomisar-todos-los-bienes-de-cristina-kirchner-y-lazaro-baez.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 21:28:00"
+        },
+        {
+          "titulo": "Causa Vialidad: la Justicia ordenó el decomiso de los bienes de Cristina Kirchner y Lázaro Báez",
+          "link": "https://www.lanacion.com.ar/politica/causa-vialidad-la-justicia-ordeno-el-decomiso-de-los-bienes-de-cristina-kirchner-y-lazaro-baez-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 21:03:01"
+        },
+        {
+          "titulo": "Quiénes son los nueve economistas que visitaron a la vez a Cristina Kirchner en su prisión domiciliaria",
+          "link": "https://www.clarin.com/politica/economistas-visitaron-vez-cristina-kirchner-prision-domiciliaria_0_bXu1FWVTWL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 20:48:37"
+        },
+        {
+          "titulo": "Causa Vialidad: ordenan el decomiso de bienes para Cristina Kirchner y Lázaro Báez",
+          "link": "https://www.ambito.com/politica/causa-vialidad-ordenan-un-decomiso-total-bienes-cristina-kirchner-y-lazaro-baez-n6215334",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:21:00"
+        },
+        {
+          "titulo": "Qué pasará con las 20 propiedades de Cristina Kirchner y sus hijos una vez decomisadas",
+          "link": "https://www.iprofesional.com/politica/442237-que-pasara-con-20-propiedades-cristina-kirchner-sus-hijos-una-vez-decomisadas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:19:00"
+        },
+        {
+          "titulo": "Cuántas propiedades perderá Cristina Kirchner, Máximo y Florencia tras fallo judicial",
+          "link": "https://www.iprofesional.com/politica/442236-cuantos-departamentos-perdera-cristina-kirchner-maximo-florencia-tras-fallo-judicial",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:05:00"
+        },
+        {
+          "titulo": "Cuadernos de las coimas: la Casación le pidió al tribunal mayor celeridad en el juicio que tiene como protagonista a Cristina Kirchner",
+          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-la-casacion-le-pidio-al-tribunal-mayor-celeridad-en-el-juicio-que-tiene-como-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 19:41:33"
+        },
+        {
+          "titulo": "La Justicia ordenó decomisar los bienes de Lázaro Báez y Cristina Kirchner",
+          "link": "https://www.iprofesional.com/politica/442228-la-justicia-ordeno-decomisar-los-bienes-de-lazaro-baez-y-cristina-kirchner",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 19:28:00"
+        },
+        {
+          "titulo": "La Justicia ordenó decomisar los bienes de Lázaro Báez y Cristina Kirchner",
+          "link": "https://www.iprofesional.com/politica/442229-la-justicia-ordeno-decomisar-los-bienes-de-lazaro-baez-y-cristina-kirchner",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 19:28:00"
+        },
+        {
+          "titulo": "Caso Vialidad: el Tribunal avanza sobre el patrimonio de Cristina Kirchner y ordenó decomisarle 20 propiedades",
+          "link": "https://www.clarin.com/politica/caso-vialidad-tribunal-avanza-patrimonio-cristina-kirchner-ordeno-decomisarle-20-propiedades_0_0aPqs44yaG.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 19:23:47"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "dolar,_mercados_y_20251119",
+      "tema": "Dólar, Mercados y Economía Argentina",
+      "tema_normalizado": "dolar, mercados y economia argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina experimenta un renovado interés de inversores por deuda de empresas y provincias, con colocaciones que superan los USD 3.500 millones en noviembre.\n• A pesar de una relativa calma en el tipo de cambio, el dólar bajo impacta negativamente en la venta de autos 0km (caída del 25% en noviembre) y el turismo local (baja del 18,9% en ingresos de extranjeros en septiembre).\n• El Gobierno impulsa reformas económicas y laborales, como la eliminación de retenciones al petróleo y cambios en el Monotributo, mientras negocia vencimientos de deuda y busca reordenar las cuentas públicas.\n\n🔍 **Datos clave:**\n• **Inversiones:** USD 3.500 millones en deuda colocada por empresas y provincias en noviembre (Noticia 1). Demanda récord de USD 1.700 millones para el Bono Tango (Noticia 1).\n• **Dólar:** Blue cerró en $1.430, CCL en $1.476,91 y MEP en $1.439,53 el 18 de noviembre (Noticias 29, 33, 36). El dólar blue bajó $120 de su récord de octubre ($1.550) (Noticia 34).\n• **Riesgo País:** Se ubicó en 614 puntos básicos el 18 de noviembre de 2025, con una leve caída del 0,65% (Noticia 5).\n• **Salarios:** Sueldo promedio privado de $1.483.740 en octubre (+35,9% interanual vs. 31,3% de inflación) (Noticias 6, 16). Jubilados reciben aumento del 2,3% en diciembre, llevando el haber mínimo a $340.812 más bono (Noticia 4).\n• **Construcción:** El costo de la construcción subió 1,6% en octubre y la actividad creció 0,9% de septiembre a octubre (Noticias 3, 15). El precio promedio del m2 en CABA es de USD 2.449 (Noticia 3).\n• **Reservas del BCRA:** Cerraron el 18 de noviembre en USD 40.620 millones (Noticia 33).\n• **Deuda:** El Gobierno negocia un \"puente\" financiero para pagar USD 4.500 millones a bonistas en enero, de un total de USD 32.000 millones en dos años (Noticia 21).\n\n⚡ **Desarrollo:**\n• El optimismo post-electoral reduce el riesgo político, incentivando a fondos internacionales a comprar activos argentinos con rendimientos atractivos cercanos al 8% anual en dólares.\n• La apreciación del tipo de cambio afecta a la industria automotriz y el turismo local, haciendo que Mar del Plata sea más cara que Río de Janeiro en dólares para vacaciones.\n• El gobierno de Milei avanza con una \"terapia\" de orden macroeconómico y desregulación, incluyendo una reforma laboral que propone cambios en la Ley de Contrato de Trabajo y la posible Tarjeta Comedor no remunerativa.\n• Se eliminan las retenciones al petróleo convencional para provincias patagónicas como Chubut, con el fin de fomentar la inversión y la producción, con un costo fiscal de USD 60 millones/año solo para Chubut.\n• La industria textil, con 60% de capacidad ociosa y 12.000 obreros suspendidos, propone al Gobierno pagar cargas sociales a cuenta de IVA para equiparar la competitividad.\n• El mercado laboral muestra disparidad: Neuquén y el sector de minería e hidrocarburos lideran con los salarios más altos, mientras se observa un incipiente bimonetarismo con más transferencias de sueldos en dólares.\n• El gobierno busca ordenar los múltiples regímenes tributarios para ingresos (dependencia, autónomos, monotributo) para reducir la carga fiscal al empleo, aunque se desmintió la eliminación total del Monotributo.\n\n💡 **¿Por qué importa?**\n• La capacidad del Gobierno para mantener la confianza de los mercados y atraer inversiones será clave para afrontar los desafíos financieros y de deuda, y sentar las bases para un crecimiento sostenido.\n• El impacto de las reformas estructurales y la política cambiaria en el consumo, el empleo y la competitividad de las industrias nacionales determinarán la calidad de la recuperación económica interna.",
+      "cantidad_noticias": 36,
+      "noticias": [
+        {
+          "titulo": "Argentina de moda: crece muy fuerte la demanda de inversores por colocaciones en dólares de empresas y provincias",
+          "link": "https://www.infobae.com/economia/2025/11/19/argentina-de-moda-crece-muy-fuerte-la-demanda-de-inversores-por-colocaciones-en-dolares-de-empresas-y-provincias/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:13:58"
+        },
+        {
+          "titulo": "Ni la financiación a tasa 0% puede contra el dólar bajo: las ventas de autos 0km caerían más de 25% en noviembre",
+          "link": "https://www.infobae.com/economia/2025/11/19/ni-la-financiacion-a-tasa-0-puede-contra-el-dolar-bajo-las-ventas-de-autos-0km-caerian-mas-de-25-en-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:13:27"
+        },
+        {
+          "titulo": "Los precios de los departamentos y la construcción siguen muy por encima de los del 2023",
+          "link": "https://www.perfil.com/noticias/economia/los-precios-de-los-departamentos-y-de-la-construccion-siguen-por-muy-encima-de-los-del-2023.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 23:09:00"
+        },
+        {
+          "titulo": "ANSES: se confirmó el calendario de pagos de diciembre para los jubilados",
+          "link": "https://www.minutouno.com/economia/anses-se-confirmo-el-calendario-pagos-diciembre-los-jubilados-n6215131",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 22:00:00"
+        },
+        {
+          "titulo": "Leve baja del Riesgo País de Argentina: el indicador se sitúa en 614 puntos el 18 de noviembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/leve-baja-del-riesgo-pais-de-argentina-el-indicador-se-situa-en-614-puntos-el-18-de-noviembre-de-2025-a35.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 21:52:00"
+        },
+        {
+          "titulo": "Salarios privados: cuáles son los sectores y las provincias que mejor pagan",
+          "link": "https://www.ambito.com/economia/salarios-privados-cuales-son-los-sectores-y-las-provincias-que-mejor-pagan-n6215361",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 21:44:00"
+        },
+        {
+          "titulo": "Bitcoin se asienta entre los u$s92.000 y u$s93.000, pero analistas temen que toque fondo en 2026",
+          "link": "https://www.ambito.com/finanzas/bitcoin-se-desploma-casi-us90000-y-analistas-temen-que-toque-fondo-2026-n6214945",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 21:35:00"
+        },
+        {
+          "titulo": "¿Milei, frente a \"un penal sin arquero\"? La codicia se apodera otra vez de la Argentina",
+          "link": "https://www.clarin.com/economia/milei-frente-penal-arquero-codicia-apodera-vez-argentina_0_GWiwp2r6Ow.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 21:33:23"
+        },
+        {
+          "titulo": "Un importante banco de Wall Street invertirá miles de millones de dólares en inteligencia artificial",
+          "link": "https://www.ambito.com/finanzas/un-importante-banco-wall-street-invertira-miles-millones-dolares-inteligencia-artificial-n6215135",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 21:09:00"
+        },
+        {
+          "titulo": "Empresa desembarca con la Tarjeta Comedor a la manera de los Ticket Canasta: de qué se trata",
+          "link": "https://www.minutouno.com/economia/empresa-desembarca-la-tarjeta-comedor-la-manera-los-ticket-canasta-que-se-trata-n6215346",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 21:02:00"
+        },
+        {
+          "titulo": "La Corte deja firme condena a exfuncionaria de la AFIP por coimas para \"arreglar\" deudas",
+          "link": "https://www.iprofesional.com/impuestos/442240-la-corte-deja-firme-condena-a-exfuncionaria-de-la-afip-por-coimas-para-arreglar-deudas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:55:00"
+        },
+        {
+          "titulo": "Dólar: en plena pax cambiaria, el Tesoro reactivó las compras en el mercado: ¿cuántas divisas sumó a reservas?",
+          "link": "https://www.ambito.com/finanzas/dolar-medio-la-pax-cambiaria-el-tesoro-reaparecio-el-mercado-y-realizo-su-primera-compra-del-mes-n6215176",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:45:00"
+        },
+        {
+          "titulo": "Los polémicos datos que revela el borrador del proyecto de reforma laboral",
+          "link": "https://www.iprofesional.com/economia/442242-reforma-laboral-borrador-del-proyecto-revela-datos-polemicos-sobre-indemnizacion",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:39:00"
+        },
+        {
+          "titulo": "Wall Street profundizó las pérdidas por ventas tecnológicas, ante máxima expectativa por resultados de Nvidia",
+          "link": "https://www.ambito.com/finanzas/wall-street-baja-medida-que-la-expectativa-el-balance-nvidia-se-transforma-preocupacion-n6214960",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:39:00"
+        },
+        {
+          "titulo": "El costo de la construcción subió un 1,6% en octubre según el INDEC",
+          "link": "https://www.perfil.com/noticias/economia/el-indice-del-costo-de-la-construccion-subio-un-16-en-octubre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 20:37:00"
+        },
+        {
+          "titulo": "Cuáles son las provincias donde se pagan los sueldos más altos",
+          "link": "https://www.perfil.com/noticias/economia/cuales-son-las-provincias-donde-se-pagan-sueldos-mas-altos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 20:36:00"
+        },
+        {
+          "titulo": "Venta de Carrefour: no se presentó ninguna oferta",
+          "link": "https://www.lanacion.com.ar/economia/negocios/venta-de-carrefour-no-se-presento-ninguna-oferta-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:31:46"
+        },
+        {
+          "titulo": "“Estamos cambiando la terapia”: el secretario de Agricultura le pidió tiempo al agro por las retenciones",
+          "link": "https://www.lanacion.com.ar/economia/campo/estamos-cambiando-la-terapia-el-secretario-de-agricultura-le-pidio-tiempo-al-agro-por-las-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:22:25"
+        },
+        {
+          "titulo": "Frávega cierra sucursales y empleados temen por despidos masivos",
+          "link": "https://www.iprofesional.com/economia/442239-fravega-cierra-sucursales-empleados-temen-por-despidos-masivos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:22:00"
+        },
+        {
+          "titulo": "Qué dice el proyecto que busca aplicarle un impuesto del 30% a las compras de Shein y Temu",
+          "link": "https://www.iprofesional.com/impuestos/442226-que-dice-el-proyecto-que-busca-aplicarle-un-impuesto-del-30-a-las-compras-de-shein-y-temu",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 20:21:00"
+        },
+        {
+          "titulo": "Con reservas limitadas, el Gobierno negocia un \"puente\" para poder pagar a los bonistas en enero",
+          "link": "https://www.clarin.com/economia/reservas-limitadas-gobierno-negocia-puente-poder-pagar-bonistas-enero_0_t2MvS9z2SG.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 20:08:56"
+        },
+        {
+          "titulo": "“Un antes y un después”: la medida cripto que anunció el Chiqui Tapia para el fútbol argentino",
+          "link": "https://www.lanacion.com.ar/economia/IA/un-antes-y-un-despues-la-medida-cripto-que-anuncio-el-chiqui-tapia-para-el-futbol-argentino-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:00:42"
+        },
+        {
+          "titulo": "Con la quita de retenciones al petróleo convencional, Milei da una señal a la Patagonia",
+          "link": "https://www.clarin.com/economia/quita-retenciones-petroleo-convencional-milei-da-senal-patagonia_0_wOSnbl8M01.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 19:59:41"
+        },
+        {
+          "titulo": "Sturzenegger habló de los posibles cambios en el Monotributo",
+          "link": "https://www.iprofesional.com/impuestos/442142-sturzenegger-hablo-de-los-posibles-cambios-en-el-monotributo-que-dijo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 19:55:00"
+        },
+        {
+          "titulo": "El turismo local no levanta, hay viajes más austeros y cae 30% el consumo en gastronomía: ¿repunta en el verano?",
+          "link": "https://www.ambito.com/economia/el-turismo-local-no-levanta-hay-viajes-mas-austeros-y-cae-30-el-consumo-gastronomia-repunta-el-verano-n6214778",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 19:00:00"
+        },
+        {
+          "titulo": "Zuchovicki dio su pronóstico: qué pasará con la economía en 2026 y su recomendación para empresas",
+          "link": "https://www.iprofesional.com/economia/442224-pronostico-claudio-zuchovicki-para-economia-2026-y-recomendacion-para-empresas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 18:59:00"
+        },
+        {
+          "titulo": "Cuál es el sueldo de un repositor de supermercado Carrefour y Coto en diciembre 2025",
+          "link": "https://www.iprofesional.com/economia/442221-cual-es-sueldo-de-repositor-supermercado-carrefour-coto-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 18:50:00"
+        },
+        {
+          "titulo": "Presupuesto 2026: Oficialismo cierra filas y la oposición pone en duda el \"real\" impacto del alivio fiscal",
+          "link": "https://www.perfil.com/noticias/cordoba/presupuesto-2026-oficialismo-cierra-filas-y-la-oposicion-abre-fuego-por-el-real-impacto-del-alivio-fiscal.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 18:49:46"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-18-noviembre-n6214941",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 18:49:00"
+        },
+        {
+          "titulo": "El S&P Merval en dólares rebotó 1,7% y volvió a acercarse a los 2.000 puntos, a contramano de Wall Street",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-y-el-sp-merval-vuelven-operar-rojo-n6215022",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 18:47:00"
+        },
+        {
+          "titulo": "Textiles en crisis: le plantearon al Gobierno que las cargas sociales se paguen a cuenta de IVA",
+          "link": "https://www.clarin.com/economia/textiles-crisis-plantearon-gobierno-cargas-sociales-paguen-cuenta-iva_0_1hTtC0McJz.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 18:05:56"
+        },
+        {
+          "titulo": "Cuánto le deberán pagar los monotributistas al ARCA en noviembre del 2025, según cada categoría",
+          "link": "https://www.perfil.com/noticias/economia/cuanto-le-deberan-pagar-los-monotributistas-al-arca-en-noviembre-del-2025-segun-cada-categoria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 18:05:47"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cerró este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-martes-18-noviembre-n6215268",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 17:54:00"
+        },
+        {
+          "titulo": "El dólar blue cedió en dos de las últimas tres ruedas y ya bajó $120 de su récord de octubre",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-cedio-dos-las-ultimas-tres-ruedas-y-ya-120-su-record-octubre-n6215254",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 17:52:00"
+        },
+        {
+          "titulo": "Mar del Plata o Río de Janeiro: el destino donde tus dólares rinden más",
+          "link": "https://www.ambito.com/economia/mar-del-plata-o-rio-janeiro-el-destino-donde-tus-dolares-rinden-mas-n6214868",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 17:30:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 18 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-18-noviembre-n6214867",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 17:28:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "Infobae",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_nacional:_gobierno,_20251119",
+      "tema": "Política Nacional: Gobierno, Presupuesto, Reformas y Escándalos",
+      "tema_normalizado": "politica nacional: gobierno, presupuesto, reformas y escandalos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional negocia el Presupuesto 2026 con gobernadores y busca consensos para reformas clave como la laboral e impositiva.\n• A nivel provincial, el presupuesto bonaerense de Kicillof avanza, pero el endeudamiento está trabado por disputas internas y con la oposición.\n• Paralelamente, estallaron varios escándalos de corrupción, incluyendo una supuesta estafa con una criptomoneda vinculada al Presidente y un caso de desfalco en la Agencia Nacional de Discapacidad (ANDIS).\n\n🔍 **Datos clave:**\n• **Presupuesto 2026:** Eje de negociación nacional y provincial.\n• **US$3.865 millones:** Solicitud de endeudamiento de la Provincia de Buenos Aires.\n• **US$700.000:** Dinero hallado a funcionaria de Economía vinculada al caso ANDIS.\n• **$7 millones:** Monto presuntamente robado por empleada municipal en Pinamar.\n• **114.410:** Billeteras que sufrieron pérdidas en la criptomoneda $LIBRA.\n• **Actores clave:** Javier Milei, Axel Kicillof, Luis Caputo, Diego Santilli, Patricia Bullrich, Miguel Ángel Calvete, CGT, Poder Judicial.\n\n⚡ **Desarrollo:**\n• El Gobierno Nacional, con Luis Caputo y Diego Santilli a la cabeza, busca la aprobación del Presupuesto 2026 y reformas, dialogando con gobernadores que piden cambios en préstamos y cajas previsionales.\n• En la Provincia de Buenos Aires, Kicillof logró dictamen para el Presupuesto y Ley Impositiva, pero el crucial pedido de endeudamiento requiere dos tercios y enfrenta resistencia por internas peronistas y exigencias de la oposición.\n• Las reformas laboral e impositiva están siendo aceleradas por el Gobierno, pero la CGT advierte de \"chocar contra la pared\" por falta de diálogo, mientras diputados peronistas presentan propuestas alternativas.\n• La ministra de Seguridad, Patricia Bullrich, confronta directamente a gremialistas, endureciendo la postura del Gobierno frente a futuras protestas por la reforma laboral.\n• Una comisión de Diputados acusó al Presidente Javier Milei de \"colaboración imprescindible\" en una estafa con la criptomoneda $LIBRA, sugiriendo investigar su \"mal desempeño\" y cuestionando la inacción judicial.\n• El escándalo ANDIS reveló a Miguel Ángel Calvete como supuesto organizador de un esquema de corrupción, con su hija Ornella, funcionaria de Economía, imputada tras hallarse US$700.000 en su domicilio. Calvete tiene antecedentes por proxenetismo.\n• Otros casos incluyen el de una empleada municipal de Pinamar imputada por defraudar al Estado con $7 millones y el exmarido de la diputada Karen Reichardt (LLA) vinculado a un narcoescándalo.\n• Se rechazó la prisión domiciliaria para el exministro Julio De Vido por la Tragedia de Once, mientras el PJ busca reorganizarse para enfrentar las reformas del Gobierno.\n\n💡 **¿Por qué importa?**\n• La capacidad del Gobierno Nacional para negociar y aprobar el Presupuesto y sus reformas es crucial para la estabilidad económica y la gobernabilidad del país.\n• Los escándalos de corrupción y las tensiones políticas internas y externas generan desconfianza en las instituciones y pueden desviar la atención de la gestión de problemas urgentes.",
+      "cantidad_noticias": 18,
+      "noticias": [
+        {
+          "titulo": "Presupuesto 2026: los cambios que piden los gobernadores para negociar con la Casa Rosada",
+          "link": "https://www.infobae.com/economia/2025/11/19/presupuesto-2026-los-cambios-que-piden-los-gobernadores-para-negociar-con-la-casa-rosada/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:13:42"
+        },
+        {
+          "titulo": "Kicillof logró el dictamen para el Presupuesto y la ley impositiva, pero continúa el debate por el endeudamiento",
+          "link": "https://www.perfil.com/noticias/politica/kicillof-logro-dictamen-para-el-presupuesto-y-la-ley-impositiva-pero-continua-el-debate-por-el-endeudamiento.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 23:59:00"
+        },
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 23:10:58"
+        },
+        {
+          "titulo": "Cristina y Kicillof juegan a la interna mientras Milei festeja un nuevo crédito",
+          "link": "https://www.clarin.com/politica/cristina-kicillof-juegan-interna-milei-festeja-nuevo-credito_0_bDZ2hjYWth.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 21:31:45"
+        },
+        {
+          "titulo": "El Consejo Nacional del PJ se reunió para definir una \"estrategia común\" frente a las reformas del Gobierno",
+          "link": "https://www.ambito.com/politica/el-consejo-nacional-del-pj-se-reune-definir-una-estrategia-comun-frente-las-reformas-del-gobierno-n6214864",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:59:00"
+        },
+        {
+          "titulo": "Escándalo en Pinamar: descubren a una empleada robando dinero del municipio, la echan y queda imputada por defraudación al Estado",
+          "link": "https://www.clarin.com/politica/escandalo-pinamar-descubrieron-empleada-robandose-dinero-municipio-echaron-quedo-imputada-defraudacion-estado_0_sCKnCUgiRv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 20:52:14"
+        },
+        {
+          "titulo": "Cumbre en el Gobierno para ponerle fecha a las presentaciones de las reformas laboral e impositiva",
+          "link": "https://www.minutouno.com/politica/cumbre-el-gobierno-ponerle-fecha-las-presentaciones-las-reformas-laboral-e-impositiva-n6215341",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-18 20:37:53"
+        },
+        {
+          "titulo": "La CGT recibió a diputados del peronismo y advirtió por la reforma laboral: \"Si no nos llaman, chocarán contra la pared\"",
+          "link": "https://www.ambito.com/politica/la-cgt-recibio-diputados-del-peronismo-y-advirtio-la-reforma-laboral-si-no-nos-llaman-chocaran-contra-la-pared-n6215322",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:29:00"
+        },
+        {
+          "titulo": "El caso Andis | Ornella Calvete, entre los US$700.000 en su departamento y las amistades del poder libertario",
+          "link": "https://www.lanacion.com.ar/politica/la-funcionaria-de-economia-a-la-que-encontraron-us700000-en-su-departamento-habia-entrado-al-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:26:21"
+        },
+        {
+          "titulo": "Miguel Ángel Calvete, de los supermercados chinos, al proxenetismo y los contratos del ANDIS",
+          "link": "https://www.clarin.com/politica/miguel-angel-calvete-supermercados-chinos-proxenetismo-contratos-andis_0_4bBu6wpcYF.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 20:19:55"
+        },
+        {
+          "titulo": "Reforma Laboral: Bullrich arremetió contra los gremios y apuntó contra el líder de ATE",
+          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-bullrich-arremete-contra-los-gremios-y-apunto-contra-el-lider-de-ate.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 20:02:00"
+        },
+        {
+          "titulo": "Tragedia de Once: el tribunal rechazó darle ahora la prisión domiciliaria a Julio De Vido",
+          "link": "https://www.clarin.com/politica/tragedia-once-tribunal-rechazo-darle-prision-domiciliaria-julio-vido_0_7Ew0Vi8R6e.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 19:26:54"
+        },
+        {
+          "titulo": "Informe final de $Libra: Diputados hablaron de estafa, apuntaron a Milei y denunciaron encubrimiento judicial",
+          "link": "https://www.perfil.com/noticias/politica/informe-demoledor-por-libra-diputados-hablaron-de-estafa-apuntaron-a-milei-y-denunciaron-encubrimiento-judicial.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 19:24:00"
+        },
+        {
+          "titulo": "Karen Reichard habló sobre el dinero que recibió su ex marido de Fred Machado: \"Fue un giro en blanco y se está comiendo este garrón por mí\"",
+          "link": "https://www.perfil.com/noticias/politica/karen-reichard-hablo-sobre-el-dinero-que-recibio-su-ex-marido-de-fred-machado-fue-un-giro-en-blanco-y-se-esta-comiendo-este-garron-por-mi.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-18 19:05:00"
+        },
+        {
+          "titulo": "En otro gesto de acercamiento, Javier Milei felicitó a Jorge Macri por la colocación de deuda de la Ciudad de Buenos Aires",
+          "link": "https://www.clarin.com/politica/gesto-acercamiento-javier-milei-felicito-jorge-macri-colocacion-deuda-ciudad-buenos-aires_0_nTAIsGu2wS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 18:52:28"
+        },
+        {
+          "titulo": "Reforma laboral: diputados K proponen cambio clave sobre empleados públicos para colar en el debate",
+          "link": "https://www.iprofesional.com/politica/442216-diputados-k-proponen-cambio-para-empleos-publicos-y-preparan-reforma-laboral-alternativa",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-18 18:43:00"
+        },
+        {
+          "titulo": "Provincia: avanzan el Presupuesto y la Ley Impositiva, pero el endeudamiento queda trabado por internas",
+          "link": "https://www.ambito.com/politica/avanzan-el-presupuesto-bonaerense-y-la-ley-impositiva-pero-el-endeudamiento-queda-trabado-internas-y-falta-acuerdo-la-oposicion-n6215243",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 18:10:00"
+        },
+        {
+          "titulo": "Para la Comisión $Libra, hubo una \"colaboración imprescindible\" de Milei en la estafa y sugiere al Congreso investigarlo por \"mal desempeño\"",
+          "link": "https://www.clarin.com/politica/comision-libra-colaboracion-imprescindible-milei-estafa-sugiere-congreso-investigarlo-mal-desempeno_0_eQOoKTiUkv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 17:36:26"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "Infobae",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "donald_trump:_acciones_20251119",
+      "tema": "Donald Trump: acciones y relaciones internacionales",
+      "tema_normalizado": "donald trump: acciones y relaciones internacionales",
+      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump fortaleció lazos con Arabia Saudita, designándolo como aliado importante fuera de la OTAN, y desestimó preocupaciones sobre el asesinato de un periodista.\n• Simultáneamente, Trump intercambió mensajes con el presidente venezolano Nicolás Maduro sobre un posible diálogo.\n• También fue noticia por un comentario controversial a una periodista que preguntó sobre el caso Jeffrey Epstein.\n\n🔍 **Datos clave:**\n• **$1 billón:** Inversión prometida por Arabia Saudita en EE. UU.\n• **Aliado No-OTAN:** Arabia Saudita se suma a una lista de 19 países con esta designación.\n• **Jamal Khashoggi:** Periodista asesinado en 2018, caso minimizado por Trump.\n• **Catherine Lucey:** Periodista de Bloomberg insultada por Trump.\n• **2011:** Fecha de correos que vincularían a Trump con Jeffrey Epstein.\n\n⚡ **Desarrollo:**\n• Durante la visita del príncipe heredero Mohamed bin Salmán (MBS), Trump anunció la designación de Arabia Saudita como \"aliado importante no miembro de la OTAN\".\n• MBS prometió aumentar las inversiones sauditas en EE. UU. de $600.000 millones a casi $1 billón, cubriendo sectores como tecnología, inteligencia artificial y energía.\n• Trump apoyó la venta de armamento avanzado, incluidos cazabombarderos F-35, a Arabia Saudita y promovió la normalización de relaciones con Israel.\n• Respecto al asesinato del periodista Jamal Khashoggi en 2018, Trump lo calificó de \"cosas que pasan\" y defendió a MBS, quien admitió un \"grave error\" de su país.\n• En otra esfera, Trump consideró un diálogo con Nicolás Maduro para aliviar tensiones con Venezuela.\n• Maduro respondió en televisión con un mensaje en inglés básico, ofreciendo una reunión \"face to face\" y enfatizando \"peace\" en lugar de \"war\".\n• Trump fue criticado por llamar \"cerdita\" a la periodista Catherine Lucey de Bloomberg, quien preguntó sobre su nerviosismo por la posible desclasificación de archivos del caso Jeffrey Epstein.\n• Correos de 2011 sugirieron que Epstein creía que Trump estaba al tanto de sus actividades, algo que Trump desestimó como una \"farsa\".\n\n💡 **¿Por qué importa?**\n• Las acciones de Donald Trump ilustran una política exterior centrada en alianzas estratégicas y beneficios económicos, a menudo por encima de preocupaciones de derechos humanos o procesos diplomáticos tradicionales.\n• Su estilo comunicativo directo y, a veces, confrontativo, tanto con líderes extranjeros como con la prensa, define su enfoque particular en las relaciones internacionales.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Donald Trump designó a Arabia Saudita como un “aliado importante” fuera de la OTAN",
+          "link": "https://www.infobae.com/america/mundo/2025/11/19/donald-trump-designo-a-arabia-saudita-como-un-aliado-importante-fuera-de-la-otan/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:15:12"
+        },
+        {
+          "titulo": "Donald Trump recibió a Bin Salman, celebró inversiones saudíes y afirmó que el asesinato de Kashoggi son \"cosas que pasan\"",
+          "link": "https://www.ambito.com/mundo/donald-trump-recibio-bin-salman-celebro-inversiones-saudies-y-afirmo-que-el-asesinato-kashoggi-son-cosas-que-pasan-n6215288",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:34:00"
+        },
+        {
+          "titulo": "“Face to face”: Nicolás Maduro le respondió en inglés básico a Donald Trump su invitación al diálogo",
+          "link": "https://www.clarin.com/mundo/face-to-face-nicolas-maduro-respondio-ingles-basico-donald-trump-invitacion-dialogo_0_Toun7Ga1Or.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 19:50:39"
+        },
+        {
+          "titulo": "\"Silencio cerdita\", el insulto de Donald Trump a una periodista que preguntó por el caso Epstein",
+          "link": "https://www.ambito.com/mundo/silencio-cerdita-el-insulto-donald-trump-una-periodista-que-pregunto-el-caso-epstein-n6215255",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 17:56:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflictos_geopoliticos_y_20251119",
+      "tema": "Conflictos Geopolíticos y Espionaje Mundial",
+      "tema_normalizado": "conflictos geopoliticos y espionaje mundial",
+      "resumen": "📌 **¿Qué está pasando?**\n*   A nivel global, se intensifican los conflictos geopolíticos y el espionaje, revelando tensiones por soberanía y seguridad.\n*   Hamás rechaza un plan de paz para Gaza respaldado por la ONU y EE. UU. si no se crea un Estado palestino, mientras el Reino Unido denuncia espionaje chino.\n*   Alemania busca reducir su dependencia industrial de China y Estados Unidos para asegurar su autonomía en sectores clave.\n\n🔍 **Datos clave:**\n*   **Hamás:** Movimiento Islámico de Resistencia Palestina, se niega a desarmarse sin un Estado palestino.\n*   **Reino Unido:** Su PM Keir Starmer denuncia espionaje chino y anuncia una inversión de £170 millones y £130 millones en seguridad.\n*   **Alemania:** Su PM Friedrichs Merz presenta un plan de soberanía industrial para no depender de China (70% de medicamentos europeos) ni de EE. UU.\n*   **Consejo de Seguridad de la ONU:** Aprobó el acuerdo de paz para Gaza propuesto por el gobierno de Donald Trump.\n*   **MI5:** Servicio de inteligencia interno británico, emitió una alerta sobre operaciones de inteligencia chinas contra legisladores.\n\n⚡ **Desarrollo:**\n*   Hamás rechaza el plan de paz estadounidense para Gaza, aprobado por la ONU, al considerarlo una \"tutela internacional\" y exige la creación de un Estado palestino para deponer las armas.\n*   El plan de EE. UU. contempla el desarme de Hamás, una Fuerza Internacional de Estabilización y el repliegue de las fuerzas israelíes.\n*   El Reino Unido acusa a China de un plan de espionaje para reclutar personas con acceso a información sensible, usando la táctica de “cazatalentos”.\n*   En respuesta, Londres anuncia medidas de seguridad, incluyendo inversiones significativas en tecnología, refuerzo policial y campañas de sensibilización para proteger sus instituciones democráticas.\n*   Alemania busca recuperar su soberanía industrial con un plan que promueve la producción nacional en sectores como el acero, la química y la farmacéutica, reduciendo la dependencia de proveedores extranjeros.\n*   La iniciativa alemana se alinea con la ‘Critical Medicines Act’ de la Comisión Europea, que busca relocalizar la producción de fármacos esenciales en Europa, priorizando la autonomía sobre los costos.\n\n💡 **¿Por qué importa?**\n*   Estos eventos resaltan la intensificación de las tensiones globales, donde las naciones priorizan su seguridad territorial, económica y tecnológica frente a amenazas externas.\n*   Subrayan la creciente necesidad de soberanía y resiliencia en las cadenas de suministro críticas, reconfigurando las alianzas y las estrategias geopolíticas mundiales.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Hamás rechaza deponer las armas si la resolución de la ONU no contempla la creación de un Estado palestino",
+          "link": "https://www.ambito.com/mundo/hamas-rechaza-deponer-las-armas-si-la-resolucion-la-onu-no-contempla-la-creacion-un-estado-palestino-n6215319",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 20:49:00"
+        },
+        {
+          "titulo": "El Reino Unido denunció a China por espionaje: “cazatalentos” y un millonario plan de respuesta",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-reino-unido-denuncio-a-china-por-espionaje-cazatalentos-y-un-millonario-plan-de-respuesta-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:45:14"
+        },
+        {
+          "titulo": "“Compra alemán”: el gobierno de Alemania presentó un plan de soberanía industrial para no depender de insumos chinos o de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/compra-aleman-gobierno-alemania-presento-plan-soberania-industrial-depender-insumos-chinos-estados-unidos_0_peUbf4bDTU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 19:21:32"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "futbol_internacional:_eliminatorias_20251119",
+      "tema": "Fútbol Internacional: Eliminatorias y Amistosos",
+      "tema_normalizado": "futbol internacional: eliminatorias y amistosos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El fútbol internacional se mantiene activo con partidos clave de eliminatorias para el Mundial 2026 y encuentros amistosos.\n• Varias selecciones de Concacaf luchan por un pase directo a la Copa del Mundo en su última jornada de clasificación.\n• La fecha FIFA también incluyó amistosos de preparación, uno de los cuales terminó en incidentes con aficionados.\n\n🔍 **Datos clave:**\n• **15 de noviembre de 2025:** Colombia vence 2-1 a Nueva Zelanda en un amistoso en Miami (Chase Stadium).\n• **18 de noviembre de 2025:** Eliminatorias Concacaf con Panamá vs. El Salvador y Nicaragua vs. Haití.\n• **18 de noviembre de 2025:** Amistoso entre Ecuador y Nueva Zelanda en Nueva Jersey (Sports Illustrated Stadium).\n• **Mundial 2026:** Ecuador y Nueva Zelanda ya tienen su cupo asegurado.\n• **Horario de partidos:** 20:00 hs y 20:30 hs (hora del Este de EE.UU.) para la mayoría de los encuentros.\n\n⚡ **Desarrollo:**\n• En las Eliminatorias Concacaf, Panamá se enfrenta a El Salvador en el Estadio Rommel Fernández, buscando asegurar su clasificación directa al Mundial 2026 tras ganar 3-2 a Guatemala.\n• Haití juega contra Nicaragua en Curazao con la esperanza de superar a Honduras en el Grupo C y obtener un cupo directo, luego de su victoria 1-0 contra Costa Rica.\n• Nicaragua, con 4 puntos, ya está eliminada de la contienda mundialista, aunque ganó su penúltimo partido contra Honduras.\n• Los encuentros de eliminatorias Concacaf se transmiten por Telemundo Deportes Ahora, Universo y CBS Paramount en EE.UU.\n• El amistoso entre Ecuador y Nueva Zelanda, ambos ya clasificados al Mundial 2026, sirve como preparación y se puede ver por Fanatiz.\n• Ecuador fue segundo en Conmebol, pero llega con solo una victoria en sus últimos ocho encuentros, mientras Nueva Zelanda está invicta en 27 partidos en su confederación y esta es su tercera clasificación mundialista.\n• Durante el amistoso Colombia-Nueva Zelanda, se reportó la expulsión de hinchas colombianos por supuestos disturbios, generando un debate sobre el comportamiento en eventos deportivos.\n\n💡 **¿Por qué importa?**\n• Estos partidos son cruciales para definir el futuro de varias selecciones en el Mundial 2026, afectando directamente su participación y expectativas.\n• La fecha FIFA permite a los equipos ya clasificados probar estrategias y jugadores, afinando su preparación para la máxima cita del fútbol.\n• Los incidentes con aficionados resaltan la necesidad de mantener el orden y el respeto en eventos internacionales, protegiendo la imagen del deporte y los países.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Revelan video de la expulsión de colombianos de estadio en Miami en el que la selección debutó contra Nueva Zelanda: “Tengo mi boleta”",
+          "link": "https://www.infobae.com/colombia/2025/11/19/revelan-video-de-la-expulsion-de-colombianos-de-estadio-en-miami-en-el-que-la-seleccion-debuto-contra-nueva-zelanda-tengo-mi-boleta/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:16:52"
+        },
+        {
+          "titulo": "Panamá vs. El Salvador: hora y cómo ver en vivo desde EE.UU. el partido de eliminatorias Concacaf por el Mundial 2026",
+          "link": "https://www.lanacion.com.ar/estados-unidos/panama-vs-el-salvador-hora-y-como-ver-en-vivo-desde-eeuu-el-partido-de-eliminatorias-concacaf-por-el-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:21:00"
+        },
+        {
+          "titulo": "En qué canal de EE.UU. pasan el partido de Ecuador vs. Nueva Zelanda: hora y cómo ver en vivo el amistoso",
+          "link": "https://www.lanacion.com.ar/estados-unidos/en-que-canal-de-eeuu-pasan-el-partido-de-ecuador-vs-nueva-zelanda-hora-y-como-ver-en-vivo-el-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 20:14:00"
+        },
+        {
+          "titulo": "Nicaragua vs. Haití: hora y cómo ver en vivo desde EE.UU. el partido de Eliminatorias Concacaf por el Mundial 2026",
+          "link": "https://www.lanacion.com.ar/estados-unidos/nicaragua-vs-haiti-hora-y-como-ver-en-vivo-desde-eeuu-el-partido-de-eliminatorias-concacaf-por-el-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 19:23:04"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "espectaculos_y_celebridades_20251119",
+      "tema": "Espectáculos y Celebridades América Latina",
+      "tema_normalizado": "espectaculos y celebridades america latina",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El mundo del espectáculo latinoamericano está efervescente con tensiones mediáticas, dramas familiares y reconocimientos importantes en la industria.\n*   Figuras como Lola Cortés y Christian Nodal enfrentan polémicas con la prensa y en sus relaciones personales, mientras que Tom Cruise recibe un Oscar honorífico con un toque latino.\n*   Se suman noticias sobre un \"crush\" de infancia (Ángela Aguilar) y la próxima celebración de Miss Universo 2025, destacando la diversidad de eventos en la región.\n\n🔍 **Datos clave:**\n*   **Lola Cortés:** Actriz mexicana, rechazó entrevista con \"Ventaneando\" por comentarios sobre su hija, Dariana Romo.\n*   **Paulina Rubio y Colate:** Se divorciaron en 2012; su hijo Andrea Nicolás, de 15 años, celebró su cumpleaños sin la presencia de su madre.\n*   **Tom Cruise:** Actor con 45 años de carrera, recibió un Oscar honorífico de Alejandro González Iñárritu.\n*   **Ángela Aguilar:** Cantante mexicana, confesó admiración infantil por el actor William Levy.\n*   **Christian Nodal:** Cantante, no incluyó a Ángela Aguilar como su dueto favorito ni la mencionó en los Latin Grammy.\n*   **Miss Universo 2025:** Gala el 21 de noviembre en Tailandia (transmisión el 20 de noviembre, 19:00 EST en EE.UU.).\n*   **Países latinos en Miss Universo:** Venezuela (7 coronas), Puerto Rico (5 coronas) y México (3 coronas).\n\n⚡ **Desarrollo:**\n*   **Celebridades y Medios:** La actriz Lola Cortés vetó a \"Ventaneando\" alegando críticas a su hija, Dariana Romo; Pati Chapoy, conductora del programa, negó las acusaciones y respondió con desinterés, sugiriendo a Cortés buscar otros medios. Este incidente expone las fricciones entre figuras públicas y la prensa en México.\n*   **Dramas Familiares:** Andrea Nicolás, hijo de Paulina Rubio y Colate, celebró sus 15 años con su padre en ausencia de su madre, en medio de una larga batalla legal por custodia iniciada tras su divorcio en 2012. Una jueza reciente falló a favor de Colate permitiendo al menor viajar a España, en un contexto de profunda distancia familiar.\n*   **Reconocimientos en Hollywood:** Tom Cruise fue honrado con un Oscar honorífico en los Governors Awards, entregado por el cineasta mexicano Alejandro González Iñárritu. Iñárritu elogió la sutil maestría de Cruise, sugiriendo que el tipo de actuación \"espectacular\" preferido por la Academia pudo haber retrasado este galardón para el actor.\n*   **Romances y Relaciones:** William Levy reaccionó positivamente y con elogios a Ángela Aguilar, tras hacerse viral un video donde ella confesaba su \"crush\" infantil por el actor. Por otro lado, Christian Nodal generó controversia al no mencionar a su esposa, Ángela Aguilar, como su dueto favorito ni en sus agradecimientos durante los Latin Grammy, a diferencia de sus ex-parejas.\n*   **Eventos de Belleza y Realities:** La gala de Miss Universo 2025 se llevará a cabo en Tailandia y será la primera edición transmitida íntegramente por plataformas digitales, buscando una mayor conexión con nuevas audiencias. Mientras tanto, en el reality \"La Granja VIP\", participantes como Eleazar Gómez y Manola Díez enfrentaron tensiones y pidieron evitar conflictos innecesarios.\n\n💡 **¿Por qué importa?**\n*   Estos acontecimientos evidencian la constante tensión entre la vida pública y privada de las celebridades, influyendo en su imagen y en la percepción de los medios.\n*   Reflejan las dinámicas cambiantes de la industria del entretenimiento en América Latina, desde los conflictos con la prensa hasta la evolución de los formatos de eventos y reconocimientos internacionales.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Lola Cortés se niega a ser entrevistada en Ventaneando y Pati Chapoy le responde: “Me da mucha flojera”",
+          "link": "https://www.infobae.com/mexico/2025/11/19/lola-cortes-se-niega-a-ser-entrevistada-en-ventaneando-y-pati-chapoy-le-responde-me-da-mucha-flojera/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:30:14"
+        },
+        {
+          "titulo": "Hijo de Paulina Rubio cumple 15 años junto a Colate y lejos de “La Chica Dorada”",
+          "link": "https://www.infobae.com/mexico/2025/11/19/hijo-de-paulina-rubio-cumple-15-anos-junto-a-colate-y-lejos-de-la-chica-dorada/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:21:05"
+        },
+        {
+          "titulo": "La Granja VIP en vivo hoy 18 de noviembre: sigue la tarde de El Duelo",
+          "link": "https://www.infobae.com/mexico/2025/11/18/la-granja-vip-en-vivo-hoy-18-de-noviembre-sigue-la-tarde-de-el-duelo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:49:59"
+        },
+        {
+          "titulo": "El Oscar tan preciado que Iñárritu le dio a Tom Cruise: ¿Por qué la estrella de Hollywood no había ganado ese premio en 45 años?",
+          "link": "https://www.infobae.com/mexico/2025/11/19/el-oscar-tan-preciado-que-inarritu-le-dio-a-tom-cruise-por-que-la-estrella-de-hollywood-no-habia-ganado-ese-premio-en-45-anos/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:45:00"
+        },
+        {
+          "titulo": "William Levy ya sabe que fue el amor platónico de Ángela Aguilar y le manda un mensaje",
+          "link": "https://www.infobae.com/mexico/2025/11/19/william-levy-ya-sabe-que-fue-el-amor-platonico-de-angela-aguilar-y-le-manda-un-mensaje/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:40:00"
+        },
+        {
+          "titulo": "Christian Nodal habría hecho nuevo desplante a Ángela Aguilar tras ignorarla en los Latin Grammy",
+          "link": "https://www.infobae.com/mexico/2025/11/19/christian-nodal-habria-hecho-nuevo-desplante-a-angela-aguilar-tras-ignorarla-en-los-latin-grammy/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:30:00"
+        },
+        {
+          "titulo": "Miss Universo 2025: cuándo y a qué hora ver la gala en vivo desde Estados Unidos",
+          "link": "https://www.lanacion.com.ar/estados-unidos/miss-universo-2025-cuando-y-a-que-hora-puedes-ver-la-gala-desde-estados-unidos-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 22:43:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "fenomenos_climaticos_y_20251119",
+      "tema": "Fenómenos Climáticos y Sismos América",
+      "tema_normalizado": "fenomenos climaticos y sismos america",
+      "resumen": "📌 **¿Qué está pasando?**\n*   América enfrenta una intensa actividad geológica y climática. México fue impactado por un sismo reciente y un frente frío que generó bajas temperaturas, nevadas y lluvias intensas. Paralelamente, Estados Unidos se prepara para condiciones invernales significativas, incluyendo nevadas, hacia el Día de Acción de Gracias de 2025.\n\n🔍 **Datos clave:**\n*   Sismo de magnitud 4.0 registrado el 18 de noviembre a las 8:55 AM en Cd Ixtepec, Oaxaca, México, con epicentro a 5 km al oeste y profundidad de 8.8 km.\n*   Frente frío número 15, una vaguada polar y una circulación ciclónica causan nevadas en sierras de Baja California, Sonora, Chihuahua y Durango.\n*   Temperaturas mínimas de -10 a -5 grados Celsius en sierras del norte de México y de -5 a 0 grados en Zacatecas, Hidalgo, Estado de México, Tlaxcala y Puebla.\n*   Pronóstico de nevadas para el 27 de noviembre de 2025 (Día de Acción de Gracias) en el noreste de EE.UU., el norte del Medio Oeste, zonas elevadas del oeste Intermontañoso y Alaska.\n*   Vientos de 60 a 80 kilómetros por hora en el Golfo de California, Baja California y Sonora, con oleaje de 1.5 a 2.5 metros en la costa occidental de Baja California.\n\n⚡ **Desarrollo:**\n*   El sismo en Oaxaca, detectado por el Servicio Sismológico Nacional (SSN), no provocó daños reportados, pero recuerda la constante actividad sísmica en México, un país propenso a temblores por su ubicación tectónica.\n*   El SSN enfatiza que los sismos no se pueden predecir, por lo que la prevención es clave, incluyendo la preparación de una \"mochila de la vida\" con artículos esenciales para 72 horas.\n*   El frente frío 15, en conjunto con corrientes en chorro polar y subtropical, trae un marcado descenso térmico al norte y centro de México, provocando heladas y lluvias fuertes en estados como Baja California, Sonora, Guerrero y Oaxaca.\n*   La Comisión Nacional del Agua (Conagua) ha alertado que estas precipitaciones pueden generar descargas eléctricas, encharcamientos, deslaves e inundaciones en zonas vulnerables, y los vientos intensos pueden derribar árboles.\n*   En EE.UU., el Centro de Predicción Climática (CPC) de la NOAA y The Old Farmer’s Almanac señalan que la confluencia de La Niña, la oscilación Madden-Julian y un calentamiento estratosférico podría impulsar un patrón invernal. Este patrón podría complicar los desplazamientos y generar condiciones de pavimento resbaladizo, especialmente en el noreste y el Alto Medio Oeste del país.\n\n💡 **¿Por qué importa?**\n*   La frecuencia e intensidad de estos fenómenos naturales en América resaltan la urgencia de adoptar medidas de prevención y preparación en todos los niveles, desde el individual hasta el gubernamental.\n*   Comprender estos eventos y sus posibles impactos es fundamental para minimizar riesgos, proteger vidas y propiedades, y fomentar una cultura de resiliencia ante el cambio climático y la actividad sísmica.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Temblor en Oaxaca hoy: se registra sismo de 4.0 de magnitud en Cd Ixtepec",
+          "link": "https://www.infobae.com/mexico/2025/11/19/temblor-en-oaxaca-hoy-se-registra-sismo-de-40-de-magnitud-en-cd-ixtepec/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 00:00:40"
+        },
+        {
+          "titulo": "Frente frío provocará nevadas y lluvias intensas en el norte de México",
+          "link": "https://www.infobae.com/mexico/2025/11/19/frente-frio-provocara-nevadas-y-lluvias-intensas-en-el-norte-de-mexico/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:17:21"
+        },
+        {
+          "titulo": "Cuánta nieve caerá el Día de Acción de Gracias 2025: el mapa de dónde va a nevar en Estados Unidos",
+          "link": "https://www.lanacion.com.ar/estados-unidos/cuanta-nieve-caera-el-dia-de-accion-de-gracias-2025-el-mapa-de-donde-va-a-nevar-en-estados-unidos-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 23:14:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "papa_francisco:_viajes_20251119",
+      "tema": "Papa Francisco: viajes y críticas",
+      "tema_normalizado": "papa francisco: viajes y criticas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Papa León XIV expresó su firme deseo de realizar viajes por América Latina, con un enfoque particular en Argentina, Uruguay, México y Perú.\n• Esto contrasta con su predecesor, el Papa Francisco, quien no concretó una visita a Argentina.\n• Por ahora, los únicos viajes internacionales confirmados para León XIV son a Turquía y Líbano, destinos que el Papa Francisco también había deseado visitar.\n\n🔍 **Datos clave:**\n• **Papa León XIV (Robert Prevost)**: Actual pontífice, con nacionalidad peruana.\n• **América Latina**: Región principal de interés para futuros viajes.\n• **Argentina y Uruguay**: Países catalogados como viajes \"pendientes\".\n• **México**: Deseo de visitar las basílicas de Fátima y Guadalupe.\n• **Perú**: El Papa quiere \"por supuesto\" volver, donde fue misionero y obispo por más de 40 años.\n• **Turquía y Líbano**: Destinos del único viaje internacional confirmado (del 27 de noviembre al 2 de diciembre).\n• **Papa Francisco**: Predecesor que no visitó Argentina y deseó visitar Turquía y Líbano.\n• **Enrique Shaw**: Empresario argentino, cerca de la beatificación, mencionado en una carta papal a la UIA.\n\n⚡ **Desarrollo:**\n• El Papa León XIV manifestó su alegría por viajar, indicando que, aunque este año del Jubileo tiene muchas actividades, los viajes se irán programando para el próximo año.\n• En su interés por América Latina, destacó Uruguay y Argentina como \"pendientes\", y expresó un \"por supuesto\" para regresar a Perú, país con el que tiene fuertes lazos.\n• La nacionalidad peruana de Robert Prevost (Papa León XIV) y su larga trayectoria como misionero y obispo en ese país, influyen en su deseo de regreso.\n• La noticia subraya una diferencia con el Papa Francisco, quien no logró viajar a Argentina, un destino ahora prioritario para León XIV.\n• El viaje confirmado a Turquía y Líbano es notable, ya que cumple con un deseo que también había expresado el Papa Francisco.\n• León XIV también ha enviado una carta a la Unión Industrial Argentina (UIA), resaltando el rol social del empresariado y mencionando a Enrique Shaw como un modelo de santidad en el mundo laboral.\n• Se rumorea la posibilidad de viajes a varios países africanos, aunque no hay confirmaciones oficiales al respecto.\n\n💡 **¿Por qué importa?**\n• El Papa León XIV está marcando su propia agenda de viajes, priorizando destinos en América Latina y retomando rutas deseadas por su predecesor, el Papa Francisco.\n• Sus viajes iniciales y planes futuros consolidan su conexión personal con América Latina y su intención de continuar el legado de Francisco, a la vez que establece sus propias prioridades pastorales.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El papa León XIV se refirió a la posibilidad de visitar la Argentina",
+          "link": "https://www.ambito.com/mundo/el-papa-leon-xiv-se-refirio-la-posibilidad-visitar-la-argentina-n6215367",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-18 22:09:23"
+        },
+        {
+          "titulo": "El papa León XIV dice que quiere viajar a Perú, Argentina, Uruguay y México",
+          "link": "https://www.clarin.com/mundo/papa-leon-xiv-dice-quiere-viajar-peru-argentina-uruguay-mexico_0_rp0AQfAWPe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-18 17:41:03"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "muertes_turistas_patagonia_20251119",
+      "tema": "Muertes turistas Patagonia chilena",
+      "tema_normalizado": "muertes turistas patagonia chilena",
+      "resumen": "📌 **¿Qué está pasando?**\n• Cinco turistas extranjeros fallecieron en el Parque Nacional Torres del Paine, en la Patagonia chilena, tras ser sorprendidos por un fuerte temporal de nieve y vientos.\n• Los turistas formaban parte de un grupo que realizaba el exigente circuito de trekking de la “O”, y se extraviaron en el sector Perros, conocido por sus difíciles condiciones.\n• Las autoridades chilenas confirmaron el hallazgo de los cuerpos y la culminación del operativo de búsqueda, ya que el resto de los excursionistas del grupo fueron encontrados con vida.\n\n🔍 **Datos clave:**\n• **Fallecidos:** 5 turistas (2 mexicanos, 2 alemanes y 1 británica).\n• **Ubicación:** Parque Nacional Torres del Paine, sector Perros (circuito de trekking “O”).\n• **Condiciones climáticas:** Nevadas intensas y vientos de hasta 190-200 kilómetros por hora.\n• **Fecha del incidente:** Los turistas fueron reportados como desaparecidos un lunes, y los cuerpos localizados al día siguiente.\n• **Visitantes del parque:** 380.000 turistas (mayoría extranjeros) en la temporada 2024-2025.\n\n⚡ **Desarrollo:**\n• El incidente ocurrió cuando un grupo de turistas se extravió en una de las rutas de trekking más largas y exigentes del Parque Nacional Torres del Paine.\n• Las labores de búsqueda y rescate fueron extremadamente complejas debido a las severas condiciones meteorológicas, que incluyeron nevadas intensas y vientos huracanados.\n• Equipos de Carabineros, el Ejército de Chile, Socorro Andino y la Corporación Nacional Forestal (Conaf) participaron en el despliegue para la localización y evacuación de los cuerpos.\n• La geografía montañosa del lugar y la falta de personal en algunos puntos críticos, debido a los cambios de turno de los guardaparques, añadieron dificultades a la emergencia.\n• La ruta en el sector Perros es recomendada solo para senderistas experimentados y con buena preparación física, debido a la inestabilidad del terreno y el clima.\n• El presidente de Chile, Gabriel Boric, lamentó la tragedia y extendió sus condolencias, destacando el arduo trabajo de los equipos de emergencia.\n• La Fiscalía de la Región de Magallanes ha iniciado una investigación para determinar con precisión las causas exactas del trágico suceso.\n• La Secretaría de Relaciones Exteriores de México, junto con otras embajadas, brindó asistencia consular a las familias de las víctimas.\n• La Federación de Empresas de Turismo de Chile (Fedetur) resaltó el compromiso del sector con la seguridad y la importancia de fortalecer la gestión de riesgos en áreas protegidas.\n\n💡 **¿Por qué importa?**\n• Este suceso pone de manifiesto los graves riesgos que implican las actividades turísticas de aventura en entornos naturales extremos, especialmente ante condiciones climáticas adversas.\n• Subraya la necesidad de reforzar las medidas de seguridad, la señalización y la preparación para emergencias en parques nacionales, con el fin de proteger a los visitantes.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "SRE confirma la muerte de dos mexicanos en el Parque Nacional del Paine, en Chile",
+          "link": "https://www.infobae.com/mexico/2025/11/19/sre-confirma-la-muerte-de-dos-mexicanos-en-el-parque-nacional-del-paine-en-chile/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-18 23:55:00"
+        },
+        {
+          "titulo": "Mueren dos turistas mexicanos y tres europeos en la Patagonia chilena tras ser sorprendidos por un temporal",
+          "link": "https://www.lanacion.com.ar/el-mundo/mueren-dos-turistas-mexicanos-y-tres-europeos-en-la-patagonia-chilena-tras-ser-sorprendidos-por-un-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-18 23:43:12"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-19",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
