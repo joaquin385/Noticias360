@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-18",
-  "fecha_generacion": "2025-11-18T18:22:44.273856",
+  "fecha_generacion": "2025-11-19T00:54:15.949794",
   "resumenes": {
     "internacional": {
-      "resumen": "La política migratoria y doméstica de Estados Unidos concentra la atención internacional. La administración Trump intensifica la presión en la frontera con operativos de la Patrulla Fronteriza e ICE en Texas y Carolina del Norte, resultando en cientos de detenciones y la implementación de nuevos requisitos biométricos para migrantes a partir de diciembre de 2025. Se observan tensiones interestatales, como la disputa entre Florida (DeSantis) y California (Newsom) por regulaciones, y una demanda federal contra leyes californianas que protegen a inmigrantes. El salario mínimo en Florida se mantendrá en US$14 hasta 2026.\n\nEn el ámbito de la diplomacia internacional, el plan de paz de Donald Trump para Gaza recibió el aval del Consejo de Seguridad de la ONU para un alto el fuego y una fuerza internacional, aunque Rusia y China lo criticaron por falta de claridad. Nicolás Maduro, por su parte, expresó su disposición a dialogar \"cara a cara\" con el gobierno de Trump. En América Latina, las elecciones presidenciales chilenas avanzan hacia una segunda vuelta entre José Antonio Kast y Jeannette Jara, con Kast conversando con Milei sobre oportunidades bilaterales. Además, Sudáfrica cuestiona la llegada de residentes de Gaza en vuelos misteriosos, y un temporal en la Patagonia chilena causó fallecidos y desaparecidos.\n\nOtros eventos notables incluyen la alerta del MI5 británico sobre espías chinos contactando legisladores vía LinkedIn, y preocupaciones por el transporte de animales vivos tras el caso de 3.000 vacas uruguayas. Se registraron erupciones volcánicas significativas en Hawái (Kilauea) y Japón (Sakurajima). El fútbol regional también tuvo actividad, con la definición de clasificados y repechajes de Concacaf para el Mundial 2026.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T18:22:12.586233",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-19T00:54:15.949273"
     },
     "politica": {
-      "resumen": "El gobierno intensifica sus esfuerzos legislativos, priorizando el Presupuesto 2026 y reformas clave. El círculo íntimo de Javier Milei, incluyendo al ministro Luis Caputo y Karina Milei, participa en negociaciones con gobernadores y bloques legislativos, como el PRO, para asegurar apoyos. El Ministro del Interior, Diego Santilli, busca atraer a aliados tradicionales del kirchnerismo para debilitar a la oposición en el Congreso. En el ámbito de las reformas, Federico Sturzenegger impulsa una reforma laboral para limitar indemnizaciones y promover el empleo, enfrentando la resistencia de la CGT, que prepara el rechazo. El gobierno también busca avanzar con la Boleta Única de Papel.\n\nMúltiples casos de corrupción de alto perfil registran avances judiciales significativos. El escándalo en la ANDIS provocó la renuncia de Ornella Calvete del Ministerio de Economía, tras ser vinculada a su padre, Miguel Ángel Calvete, quien está siendo investigado por sobornos y lavado de dinero. Paralelamente, la Cámara Federal confirmó el procesamiento del expresidente Alberto Fernández en la causa por fraude en seguros, acercándolo a un juicio oral. Otro caso de presuntas coimas, el de Securitas, implica a un exgobernador y un senador electo, según revelaciones de chats obtenidos por la justicia.\n\nEn el plano doméstico, La Libertad Avanza consolida su centralidad política, reflejando un alto nivel de \"esperanza\" en la opinión pública. Internacionalmente, el gobierno de Milei busca establecer un liderazgo para un bloque regional de derecha, evidenciado por el apoyo a José Antonio Kast en Chile y la percepción de Milei como delegado de Donald Trump. La política provincial también es foco de atención, con la Corte Suprema deliberando sobre la controvertida posibilidad de que Gildo Insfrán opte a su noveno mandato en Formosa. Por su parte, la oposición peronista enfrenta divisiones internas, como la disputa en La Cámpora sobre la relación con Axel Kicillof.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T18:22:30.939044",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-19T00:54:15.949474"
     },
     "economia": {
-      "resumen": "El dólar blue cotiza en torno a los $1430, mientras el oficial se mantiene en $1415-$1417. El presidente del BCRA, Santiago Bausili, afirmó que la acumulación de reservas no será \"a cualquier costo\" ni con un tipo de cambio \"artificialmente alto\", supeditándola al proceso de remonetización. Bancos como Morgan Stanley y J.P. Morgan analizan la garantía de préstamos a Argentina y el manejo de deuda como claves para fortalecer las reservas. La brecha cambiaria ha vuelto a crecer, alcanzando niveles preelectorales. Los activos argentinos experimentaron una jornada adversa, con caídas en ADRs, bonos y el Merval.\n\nEn el ámbito productivo y fiscal, un decreto desregulador que obliga al INYM a no intervenir en el mercado generó fuerte rechazo de yerbateros. Nación y provincias acordaron reducir retenciones y regalías a 0% para el sector petrolero en cuencas históricas, buscando sostener la actividad. Se anticipan posibles cambios en el Monotributo y se confirmó un fallo laboral clave sobre la independencia de monotributistas. ANSES comunicó aumentos y bonos extra para jubilados.\n\nRespecto al consumo, la carne registró un aumento superior al 15% desde octubre, con proyecciones de nuevas subas. Los créditos se mantienen estancados. Supermercados ofrecen descuentos en tecnología, mientras la crisis de Granja Tres Arroyos se agrava, con posibles cierres de plantas. Se confirmaron aumentos salariales para empleados de comercio para los próximos meses.\n\nEn tecnología y mercados emergentes, una falla global de Cloudflare interrumpió servicios de fintech argentinas. Buenos Aires consolida su posición como hub cripto regional con el evento Devconnect, proyectando un impacto económico superior a los US$50 millones. El Bitcoin se asienta entre u$s92.000 y u$s93.000, aunque analistas temen un posible fondo en 2026. A nivel internacional, Wall Street experimentó caídas significativas, afectada por la expectativa de resultados de Nvidia y declaraciones de la Reserva Federal.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-18T18:22:44.273320",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-19T00:54:15.949624"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-18T18:22:44.273835"
+      "fecha_generacion": "2025-11-19T00:54:15.949777"
     }
   }
 }
