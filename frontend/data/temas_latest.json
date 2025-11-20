@@ -1,102 +1,39 @@
 {
   "fecha": "2025-11-20",
-  "fecha_generacion": "2025-11-20T09:22:46.133961",
+  "fecha_generacion": "2025-11-20T12:33:09.035139",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "dolar_y_cotizaciones_20251120",
-      "tema": "Dólar y Cotizaciones Divisas Argentinas",
-      "tema_normalizado": "dolar y cotizaciones divisas argentinas",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones del dólar y otras divisas en Argentina muestran múltiples valores, destacándose la estabilidad reciente del dólar blue y una leve suba del dólar oficial.\n• Existe una \"brecha\" entre el dólar oficial y los tipos de cambio paralelos o financieros, que refleja las tensiones en el mercado cambiario.\n\n🔍 **Datos clave:**\n• **Fecha de referencia:** Miércoles 19 y jueves 20 de noviembre de 2025.\n• **Dólar blue (20/11/2025):** Compra $1410, Venta $1430. La brecha con el oficial fue del 2%.\n• **Dólar oficial (Banco Nación, 20/11/2025):** Compra $1380, Venta $1430.\n• **Euro blue (19/11/2025):** Compra $1633,20, Venta $1656,37.\n• **Euro oficial (BCRA, 19/11/2025):** Compra $1579,03, Venta $1671,48.\n• **Real blue (19/11/2025):** Compra $261,75, Venta $273,75.\n• **Dólar MEP (19/11/2025):** Cercano a $1441, con una brecha del 2,6% con el oficial.\n• **Dólar CCL (19/11/2025):** Cercano a $1472, con una brecha del 4,7% con el oficial.\n• **Dólar Tarjeta/Turista (19/11/2025):** $1859.\n• **Dólar Cripto (19/11/2025):** Cercano a $1479.\n\n⚡ **Desarrollo:**\n• En Argentina coexisten diversos tipos de cambio para el dólar, el euro y el real, debido a controles y restricciones impuestas por el Banco Central (BCRA).\n• El **dólar blue** es la cotización del mercado informal o \"negro\", generalmente más alta que la oficial y se adquiere fuera de los bancos. Su nombre \"blue\" se asocia a \"oscuro\" o a operaciones con \"blue chips\".\n• El **dólar oficial** es el que se compra y vende en los bancos y casas de cambio, con un valor regulado por el Banco Central y el Banco Nación.\n• Otras cotizaciones importantes incluyen el **dólar MEP** (Mercado Electrónico de Pagos) y el **CCL** (Contado Con Liquidación), que son métodos legales para adquirir dólares a través de la compraventa de bonos o acciones.\n• El **dólar tarjeta** o turista incluye recargos impositivos sobre el oficial, encareciendo las compras en el exterior. También existe el **dólar cripto** que opera en plataformas digitales.\n• El dólar blue, aunque bajó un 8% en noviembre de 2025 respecto al mes anterior, ha subido un 26% en lo que va de 2025 en comparación con 2024.\n• El Banco Central y el Tesoro son actores clave en el mercado, con operaciones de compra de divisas y declaraciones sobre la acumulación de reservas.\n\n💡 **¿Por qué importa?**\n• La existencia de múltiples cotizaciones y la brecha cambiaria reflejan la inestabilidad económica y las expectativas sobre el futuro valor del peso argentino.\n• Estas diferencias impactan directamente en la economía de las personas y empresas, afectando el poder adquisitivo, los costos de importación/exportación y las decisiones de ahorro e inversión.",
-      "cantidad_noticias": 11,
-      "noticias": [
-        {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este jueves 20 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-20-noviembre_0_6o3066bHiz.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-20 04:00:02"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-miercoles-19-noviembre-n6215760",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:06:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-19-noviembre-n6215439",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:06:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-19-noviembre-n6215329",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:05:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-19-noviembre-n6215405",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 17:31:00"
-        },
-        {
-          "titulo": "El dólar blue se sostuvo en los $1.430 y cerró al mismo nivel que el billete en el Banco Nación",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-se-sostuvo-los-1430-y-cerro-al-mismo-nivel-que-el-billete-el-banco-nacion-n6215713",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 16:35:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-19-noviembre-n6215327",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 16:20:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 19 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-19-noviembre-n6215304",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 16:05:00"
-        },
-        {
-          "titulo": "El dólar oficial anotó su segunda suba consecutiva, mientras los futuros empezaron a despertarse",
-          "link": "https://www.ambito.com/finanzas/el-dolar-se-mueve-cautela-disminuye-la-brecha-los-financieros-y-el-tipo-cambio-se-mantiene-1400-n6215413",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 16:02:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 19 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-19-noviembre-n6215324",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 15:48:00"
-        },
-        {
-          "titulo": "A cuánto cerró el euro blue hoy miércoles 19 de noviembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-miercoles-19-de-noviembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-19 15:15:28"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-20",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "caso_corrupcion_andis_20251120",
-      "tema": "Caso Corrupción ANDIS y Spagnuolo",
-      "tema_normalizado": "caso corrupcion andis y spagnuolo",
-      "resumen": "📌 **¿Qué está pasando?**\n• Una investigación judicial destapó una presunta red de corrupción y sobornos en la Agencia Nacional de Discapacidad (ANDIS).\n• Se imputa al ex titular Diego Spagnuolo, funcionarios y operadores por el direccionamiento de contratos millonarios y pedidos de coimas.\n• El caso involucra el hallazgo de grandes sumas de dinero sin justificar, chats comprometedores y el uso de usuarios internos para favorecer licitaciones.\n\n🔍 **Datos clave:**\n• **Diego Spagnuolo:** Ex titular de la ANDIS, imputado en la causa.\n• **Miguel Ángel Calvete:** Operador \"para-estatal\" y padre de Ornella Calvete, con condena previa por explotación sexual.\n• **Ornella Calvete:** Ex funcionaria de Economía, se le incautaron casi US$ 700,000 en su domicilio, habiendo declarado US$ 45,000 en julio de 2024.\n• **Luciana Ferrari:** Ex ejecutiva de Laboratorios Roche, despedida e investigada por ser nexo con droguerías y manipular licitaciones.\n• **Daniel Garbellini:** Ex director Nacional de Acceso a los Servicios de Salud de ANDIS, imputado, habría facilitado acceso al sistema de contrataciones.\n• **US$ 82,000 y € 2,950:** Monto hallado en caja de seguridad de Spagnuolo, que él atribuye a ahorros anteriores a su gestión (abril de 2023).\n• **$40,000 millones:** Monto de contratos ganados por cuatro droguerías (Profarma, Génesis, New Pharma, Floresta) en el último año y medio.\n• **Agosto 13, 2024:** Fecha de chats clave entre Ferrari y Garbellini sobre acceso al sistema de contrataciones.\n\n⚡ **Desarrollo:**\n• La investigación se inició por audios (difundidos en septiembre de 2024) que mencionaban una supuesta \"coima del 3% para Karina Milei\". La defensa de Spagnuolo alega que fueron \"manipulados con Inteligencia Artificial\".\n• El fiscal Franco Picardi acusa de direccionamiento de contratos a droguerías, beneficiando sistemáticamente a empresas como Profarma, Génesis, New Pharma y Floresta entre diciembre de 2023 y octubre de 2025.\n• Luciana Ferrari fue despedida de Laboratorios Roche tras revelarse chats donde coordinaba con Daniel Garbellini para obtener información y manipular licitaciones de la ANDIS. En un chat de agosto de 2024, recibió una clave para \"auditar a lo loco\".\n• Miguel Ángel Calvete, señalado como operador clave, era agendado por Spagnuolo como \"Chuen Li\" y discutía borrar historiales y ocultar registros en chats incautados. Fue concejal por Cambiemos y está vinculado a pagos de droguerías.\n• Ornella Calvete, hija de Miguel Ángel, fue destituida del Ministerio de Economía luego del hallazgo de US$ 700,000 sin justificar en su casa, en contraste con los US$ 45,000 declarados en julio de 2024.\n• Diego Spagnuolo se negó a responder preguntas ante el juez Sebastián Casanello y el fiscal Picardi. Hizo un descargo oral donde negó las acusaciones, justificó el dinero en su caja de seguridad como ahorros previos a marzo de 2023 y desestimó la remodelación de su vivienda.\n• El Presidente Javier Milei se refirió al caso como una \"operación política\" con \"mala intención\". Aseguró que el Gobierno tiene \"absoluta tranquilidad\" y es \"implacable\" ante la corrupción.\n\n💡 **¿Por qué importa?**\n• El caso expone presuntas irregularidades en un organismo sensible como la ANDIS, que gestiona recursos destinados a personas con discapacidad, afectando la transparencia y la confianza pública.\n• La investigación toca a ex funcionarios de distintas áreas y actores privados, subrayando la complejidad de las redes de corrupción y el desafío para el sistema judicial argentino.",
+      "tema_id": "escandalo_andis_por_20251120",
+      "tema": "Escándalo ANDIS por presuntas coimas",
+      "tema_normalizado": "escandalo andis por presuntas coimas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga un escándalo de presuntas coimas y desvío de fondos públicos en la Agencia Nacional de Discapacidad (ANDIS).\n• La causa se originó por audios atribuidos a su extitular, Diego Spagnuolo, quien supuestamente mencionaba un \"3% para Karina\" (Karina Milei).\n• Varios exfuncionarios y empresarios están imputados y han sido citados a declaración indagatoria ante la Justicia.\n\n🔍 **Datos clave:**\n• **Organismo:** Agencia Nacional de Discapacidad (ANDIS).\n• **Principal acusado:** Diego Spagnuolo, extitular de ANDIS.\n• **Otros implicados:** Daniel Garbellini, Miguel Ángel Calvete, Pablo Atchabahian, Luciana Ferrari.\n• **Monto en investigación:** Fiscalía estima desvío de $43.000 millones.\n• **Audios reveladores:** Difundidos en septiembre de 2025, activaron la causa judicial.\n• **Dinero no declarado (Spagnuolo):** U$S 82.000 y € 2.950 en una caja de seguridad.\n• **Dinero hallado (Ornella Calvete):** U$S 700.000 en su vivienda.\n• **Imputados:** 15 personas en total.\n\n⚡ **Desarrollo:**\n• Diego Spagnuolo se negó a declarar, pero hizo aclaraciones negando las acusaciones y su abogado argumenta que los audios fueron manipulados con Inteligencia Artificial.\n• Se detectaron irregularidades patrimoniales en Spagnuolo, como dinero no declarado, gastos elevados y borrado de chats en sus celulares.\n• Daniel Garbellini, exdirector de acceso a servicios de salud, es acusado de ser una pieza clave en la maniobra, facilitando el acceso al sistema de contrataciones.\n• El empresario Miguel Ángel Calvete, con relación \"fluida\" con Spagnuolo, está detenido y también se negó a declarar. Su hija renunció a su cargo tras el hallazgo de dinero.\n• Luciana Ferrari, ejecutiva de Laboratorios Roche, fue despedida y es investigada como conexión entre droguerías y funcionarios, operando con una clave del sistema de ANDIS.\n• El presidente Javier Milei se refirió al caso, transmitiendo \"absoluta tranquilidad\" y atribuyéndolo a una \"mala intención política\" y \"complicidad de los medios\".\n\n💡 **¿Por qué importa?**\n• Afecta directamente los fondos destinados a personas con discapacidad, un sector vulnerable, generando preocupación sobre la transparencia en la gestión de recursos públicos.\n• El caso tiene implicaciones políticas al salpicar a funcionarios del gobierno actual y su entorno, poniendo en tela de juicio las promesas de lucha contra la corrupción.",
       "cantidad_noticias": 8,
       "noticias": [
+        {
+          "titulo": "Este jueves es la declaración indagatoria a Daniel Garbellini por la causa ANDIS",
+          "link": "https://www.minutouno.com/politica/este-jueves-es-la-declaracion-indagatoria-daniel-garbellini-la-causa-andis-n6215902",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 09:08:32"
+        },
+        {
+          "titulo": "Escándalo de Andis: qué se sabe de la indagatoria de Spagnuolo y de las presuntas coimas hoy",
+          "link": "https://www.lanacion.com.ar/politica/escandalo-de-andis-que-se-sabe-de-la-indagatoria-de-spagnuolo-y-de-las-presuntas-coimas-hoy-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 09:06:20"
+        },
+        {
+          "titulo": "Javier Milei se refirió al caso ANDIS tras la indagatoria a Diego Spagnuolo: \"Tengo una absoluta tranquilidad\"",
+          "link": "https://www.ambito.com/politica/javier-milei-se-refirio-al-caso-andis-la-indagatoria-diego-spagnuolo-tengo-una-absoluta-tranquilidad-n6215909",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 08:57:00"
+        },
+        {
+          "titulo": "Escándalo de Andis: el abogado de Spagnuolo afirmó que los audios de las presuntas coimas fueron “manipulados con IA“",
+          "link": "https://www.lanacion.com.ar/politica/escandalo-de-andis-el-abogado-de-spagnuolo-afirmo-que-los-audios-de-las-presuntas-coimas-fueron-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 07:52:21"
+        },
         {
           "titulo": "Chats, cuadernos y sobreprecios. Las claves para seguir la investigación de corrupción en la Agencia de Discapacidad",
           "link": "https://www.lanacion.com.ar/politica/chats-cuadernos-y-sobornos-las-claves-para-seguir-el-caso-por-corrupcion-en-la-agencia-de-nid19112025/",
@@ -104,16 +41,10 @@
           "fecha": "2025-11-20 03:23:17"
         },
         {
-          "titulo": "Milei se refirió al caso Andis y aseguró que en el Gobierno hay “absoluta tranquilidad”: “Somos implacables”",
-          "link": "https://www.lanacion.com.ar/politica/milei-se-refirio-al-caso-andis-y-aseguro-que-en-el-gobierno-hay-absoluta-tranquilidad-somos-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 23:48:36"
-        },
-        {
-          "titulo": "Los bienes de la funcionaria de Economía a la que le encontraron US$ 700 mil dólares",
-          "link": "https://noticias.perfil.com/noticias/politica/los-bienes-de-la-funcionaria-de-economia-a-la-que-le-encontraron-us-700-mil.phtml",
+          "titulo": "Javier Milei transmitió \"tranquilidad\" frente al escándalo de las coimas y se lo adjudicó a \"la política y los medios\"",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-hablo-del-escandalo-andis-y-aseguro-que-se-encamina-a-erradicar-completamente-la-inflacion.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-19 21:37:00"
+          "fecha": "2025-11-20 02:01:00"
         },
         {
           "titulo": "ANDIS: echaron a una empleada de Laboratorios Roche investigada en el causa de las coimas",
@@ -126,32 +57,14 @@
           "link": "https://www.clarin.com/politica/andis-spagnuolo-presentara-causa-peritaje-particular-dice-audios-editados-inteligencia-artificial_0_VzqziVPWJh.html",
           "fuente": "Clarín",
           "fecha": "2025-11-19 19:18:50"
-        },
-        {
-          "titulo": "Coimagate: quién es el padre preso de la funcionaria de los 700 mil dólares",
-          "link": "https://noticias.perfil.com/noticias/politica/coimagate-quien-es-el-padre-preso-de-la-funcionaria-de-los-700-mil-dolares.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-19 16:47:59"
-        },
-        {
-          "titulo": "Coimas en la ANDIS: Diego Spagnuolo evitó responder preguntas y desestimó las acusaciones",
-          "link": "https://www.minutouno.com/politica/coimas-la-andis-diego-spagnuolo-evito-responder-preguntas-y-desestimo-las-acusaciones-n6215688",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 15:41:00"
-        },
-        {
-          "titulo": "ANDIS: Diego Spagnuolo rechazó las acusaciones y se negó a responder preguntas",
-          "link": "https://www.ambito.com/politica/andis-diego-spagnuolo-declara-la-causa-el-supuesto-pedidos-coimas-n6215449",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 15:15:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
-        "Ámbito Financiero",
         "Minuto1",
         "La Nación",
+        "Ámbito Financiero",
         "Perfil",
         "Clarín"
       ],
@@ -161,75 +74,129 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "restricciones_judiciales_visitas_20251120",
-      "tema": "Restricciones Judiciales Visitas Cristina Kirchner",
-      "tema_normalizado": "restricciones judiciales visitas cristina kirchner",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Justicia argentina impuso nuevas y estrictas restricciones a las visitas que recibe Cristina Kirchner en su domicilio.\n*   Ella cumple prisión domiciliaria por la condena en la Causa Vialidad en su departamento de San José 1111.\n*   La medida surge tras la difusión de una foto en la que aparece reunida con un grupo numeroso de economistas.\n\n🔍 **Datos clave:**\n*   **Condena:** Cristina Kirchner cumple una pena de 6 años de prisión por la Causa Vialidad.\n*   **Modalidad:** Prisión domiciliaria en su departamento de San José 1111, CABA.\n*   **Juez a cargo:** Jorge Gorini, del Tribunal Oral Federal 2, fue quien dictó las nuevas restricciones.\n*   **Detonante:** Una foto de la expresidenta con nueve economistas, difundida por ella misma en redes sociales.\n*   **Nuevo Régimen de Visitas:**\n    *   Máximo 2 visitas por semana.\n    *   Hasta 3 personas por visita.\n    *   Duración máxima de 2 horas por encuentro.\n    *   Requiere autorización judicial \"individual, expresa y previa\" con justificación detallada.\n*   **Excepciones:** Familiares, abogados defensores, profesionales de la salud y custodia policial mantienen autorizaciones habituales.\n*   **Precedente:** En los 80 días anteriores al endurecimiento, se registraron al menos 77 visitas (según Clarín), promediando casi una por día.\n\n⚡ **Desarrollo:**\n*   El juez Gorini consideró que la visita simultánea de los nueve economistas excedió la autorización, que era individual para cada uno, no para un encuentro colectivo.\n*   La Justicia argumentó que este tipo de reuniones \"desnaturalizan\" el arresto domiciliario y demuestran \"falta de prudencia\" por parte de la condenada.\n*   Cristina Kirchner reaccionó en redes sociales, afirmando que \"no es la foto… es la Economía estúpido\", y vinculó las restricciones a sus críticas al gobierno de Javier Milei.\n*   La expresidenta sostuvo que todas sus visitas siempre tuvieron autorización judicial y que el contenido de la reunión sobre un \"Modelo Económico Nacional\" fue lo que realmente molestó.\n*   Recordó haber recibido grupos similares en el pasado (ej. 7 personas el 26 de septiembre) sin que esto generara controversia mediática o judicial.\n*   Se advirtió a Kirchner que el incumplimiento de las nuevas condiciones podría llevar a la modificación o incluso a la anulación de su prisión domiciliaria.\n\n💡 **¿Por qué importa?**\n*   Esta medida refuerza el control judicial sobre la expresidenta, limitando su capacidad de realizar reuniones políticas y públicas desde su domicilio.\n*   El caso reabre el debate sobre los límites del ejercicio político y las condiciones de la prisión domiciliaria para figuras públicas de alto perfil en Argentina.",
-      "cantidad_noticias": 9,
+      "tema_id": "cotizaciones_de_dolar,_20251120",
+      "tema": "Cotizaciones de dólar, euro y real",
+      "tema_normalizado": "cotizaciones de dolar, euro y real",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina presenta un panorama cambiario complejo con múltiples cotizaciones para el dólar, euro y real.\n• Los valores varían significativamente entre el mercado oficial, el paralelo (blue) y opciones financieras, actualizados para el jueves 20 de noviembre.\n\n🔍 **Datos clave:**\n• **Fecha:** Jueves 20 de noviembre.\n• **Dólar Oficial (minorista):** Compra $1380 / Venta $1430.\n• **Dólar Blue:** Compra $1410 / Venta $1430 (Brecha del 2% con el oficial).\n• **Dólar Tarjeta/Turista:** $1859 (valor oficial más 60% en impuestos).\n• **Dólar MEP:** Compra $1438,90 / Venta $1446,10.\n• **Dólar CCL:** Compra $1473,80 / Venta $1476,50.\n• **Dólar Cripto:** Compra $1459,55 / Venta $1479.\n• **Euro Oficial (BCRA promedio):** Compra $1579,03 / Venta $1671,48.\n• **Euro Blue:** Compra $1633,20 / Venta $1656,37 (con amplia brecha respecto al oficial).\n• **Real Oficial (Banco Nación):** Compra $239,64 / Venta $239,87.\n• **Real Blue:** Compra $278,75 / Venta $267,75 (Brecha del 14.03% con el oficial).\n• **Riesgo País:** Se ubicó alrededor de 600 puntos básicos (cayó a 599).\n\n⚡ **Desarrollo:**\n• Argentina cuenta con diversos tipos de cambio del dólar debido a regulaciones y un mercado informal. El oficial y mayorista son controlados por el BCRA, mientras el blue opera en \"cuevas\".\n• El dólar tarjeta incluye un 30% de Impuesto País y un 30% de Ganancias (un total del 60% de recargo) para gastos en el exterior y ahorro.\n• El Dólar MEP (dólar bolsa) y CCL (contado con liquidación) son herramientas financieras legales para adquirir divisas mediante la compraventa de bonos, ya sea localmente o para girar al exterior.\n• Tanto el euro como el real también presentan cotizaciones oficiales y un mercado paralelo (\"blue\"), con diferencias notables entre ellos.\n• El mercado se mantiene atento a la dinámica cambiaria, especialmente antes de feriados que pueden reducir el volumen de operaciones.\n• El Banco Central (BCRA) vincula la acumulación de reservas a procesos de remonetización y cambios en la estructura productiva, no a un tipo de cambio artificialmente alto.\n• Hay optimismo de gestores internacionales hacia los activos argentinos, lo que se refleja en la caída del riesgo país.\n\n💡 **¿Por qué importa?**\n• Comprender las múltiples cotizaciones es crucial para ciudadanos, turistas y empresas al realizar transacciones, planificar gastos o tomar decisiones de inversión.\n• Las fluctuaciones y la brecha entre los distintos tipos de cambio son indicadores clave de la situación económica y la confianza en el país.",
+      "cantidad_noticias": 18,
       "noticias": [
         {
-          "titulo": "La puerta abierta de la prisión domiciliaria de Cristina Kirchner: recibió al menos 77 visitas en los últimos 80 días",
-          "link": "https://www.clarin.com/politica/puerta-abierta-prision-domiciliaria-cristina-kirchner-recibio-72-visitas-ultimos-80-dias_0_wQpfptF26y.html",
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-20-de-noviembre-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 09:12:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-jueves-20-noviembre_0_EgQTcfVB2q.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-19 21:43:12"
+          "fecha": "2025-11-20 09:00:01"
         },
         {
-          "titulo": "Cristina Kirchner cuestionó la nueva restricción a las condiciones de su detención y la vinculó a sus criticas a Javier Milei",
-          "link": "https://www.ambito.com/politica/cristina-kirchner-vinculo-la-nueva-restriccion-sus-visitas-sus-criticas-javier-milei-n6215697",
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 20 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-20-noviembre-n6215890",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 16:11:00"
+          "fecha": "2025-11-20 08:50:00"
         },
         {
-          "titulo": "La defensa de Cristina Kirchner tras la polémica por la foto con economistas en su domicilio",
-          "link": "https://www.minutouno.com/politica/la-defensa-cristina-kirchner-la-polemica-la-foto-economistas-su-domicilio-n6215694",
+          "titulo": "Dólar: en medio de la \"pax\" cambiaria, el mercado se prepara para una jornada más movida antes del feriado",
+          "link": "https://www.ambito.com/finanzas/dolar-medio-la-pax-cambiaria-el-mercado-se-prepara-una-jornada-mas-movida-antes-del-feriado-n6215894",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 08:44:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 20 de noviembre, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-20-noviembre-minuto-minuto_0_EuwICXwvYN.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:30:44"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-jueves-20-noviembre_0_qE586hcbiK.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:08:01"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-jueves-20-noviembre_0_HNyUY5q9ME.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:08:01"
+        },
+        {
+          "titulo": "Dólar cripto hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-jueves-20-noviembre_0_aiBb1cDwCL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:05:02"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-jueves-20-noviembre_0_hDFYjxNtYv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:05:01"
+        },
+        {
+          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-jueves-20-noviembre_0_OyrfcHbyUT.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:00:02"
+        },
+        {
+          "titulo": "Euro hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-jueves-20-noviembre_0_uYha4GKY2t.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:00:01"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 20 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-20-noviembre-n6215884",
           "fuente": "Minuto1",
-          "fecha": "2025-11-19 15:50:00"
+          "fecha": "2025-11-20 06:25:00"
         },
         {
-          "titulo": "La Justicia impuso nuevas restricciones a Cristina Kirchner: cómo será ahora el régimen de visitas",
-          "link": "https://www.minutouno.com/politica/la-justicia-impuso-nuevas-restricciones-cristina-kirchner-como-sera-ahora-el-regimen-visitas-n6215690",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 15:47:00"
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 20 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-20-noviembre-n6215797",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 00:00:00"
         },
         {
-          "titulo": "\"Es la economía, estúpido\": la reacción de Cristina Kirchner tras las nuevas restricciones por la foto con 9 economistas",
-          "link": "https://www.perfil.com/noticias/politica/es-la-economia-estupido-la-reaccion-de-cristina-kirchner-tras-las-nuevas-restricciones-por-la-foto-con-9-economistas.phtml",
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 20 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-20-noviembre-n6215796",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 20 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-20-noviembre-n6215793",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 00:00:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este jueves 20 de noviembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-jueves-20-de-noviembre-de-2025.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-19 15:45:55"
+          "fecha": "2025-11-19 19:35:11"
         },
         {
-          "titulo": "Nuevo revés para Cristina Kirchner: la Justicia limitó las visitas al departamento donde está presa",
-          "link": "https://www.iprofesional.com/politica/442308-nuevo-reves-para-cristina-kirchner-justicia-limito-visitas-departamento",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-19 15:39:00"
+          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este jueves 20 de noviembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-jueves-20-de-noviembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 19:25:41"
         },
         {
-          "titulo": "La Justicia dispuso nuevas restricciones al régimen de visitas de Cristina Kirchner",
-          "link": "https://www.ambito.com/politica/la-justicia-dispuso-nuevas-restricciones-al-regimen-visitas-cristina-kirchner-n6215686",
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-miercoles-19-noviembre-n6215760",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 15:37:00"
-        },
-        {
-          "titulo": "Cristina Kirchner defendió su foto con nueve economistas mientras cumple prisión domiciliaria: \"¿Cuál es el problema?\"",
-          "link": "https://www.clarin.com/politica/cristina-kirchner-defendio-foto-economistas-cumple-prision-domiciliaria-problema_0_W9V6GpuT7l.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 15:33:11"
-        },
-        {
-          "titulo": "Tras una foto con nueve economistas, aplican restricciones a las visitas de Cristina: grupos de tres y dos veces por semana",
-          "link": "https://www.clarin.com/politica/foto-9-economistas-aplican-restricciones-visitas-cristina-arresto-domiciliario_0_GnNqrKNFWH.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 15:30:39"
+          "fecha": "2025-11-19 18:06:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
-        "Ámbito Financiero",
         "Minuto1",
+        "La Nación",
+        "Ámbito Financiero",
         "Perfil",
-        "Clarín",
-        "iProfesional"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -237,12 +204,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politicas_empleo_publico_20251120",
-      "tema": "Políticas Empleo Público y Reforma Laboral",
-      "tema_normalizado": "politicas empleo publico y reforma laboral",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno impulsa una reforma laboral centrada en el sector privado para crear empleo formal y mejorar salarios.\n• Simultáneamente, implementa medidas para el empleo público, como retiros voluntarios en medios estatales.\n• Esto genera un paro nacional de ATE, que el Gobierno desestima y responde con advertencias de descuentos salariales.\n\n🔍 **Datos clave:**\n• **Ministro de Desregulación:** Federico Sturzenegger.\n• **Gremio estatal:** ATE (Asociación Argentina de Trabajadores del Estado), liderado por Rodolfo Aguiar.\n• **Empleados en Medios Públicos:** Cerca de 2400 (1300 en TV Pública, 1100 en Radio Nacional).\n• **Paro de ATE:** Convocado y realizado el 19 de noviembre contra la reforma laboral.\n• **Objetivo de la reforma:** Crear empleo formal, estancado hace 10 años.\n\n⚡ **Desarrollo:**\n• La reforma laboral, según Sturzenegger, es \"solo para el sector privado\" y busca \"bajar la incertidumbre\" a empresarios al contratar.\n• Sus tres puntos centrales son: reducir la \"industria del juicio\" laboral, renegociar convenios colectivos (algunos de los años '70) y modificar la \"prelación\" para permitir negociaciones por rubro, región o empresa.\n• El ministro cuestiona las \"contribuciones obligatorias\" sindicales, llamándolas \"carancheo\" que añade costos y podría reducir sueldos.\n• En el ámbito público, el Gobierno abrirá retiros voluntarios en Medios Públicos (TV Pública y Radio Nacional) para reducir la planta y buscar eficiencia.\n• ATE, calificando la reforma de \"regresiva\", realizó un paro con acatamiento superior al 90%, defendiendo el derecho a huelga del artículo 14 bis de la Constitución.\n• El Gobierno advirtió que descontará el día a los estatales que adhirieron al paro, lo que ATE considera una \"amenaza ilegal\" e \"inconstitucional\".\n• La situación ha escalado a cruces y denuncias judiciales entre la ministra de Seguridad, Patricia Bullrich, y el líder de ATE.\n\n💡 **¿Por qué importa?**\n• Estas políticas buscan transformar las relaciones laborales y la estructura del empleo público en Argentina, generando un amplio debate social y político.\n• Representan un pulso entre la visión de desregulación y flexibilización del Gobierno y la defensa de los derechos laborales y la estabilidad del empleo por parte de los sindicatos.",
-      "cantidad_noticias": 4,
+      "tema_id": "medidas_y_reformas_20251120",
+      "tema": "Medidas y reformas del Gobierno Milei",
+      "tema_normalizado": "medidas y reformas del gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei está implementando y acelerando una serie de reformas y medidas, especialmente en la reestructuración del gabinete y el ámbito laboral.\n• Se destacan los cambios en la Ley de Ministerios y una propuesta de reforma laboral que busca flexibilizar el mercado de trabajo.\n• El Presidente ha prometido \"muchas más reformas\" y advierte que la mejora económica será gradual.\n\n🔍 **Datos clave:**\n• **DNU 825/2025**: Decreto clave que reordena las funciones ministeriales, publicado en el Boletín Oficial.\n• **Federico Sturzenegger**: Ministro de Desregulación y Transformación del Estado, impulsor de la reforma laboral.\n• **Diego Santilli**: Ministro del Interior, a quien se le restituyen las áreas de Deportes y el RENAPER.\n• **Manuel Adorni**: Jefe de Gabinete, quien absorbe las áreas de Turismo, Ambiente, y Comunicación y Medios.\n• **Noviembre 19**: Fecha en que la Asociación de Trabajadores del Estado (ATE) realizó un paro nacional contra la reforma laboral.\n• **600 mil decretos**: Cifra mencionada por Milei como potenciales modificaciones estructurales aún por implementar.\n\n⚡ **Desarrollo:**\n• El Gobierno modificó la Ley de Ministerios a través del DNU 825/2025, revirtiendo decisiones previas del Decreto 793/2025.\n• El Registro Nacional de las Personas (RENAPER) y la Secretaría de Deportes fueron reasignados al Ministerio del Interior, liderado por Diego Santilli, tras una interna con Manuel Adorni.\n• Las carteras de Turismo y Ambiente, bajo Daniel Scioli, pasaron a la órbita de la Jefatura de Gabinete, mientras que Adorni también asumió la Secretaría de Comunicación y Medios.\n• Se impulsa una reforma laboral para el sector privado, que busca reducir la \"industria del juicio\", flexibilizar los convenios colectivos de trabajo y permitir la negociación por rubro o región, según detalló Federico Sturzenegger.\n• La Confederación General del Trabajo (CGT) prepara una propuesta alternativa y busca alianzas con diputados y gobernadores, mientras ATE realizó un paro, denunciando que la reforma es \"precarizadora\" y que los descuentos salariales por paro son \"inconstitucionales\".\n• El presidente Milei ha reafirmado su \"vocación reformista\", anunciando futuras medidas en ámbitos como la reforma tributaria, el Código Penal y la seguridad.\n• El Gobierno también lanzó la compra de 43 trenes (Unidades Múltiples Diésel) para modernizar la flota ferroviaria del AMBA.\n• Estados Unidos, a través de su embajador Peter Lamelas, ha expresado su apoyo a las iniciativas de Milei, destacando su potencial para dinamizar la economía y abrir mercados.\n\n💡 **¿Por qué importa?**\n• Las medidas representan una reconfiguración significativa de la estructura estatal y el marco legal laboral, buscando mayor eficiencia y flexibilización económica.\n• La firmeza del Gobierno en su agenda de reformas, junto con las advertencias sobre la gradualidad de la mejora económica, marcan las pautas para el futuro del país, generando expectativas y resistencias en distintos sectores.",
+      "cantidad_noticias": 14,
       "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 09:01:35"
+        },
+        {
+          "titulo": "El Gobierno modificó la Ley de Ministerios: Scioli pasa a la órbita de Adorni y Renaper queda bajo el control de Santilli",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-modifico-la-ley-de-ministerios-scioli-pasa-a-la-orbita-de-adorni-y-renaper-queda-bajo-el-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 08:42:46"
+        },
+        {
+          "titulo": "Javier Milei oficializó el DNU que redistribuye funciones entre ministerios y devuelve Deportes y el Renaper a Interior",
+          "link": "https://www.ambito.com/politica/javier-milei-oficializo-el-dnu-que-redistribuye-funciones-ministerios-y-devuelve-deportes-y-el-renaper-interior-n6215880",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 08:36:00"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente firmó el DNU para que el Renaper y Deportes queden bajo la órbita de Santilli en Interior",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-firmo-dnu-renaper-deportes-queden-orbita-santilli-interior_0_mp8nMcF6uB.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:53:45"
+        },
+        {
+          "titulo": "Tras la interna con Manuel Adorni, le devolvieron a Diego Santilli el control de Deportes y RENAPER",
+          "link": "https://www.minutouno.com/politica/tras-la-interna-manuel-adorni-le-devolvieron-diego-santilli-el-control-deportes-y-renaper-n6215886",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 07:45:00"
+        },
         {
           "titulo": "Federico Sturzenegger dijo que la reforma laboral no afectará a los estatales y que busca \"crear empleo formal\"",
           "link": "https://www.perfil.com/noticias/politica/federico-sturzenegger-dijo-que-la-reforma-laboral-no-afectara-a-los-estatales-y-que-busca-crear-empleo-formal.phtml",
@@ -250,73 +247,22 @@
           "fecha": "2025-11-20 05:30:00"
         },
         {
-          "titulo": "Federico Sturzenegger aseguró que la reforma laboral no alcanza a los empleados estatales: ”Protestan por protestar\"",
-          "link": "https://www.lanacion.com.ar/politica/federico-sturzenegger-aseguro-que-la-reforma-laboral-no-alcanza-a-los-empleados-estatales-protestan-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 23:41:11"
-        },
-        {
-          "titulo": "El Gobierno abrirá retiros voluntarios para empleados de medios públicos",
-          "link": "https://www.iprofesional.com/economia/442336-gobierno-javier-milei-abrira-retiros-voluntarios-para-empleados-medios-de-comunicacion-publicos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-19 19:43:00"
-        },
-        {
-          "titulo": "Paro de ATE contra la reforma laboral: el Gobierno advirtió que le descontará el día a los estatales que adhirieron",
-          "link": "https://www.ambito.com/politica/paro-ate-contra-la-reforma-laboral-el-gobierno-advirtio-que-le-descontara-el-dia-los-estatales-que-adhieran-n6215618",
+          "titulo": "Reforma laboral: la CGT acelera una propuesta alternativa y afianza alianzas de cara al debate",
+          "link": "https://www.ambito.com/politica/reforma-laboral-la-cgt-acelera-una-propuesta-alternativa-y-afianza-alianzas-cara-al-debate-n6215745",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:38:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-20",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Perfil",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "gobierno_milei:_anuncios_20251120",
-      "tema": "Gobierno Milei: Anuncios y Vocación Reformista",
-      "tema_normalizado": "gobierno milei: anuncios y vocacion reformista",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente Javier Milei reafirma la \"vocación reformista\" de su gobierno, anunciando una profundización de las transformaciones con la frase \"abróchense los cinturones porque va a haber más reformas\".\n*   Estos anuncios se enmarcan en la celebración de los dos años de su victoria electoral y tras los resultados de las elecciones legislativas de octubre, que él interpreta como un \"mandato incontestable\" para el cambio.\n*   En paralelo, se desarrolla una investigación judicial por presunta corrupción en la Agencia Nacional de Discapacidad (ANDIS) durante su gestión, la cual Milei atribuye a \"la política y los medios\".\n\n🔍 **Datos clave:**\n*   **2 años:** Se cumplen del triunfo electoral de Javier Milei en el balotaje.\n*   **20 meses:** Período de gestión al que se refiere Milei para defender los logros.\n*   **41% vs. 24%:** Resultado que el presidente asigna a las últimas elecciones legislativas, comparándolo con una \"primera vuelta\".\n*   **$50.000 millones:** Reducción de deuda que el presidente afirma haber logrado.\n*   **1.1%:** Inflación mayorista registrada en octubre, la más baja en cinco meses.\n*   **600 mil:** Cantidad de decretos con modificaciones estructurales que Milei asegura tener \"en el tintero\".\n*   **15 acusados:** Personas citadas a indagatoria en la causa ANDIS.\n\n⚡ **Desarrollo:**\n*   Milei defiende sus primeros 20 meses de gestión, destacando el \"déficit cero\" logrado al primer mes y la eliminación del \"cuasifiscal\" en seis meses.\n*   Anuncia el inicio de \"reformas de segunda generación\" que abordarán cuestiones tributarias, laborales y un nuevo Código Penal para aumentar penas, además de la aprobación del Presupuesto 2026.\n*   El presidente critica la \"actitud destituyente\" de la oposición y del Congreso, señalando que su programa económico debió \"soportar más de 40 leyes en contra\".\n*   Respecto al escándalo de la ANDIS, Milei defiende a sus funcionarios y atribuye el origen de la polémica a \"la política y los medios\", desestimando las acusaciones.\n*   El gobierno también dio marcha atrás con una medida, devolviendo las plataformas \"Cine.Ar\" al INCAA para buscar su privatización mediante licitación pública.\n*   Milei convoca a la \"participación activa\" de empresarios e inversores para generar crecimiento, proyectando que \"el mundo podría llegar a hablar de crecer a tasas argentinas\", aunque advierte que la mejora en el bolsillo será \"paulatina\".\n*   Su programa económico se sostiene sobre cinco \"anclas\": las tradicionales (cambiaria, monetaria y fiscal) y dos nuevas (geopolítica con apoyo de EE.UU. y política basada en el respaldo popular).\n\n💡 **¿Por qué importa?**\n*   Los anuncios de Milei señalan una profundización de su agenda de desregulación y ajuste, lo que impactará significativamente en la economía, el marco legal y la relación Estado-sociedad.\n*   La controversia por la ANDIS y la forma en que el gobierno la aborda reflejan las tensiones políticas y judiciales en un contexto de cambios drásticos propuestos por la administración actual.",
-      "cantidad_noticias": 9,
-      "noticias": [
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-20 04:00:00"
-        },
-        {
-          "titulo": "Javier Milei transmitió \"tranquilidad\" frente al escándalo de las coimas y se lo adjudicó a \"la política y los medios\"",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-hablo-del-escandalo-andis-y-aseguro-que-se-encamina-a-erradicar-completamente-la-inflacion.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-20 02:01:00"
-        },
-        {
-          "titulo": "\"No pienso en la reelección\", reveló un Javier Milei sin voz por los plátanos y \"a la miseria\"",
-          "link": "https://www.minutouno.com/politica/no-pienso-la-reeleccion-revelo-un-javier-milei-voz-los-platanos-y-a-la-miseria-n6215873",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-20 00:39:49"
-        },
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 23:10:00"
+          "fecha": "2025-11-20 00:00:00"
         },
         {
           "titulo": "Mientras se complica su situación por el caso $Libra, Milei pisó el acelerador: \"Abróchense los cinturones porque va a haber más reformas\"",
           "link": "https://www.perfil.com/noticias/politica/mientras-se-complica-su-situacion-por-el-caso-libra-milei-piso-el-acelerador-abrochense-los-cinturones-porque-va-a-haber-mas-reformas.phtml",
           "fuente": "Perfil",
           "fecha": "2025-11-19 23:00:00"
+        },
+        {
+          "titulo": "Peter Lamelas se reunió con Federico Sturzenegger y volvió a elogiar a Javier Milei",
+          "link": "https://www.ambito.com/politica/peter-lamelas-se-reunio-federico-sturzenegger-y-volvio-elogiar-javier-milei-n6215844",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 22:19:00"
         },
         {
           "titulo": "Javier Milei pidió apoyo a empresarios y confesó que \"la mejora en el bolsillo será paulatina\"",
@@ -341,17 +287,23 @@
           "link": "https://www.clarin.com/politica/abrochense-cinturones-muchas-reformas-aviso-javier-milei-participar-acto-corporacion-america_0_eWgyFNnCM6.html",
           "fuente": "Clarín",
           "fecha": "2025-11-19 19:07:22"
+        },
+        {
+          "titulo": "Paro de ATE contra la reforma laboral: el Gobierno advirtió que le descontará el día a los estatales que adhirieron",
+          "link": "https://www.ambito.com/politica/paro-ate-contra-la-reforma-laboral-el-gobierno-advirtio-que-le-descontara-el-dia-los-estatales-que-adhieran-n6215618",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:38:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
-        "Ámbito Financiero",
         "Minuto1",
         "La Nación",
+        "Ámbito Financiero",
         "Perfil",
-        "Clarín",
-        "iProfesional"
+        "iProfesional",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -359,17 +311,172 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_rusia-ucrania_y_20251120",
-      "tema": "Conflicto Rusia-Ucrania y Esfuerzos de Paz",
-      "tema_normalizado": "conflicto rusia-ucrania y esfuerzos de paz",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos y Rusia están negociando un plan de paz de 28 puntos para Ucrania, que incluiría importantes concesiones territoriales y militares por parte de Kiev.\n*   Polonia ha reforzado su seguridad con el despliegue de 10.000 soldados tras sabotajes ferroviarios atribuidos a Rusia, que busca interrumpir la ayuda crucial a Ucrania.\n*   Rusia lanzó nuevos y devastadores ataques con drones y misiles en Ucrania, causando 25 muertes, mientras el presidente Zelenski busca respaldo diplomático en Turquía.\n\n🔍 **Datos clave:**\n*   **Plan de Paz:** 28 puntos, negociado por Steve Witkoff (enviado de Donald Trump) y Kirill Dmitriev (asesor de Vladimir Putin).\n*   **Cesiones Ucranianas:** Posible cesión del Donbás, reducción a la mitad de sus Fuerzas Armadas, y reconocimiento del ruso como idioma oficial.\n*   **Ataque en Polonia:** Sabotaje con explosivos C4 en la línea Varsovia-Lublin (entre sábado y lunes); 10.000 soldados desplegados en \"Operación Horizonte\".\n*   **Ataque en Ucrania:** 25 muertos (3 menores), 65 heridos en Ternopil el miércoles, tras el uso de 476 drones y 48 misiles rusos.\n\n⚡ **Desarrollo:**\n*   El plan de paz, presentado por EE.UU. a Rusia y luego a Ucrania, busca una salida al conflicto que pronto cumplirá cuatro años. Propone garantías de seguridad para Europa y una drástica reducción militar y territorial para Ucrania.\n*   Ucrania considera las condiciones \"altamente desfavorables\", ya que incluyen reconocer el ruso como idioma oficial y dar estatus a la Iglesia Ortodoxa Rusa local, generando alta sensibilidad política.\n*   El Secretario de Estado Marco Rubio confirmó la existencia del plan, señalando la necesidad de \"concesiones difíciles pero necesarias\" en un contexto de intensas ofensivas rusas.\n*   El sabotaje ferroviario en Polonia, país aliado clave de Ucrania y miembro de la OTAN, fue calificado de \"sin precedentes\" y \"terrorismo de Estado\" por el primer ministro Donald Tusk y el canciller Radoslaw Sikorski.\n*   Las autoridades polacas detuvieron a dos ciudadanos ucranianos que colaboraban con los servicios secretos rusos, tras el ataque a una vía vital para el envío de ayuda a Kiev.\n*   La \"Operación Horizonte\" en Polonia, que comienza este sábado, coordinará fuerzas de seguridad y el Ejército, incluyendo una aplicación móvil para alertas ciudadanas, para contrarrestar la \"guerra híbrida\" rusa.\n*   Los recientes ataques rusos en Ucrania, especialmente contra infraestructuras energéticas y civiles, intensifican el desgaste del país y refuerzan la búsqueda de apoyo internacional por parte de Zelenski en su encuentro con Recep Tayyip Erdogan en Turquía.\n\n💡 **¿Por qué importa?**\n*   La coexistencia de negociaciones de paz de alto nivel con una escalada de ataques y sabotajes subraya la complejidad y el riesgo de una mayor extensión del conflicto.\n*   Las posibles concesiones exigidas a Ucrania en el plan de paz podrían redefinir su soberanía y futuro geopolítico, mientras los aliados buscan una vía hacia una paz duradera.",
+      "tema_id": "pagos_y_prestaciones_20251120",
+      "tema": "Pagos y prestaciones de ANSES",
+      "tema_normalizado": "pagos y prestaciones de anses",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Administración Nacional de la Seguridad Social (ANSES) está efectuando los pagos de sus prestaciones esenciales para noviembre y diciembre de 2025.\n• Estos incluyen la Asignación Universal por Hijo (AUH), jubilaciones y otras ayudas, distribuyéndose según un calendario por terminación del DNI.\n• Las prestaciones incorporan aumentos mensuales conforme a la inflación, y en diciembre se prevén mayores ingresos para jubilados por un conjunto de beneficios.\n\n🔍 **Datos clave:**\n• **Aumento Noviembre:** 2,08% (por inflación de septiembre del 2,1%).\n• **Aumento Diciembre:** 2,3% (por inflación de octubre).\n• **Fecha clave Noviembre 20:** Cobran AUH, Asignación por Embarazo y jubilaciones mínimas con DNI terminados en 8. Jubilaciones superiores y Prestación por Desempleo con DNI terminados en 0 y 1.\n• **AUH Noviembre (monto percibido):** $95.737,66. Para hijos con discapacidad: $311.748,35. Asignación por Embarazo: $95.737,66.\n• **Jubilación Mínima Noviembre:** $333.085,39 + bono de $70.000 = $403.085,39.\n• **Retención AUH:** El 20% del total se retiene hasta presentar anualmente la Libreta AUH.\n• **Tarjeta Alimentar Nov/Dic (montos fijos):** $52.250 (1 hijo), $81.936 (2 hijos), $108.062 (3+ hijos).\n\n⚡ **Desarrollo:**\n• Las prestaciones sociales de ANSES se ajustan mensualmente para acompañar la evolución de los precios, tomando como referencia el Índice de Precios al Consumidor (IPC) de dos meses previos.\n• El calendario de pagos, accesible en la web de ANSES, organiza la entrega de todos los beneficios por la terminación del DNI, facilitando a los beneficiarios conocer su fecha y lugar de cobro.\n• La Libreta AUH es un requisito indispensable para la continuidad del cobro y para acceder al 20% retenido, ya que certifica la asistencia escolar y los controles de salud de los niños. Este trámite se puede realizar de forma digital.\n• Para diciembre, jubilados y pensionados verán sus haberes actualizados con un 2,3% de aumento, recibirán el medio aguinaldo (50% del mejor haber del semestre) y se espera la confirmación de un bono extraordinario de $70.000.\n• El bono de $70.000, dirigido a quienes cobran el haber mínimo o hasta un tope, se ha mantenido sin cambios desde marzo de 2024, generando un complemento vital para sus ingresos.\n• La Tarjeta Alimentar, destinada a titulares de AUH, Asignación Universal por Embarazo y madres de 7 hijos con PNC, mantiene sus montos fijos, no se ajusta por movilidad, y se deposita junto a la asignación principal.\n\n💡 **¿Por qué importa?**\n• Estos pagos actualizados y bonificaciones son cruciales para el sustento de millones de familias y adultos mayores, impactando directamente en su capacidad de cubrir necesidades básicas.\n• La difusión clara de calendarios y montos de ANSES empodera a los beneficiarios para gestionar sus recursos, asegurando el acceso a derechos sociales fundamentales en un contexto de inflación.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Cuándo cobro la AUH en noviembre 2025 si mi DNI termina en 8",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-la-auh-en-noviembre-2025-si-mi-dni-termina-en-8-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 09:14:13"
+        },
+        {
+          "titulo": "Calendario de Anses: quiénes cobran la AUH este jueves 20 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-de-anses-quienes-cobran-la-auh-este-jueves-20-de-noviembre-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 07:48:48"
+        },
+        {
+          "titulo": "Jubilaciones de Anses: quiénes cobran este jueves 20 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-quienes-cobran-este-jueves-20-de-noviembre-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 07:48:36"
+        },
+        {
+          "titulo": "Calendario de la Anses: todas las prestaciones sociales que se pagan este jueves 20 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-de-la-anses-todas-las-prestaciones-sociales-que-se-pagan-este-jueves-20-de-noviembre-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 07:48:12"
+        },
+        {
+          "titulo": "ANSES: quiénes cobran hoy 20 de noviembre según DNI",
+          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-hoy-20-de-noviembre-segun-dni.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-20 07:36:00"
+        },
+        {
+          "titulo": "Diciembre ANSES: quiénes cobran aumento, aguinaldo y un extra antes de Navidad",
+          "link": "https://www.perfil.com/noticias/economia/diciembre-anses-quienes-cobran-aumento-aguinaldo-y-un-extra-antes-de-navidad.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-20 07:34:00"
+        },
+        {
+          "titulo": "ANSES: el monto que recibirán los beneficiarios de la Tarjeta Alimentar",
+          "link": "https://www.minutouno.com/economia/anses-el-monto-que-recibiran-los-beneficiarios-la-tarjeta-alimentar-n6215643",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 06:55:00"
+        },
+        {
+          "titulo": "ANSES otorgará $81.000: cuáles son los requisitos para acceder",
+          "link": "https://www.minutouno.com/economia/anses-otorgara-81000-cuales-son-los-requisitos-acceder-n6215317",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 06:55:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Minuto1",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_cuadernos:_investigacion_20251120",
+      "tema": "Causa Cuadernos: investigación Cristina Kirchner",
+      "tema_normalizado": "causa cuadernos: investigacion cristina kirchner",
+      "resumen": "📌 **¿Qué está pasando?**\n• El juicio oral por la \"Causa Cuadernos de las Coimas\", que investiga una supuesta red de corrupción durante los gobiernos kirchneristas, continúa con la expresidenta Cristina Kirchner como una de las principales acusadas.\n• La Justicia ha impuesto restricciones a las visitas que Cristina Kirchner recibe en su prisión domiciliaria, tras registrar un alto número de encuentros.\n• Paralelamente, la expresidenta utiliza sus redes sociales para denunciar lo que considera \"barbaridades, mentiras y falsificaciones\" en torno a la investigación.\n\n🔍 **Datos clave:**\n• **86 imputados:** Es el número total de personas, incluyendo a Cristina Kirchner y otros exfuncionarios, acusadas en esta compleja causa judicial.\n• **77 visitas en 80 días:** El promedio de visitas de personas externas (excluyendo familiares y abogados) que recibió Cristina Kirchner en su domicilio.\n• **10 de diciembre:** Fecha sugerida por la Superintendencia de Casación para el potencial inicio de audiencias presenciales del juicio en la Sala Auditorium.\n• **Tribunal Oral Federal 7:** Es la instancia judicial que tiene la decisión final sobre la modalidad (virtual o presencial) de las audiencias del juicio.\n• **San José 1111:** Dirección en la Ciudad de Buenos Aires donde Cristina Kirchner cumple su prisión domiciliaria.\n\n⚡ **Desarrollo:**\n• La tercera audiencia del juicio de los Cuadernos de las Coimas se llevó a cabo de forma virtual, continuando con la lectura del requerimiento de elevación a juicio.\n• Este documento detalla la supuesta maniobra de corrupción y el rol específico atribuido a cada uno de los 86 imputados en la recepción de sobornos.\n• La Superintendencia de la Casación emitió una resolución buscando acelerar el proceso, proponiendo el uso de una sala presencial en su edificio con tres jornadas semanales.\n• La medida judicial de restringir las visitas a Cristina Kirchner surgió a raíz de un relevamiento que mostró la entrada de al menos 77 personas en poco más de dos meses.\n• Estas visitas incluyeron a importantes figuras políticas y sociales como el expresidente de Brasil, Lula Da Silva, y el dirigente social Juan Grabois, entre otros.\n• La expresidenta ha manifestado públicamente su desacuerdo con las restricciones, argumentando que se trata de una persecución mediática y judicial.\n\n💡 **¿Por qué importa?**\n• La Causa Cuadernos representa uno de los procesos judiciales más importantes en la historia argentina reciente, investigando una extensa red de corrupción que involucra a la cúspide del poder político.\n• Su desarrollo tiene implicaciones significativas para la política nacional, la transparencia de las instituciones y la percepción pública sobre la justicia y sus alcances.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Nuevo posteo de Cristina Kirchner por la causa cuadernos: \"Nunca exageramos\"",
+          "link": "https://www.minutouno.com/politica/nuevo-posteo-cristina-kirchner-la-causa-cuadernos-nunca-exageramos-n6215915",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 08:55:00"
+        },
+        {
+          "titulo": "Juicio por los Cuadernos de las Coimas, EN VIVO: hoy se realiza la tercera audiencia, con Cristina Kirchner y otros exfuncionarios entre los acusados de corrupción",
+          "link": "https://www.clarin.com/politica/juicio-cuadernos-coimas-vivo-hoy-realiza-tercera-audiencia-cristina-kirchner-exfuncionarios-acusados-corrupcion_0_a6BVwRew6v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 08:13:13"
+        },
+        {
+          "titulo": "La puerta abierta de la prisión domiciliaria de Cristina Kirchner: recibió al menos 77 visitas en los últimos 80 días",
+          "link": "https://www.clarin.com/politica/puerta-abierta-prision-domiciliaria-cristina-kirchner-recibio-72-visitas-ultimos-80-dias_0_wQpfptF26y.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 21:43:12"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Minuto1",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "concesion_y_privatizacion_20251120",
+      "tema": "Concesión y privatización de rutas nacionales",
+      "tema_normalizado": "concesion y privatizacion de rutas nacionales",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Javier Milei está avanzando con un plan de concesión y privatización de rutas nacionales.\n*   El objetivo es que empresas privadas se encarguen de la explotación, administración y mantenimiento de una extensa red vial.\n*   Este esquema busca modernizar la infraestructura sin subsidios estatales, financiándose únicamente con peajes.\n\n🔍 **Datos clave:**\n*   **Etapa I adjudicada:** 741 kilómetros, conocidos como la Ruta del Mercosur (Tramos Oriental y Conexión).\n*   **Adjudicatarios Etapa I:** Autovía Construcciones y Servicios S.A. (Tramo Oriental); Obring S.A., Rovial S.A., Edeca S.A., Pitón S.A. y Pietroboni S.A. (Tramo Conexión).\n*   **Nuevos peajes Etapa I:** $3.563,45 (Tramo Oriental) y $3.385,80 (Tramo Conexión). Se aplicarán tras la mejora de las rutas.\n*   **Etapa II en licitación:** 1.800 kilómetros (Tramo Sur–Atlántico–Acceso Sur y Tramo Pampa).\n*   **Total proyectado:** Más de 9.000 kilómetros a concesionar en dieciséis tramos, representando el 20% de la red vial nacional.\n*   **Resoluciones clave:** Resolución 80/2025 (adjudicación Etapa I) y Resolución 1843/2025 (licitación Etapa II).\n\n⚡ **Desarrollo:**\n*   El nuevo modelo, llamado Red Federal de Concesiones (RFC), elimina los subsidios públicos que, según el Gobierno, sostenían un esquema deficitario.\n*   Las empresas adjudicatarias deberán invertir en mejoras y mantenimiento, teniendo como incentivo la posibilidad de aplicar las nuevas tarifas de peaje una vez cumplan con los estándares.\n*   La Secretaría de Transporte, a través de la Dirección Nacional de Vialidad, será el organismo encargado de supervisar y controlar el cumplimiento de los contratos.\n*   La Etapa I incluye rutas vitales como la RN 12, 14, 135, A015, 117 y el Puente Rosario-Victoria (RN 174), clave para el comercio con Brasil y Uruguay.\n*   La Etapa II incorpora rutas estratégicas como la RN 3, 5, 205, 206 y autopistas del acceso sur a la capital.\n*   El Gobierno argumenta que esta iniciativa busca erradicar el \"despilfarro y abandono\" en la obra pública y potenciar las exportaciones y el desarrollo logístico.\n\n💡 **¿Por qué importa?**\n*   Este proceso marca un cambio fundamental en la política vial argentina, traspasando la responsabilidad de la infraestructura a manos privadas con financiamiento a través de peajes.\n*   Busca mejorar la calidad y seguridad de las rutas nacionales, pero implica un aumento significativo en el costo para los usuarios que transiten por estos corredores.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Cuánto costará el peaje en la Ruta del Mercosur, la primera de todo el país concesionada en el Gobierno de Milei",
+          "link": "https://www.infobae.com/economia/2025/11/20/cuanto-costara-el-peaje-en-la-ruta-del-mercosur-la-primera-de-todo-el-pais-concesionada-en-el-gobierno-de-milei/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 09:14:20"
+        },
+        {
+          "titulo": "El gobierno de Javier Milei avanza con la Etapa II de privatización de rutas: lanzó la licitación para concesionar otros 1.800 kilómetros de ruta",
+          "link": "https://www.ambito.com/economia/el-gobierno-javier-milei-avanza-la-etapa-ii-privatizacion-rutas-lanzo-la-licitacion-concesionar-otros-1800-kilometros-ruta-n6215900",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 08:14:57"
+        },
+        {
+          "titulo": "El Gobierno concesionó 741 kilómetros de rutas en dos tramos del corredor vial Mercosur",
+          "link": "https://www.perfil.com/noticias/economia/el-gobierno-concesiono-741-kilometros-de-rutas-en-dos-tramos-del-corredor-vial-mercosur.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-20 07:43:00"
+        },
+        {
+          "titulo": "Rutas nacionales: el Gobierno adjudicó 741 km como primera parte de la Red Federal de Concesiones",
+          "link": "https://www.ambito.com/politica/rutas-nacionales-el-gobierno-adjudico-741-km-como-primera-parte-la-red-federal-concesiones-n6215835",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 21:28:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflictos_geopoliticos:_rusia,_20251120",
+      "tema": "Conflictos geopolíticos: Rusia, Ucrania, Taiwán",
+      "tema_normalizado": "conflictos geopoliticos: rusia, ucrania, taiwan",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se vive una escalada de conflictos geopolíticos que involucran la invasión rusa de Ucrania, afectando a países vecinos como Polonia, y las crecientes tensiones entre China, Taiwán y Japón.\n• Se observan tácticas de guerra híbrida, coercion económica y esfuerzos diplomáticos, mientras continúan los ataques y las propuestas de paz.\n\n🔍 **Datos clave:**\n• **Ucrania:** Rusia entregó 1,000 cadáveres de militares ucranianos; recientes ataques rusos en Ternópil dejaron 25 muertos.\n• **Polonia:** Desplegó 10,000 soldados tras un sabotaje explosivo en la vía ferroviaria clave para enviar ayuda a Ucrania.\n• **Taiwán/Japón/China:** El presidente taiwanés Lai Ching-te apoyó a Japón con un almuerzo de sushi, tras el boicot chino a mariscos japoneses y amenazas militares.\n• **Plan de paz:** Existe una propuesta de 28 puntos acordada entre Donald Trump y Vladímir Putin para poner fin a la guerra en Ucrania.\n\n⚡ **Desarrollo:**\n• La guerra en Ucrania persiste con intensos bombardeos rusos, como el ataque en Ternópil con 25 víctimas, mientras el presidente Zelenski busca respaldo diplomático en Turquía.\n• Rusia y Ucrania han realizado intercambios humanitarios, incluyendo la repatriación de cadáveres militares, en el marco de acuerdos de Estambul.\n• Polonia refuerza su seguridad con 10,000 militares y una aplicación ciudadana tras un sabotaje ferroviario atribuido a servicios rusos, afectando una ruta vital para la ayuda a Kiev.\n• Un plan de paz entre Trump y Putin sugiere amplias concesiones para Ucrania, como la reducción de sus fuerzas armadas y la cesión del Donbás, lo que genera alta sensibilidad política en Kiev.\n• En Asia, Taiwán y Japón unen filas con gestos diplomáticos, como el \"sushi diplomático\", en respuesta a las prohibiciones de importación de mariscos por parte de China.\n• China ha intensificado su coerción económica y amenazas militares contra Taiwán y Japón, generando un impacto negativo en el turismo y la economía japonesa.\n\n💡 **¿Por qué importa?**\n• Estos conflictos demuestran la fragilidad de la seguridad global, con la invasión rusa de Ucrania impactando a toda Europa y la creciente asertividad de China alterando la estabilidad en Asia.\n• Las tácticas de guerra híbrida y la coerción económica se están convirtiendo en herramientas comunes, afectando economías, relaciones internacionales y poniendo en riesgo la vida civil en distintas regiones del mundo.",
       "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "EEUU y Rusia trabajan en un plan de paz para Ucrania con cesiones de su territorio y reducción de sus FFAA",
-          "link": "https://www.infobae.com/america/agencias/2025/11/20/eeuu-y-rusia-trabajan-en-un-plan-de-paz-para-ucrania-con-cesiones-de-su-territorio-y-reduccion-de-sus-ffaa/",
+          "titulo": "Rusia entrega otros mil cadáveres de militares ucranianos",
+          "link": "https://www.infobae.com/america/agencias/2025/11/20/rusia-entrega-otros-mil-cadaveres-de-militares-ucranianos/",
           "fuente": "Infobae",
-          "fecha": "2025-11-20 05:46:10"
+          "fecha": "2025-11-20 09:00:17"
+        },
+        {
+          "titulo": "La diplomacia del sushi: Taiwán y Japón unen filas ante las amenazas y el boicot de China",
+          "link": "https://www.infobae.com/america/mundo/2025/11/20/la-diplomacia-del-sushi-taiwan-y-japon-unen-filas-ante-las-amenazas-y-el-boicot-de-china/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 08:53:48"
         },
         {
           "titulo": "Polonia se blinda ante Rusia: 10.000 soldados en las calles y una app ciudadana tras un sabotaje explosivo en la vía clave para enviar ayuda a Ucrania",
@@ -384,12 +491,6 @@
           "fecha": "2025-11-20 00:00:49"
         },
         {
-          "titulo": "Una explosión ferroviaria eleva la tensión entre Polonia y Rusia: dos detenidos y 10.000 soldados desplegados",
-          "link": "https://www.lanacion.com.ar/el-mundo/una-explosion-ferroviaria-eleva-la-tension-entre-polonia-y-rusia-dos-detenidos-y-10000-soldados-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-19 20:25:52"
-        },
-        {
           "titulo": "Rusia volvió a atacar a Ucrania: hay 25 muertos y Volodimir Zelenski busca respaldo diplomático en Turquía",
           "link": "https://www.ambito.com/mundo/rusia-volvio-atacar-ucrania-hay-25-muertos-y-volodimir-zelenski-busca-respaldo-diplomatico-turquia-n6215728",
           "fuente": "Ámbito Financiero",
@@ -399,10 +500,9 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
+        "Clarín",
         "Ámbito Financiero",
-        "Infobae",
-        "La Nación",
-        "Clarín"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -410,49 +510,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "movimientos_legislativos_y_20251120",
-      "tema": "Movimientos Legislativos y Lorena Villaverde",
-      "tema_normalizado": "movimientos legislativos y lorena villaverde",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Comisión de Asuntos Constitucionales del Senado rechazó el diploma de Lorena Villaverde, senadora electa por La Libertad Avanza (LLA) de Río Negro.\n• La decisión no es vinculante, por lo que su futuro se definirá en la sesión preparatoria del Senado el 28 de noviembre.\n• Este caso genera tensión política y expone desafíos para LLA en el Congreso, en contraste con su crecimiento en la Cámara de Diputados.\n\n🔍 **Datos clave:**\n• **Nombre:** Lorena Villaverde\n• **Cargo:** Senadora electa por LLA (Río Negro)\n• **Fecha clave:** 28 de noviembre (sesión preparatoria del Senado para definir su asunción).\n• **Votos en comisión:** 12 de 19 firmas para rechazar su diploma.\n• **Acusaciones principales:** Vínculos con el empresario extraditado Fred Machado (narcotráfico), fraude inmobiliario, y una detención en Estados Unidos en 2002 por posesión de cocaína.\n• **Otros impugnados:** Martín Soria y Jorge Capitanich (impugnaciones de Patricia Bullrich que no prosperaron).\n• **LLA en Diputados:** Alcanzó 92 bancas, acercándose a Unión por la Patria (95-96).\n\n⚡ **Desarrollo:**\n• El rechazo al diploma de Villaverde se dio en la Comisión de Asuntos Constitucionales del Senado, con el apoyo de la oposición peronista y senadores como Juan Carlos Romero y Pablo Blanco, quienes mencionaron la \"preservación institucional\".\n• Senadores como José Mayans (Frente Nacional y Popular) argumentaron en contra de su incorporación debido a su supuesta relación con el narcotráfico y la prohibición de ingreso a Estados Unidos por un antecedente similar.\n• También se le impugnó por su desempeño en función pública en Las Grutas, Río Negro, enfrentando una demanda civil por demoras en la entrega de terrenos y un embargo preventivo de $50 millones.\n• Los senadores de LLA, Juan Carlos Pagotto y Ezequiel Atauche, defendieron a Villaverde, destacando la ausencia de antecedentes penales en Argentina y la necesidad de apegarse al marco constitucional.\n• Patricia Bullrich intentó, sin éxito, impugnar los diplomas de los senadores peronistas Martín Soria y Jorge Capitanich, lo que fue interpretado como una \"devolución de gentilezas\" en el marco de las tensiones legislativas.\n• Paralelamente, en la Cámara de Diputados, La Libertad Avanza ha logrado sumar legisladores (tres radicales libertarios y miembros del PRO), fortaleciendo su bloque a 92 diputados y posicionándose como una fuerza clave, a diferencia de su situación en el Senado.\n\n💡 **¿Por qué importa?**\n• El caso de Lorena Villaverde expone la compleja batalla política por el poder en el Congreso, donde La Libertad Avanza enfrenta obstáculos en el Senado, mientras consolida su presencia en Diputados.\n• Pone en discusión los estándares éticos y los criterios de \"preservación institucional\" para la incorporación de legisladores, afectando la imagen y la capacidad de gobernabilidad del nuevo oficialismo.",
-      "cantidad_noticias": 5,
+      "tema_id": "politica_y_polemica_20251120",
+      "tema": "Política y polémica Gustavo Petro Colombia",
+      "tema_normalizado": "politica y polemica gustavo petro colombia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Gustavo Petro enfrenta múltiples controversias que abarcan desde su gestión y políticas hasta acusaciones personales y conflictos con figuras políticas tanto en Colombia como en Estados Unidos.\n• Recientemente, ha sido cuestionado por sus declaraciones sobre el desarrollo del país, por controversias periodísticas que reviven escándalos pasados, y por duras críticas de un congresista estadounidense.\n• En un acto de transparencia, Petro también hizo públicas sus cuentas bancarias para refutar acusaciones de vínculos con el narcotráfico, lo que ha generado un debate sobre su vida privada y las implicaciones de las sanciones de EE. UU.\n\n🔍 **Datos clave:**\n• **Miembro 111:** Colombia se unió como el miembro número 111 del Banco Asiático de Inversión en Infraestructura (AIIB).\n• **2022-Junio:** Periodo de las cuentas bancarias del presidente Petro que fueron hechas públicas.\n• **Carlos Giménez:** Congresista de EE. UU. (Florida) que calificó a Petro de \"antisemita\" y \"drogadicto\".\n• **Vicky Dávila:** Periodista y precandidata que atacó a Martín Santos, reviviendo el escándalo de Odebrecht.\n• **UIAF:** Unidad de Información y Análisis Financiero de Colombia, que no halló operaciones sospechosas en las cuentas de Petro.\n\n⚡ **Desarrollo:**\n• El presidente Petro celebró la adhesión de Colombia al AIIB, destacando que \"abre muchas opciones\" para el país y su meta de ser \"potencia mundial de la vida\", lo que fue criticado por el concejal Papo Amín por la situación de seguridad.\n• La periodista Vicky Dávila arremetió contra Martín Santos, hijo del expresidente Juan Manuel Santos, en redes, mencionando el \"Petrosantismo\" y expresando la esperanza de que Juan Manuel Santos \"pague\" por el caso Odebrecht y su reelección.\n• El congresista estadounidense Carlos Giménez lanzó fuertes críticas contra Petro en X, acusándolo de ser un \"patético antisemita\", \"drogadicto que colabora con narcoterroristas\" y de desprestigiar a Colombia.\n• Petro ordenó la publicación de sus movimientos bancarios (desde 2022 hasta junio actual) para desmentir las acusaciones de vínculos con el narcotráfico que motivaron sanciones del Departamento del Tesoro de EE. UU. contra él y su familia.\n• Expertos, como Yann Basset, dudan que la transparencia de las cuentas bancarias de Petro convenza a EE. UU. sobre las acusaciones, sugiriendo que las transacciones ilícitas no suelen aparecer allí.\n• La UIAF ha indicado que no recibió reportes de operaciones sospechosas que vincularan al presidente o a sus familiares con el narcotráfico.\n• A pesar de esto, Petro enfrenta investigaciones por presuntamente exceder los topes de financiación electoral durante su campaña de 2022.\n• Las cuentas revelaron pagos de hipoteca, compras en marcas de lujo como Gucci y Ralph Lauren, y una transacción en un club de striptease, lo que generó debate público y críticas de la prensa local.\n• Su hijo, Nicolás Petro, está en juicio por supuesto enriquecimiento ilícito y lavado de dinero, con fondos que habrían sido desviados de la campaña presidencial de su padre.\n\n💡 **¿Por qué importa?**\n• Estas controversias impactan directamente la imagen y credibilidad del presidente Gustavo Petro, tanto a nivel nacional como internacional, y pueden afectar la gobernabilidad del país.\n• Los debates sobre la financiación de campañas, las acusaciones de corrupción y las relaciones internacionales exponen las tensiones y desafíos que enfrenta la política colombiana en la actualidad.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Villaverde bajo la lupa del Senado: rechazaron su diploma en comisión y su futuro se definirá en el recinto",
-          "link": "https://www.perfil.com/noticias/politica/villaverde-bajo-la-lupa-del-senado-rechazaron-su-diploma-en-comision-y-su-futuro-se-definira-en-el-recinto.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-19 21:30:00"
+          "titulo": "Gustavo Petro felicitó a Colombia por ser aceptada como miembro del Banco Asiático de Inversión en infraestructura: “Abre muchas opciones”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/gustavo-petro-felicito-a-colombia-por-ser-aceptada-como-miembro-del-banco-asiatico-de-inversion-en-infraestructura-abre-muchas-opciones/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 09:09:40"
         },
         {
-          "titulo": "La Libertad Avanza volvió a sumar diputados a su bloque y puede desplazar al peronismo como principal fuerza",
-          "link": "https://www.ambito.com/politica/la-libertad-avanza-volvio-sumar-diputados-su-bloque-y-puede-desplazar-al-peronismo-como-principal-fuerza-n6215789",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 19:14:00"
+          "titulo": "Vicky Dávila cuestionó Martín Santos y revive polémicas sobre Juan Manuel Santos: “Espero que su papá, un día caiga y pague”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/vicky-davila-cuestiono-martin-santos-y-revive-polemicas-sobre-juan-manuel-santos-espero-que-su-papa-un-dia-caiga-y-pague/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 09:06:59"
         },
         {
-          "titulo": "Hubo dictamen en el Senado para votar el rechazo a la incorporación de la libertaria Lorena Villaverde",
-          "link": "https://www.minutouno.com/politica/hubo-dictamen-el-senado-votar-el-rechazo-la-incorporacion-la-libertaria-lorena-villaverde-n6215764",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 18:46:00"
+          "titulo": "Carlos Giménez se despachó contra Petro y lo calificó de “patético antisemita”: “Drogadicto que se sienta en la Casa de Nariño colabora con narcoterroristas”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/congresista-estadounidense-se-despacho-contra-petro-y-lo-califico-de-patetico-antisemita-drogadicto-que-se-sienta-en-la-casa-de-narino-colabora-con-narcoterroristas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 08:50:34"
         },
         {
-          "titulo": "La Libertad Avanza sumó a tres diputados radicales a su bloque: está a una banca del peronismo",
-          "link": "https://www.minutouno.com/politica/la-libertad-avanza-sumo-tres-diputados-radicales-su-bloque-esta-una-banca-del-peronismo-n6215673",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-19 15:15:00"
-        },
-        {
-          "titulo": "La oposición rechazó el diploma de Villaverde y su futuro se define en el recinto",
-          "link": "https://www.ambito.com/politica/la-oposicion-rechazo-el-diploma-villaverde-y-su-futuro-se-define-el-recinto-n6215605",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 15:09:00"
+          "titulo": "Colombia: Gustavo Petro muestra sus cuentas bancarias tras las acusaciones y la sanción de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/colombia-gustavo-petro-muestra-cuentas-bancarias-acusaciones-sancion-estados-unidos_0_yQT1ahcArr.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 18:12:46"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1"
+        "Clarín",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -460,29 +553,119 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "mercados_financieros_globales_20251120",
-      "tema": "Mercados Financieros Globales y Locales",
-      "tema_normalizado": "mercados financieros globales y locales",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Los mercados financieros globales presentan un escenario mixto, con el Euro Stoxx 50 y acciones tecnológicas como Nvidia en Wall Street mostrando alzas, mientras la Reserva Federal se resiste a bajar las tasas de interés.\n*   En Argentina, el Riesgo País ha perforado la barrera de los 600 puntos y los bonos soberanos extienden su rally, aunque el mercado de acciones local experimenta volatilidad.\n*   A nivel global, crece la preocupación por el riesgo en los créditos subprime en Estados Unidos y Bitcoin registra una corrección significativa desde sus máximos.\n\n🔍 **Datos clave:**\n*   **EuroStoxx 50:** Ascendió 1,32% a 5.614,98 puntos el 20 de noviembre; acumula una subida del 17,91% en el último año.\n*   **Riesgo País Argentina (EMBIGD):** Cayó a 601 puntos básicos el 19 de noviembre de 2025, marcando un descenso del 2,12%.\n*   **Tasas de la Fed:** La mayoría de los miembros del FOMC se opone a un recorte en diciembre; la probabilidad de baja ha caído al 29%.\n*   **Acciones energéticas argentinas:** Transportadora de Gas del Norte (TGN) subió un 43% y Transportadora de Gas del Sur (TGS) un 30%, entre otras líderes del Merval.\n*   **Nvidia:** Proyecta ingresos récord de U$S65.000 millones para el cuarto trimestre fiscal; sus acciones treparon un 5,1% tras el anuncio.\n*   **Bitcoin:** Cotiza alrededor de U$S90.400, con una baja del 28,4% desde su máximo de U$S126.300 este año.\n*   **Créditos Subprime (EE.UU.):** Los impagos en préstamos automotrices subprime alcanzaron un 6,65%, el nivel más alto en 30 años.\n\n⚡ **Desarrollo:**\n*   El buen desempeño de las acciones de la eurozona y de empresas tecnológicas como Nvidia en Wall Street refleja el optimismo en sectores clave y la fuerte demanda por tecnología de Inteligencia Artificial.\n*   La disminución del Riesgo País argentino y el rally de sus bonos se deben a un mayor ingreso de dólares al mercado local y la confianza generada por emisiones de deuda corporativa y provincial (ej. U$S600M de CABA).\n*   La postura prudente de la Reserva Federal de EE.UU. de no reducir las tasas busca contener la inflación y asegurar su objetivo del 2%, afectando las expectativas de endeudamiento y el sentimiento inversor global.\n*   El mercado de criptomonedas, con Bitcoin a la cabeza, atraviesa un período de \"risk-off\" y corrección, en parte influenciado por la incertidumbre macroeconómica y las políticas de la Fed.\n*   Goldman Sachs advierte sobre un creciente riesgo en el mercado de créditos subprime de EE.UU., especialmente en préstamos automotrices, lo que genera paralelismos con la crisis financiera de 2008.\n*   En el mercado local argentino, las acciones del sector energético lideran las subas debido a la normalización de tarifas, ingresos dolarizados y el potencial de desarrollo impulsado por marcos como el RIGI.\n\n💡 **¿Por qué importa?**\n*   Estos eventos resaltan la interconexión de los mercados financieros globales y locales, donde las políticas monetarias, el rendimiento empresarial y los indicadores de riesgo influyen directamente en las economías.\n*   La evolución del crédito, la dirección de las tasas de interés y el desempeño de sectores estratégicos son cruciales para la estabilidad económica y las decisiones de inversión a nivel mundial.",
-      "cantidad_noticias": 9,
+      "tema_id": "economia_argentina:_mercados,_20251120",
+      "tema": "Economía argentina: mercados, consumo y costos",
+      "tema_normalizado": "economia argentina: mercados, consumo y costos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La economía argentina muestra un panorama mixto: optimismo en los mercados financieros con la baja del Riesgo País y un récord en emisión de deuda corporativa y provincial en dólares.\n*   No obstante, el consumo y la actividad industrial enfrentan desafíos como altos costos de vida, presiones inflacionarias en servicios y un aumento significativo en las importaciones de bienes de consumo.\n*   Las familias y empresas lidian con la dificultad de acceder a financiamiento a tasas razonables y de afrontar compromisos económicos.\n\n🔍 **Datos clave:**\n*   **Riesgo País:** 601 puntos básicos (19 de noviembre de 2025), tras perforar los 600.\n*   **Emisión de Deuda:** Más de u$s4.000 millones en noviembre de 2025 por empresas y provincias.\n*   **Deuda Bruta Argentina:** Se redujo u$s21.000 millones en un año, totalizando u$s439.688 millones en pago normal (octubre 2025).\n*   **Costo de Crianza (CABA):** Entre $800.000 y $1.300.000 mensuales por hijo (septiembre 2025).\n*   **Expensas:** Representan 20-22% del alquiler (vs 10-12% anterior), con juicios por mora que subieron 58.2% en el primer semestre de 2025.\n*   **Consumo Masivo:** Creció 12.4% en octubre de 2025, impulsado por el AMBA (+16.8%).\n*   **Prepagas:** Aumentan 2.3% en diciembre, acumulando un 341% entre noviembre 2023 y octubre 2025.\n*   **Importaciones:** Bienes de consumo y autos representan 24.3% del total (octubre 2025), con un share del 49.5% para electrodomésticos importados (Ene-Ago 2025).\n*   **Aguinaldo de diciembre 2025:** Fecha límite de pago el 18 de diciembre (con extensión hasta el 24).\n*   **Piso de Ganancias 2026:** Desde $3.177.083 (bruto para soltero sin hijos).\n\n⚡ **Desarrollo:**\n*   Los mercados financieros muestran optimismo con los activos argentinos, evidenciado por la baja del Riesgo País y el interés de inversores internacionales, lo que facilita la emisión de deuda en dólares por parte de empresas y gobiernos subnacionales.\n*   Esta dinámica, sumada a la reducción de la deuda pública, abre una posible ventana para que el país recupere el acceso a financiamiento internacional a menores costos.\n*   Sin embargo, la industria enfrenta un escenario complejo, con una caída de actividad que roza la recesión y el reclamo de tasas de financiamiento más bajas (actualmente hasta 37.7% para adelantos a cuenta corriente, y hasta más de 200% en fintechs para créditos personales).\n*   El consumo masivo mostró una recuperación en octubre, beneficiado por la estabilidad cambiaria y una desaceleración en los precios, pero el \"dinero disponible\" en los hogares se recupera lentamente y muchas familias aún dependen de diversas fuentes de financiamiento.\n*   Los costos de vida son una preocupación creciente: mantener a un hijo en CABA es sumamente oneroso, y las expensas ejercen una presión significativa en el presupuesto familiar, lo que se refleja en un notable aumento de juicios por incumplimiento.\n*   La explosión de las importaciones de bienes de consumo, como la moda barata de nuevas plataformas online y el incremento de electrodomésticos importados, genera preocupación en la industria local por su competitividad y el posible impacto en el superávit comercial.\n\n💡 **¿Por qué importa?**\n*   Aunque los mercados financieros señalan un clima de mayor confianza y liquidez, la economía real argentina sigue lidiando con altos costos, una industria debilitada por la competencia externa y la necesidad de financiamiento.\n*   La brecha entre el optimismo financiero y las dificultades cotidianas de familias y productores plantea un desafío clave para lograr una recuperación económica equitativa y sostenible.",
+      "cantidad_noticias": 27,
       "noticias": [
         {
-          "titulo": "Acciones de la eurozona ganan; Euro Stoxx 50 abre la sesión con cifras al alza este 20 de noviembre",
-          "link": "https://www.infobae.com/noticias/2025/11/20/acciones-de-la-eurozona-ganan-euro-stoxx-50-abre-la-sesion-con-cifras-al-alza-este-20-de-noviembre/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-20 05:31:27"
+          "titulo": "Morgan Stanley recorta su posición en Argentina y apuesta sólo por dos empresas: cuáles son",
+          "link": "https://www.ambito.com/finanzas/morgan-stanley-recorta-su-posicion-argentina-y-apuesta-solo-dos-empresas-cuales-son-n6215906",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 09:08:00"
+        },
+        {
+          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 08:00:54"
+        },
+        {
+          "titulo": "Criar un hijo en la Ciudad puede costar hasta $ 1.300.000: el nuevo cálculo que diferencia por edad y género",
+          "link": "https://www.clarin.com/economia/criar-hijo-ciudad-puede-costar-1300000-nuevo-calculo-diferencia-edad-genero_0_bDs8oImnWI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 07:57:57"
+        },
+        {
+          "titulo": "El RENATRE aumentó 5% los topes de la prestación por desempleo para trabajadores rurales",
+          "link": "https://www.ambito.com/economia/el-renatre-aumento-5-los-topes-la-prestacion-desempleo-trabajadores-rurales-n6215881",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 07:54:00"
+        },
+        {
+          "titulo": "Moda barata en Argentina: así opera Tricot, el nuevo rival de Shein y Temu",
+          "link": "https://www.iprofesional.com/economia/442353-otra-marca-low-cost-llega-a-argentina-como-sera-la-nueva-competencia-de-shein-y-temu",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-20 07:49:00"
         },
         {
           "titulo": "El Riesgo País de Argentina perfora los 600 puntos básicos por la suba de bonos, el 19 de noviembre de 2025",
           "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-de-argentina-perfora-los-600-puntos-basicos-por-la-suba-de-bonos-el-19-de-noviembre-de-2025-a35.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-19 21:39:00"
+          "fecha": "2025-11-20 07:39:00"
         },
         {
-          "titulo": "La Fed pisa el freno: la mayoría de sus miembros se oponen a una baja de tasas en diciembre",
-          "link": "https://www.ambito.com/economia/la-fed-pisa-el-freno-la-mayoria-sus-miembros-se-oponen-una-baja-tasas-diciembre-n6215810",
+          "titulo": "Si tenés deuda de Monotributo CABA, entrá a esta moratoria sin dermora",
+          "link": "https://www.iprofesional.com/impuestos/442351-deuda-monotributo-caba-moratoria-48-cuotas-y-2-por-ciento-tasa",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-20 07:15:00"
+        },
+        {
+          "titulo": "Aluvión verde: captarán más de u$s4.000 M por emisión de deuda y prevén veranito cambiario más largo",
+          "link": "https://www.iprofesional.com/finanzas/442249-cptaran-mas-de-4000-millones-y-extendera-la-buena-racha-del-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-20 07:00:00"
+        },
+        {
+          "titulo": "Argentina vuelve al radar financiero global: gestores internacionales anticipan repunte de los activos locales",
+          "link": "https://www.ambito.com/economia/argentina-vuelve-al-radar-financiero-global-gestores-internacionales-anticipan-repunte-los-activos-locales-n6215840",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 20:49:49"
+          "fecha": "2025-11-20 07:00:00"
+        },
+        {
+          "titulo": "El informe que Paolo Rocca expuso en la UIA y generó más preocupación en la industria",
+          "link": "https://www.ambito.com/economia/industria-el-informe-que-paolo-rocca-expuso-la-uia-y-encendio-alarmas-todo-el-sector-n6215807",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 07:00:00"
+        },
+        {
+          "titulo": "Casi 6 de cada 10 familias van a juicio por no poder pagar las expensas",
+          "link": "https://www.clarin.com/economia/6-10-familias-van-juicio-poder-pagar-expensas_0_IlLLwigW0P.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 06:05:50"
+        },
+        {
+          "titulo": "La industria pide tasas alineadas a la inflación y sondea los bancos para preparar una propuesta para el Gobierno",
+          "link": "https://www.perfil.com/noticias/economia/la-industria-pide-tasas-alineadas-a-la-inflacion-y-sondea-a-los-bancos-para-prepararle-una-propuesta-al-gobierno.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-20 05:30:00"
+        },
+        {
+          "titulo": "¿Quién te presta plata?: cómo llegan los argentinos a fin de mes y un dato positivo para Milei",
+          "link": "https://www.lanacion.com.ar/economia/quien-te-presta-plata-como-se-financian-los-argentinos-para-llegar-a-fin-de-mes-y-un-dato-positivo-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 03:32:51"
+        },
+        {
+          "titulo": "Las prepagas vuelven a aumentar en diciembre y lo hacen por encima de la inflación registrada en Salud por el INDEC",
+          "link": "https://www.perfil.com/noticias/economia/las-prepagas-vuelven-a-aumentar-en-diciembre-y-lo-hacen-por-encima-de-la-inflacion-registrada-en-salud-por-el-indec.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 23:00:00"
+        },
+        {
+          "titulo": "El Gobierno porteño presentó las canastas de crianza: ¿cuánto costó mantener un hijo durante septiembre?",
+          "link": "https://www.ambito.com/economia/el-gobierno-porteno-presento-las-canastas-crianza-cuanto-costo-mantener-un-hijo-septiembre-n6215782",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 21:00:00"
+        },
+        {
+          "titulo": "Furor por Decathlon: vende más de 100 modelos de zapatillas y los precios arrancan en $39.000",
+          "link": "https://www.iprofesional.com/economia/442339-decathlon-argentina-vende-mas-100-modelos-zapatillas-que-salen-desde-39000-pesos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 20:58:00"
+        },
+        {
+          "titulo": "Vacaciones en la costa: ¿cuánto costará viajar a Mar del Plata este verano?",
+          "link": "https://www.iprofesional.com/economia/442231-vacaciones-costa-cuanto-costara-viajar-a-mar-del-plata-verano-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 20:40:00"
+        },
+        {
+          "titulo": "Empresarios piden acelerar la baja de tasas y se enciende una alarma por los aguinaldos",
+          "link": "https://www.ambito.com/economia/empresarios-piden-acelerar-la-baja-tasas-y-se-enciende-una-alarma-los-aguinaldos-n6215554",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:19:00"
         },
         {
           "titulo": "¿Que tienen en común las cinco acciones que lideran las subas del Merval?",
@@ -491,22 +674,40 @@
           "fecha": "2025-11-19 20:04:00"
         },
         {
-          "titulo": "Nvidia vuela en Wall Street tras proyectar ingresos récord y se aplaca temor sobre una burbuja de IA",
-          "link": "https://www.ambito.com/finanzas/nvidia-vuela-wall-street-proyectar-ingresos-record-y-se-aplaca-temor-una-burbuja-ia-n6215784",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 19:39:00"
+          "titulo": "Ganancias 2026: desde qué sueldo se comenzará a pagar el impuesto sin reforma tributaria",
+          "link": "https://www.iprofesional.com/impuestos/442208-ganancias-2026-desde-que-sueldo-se-comenzara-a-pagar-el-impuesto-sin-reforma-tributaria",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 20:01:00"
         },
         {
-          "titulo": "Bitcoin se sostiene arriba de los u$s90.000, pero acumula una baja del 30% desde su récord",
-          "link": "https://www.ambito.com/finanzas/bitcoin-se-mantiene-encima-los-us90000-y-espera-senales-del-mercado-un-repunte-n6215435",
+          "titulo": "Los Bopreales comprimieron sus rendimientos con fuerza: ¿es tiempo de rotar o mantener posiciones?",
+          "link": "https://www.ambito.com/finanzas/los-bopreales-comprimieron-sus-rendimientos-fuerza-es-tiempo-rotar-o-mantener-posiciones-n6215642",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:54:00"
+          "fecha": "2025-11-19 19:54:00"
         },
         {
-          "titulo": "Wall Street rebotó con cautela, en un mercado atento a los resultados de Nvidia",
-          "link": "https://www.ambito.com/finanzas/wall-street-ensaya-un-rebote-pero-el-mercado-se-mantiene-alerta-antes-los-resultados-nvidia-n6215434",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:48:00"
+          "titulo": "Efecto Shein: dólar planchado hace explotar importaciones y amenazan con comerse el superávit",
+          "link": "https://www.iprofesional.com/economia/442330-efecto-shein-dolar-planchado-hace-saltar-importaciones-habra-divisas-para-bancarlas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 19:49:00"
+        },
+        {
+          "titulo": "El Gobierno abrirá retiros voluntarios para empleados de medios públicos",
+          "link": "https://www.iprofesional.com/economia/442336-gobierno-javier-milei-abrira-retiros-voluntarios-para-empleados-medios-de-comunicacion-publicos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 19:43:00"
+        },
+        {
+          "titulo": "El consumo masivo creció 12,4% en octubre según un relevamiento privado",
+          "link": "https://www.perfil.com/noticias/economia/el-consumo-masivo-se-recupero-124-en-octubre-segun-un-relevamiento-privado.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 19:25:45"
+        },
+        {
+          "titulo": "Home banking o sucursal: qué modalidad paga más por un plazo fijo de $ 500000",
+          "link": "https://www.iprofesional.com/finanzas/442331-home-banking-o-sucursal-que-modalidad-paga-mas-por-plazo-fijo-500000-pesos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 18:35:00"
         },
         {
           "titulo": "Los ADRs treparon hasta 2,2% y los bonos extendieron su rally alcista",
@@ -515,49 +716,19 @@
           "fecha": "2025-11-19 18:29:00"
         },
         {
-          "titulo": "Goldman Sachs pone en alerta a Wall Street e insiste sobre el riesgo en los créditos subprime",
-          "link": "https://www.ambito.com/economia/goldman-sachs-pone-alerta-wall-street-e-insiste-el-riesgo-los-creditos-subprime-n6215625",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-19 18:27:00"
+          "titulo": "La deuda se redujo u$s21.000 millones en un año y pasó a ser de u$s439.688 millones en octubre",
+          "link": "https://www.iprofesional.com/economia/442327-la-deuda-bajo-us21000-millones-en-12-meses-y-paso-a-ser-de-439688-millones-en-octubre",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 18:19:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
-        "Ámbito Financiero",
-        "Infobae",
-        "Perfil",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "caso_jeffrey_epstein_20251120",
-      "tema": "Caso Jeffrey Epstein y Figuras Públicas",
-      "tema_normalizado": "caso jeffrey epstein y figuras publicas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente Donald Trump promulgó la \"Ley de Transparencia de Archivos de Epstein\", una legislación que exige a su gobierno hacer públicos todos los documentos no clasificados sobre Jeffrey Epstein.\n*   Esta ley, respaldada casi unánimemente, obliga a la fiscal general Pam Bondi a divulgar los archivos relacionados con Epstein y su socia Ghislaine Maxwell en un plazo de 30 días.\n*   Paralelamente, la Universidad de Harvard reabrió una investigación sobre las conexiones de su ex presidente, Larry Summers, con Epstein, tras la reciente divulgación de correos electrónicos.\n\n🔍 **Datos clave:**\n*   **Jeffrey Epstein:** Delincuente sexual convicto, falleció en prisión en 2019.\n*   **\"Ley de Transparencia de Archivos de Epstein\":** Promulgada por Donald Trump, obliga a la divulgación de documentos en 30 días.\n*   **Larry Summers:** Ex ministro de Economía de Bill Clinton y ex presidente de Harvard; renunció al consejo de administración de OpenAI.\n*   **Bill Clinton:** Mencionado por Trump por haber viajado 26 veces en el avión de Epstein.\n*   **2008:** Año en que Epstein se declaró culpable de solicitar prostitución de una menor.\n*   **40+ veces:** Cantidad de visitas de Epstein al campus de Harvard después de su condena en 2008.\n*   **50.000 páginas:** Cantidad de documentos ya entregados al Congreso por el Departamento de Justicia.\n\n⚡ **Desarrollo:**\n*   La nueva ley ha sido descrita como un desafío mayúsculo para la administración de Trump, quien previamente había mostrado oposición a la divulgación adicional de archivos.\n*   Trump ha declarado que Epstein era un \"demócrata de toda la vida\" con vínculos estrechos con figuras como Bill Clinton, Larry Summers y Hakeem Jeffries, esperando que la verdad se revele.\n*   La revisión de Harvard se centra en la relación amistosa que Larry Summers mantuvo con Epstein, incluso después de la condena del financiero en 2008, según correos electrónicos divulgados.\n*   Epstein no solo visitó Harvard en más de 40 ocasiones post-condena, sino que también se le otorgó una oficina y acceso irrestricto a un centro de investigación en el campus.\n*   Larry Summers ha expresado \"vergüenza\" por sus comunicaciones con Epstein y ha anunciado su retiro temporal de actividades públicas, incluyendo su cargo en el consejo de OpenAI.\n*   Aunque el Departamento de Justicia ha entregado cerca de 50.000 páginas de documentos al Congreso, persisten dudas sobre cómo y cuándo se realizará la publicación masiva.\n\n💡 **¿Por qué importa?**\n*   La divulgación masiva de documentos busca aumentar la transparencia sobre las actividades de Epstein y sus conexiones con figuras poderosas, exigiendo mayor rendición de cuentas.\n*   El caso continúa generando escrutinio sobre las élites y podría revelar nuevas implicaciones, afectando la reputación de personalidades políticas e instituciones importantes.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Con una nueva ley, Trump se enfrenta a otro desafío mayúsculo frente al “caso Epstein”",
-          "link": "https://www.lanacion.com.ar/estados-unidos/con-una-nueva-ley-trump-se-enfrenta-a-un-nuevo-desafio-frente-al-caso-epstein-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-20 03:30:53"
-        },
-        {
-          "titulo": "El caso del pedófilo Jeffrey Epstein acorrala a Larry Summer, ex ministro de Economía de Clinton y presidente de Harvard",
-          "link": "https://www.clarin.com/mundo/caso-pedofilo-jeffrey-epstein-acorrala-larry-summer-ex-ministro-economia-clinton-presidente-harvard_0_US6F1EOgoq.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-19 16:07:12"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-20",
-      "fuentes": [
         "La Nación",
+        "Ámbito Financiero",
+        "Perfil",
+        "iProfesional",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -566,12 +737,78 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cambios_directivos_en_20251120",
-      "tema": "Cambios Directivos en YPF",
-      "tema_normalizado": "cambios directivos en ypf",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se ha oficializado un cambio significativo en el Directorio de YPF, la empresa petrolera estatal argentina.\n• Lisandro Catalán, exministro del Interior, fue designado como nuevo integrante del Directorio de la compañía.\n• Este nombramiento se produce en reemplazo de Carlos Bastos, quien dejó su puesto por \"razones de estricta índole personal\", según lo comunicado.\n\n🔍 **Datos clave:**\n• **Nuevo Director:** Lisandro Catalán.\n• **Director saliente:** Carlos Bastos.\n• **Figuras clave relacionadas:** Domingo Cavallo (exministro y mentor de Bastos), Javier Milei (Presidente), Guillermo Francos (ex Jefe de Gabinete y también director de YPF), Eduardo Rodríguez Chirillo (Secretario de Energía, también director).\n• **Comunicación oficial:** La decisión fue informada por YPF a la Bolsa de Comercio de Buenos Aires y a la Comisión Nacional de Valores (CNV) el pasado martes.\n\n⚡ **Desarrollo:**\n• El cambio de directivos en YPF se enmarca en una serie de reconfiguraciones dentro del Gobierno de Javier Milei.\n• Carlos Bastos es un ingeniero con una extensa trayectoria en el sector eléctrico y fue una figura de confianza para Domingo Cavallo, siendo ideólogo de las privatizaciones y marcos regulatorios de activos estatales en los años '90.\n• Bastos formaba parte de la gestión libertaria desde sus inicios, sirviendo como asesor del exsecretario de Energía Eduardo Rodríguez Chirillo, quien también integra el directorio de YPF.\n• La salida de Bastos, aunque justificada por motivos personales, reaviva la latente tensión entre el presidente Milei y Cavallo, quien ha criticado el plan económico gubernamental por no acumular reservas de dólares para evitar crisis.\n• Como antecedente de esta tensión, a principios de este año, el Gobierno removió a Sonia Cavallo, hija del ex ministro, de su cargo en la Organización de los Estados Americanos (OEA).\n• Lisandro Catalán, por su parte, dejó su puesto como ministro del Interior tras la salida de Guillermo Francos de la Jefatura de Gabinete, pero continúa ligado a la administración actual.\n• Oriundo de Tucumán, Catalán tiene aspiraciones de ser gobernador de su provincia en 2027, manteniendo un rol estratégico en el ámbito libertario.\n• Con esta modificación, el Directorio de YPF sigue compuesto por figuras como Catalán, José \"Cochi\" Rolandi, Andrea Confini, Eduardo Rodríguez Chirillo y Guillermo Francos, entre otros miembros.\n\n💡 **¿Por qué importa?**\n• Estos movimientos de personal en YPF reflejan una importante reconfiguración de poder y de los alineamientos políticos dentro del gobierno en una empresa estratégica para el país.\n• La sustitución de un perfil históricamente vinculado a Domingo Cavallo por un hombre cercano a Guillermo Francos podría señalar una consolidación de influencia de ciertos sectores dentro de la administración libertaria.",
-      "cantidad_noticias": 2,
+      "tema_id": "politica_partidaria_y_20251120",
+      "tema": "Política partidaria y gestión argentina",
+      "tema_normalizado": "politica partidaria y gestion argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La política y gestión argentina se encuentran en un momento de intensos reacomodamientos, con el oficialismo buscando consolidar su poder legislativo y la oposición reorganizándose.\n• Conflictos internos, investigaciones por corrupción y disputas de autonomía territorial marcan la agenda, sumándose a debates sobre la transparencia y la libertad de prensa.\n• La situación afecta desde la conformación de bloques legislativos hasta la diplomacia regional y la gestión de recursos estatales.\n\n🔍 **Datos clave:**\n• **LLA suma bancas:** La Libertad Avanza (LLA) incrementó su bloque en Diputados a 92 miembros, acercándose a Unión por la Patria (95).\n• **Deuda PBA:** El gobernador Axel Kicillof busca aprobación para un endeudamiento de $3.685 millones de dólares para la provincia de Buenos Aires.\n• **Caso $LIBRA:** Una comisión del Congreso investiga presuntas transferencias de criptoactivos (u$s300.000 y u$s250.000) vinculadas al entorno del Presidente.\n• **US$ 700.000 incautados:** Se encontraron US$ 700.000 y otras divisas en el domicilio de Ornella Calvete, ex-funcionaria de Economía, en un allanamiento.\n• **Fentanilo contaminado:** El juez federal Ernesto Kreplak confirmó la circulación de más de 154.000 ampollas adulteradas, con 124 fallecimientos.\n• **Rechazo a senadora electa:** La comisión del Senado dictaminó el rechazo del diploma de Lorena Villaverde (LLA) por supuestos vínculos con el narcotráfico.\n\n⚡ **Desarrollo:**\n• El gobierno de Javier Milei enfrenta desafíos internos, incluyendo la búsqueda de Karina Milei por alinear a la militancia de LLA en Buenos Aires y las disputas por el liderazgo legislativo provincial.\n• La oposición peronista sufre una profunda crisis y fracturas, evidenciadas en las tensiones entre Axel Kicillof y el kirchnerismo por el financiamiento provincial, aunque el gobernador busca diálogo con sus pares no peronistas.\n• Se multiplican las investigaciones por corrupción, como las denuncias en la Fábrica Argentina de Aviones (FAdeA) por presuntos retornos, lo que llevó a la renuncia del gerente comercial.\n• A nivel internacional, la Cumbre del Mercosur peligra por la negativa de Argentina y Paraguay a la fecha propuesta por Brasil, en un contexto de fricciones entre Milei y Lula da Silva.\n• Periodistas argentinos denunciaron ante la CIDH ataques, amenazas y discursos estigmatizantes por parte del Gobierno, afectando la libertad de expresión.\n• La Ciudad de Buenos Aires lanzó un Observatorio sobre Federalismo y Autonomía Porteña para impulsar reclamos de transferencia de competencias, como el Puerto y la terminal de Retiro, a la órbita local.\n• Se observan cambios en la gestión de empresas estatales, como la designación de Lisandro Catalán en el directorio de YPF, en medio de tensiones entre el Gobierno y figuras como Domingo Cavallo.\n• La reelección no es una prioridad para Milei, quien afirma enfocarse en \"resolver problemas\" y las \"reformas de segunda generación\", mientras su administración define nombramientos clave en el Poder Judicial.\n\n💡 **¿Por qué importa?**\n• Estos eventos ilustran cómo la política partidaria y la gestión gubernamental se entrelazan, influyendo directamente en la gobernabilidad, la estabilidad institucional y la vida de los ciudadanos.\n• La capacidad del gobierno para abordar la corrupción, garantizar la transparencia y proteger las libertades democráticas es crucial para la confianza pública y el desarrollo del país.",
+      "cantidad_noticias": 20,
       "noticias": [
+        {
+          "titulo": "DNI Bullrich Version: la curiosa promoción que hizo la ministra de Seguridad de la edición limitada de “su” documento",
+          "link": "https://www.infobae.com/politica/2025/11/20/dni-bullrich-version-la-curiosa-promocion-que-hizo-la-ministra-de-seguridad-de-la-edicion-limitada-de-su-documento/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 09:14:33"
+        },
+        {
+          "titulo": "Peligra la cumbre del Mercosur en Brasil por una queja de Paraguay y las dudas de Milei",
+          "link": "https://www.lanacion.com.ar/politica/peligra-la-cumbre-del-mercosur-en-brasil-por-una-queja-de-paraguay-y-las-dudas-de-milei-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 08:37:01"
+        },
+        {
+          "titulo": "¿Otro caso de corrupción? Investigan presunto hecho de pago de retornos en la Fábrica Argentina de Aviones",
+          "link": "https://www.ambito.com/politica/otro-caso-corrupcion-investigan-presunto-hecho-pago-retornos-la-fabrica-argentina-aviones-n6215850",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 07:00:00"
+        },
+        {
+          "titulo": "La encuesta más temida: quiénes son los 8 intendentes peronistas con peor imagen en el Conurbano",
+          "link": "https://www.clarin.com/politica/encuesta-temida-8-intendentes-peronistas-peor-imagen-conurbano_0_WarEXonDc7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-20 06:01:49"
+        },
+        {
+          "titulo": "La crisis peronista y los cimbronazos internos del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/la-crisis-peronista-y-los-cimbronazos-internos-del-gobierno-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 03:22:35"
+        },
+        {
+          "titulo": "\"No pienso en la reelección\", reveló un Javier Milei sin voz por los plátanos y \"a la miseria\"",
+          "link": "https://www.minutouno.com/politica/no-pienso-la-reeleccion-revelo-un-javier-milei-voz-los-platanos-y-a-la-miseria-n6215873",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-20 00:39:00"
+        },
+        {
+          "titulo": "Axel Kicillof destacó el trabajo del Congreso en el Caso $LIBRA y pidió \"investigar a fondo\" a Javier Milei",
+          "link": "https://www.ambito.com/politica/axel-kicillof-destaco-el-trabajo-del-congreso-el-caso-libra-y-pidio-investigar-fondo-javier-milei-n6215854",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 23:20:14"
+        },
+        {
+          "titulo": "Los bienes de la funcionaria de Economía a la que le encontraron US$ 700 mil dólares",
+          "link": "https://noticias.perfil.com/noticias/politica/los-bienes-de-la-funcionaria-de-economia-a-la-que-le-encontraron-us-700-mil.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 21:37:00"
+        },
+        {
+          "titulo": "Villaverde bajo la lupa del Senado: rechazaron su diploma en comisión y su futuro se definirá en el recinto",
+          "link": "https://www.perfil.com/noticias/politica/villaverde-bajo-la-lupa-del-senado-rechazaron-su-diploma-en-comision-y-su-futuro-se-definira-en-el-recinto.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 21:30:00"
+        },
+        {
+          "titulo": "Periodistas denunciaron ante la CIDH los ataques del Gobierno contra la prensa y la libertad de expresión",
+          "link": "https://www.perfil.com/noticias/politica/periodistas-denunciaron-ante-la-cidh-los-ataques-del-gobierno-contra-la-prensa-y-la-libertad-de-expresion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 21:20:00"
+        },
+        {
+          "titulo": "Fentanilo contaminado: el juez Kreplak confirmó en Diputados que había más de 154 mil ampollas infectadas",
+          "link": "https://www.ambito.com/politica/fentanilo-contaminado-el-juez-kreplak-confirmo-diputados-que-habia-mas-154-mil-ampollas-infectadas-n6215826",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:59:00"
+        },
         {
           "titulo": "Lisandro Catalán es nuevo integrante del Directorio de YPF en reemplazo de Carlos Bastos",
           "link": "https://www.ambito.com/politica/lisandro-catalan-es-nuevo-integrante-del-directorio-ypf-reemplazo-carlos-bastos-n6215820",
@@ -579,16 +816,62 @@
           "fecha": "2025-11-19 20:33:00"
         },
         {
-          "titulo": "El Gobierno sacó de YPF a un ex Cavallo y sumó a un hombre de Francos",
-          "link": "https://www.clarin.com/economia/gobierno-saco-ypf-ex-cavallo-sumo-hombre-francos_0_owfJsPsBgL.html",
+          "titulo": "Axel Kicillof se suma a foto con gobernadores no peronistas en un encuentro del CFI",
+          "link": "https://www.ambito.com/politica/axel-kicillof-se-suma-foto-gobernadores-no-peronistas-un-encuentro-del-cfi-n6215811",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:23:00"
+        },
+        {
+          "titulo": "Los Milei miran a la Justicia y el abogado que se mueve por la Casa Rosada",
+          "link": "https://www.clarin.com/politica/milei-miran-justicia-abogado-mueve-casa-rosada_0_gRSOGP0tlT.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-19 18:57:38"
+          "fecha": "2025-11-19 20:21:45"
+        },
+        {
+          "titulo": "Tras el batacazo de octubre, Karina Milei busca limar asperezas con \"Las Fuerzas del Cielo\" en la Provincia",
+          "link": "https://www.clarin.com/politica/batacazo-octubre-karina-milei-busca-limar-asperezas-fuerzas-cielo-provincia_0_rCGvw9haZ2.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 19:25:53"
+        },
+        {
+          "titulo": "La Libertad Avanza volvió a sumar diputados a su bloque y puede desplazar al peronismo como principal fuerza",
+          "link": "https://www.ambito.com/politica/la-libertad-avanza-volvio-sumar-diputados-su-bloque-y-puede-desplazar-al-peronismo-como-principal-fuerza-n6215789",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 19:14:00"
+        },
+        {
+          "titulo": "Andrea Bocelli en la Casa Rosada: Milei esperaba un concierto y el italiano no quería cantar",
+          "link": "https://noticias.perfil.com/noticias/politica/andrea-bocelli-en-la-casa-rosada-milei-esperaba-un-concierto-y-el-italiano-no-queria-cantar.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 19:13:52"
+        },
+        {
+          "titulo": "Hubo dictamen en el Senado para votar el rechazo a la incorporación de la libertaria Lorena Villaverde",
+          "link": "https://www.minutouno.com/politica/hubo-dictamen-el-senado-votar-el-rechazo-la-incorporacion-la-libertaria-lorena-villaverde-n6215764",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 18:46:00"
+        },
+        {
+          "titulo": "Ciudad lanzó el Observatorio sobre Federalismo y Autonomía Porteña y reclama a Nación el traspaso del Puerto y de Retiro",
+          "link": "https://www.ambito.com/politica/ciudad-lanzo-el-observatorio-federalismo-y-autonomia-portena-y-reclama-nacion-el-traspaso-del-puerto-y-retiro-n6215748",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:20:00"
+        },
+        {
+          "titulo": "Campaña solidaria en el norte de Córdoba: odontólogos llevan prevención y atención a los parajes rurales",
+          "link": "https://www.perfil.com/noticias/cordoba/campana-solidaria-en-el-norte-de-cordoba-odontologos-llevan-prevencion-y-atencion-a-los-parajes-rurales.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 18:16:06"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-20",
       "fuentes": [
+        "Minuto1",
+        "La Nación",
         "Ámbito Financiero",
+        "Infobae",
+        "Perfil",
         "Clarín"
       ],
       "es_tema_nuevo": true,
