@@ -1,6 +1,625 @@
 {
-  "fecha": "2025-11-19",
-  "fecha_generacion": "2025-11-20T00:53:05.323587",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-20",
+  "fecha_generacion": "2025-11-20T03:47:47.498213",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "argentina:_economia_y_20251120",
+      "tema": "Argentina: Economía y Deuda",
+      "tema_normalizado": "argentina: economia y deuda",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina enfrenta importantes vencimientos de deuda en dólares, especialmente en enero, lo que genera cautela en los inversores y el mercado.\n• El Gobierno busca activamente diversas opciones de financiamiento, como nuevos préstamos REPO y la reapertura del acceso a los mercados internacionales de deuda.\n• A pesar de la incertidumbre sobre la liquidez del Tesoro, el riesgo país ha mostrado una tendencia a la baja y la deuda bruta total se redujo en el último año.\n\n🔍 **Datos clave:**\n• **Vencimientos de deuda en enero:** Aproximadamente USD 4.200 - 4.300 millones (incluyendo Globales, Bonares y compromisos con organismos).\n• **Riesgo País (EMBIGD):** Cayó a 601 puntos básicos el 19 de noviembre de 2025, incluso tocando 597 unidades.\n• **Deuda bruta total (Octubre):** USD 439.688 millones, lo que representa una reducción de USD 21.094 millones en un año.\n• **Composición de la deuda:** 43% pagadero en pesos y 57% en moneda extranjera.\n• **Crédito REPO:** El Gobierno busca obtener alrededor de USD 4.000 millones. Ya realizó operaciones similares por USD 1.000 millones (enero) y USD 2.000 millones (junio).\n• **Asistencia de EE.UU.:** Se negocia un crédito potencial de hasta USD 20.000 millones.\n\n⚡ **Desarrollo:**\n• La principal inquietud del mercado es la liquidez del Tesoro para afrontar los voluminosos compromisos en dólares a corto plazo.\n• El ministro de Economía, Luis Caputo, y su equipo evalúan un \"menú de alternativas\" para refinanciar la deuda, incluyendo el uso del swap chino, el apoyo de Estados Unidos, nuevos repos con bancos y el propio mercado.\n• El Gobierno aspira a que el riesgo país siga bajando para poder volver a emitir deuda en los mercados internacionales, aunque actualmente carece de los dólares necesarios para recomprar deuda de forma significativa.\n• La reducción del riesgo país se ha visto impulsada por el ingreso de divisas al mercado local, producto de emisiones de Obligaciones Negociables corporativas y deuda de la Ciudad de Buenos Aires, además de la confianza en la estabilidad cambiaria.\n• Pese a la reducción de la deuda bruta, el saldo del intercambio comercial de bienes, aunque positivo, muestra una tendencia a debilitarse, lo que indica que no será suficiente para cubrir los compromisos futuros.\n• Se ha descartado la opción de financiar al Tesoro a través de la emisión del Banco Central para no romper la promesa de no generar pesos sin demanda genuina.\n\n💡 **¿Por qué importa?**\n• La capacidad de Argentina para gestionar y pagar sus vencimientos de deuda es fundamental para estabilizar su economía y mejorar su credibilidad ante los inversores internacionales.\n• Un acceso exitoso a financiamiento en los mercados globales permitiría al país reducir la presión sobre sus reservas, consolidar sus finanzas y sentar bases para un crecimiento sostenido.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "En modo cautela, el mercado aguarda señales del Gobierno sobre el pago de los vencimientos de deuda de enero",
+          "link": "https://www.infobae.com/economia/2025/11/20/en-modo-cautela-el-mercado-aguarda-senales-del-gobierno-sobre-el-pago-de-los-vencimientos-de-deuda-de-enero/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:20:15"
+        },
+        {
+          "titulo": "¿Vuelve a los mercados?: las opciones que evalúa el Gobierno para afrontar los vencimientos de deuda externa",
+          "link": "https://www.infobae.com/economia/2025/11/20/vuelve-a-los-mercados-las-opciones-que-evalua-el-gobierno-para-afrontar-los-vencimientos-de-deuda-externa/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:19:06"
+        },
+        {
+          "titulo": "El Riesgo País de Argentina perfora los 600 puntos básicos por la suba de bonos, el 19 de noviembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-de-argentina-perfora-los-600-puntos-basicos-por-la-suba-de-bonos-el-19-de-noviembre-de-2025-a35.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 21:39:00"
+        },
+        {
+          "titulo": "La deuda se redujo u$s21.000 millones en un año y pasó a ser de u$s439.688 millones en octubre",
+          "link": "https://www.iprofesional.com/economia/442327-la-deuda-bajo-us21000-millones-en-12-meses-y-paso-a-ser-de-439688-millones-en-octubre",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 18:19:00"
+        },
+        {
+          "titulo": "Deuda: inquieta a la city la liquidez del Tesoro ante próximos vencimientos, ¿qué opciones tiene para sumar dólares?",
+          "link": "https://www.ambito.com/economia/deuda-inquieta-la-city-la-liquidez-del-tesoro-proximos-vencimientos-que-opciones-tiene-sumar-dolares-n6215626",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 17:52:00"
+        },
+        {
+          "titulo": "La jugada que prepara Caputo para pagar urgente vencimientos de deuda por más de u$s4.000 millones",
+          "link": "https://www.iprofesional.com/economia/442318-jugada-que-prepara-luis-caputo-para-pagar-urgente-vencimientos-por-mas-de-4000-millones-dolares",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 17:38:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Infobae",
+        "Ámbito Financiero",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_gobierno_milei_20251120",
+      "tema": "Argentina: Gobierno Milei y Reformas",
+      "tema_normalizado": "argentina: gobierno milei y reformas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei acelera su agenda de reformas estructurales, promoviendo la desregulación, la reducción del Estado y una mayor participación del sector privado.\n• El Presidente ha advertido que vienen \"muchas más reformas\", buscando consolidar su programa económico y político con el respaldo legislativo obtenido.\n\n🔍 **Datos clave:**\n• **\"Abróchense los cinturones porque va a haber más reformas\":** Frase recurrente del presidente Milei.\n• **600 mil decretos:** Cantidad de modificaciones estructurales en carpeta, según Milei.\n• **Presupuesto 2026:** Principal ley a aprobar por el gobierno en las próximas sesiones.\n• **741 km de rutas:** Tramos de la Red Federal de Concesiones adjudicados a privados.\n• **92 diputados:** Nuevo número de bancas para La Libertad Avanza en la Cámara de Diputados.\n• **12 de 19 firmas:** Rechazo en comisión del Senado al diploma de la senadora electa Lorena Villaverde.\n• **Lisandro Catalán:** Nuevo integrante del Directorio de YPF, en reemplazo de Carlos Bastos.\n• **26 de octubre:** Fecha de las elecciones legislativas, interpretadas por Milei como un aval a sus reformas.\n• **10 de diciembre:** Fecha de recambio legislativo y de asunción de nuevas autoridades.\n• **Corporación América:** Empresa donde Milei realizó presentaciones destacando su visión de gobierno.\n\n⚡ **Desarrollo:**\n• El gobierno reafirma su \"vocación reformista\", buscando una intervención estatal \"infinitamente menor\" y promoviendo la desregulación para la estabilidad macroeconómica y el crecimiento.\n• Se solicita activamente la participación e inversión del sector privado para \"capitalizar un país descapitalizado\" y lograr un crecimiento económico que el Presidente proyecta como \"tasas argentinas\".\n• La agenda legislativa incluye reformas impositivas, laborales y del Código Penal, siendo la aprobación del Presupuesto 2026 una prioridad clave, negociada con los gobernadores.\n• La Libertad Avanza ha logrado sumar legisladores en Diputados, consolidando su fuerza, aunque enfrenta desafíos en el Senado con casos como la impugnación de Villaverde.\n• Se han realizado cambios en el directorio de YPF, con la salida de Carlos Bastos (vinculado a Cavallo) y la entrada de Lisandro Catalán, en un contexto de tensiones internas.\n• En el ámbito audiovisual, el gobierno revirtió el traspaso de las plataformas \"Cine.Ar\" al vocero presidencial, devolviéndolas al Incaa para un proceso de licitación y eventual venta al sector privado.\n• La Ciudad de Buenos Aires ha lanzado un Observatorio sobre Federalismo y Autonomía, reclamando a Nación el traspaso de competencias como el Puerto y la terminal de Retiro.\n• El gobierno, con Karina Milei y Santiago Viola, mantiene un seguimiento cercano de los asuntos jurídicos y nombramientos judiciales para consolidar su influencia.\n\n💡 **¿Por qué importa?**\n• Las reformas propuestas por el gobierno de Milei buscan transformar profundamente el modelo económico y el rol del Estado en Argentina, con implicaciones a largo plazo en la vida de los ciudadanos y el desarrollo del país.\n• La implementación de estas medidas depende de la capacidad de negociación política y del apoyo social, en un escenario legislativo desafiante y con expectativas económicas de una mejora \"paulatina\".",
+      "cantidad_noticias": 17,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 23:10:00"
+        },
+        {
+          "titulo": "Mientras se complica su situación por el caso $Libra, Milei pisó el acelerador: \"Abróchense los cinturones porque va a haber más reformas\"",
+          "link": "https://www.perfil.com/noticias/politica/mientras-se-complica-su-situacion-por-el-caso-libra-milei-piso-el-acelerador-abrochense-los-cinturones-porque-va-a-haber-mas-reformas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 23:00:00"
+        },
+        {
+          "titulo": "Entre la desregulación y la inversión estatal: gobernadores y funcionarios de Milei debatieron sobre un plan productivo",
+          "link": "https://www.lanacion.com.ar/politica/entre-la-desregulacion-y-la-inversion-estatal-gobernadores-y-funcionarios-de-milei-debatieron-sobre-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 21:33:00"
+        },
+        {
+          "titulo": "Villaverde bajo la lupa del Senado: rechazaron su diploma en comisión y su futuro se definirá en el recinto",
+          "link": "https://www.perfil.com/noticias/politica/villaverde-bajo-la-lupa-del-senado-rechazaron-su-diploma-en-comision-y-su-futuro-se-definira-en-el-recinto.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 21:30:00"
+        },
+        {
+          "titulo": "Rutas nacionales: el Gobierno adjudicó 741 km como primera parte de la Red Federal de Concesiones",
+          "link": "https://www.ambito.com/politica/rutas-nacionales-el-gobierno-adjudico-741-km-como-primera-parte-la-red-federal-concesiones-n6215835",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 21:28:00"
+        },
+        {
+          "titulo": "Javier Milei pidió apoyo a empresarios y confesó que \"la mejora en el bolsillo será paulatina\"",
+          "link": "https://www.minutouno.com/politica/javier-milei-pidio-apoyo-empresarios-y-confeso-que-la-mejora-el-bolsillo-sera-paulatina-n6215816",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 20:37:00"
+        },
+        {
+          "titulo": "Lisandro Catalán es nuevo integrante del Directorio de YPF en reemplazo de Carlos Bastos",
+          "link": "https://www.ambito.com/politica/lisandro-catalan-es-nuevo-integrante-del-directorio-ypf-reemplazo-carlos-bastos-n6215820",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:33:00"
+        },
+        {
+          "titulo": "Los Milei miran a la Justicia y el abogado que se mueve por la Casa Rosada",
+          "link": "https://www.clarin.com/politica/milei-miran-justicia-abogado-mueve-casa-rosada_0_gRSOGP0tlT.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 20:21:45"
+        },
+        {
+          "titulo": "Javier Milei: \"No vamos a calmar nuestra vocación reformista; abróchense los cinturones\"",
+          "link": "https://www.ambito.com/politica/javier-milei-no-vamos-calmar-nuestra-vocacion-reformista-abrochense-los-cinturones-n6215799",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 19:40:00"
+        },
+        {
+          "titulo": "Tras el batacazo de octubre, Karina Milei busca limar asperezas con \"Las Fuerzas del Cielo\" en la Provincia",
+          "link": "https://www.clarin.com/politica/batacazo-octubre-karina-milei-busca-limar-asperezas-fuerzas-cielo-provincia_0_rCGvw9haZ2.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 19:25:53"
+        },
+        {
+          "titulo": "\"Abróchense los cinturones\": Milei prometió más reformas y anticipó un crecimiento para la economía",
+          "link": "https://www.iprofesional.com/politica/442332-abrochense-los-cinturones-javier-milei-prometio-mas-reformas-y-anticipo-fuerte-crecimiento",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 19:24:00"
+        },
+        {
+          "titulo": "La Libertad Avanza volvió a sumar diputados a su bloque y puede desplazar al peronismo como principal fuerza",
+          "link": "https://www.ambito.com/politica/la-libertad-avanza-volvio-sumar-diputados-su-bloque-y-puede-desplazar-al-peronismo-como-principal-fuerza-n6215789",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 19:14:00"
+        },
+        {
+          "titulo": "\"Abróchense los cinturones porque habrá muchas más reformas\": el aviso de Javier Milei al participar de un acto en Corporación América",
+          "link": "https://www.clarin.com/politica/abrochense-cinturones-muchas-reformas-aviso-javier-milei-participar-acto-corporacion-america_0_eWgyFNnCM6.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 19:07:22"
+        },
+        {
+          "titulo": "El Gobierno sacó de YPF a un ex Cavallo y sumó a un hombre de Francos",
+          "link": "https://www.clarin.com/economia/gobierno-saco-ypf-ex-cavallo-sumo-hombre-francos_0_owfJsPsBgL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 18:57:38"
+        },
+        {
+          "titulo": "Hubo dictamen en el Senado para votar el rechazo a la incorporación de la libertaria Lorena Villaverde",
+          "link": "https://www.minutouno.com/politica/hubo-dictamen-el-senado-votar-el-rechazo-la-incorporacion-la-libertaria-lorena-villaverde-n6215764",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 18:46:00"
+        },
+        {
+          "titulo": "Ciudad lanzó el Observatorio sobre Federalismo y Autonomía Porteña y reclama a Nación el traspaso del Puerto y de Retiro",
+          "link": "https://www.ambito.com/politica/ciudad-lanzo-el-observatorio-federalismo-y-autonomia-portena-y-reclama-nacion-el-traspaso-del-puerto-y-retiro-n6215748",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:20:00"
+        },
+        {
+          "titulo": "Avanzan las negociaciones del Gobierno por el Presupuesto 2026: qué reclaman las provincias",
+          "link": "https://www.iprofesional.com/politica/442254-avanzan-negociaciones-gobierno-javier-milei-por-presupuesto-2026-que-piden-provincias",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 18:00:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "La Nación",
+        "Clarín",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_reforma_laboral_20251120",
+      "tema": "Argentina: Reforma Laboral y Empleo",
+      "tema_normalizado": "argentina: reforma laboral y empleo",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino impulsa una reforma laboral integral para modernizar leyes \"muy antiguas\", crear empleo formal y reducir la alta informalidad en el país.\n• La propuesta busca flexibilizar las relaciones laborales, modificar convenios colectivos y establecer un marco específico para las plataformas tecnológicas.\n\n🔍 **Datos clave:**\n• **10 años:** Tiempo sin creación neta de empleo formal en Argentina.\n• **50%:** Porcentaje de trabajadores en la informalidad actualmente.\n• **65.000:** Puestos de trabajo generados anualmente por agencias temporarias.\n• **62%:** Mujeres y jóvenes que acceden a su primer empleo formal a través de estas agencias.\n• **2.400:** Empleados actuales en Medios Públicos (TV Pública y Radio Nacional) afectados por retiros voluntarios.\n• **Noviembre 27:** Fecha de la próxima reunión del Consejo de Mayo para discutir los borradores de las reformas.\n\n⚡ **Desarrollo:**\n• La reforma es impulsada por el Consejo de Mayo, liderado por Manuel Adorni (Jefe de Gabinete) y Federico Sturzenegger (Ministro de Desregulación), con participación de gobernadores, legisladores, sindicalistas (Gerardo Martínez, UOCRA) y empresarios (Martín Rappallini, UIA).\n• Los borradores contemplan cambios en la Ley de Contrato de Trabajo (LCT), actualizando aspectos como registración, jornada, vacaciones, licencias e indemnizaciones.\n• Se busca modernizar los convenios colectivos, algunos de la década del '70, proponiendo mayor flexibilidad en su negociación y aplicación (por región, rubro o empresa).\n• Un capítulo clave se dedica a la economía de plataformas (Rappi, Pedidos Ya, Uber), buscando un marco \"claro, simple y de bajo costo\" para formalizar a miles de repartidores y choferes independientes.\n• La reforma se enfoca en el sector privado, sin afectar a los empleados estatales, aunque la Asociación de Trabajadores del Estado (ATE) convocó a un paro en rechazo, al cual el Gobierno advirtió con descuentos salariales.\n• Paralelamente, el Gobierno anunció retiros voluntarios para reducir la planta de trabajadores en Medios Públicos, con el objetivo de hacerlos más eficientes.\n• Organizaciones como la Federación Argentina de Empleo (FAE), presidida por Oscar Silvero, resaltan el rol de las agencias temporarias como puente hacia el empleo formal, especialmente para jóvenes y mujeres.\n\n💡 **¿Por qué importa?**\n• La reforma busca revertir el estancamiento del empleo formal y la informalidad, que afectan a la mitad de la fuerza laboral, y adaptarse a las nuevas dinámicas del mercado de trabajo.\n• Podría modificar sustancialmente las reglas del juego para trabajadores y empleadores, impactando en la estabilidad laboral, los costos de contratación y la protección social en Argentina.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Oscar Silvero: “Tenemos leyes muy antiguas que no contemplan la dinámica de los trabajos nuevos”",
+          "link": "https://www.infobae.com/politica/2025/11/20/oscar-silvero-tenemos-leyes-muy-antiguas-que-no-contemplan-la-dinamica-de-los-trabajos-nuevos/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:29:11"
+        },
+        {
+          "titulo": "El Gobierno ya tiene los borradores de las reformas laboral y educativa: las reuniones finales y la presentación",
+          "link": "https://www.infobae.com/politica/2025/11/20/el-gobierno-ya-tiene-los-borradores-de-las-reformas-laboral-y-educativa-las-reuniones-finales-y-la-presentacion/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:14:17"
+        },
+        {
+          "titulo": "Federico Sturzenegger aseguró que la reforma laboral no alcanza a los empleados estatales: ”Protestan por protestar\"",
+          "link": "https://www.lanacion.com.ar/politica/federico-sturzenegger-aseguro-que-la-reforma-laboral-no-alcanza-a-los-empleados-estatales-protestan-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 23:41:11"
+        },
+        {
+          "titulo": "El Gobierno abrirá retiros voluntarios para empleados de medios públicos",
+          "link": "https://www.iprofesional.com/economia/442336-gobierno-javier-milei-abrira-retiros-voluntarios-para-empleados-medios-de-comunicacion-publicos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 19:43:00"
+        },
+        {
+          "titulo": "Paro de ATE contra la reforma laboral: el Gobierno advirtió que le descontará el día a los estatales que adhirieron",
+          "link": "https://www.ambito.com/politica/paro-ate-contra-la-reforma-laboral-el-gobierno-advirtio-que-le-descontara-el-dia-los-estatales-que-adhieran-n6215618",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:38:00"
+        },
+        {
+          "titulo": "Reforma laboral: cambios clave para trabajadores de Rappi, Pedidos Ya, Uber y otras plataformas",
+          "link": "https://www.iprofesional.com/economia/442315-reforma-laboral-cambios-clave-para-trabajadores-uber-rappi-pedidos-ya-y-otras-plataformas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 17:25:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_caso_andis/corrupcion_20251120",
+      "tema": "Argentina: Caso ANDIS/Corrupción Gobierno",
+      "tema_normalizado": "argentina: caso andis/corrupcion gobierno",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Agencia Nacional de Discapacidad (ANDIS) está bajo investigación por un grave escándalo de presunta corrupción y coimas en sus licitaciones.\n• Varios funcionarios y empresarios son acusados de desviar fondos públicos por medio de contrataciones irregulares que beneficiarían a droguerías específicas.\n• El presidente Javier Milei calificó las denuncias como una \"operación\" política, mientras la Justicia avanza en la investigación.\n\n🔍 **Datos clave:**\n• **Fiscal a cargo:** Franco Picardi, quien investiga la causa y presentó una acusación de 280 páginas.\n• **Desvío de fondos:** El fiscal estima que el esquema pudo haber desviado cerca de $43.000 millones de dinero de la agencia.\n• **Funcionarios principales investigados/apartados:** Diego Spagnuolo (ex-titular de ANDIS), Daniel Garbellini, Lorena Di Giorno y Eduardo Nelio González.\n• **Personas clave de la trama:** Miguel Ángel Calvete (empresario señalado como organizador), Pablo Atchabain (lobbista) y Luciana Ferrari (ex-ejecutiva de Laboratorios Roche).\n• **Pruebas clave:** Audios que mencionan una supuesta \"coima del 3 por ciento para Karina Milei\", cuya autenticidad es disputada por la defensa de Spagnuolo.\n\n⚡ **Desarrollo:**\n• La investigación judicial se centra en un esquema de licitaciones \"acotadas\" que habrían sido direccionadas y con sobreprecios, a través del sistema SIIPFIS.\n• Daniel Garbellini, director de Acceso a Servicios de Salud de ANDIS, es señalado por facilitar usuarios y claves de acceso al sistema de contrataciones a Luciana Ferrari.\n• Ferrari, despedida de Laboratorios Roche, es investigada por supuestamente operar desde el ámbito privado para influir en las adjudicaciones.\n• Lorena Di Giorno y Eduardo Nelio González, también apartados, tenían acceso al sistema SIIPFIS y mantenían vínculos empresariales con Miguel Ángel Calvete.\n• La defensa de Diego Spagnuolo sostiene que los audios que impulsaron la causa fueron \"manipulados y editados con Inteligencia Artificial\" y presentó un peritaje particular de una empresa alemana.\n• Spagnuolo negó haber remodelado su casa y justificó la posesión de $82.000 en su caja de seguridad como previos a su asunción en ANDIS.\n• El Gobierno de Milei ha intervenido ANDIS, y el Presidente se ha manifestado \"implacable\" contra la corrupción, aunque califica las denuncias como una \"operación política\" con \"mala intención\".\n• Se menciona que Ornella Calvete, hija de Miguel Calvete y ex-funcionaria, tenía u$s700.000 en su casa, y su pareja Javier Cardini (actualmente en el Ministerio de Economía) no fue separado de su cargo.\n\n💡 **¿Por qué importa?**\n• Este caso pone en evidencia posibles actos de corrupción en una entidad crucial para los derechos y la asistencia de las personas con discapacidad en Argentina.\n• La controversia sobre la manipulación de audios con Inteligencia Artificial abre un debate importante sobre la validez y el uso de pruebas digitales en el sistema judicial.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Milei se refirió al caso Andis y aseguró que en el Gobierno hay “absoluta tranquilidad”: “Somos implacables”",
+          "link": "https://www.lanacion.com.ar/politica/milei-se-refirio-al-caso-andis-y-aseguro-que-en-el-gobierno-hay-absoluta-tranquilidad-somos-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 23:48:36"
+        },
+        {
+          "titulo": "Fentanilo contaminado: el juez Kreplak confirmó en Diputados que había más de 154 mil ampollas infectadas",
+          "link": "https://www.ambito.com/politica/fentanilo-contaminado-el-juez-kreplak-confirmo-diputados-que-habia-mas-154-mil-ampollas-infectadas-n6215826",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:59:00"
+        },
+        {
+          "titulo": "ANDIS: echaron a una empleada de Laboratorios Roche investigada en el causa de las coimas",
+          "link": "https://www.ambito.com/politica/andis-echaron-una-empleada-laboratorios-roche-investigada-el-causa-las-coimas-n6215815",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:43:00"
+        },
+        {
+          "titulo": "Apartaron a dos funcionarios de la Agencia de Discapacidad investigados por la Justicia",
+          "link": "https://www.lanacion.com.ar/politica/apartaron-a-dos-funcionarios-de-la-agencia-de-discapacidad-investigados-por-la-justicia-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 20:08:14"
+        },
+        {
+          "titulo": "Escándalo de Andis: el abogado de Spagnuolo afirmó que los audios de las presuntas coimas fueron “manipulados con IA“",
+          "link": "https://www.lanacion.com.ar/politica/escandalo-de-andis-el-abogado-de-spagnuolo-afirmo-que-los-audios-de-las-presuntas-coimas-fueron-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 20:04:00"
+        },
+        {
+          "titulo": "ANDIS: Spagnuolo presentará en la causa un peritaje particular que dice que los audios fueron \"editados con Inteligencia Artificial\"",
+          "link": "https://www.clarin.com/politica/andis-spagnuolo-presentara-causa-peritaje-particular-dice-audios-editados-inteligencia-artificial_0_VzqziVPWJh.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 19:18:50"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_peronismo_y_20251120",
+      "tema": "Argentina: Peronismo y Oposición",
+      "tema_normalizado": "argentina: peronismo y oposicion",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El peronismo atraviesa una profunda crisis interna y una lucha por el liderazgo, buscando una reconfiguración post-derrota electoral y la definición de una nueva agenda.\n*   En la Provincia de Buenos Aires, el gobernador Axel Kicillof enfrenta desafíos internos con La Cámpora y Máximo Kirchner, mientras también busca establecer un rol más amplio de diálogo.\n*   La oposición, representada principalmente por el PRO, debate su identidad y estrategia frente al gobierno de Javier Milei, evitando ser solo \"anti-Milei\" y buscando construir una propuesta propia para el futuro.\n\n🔍 **Datos clave:**\n*   **Axel Kicillof:** Gobernador bonaerense, figura en ascenso que busca liderazgo y diálogo interprovincial.\n*   **Cristina Kirchner (CFK):** Expresidenta, mantiene influencia con al menos 77 visitas en 80 días desde su domicilio, pero su liderazgo es cuestionado internamente.\n*   **Máximo Kirchner:** Lidera La Cámpora y el PJ bonaerense, cuya renovación de autoridades fue pospuesta para febrero próximo.\n*   **Deuda provincial:** Kicillof necesita aprobación legislativa para tomar deuda por U$S 3685 millones para 2026.\n*   **Impuesto Rural PBA:** Alerta en el campo por un posible aumento de hasta 130% en el Inmobiliario Rural para 2026.\n*   **Caso $LIBRA:** Kicillof pide investigar a fondo al presidente Javier Milei por presuntos vínculos con transferencias de U$S 300.000 y U$S 250.000.\n*   **María Eugenia Vidal:** Diputada del PRO, crítica de la alineación incondicional con el oficialismo y defensora de una identidad partidaria propia.\n*   **2026-2027:** Años clave para la redefinición de liderazgos y programas políticos en ambos bloques.\n\n⚡ **Desarrollo:**\n*   El peronismo nacional asume la necesidad de cambios profundos, debatiendo el agotamiento del ciclo de CFK y la urgencia de reconstruir un programa político y económico.\n*   En Buenos Aires, la gestión de Kicillof está marcada por tironeos de poder y desconfianza mutua con La Cámpora, lo que complica la aprobación del presupuesto y el endeudamiento provincial.\n*   Líderes como Sergio Massa advierten sobre el riesgo de mezclar la gobernabilidad con las internas partidarias, pidiendo priorizar los instrumentos de gestión.\n*   María Eugenia Vidal, desde el PRO, critica a quienes buscan fusionarse con La Libertad Avanza, enfatizando la importancia de que el PRO conserve su identidad y presente una propuesta para 2027.\n*   Kicillof, además de sus internas, se posiciona críticamente frente al Gobierno nacional, pidiendo investigar al presidente Milei por el \"Caso $LIBRA\" y al mismo tiempo busca generar consensos con gobernadores no peronistas en el CFI.\n*   Las medidas fiscales propuestas por el gobierno bonaerense, como el posible aumento del Inmobiliario Rural, generan tensión con el sector agropecuario, que reclama certezas y transparencia en la Ley Fiscal 2026.\n\n💡 **¿Por qué importa?**\n*   La crisis interna y la reconfiguración del peronismo bonaerense son clave para la gobernabilidad de la provincia más grande y para la definición de la principal oposición a nivel nacional.\n*   Las estrategias de la oposición, tanto peronista como no peronista, determinarán la dinámica política del país en los próximos años, incluyendo posibles alianzas y el surgimiento de nuevos liderazgos de cara a las elecciones de 2027.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "El PJ asume la necesidad de cambios y le baja línea a la dirigencia para evitar una fractura",
+          "link": "https://www.infobae.com/politica/2025/11/20/el-pj-asume-la-necesidad-de-cambios-y-le-baja-linea-a-la-dirigencia-para-evitar-una-fractura/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:15:23"
+        },
+        {
+          "titulo": "María Eugenia Vidal: “Yo no me hubiera puesto un buzo violeta”",
+          "link": "https://www.infobae.com/politica/2025/11/20/maria-eugenia-vidal-yo-no-me-hubiera-puesto-un-buzo-violeta-como-ritondo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:06:33"
+        },
+        {
+          "titulo": "El peronismo bonaerense en la montaña rusa: la advertencia de Massa, la definición pendiente de Máximo y la incredulidad de Kicillof",
+          "link": "https://www.lanacion.com.ar/politica/el-peronismo-bonaerense-en-la-montana-rusa-la-advertencia-de-massa-la-definicion-pendiente-de-maximo-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-20 00:01:00"
+        },
+        {
+          "titulo": "Axel Kicillof destacó el trabajo del Congreso en el Caso $LIBRA y pidió \"investigar a fondo\" a Javier Milei",
+          "link": "https://www.ambito.com/politica/axel-kicillof-destaco-el-trabajo-del-congreso-el-caso-libra-y-pidio-investigar-fondo-javier-milei-n6215854",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 23:20:14"
+        },
+        {
+          "titulo": "“Disparatado”: alerta en el campo bonaerense por un impuesto que Kicillof podría aumentar hasta un 130%",
+          "link": "https://www.lanacion.com.ar/economia/campo/disparatado-alerta-en-el-campo-bonaerense-por-un-impuesto-que-kicillof-podria-aumentar-hasta-un-130-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 23:17:03"
+        },
+        {
+          "titulo": "La crisis peronista y los cimbronazos internos del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/la-crisis-peronista-y-los-cimbronazos-internos-del-gobierno-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 21:47:40"
+        },
+        {
+          "titulo": "La puerta abierta de la prisión domiciliaria de Cristina Kirchner: recibió al menos 77 visitas en los últimos 80 días",
+          "link": "https://www.clarin.com/politica/puerta-abierta-prision-domiciliaria-cristina-kirchner-recibio-72-visitas-ultimos-80-dias_0_wQpfptF26y.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 21:43:12"
+        },
+        {
+          "titulo": "Axel Kicillof se suma a foto con gobernadores no peronistas en un encuentro del CFI",
+          "link": "https://www.ambito.com/politica/axel-kicillof-se-suma-foto-gobernadores-no-peronistas-un-encuentro-del-cfi-n6215811",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 20:23:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflicto_rusia-ucrania_y_20251120",
+      "tema": "Conflicto Rusia-Ucrania y Geopolítica",
+      "tema_normalizado": "conflicto rusia-ucrania y geopolitica",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Un supuesto plan de paz entre Donald Trump y Vladímir Putin para terminar la guerra en Ucrania ha sido revelado, mientras los ataques rusos continúan causando muertes civiles.\n*   Polonia elevó la tensión con Rusia, desplegando 10.000 soldados y cerrando un consulado, tras un sabotaje ferroviario atribuido a Moscú.\n\n🔍 **Datos clave:**\n*   **4 años:** El conflicto Rusia-Ucrania está por cumplir este tiempo.\n*   **28 puntos:** Contiene el supuesto plan de paz Trump-Putin, revelado por Financial Times.\n*   **25 civiles:** Mueren en un reciente ataque ruso con drones y misiles en Ternópil, Ucrania, donde también hubo 65 heridos.\n*   **10.000 soldados:** Despliega Polonia en la \"Operación Horizonte\" para proteger infraestructura crítica.\n*   **2 ucranianos:** Detenidos por el sabotaje ferroviario en Polonia, presuntamente colaborando con Moscú.\n*   **Donald Tusk:** Primer ministro polaco, calificó el hecho como un \"acto de sabotaje sin precedentes\".\n*   **Volodímir Zelenski:** Presidente de Ucrania, busca respaldo diplomático en Turquía reuniéndose con Recep Tayyip Erdogan.\n*   **Steve Witkoff:** Enviado especial de Trump, quien transmitió el borrador del plan a Ucrania.\n\n⚡ **Desarrollo:**\n*   El plan de paz propuesto exige fuertes concesiones a Ucrania: reducir sus fuerzas armadas a la mitad, abandonar armamento clave, ceder el Donbás y reconocer el ruso como idioma oficial.\n*   Estas condiciones son consideradas \"altamente desfavorables\" por Kiev, pero el desgaste militar, económico y social de la guerra añade presión para su evaluación por parte del gobierno ucraniano.\n*   Los ataques rusos se intensifican, como el de Ternópil que dejó 25 muertos, afectando la infraestructura energética de Ucrania y causando víctimas civiles.\n*   La explosión ferroviaria en Polonia, cerca de la frontera ucraniana, fue atribuida a Moscú por Varsovia, que lo considera un \"acto de terrorismo de Estado\".\n*   Polonia, miembro de la UE y la OTAN, responde a la crisis desplegando soldados y cerrando el último consulado ruso en Gdansk.\n*   El presidente Zelenski busca apoyo internacional en Turquía para aislar a Vladímir Putin, mientras Estados Unidos prepara nuevas sanciones petroleras contra Rusia para aumentar la presión.\n\n💡 **¿Por qué importa?**\n*   Estos eventos muestran la complejidad y la escalada de la guerra en Ucrania, con propuestas de paz que generan controversia y un aumento de las tensiones en Europa oriental.\n*   La situación resalta la presión sobre Ucrania en el campo de batalla y el diplomático, así como la preocupación de los países vecinos de la OTAN ante la agresión rusa y sus posibles extensiones.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Aseguran que Donald Trump y Vladimir Putin acordaron un plan para poner fin a la guerra en Ucrania",
+          "link": "https://www.ambito.com/mundo/aseguran-que-donald-trump-y-vladimir-putin-acordaron-un-plan-poner-fin-la-guerra-ucrania-n6215866",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-20 00:00:49"
+        },
+        {
+          "titulo": "Una explosión ferroviaria eleva la tensión entre Polonia y Rusia: dos detenidos y 10.000 soldados desplegados",
+          "link": "https://www.lanacion.com.ar/el-mundo/una-explosion-ferroviaria-eleva-la-tension-entre-polonia-y-rusia-dos-detenidos-y-10000-soldados-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 20:25:52"
+        },
+        {
+          "titulo": "Rusia volvió a atacar a Ucrania: hay 25 muertos y Volodimir Zelenski busca respaldo diplomático en Turquía",
+          "link": "https://www.ambito.com/mundo/rusia-volvio-atacar-ucrania-hay-25-muertos-y-volodimir-zelenski-busca-respaldo-diplomatico-turquia-n6215728",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:16:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "colombia:_politica_y_20251120",
+      "tema": "Colombia: Política y Narcotráfico",
+      "tema_normalizado": "colombia: politica y narcotrafico",
+      "resumen": "📌 **¿Qué está pasando?**\n• Colombia enfrenta una compleja situación donde el narcotráfico impacta su política interna, la seguridad y sus relaciones internacionales. Se han revelado redes de tráfico de drogas que involucran a ciudadanos colombianos y operaciones globales.\n• Paralelamente, el gobierno del Presidente Gustavo Petro lidia con grupos armados disidentes de las Farc vinculados al narcotráfico, generando controversia por operaciones militares y acusaciones de financiación ilegal.\n\n🔍 **Datos clave:**\n• **Ryan James Wedding:** Ex-atleta olímpico canadiense, uno de los 10 fugitivos más buscados por el FBI, ligado a los cárteles de Sinaloa y Jalisco Nueva Generación.\n• **Carmen Yelinet Valoyes Flórez:** Ciudadana colombiana sancionada por la OFAC, presuntamente colaboradora clave de Wedding en red criminal.\n• **15 a 42 menores de edad:** Cifra estimada de niños y adolescentes muertos en bombardeos o enfrentamientos entre el Ejército y disidencias de las Farc (Agosto-Noviembre 2025).\n• **Gustavo Petro:** Presidente de Colombia, sancionado por EE. UU. por presuntos vínculos con el narcotráfico y quien publicó sus cuentas bancarias.\n• **\"Iván Mordisco\":** Líder de las disidencias del Estado Mayor Central (EMC) de las Farc, denunciado por Petro ante la Corte Penal Internacional.\n• **$200 millones mensuales:** Rentas criminales afectadas por desarticulación de grupos de microtráfico en Bogotá.\n\n⚡ **Desarrollo:**\n• El Departamento del Tesoro de EE. UU. (OFAC) y la UIF bloquearon y sancionaron a 10 personas y 9 empresas por tráfico de drogas y lavado de dinero. Esta red está liderada por Ryan James Wedding y vinculada a cárteles mexicanos.\n• Una de las colaboradoras clave en esta red criminal, Carmen Yelinet Valoyes Flórez, es de nacionalidad colombiana y dirige una red de prostitución de lujo en México, involucrada en actos de violencia.\n• El presidente Gustavo Petro y su familia fueron sancionados por EE. UU. por presuntos lazos con el narcotráfico, aunque la UIAF colombiana no encontró reportes sospechosos. Petro hizo públicas sus cuentas bancarias para refutar las acusaciones.\n• La estrategia de \"Paz Total\" de Petro enfrenta a las disidencias de las Farc, quienes son acusadas de financiar sus operaciones con el narcotráfico, llevando a la senadora María Fernanda Cabal a llamarla \"paz cocal\".\n• Se ha generado una fuerte polémica por los bombardeos militares que resultaron en la muerte de al menos 15 menores de edad reclutados por las disidencias de las Farc. Petro ha defendido la continuidad de estas operaciones, mientras que en el pasado las calificó como \"crímenes de guerra\".\n• Amnistía Internacional criticó que la Justicia Penal Militar sigue investigando violaciones de derechos humanos cometidas por la fuerza pública, perpetuando la impunidad y dificultando el acceso a la justicia ordinaria.\n• A nivel local, la Policía de Bogotá desarticuló grupos delincuenciales como \"La Esperanza\" y \"Perseo\", dedicados al microtráfico de estupefacientes en entornos escolares y parques.\n\n💡 **¿Por qué importa?**\n• El narcotráfico es un motor persistente de la violencia y la corrupción en Colombia, afectando la estabilidad política y la seguridad ciudadana a todos los niveles.\n• La lucha contra el narcotráfico implica complejos dilemas éticos y políticos, así como desafíos en la cooperación internacional y la garantía de derechos humanos en el contexto del conflicto armado.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "Estas son las empresas que bloqueó la UIF y EEUU por presuntos vínculos con el narcotráfico",
+          "link": "https://www.infobae.com/mexico/2025/11/20/estas-son-las-empresas-que-bloqueo-la-uif-y-eeuu-por-presuntos-vinculos-con-el-narcotrafico/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:20:00"
+        },
+        {
+          "titulo": "Justicia Penal Militar limita sanción contra uniformados en Colombia: “El problema está en los delitos contra la vida”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/justicia-penal-militar-limita-sancion-contra-uniformados-en-colombia-el-problema-esta-en-los-delitos-contra-la-vida/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:13:18"
+        },
+        {
+          "titulo": "María Fernanda Cabal lanzó duras críticas a Petro como respuesta a su pelea casada en redes sociales: “Aquí le dejo la evidencia”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/maria-fernanda-cabal-lanzo-duras-criticas-a-petro-como-respuesta-a-su-pelea-casada-en-redes-sociales-aqui-le-dejo-la-evidencia/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:10:59"
+        },
+        {
+          "titulo": "Desempolvan entrevista de Petro en la que aseguró que el presidente es responsable de la muerte de menores: “Crimen de guerra”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/desempolvan-entrevista-de-petro-en-la-que-aseguro-que-el-presidente-es-responsable-de-la-muerte-de-menores-crimen-de-guerra/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:04:00"
+        },
+        {
+          "titulo": "Petro volvió a pedir perdón a las madres que ven morir a sus hijos en combate entre el Ejército Nacional y los grupos armados",
+          "link": "https://www.infobae.com/colombia/2025/11/20/petro-volvio-a-pedir-perdon-a-las-madres-que-ven-morir-a-sus-hijos-en-combate-entre-el-ejercito-nacional-y-los-grupos-armados/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 23:54:16"
+        },
+        {
+          "titulo": "Petro explicó que no se detendrán los bombardeos, pese a la muerte de menores: “No estamos hablando de niños que pasaban por ahí”",
+          "link": "https://www.infobae.com/colombia/2025/11/20/petro-explico-que-no-se-detendran-los-bombardeos-pese-a-la-muerte-de-menores-no-estamos-hablando-de-ninos-que-pasaban-por-ahi/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 23:46:39"
+        },
+        {
+          "titulo": "Estos son los presuntos colaboradores de Ryan Wedding, exatleta olímpico ligado al Cártel de Sinaloa",
+          "link": "https://www.infobae.com/mexico/2025/11/20/estos-son-los-presuntos-colaboradores-de-ryan-wedding-exatleta-olimpico-ligado-al-cartel-de-sinaloa/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 23:45:00"
+        },
+        {
+          "titulo": "Así operaban los grupos criminales La Esperanza y Perseo en Bogotá: droga en dulces y “turneros” que movían millones cada mes",
+          "link": "https://www.infobae.com/colombia/2025/11/20/asi-operaban-los-grupos-criminales-la-esperanza-y-perseo-en-bogota-droga-en-dulces-y-turneros-que-movian-millones-cada-mes/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 23:43:14"
+        },
+        {
+          "titulo": "Colombia: Gustavo Petro muestra sus cuentas bancarias tras las acusaciones y la sanción de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/colombia-gustavo-petro-muestra-cuentas-bancarias-acusaciones-sancion-estados-unidos_0_yQT1ahcArr.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-19 18:12:46"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Infobae",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "miss_universo_2025:_20251120",
+      "tema": "Miss Universo 2025: Candidatas y Competencia",
+      "tema_normalizado": "miss universo 2025: candidatas y competencia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El certamen Miss Universo 2025 se está llevando a cabo en Tailandia, reuniendo a más de un centenar de candidatas de todo el mundo.\n• La competencia culminará con la gala final y coronación de la nueva reina el viernes 21 de noviembre.\n• El evento ha estado marcado por la visibilidad de historias personales, momentos de impacto viral y el análisis de las favoritas para alzarse con el título.\n\n🔍 **Datos clave:**\n• **Evento:** Miss Universo 2025, 74.ª edición.\n• **Fecha de la gala final:** Viernes 21 de noviembre.\n• **Sede principal:** Impact Arena en Pak Kret, Tailandia.\n• **Miss Argentina:** Aldana Masset, 25 años, de Valle María, Entre Ríos.\n• **Candidatas favoritas mencionadas:** Olivia Yacé (Costa de Marfil), Nadia Mejia-Webb (Ecuador), Zashely Alicea (Puerto Rico).\n\n⚡ **Desarrollo:**\n• Aldana Masset, Miss Argentina 2025, ha generado gran atención al revelar públicamente que padece alopecia, una enfermedad autoinmune que causa la caída del cabello.\n• Su mensaje busca normalizar las inseguridades y empoderar a las personas a aceptar sus identidades, utilizando la plataforma de Miss Universo para compartir esta vivencia.\n• Masset, reconocida por su pasado como vocalista de la banda Agapornis en 2022, es considerada una de las favoritas por expertos y medios internacionales, destacando en presentaciones como la de traje de baño.\n• La etapa preliminar del concurso, que incluye entrevistas, desfiles en traje de baño, traje de noche y traje nacional, es crucial para la selección de las semifinalistas.\n• Expertos como José Luis Castro, conocido como el \"Tío de las Reinas\", han señalado a candidatas como Olivia Yacé de Costa de Marfil por su carisma y preparación, Nadia Mejia-Webb de Ecuador por su seguridad e interacción, y Zashely Alicea de Puerto Rico por ser una \"sensación\".\n• El certamen también ha tenido momentos virales, como las caídas de las representantes de Gran Bretaña y Jamaica durante sus presentaciones; esta última requirió asistencia médica y fue retirada en camilla.\n• La ganadora de Miss Universo 2025 recibirá un conjunto de premios que incluyen la corona \"Lumière de l'Infini\", un premio en efectivo, un salario mensual durante su reinado, una residencia de lujo en Nueva York y viajes con todos los gastos cubiertos.\n\n💡 **¿Por qué importa?**\n• Miss Universo 2025 no solo celebra la belleza, sino que también ofrece una plataforma global para que las concursantes aborden temas sociales relevantes, como la aceptación de enfermedades y la superación de inseguridades.\n• El concurso continúa siendo un evento de gran visibilidad internacional, generando debate y conversación sobre los estándares de belleza y el rol de la mujer en la sociedad actual.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Es argentina, candidata a Miss Universo 2025 y revela que tiene alopecia: “Me costó mucho aceptarlo”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/es-argentina-candidata-a-miss-universo-2025-y-revela-que-tiene-alopecia-me-costo-mucho-aceptarlo-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 22:57:58"
+        },
+        {
+          "titulo": "Quién es Aldana Masset, la excantante de Agapornis que dejó boquiabiertos a todos en Miss Universo 2025",
+          "link": "https://www.minutouno.com/mundo/quien-es-aldana-masset-la-excantante-agapornis-que-dejo-boquiabiertos-todos-miss-universo-2025-n6215842",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 22:02:00"
+        },
+        {
+          "titulo": "Viral: las impresionantes caídas de las representantes de Gran Bretaña y Jamaica en Miss Universo 2025",
+          "link": "https://www.minutouno.com/mundo/viral-las-impresionantes-caidas-las-representantes-gran-bretana-y-jamaica-miss-universo-2025-n6215817",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-19 20:44:00"
+        },
+        {
+          "titulo": "Miss Universo 2025: revelan las candidatas favoritas para llegar a la final y llevarse la corona",
+          "link": "https://www.lanacion.com.ar/estados-unidos/miss-universo-2025-revelan-las-candidatas-favoritas-para-llegar-a-la-final-y-llevarse-la-corona-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 20:33:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "dolar,_euro_y_20251120",
+      "tema": "Dólar, Euro y Mercados Financieros",
+      "tema_normalizado": "dolar, euro y mercados financieros",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El euro sufrió una caída sorpresiva en Colombia el 19 de noviembre de 2025, cerrando en un promedio de $4.291,71, lo que prendió las alarmas en el mercado.\n*   En Argentina, el mismo día, se observó una compleja situación con múltiples cotizaciones para el dólar y el euro (oficial, blue y financieros) en un mercado bajo tensión.\n*   El Gobierno argentino enfrenta el desafío de la acumulación de reservas y la gestión de las brechas cambiarias, con una política cautelosa por parte del Banco Central.\n\n🔍 **Datos clave:**\n*   **Euro en Colombia (19/11/2025):** Cerró a $4.291,71, con una caída diaria de $37,12 (-0,86%).\n*   **Inflación Eurozona (octubre 2025):** 2,1% anual, alineada con el objetivo del Banco Central Europeo.\n*   **Euro oficial en Argentina (19/11):** $1.579,03 (compra) y $1.671,48 (venta).\n*   **Euro blue en Argentina (19/11):** $1.633,20 (compra) y $1.656,37 (venta).\n*   **Dólar oficial mayorista en Argentina (19/11):** $1.406,5.\n*   **Dólar blue en Argentina (19/11):** $1.410 (compra) y $1.430 (venta).\n*   **Dólar CCL (19/11):** $1.472,37, con una brecha del 4,7% sobre el oficial.\n*   **Dólar MEP (19/11):** $1.441,13, con una brecha del 2,6% sobre el oficial.\n*   **Real blue (19/11):** $261,75 (compra) y $273,75 (venta).\n*   **Bitcoin (19/11):** u$s89.480,95.\n\n⚡ **Desarrollo:**\n*   La baja del euro en Colombia se atribuye a una combinación de factores internacionales, como las expectativas sobre la política monetaria en Estados Unidos, la inestabilidad global y elementos locales de oferta y demanda. La volatilidad semanal de la divisa superó los niveles habituales del último año.\n*   Aunque la eurozona mantuvo su inflación anual en 2,1% en octubre de 2025, el aumento de los precios de los servicios (3,4%) y los costos laborales (3,5%) sugiere presiones inflacionarias internas persistentes.\n*   En Argentina, el mercado de divisas es complejo, con diferentes cotizaciones para el dólar y el euro que reflejan las restricciones y la demanda en distintos segmentos (oficial, blue, contado con liquidación, MEP, tarjeta, cripto).\n*   El Gobierno argentino adopta una estrategia cautelosa para acumular reservas, buscando hacerlo solo cuando la demanda de pesos es alta para evitar inyectar excesiva liquidez en el mercado.\n*   El Tesoro Nacional ha estado realizando compras de dólares en el mercado cambiario para cumplir con los próximos vencimientos de deuda.\n*   Las brechas entre el dólar oficial y los tipos de cambio financieros (CCL y MEP) se han ensanchado nuevamente, lo que genera incertidumbre y eleva la tensión en el mercado.\n\n💡 **¿Por qué importa?**\n*   La volatilidad y las múltiples cotizaciones de divisas como el dólar y el euro afectan directamente el poder adquisitivo de los ciudadanos, el costo de las importaciones y exportaciones, y la estabilidad económica general.\n*   Las decisiones de política monetaria de los bancos centrales y las estrategias de los gobiernos para gestionar sus reservas son cruciales para mantener la confianza de los inversores y la salud financiera de un país.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "El euro se desplomó en Colombia y prendió las alarmas: así cerró la jornada del 19 de noviembre con una caída que sorprendió al mercado",
+          "link": "https://www.infobae.com/colombia/2025/11/19/colombia-cotizacion-de-cierre-del-euro-hoy-19-de-noviembre-de-eur-a-cop/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-19 23:59:11"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-miercoles-19-noviembre-n6215760",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:06:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-19-noviembre-n6215439",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:06:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-19-noviembre-n6215329",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 18:05:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 19 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-19-noviembre-n6215405",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 17:31:00"
+        },
+        {
+          "titulo": "Mercado en tensión: la jugada clave del Gobierno que puede cambiar para siempre el precio del dólar",
+          "link": "https://www.iprofesional.com/finanzas/442274-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-19 17:30:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "Infobae",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_y_justicia_20251120",
+      "tema": "Política y Justicia de Estados Unidos",
+      "tema_normalizado": "politica y justicia de estados unidos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Donald Trump anunció que se reunirá el viernes 21 de noviembre en la Oficina Oval con Zohran Mamdani, el alcalde electo de Nueva York, marcando el primer encuentro a pesar de su tensa relación.\n• Trump también promulgó una ley que exige a su gobierno la publicación de todos los documentos relacionados con el fallecido Jeffrey Epstein, presentando un nuevo desafío mayúsculo para su administración.\n• Una encuesta reveló que el 36% de los votantes latinos que apoyaron a Donald Trump en las elecciones de 2024 se sienten decepcionados o arrepentidos, principalmente por su gestión económica.\n• Durante la visita del príncipe heredero saudita Mohammed bin Salman, el presidente Trump minimizó el asesinato del periodista Jamal Khashoggi, priorizando acuerdos bilaterales.\n\n🔍 **Datos clave:**\n• **21 de noviembre:** Fecha de la reunión entre Trump y el alcalde electo Mamdani.\n• **Zohran Mamdani:** Alcalde electo de Nueva York, previamente calificado de \"comunista\" por Trump.\n• **30 días:** Plazo para que la fiscal general Pam Bondi publique los documentos del \"caso Epstein\".\n• **36%:** Porcentaje de latinos votantes de Trump que se sienten decepcionados o arrepentidos.\n• **63%:** Imagen negativa de Trump dentro de la comunidad latina según la encuesta.\n• **Jamal Khashoggi:** Periodista asesinado en 2018.\n• **Mohammed bin Salman:** Príncipe heredero de Arabia Saudita.\n• **1 billón de dólares:** Proyección de inversiones sauditas en Estados Unidos.\n\n⚡ **Desarrollo:**\n• La reunión entre Trump y Mamdani, anunciada en Truth Social, abordará seguridad pública, seguridad económica y la agenda de asequibilidad de Nueva York. Previamente, Trump advirtió sobre el impacto económico si Mamdani ganaba.\n• La \"Ley de transparencia de los archivos de Epstein\" fue respaldada casi unánimemente en el Congreso. Trump aprovechó para vincular a Epstein con figuras demócratas como Bill Clinton, mientras el Departamento de Justicia mantiene dudas sobre la publicación masiva.\n• La desaprobación de Trump entre los latinos alcanzó el 63%, con el 64% criticando su manejo económico. La inflación y el costo de vida son las principales preocupaciones, y el 45% culpa a los republicanos de sus dificultades.\n• En la visita de Bin Salman, Trump defendió al príncipe a pesar de la atribución de la CIA sobre el asesinato de Khashoggi. Se anunciaron acuerdos de energía nuclear civil, ventas de armamento y la designación de Arabia Saudita como \"aliado principal extra-OTAN\".\n\n💡 **¿Por qué importa?**\n• Estos eventos reflejan la complejidad de la política interna y externa de Estados Unidos, destacando tensiones políticas, la búsqueda de transparencia judicial y prioridades en las alianzas internacionales.\n• Muestran desafíos clave para la administración actual, incluyendo la fluctuante percepción de un electorado importante y la gestión de casos controvertidos.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Trump anunció que se reunirá con el alcalde electo de Nueva York, Zohran Mamdani, el viernes en la Casa Blanca",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/20/trump-anuncio-que-se-reunira-con-el-alcalde-electo-de-nueva-york-zohran-mamdani-el-viernes-en-la-casa-blanca/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-20 00:33:37"
+        },
+        {
+          "titulo": "Con una nueva ley, Trump se enfrenta a otro desafío mayúsculo frente al “caso Epstein”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/con-una-nueva-ley-trump-se-enfrenta-a-un-nuevo-desafio-frente-al-caso-epstein-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-19 22:32:28"
+        },
+        {
+          "titulo": "Más del 30% de los latinos que votaron por Donald Trump se sienten \"decepcionados o arrepentidos\"",
+          "link": "https://www.ambito.com/mundo/mas-del-30-los-latinos-que-votaron-donald-trump-se-sienten-decepcionados-o-arrepentidos-n6215783",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-19 21:36:00"
+        },
+        {
+          "titulo": "Donald Trump respaldó al príncipe saudita y minimizó el asesinato del periodista Jamal Khashoggi",
+          "link": "https://www.perfil.com/noticias/politica/trump-respalda-al-principe-saudita-y-minimiza-el-asesinato-de-jamal-khashoggi.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-19 18:18:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-20",
+      "fuentes": [
+        "La Nación",
+        "Infobae",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
