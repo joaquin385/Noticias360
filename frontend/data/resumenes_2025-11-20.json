@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-20",
-  "fecha_generacion": "2025-11-20T21:16:17.801570",
+  "fecha_generacion": "2025-11-21T00:53:42.389768",
   "resumenes": {
     "internacional": {
-      "resumen": "La esfera internacional registra una intensa actividad política en Estados Unidos, donde Donald Trump ha generado polémica al reunirse con el alcalde electo de Nueva York, a quien previamente calificó de “comunista”, y al exigir la pena de muerte para legisladores demócratas por supuesta sedición. En el ámbito migratorio, las autoridades estadounidenses han detallado requisitos para viajeros con green card, guías sobre permisos de trabajo (EAD) y un próximo aumento en las tarifas de asilo a partir de 2026.\n\nEn el escenario geopolítico, Estados Unidos reactivó su base naval de Roosevelt Roads en Puerto Rico en el marco de sus operaciones militares en el Caribe, mientras Europa rechazó un plan de paz estadounidense para Ucrania que implicaba cesiones territoriales. En Sudamérica, Venezuela negó negociaciones secretas con la administración Trump sobre una posible salida de Nicolás Maduro del poder, una postura que generó controversia tras declaraciones de la canciller colombiana.\n\nA nivel global, la cumbre climática COP30 en Brasil sufrió una evacuación de urgencia debido a un incendio. Francia debate la implementación de vagones exclusivos para mujeres en el transporte público, motivado por delitos sexuales, y ha instado a su población a preparar un \"kit de emergencia\" ante posibles catástrofes o conflictos. Irán considera trasladar su capital debido a una grave sequía. La Iglesia Católica, a través del Papa León XIV, instó a una “cultura de prevención” contra el abuso de menores, mientras que un tribunal español condenó a Meta a pagar más de 500 millones de dólares a medios por competencia desleal. Bolivia, por su parte, relevó a su ministro de Justicia a solo dos semanas de asumir.",
-      "cantidad_noticias": 27,
-      "fecha_generacion": "2025-11-20T21:15:50.494941",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-21T00:53:42.389377"
     },
     "politica": {
-      "resumen": "La agenda política se encuentra dominada por múltiples focos de atención, destacando la proliferación de escándalos judiciales y las trascendentales reformas impulsadas por el gobierno.\n\n**Corrupción y Procesos Judiciales acaparan la atención.** El escándalo de la Agencia Nacional de Discapacidad (ANDIS) continúa siendo un eje central, con el ex titular Diego Spagnuolo y Daniel Garbellini negándose a declarar en las indagatorias por presuntas coimas y sobreprecios. El presidente Javier Milei ha expresado \"absoluta tranquilidad\" respecto al caso. Simultáneamente, el juicio de la causa Cuadernos de las Coimas avanza, con el ex chofer Oscar Centeno implicando a la era de Cristina Kirchner en el traslado de dinero, mientras la expresidenta rechaza las acusaciones. Otro frente judicial es la causa contra Edgardo Kueider en Paraguay, con fecha fijada para su juicio y posible extradición. En Córdoba, la cúpula del sindicato Luz y Fuerza enfrenta un pedido fiscal de hasta 10 años de prisión por estafas y lavado de activos que perjudicaron a jubilados.\n\n**El Gobierno de Milei avanza con privatizaciones y reformas estructurales.** Se confirma la privatización de rutas nacionales, con una convocatoria a empresas para gestionar casi 2.000 km y la proyección de nuevos peajes. Paralelamente, la privatización de Nucleoeléctrica Argentina enfrenta un amparo por inconstitucionalidad, invocando la soberanía energética. En el ámbito legislativo, se convoca a la mesa política para abordar el Presupuesto y una reforma laboral, mientras el Senado propone modificar el régimen ARCA para garantizar una distribución equitativa de fondos. Gobernadores del norte exigen al presidente la reactivación de la obra pública y condicionan su apoyo al Presupuesto 2026. La vicepresidenta Victoria Villarruel criticó duramente a Vialidad Nacional por el cobro a la Iglesia por el uso de una ruta en una peregrinación, calificándolo de \"insensatez\".\n\n**Otros desarrollos políticos y debates:** La reestructuración del Gabinete de Milei incluye el DNU con nuevos esquemas y el afianzamiento de figuras clave. El gobierno colombiano de Petro eliminó el arancel del 10% a textiles, generando un pulso con empresarios locales. En México, diputados de Morena solicitan la destitución de alcaldes panistas por presunta organización de una marcha. Amnistía Internacional insta a la Provincia de Buenos Aires a garantizar la paridad de género en la Corte Suprema.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-20T21:16:02.530412",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-21T00:53:42.389507"
     },
     "economia": {
-      "resumen": "La jornada económica estuvo marcada por la **volatilidad financiera y decisiones de política monetaria**. El Banco Central redujo los encajes bancarios y la tasa de interés, buscando impulsar el crédito. Los mercados reflejaron una jornada negativa: el dólar oficial experimentó un alza de $20, alcanzando $1450, aunque el dólar blue cerró por debajo por primera vez en semanas. Las acciones cayeron hasta 7% en Wall Street y el riesgo país superó los 600 puntos. Persiste la tensión entre el Gobierno y el FMI respecto a una posible devaluación y la gestión de reservas.\n\nEn el ámbito **productivo y comercial**, se registró un récord histórico en la producción de petróleo en octubre (859.500 barriles/día), impulsado por Vaca Muerta. Las exportaciones de carne aumentaron un 26% en ingresos. La confianza industrial mejoró por primera vez en seis meses, aunque sin proyecciones de empleo. El Gobierno aprobó un Régimen de Incentivo a Grandes Inversiones (RIGI) para una terminal portuaria, mientras el consumo se orienta hacia comercios de barrio, con supermercados mostrando cauto optimismo para el verano.\n\nRespecto a **infraestructura y bienestar social**, el Gobierno avanza en la compra de 43 trenes y autorizó nuevos vuelos a Madrid. Se confirmaron los montos de la Tarjeta Alimentar y la Asignación Universal por Hijo (AUH) para diciembre. Dos amparos judiciales buscan frenar la privatización de Nucleoeléctrica Argentina. En otro orden, se presentó una herramienta de inteligencia artificial para análisis jurídico y la CNV amplió las opciones de inversión en fondos comunes para adolescentes.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-20T21:16:17.801123",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-21T00:53:42.389633"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-20T21:16:17.801549"
+      "fecha_generacion": "2025-11-21T00:53:42.389756"
     }
   }
 }
