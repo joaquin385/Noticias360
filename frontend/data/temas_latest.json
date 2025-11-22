@@ -1,6 +1,486 @@
 {
-  "fecha": "2025-11-21",
-  "fecha_generacion": "2025-11-22T00:51:48.640164",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-22",
+  "fecha_generacion": "2025-11-22T03:41:32.419595",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "escandalo_de_corrupcion_20251122",
+      "tema": "Escándalo de corrupción en la ANDIS",
+      "tema_normalizado": "escandalo de corrupcion en andis",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia investiga un extenso escándalo de corrupción en la Agencia Nacional de Discapacidad (ANDIS) por presunto direccionamiento de contratos.\n• Miguel Ángel Calvete, un empresario externo, es señalado como el \"cerebro\" de una red que organizaba pagos y cobros ilícitos.\n• Se busca la ruta del dinero, involucrando operaciones con criptomonedas y el allanamiento de financieras y empresas.\n\n🔍 **Datos clave:**\n• **Miguel Ángel Calvete:** Detenido el 9 de octubre, acusado de ser el principal operador externo.\n• **$700.000 dólares:** Encontrados en efectivo en el departamento de Ornella Calvete, hija del empresario.\n• **$150 millones de pesos:** Una de las transferencias millonarias ordenadas por Calvete, según chats secuestrados.\n• **93.11%:** Porcentaje de contratos (más de $30 mil millones) que habrían sido adjudicados a Génesis S.A. y Profarma S.A. en un período.\n• **US$230.000:** Giro de la empresa de Federico \"Fred\" Machado al exmarido de Karen Reichardt, en el marco de las conexiones investigadas.\n• **Agosto de 2020:** GMS SA (Jorge Panelli) recibió una contratación directa de $23.3 millones de la ANDIS.\n\n⚡ **Desarrollo:**\n• La investigación del fiscal Franco Picardi y el juez Sebastián Casanello revela un esquema de licitaciones reducidas para medicamentos e insumos médicos que eran direccionadas.\n• Calvete, sin cargo oficial, presuntamente articulaba el circuito ilícito con operadores internos de la ANDIS, como Lorena Di Giorno.\n• El caso conecta a Calvete con Sergio Mastropietro, señalado como operador financiero y socio de \"Fred\" Machado, empresario investigado por narcotráfico y financiamiento de campañas.\n• Los allanamientos se extienden a empresas como Baires Jets S.A. y Baires Fly S.A., identificadas como centros financieros preferidos de Calvete.\n• Jorge Omar Panelli, otro empresario mencionado en los cuadernos de Calvete, es un \"hilo\" que une negocios en el Ministerio de Salud desde el kirchnerismo a la actualidad.\n• El ex director de Acceso a la Salud de ANDIS, Diego Spagnuolo, y su exdirector Daniel Garbellini, también están imputados tras audios donde se mencionan coimas.\n• El Gobierno, a través del interventor Alberto Vilches, anunció una auditoría de la ANDIS y planea modificar el régimen de contrataciones, buscando trato directo con laboratorios.\n• Aunque chats mencionan una \"coima del 3 por ciento\" para \"KM\" (Karina Milei), el Gobierno niega cualquier vinculación directa y sostiene que es una inferencia.\n\n💡 **¿Por qué importa?**\n• El escándalo desvía fondos públicos destinados a personas con discapacidad, afectando servicios esenciales y la provisión de medicamentos.\n• Pone en evidencia posibles redes de corrupción transversales a distintas gestiones políticas, con conexiones entre lavado de dinero y financiamiento irregular.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Los días en el Hospital de Ezeiza de Calvete y la foto que causó sorpresa",
+          "link": "https://www.lanacion.com.ar/politica/los-dias-en-el-hospital-de-ezeiza-de-calvete-y-la-foto-que-causo-sorpresa-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 19:00:00"
+        },
+        {
+          "titulo": "El empresario que sirve de hilo para unir los negocios en la Andis desde el kirchnerismo a la actualidad",
+          "link": "https://www.lanacion.com.ar/politica/el-empresario-que-sirve-de-hilo-para-unir-los-negocios-en-la-andis-desde-el-kirchnerismo-a-la-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 00:02:07"
+        },
+        {
+          "titulo": "Sergio Mastropietro: el nexo entre Federico Machado y la causa de la ANDIS",
+          "link": "https://www.perfil.com/noticias/politica/sergio-mastropietro-el-nexo-entre-federico-machado-y-la-causa-de-la-andis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 19:32:00"
+        },
+        {
+          "titulo": "ANDIS: allanan financieras y empresas de criptomonedas siguiendo la ruta del dinero del direccionamiento de contratos",
+          "link": "https://www.clarin.com/politica/andis-allanan-financieras-empresas-criptomonedas-siguiendo-ruta-dinero-direccionamiento-contratos_0_YQssD3cB65.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 18:04:38"
+        },
+        {
+          "titulo": "La historia del giro de US$ 230 mil de \"Fred\" Machado al marido de Karen Reichardt: \"Fue en blanco\"",
+          "link": "https://noticias.perfil.com/noticias/politica/la-historia-del-giro-de-us-230-mil-de-fred-machado-al-marido-de-karen-reickhardt-fue-en-blanco.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 15:01:06"
+        },
+        {
+          "titulo": "El triángulo Calvete-Cardini-Neuss: operadores, dinero en efectivo y conexiones libertarias en el escándalo ANDIS",
+          "link": "https://www.perfil.com/noticias/politica/el-triangulo-calvete-cardini-neuss-operadores-dinero-en-efectivo-y-conexiones-libertarias-en-el-escandalo-andis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 13:06:55"
+        },
+        {
+          "titulo": "El Gobierno presentaría la auditoría de la Agencia Nacional de Discapacidad antes de fin de año",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-afirma-que-presentara-la-auditoria-de-la-agencia-nacional-de-discapacidad-antes-de-fin-de-ano.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 12:34:30"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "giro_de_eeuu_20251122",
+      "tema": "Giro de EEUU a Argentina para pago FMI",
+      "tema_normalizado": "giro de eeuu a argentina para pago fmi",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos confirmó la transferencia de U$S872 millones a Argentina.\n• El dinero, en Derechos Especiales de Giro (DEGs), se destinó para que el país sudamericano pudiera pagar una obligación al Fondo Monetario Internacional (FMI).\n• Esta operación representó un fuerte respaldo financiero de la administración estadounidense a Argentina.\n\n🔍 **Datos clave:**\n• **Monto transferido:** U$S872 millones (equivalente en DEGs).\n• **Fecha de la operación:** 15 de octubre.\n• **Pago al FMI:** Argentina pagó U$S796 millones al FMI el 7 de noviembre.\n• **Actores principales:** Tesoro de EE.UU. (Donald Trump, Scott Bessent), Argentina (administración de Javier Milei), FMI.\n• **Instrumento:** Derechos Especiales de Giro (DEGs), un activo de reserva internacional.\n• **Ganancia para EE.UU.:** Se estima una utilidad de U$S70 millones por la operación general.\n• **Reservas BCRA:** Antes del pago al FMI, el Banco Central de Argentina (BCRA) solo disponía de U$S148 millones.\n\n⚡ **Desarrollo:**\n• Los Derechos Especiales de Giro (DEGs) son activos de reserva internacional, cuyo valor se basa en una canasta de cinco monedas clave, incluyendo el dólar y el euro.\n• La transferencia se realizó en un momento de alta presión cambiaria para Argentina, pocos días antes de las elecciones nacionales del 26 de octubre.\n• Este giro fue parte de un paquete de ayuda financiera más amplio de EE.UU., que incluyó una intervención de hasta U$S2.000 millones en el mercado cambiario local.\n• Dicha intervención implicó la compra de pesos argentinos por parte de EE.UU. para contener la disparada del dólar y evitar una crisis electoral.\n• La operación también confirmó la activación de una línea de swap entre el Tesoro estadounidense y el BCRA, que inicialmente permitió a EE.UU. salir de sus posiciones en pesos.\n• Analistas criticaron la falta de transparencia del Banco Central de Argentina sobre este acuerdo, mientras el Tesoro de EE.UU. oficializó la información.\n• El secretario del Tesoro de EE.UU., Scott Bessent, defendió la política, señalando que el \"puente económico argentino\" generó ganancias para su país.\n\n💡 **¿Por qué importa?**\n• Permitió a Argentina cumplir con un vencimiento crucial con el FMI, evitando un posible incumplimiento en un período de fragilidad económica y electoral.\n• Demostró el apoyo estratégico de Estados Unidos a la estabilidad financiera de Argentina y su impacto directo en la política interna del país.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Estados Unidos reconoció haber girado U$S872 millones para que la Argentina pague al FMI",
+          "link": "https://www.minutouno.com/economia/estados-unidos-reconocio-haber-girado-us872-millonespara-que-la-argentina-pague-al-fmi-n6216626",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 23:52:00"
+        },
+        {
+          "titulo": "Estados Unidos inyectó 872 millones de dólares para que Argentina pague el FMI",
+          "link": "https://www.perfil.com/noticias/economia/estados-unidos-inyecto-872-millones-de-dolares-para-que-argentina-pague-el-fmi.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 20:03:00"
+        },
+        {
+          "titulo": "El Tesoro de EE.UU. confirmó que le vendió DEGs a Argentina por u$s872 millones para pagarle al FMI",
+          "link": "https://www.iprofesional.com/economia/442531-estados-unidos-confirmo-que-vendio-degs-a-argentina-por-872-millones-dolares-para-pagarle-fmi",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-21 19:00:00"
+        },
+        {
+          "titulo": "El Tesoro de EEUU confirmó que le vendió DEGs a Argentina por u$s872 millones, para pagarle al FMI",
+          "link": "https://www.ambito.com/economia/el-tesoro-eeuu-confirmo-que-le-vendio-degs-argentina-us872-millones-pagarle-al-fmi-n6216578",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 18:33:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "iProfesional",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "plan_de_paz_20251122",
+      "tema": "Plan de Paz de Trump para Ucrania",
+      "tema_normalizado": "plan de paz de trump para ucrania",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente de EE. UU., Donald Trump, propuso un plan de paz de 28 puntos para poner fin a la guerra en Ucrania.\n• Volodímir Zelenski, presidente de Ucrania, recibió un ultimátum para aceptar este plan antes del jueves 27 de noviembre, Día de Acción de Gracias.\n• El plan presiona a Ucrania a realizar concesiones significativas, territoriales y militares, lo que Zelenski califica como una elección difícil entre \"perder la dignidad\" o \"perder un socio clave\" como Estados Unidos.\n\n🔍 **Datos clave:**\n• **Plan:** 28 puntos.\n• **Fecha límite:** Jueves 27 de noviembre.\n• **Actores principales:** Donald Trump (EE. UU.), Volodímir Zelenski (Ucrania), Vladímir Putin (Rusia).\n• **Concesiones territoriales propuestas:** Crimea, Donbás (Donetsk, Lugansk), división de Jersón y Zaporiyia.\n• **Reducción militar ucraniana:** A 600.000 efectivos.\n• **Restricciones para Ucrania:** No unirse a la OTAN, no permitir tropas de la OTAN.\n• **Idioma oficial propuesto en Ucrania:** Ruso.\n• **Duración del conflicto:** Casi cuatro años (iniciado en febrero de 2022).\n\n⚡ **Desarrollo:**\n• El plan de paz de Trump fue elaborado con Vladimir Putin y su enviado especial Steve Witkoff, junto con el secretario de Estado Marco Rubio, sin consultar inicialmente a Ucrania.\n• Incluye la renuncia de Ucrania a sus reclamos territoriales sobre Crimea y el Donbás, y la reducción del 50% de sus Fuerzas Armadas.\n• También propone que Ucrania declare el ruso como idioma oficial y se comprometa a no unirse a la OTAN.\n• A cambio, Rusia se comprometería a no reanudar operaciones militares en Ucrania ni en Europa, y podría reintegrarse al G8.\n• Donald Trump ha amenazado con retirar el apoyo a Ucrania si Zelenski no acepta la propuesta, argumentando que el conflicto es un \"baño de sangre\" y Ucrania está perdiendo territorio.\n• Vladímir Putin apoya el plan y ha intensificado la presión militar, advirtiendo que si Ucrania lo rechaza, Rusia seguirá logrando sus objetivos por las armas.\n• Zelenski ha declarado que no \"traicionará\" a su país y que presentará alternativas al plan, buscando una \"paz digna\" que respete la soberanía ucraniana.\n• La Unión Europea ha manifestado que no recibió el plan oficialmente y que cualquier acuerdo de paz debe involucrar plenamente a Ucrania (\"nada sobre Ucrania sin Ucrania\").\n• Ucrania ha establecido \"líneas rojas\" innegociables respecto a su soberanía y la seguridad de su pueblo.\n\n💡 **¿Por qué importa?**\n• Este plan podría poner fin a la prolongada guerra en Ucrania, pero a costa de importantes concesiones territoriales y de soberanía para el país invadido.\n• Representa un cambio drástico en la política de Estados Unidos, que pasaría de ser un aliado clave a un mediador que presiona a Ucrania, con potenciales implicaciones para la estabilidad geopolítica y la relación de Ucrania con Occidente.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Zelenski quedó arrinconado por Estados Unidos: \"Ucrania se enfrenta a perder la dignidad o a un socio clave\"",
+          "link": "https://www.minutouno.com/mundo/zelenski-quedo-arrinconado-estados-unidos-ucrania-se-enfrenta-perder-la-dignidad-o-un-socio-clave-n6216598",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 19:58:00"
+        },
+        {
+          "titulo": "Vladímir Putin presiona para que Ucrania acepte el acuerdo de paz de Donald Trump: amenazó con anexar más territorio",
+          "link": "https://www.ambito.com/mundo/vladimir-putin-presiona-que-ucrania-acepte-el-acuerdo-paz-donald-trump-amenazo-anexar-mas-territorio-n6216566",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 18:20:00"
+        },
+        {
+          "titulo": "Donald Trump le dio un ultimátum a Volodímir Zelenski para que acepte el plan de paz antes del jueves",
+          "link": "https://www.minutouno.com/mundo/donald-trump-le-dio-un-ultimatum-volodimir-zelenski-que-acepte-el-plan-paz-antes-del-jueves-n6216502",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 15:54:00"
+        },
+        {
+          "titulo": "Donald Trump puso fecha límite para que Volodimir Zelenski responda al plan de paz de EEUU",
+          "link": "https://www.ambito.com/mundo/donald-trump-puso-fecha-limite-que-volodimir-zelenski-responda-al-plan-paz-eeuu-n6216499",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 15:43:00"
+        },
+        {
+          "titulo": "Uno por uno, los 28 puntos del polémico plan de Donald Trump para Ucrania",
+          "link": "https://www.clarin.com/mundo/28-puntos-polemico-plan-donald-trump-ucrania_0_eqg7iUyACt.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 15:07:45"
+        },
+        {
+          "titulo": "Ucrania estableció límites para cualquier plan de acuerdo y Zelenski buscó apoyo en líderes europeos",
+          "link": "https://www.ambito.com/mundo/ucrania-establecio-limites-cualquier-plan-acuerdo-y-zelenski-busco-apoyo-lideres-europeos-n6216489",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 14:26:00"
+        },
+        {
+          "titulo": "Trump da a Ucrania un ultimátum para que acepte su plan de paz antes del próximo jueves: respaldo de Putin",
+          "link": "https://www.clarin.com/mundo/trump-da-ucrania-ultimatum-acepte-plan-paz-proximo-jueves_0_Zx2Np6ijNi.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 13:26:23"
+        },
+        {
+          "titulo": "Bajo presión: Zelenski afirma en un video a la nación que \"no traicionará\" a Ucrania y presentará opciones al plan de paz de Trump",
+          "link": "https://www.clarin.com/mundo/presion-zelenski-afirma-video-nacion-traicionara-ucrania-presentara-opciones-plan-paz-trump_0_oOqq3Bsexd.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 12:49:23"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Clarín",
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caputo_y_negociaciones_20251122",
+      "tema": "Caputo y negociaciones con bancos extranjeros",
+      "tema_normalizado": "caputo y negociaciones con bancos extranjeros",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Luis Caputo, ministro de Economía, desmintió negociaciones con bancos extranjeros para un \"rescate financiero\" de US$ 20.000 millones para Argentina.\n*   Calificó como una \"operación\" de The Wall Street Journal (WSJ) la noticia de que el plan original fue archivado y se evalúa un préstamo menor.\n*   La postura actual de Caputo contradice declaraciones previas suyas y de Scott Bessent, entonces secretario del Tesoro de EE.UU. bajo la administración Trump, que sí hablaban de una ayuda similar.\n\n🔍 **Datos clave:**\n*   **Monto de rescate original (reportado):** US$ 20.000 millones.\n*   **Monto de préstamo actual (en evaluación):** US$ 5.000 millones (o US$ 4.000-4.500 millones).\n*   **Bancos clave mencionados:** JP Morgan Chase, Bank of America, Citigroup.\n*   **Fuente de las noticias:** The Wall Street Journal.\n*   **Próximo vencimiento de deuda:** Aproximadamente US$ 4.000 millones en enero.\n*   **Impacto en riesgo país:** Subió a niveles de 647 a 663 puntos básicos.\n\n⚡ **Desarrollo:**\n*   Semanas atrás, se había difundido la posibilidad de un paquete de asistencia de US$ 20.000 millones, que incluía un swap de divisas con el Tesoro de EE.UU. y una línea de crédito de bancos privados.\n*   Este plan, impulsado por la administración de Donald Trump, tenía como objetivo respaldar al gobierno de Javier Milei y sus reformas.\n*   The Wall Street Journal publicó que el paquete de US$ 20.000 millones fue \"archivado\" porque los bancos no obtuvieron del Departamento del Tesoro de EE.UU. la orientación necesaria sobre garantías.\n*   Según el WSJ, los bancos ahora consideran un préstamo más pequeño, de unos US$ 5.000 millones, bajo la modalidad de \"repo\" (recompra a corto plazo) con activos argentinos como garantía.\n*   El propósito de este préstamo acotado sería ayudar a Argentina a cubrir un vencimiento de deuda de aproximadamente US$ 4.000 millones en enero.\n*   La noticia del WSJ provocó una reacción negativa en los mercados, con el riesgo país en alza y una caída en bonos y acciones argentinas.\n\n💡 **¿Por qué importa?**\n*   La controversia y las declaraciones contradictorias generan incertidumbre sobre la capacidad de Argentina para obtener financiamiento internacional significativo, crucial para estabilizar la economía.\n*   El acceso a dólares frescos es fundamental para cumplir con los compromisos de deuda y evitar mayores turbulencias financieras, haciendo que incluso un préstamo menor sea relevante a corto plazo.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Marcha atrás de Luis Caputo: ahora jura que no negocia con los bancos",
+          "link": "https://www.clarin.com/economia/marcha-luis-caputo-ahora-jura-negocia-bancos_0_eadC9cUyEu.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 18:38:49"
+        },
+        {
+          "titulo": "Ahora, Luis Caputo dice que The Wall Street Journal montó una \"operación\" contra el Gobierno libertario",
+          "link": "https://www.minutouno.com/economia/ahora-luis-caputo-dice-que-the-wall-street-journal-monto-una-operacion-contra-el-gobierno-libertario-n6216574",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 18:19:00"
+        },
+        {
+          "titulo": "Luis Caputo desmintió negociaciones con bancos por un rescate financiero de US$ 20.000 millones",
+          "link": "https://www.perfil.com/noticias/economia/luis-caputo-desmintio-negociaciones-con-bancos-por-un-rescate-financiero-de-us-20000-millones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 17:32:00"
+        },
+        {
+          "titulo": "Luis Caputo desmintió que se había acordado un rescate de u$s20.000 millones con bancos de EEUU: \"Es una operación\"",
+          "link": "https://www.ambito.com/economia/luis-caputo-desmintio-que-hubiera-un-rescate-bancos-eeuu-es-una-operacion-n6216539",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 16:47:00"
+        },
+        {
+          "titulo": "Caputo negó que haya negociaciones con bancos de Estados Unidos por un rescate para Argentina",
+          "link": "https://www.iprofesional.com/economia/442509-luis-caputo-nego-que-haya-negociaciones-con-bancos-de-estados-unidos-por-rescate-para-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-21 16:08:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "iProfesional",
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reorganizacion_peronista_ante_20251122",
+      "tema": "Reorganización peronista ante gobierno Milei",
+      "tema_normalizado": "reorganizacion peronista ante gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El peronismo está redefiniendo su estrategia y liderazgo ante el gobierno de Javier Milei.\n*   Los gobernadores peronistas buscan una relación directa con el ejecutivo nacional, distanciándose de la línea más dura de Cristina Kirchner.\n*   Esta reorganización genera tensiones internas, especialmente en el Senado, donde peligra la unidad y se podría concretar una fractura histórica.\n\n🔍 **Datos clave:**\n*   **6 Gobernadores peronistas:** Se reunieron para coordinar una nueva estrategia (Gerardo Zamora, Axel Kicillof, Gildo Insfrán, Ricardo Quintela, Sergio Ziliotto, Gustavo Melella).\n*   **Presupuesto 2026:** Es una herramienta clave que el gobierno de Milei busca aprobar con apoyo provincial y legislativo.\n*   **10 de diciembre:** Fecha de asunción de los nuevos legisladores y del gobernador electo de Santiago del Estero, Elías Suárez.\n*   **24 miembros:** Cantidad a la que podría reducirse el Bloque Justicialista en el Senado si se concretan las fugas, quedando cerca de los 20 de La Libertad Avanza.\n*   **3 bancas de Senador y 7 de Diputado:** Es la influencia legislativa de la que dispone Gerardo Zamora.\n*   **$500 mil millones:** Monto de deuda provincial que el gobierno nacional habilitó a Buenos Aires a renovar.\n\n⚡ **Desarrollo:**\n*   Los gobernadores peronistas acordaron debatir las iniciativas de la Casa Rosada en lugar de rechazarlas de plano, buscando posibles modificaciones.\n*   Gerardo Zamora, gobernador de Santiago del Estero y senador electo, emerge como un negociador clave, reuniéndose con el ministro del Interior, Diego Santilli.\n*   Zamora condiciona el apoyo al Presupuesto 2026 a la incorporación de demandas provinciales, como fondos de gasoil, ATN, y la coparticipación del 1% para La Rioja y la reducción del 1,9% al 1% de la alícuota del ARCA.\n*   En el Senado, el intento de unificar los bloques peronistas en un \"Bloque Justicialista\" por José Mayans expuso divisiones, llevando al sector \"Convicción Federal\" a considerar separarse y operar con autonomía.\n*   Axel Kicillof, gobernador de Buenos Aires, busca forjar alianzas más allá del kirchnerismo y se perfila como posible candidato presidencial en el futuro.\n*   A pesar de las diferencias, el gobierno nacional mantiene un diálogo con las provincias peronistas, como lo demuestra la ayuda a Buenos Aires para renovar su deuda.\n\n💡 **¿Por qué importa?**\n*   Esta reconfiguración interna del peronismo definirá la capacidad de la oposición para actuar y la gobernabilidad del Presidente Javier Milei.\n*   Es crucial para la aprobación de leyes fundamentales, como el Presupuesto 2026, y para el equilibrio de poder en el Congreso.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Los gobernadores peronistas se desmarcan de Cristina Kirchner y arman su propia estrategia para enfrentar a Milei",
+          "link": "https://www.lanacion.com.ar/politica/los-gobernadores-peronistas-se-desmarcan-de-cristina-kirchner-y-arman-su-propia-estrategia-para-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 00:01:40"
+        },
+        {
+          "titulo": "El peronismo se rearma en el Senado: internas, gobernadores en movimiento y riesgo de una fractura histórica",
+          "link": "https://www.perfil.com/noticias/politica/el-peronismo-se-rearma-en-el-senado-internas-gobernadores-en-movimiento-y-riesgo-de-una-fractura-historica.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 21:46:20"
+        },
+        {
+          "titulo": "Santilli no logró el apoyo de Gerardo Zamora, pero hay predisposición para seguir dialogando",
+          "link": "https://www.perfil.com/noticias/politica/santilli-no-logro-el-apoyo-de-gerardo-zamora-pero-hay-predisposicion-para-seguir-dialogando.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 19:02:00"
+        },
+        {
+          "titulo": "Diego Santilli se reunió con Gerardo Zamora en Santiago del Estero: Presupuesto 2026, federalismo y un guiño a un gobernador peronista",
+          "link": "https://www.ambito.com/politica/diego-santilli-se-reune-gerardo-zamora-santiago-del-estero-n6216394",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 16:55:00"
+        },
+        {
+          "titulo": "A pesar de las chicanas, en Provincia y en el Gobierno no descartan un encuentro entre Diego Santilli y Axel Kicillof",
+          "link": "https://www.clarin.com/politica/pesar-chicanas-provincia-gobierno-descartan-encuentro-diego-santilli-axel-kicillof_0_A5wikehxPT.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 16:22:27"
+        },
+        {
+          "titulo": "Santilli destacó un \"diálogo profundo\" con Gerardo Zamora en Santiago del Estero y se abre un interrogante para el PJ en el Congreso",
+          "link": "https://www.clarin.com/politica/santilli-destaco-dialogo-profundo-gerardo-zamora-santiago-estero-abre-interrogante-pj-congreso_0_palW52naFo.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 16:08:11"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "juramento_diputados_electos_20251122",
+      "tema": "Juramento diputados electos y presidencia Cámara",
+      "tema_normalizado": "juramento diputados electos y presidencia camara",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Los diputados electos en los recientes comicios nacionales jurarán en sus cargos el 3 de diciembre para asumir sus bancas el 10 de diciembre.\n*   En esa misma sesión preparatoria, se definirán las autoridades de la Cámara de Diputados, con Martín Menem perfilándose para su reelección como presidente.\n*   El Gobierno de Javier Milei apura el llamado a sesiones extraordinarias en diciembre para tratar proyectos de ley clave antes de fin de año.\n\n🔍 **Datos clave:**\n*   **Fecha de juramento diputados:** 3 de diciembre a las 13:00 horas.\n*   **Fecha de asunción de bancas:** 10 de diciembre.\n*   **Cámara Alta (Senadores) juran:** 28 de noviembre a las 11:00 horas (24 senadores).\n*   **Presidente de la Cámara de Diputados (proyectado):** Martín Menem (La Libertad Avanza).\n*   **Primera minoría en Diputados:** Bloque Unión por la Patria (96 legisladores).\n*   **Sesiones extraordinarias previstas:** Del 11 al 31 de diciembre.\n\n⚡ **Desarrollo:**\n*   El secretario parlamentario de Diputados, Adrián Pagán, citó formalmente a los legisladores electos para la sesión de juramento.\n*   La reelección de Martín Menem como presidente de la Cámara es probable, a pesar de críticas por su gestión anterior y la fractura de bloques como el PRO y la UCR.\n*   Bloques opositores buscan limitar las atribuciones del presidente en la conformación de las comisiones, proponiendo que sea el recinto quien vote su integración.\n*   Existen denuncias de que Menem no respetó la proporcionalidad en la integración de comisiones en 2023, lo que generó reclamos de Unión por la Patria.\n*   Las comisiones serán fundamentales para el debate de la agenda del Gobierno en las sesiones extraordinarias, incluyendo el Presupuesto 2026 y la \"Ley de Presunción de Inocencia Fiscal\".\n*   Los diputados deberán elegir una de las cuatro fórmulas reglamentarias para jurar: por la Constitución, por la Patria, por Dios y la Patria, o por Dios, la Patria y los Santos Evangelios.\n\n💡 **¿Por qué importa?**\n*   La jura de los nuevos legisladores y la elección de autoridades reconfiguran la Cámara de Diputados, impactando directamente en el equilibrio de poder y la capacidad del Gobierno para impulsar sus reformas.\n*   La disputa por la integración de las comisiones es clave, ya que definirá quién tiene la facultad para organizar los temas de trabajo y la velocidad en el tratamiento de proyectos estratégicos.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "El Gobierno apura las sesiones extraordinarias y el Congreso define las fechas de juramento",
+          "link": "https://www.minutouno.com/politica/el-gobierno-apura-las-sesiones-extraordinarias-y-el-congreso-define-las-fechas-juramento-n6216631",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 00:22:00"
+        },
+        {
+          "titulo": "Los diputados electos ya tienen fecha de juramento: se reconfigura la geografía política de la Cámara baja",
+          "link": "https://www.minutouno.com/politica/los-diputados-electos-ya-tienen-fecha-juramento-se-reconfigura-la-geografia-la-camara-baja-n6216601",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 20:46:00"
+        },
+        {
+          "titulo": "Los diputados electos jurarán el 3 de diciembre y Martín Menem se perfila para continuar al frente de la Cámara Baja",
+          "link": "https://www.perfil.com/noticias/politica/los-diputados-electos-juraran-el-3-de-diciembre-y-martin-menem-se-perfila-para-continuar-al-frente-de-la-camara-baja.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 19:43:00"
+        },
+        {
+          "titulo": "Los nuevos diputados juran el 3 de diciembre y, con críticas, Martín Menem se encamina a ser reelecto como presidente de la Cámara",
+          "link": "https://www.clarin.com/politica/nuevos-diputados-juran-3-diciembre-criticas-martin-menem-encamina-reelecto-presidente-camara_0_3fJfANv1VF.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 17:38:52"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tension_chile-eeuu_por_20251122",
+      "tema": "Tensión Chile-EEUU por embajador Boric",
+      "tema_normalizado": "tension chile-eeuu por embajador boric",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Ministerio de Relaciones Exteriores de Chile envió una nota de protesta formal al gobierno de Estados Unidos.\n• La acción se tomó por las declaraciones del nuevo embajador estadounidense en Santiago, Brandon Judd.\n• Judd criticó al presidente Gabriel Boric y opinó sobre el proceso electoral chileno, lo que fue calificado como una intervención en asuntos internos.\n\n🔍 **Datos clave:**\n• **Embajador de EEUU en Chile:** Brandon Judd, exagente de la Patrulla Fronteriza.\n• **Canciller chileno:** Alberto van Klaveren, quien tildó los comentarios de \"inapropiados y desafortunados\".\n• **Ballotage presidencial en Chile:** 14 de diciembre, entre la izquierdista Jeannette Jara y el ultraderechista José Antonio Kast.\n• **Intercambio comercial Chile-EEUU (2024):** US$31.636 millones, siendo EEUU el segundo socio comercial de Chile.\n• **Acuerdo de Libre Comercio:** Vigente entre ambos países desde 2004.\n\n⚡ **Desarrollo:**\n• El embajador Judd calificó de \"decepcionantes\" las críticas de Boric hacia Donald Trump por temas como el cambio climático, la guerra en Gaza y los aranceles.\n• Sugirió públicamente que sería \"más fácil trabajar\" con uno de los candidatos a la presidencia de Chile, sin especificar cuál, en sus primeras conferencias de prensa.\n• El canciller Van Klaveren afirmó que las expresiones de Judd representan una \"intervención en los asuntos internos de Chile\", aunque reafirmó el deseo de mantener una buena relación.\n• La secretaria General de Gobierno, Camila Vallejo Dowling, subrayó que Chile es un país soberano que no acepta injerencias, especialmente en sus procesos electorales.\n• Este incidente se enmarca en un contexto donde el presidente Boric ya había rechazado \"cualquier tipo de tutelaje\" sobre la soberanía chilena en política exterior.\n• La tensión emerge en un año electoral en Chile y en un periodo de fricciones crecientes entre la administración Trump (a la que Judd se alinea) y gobiernos latinoamericanos.\n\n💡 **¿Por qué importa?**\n• El episodio resalta la firme postura de Chile en defensa de su soberanía y su sensibilidad ante cualquier percepción de injerencia externa, especialmente en un proceso electoral.\n• Subraya las diferencias ideológicas entre el gobierno de izquierda de Boric y las potenciales políticas de una administración Trump, pese a la importante relación comercial y diplomática bilateral.\n• Pone de manifiesto la complejidad de las relaciones internacionales cuando las declaraciones diplomáticas rozan la injerencia política en países amigos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Tensión entre Chile y EEUU por comentarios de embajador sobre Gabriel Boric: \"Inapropiados y desafortunados\"",
+          "link": "https://www.ambito.com/mundo/tension-chile-y-eeuu-comentarios-embajador-gabriel-boric-inapropiados-y-desafortunados-n6216628",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 23:08:00"
+        },
+        {
+          "titulo": "Tensión entre Chile y Estados Unidos luego de que el embajador opinara sobre las elecciones y criticara al presidente Boric",
+          "link": "https://www.clarin.com/mundo/tension-chile-estados-unidos-luego-embajador-opinara-elecciones-criticara-presidente-boric_0_EYJ9iMX1Eb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 21:21:25"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "interna_ucr_por_20251122",
+      "tema": "Interna UCR por sucesión de Lousteau",
+      "tema_normalizado": "interna ucr por sucesion de lousteau",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Unión Cívica Radical (UCR) elegirá nuevas autoridades para el Comité Nacional, ya que Martín Lousteau no buscará la reelección de su cargo.\n• Esta elección definirá el rumbo del partido centenario, especialmente su posicionamiento frente al gobierno de Javier Milei.\n• La decisión fue tomada por unanimidad en la Mesa Nacional y promete un cambio en la conducción del radicalismo.\n\n🔍 **Datos clave:**\n• **Fecha de elección:** 12 de diciembre a las 14 horas.\n• **Lugar:** Sede del Comité Nacional de la UCR, calle Alsina 1786, Ciudad de Buenos Aires.\n• **Presidente saliente:** Martín Lousteau (mandato 2023-2025).\n• **Posibles candidatos:** Gustavo Valdés (gobernador de Corrientes) y referentes alineados con La Libertad Avanza (como Alfredo Cornejo de Mendoza y Leandro Zdero de Chaco).\n\n⚡ **Desarrollo:**\n• El mandato de Martín Lousteau estuvo marcado por tensiones internas y fragmentaciones, principalmente por las diferentes posturas sobre la relación con el Gobierno nacional.\n• Lousteau, que asumirá como diputado en el bloque Provincias Unidas, mantuvo un rol opositor a Javier Milei y criticó sus políticas económicas y el vínculo con EE.UU.\n• El partido terminó con cuatro bloques en la Cámara de Diputados, reflejando las divisiones entre quienes se alinearon con Milei (\"radicales con peluca\") y los opositores.\n• La elección estará a cargo del Plenario de Delegados, compuesto por cuatro representantes por provincia, más dos de la Juventud Radical, Franja Morada, Foro de Intendentes, Organización de Trabajadores Radicales y UCR Diversidad.\n• El \"Grupo Malbec\", que incluía a Valdés y Cornejo, fue una oposición a la conducción Lousteau-Morales en el pasado, y ahora se disputa la dirección del partido.\n• Gustavo Valdés se perfila como una figura de oposición a la Casa Rosada y es apoyado por el sector de Provincias Unidas.\n• Otros gobernadores radicales, como Alfredo Cornejo (Mendoza) y Leandro Zdero (Chaco), sellaron alianzas con La Libertad Avanza en las últimas elecciones.\n\n💡 **¿Por qué importa?**\n• Esta elección es crucial para definir la línea política de la UCR: si se consolida como un partido opositor al gobierno de Milei o si parte de su dirigencia se acerca al oficialismo.\n• El resultado impactará en la configuración de la política nacional de cara a las elecciones de 2026, estableciendo el rol y la relevancia del radicalismo.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Los partidos se reorganizan en el impasse político: elección de la UCR, cumbre peronista y expo libertaria",
+          "link": "https://www.ambito.com/politica/los-partidos-se-reorganizan-el-impasse-politico-eleccion-la-ucr-cumbre-peronista-y-expo-libertaria-n6216603",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 20:38:00"
+        },
+        {
+          "titulo": "La UCR renueva las máximas autoridades partidarias en medio de la tensión entre radicales con peluca y opositores",
+          "link": "https://www.perfil.com/noticias/politica/la-ucr-renueva-las-maximas-autoridades-partidarias-en-medio-de-la-tension-entre-radicales-con-peluca-y-opositoress.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 20:02:00"
+        },
+        {
+          "titulo": "La UCR fijó fecha para elegir al sucesor de Martín Lousteau: posibles candidatos y un cambio de rumbo para el radicalismo",
+          "link": "https://www.clarin.com/politica/ucr-fijo-fecha-elegir-sucesor-martin-lousteau-posibles-candidatos-cambio-rumbo-radicalismo_0_ZSPrxpWfS7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 17:35:23"
+        },
+        {
+          "titulo": "La Unión Cívica Radical fijó fecha para definir al sucesor de Martín Lousteau",
+          "link": "https://www.ambito.com/politica/la-union-civica-radical-fijo-fecha-definir-al-sucesor-martin-lousteau-n6216467",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 13:03:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "eventos_anti-vacunas_en_20251122",
+      "tema": "Eventos anti-vacunas en Congreso argentino",
+      "tema_normalizado": "eventos anti-vacunas en congreso argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se convocó un evento en el Congreso argentino para debatir el rol y contenido de las vacunas COVID-19.\n• Liderado por la diputada Marilú Quiroz, este encuentro es considerado por la comunidad científica como una actividad antivacunas.\n• Diversas sociedades médicas y científicas han solicitado la suspensión del evento, alertando sobre sus posibles consecuencias negativas para la salud pública.\n\n🔍 **Datos clave:**\n• **Fecha del evento:** 27 de noviembre (programado en el Anexo A de la Cámara baja).\n• **Organizadora:** Diputada Nacional Marilú Quiroz (PRO), que finaliza su mandato el 10 de diciembre.\n• **Título del evento:** \"¿Qué contienen realmente las vacunas COVID-19?: Perspectivas Legales, Políticas, Genéticas e Infectológicas\".\n• **Solicitudes de suspensión:** Fueron elevadas a Martín Menem, Presidente de la Cámara de Diputados.\n• **Caída de cobertura vacunal:** La vacunación contra la poliomielitis en niños de 5-6 años cayó del 84% (2009-2019) al 47,6% (2024).\n• **Ley involucrada:** Ley de Vacunas 27.491 (establece la obligatoriedad del Calendario Nacional).\n\n⚡ **Desarrollo:**\n• El evento busca cuestionar el contenido y la obligatoriedad de las vacunas, particularmente las de COVID-19, generando gran preocupación en el ámbito de la salud.\n• La diputada Quiroz se pronunció \"en contra de la vacunación obligatoria y compulsiva\", defendiendo la libertad individual y cuestionando la seguridad de ANMAT.\n• Sociedades científicas como SADI, SAP, SAME, y otras, calificaron el evento de \"tendencioso e inequitativo\". Advirtieron sobre el \"enorme peligro\" de promover dudas sin evidencia científica.\n• Resaltaron que la actividad se realiza en un contexto de \"tasas de vacunación alarmantemente bajas\" en el país. Esta situación expone a la reaparición de enfermedades erradicadas.\n• Este mismo encuentro ya había sido suspendido en octubre por quejas de diputados, pero fue reprogramado por la legisladora.\n• Quiroz también presentó un proyecto de ley para revisar la Ley 27.491. Busca actualizarla con \"valores de libertad, consentimiento informado y autonomía del paciente\".\n\n💡 **¿Por qué importa?**\n• La realización de un evento antivacunas en el Congreso puede aumentar la reticencia a vacunarse en la comunidad. Esto pone en riesgo la salud pública nacional.\n• Es crítico ante la caída histórica de las tasas de vacunación infantil. Esta baja amenaza con el resurgimiento de enfermedades graves como polio, sarampión y coqueluche.\n• El cuestionamiento a la evidencia científica desde el ámbito legislativo debilita el compromiso del país con las políticas de salud pública y la confianza en las vacunas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Sociedades científicas piden suspender una actividad antivacunas en el Congreso",
+          "link": "https://www.ambito.com/politica/sociedades-cientificas-piden-suspender-una-actividad-antivacunas-el-congreso-n6216611",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 21:29:00"
+        },
+        {
+          "titulo": "Las comunidades médica y científica reclamaron a Martín Menem suspender evento antivacunas en el Congreso",
+          "link": "https://www.minutouno.com/politica/las-comunidades-medica-y-cientifica-reclamaron-martin-menem-suspender-evento-antivacunas-el-congreso-n6216483",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 14:48:12"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina_week_y_20251122",
+      "tema": "Argentina Week y presencia presidencial",
+      "tema_normalizado": "argentina week y presencia presidencial",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno argentino anunció la \"Argentina Week\", un importante evento a realizarse en Nueva York en 2026.\n*   El encuentro tiene como objetivo principal atraer inversiones globales y mostrar las oportunidades económicas que ofrece el país bajo la actual administración.\n*   El Presidente Javier Milei ha confirmado su asistencia, destacando la importancia de comunicar personalmente la visión de la \"nueva Argentina\".\n\n🔍 **Datos clave:**\n*   **Evento:** \"Argentina Week en Nueva York\".\n*   **Fechas:** Del 9 al 11 de marzo de 2026.\n*   **Organizadores principales:** Embajada argentina en EE.UU., junto a bancos globales como JP Morgan, Bank of America y Kaszek.\n*   **Figuras confirmadas:** Presidente Javier Milei, Canciller Pablo Quirno, Embajador Alejandro Oxenford.\n*   **Sectores de interés para inversión:** Energía, minería, tecnología, infraestructura, industria, entre otros estratégicos.\n\n⚡ **Desarrollo:**\n*   La \"Argentina Week\" es presentada como un \"encuentro de altísimo nivel\" que congregará a autoridades de gobierno, líderes empresariales globales, bancos, fondos de inversión y compañías.\n*   La meta es exhibir las \"enormes oportunidades de inversión\" que Argentina ofrece, promoviendo su proceso de transformación y apertura económica.\n*   El embajador Alejandro Oxenford enfatizó que esta iniciativa se da en un \"momento histórico y sin precedentes\" en la relación entre Estados Unidos y Argentina, marcada por la amistad y la confianza.\n*   El Canciller Pablo Quirno celebró la propuesta, subrayando que el evento servirá para \"presentar las enormes oportunidades\" y \"comunicar con claridad y convicción la nueva Argentina: abierta, próspera y libre\".\n*   El Presidente Milei confirmó su presencia mediante un mensaje en redes sociales, donde calificó al evento como una \"oportunidad única\" para mostrar la transformación de Argentina y utilizó la frase \"¡MAGA!\" para reforzar su mensaje.\n*   Se busca reforzar la presencia argentina en los principales centros financieros del mundo, proyectando el evento como un \"hito argentino en Manhattan\" donde la \"gran manzana se vestirá de celeste y blanco\".\n\n💡 **¿Por qué importa?**\n*   La \"Argentina Week\" es una plataforma fundamental para la estrategia del gobierno de Javier Milei de atraer inversiones extranjeras directas, consideradas vitales para impulsar el crecimiento económico y la estabilidad del país.\n*   La confirmación de la presencia presidencial de Javier Milei en este foro global realza la seriedad y el compromiso del Estado argentino con la captación de capitales, buscando generar un fuerte impacto en la confianza de los inversores internacionales.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "De remate: el canciller Pablo Quirno celebró la realización del Argentina Week 2026",
+          "link": "https://www.minutouno.com/politica/de-remate-el-canciller-pablo-quirno-celebro-la-realizacion-del-argentina-week-2026-n6216617",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 22:03:00"
+        },
+        {
+          "titulo": "Javier Milei confirmó que asistirá a la Argentina Week en Nueva York",
+          "link": "https://www.perfil.com/noticias/economia/javier-milei-confirmo-que-asistira-a-la-argentina-week-en-nueva-york.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 19:39:33"
+        },
+        {
+          "titulo": "\"Una oportunidad única\": Milei confirmó que participará de un evento para captar inversiones",
+          "link": "https://www.iprofesional.com/politica/442525-oportunidad-unica-javier-milei-participara-de-evento-nueva-york-para-captar-inversiones",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-21 17:58:00"
+        },
+        {
+          "titulo": "El Gobierno anunció la \"Argentina Week\" en Nueva York, con la presencia de Javier Milei",
+          "link": "https://www.ambito.com/politica/el-gobierno-anuncio-la-argentina-week-nueva-york-la-presencia-javier-milei-n6216508",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 15:16:06"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "iProfesional",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
