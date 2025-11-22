@@ -1,71 +1,13 @@
 {
   "fecha": "2025-11-22",
-  "fecha_generacion": "2025-11-22T06:25:01.932104",
+  "fecha_generacion": "2025-11-22T09:19:49.456167",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "caputo_negociaciones_bancarias_20251122",
-      "tema": "Caputo Negociaciones Bancarias",
-      "tema_normalizado": "caputo negociaciones bancarias",
-      "resumen": "📌 **¿Qué está pasando?**\n• El ministro de Economía, Luis Caputo, desmintió categóricamente que Argentina esté negociando un \"rescate financiero\" de US$20.000 millones con bancos estadounidenses.\n• Caputo calificó los reportes de The Wall Street Journal sobre estas negociaciones como una \"operación\" destinada a generar confusión.\n• Esta desmentida contrasta con declaraciones previas del propio Caputo y del secretario del Tesoro de EE.UU., Scott Bessent, que mencionaban un paquete de ayuda privado.\n\n🔍 **Datos clave:**\n• **Monto original reportado:** US$20.000 millones (mencionado por WSJ y Scott Bessent).\n• **Monto reducido reportado:** US$5.000 millones (préstamo \"repo\" a corto plazo, según WSJ).\n• **Ministro de Economía:** Luis Caputo.\n• **Secretario del Tesoro de EE.UU.:** Scott Bessent.\n• **Medio de comunicación principal:** The Wall Street Journal (WSJ).\n• **Bancos supuestamente involucrados:** JP Morgan Chase, Bank of America, Citigroup, Goldman Sachs.\n• **Vencimientos de deuda en enero:** Aproximadamente US$4.300 - US$4.500 millones.\n• **Impacto en los mercados:** El riesgo país saltó a 647-663 puntos tras la publicación del WSJ.\n\n⚡ **Desarrollo:**\n• Anteriormente, tanto el WSJ como Scott Bessent habían reportado un paquete de ayuda financiera para Argentina que incluía un swap de divisas con el Tesoro de EE.UU. por US$20.000 millones y una línea de crédito adicional de US$20.000 millones de bancos privados.\n• Los bancos involucrados esperaban orientaciones del Departamento del Tesoro de EE.UU. sobre las garantías (colaterales) para protegerse de posibles pérdidas antes de concretar el préstamo.\n• Ante la falta de estas definiciones, la iniciativa privada del mega-crédito se diluyó y los banqueros habrían reorientado la discusión hacia un préstamo menor de US$5.000 millones.\n• Este préstamo menor, bajo la modalidad de \"repo\" (intercambio de inversiones por dólares), tendría como objetivo principal cubrir los vencimientos de deuda argentinos de US$4.300 - US$4.500 millones en enero.\n• Luis Caputo, sin embargo, negó rotundamente haber conversado con bancos sobre cualquier \"rescate\" o sobre el monto de US$20.000 millones.\n• La negación de Caputo contradice sus propias declaraciones pasadas donde había mencionado la existencia de negociaciones por esa \"facilidad\" de US$20.000 millones.\n\n💡 **¿Por qué importa?**\n• Esta situación genera incertidumbre en los mercados sobre cómo Argentina planea afrontar sus próximos vencimientos de deuda y sobre la disponibilidad de financiamiento externo.\n• La contradicción entre las declaraciones del ministro y los reportes periodísticos, así como las previas afirmaciones de funcionarios, puede erosionar la confianza y afectar la credibilidad del gobierno en su gestión económica.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Caputo desmintió a Bessent: “Nunca hablamos con bancos de US$ 20 mil millones”",
-          "link": "https://www.perfil.com/noticias/economia/caputo-desmintio-a-bessent-nunca-hablamos-con-bancos-de-us-20-mil-millones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-22 02:39:51"
-        },
-        {
-          "titulo": "Marcha atrás de Luis Caputo: ahora jura que no negocia con los bancos",
-          "link": "https://www.clarin.com/economia/marcha-luis-caputo-ahora-jura-negocia-bancos_0_eadC9cUyEu.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-21 18:38:49"
-        },
-        {
-          "titulo": "Ahora, Luis Caputo dice que The Wall Street Journal montó una \"operación\" contra el Gobierno libertario",
-          "link": "https://www.minutouno.com/economia/ahora-luis-caputo-dice-que-the-wall-street-journal-monto-una-operacion-contra-el-gobierno-libertario-n6216574",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-21 18:19:00"
-        },
-        {
-          "titulo": "Luis Caputo desmintió negociaciones con bancos por un rescate financiero de US$ 20.000 millones",
-          "link": "https://www.perfil.com/noticias/economia/luis-caputo-desmintio-negociaciones-con-bancos-por-un-rescate-financiero-de-us-20000-millones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-21 17:32:00"
-        },
-        {
-          "titulo": "Luis Caputo desmintió que se había acordado un rescate de u$s20.000 millones con bancos de EEUU: \"Es una operación\"",
-          "link": "https://www.ambito.com/economia/luis-caputo-desmintio-que-hubiera-un-rescate-bancos-eeuu-es-una-operacion-n6216539",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-21 16:47:00"
-        },
-        {
-          "titulo": "Caputo negó que haya negociaciones con bancos de Estados Unidos por un rescate para Argentina",
-          "link": "https://www.iprofesional.com/economia/442509-luis-caputo-nego-que-haya-negociaciones-con-bancos-de-estados-unidos-por-rescate-para-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-21 16:08:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-22",
-      "fuentes": [
-        "Perfil",
-        "Minuto1",
-        "Clarín",
-        "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "asistencia_financiera_eeuu_20251122",
-      "tema": "Asistencia Financiera EEUU Argentina",
-      "tema_normalizado": "asistencia financiera eeuu argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos otorgó asistencia financiera a Argentina mediante un \"swap de monedas\" y la venta de Derechos Especiales de Giro (DEGs).\n• Esta ayuda tuvo como objetivos estabilizar la cotización del dólar antes de las elecciones presidenciales de octubre y permitir a Argentina cumplir pagos con el FMI.\n• La operación estuvo marcada por la falta de información oficial del Banco Central argentino, generando críticas por la opacidad.\n\n🔍 **Datos clave:**\n• **Monto total estimado del swap:** US$2700 millones, aunque el BCRA confirmó US$2510 millones.\n• **Venta de DEGs:** US$872 millones por el Tesoro de EE.UU. a Argentina.\n• **Fecha de operación DEGs:** 15 de octubre de 2023, antes de las elecciones presidenciales.\n• **Pago al FMI:** Argentina desembolsó US$796 millones el 7 de noviembre, cubierto con parte de esta asistencia.\n• **Actores clave:** Tesoro de EE.UU. (Secretario Scott Bessent), Banco Central de Argentina (Presidente Santiago Bausili), FMI, administración del presidente Donald Trump (mencionado en algunas fuentes como respaldo a la gestión).\n\n⚡ **Desarrollo:**\n• La asistencia consistió en la activación de un swap de monedas y la transferencia de DEGs, un activo de reserva internacional del FMI.\n• Una parte de los fondos, entre US$1900 y US$2000 millones, se usó para que el Tesoro de EE.UU. comprara pesos argentinos, buscando contener la presión cambiaria antes de las elecciones.\n• Los US$872 millones en DEGs fueron esenciales para que Argentina pagara un vencimiento de intereses al FMI en noviembre, cuando el BCRA tenía reservas limitadas.\n• El presidente del BCRA, Santiago Bausili, explicó que no se informó sobre la activación por \"cláusulas de confidencialidad\" y para evitar \"arbitrajes del mercado\".\n• El Tesoro de EE.UU. confirmó las operaciones e incluso reportó una ganancia de unos US$70 millones por los rendimientos de las tasas de interés.\n• Consultoras y economistas criticaron la \"opacidad\" del Banco Central argentino, recordando que se había prometido comunicar cada tramo activado del swap.\n\n💡 **¿Por qué importa?**\n• La asistencia financiera de EE.UU. fue crucial para la estabilidad económica de Argentina en un período de alta fragilidad, evitando una mayor devaluación y un default con el FMI.\n• El caso resalta la importancia de la transparencia gubernamental en operaciones financieras y la influencia de las relaciones internacionales en la economía local.",
+      "tema_id": "acuerdo_financiero_argentina-eeuu_20251122",
+      "tema": "Acuerdo financiero Argentina-EEUU por FMI",
+      "tema_normalizado": "acuerdo financiero argentina-eeuu por fmi",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos ha brindado asistencia financiera a Argentina a través de un \"swap\" de monedas y la venta de Derechos Especiales de Giro (DEG).\n*   Esta ayuda permitió a Argentina afrontar pagos al Fondo Monetario Internacional (FMI) y estabilizar su mercado cambiario en un período de alta tensión.\n*   La operación, confirmada por el Tesoro de EE.UU., se concretó en medio de reclamos por la falta de transparencia del Banco Central argentino (BCRA).\n\n🔍 **Datos clave:**\n*   **Monto total estimado del swap:** Aproximadamente US$2700 millones. El BCRA confirmó la activación de US$2510 millones.\n*   **Transferencia de DEGs:** US$872 millones, realizada por el Tesoro de EE.UU. el 15 de octubre.\n*   **Pago al FMI:** Argentina abonó US$796 millones al FMI el 7 de noviembre, utilizando parte de esta asistencia.\n*   **Intervención cambiaria de EE.UU.:** El Tesoro de EE.UU. compró aproximadamente US$2000 millones en pesos argentinos.\n*   **Ganancia para EE.UU.:** Unos US$70 millones en intereses por la operación, según estimaciones.\n*   **Actores clave:** Tesoro de EE.UU., Banco Central de la República Argentina (BCRA), FMI, Scott Bessent (Secretario del Tesoro de EE.UU.).\n\n⚡ **Desarrollo:**\n*   La asistencia se estructuró a través de la venta de DEGs (un activo de reserva internacional) y la activación de un \"swap\" de monedas, un acuerdo para intercambiar divisas temporalmente.\n*   El principal objetivo fue permitir a Argentina cumplir con sus obligaciones de pago con el FMI y, simultáneamente, contener la fuerte presión sobre el valor del dólar antes de las elecciones nacionales.\n*   El Tesoro estadounidense intervino directamente en el mercado local, adquiriendo pesos argentinos para inyectar oferta de dólares y así evitar una mayor depreciación de la moneda local.\n*   A pesar de la confirmación explícita desde EE.UU., el Banco Central argentino no emitió comunicados oficiales sobre la activación del swap, argumentando \"cláusulas de confidencialidad\".\n*   Esta falta de información pública generó críticas por parte de economistas y consultoras, quienes señalaron una preocupante opacidad en el manejo de un acuerdo financiero tan relevante.\n*   La operación fue rentable para Estados Unidos, generando ganancias que fueron defendidas por el secretario Scott Bessent como beneficios para el pueblo estadounidense.\n\n💡 **¿Por qué importa?**\n*   Esta ayuda financiera fue crucial para que Argentina pudiera honrar sus compromisos con el FMI y mantener una relativa estabilidad cambiaria en un período de fuerte incertidumbre política y económica.\n*   Destaca la importancia del respaldo internacional para la gestión económica argentina y reaviva el debate sobre la transparencia y la comunicación de acuerdos financieros estratégicos por parte de las autoridades nacionales.",
       "cantidad_noticias": 6,
       "noticias": [
         {
@@ -109,80 +51,10 @@
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
         "Perfil",
-        "Minuto1",
-        "La Nación",
+        "iProfesional",
         "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reorganizacion_bloques_congreso_20251122",
-      "tema": "Reorganización Bloques Congreso",
-      "tema_normalizado": "reorganizacion bloques congreso",
-      "resumen": "📌 **¿Qué está pasando?**\n• Los principales bloques políticos en el Congreso, el peronismo y La Libertad Avanza (LLA), están en plena reorganización interna y búsqueda de alianzas.\n• El objetivo central es asegurar o mantener la primera minoría en las cámaras de Senadores y Diputados, clave para el control de comisiones y la agenda legislativa.\n• Estos movimientos se dan en vísperas de la jura de los nuevos legisladores y la preparación de sesiones extraordinarias con proyectos de ley prioritarios para el Gobierno.\n\n🔍 **Datos clave:**\n• **Senado:** El peronismo busca unificar sus bancadas para formar un Bloque Justicialista de 22 miembros y retener la primera minoría, frente a LLA que proyecta 19-20 escaños.\n• **Senadores en disputa:** Cuatro senadores de Convicción Federal (Carolina Moisés, Fernando Salino, Guillermo Andrada, Fernando Rejal) se resisten a la unificación.\n• **Diputados:** El peronismo (Fuerza Patria) tiene 96 escaños (actual primera minoría). LLA sumó 11 ex aliados y negocia con ex-libertarios (interbloque Desarrollo y Coherencia, 6 miembros).\n• **Fechas clave:** Jura de 24 senadores electos el 28 de noviembre; jura de diputados electos y definición de autoridades el 3 de diciembre. Asunción de nuevos legisladores el 10 de diciembre.\n• **Sesiones Extraordinarias:** Se prevén del 11 al 31 de diciembre y en febrero, para tratar el Presupuesto 2026, la Ley de Presunción de Inocencia Fiscal y otras reformas.\n• **Autoridades de Cámara:** Martín Menem (LLA) se perfila para la reelección como presidente de Diputados; Germán Martínez (UxP) buscará la vicepresidencia primera.\n\n⚡ **Desarrollo:**\n• En el Senado, el peronismo busca disolver Unidad Ciudadana y Frente Nacional y Popular para unificarse en un Bloque Justicialista y evitar perder la primera minoría.\n• Esta unificación enfrenta desafíos por la autonomía de Convicción Federal, cuyos miembros, algunos vinculados a gobernadores como Raúl Jalil y Gerardo Zamora, no desean integrarse.\n• En Diputados, LLA intenta atraer a ex-libertarios (como los del interbloque Desarrollo y Coherencia) y a diputados de la órbita de gobernadores peronistas para superar al peronismo como primera minoría.\n• La primera minoría es crucial ya que permite reclamar la presidencia de más comisiones y tener mayor representación en ellas, ejerciendo control político sobre el proceso legislativo.\n• La facultad del presidente de la Cámara de Diputados, Martín Menem, para definir la integración de las comisiones es un punto de tensión, con la oposición buscando limitar su margen de maniobra.\n\n💡 **¿Por qué importa?**\n• La reconfiguración de los bloques determinará la capacidad del gobierno de Javier Milei para aprobar leyes clave, como el Presupuesto 2026 y reformas esenciales para su gestión.\n• El control de la primera minoría y las comisiones es fundamental para el equilibrio de poder en el Congreso y la definición de la agenda legislativa en los próximos años.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "El plan del peronismo en el Senado: 22 bancas para blindar la primera minoría",
-          "link": "https://www.perfil.com/noticias/politica/el-plan-del-peronismo-en-el-senado-22-bancas-para-blindar-la-primera-minoria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-22 01:44:20"
-        },
-        {
-          "titulo": "Negociación clave: el futuro de los ex libertarios que le podrían dar la primera minoría al Gobierno en Diputados",
-          "link": "https://www.infobae.com/politica/2025/11/22/negociacion-clave-el-futuro-de-los-ex-libertarios-que-le-podrian-dar-la-primera-minoria-al-gobierno-en-diputados/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-22 00:51:43"
-        },
-        {
-          "titulo": "El Gobierno apura las sesiones extraordinarias y el Congreso define las fechas de juramento",
-          "link": "https://www.minutouno.com/politica/el-gobierno-apura-las-sesiones-extraordinarias-y-el-congreso-define-las-fechas-juramento-n6216631",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 00:22:00"
-        },
-        {
-          "titulo": "El peronismo se rearma en el Senado: internas, gobernadores en movimiento y riesgo de una fractura histórica",
-          "link": "https://www.perfil.com/noticias/politica/el-peronismo-se-rearma-en-el-senado-internas-gobernadores-en-movimiento-y-riesgo-de-una-fractura-historica.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-21 21:46:20"
-        },
-        {
-          "titulo": "Los diputados electos ya tienen fecha de juramento: se reconfigura la geografía política de la Cámara baja",
-          "link": "https://www.minutouno.com/politica/los-diputados-electos-ya-tienen-fecha-juramento-se-reconfigura-la-geografia-la-camara-baja-n6216601",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-21 20:46:00"
-        },
-        {
-          "titulo": "Los partidos se reorganizan en el impasse político: elección de la UCR, cumbre peronista y expo libertaria",
-          "link": "https://www.ambito.com/politica/los-partidos-se-reorganizan-el-impasse-politico-eleccion-la-ucr-cumbre-peronista-y-expo-libertaria-n6216603",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-21 20:38:00"
-        },
-        {
-          "titulo": "Los diputados electos jurarán el 3 de diciembre y Martín Menem se perfila para continuar al frente de la Cámara Baja",
-          "link": "https://www.perfil.com/noticias/politica/los-diputados-electos-juraran-el-3-de-diciembre-y-martin-menem-se-perfila-para-continuar-al-frente-de-la-camara-baja.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-21 19:43:00"
-        },
-        {
-          "titulo": "Los nuevos diputados juran el 3 de diciembre y, con críticas, Martín Menem se encamina a ser reelecto como presidente de la Cámara",
-          "link": "https://www.clarin.com/politica/nuevos-diputados-juran-3-diciembre-criticas-martin-menem-encamina-reelecto-presidente-camara_0_3fJfANv1VF.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-21 17:38:52"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-22",
-      "fuentes": [
-        "Perfil",
-        "Infobae",
         "Minuto1",
-        "Clarín",
-        "Ámbito Financiero"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -190,100 +62,56 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "santilli_dialogo_gobernadores_20251122",
-      "tema": "Santilli Diálogo Gobernadores",
-      "tema_normalizado": "santilli dialogo gobernadores",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro del Interior, Diego Santilli, está realizando una gira federal para dialogar con gobernadores.\n• Su objetivo es asegurar apoyos para el Presupuesto 2026 y las reformas que el gobierno de Javier Milei quiere aprobar en el Congreso.\n• Busca generar consensos legislativos con los mandatarios provinciales antes del 10 de diciembre.\n\n🔍 **Datos clave:**\n• **Funcionario clave:** Diego Santilli (Ministro del Interior).\n• **Fecha importante:** 10 de diciembre (asunción de nuevos legisladores y posible convocatoria a sesiones extraordinarias).\n• **Grupos de gobernadores:** \"G20\" (20 mandatarios que apoyaron el Pacto de Mayo) y \"los 4\" (Axel Kicillof, Ricardo Quintela, Gildo Insfrán, Gustavo Melella, peronistas).\n• **Visita clave inicial:** Santiago del Estero, reunión con Gerardo Zamora (gobernador saliente y senador nacional electo).\n• **Puntos legislativos prioritarios:** Presupuesto 2026 y reformas estructurales.\n• **Reclamos provinciales destacados:** Fondos específicos (gasoil, ATN), 1% de coparticipación para La Rioja, reducción de la alícuota del ARCA.\n\n⚡ **Desarrollo:**\n• Santilli prioriza el diálogo con los 20 gobernadores que ya mostraron predisposición, planeando abordar a los cuatro peronistas en una segunda etapa.\n• La reunión con Gerardo Zamora fue clave, ya que el gobernador saliente asumirá como senador el 10 de diciembre y controlará 3 bancas en el Senado y 7 diputados nacionales.\n• Zamora le trasladó a Santilli numerosos pedidos, incluyendo el documento elaborado por los 10 gobernadores del Norte Grande, donde se exigen fondos adeudados y redefiniciones.\n• El apoyo de los legisladores santiagueños al Presupuesto 2026 está supeditado a las respuestas que el gobierno nacional dé a los reclamos provinciales.\n• El gobierno busca que Santilli no solo recoja reclamos, sino que también establezca relaciones a largo plazo con los referentes territoriales.\n• A pesar de las \"chicanas\" iniciales y el rechazo de Axel Kicillof, no se descarta un futuro encuentro dada la importancia de la Provincia de Buenos Aires.\n• Algunos gobernadores muestran \"signos de agotamiento\" ante la falta de respuestas concretas y la tardanza en la liberación de fondos nacionales.\n• La pérdida de la histórica mayoría peronista en el Senado y el riesgo de perder la primera minoría en Diputados hacen que el apoyo de bloques provinciales sea fundamental para el oficialismo.\n\n💡 **¿Por qué importa?**\n• El éxito del gobierno de Milei en la aprobación de leyes clave, como el Presupuesto 2026 y sus reformas, depende directamente del consenso y apoyo que Santilli logre con los gobernadores.\n• Un diálogo federal efectivo es crucial para la gobernabilidad del país y para atender los reclamos de las provincias, evitando conflictos que puedan desestabilizar la gestión nacional.",
+      "tema_id": "caputo_desmiente_prestamo_20251122",
+      "tema": "Caputo desmiente préstamo US$20.000 millones",
+      "tema_normalizado": "caputo desmiente prestamo us$20.000 millones",
+      "resumen": "📌 **¿Qué está pasando?**\n• El ministro de Economía, Luis Caputo, desmintió públicamente que Argentina esté negociando un préstamo o \"rescate financiero\" de US$20.000 millones con bancos de Estados Unidos.\n• Calificó la noticia, publicada por The Wall Street Journal (WSJ), como una \"operación\" destinada a generar confusión en los mercados.\n• Este desmentido contradice reportes previos del mismo WSJ y declaraciones de funcionarios estadounidenses.\n\n🔍 **Datos clave:**\n• **Monto desmentido:** US$20.000 millones (supuesto préstamo de JP Morgan, Goldman Sachs, Bank of America y Citigroup).\n• **Alternativa propuesta por WSJ:** Préstamo menor de US$5.000 millones a corto plazo, mediante una operación \"repo\".\n• **Vencimiento de deuda inminente:** US$4.300 millones en Globales y Bonares en enero.\n• **Declaración de Scott Bessent:** El 15 de octubre, el secretario del Tesoro de EE. UU. mencionó una línea de crédito privada de US$20.000 millones, además de un swap del Tesoro de EE. UU. por US$20.000 millones.\n• **CEO de JP Morgan:** Jamie Dimon afirmó el 6 de noviembre que la financiación de US$20.000 millones \"quizás no sea necesaria\".\n\n⚡ **Desarrollo:**\n• The Wall Street Journal informó que el supuesto paquete de rescate de US$20.000 millones para Argentina, que había sido considerado por importantes bancos estadounidenses, fue \"archivado\".\n• Según el WSJ, los bancos ahora se inclinan por un plan de préstamos más pequeño y a corto plazo, de unos US$5.000 millones, para ayudar al gobierno a cubrir un vencimiento de deuda de alrededor de US$4.000 millones en enero.\n• El ministro Caputo acusó al WSJ de montar una \"operación\" y afirmó que \"nunca hablamos con los bancos de un rescate, ni de 20 mil millones\".\n• Esta declaración contrasta con afirmaciones hechas por el propio Caputo un mes antes, donde aludía a un swap de US$20.000 millones y \"otra facilidad por otros 20.000 millones\".\n• La iniciativa del préstamo privado no avanzó porque, según el periódico, los bancos esperaban instrucciones del Departamento del Tesoro de EE. UU. sobre qué garantías podrían usar para protegerse de eventuales pérdidas, lo cual no se concretó.\n• La noticia del WSJ provocó un salto en el riesgo país argentino y una caída en los bonos soberanos, generando un panorama inesperado para el Gobierno.\n• Argentina enfrenta vencimientos de deuda significativos en los próximos meses y en 2026, lo que añade presión sobre la necesidad de asegurar fuentes de financiamiento.\n\n💡 **¿Por qué importa?**\n• La desmentida genera incertidumbre sobre la capacidad de Argentina para acceder a financiamiento externo y cubrir sus próximos y elevados vencimientos de deuda.\n• El cruce de declaraciones y la controversia impactan negativamente en la confianza de los mercados, reflejado en el aumento del riesgo país y el deterioro de los activos argentinos.",
       "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Santilli prioriza al “G20” de gobernadores, pero no le cierra la puerta a los cuatro kirchneristas",
-          "link": "https://www.infobae.com/politica/2025/11/22/santilli-prioriza-al-g20-de-gobernadores-pero-no-le-cierra-la-puerta-a-los-cuatro-kirchneristas/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-22 00:56:58"
-        },
-        {
-          "titulo": "Mientras el Norte exige definiciones, Santilli viajó a Santiago del Estero para contener a Zamora",
-          "link": "https://www.perfil.com/noticias/politica/mientras-el-norte-exige-definiciones-santilli-viajo-a-santiago-del-estero-para-contener-a-zamora.phtml",
+          "titulo": "Caputo desmintió a Bessent: “Nunca hablamos con bancos de US$ 20 mil millones”",
+          "link": "https://www.perfil.com/noticias/economia/caputo-desmintio-a-bessent-nunca-hablamos-con-bancos-de-us-20-mil-millones.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-22 00:32:48"
+          "fecha": "2025-11-22 02:39:51"
         },
         {
-          "titulo": "Santilli no logró el apoyo de Gerardo Zamora, pero hay predisposición para seguir dialogando",
-          "link": "https://www.perfil.com/noticias/politica/santilli-no-logro-el-apoyo-de-gerardo-zamora-pero-hay-predisposicion-para-seguir-dialogando.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-21 19:02:00"
-        },
-        {
-          "titulo": "Diego Santilli se reunió con Gerardo Zamora en Santiago del Estero: Presupuesto 2026, federalismo y un guiño a un gobernador peronista",
-          "link": "https://www.ambito.com/politica/diego-santilli-se-reune-gerardo-zamora-santiago-del-estero-n6216394",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-21 16:55:00"
-        },
-        {
-          "titulo": "A pesar de las chicanas, en Provincia y en el Gobierno no descartan un encuentro entre Diego Santilli y Axel Kicillof",
-          "link": "https://www.clarin.com/politica/pesar-chicanas-provincia-gobierno-descartan-encuentro-diego-santilli-axel-kicillof_0_A5wikehxPT.html",
+          "titulo": "Marcha atrás de Luis Caputo: ahora jura que no negocia con los bancos",
+          "link": "https://www.clarin.com/economia/marcha-luis-caputo-ahora-jura-negocia-bancos_0_eadC9cUyEu.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-21 16:22:27"
+          "fecha": "2025-11-21 18:38:49"
         },
         {
-          "titulo": "Santilli destacó un \"diálogo profundo\" con Gerardo Zamora en Santiago del Estero y se abre un interrogante para el PJ en el Congreso",
-          "link": "https://www.clarin.com/politica/santilli-destaco-dialogo-profundo-gerardo-zamora-santiago-estero-abre-interrogante-pj-congreso_0_palW52naFo.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-21 16:08:11"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-22",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Infobae",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "pago_aguinaldo_diciembre_20251122",
-      "tema": "Pago Aguinaldo Diciembre 2025",
-      "tema_normalizado": "pago aguinaldo diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n*   En diciembre de 2025, se abonará la segunda cuota del Sueldo Anual Complementario (SAC), conocido como aguinaldo, a trabajadores registrados, jubilados y pensionados.\n*   Esta es una suma de dinero adicional equivalente al 50% de la mayor remuneración mensual percibida durante el segundo semestre del año.\n*   Las fechas de pago y los criterios de cálculo están establecidos por ley, buscando asegurar este beneficio para millones de personas.\n\n🔍 **Datos clave:**\n*   **Fecha Límite Legal:** 18 de diciembre de 2025 (día jueves).\n*   **Fecha Límite Extendida:** 24 de diciembre (se otorgan 4 días hábiles adicionales para la liquidación).\n*   **Cálculo Base:** 50% de la remuneración más alta entre julio y diciembre.\n*   **Bono ANSES Jubilados:** $70.000 (refuerzo extraordinario, no forma parte del aguinaldo).\n*   **Bono Empleados de Comercio:** $40.000 mensuales (suma fija no remunerativa en diciembre).\n*   **Excluidos:** Desempleados, autónomos, monotributistas y trabajadores informales.\n\n⚡ **Desarrollo:**\n*   El aguinaldo es un derecho laboral que se paga en dos cuotas: la primera en junio y la segunda en diciembre.\n*   Para trabajadores registrados, la fecha tope para el pago del aguinaldo de diciembre es el 18, con la posibilidad de extenderse hasta el 24 del mismo mes.\n*   Jubilados y pensionados de ANSES cobran el aguinaldo junto con su prestación principal, según el calendario de pagos habitual y la terminación de su DNI.\n*   El cálculo se basa en la mayor remuneración mensual bruta del semestre; si no se trabajó el semestre completo, se paga de forma proporcional (salario / 12 x meses trabajados).\n*   Se incluyen en el cálculo conceptos remunerativos como sueldo básico, horas extra habituales, antigüedad, presentismo y comisiones.\n*   No se consideran para el cálculo del aguinaldo los bonos no remunerativos, las asignaciones familiares ni los viáticos no remunerativos.\n*   Los empleados de comercio, además del aguinaldo, recibirán un bono extra de $40.000 en diciembre, suma que se incorporará al sueldo básico a partir de enero de 2026.\n*   La Prestación por Desempleo no incluye aguinaldo, ya que este beneficio no se considera un salario sino una ayuda transitoria por parte de ANSES.\n\n💡 **¿Por qué importa?**\n*   El pago del aguinaldo representa un alivio económico significativo para las familias, permitiéndoles afrontar gastos de fin de año, saldar deudas o realizar compras importantes.\n*   Conocer los detalles de cuándo y cómo se cobra es esencial para una correcta planificación financiera personal y para asegurar el cumplimiento de este derecho.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-21 20:27:04"
-        },
-        {
-          "titulo": "Aguinaldo diciembre 2025: cuándo se cobra y cómo se calcula",
-          "link": "https://www.perfil.com/noticias/economia/aguinaldo-cuando-se-cobra-en-diciembre-2025-y-como-se-calcula.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-21 18:39:00"
-        },
-        {
-          "titulo": "Sueldo empleado de Comercio: cuánto cobran en diciembre 2025 más aguinaldo y bono extra",
-          "link": "https://www.iprofesional.com/economia/442441-sueldo-empleado-comercio-cuanto-cobran-diciembre-2025-mas-aguinaldo-y-bono-extra",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-21 15:23:00"
-        },
-        {
-          "titulo": "Bonos ANSES: ¿los desempleados recibirán aguinaldo en diciembre?",
-          "link": "https://www.minutouno.com/economia/bonos-anses-los-desempleados-recibiran-aguinaldo-diciembre-n6215337",
+          "titulo": "Ahora, Luis Caputo dice que The Wall Street Journal montó una \"operación\" contra el Gobierno libertario",
+          "link": "https://www.minutouno.com/economia/ahora-luis-caputo-dice-que-the-wall-street-journal-monto-una-operacion-contra-el-gobierno-libertario-n6216574",
           "fuente": "Minuto1",
-          "fecha": "2025-11-21 14:21:00"
+          "fecha": "2025-11-21 18:19:00"
+        },
+        {
+          "titulo": "Luis Caputo desmintió negociaciones con bancos por un rescate financiero de US$ 20.000 millones",
+          "link": "https://www.perfil.com/noticias/economia/luis-caputo-desmintio-negociaciones-con-bancos-por-un-rescate-financiero-de-us-20000-millones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 17:32:00"
+        },
+        {
+          "titulo": "Luis Caputo desmintió que se había acordado un rescate de u$s20.000 millones con bancos de EEUU: \"Es una operación\"",
+          "link": "https://www.ambito.com/economia/luis-caputo-desmintio-que-hubiera-un-rescate-bancos-eeuu-es-una-operacion-n6216539",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 16:47:00"
+        },
+        {
+          "titulo": "Caputo negó que haya negociaciones con bancos de Estados Unidos por un rescate para Argentina",
+          "link": "https://www.iprofesional.com/economia/442509-luis-caputo-nego-que-haya-negociaciones-con-bancos-de-estados-unidos-por-rescate-para-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-21 16:08:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
-        "La Nación",
         "Perfil",
+        "Clarín",
         "iProfesional",
+        "Ámbito Financiero",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -292,12 +120,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "plan_de_paz_20251122",
-      "tema": "Plan de Paz Trump Ucrania",
-      "tema_normalizado": "plan de paz trump ucrania",
-      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump ha propuesto un \"Plan de Paz\" de 28 puntos para poner fin al conflicto en Ucrania.\n• Se ha dado un ultimátum al presidente ucraniano, Volodímir Zelenski, para que acepte este plan antes del jueves 27 de noviembre.\n• El plan exige importantes concesiones territoriales y militares por parte de Ucrania, mientras Rusia amenaza con anexar más territorio si es rechazado.\n\n🔍 **Datos clave:**\n• **28 puntos:** Contenido del plan de paz elaborado por Estados Unidos.\n• **Jueves 27 de noviembre:** Fecha límite establecida por Trump para la respuesta de Ucrania.\n• **600.000 efectivos:** Límite máximo propuesto para las Fuerzas Armadas ucranianas.\n• **Crimea, Donetsk, Lugansk, Jersón, Zaporiyia:** Territorios en disputa que Ucrania debería ceder o dividir según el plan.\n• **G8:** Rusia podría reincorporarse a este grupo como parte del acuerdo.\n\n⚡ **Desarrollo:**\n• El plan fue desarrollado por el equipo de Trump, incluyendo al enviado especial Steve Witkoff y, según se informa, al secretario de Estado Marco Rubio, tras reuniones con líderes rusos y ucranianos.\n• Sus condiciones clave para Ucrania incluyen ceder los territorios anexados por Rusia, reducir drásticamente el tamaño de su ejército y no unirse a la OTAN.\n• Adicionalmente, Ucrania debería abandonar el equipamiento militar estadounidense, reconocer el ruso como idioma oficial y dar estatus formal a la rama local de la Iglesia Ortodoxa Rusa.\n• A cambio, Rusia se comprometería a no reanudar operaciones militares en Ucrania y Europa, y se iniciarían conversaciones para levantar sanciones y reincorporar a Rusia a la economía global y al G8.\n• El presidente Zelenski ha rechazado el borrador inicial, considerándolo una \"pérdida de dignidad\" y una \"traición\" a su país, y está preparando una propuesta alternativa.\n• El presidente ruso, Vladímir Putin, ha confirmado la recepción del plan y lo ve como una base para un arreglo pacífico, pero ha advertido que Rusia logrará sus objetivos por la fuerza si Ucrania lo rechaza.\n• Trump justificó la dureza del pacto argumentando que el conflicto está \"fuera de control\" y que Ucrania está perdiendo territorio, sugiriendo la retirada del apoyo estadounidense si no se acepta.\n• Líderes europeos como Emmanuel Macron (Francia), Friedrich Merz (Alemania) y Keir Starmer (Reino Unido) se reunieron con Zelenski, mientras que la UE ha insistido en que \"Nada sobre Ucrania sin Ucrania\".\n\n💡 **¿Por qué importa?**\n• Este plan ejerce una presión internacional significativa sobre Ucrania para aceptar concesiones que podrían alterar su soberanía y el equilibrio geopolítico de la región.\n• La decisión de Ucrania de aceptar o rechazar el plan podría definir su relación futura con Estados Unidos, escalar el conflicto o sentar un precedente para la resolución de conflictos territoriales.",
-      "cantidad_noticias": 6,
+      "tema_id": "plan_paz_trump_20251122",
+      "tema": "Plan paz Trump para Ucrania",
+      "tema_normalizado": "plan paz trump para ucrania",
+      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump ha propuesto un plan de paz de 28 puntos para Ucrania y le ha dado un ultimátum al presidente Volodímir Zelenski para que lo acepte.\n• La fecha límite impuesta es el jueves 27 de noviembre, coincidiendo con el Día de Acción de Gracias en Estados Unidos.\n• El plan contempla significativas concesiones territoriales y militares por parte de Ucrania a Rusia, generando un dilema crítico para Kiev.\n\n🔍 **Datos clave:**\n• **28 puntos:** El número de condiciones y propuestas en el plan de paz de Trump para finalizar el conflicto.\n• **27 de noviembre:** La fecha límite \"apropiada\" fijada por Trump para la respuesta de Ucrania.\n• **600.000 efectivos:** El límite propuesto para las Fuerzas Armadas de Ucrania, implicando una reducción drástica.\n• **G8:** Se sugiere la reincorporación de Rusia a este grupo, del cual fue expulsada en 2014.\n• **4 años:** Tiempo que se aproxima a cumplir el conflicto, descrito por Trump como un \"baño de sangre\".\n\n⚡ **Desarrollo:**\n• El borrador del plan de paz establece que Ucrania ceda las regiones orientales de Donetsk y Lugansk a Moscú, y reconozca de facto la anexión de Crimea.\n• Propone que las regiones de Kherson y Zaporizhzhia permanezcan divididas conforme a la línea actual del frente de combate.\n• Ucrania debería reducir sus Fuerzas Armadas a un máximo de 600.000 efectivos y renunciar explícitamente a su membresía en la OTAN, incluyendo esta cláusula en su Constitución.\n• JD Vance, un aliado de Trump, ha afirmado que cualquier acuerdo debe ser \"aceptable\" tanto para Rusia como para Ucrania, buscando evitar futuras reactivaciones del conflicto y preservar la soberanía ucraniana.\n• Vladímir Putin ha presionado para que Ucrania acepte el plan, amenazando con lograr sus objetivos \"por las armas\" y anexar más territorio en caso de rechazo.\n• Zelenski ha descrito la presión sobre Ucrania como \"máxima\", enfrentando la decisión de \"perder la dignidad o arriesgarse a perder un socio clave\" como Estados Unidos.\n• A pesar de rechazar inicialmente las condiciones, Zelenski ha indicado que preparará \"argumentos, convencerá y ofrecerá alternativas\" para demostrar la disposición de Ucrania a la diplomacia sin traicionar a su país.\n• Líderes europeos, incluyendo la presidenta de la Comisión Europea, Ursula von der Leyen, han insistido en que \"nada sobre Ucrania sin Ucrania\" es el principio fundamental para cualquier proceso de paz.\n• La propuesta ha sido criticada por fuentes europeas por estar \"en sintonía con los intereses del Kremlin\", generando preocupación y la reiteración de que cualquier acuerdo debe contar con el respaldo conjunto de los países europeos y de la OTAN.\n\n💡 **¿Por qué importa?**\n• El plan de Trump podría redefinir drásticamente la soberanía y la integridad territorial de Ucrania, con implicaciones significativas para su futuro.\n• La presión estadounidense sobre Ucrania y la amenaza de retirar apoyo podrían alterar fundamentalmente el curso de la guerra y la dinámica geopolítica global.",
+      "cantidad_noticias": 9,
       "noticias": [
+        {
+          "titulo": "JD Vance afirmó que el acuerdo de paz estadounidense debe ser “aceptable” tanto para Rusia como para Ucrania",
+          "link": "https://www.infobae.com/america/mundo/2025/11/22/jd-vance-afirmo-que-el-acuerdo-de-paz-estadounidense-debe-ser-aceptable-tanto-para-rusia-como-para-ucrania/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 05:31:28"
+        },
+        {
+          "titulo": "Comienza la cumbre del G20 en Sudáfrica sin Estados Unidos y eclipsada por el acuerdo de paz enviado a Ucrania en plena guerra contra Rusia",
+          "link": "https://www.infobae.com/america/mundo/2025/11/22/comienza-la-cumbre-del-g20-en-sudafrica-sin-estados-unidos-y-eclipsada-por-el-acuerdo-de-paz-enviado-a-ucrania-en-plena-guerra-contra-rusia/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 05:05:34"
+        },
+        {
+          "titulo": "Ucrania dialogó con sus aliados europeos sobre el acuerdo de Estados Unidos para allanar el camino hacia “una paz justa”",
+          "link": "https://www.infobae.com/america/mundo/2025/11/22/ucrania-dialogo-con-sus-aliados-europeos-sobre-el-acuerdo-de-estados-unidos-para-allanar-el-camino-hacia-una-paz-justa/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 05:05:30"
+        },
+        {
+          "titulo": "Zelenski quedó arrinconado por Estados Unidos: \"Ucrania se enfrenta a perder la dignidad o a un socio clave\"",
+          "link": "https://www.minutouno.com/mundo/zelenski-quedo-arrinconado-estados-unidos-ucrania-se-enfrenta-perder-la-dignidad-o-un-socio-clave-n6216598",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 19:58:00"
+        },
         {
           "titulo": "Vladímir Putin presiona para que Ucrania acepte el acuerdo de paz de Donald Trump: amenazó con anexar más territorio",
           "link": "https://www.ambito.com/mundo/vladimir-putin-presiona-que-ucrania-acepte-el-acuerdo-paz-donald-trump-amenazo-anexar-mas-territorio-n6216566",
@@ -327,20 +179,15 @@
           "link": "https://www.ambito.com/mundo/ucrania-establecio-limites-cualquier-plan-acuerdo-y-zelenski-busco-apoyo-lideres-europeos-n6216489",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-21 14:26:00"
-        },
-        {
-          "titulo": "Trump da a Ucrania un ultimátum para que acepte su plan de paz antes del próximo jueves: respaldo de Putin",
-          "link": "https://www.clarin.com/mundo/trump-da-ucrania-ultimatum-acepte-plan-paz-proximo-jueves_0_Zx2Np6ijNi.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-21 13:26:23"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
-        "Clarín",
         "Ámbito Financiero",
-        "Minuto1"
+        "Infobae",
+        "Minuto1",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -348,12 +195,24 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_andis_y_20251122",
-      "tema": "Causa ANDIS y Corrupción",
-      "tema_normalizado": "causa andis y corrupcion",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Una investigación judicial en Argentina busca desentrañar una red de presunta corrupción en la Agencia Nacional de Discapacidad (ANDIS).\n*   Se investigan el direccionamiento de contratos, desvío de fondos públicos y posibles maniobras de lavado de dinero.\n*   La causa conecta a empresarios y políticos, y se complejiza con defensas que cuestionan la evidencia y vínculos con otras investigaciones.\n\n🔍 **Datos clave:**\n*   **Diego Spagnuolo:** Ex-titular ANDIS, imputado que cuestiona el origen y la evidencia de la causa.\n*   **Miguel Ángel Calvete:** \"Cerebro\" de la organización, sus cuadernos y chats revelan la ruta del dinero.\n*   **Sergio Mastropietro:** Operador financiero de Calvete y socio de Federico \"Fred\" Machado, nexo entre ANDIS y el narcotráfico.\n*   **$30.337 millones:** Monto de licitaciones PACBI de ANDIS, donde dos empresas concentraron el 93,11%.\n*   **US$ 230.000:** Giro de \"Fred\" Machado al ex-esposo de la diputada Karen Reichardt (LLA).\n*   **$3.350 millones:** Subsidio a Osprera (dic. 2023), autorizado por Daniel López, conectando negocios entre gestiones.\n\n⚡ **Desarrollo:**\n*   **Investigación y Defensas:** El fiscal Franco Picardi investiga presuntos retornos y desvío de fondos en ANDIS. Imputados como Spagnuolo cuestionan origen y autenticidad de audios, sugiriendo manipulación por IA.\n*   **Redes de Corrupción:** Miguel Ángel Calvete es el \"cerebro\" de la red. Sus cuadernos y chats revelan transferencias (criptomonedas) y la operación del \"Grupo Museo\".\n*   **Vínculos Transversales:** Sergio Mastropietro (operador de Calvete) es nexo clave con Federico \"Fred\" Machado, empresario ligado al narcotráfico y financista de campañas políticas.\n*   **Ruta del Dinero y Allanamientos:** Allanamientos en financieras y empresas buscan rastrear dinero. Se identificaron transferencias millonarias y chats sobre una \"coima del 3%\" para \"KM\" (Karina Milei).\n*   **Direccionamiento de Contratos:** Se investiga el direccionamiento de licitaciones PACBI en ANDIS. Pocas empresas acapararon gran parte de los montos, revelando vínculos de negocios entre distintas gestiones gubernamentales.\n*   **Conexión con Financiamiento Político:** El caso se vincula al financiamiento político por un giro de US$230.000 de \"Fred\" Machado al ex-marido de una diputada de LLA, y su rol como financista de campañas.\n\n💡 **¿Por qué importa?**\n*   La causa expone la corrupción sistemática en ANDIS, un organismo clave para personas con discapacidad, impactando directamente a la población vulnerable.\n*   Revela cómo redes empresariales y políticas operan entre gobiernos, usando direccionamiento de contratos y lavado de activos, con posibles nexos al crimen organizado.",
-      "cantidad_noticias": 5,
+      "tema_id": "causa_corrupcion_andis_20251122",
+      "tema": "Causa corrupción ANDIS y efecto Calvete",
+      "tema_normalizado": "causa corrupcion andis y efecto calvete",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga una presunta red de corrupción en la Agencia Nacional de Discapacidad (ANDIS) por el direccionamiento de compras millonarias de insumos y medicamentos.\n• Miguel Ángel Calvete, un empresario sin cargo oficial en ANDIS pero con gran influencia, es señalado como el cerebro de esta trama.\n• La causa ha llevado a su detención y a la imputación de otros funcionarios y empresarios, con la Justicia siguiendo la ruta del dinero involucrado.\n\n🔍 **Datos clave:**\n• **Fecha de detención de Calvete:** 9 de octubre.\n• **Condena previa de Calvete:** 4 años de prisión por explotación de la prostitución ajena (dictada en 2019).\n• **Fiscal a cargo:** Franco Picardi.\n• **Juez a cargo:** Sebastián Casanello.\n• **Monto de giro ordenado por Calvete:** Más de $150 millones (según chats).\n• **Adjudicaciones investigadas:** Más de $30 mil millones en el período julio 2024-agosto 2025 a pocas empresas.\n• **Giro de \"Fred\" Machado:** US$230.000 al exesposo de Karen Reichardt en 2015.\n\n⚡ **Desarrollo:**\n• El fiscal Picardi acusa a funcionarios, exfuncionarios y empresarios por delitos como defraudación, estafa, asociación ilícita, cohecho y negociaciones incompatibles dentro de la ANDIS.\n• Miguel Ángel Calvete es considerado un \"jefe paraestatal\" que, sin designación oficial, orquestaba compras direccionadas a droguerías y empresas de salud a través de operadores internos como Lorena Di Giorno y Eduardo Nelio González.\n• Los cuadernos y chats secuestrados a Calvete son pruebas fundamentales que han revelado conexiones empresariales, movimientos de dinero y la operación del \"Grupo Museo\".\n• Diego Spagnuolo, extitular de la ANDIS, y Daniel Garbellini, su segundo, se negaron a declarar, argumentando la manipulación (deepfake) de los audios que impulsaron la investigación.\n• La investigación ha realizado allanamientos en financieras y empresas de criptomonedas para rastrear el desvío de fondos públicos y posibles maniobras de lavado de activos.\n• Empresarios como Jorge Omar Panelli (GMS SA), cuyo nombre figura en los cuadernos de Calvete, conectan negocios con el Estado desde gestiones anteriores (kirchnerismo) hasta la actual, a través de contrataciones millonarias.\n• Sergio Mastropietro es señalado como operador financiero de Calvete y socio de Federico \"Fred\" Machado, un empresario investigado por narcotráfico y financiación política, complicando aún más la trama.\n\n💡 **¿Por qué importa?**\n• El caso expone un esquema de corrupción a gran escala que afecta directamente a los fondos destinados a personas con discapacidad, impactando a un sector vulnerable de la sociedad.\n• La investigación revela intrincadas redes que vinculan a figuras políticas y empresariales, mostrando cómo la influencia externa puede manipular organismos estatales y los desafíos para combatirlo.",
+      "cantidad_noticias": 7,
       "noticias": [
+        {
+          "titulo": "Los días en el Hospital de Ezeiza de Calvete y la foto que causó sorpresa",
+          "link": "https://www.lanacion.com.ar/politica/los-dias-en-el-hospital-de-ezeiza-de-calvete-y-la-foto-que-causo-sorpresa-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 19:00:00"
+        },
+        {
+          "titulo": "Spagnuolo y Garbellini se negaron a declarar y se cuidan del efecto Calvete",
+          "link": "https://www.perfil.com/noticias/politica/spagnuolo-y-garbellini-se-negaron-a-declarar-y-se-cuidan-del-efecto-calvete.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-22 01:53:26"
+        },
         {
           "titulo": "Todos contra Picardi: estrategia para hacer caer la causa Andis",
           "link": "https://www.perfil.com/noticias/politica/todos-contra-picardi-estrategia-para-hacer-caer-la-causa-andis.phtml",
@@ -388,8 +247,8 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
-        "La Nación",
         "Perfil",
+        "La Nación",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -398,10 +257,65 @@
       "tendencia": "nuevo"
     },
     {
+      "tema_id": "resultados_loterias_internacionales_20251122",
+      "tema": "Resultados Loterías Internacionales",
+      "tema_normalizado": "resultados loterias internacionales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El viernes 21 de noviembre de 2025, diversas loterías en Colombia (Santander, Medellín, Risaralda) y México (Chispazo) anunciaron sus resultados ganadores, sumando miles de millones de pesos en premios.\n• Paralelamente, se publicaron los números del popular juego Mega Millions en EE.UU. y se destacó un caso de doble ganancia millonaria en la Lotería de Nueva Jersey.\n\n🔍 **Datos clave:**\n• **Mega Millions (EE.UU.):** Ofrece un pozo acumulado que inicia en US$20 millones; las probabilidades de ganar el premio mayor son de 1 en 302.575.350.\n• **Lotería de Santander (Colombia):** Premio mayor: 172, Serie 371 (21/11/2025); su plan de premios incluye un mayor de hasta 6.000 millones de pesos.\n• **Lotería de Medellín (Colombia):** Premio mayor: 6192 (21/11/2025); el premio mayor asciende a 16.000 millones de pesos, de un total de $42.000 millones en premios.\n• **Lotería de Risaralda (Colombia):** Premio mayor: 9834, Serie 250 (21/11/2025); su premio mayor es de $1.400 millones de pesos.\n• **Chispazo (México):** Los resultados del 21/11 fueron 02, 03, 08, 12 (Chispazo de las Tres) y 01, 03, 13, 19 (Chispazo Clásico).\n\n⚡ **Desarrollo:**\n• Las loterías colombianas (Santander, Medellín, Risaralda) celebran sus sorteos los viernes a las 11:00 p.m., ofreciendo múltiples categorías de premios además del mayor.\n• Chispazo en México realiza dos sorteos diarios y permite participar con boletos de $10 pesos, donde el premio aumenta según la cantidad de números acertados, a partir de dos.\n• El caso de Nueva Jersey destaca a una familia que ganó US$3 millones con un boleto instantáneo, tras haber ganado US$1 millón con otro ticket seis meses antes, demostrando una inusual racha de suerte.\n• Para reclamar los premios, es indispensable presentar el billete original en perfecto estado, junto con una identificación válida, y los plazos varían entre 60 días (Chispazo) y un año (loterías colombianas).\n• Los premios monetarios están sujetos a retenciones fiscales: por ejemplo, en Colombia, se aplica una retención del 20% por ganancia ocasional para premios superiores a ciertos umbrales (ej. $1.645.000 en Medellín).\n• La participación en estos juegos se facilita a través de la compra de boletos con vendedores autorizados, agencias o, en algunos casos, mediante plataformas en línea.\n\n💡 **¿Por qué importa?**\n• Las loterías ofrecen a los participantes la posibilidad de obtener grandes sumas de dinero, impactando significativamente la vida de los ganadores con premios millonarios.\n• Además de la función de entretenimiento, varias loterías, como la de Risaralda, destinan parte de sus ingresos a proyectos de desarrollo social, cultural y educativo en sus regiones.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Lotería de Santander: resultados ganadores del viernes 21 de noviembre de 2025",
+          "link": "https://www.infobae.com/colombia/2025/11/22/loteria-de-santander-resultados-ganadores-del-viernes-21-de-noviembre-de-2025/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 03:15:28"
+        },
+        {
+          "titulo": "Resultados del sorteo de Chispazo: ¿Quiénes son los nuevos millonarios?",
+          "link": "https://www.infobae.com/mexico/2025/11/22/resultados-del-sorteo-de-chispazo-quienes-son-los-nuevos-millonarios/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 02:30:40"
+        },
+        {
+          "titulo": "Lotería de Medellín resultados viernes 21 de noviembre: números ganadores del premio mayor y los 50 secos millonarios",
+          "link": "https://www.infobae.com/colombia/2025/11/22/loteria-de-medellin-resultados-viernes-21-de-noviembre-numeros-ganadores-del-premio-mayor-y-los-50-secos-millonarios/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 02:15:39"
+        },
+        {
+          "titulo": "Ganadores de la lotería de Risaralda: estos fueron los resultados del último sorteo",
+          "link": "https://www.infobae.com/colombia/2025/11/22/ganadores-de-la-loteria-de-risaralda-estos-fueron-los-resultados-del-ultimo-sorteo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-22 02:15:32"
+        },
+        {
+          "titulo": "Resultados de la lotería Mega Millions este viernes 21 de noviembre en EE.UU.: los números ganadores",
+          "link": "https://www.lanacion.com.ar/estados-unidos/loterias/resultados-de-la-loteria-mega-millions-este-viernes-21-de-noviembre-en-eeuu-los-numeros-ganadores-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-21 22:22:00"
+        },
+        {
+          "titulo": "En Nueva Jersey: ganaron US$3 millones en la lotería poco después de haber cobrado otro premio millonario",
+          "link": "https://www.lanacion.com.ar/estados-unidos/loterias/en-nueva-jersey-ganaron-us3-millones-en-la-loteria-poco-despues-de-haber-cobrado-otro-premio-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-21 22:09:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
       "tema_id": "milei_en_argentina_20251122",
-      "tema": "Milei en Argentina Week",
-      "tema_normalizado": "milei en argentina week",
-      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Javier Milei confirmó su participación en la \"Argentina Week 2026\", un importante evento en Nueva York.\n• La iniciativa busca atraer inversiones globales y presentar las oportunidades económicas que ofrece el país.\n• Será un foro de alto nivel con la presencia de autoridades, empresarios y fondos de inversión internacionales.\n\n🔍 **Datos clave:**\n• **Fecha:** Del 9 al 11 de marzo de 2026.\n• **Lugar:** Nueva York, Estados Unidos.\n• **Organizadores principales:** Embajada argentina en EEUU, JPMorgan, Bank of America y Kaszek.\n• **Funcionarios confirmados:** Presidente Javier Milei, Canciller Pablo Quirno y Embajador Alejandro Oxenford.\n• **Sectores de interés:** Energía, minería, tecnología, infraestructura y otros sectores estratégicos.\n\n⚡ **Desarrollo:**\n• La \"Argentina Week\" es definida como una \"oportunidad única\" para mostrar al mundo la \"transformación de Argentina\" y comunicar su visión de país \"abierto, próspero y libre\".\n• El evento se enmarca en un momento \"histórico y sin precedentes\" en la relación bilateral entre Estados Unidos y Argentina, destacando la amistad y confianza mutua.\n• Reunirá a líderes empresariales globales, bancos, fondos de inversión y compañías interesadas en invertir o que ya invierten en Argentina.\n• La presencia del presidente Milei busca comunicar \"con claridad y convicción\" la nueva realidad económica del país.\n• El embajador Oxenford resaltó que el evento será un \"hito argentino en Manhattan\", vistiendo la ciudad de celeste y blanco para un nuevo capítulo de inversión y crecimiento.\n\n💡 **¿Por qué importa?**\n• Representa un esfuerzo estratégico del gobierno para captar capitales extranjeros y fomentar el desarrollo de sectores clave en Argentina.\n• Refuerza la visibilidad de Argentina en los centros financieros globales y busca consolidar la imagen del país como un destino atractivo para las inversiones.",
+      "tema": "Milei en Argentina Week Nueva York",
+      "tema_normalizado": "milei en argentina week nueva york",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Javier Milei confirmó su participación en la \"Argentina Week\" que se realizará en Nueva York del 9 al 11 de marzo de 2026.\n• Este evento, organizado junto a bancos globales y la Embajada argentina, busca captar inversiones internacionales presentando la \"nueva Argentina\" como una oportunidad.\n\n🔍 **Datos clave:**\n• **Fecha:** Del 9 al 11 de marzo de 2026.\n• **Lugar:** Nueva York, Estados Unidos.\n• **Organizadores:** Embajada Argentina en EE.UU., JPMorgan, Bank of America, Kaszek.\n• **Figuras principales:** Presidente Javier Milei, Canciller Pablo Quirno, Embajador Alejandro Oxenford.\n• **Sectores de interés:** Energía, minería, tecnología, infraestructura y otros estratégicos.\n\n⚡ **Desarrollo:**\n• El objetivo central es atraer ofertas de empresarios, bancos, fondos de inversión y compañías de todo el mundo interesadas en las oportunidades que ofrece Argentina.\n• El canciller Pablo Quirno celebró la iniciativa, destacando que el evento presentará las \"enormes oportunidades de inversión\" que ofrece el país en esta etapa de transformación económica.\n• El embajador Alejandro Oxenford calificó el encuentro de \"altísimo nivel\", resaltando que se da en un momento \"histórico y sin precedentes\" en la relación entre Estados Unidos y Argentina, marcada por la amistad y la confianza.\n• El propio presidente Milei anunció en redes sociales que estará presente para comunicar \"con claridad y convicción la nueva Argentina: abierta, próspera y libre\", haciendo también referencia a \"¡MAGA!\".\n• Esta iniciativa es vista como un esfuerzo concertado para posicionar a Argentina en los centros financieros globales, aprovechando la sintonía actual con Estados Unidos.\n• Se espera que la \"Argentina Week\" sea un \"hito argentino en Manhattan\", mostrando al mundo un país que se abre a la inversión y al crecimiento internacional.\n\n💡 **¿Por qué importa?**\n• Es una apuesta estratégica del gobierno para atraer capitales extranjeros y dinamizar la economía, presentando al país como un destino propicio para grandes inversiones.\n• Refuerza la visión de Milei de una Argentina \"abierta y libre\", buscando consolidar su proyecto económico a través del apoyo financiero global y fortalecer la relación bilateral con EE.UU.",
       "cantidad_noticias": 5,
       "noticias": [
         {
@@ -449,36 +363,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "interna_ucr_eleccion_20251122",
-      "tema": "Interna UCR Elección Autoridades",
-      "tema_normalizado": "interna ucr eleccion autoridades",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Unión Cívica Radical (UCR) se prepara para renovar las autoridades de su Comité Nacional.\n*   El actual presidente, Martín Lousteau, no se presentará a la reelección tras dos años de mandato.\n*   Esta elección es crucial porque definirá la postura del partido frente al gobierno de Javier Milei, en medio de fuertes tensiones internas.\n\n🔍 **Datos clave:**\n*   **Fecha de la elección:** 12 de diciembre, a las 14 horas.\n*   **Lugar:** Sede partidaria de la calle Alsina 1786, Ciudad de Buenos Aires.\n*   **Plenario de Delegados:** Lo integran 4 representantes por provincia, más 2 de la Juventud Radical, Franja Morada, Foro de Intendentes, Organización de Trabajadores Radicales y UCR Diversidad.\n*   **Presidente saliente:** Martín Lousteau (mandato 2023-2025).\n*   **Presidentes recientes destacados:** Gerardo Morales (2021-2023) y Alfredo Cornejo (2017-2021).\n\n⚡ **Desarrollo:**\n*   La decisión de convocar al plenario se tomó por unanimidad en una reunión de la Mesa Nacional, presidida por Lousteau.\n*   Existe una marcada división interna entre los radicales que buscan mantener la unidad y una posición opositora, y los \"radicales con peluca\" que se han alineado con La Libertad Avanza (LLA).\n*   Esta tensión se evidenció en comicios recientes, donde el radicalismo de Mendoza y Chaco se alió con LLA, mientras que en Buenos Aires, Jujuy, Santa Fe y Corrientes compitió como oposición.\n*   Lousteau fue elegido presidente en diciembre de 2023 con el lema de \"no al cogobierno con Javier Milei\", una postura que ahora podría cambiar con los posibles nuevos candidatos.\n*   Gobernadores como Alfredo Cornejo (Mendoza) y Leandro Zdero (Chaco) se perfilan como posibles candidatos, ambos con alianzas previas con LLA.\n*   Gustavo Valdés (Corrientes), en cambio, se referencia en Provincias Unidas, manteniendo una postura más distante o crítica del gobierno nacional.\n*   En el Congreso, la UCR aún no define una postura homogénea de aliado u opositor, aunque la unidad es más fuerte en el Senado que en Diputados.\n\n💡 **¿Por qué importa?**\n*   La elección determinará el rumbo político de la UCR, impactando su identidad y su estrategia parlamentaria en un momento clave de la política nacional.\n*   La definición de la UCR influirá en el mapa de bloques en el Congreso, afectando la gobernabilidad y las negociaciones del Poder Ejecutivo.",
-      "cantidad_noticias": 3,
+      "tema_id": "juramento_diputados_y_20251122",
+      "tema": "Juramento diputados y Menem presidencia Cámara",
+      "tema_normalizado": "juramento diputados y menem presidencia camara",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los legisladores electos jurarán en sus cargos en los próximos días, redefiniendo la composición del Congreso Nacional.\n• La Cámara de Diputados votará a sus autoridades, y Martín Menem se perfila para ser reelecto como presidente, aunque con tensiones sobre sus atribuciones.\n• El Gobierno busca adelantar sesiones extraordinarias para tratar reformas clave, aprovechando la nueva configuración parlamentaria.\n\n🔍 **Datos clave:**\n• **28 de noviembre:** Jura de 24 senadores electos en la Cámara Alta (11:00 hs).\n• **3 de diciembre:** Jura de diputados electos en la Cámara Baja (13:00 hs) y definición de autoridades.\n• **10 de diciembre:** Los nuevos legisladores toman posesión de sus bancas.\n• **Martín Menem:** Actual y probable presidente reelecto de la Cámara de Diputados.\n• **La Libertad Avanza (LLA):** Bloque oficialista, con 91 integrantes, busca la reelección de Menem.\n• **Unión por la Patria (UP):** Primera minoría con 96 legisladores, busca la vicepresidencia primera.\n• **11 al 31 de diciembre:** Período estimado para las primeras sesiones extraordinarias.\n\n⚡ **Desarrollo:**\n• La reelección de Martín Menem, esperada tras el fortalecimiento de La Libertad Avanza, enfrenta críticas de la oposición por su gestión anterior.\n• Bloques opositores denuncian que Menem no respetó acuerdos y generó divisiones internas en partidos como el PRO y la UCR.\n• Un punto clave es la disputa sobre quién definirá la integración de las comisiones: si el presidente de la Cámara o el cuerpo legislativo mediante votación directa.\n• El Artículo 29 del Reglamento Interno permite delegar esta facultad, pero hay propuestas para que sea el recinto quien vote la composición.\n• El Gobierno de Javier Milei planea sesiones extraordinarias con una agenda intensa, incluyendo el Presupuesto 2026 y la ley de \"presunción de inocencia fiscal\" (para \"blanquear dólares del colchón\").\n• Se prevé que las reformas de \"segunda generación\" (laborales, impositivas, penales) se traten a principios de 2026, posiblemente en una segunda tanda de extraordinarias.\n• Unión por la Patria, como primera minoría, buscará mantener la vicepresidencia primera de la Cámara, actualmente ocupada por Cecilia Moreau, mientras Luis Petri se menciona para la vicepresidencia segunda.\n• Los nuevos diputados deberán elegir una de cuatro fórmulas reglamentarias para jurar, pudiendo sumar invocaciones personales o partidarias.\n\n💡 **¿Por qué importa?**\n• La definición de las autoridades del Congreso y la composición de las comisiones son cruciales para el tratamiento y aprobación de la agenda legislativa del nuevo gobierno.\n• El resultado de estas votaciones determinará la capacidad del oficialismo para avanzar con sus reformas y la dinámica de poder en el Parlamento.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Escala la tensión entre la UCR y Provincias Unidas mientras se define el mapa de bloques en el Congreso",
-          "link": "https://www.infobae.com/politica/2025/11/22/escala-la-tension-entre-la-ucr-y-provincias-unidas-mientras-se-define-el-mapa-de-bloques-en-el-congreso/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-22 00:48:21"
+          "titulo": "El Gobierno apura las sesiones extraordinarias y el Congreso define las fechas de juramento",
+          "link": "https://www.minutouno.com/politica/el-gobierno-apura-las-sesiones-extraordinarias-y-el-congreso-define-las-fechas-juramento-n6216631",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 00:22:00"
         },
         {
-          "titulo": "La UCR renueva las máximas autoridades partidarias en medio de la tensión entre radicales con peluca y opositores",
-          "link": "https://www.perfil.com/noticias/politica/la-ucr-renueva-las-maximas-autoridades-partidarias-en-medio-de-la-tension-entre-radicales-con-peluca-y-opositoress.phtml",
+          "titulo": "Los diputados electos ya tienen fecha de juramento: se reconfigura la geografía política de la Cámara baja",
+          "link": "https://www.minutouno.com/politica/los-diputados-electos-ya-tienen-fecha-juramento-se-reconfigura-la-geografia-la-camara-baja-n6216601",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 20:46:00"
+        },
+        {
+          "titulo": "Los diputados electos jurarán el 3 de diciembre y Martín Menem se perfila para continuar al frente de la Cámara Baja",
+          "link": "https://www.perfil.com/noticias/politica/los-diputados-electos-juraran-el-3-de-diciembre-y-martin-menem-se-perfila-para-continuar-al-frente-de-la-camara-baja.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-21 20:02:00"
+          "fecha": "2025-11-21 19:43:00"
         },
         {
-          "titulo": "La UCR fijó fecha para elegir al sucesor de Martín Lousteau: posibles candidatos y un cambio de rumbo para el radicalismo",
-          "link": "https://www.clarin.com/politica/ucr-fijo-fecha-elegir-sucesor-martin-lousteau-posibles-candidatos-cambio-rumbo-radicalismo_0_ZSPrxpWfS7.html",
+          "titulo": "Los nuevos diputados juran el 3 de diciembre y, con críticas, Martín Menem se encamina a ser reelecto como presidente de la Cámara",
+          "link": "https://www.clarin.com/politica/nuevos-diputados-juran-3-diciembre-criticas-martin-menem-encamina-reelecto-presidente-camara_0_3fJfANv1VF.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-21 17:35:23"
+          "fecha": "2025-11-21 17:38:52"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
+        "Minuto1",
         "Perfil",
-        "Infobae",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -487,43 +407,111 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "volatilidad_dolares_riesgo_20251122",
-      "tema": "Volatilidad Dólares Riesgo País",
-      "tema_normalizado": "volatilidad dolares riesgo pais",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Los dólares financieros, como el Contado con Liquidación (CCL) y el MEP, han registrado una marcada suba, con el CCL superando los $1.500.\n*   Paralelamente, el Riesgo País de Argentina se disparó por encima de los 650 puntos básicos.\n*   Esta volatilidad se atribuye a rumores sobre la posible reducción o posposición de un importante plan de rescate financiero de bancos de Estados Unidos.\n\n🔍 **Datos clave:**\n*   **Dólar CCL:** Alcanzó los $1.502,40 el 22 de noviembre, con una brecha del 5,4% frente al oficial.\n*   **Dólar MEP:** Cotizó a $1.460,35 el 22 de noviembre, con una brecha del 2,5%.\n*   **Riesgo País:** Superó los 650 puntos básicos (llegando a 660 el 21 de noviembre), su nivel más alto desde el 11 de noviembre.\n*   **Préstamo (rumores):** Se habló inicialmente de u$s20.000 millones, pero luego se redujo a u$s5.000 millones (o u$s4.500 millones para un crédito \"Repo\").\n*   **Bancos mencionados (rumores):** J.P. Morgan Chase, Bank of America y Citigroup.\n*   **S&P Merval en dólares:** Tocó su nivel más bajo desde el 28 de octubre.\n\n⚡ **Desarrollo:**\n*   La suba de los dólares financieros y el Riesgo País se dio en jornadas de poco volumen de operaciones, debido a días no laborables en Argentina.\n*   Informes del Wall Street Journal indicaron que un supuesto plan de rescate de u$s20.000 millones de bancos estadounidenses para Argentina se pospuso o se redujo a u$s5.000 millones.\n*   El ministro de Economía, Luis Caputo, desmintió públicamente que existiera un acuerdo de rescate con bancos de EEUU o que se hubiera hablado de un monto de u$s20.000 millones.\n*   La incertidumbre sobre este financiamiento externo generó caídas en los bonos soberanos en dólares y en las acciones argentinas, tanto a nivel local como en Wall Street.\n*   En paralelo, el Banco Central (BCRA) anunció una baja de los encajes obligatorios para los bancos a partir de diciembre, buscando aumentar la liquidez del sistema financiero.\n\n💡 **¿Por qué importa?**\n*   La alta volatilidad de los dólares y el incremento del Riesgo País generan incertidumbre económica y dificultan el objetivo del Gobierno de recuperar la confianza y acceder a los mercados internacionales de deuda.\n*   Un Riesgo País elevado, lejos del objetivo de menos de 500 puntos, encarece el financiamiento para el país y afecta las expectativas de inversión y estabilidad.",
+      "tema_id": "reunion_santilli-zamora_en_20251122",
+      "tema": "Reunión Santilli-Zamora en Santiago Estero",
+      "tema_normalizado": "reunion santilli-zamora en santiago estero",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro del Interior, Diego Santilli, se reunió en Santiago del Estero con el gobernador Gerardo Zamora y el gobernador electo Elías Suárez.\n• El encuentro forma parte de la gira federal de Santilli para buscar apoyo provincial y legislativo al Presupuesto 2026 y a las reformas impulsadas por el Gobierno.\n• Zamora, figura influyente que asumirá como senador, planteó exigencias provinciales y del Norte Grande, sin comprometer un apoyo inmediato, pero con predisposición al diálogo.\n\n🔍 **Datos clave:**\n• **Diego Santilli:** Ministro del Interior.\n• **Gerardo Zamora:** Gobernador saliente y Senador nacional electo por Santiago del Estero.\n• **Elías Suárez:** Gobernador electo de Santiago del Estero.\n• **Presupuesto 2026:** Principal tema en agenda, el Gobierno busca su aprobación.\n• **10 de diciembre:** Fecha de asunción de nuevos legisladores y del gobernador electo Suárez.\n• **Norte Grande:** Zamora es un referente de este bloque de 10 gobernadores.\n• **1% de coparticipación:** Reclamo para La Rioja.\n• **1.9% a 1%:** Reducción de la alícuota del ARCA solicitada.\n• **3 y 7:** Zamora controlará 3 bancas en el Senado y 7 diputados nacionales.\n\n⚡ **Desarrollo:**\n• Santilli, en su rol de Ministro del Interior, realiza un \"tour nacional\" para tejer acuerdos con los gobernadores y sumar respaldo a la agenda legislativa del oficialismo.\n• La reunión, que duró entre una hora y media y tres horas según las fuentes, tuvo lugar en la residencia del gobernador en la capital santiagueña.\n• El Gobierno busca que Santilli no solo recolecte fotos, sino que establezca relaciones a largo plazo y haga seguimiento de los reclamos provinciales.\n• Zamora enfatizó la importancia del Presupuesto 2026 para la Nación, pero condicionó el apoyo a la incorporación de demandas provinciales.\n• Entre las exigencias, Zamora pidió que se incluyan fondos específicos (gasoil y ATN) y el 1% de coparticipación para La Rioja, además de la reducción de la alícuota del ARCA del 1.9% al 1%.\n• Estas solicitudes, que no generan déficit fiscal ya que son fondos de las provincias, fueron presentadas como consenso de los gobernadores del Norte Grande.\n• Si bien no hubo un compromiso explícito de apoyo legislativo por parte de Zamora, ambas partes destacaron el clima de \"diálogo profundo\" y la voluntad de continuar las conversaciones.\n• El mandatario santiagueño, que pasará a ser senador, tendrá un peso significativo en el Congreso al controlar el voto de tres senadores y siete diputados de su provincia.\n\n💡 **¿Por qué importa?**\n• El Gobierno necesita asegurar los votos para el Presupuesto 2026 y sus reformas, y los legisladores santiagueños, influenciados por Zamora, son clave.\n• La reunión visibiliza la negociación entre Nación y provincias por fondos y el federalismo, que será central en la agenda legislativa próxima.",
       "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Los dólares financieros anotaron su tercera suba al hilo y el CCL superó los $1.500",
-          "link": "https://www.ambito.com/finanzas/los-dolares-financieros-anotan-su-tercera-suba-al-hilo-y-el-ccl-supera-los-1500-n6216457",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-21 18:46:00"
-        },
-        {
-          "titulo": "El S&P Merval en dólares tocó mínimos de casi un mes y el riesgo país superó los 650 puntos básicos",
-          "link": "https://www.ambito.com/finanzas/el-sp-merval-toca-minimos-casi-un-mes-y-el-riesgo-pais-trepa-la-zona-los-650-puntos-n6216431",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-21 18:41:00"
-        },
-        {
-          "titulo": "Bonos y acciones caen en Wall Street y el riesgo país supera los 650 puntos",
-          "link": "https://www.perfil.com/noticias/economia/bonos-y-acciones-caen-en-wall-street-y-el-riesgo-pais-supera-los-650-puntos.phtml",
+          "titulo": "Mientras el Norte exige definiciones, Santilli viajó a Santiago del Estero para contener a Zamora",
+          "link": "https://www.perfil.com/noticias/politica/mientras-el-norte-exige-definiciones-santilli-viajo-a-santiago-del-estero-para-contener-a-zamora.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-21 18:39:00"
+          "fecha": "2025-11-22 00:32:48"
         },
         {
-          "titulo": "Bonos en dólares y ADRs caen y el Riesgo País sube a la zona de los 650 puntos",
-          "link": "https://www.minutouno.com/economia/bonos-dolares-y-adrs-caen-y-el-riesgo-pais-sube-la-zona-los-650-puntos-n6216470",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-21 13:55:00"
+          "titulo": "Santilli no logró el apoyo de Gerardo Zamora, pero hay predisposición para seguir dialogando",
+          "link": "https://www.perfil.com/noticias/politica/santilli-no-logro-el-apoyo-de-gerardo-zamora-pero-hay-predisposicion-para-seguir-dialogando.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 19:02:00"
+        },
+        {
+          "titulo": "Diego Santilli se reunió con Gerardo Zamora en Santiago del Estero: Presupuesto 2026, federalismo y un guiño a un gobernador peronista",
+          "link": "https://www.ambito.com/politica/diego-santilli-se-reune-gerardo-zamora-santiago-del-estero-n6216394",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 16:55:00"
+        },
+        {
+          "titulo": "Santilli destacó un \"diálogo profundo\" con Gerardo Zamora en Santiago del Estero y se abre un interrogante para el PJ en el Congreso",
+          "link": "https://www.clarin.com/politica/santilli-destaco-dialogo-profundo-gerardo-zamora-santiago-estero-abre-interrogante-pj-congreso_0_palW52naFo.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 16:08:11"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-22",
       "fuentes": [
         "Ámbito Financiero",
         "Perfil",
-        "Minuto1"
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "karina_milei_organiza_20251122",
+      "tema": "Karina Milei organiza congresos LLA",
+      "tema_normalizado": "karina milei organiza congresos lla",
+      "resumen": "📌 **¿Qué está pasando?**\n• Karina Milei, Secretaria General de la Presidencia, está liderando la organización de congresos de La Libertad Avanza (LLA) en la provincia de Buenos Aires.\n• El principal evento es un congreso partidario en Mar del Plata, diseñado como una demostración de fuerza y para consolidar la estructura interna del oficialismo.\n• Estos encuentros buscan fortalecer la orgánica del partido y preparar el terreno político y electoral de cara a las elecciones de 2027.\n\n🔍 **Datos clave:**\n• **Fecha del congreso:** 30 de noviembre.\n• **Lugar:** Hotel NH Provincial, Mar del Plata.\n• **Asistencia estimada:** 746 dirigentes legislativos, con una previsión de más de 1000 personas entre dirigentes y militantes.\n• **Duración del evento:** De 9 a 17 horas.\n• **Líderes principales:** Karina Milei, Martín Menem, Sebastián Pareja.\n\n⚡ **Desarrollo:**\n• El congreso de Mar del Plata tiene como objetivo mostrar el \"músculo\" político de LLA en la provincia de Buenos Aires, un distrito considerado históricamente adverso.\n• Las actividades incluyen paneles temáticos y capacitaciones sobre técnica parlamentaria, presupuesto, funcionamiento de consejos escolares y liderazgo, enfocándose exclusivamente en la labor legislativa.\n• Karina Milei, como presidenta del partido a nivel nacional, busca unificar el armado partidario y sellar posibles fisuras internas.\n• Uno de los objetivos explícitos es \"destronar\" a Axel Kicillof y reducir la influencia del peronismo en el territorio bonaerense de cara a 2027.\n• El evento capitaliza el triunfo legislativo de octubre y se presenta como la continuidad de trabajos previos en Flores y La Plata, marcando una etapa de \"maduración\" libertaria.\n• Participarán espacios libertarios cercanos al oficialismo, como Las Fuerzas del Cielo y La Púrpura, pero no se ha invitado a aliados del PRO.\n• La foto final del encuentro, según anticipan los organizadores, buscará proyectar el \"poder real\" que LLA cree haber construido en la provincia.\n\n💡 **¿Por qué importa?**\n• Estos congresos consolidan la figura de Karina Milei como una estratega clave en la expansión y el armado territorial de La Libertad Avanza.\n• Representan un movimiento estratégico temprano para posicionar al partido frente a las elecciones de 2027, con un claro enfoque en conquistar la provincia de Buenos Aires.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "PBA: Karina conducirá un plenario en Mar del Plata",
+          "link": "https://www.perfil.com/noticias/politica/pba-karina-conducira-un-plenario-en-mar-del-plata.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-22 02:48:15"
+        },
+        {
+          "titulo": "Karina Milei convocó a un congreso libertario bonaerense: quiere destronar a Axel Kicillof",
+          "link": "https://www.minutouno.com/politica/karina-milei-convoco-un-congreso-libertario-bonaerense-quiere-destronar-axel-kicillof-n6216589",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-21 19:17:00"
+        },
+        {
+          "titulo": "Karina Milei prepara un congreso masivo de La Libertad Avanza en Mar del Plata para mostrar fuerza bonaerense",
+          "link": "https://www.perfil.com/noticias/politica/karina-milei-prepara-un-congreso-masivo-de-la-libertad-avanza-en-mar-del-plata-para-mostrar-fuerza-en-buenos-aires.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-21 14:21:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Minuto1",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tension_chile-eeuu_por_20251122",
+      "tema": "Tensión Chile-EEUU por embajador Boric",
+      "tema_normalizado": "tension chile-eeuu por embajador boric",
+      "resumen": "📌 **¿Qué está pasando?**\n• Chile envió una nota de protesta formal a Estados Unidos tras las declaraciones del nuevo embajador estadounidense en Santiago, Brandon Judd.\n• El diplomático calificó de \"decepcionantes\" las críticas del presidente Gabriel Boric hacia Donald Trump y sugirió una preferencia política para el próximo ballottage chileno.\n• El canciller chileno, Alberto van Klaveren, consideró estas expresiones como \"inapropiadas, desafortunadas\" y una \"intervención en los asuntos internos\" del país.\n\n🔍 **Datos clave:**\n• **Embajador de EE.UU.:** Brandon Judd, exagente de la Patrulla Fronteriza, quien llegó a Chile hace menos de dos semanas para asumir su cargo.\n• **Presidente de Chile:** Gabriel Boric, un líder de izquierda que ha sido un crítico vocal de la administración de Donald Trump.\n• **Elecciones chilenas:** El ballottage del 14 de diciembre definirá al sucesor de Boric, entre Jeannette Jara (izquierda) y José Antonio Kast (ultraderecha), candidatos mencionados por el embajador.\n• **Canciller chileno:** Alberto van Klaveren, quien anunció la medida de protesta formal por instrucción del presidente Boric.\n• **Relación comercial:** Estados Unidos es el segundo socio comercial de Chile, con un intercambio que superó los US$31.636 millones en 2024, según datos oficiales.\n\n⚡ **Desarrollo:**\n• El embajador Judd afirmó que las críticas de Boric a Trump sobre temas como el negacionismo climático, la guerra en Gaza y los aranceles, reflejan \"hasta qué punto han caído\" las relaciones bilaterales.\n• Durante su primera conferencia de prensa en Santiago, Judd también indicó que con uno de los candidatos chilenos sería \"más fácil trabajar\", aunque no especificó cuál, en referencia al ballottage.\n• Por instrucción directa del presidente Boric, la Cancillería chilena respondió reafirmando que \"sus expresiones sobre el proceso político nacional representan una intervención en los asuntos internos de Chile\".\n• La secretaria General de Gobierno, Camila Vallejo, también enfatizó que \"Chile es un país soberano que exige y entrega respeto al mundo\", rechazando la injerencia en sus asuntos electorales.\n• El gobierno chileno busca preservar su soberanía en política exterior, manteniendo a EE.UU. como un \"país amigo\" y buscando la mejor relación posible basada en respeto mutuo y dignidad nacional.\n• Este incidente se suma a declaraciones previas de Boric sobre no aceptar \"tutelajes\", en respuesta a directrices de la administración Trump a sus embajadas respecto a ciertas políticas sociales.\n\n💡 **¿Por qué importa?**\n• El episodio resalta la marcada sensibilidad de Chile ante cualquier percepción de injerencia externa, especialmente en un año electoral decisivo para el futuro político del país.\n• Evidencia las diferencias ideológicas entre los gobiernos de Chile y Estados Unidos, complicando una relación bilateral estratégica en la que Chile busca autonomía y EE.UU. prioriza sus intereses geopolíticos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Tensión entre Chile y EEUU por comentarios de embajador sobre Gabriel Boric: \"Inapropiados y desafortunados\"",
+          "link": "https://www.ambito.com/mundo/tension-chile-y-eeuu-comentarios-embajador-gabriel-boric-inapropiados-y-desafortunados-n6216628",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-21 23:08:00"
+        },
+        {
+          "titulo": "Tensión entre Chile y Estados Unidos luego de que el embajador opinara sobre las elecciones y criticara al presidente Boric",
+          "link": "https://www.clarin.com/mundo/tension-chile-estados-unidos-luego-embajador-opinara-elecciones-criticara-presidente-boric_0_EYJ9iMX1Eb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-21 21:21:25"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-22",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
