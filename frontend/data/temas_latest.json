@@ -1,87 +1,26 @@
 {
   "fecha": "2025-11-23",
-  "fecha_generacion": "2025-11-23T04:01:31.127428",
-  "total_temas": 6,
+  "fecha_generacion": "2025-11-23T06:25:58.441724",
+  "total_temas": 10,
   "temas": [
     {
-      "tema_id": "plan_de_paz_20251123",
-      "tema": "Plan de Paz de Trump para Ucrania",
-      "tema_normalizado": "plan de paz de trump para ucrania",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Donald Trump ha propuesto un \"plan de paz\" para Ucrania con un ultimátum para su aceptación.\n*   Este plan, negociado con asesores rusos y estadounidenses sin consulta europea ni ucraniana, exige a Kiev ceder territorio, reducir su ejército y renunciar a unirse a la OTAN.\n*   La fecha límite inicial para que Ucrania acepte es el jueves 27 de noviembre, bajo amenaza de perder el apoyo militar y de inteligencia de EE. UU.\n\n🔍 **Datos clave:**\n*   **28 puntos:** El plan de paz propuesto consta de 28 puntos específicos.\n*   **Noviembre 27:** Fecha límite inicial establecida por Trump para la aceptación del plan por parte de Ucrania.\n*   **600.000:** Límite propuesto para el personal del ejército ucraniano, una reducción significativa desde los aproximadamente 900.000 actuales.\n*   **2014:** Año en que Rusia anexionó Crimea por la fuerza, cuyo control sería reconocido por EE. UU. y Ucrania bajo el plan.\n*   **€140.000 millones:** Monto de activos rusos bloqueados en Europa que Ucrania podría recibir, un factor que los europeos creen que Rusia busca evitar.\n*   **Steve Witkoff, Marco Rubio, Dan Driscoll:** Asesores clave de Trump involucrados en la negociación del plan.\n*   **G20 Johannesburgo:** Cumbre en Sudáfrica donde líderes europeos, Canadá y Japón se reunieron para discutir el plan.\n*   **Ginebra:** Ciudad suiza donde se esperan reuniones entre delegaciones de EE. UU. y Ucrania, y representantes europeos.\n\n⚡ **Desarrollo:**\n*   El plan impone a Ucrania la cesión de la región de Donbass oriental, no solo los territorios ya conquistados, y el reconocimiento del control ruso sobre Crimea, Lugansk y Donetsk.\n*   Además, prohíbe explícitamente a Ucrania unirse a cualquier alianza defensiva occidental como la OTAN y limita su política exterior y su capacidad militar, con una propuesta de amnistía para crímenes rusos.\n*   Líderes europeos, reunidos en el G20 sin Trump, expresaron \"preocupaciones\" y calificaron el plan como una \"base que requerirá trabajo adicional\", apoyando implícitamente a Zelensky.\n*   El presidente ucraniano Volodimir Zelensky describió la situación como uno de los momentos más difíciles, enfrentando la disyuntiva de \"perder su dignidad o perder un aliado clave\".\n*   La opinión pública ucraniana, reflejada en ciudades como Mykolaiv (que frenó el avance ruso), percibe el plan como una \"capitulación\" o \"traición\" a su resistencia.\n*   Críticos en EE. UU. y Europa, incluido The Wall Street Journal, advierten que el plan \"debilitaría a Ucrania\" y \"expondría a Estados Unidos a un mayor riesgo de confrontación directa con Rusia\", comparándolo con el apaciguamiento de Neville Chamberlain en 1938.\n*   A pesar del ultimátum inicial, Trump ha declarado que el plan \"no es su última oferta\", aunque la amenaza de detener el suministro de armas e inteligencia a Ucrania persiste si no acepta.\n\n💡 **¿Por qué importa?**\n*   Este plan podría redefinir fundamentalmente el futuro geopolítico de Europa, al recompensar la agresión territorial rusa y sentar un precedente peligroso para la soberanía nacional.\n*   Desafía la unidad y los valores de la OTAN y la Unión Europea, poniendo a prueba la relación transatlántica y el compromiso de EE. UU. con la seguridad de sus aliados.\n*   Su implementación tendría implicaciones profundas para la paz global y el orden internacional basado en reglas, con el riesgo de un conflicto prolongado o mayor inestabilidad.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Trump y el plan para Ucrania: un acuerdo asqueroso y una traición flagrante",
-          "link": "https://www.lanacion.com.ar/estados-unidos/trump-y-el-plan-para-ucrania-un-acuerdo-asqueroso-y-una-traicion-flagrante-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-23 01:00:00"
-        },
-        {
-          "titulo": "Duro editorial de The Wall Street Journal contra el plan de paz de Trump para Ucrania",
-          "link": "https://www.lanacion.com.ar/estados-unidos/duro-editorial-de-the-wall-street-journal-contra-el-plan-de-paz-de-trump-para-ucrania-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 19:26:28"
-        },
-        {
-          "titulo": "Europa busca frenar el plan de Estados Unidos y Rusia que significa la capitulación de Ucrania",
-          "link": "https://www.clarin.com/mundo/europa-busca-frenar-plan-estados-unidos-rusia-significa-capitulacion-ucrania_0_nXlK82i1Pu.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 19:16:24"
-        },
-        {
-          "titulo": "Los líderes europeos apoyan a Zelensky y expresan sus “preocupaciones” por el plan de paz de Trump",
-          "link": "https://www.lanacion.com.ar/el-mundo/los-lideres-europeos-apoyan-a-zelensky-y-expresan-sus-preocupaciones-por-el-plan-de-paz-de-trump-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 18:45:03"
-        },
-        {
-          "titulo": "Después del ultimátum, Trump dice que no es su \"última oferta\" para Ucrania",
-          "link": "https://www.clarin.com/mundo/despues-ultimatum-trump-dice-ultima-oferta-ucrania_0_dS0LqjmV0e.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 17:49:58"
-        },
-        {
-          "titulo": "Mykolaiv: fue la primera ciudad del sur de Ucrania que frenó el avance ruso y ahora vive con indignación el plan de paz de Trump",
-          "link": "https://www.lanacion.com.ar/el-mundo/mykolaiv-fue-la-primera-ciudad-de-ucrania-que-freno-el-avance-ruso-y-ahora-vive-con-indignacion-el-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 17:47:03"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-23",
-      "fuentes": [
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cambios_gabinete_y_20251123",
-      "tema": "Cambios Gabinete y política Gobierno Milei",
-      "tema_normalizado": "cambios gabinete y politica gobierno milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei anunció cambios significativos en su gabinete ministerial.\n• Alejandra Monteoliva fue designada nueva Ministra de Seguridad, reemplazando a Patricia Bullrich.\n• El Teniente General Carlos Alberto Presti asumirá como Ministro de Defensa, sucediendo a Luis Petri.\n• Estas modificaciones se realizan debido a que Bullrich y Petri ocuparán bancas en el Congreso a partir del 10 de diciembre.\n\n🔍 **Datos clave:**\n• **Nuevos Ministros:** Alejandra Monteoliva (Seguridad) y Teniente General Carlos Alberto Presti (Defensa).\n• **Ministros Salientes:** Patricia Bullrich (Seguridad) y Luis Petri (Defensa).\n• **Fecha de Asunción Legislativa:** 10 de diciembre.\n• **Presti:** Primer militar en actividad en el Ministerio de Defensa desde 1983; ex-Jefe del Estado Mayor General del Ejército; nació el 23 de junio de 1966.\n• **Monteoliva:** Ex-Secretaria de Seguridad; cordobesa con casi 30 años de experiencia en gestión pública.\n• **Manuel Adorni:** Designado Jefe de Gabinete tras la renuncia de Guillermo Francos.\n\n⚡ **Desarrollo:**\n• Los recambios ministeriales permiten a Patricia Bullrich asumir como senadora y a Luis Petri como diputado nacional.\n• La designación de Alejandra Monteoliva en Seguridad busca asegurar la \"continuidad del rumbo\" y la \"Doctrina Bullrich\", enfocada en la lucha contra el narcoterrorismo y el orden público.\n• Monteoliva ha sido una figura clave en la gestión de Bullrich, con experiencia en seguridad a nivel municipal, provincial y federal, además de consultoría internacional.\n• El nombramiento del Teniente General Carlos Presti en Defensa quiebra una tradición democrática de 40 años, desde 1983, de tener exclusivamente civiles al frente de esa cartera.\n• El gobierno justificó la elección de Presti como el fin de la \"demonización\" de las Fuerzas Armadas, buscando otorgarles un \"nuevo rol protagónico\".\n• Presti, un militar de carrera y ex-Jefe del Estado Mayor General del Ejército, es descrito como un \"soldado\" y no el candidato preferido del ministro saliente Luis Petri.\n• Previamente, Guillermo Francos renunció a su cargo de Jefe de Gabinete, aduciendo \"presiones\" al Presidente y la necesidad de facilitar la reorganización del equipo.\n• La salida de Francos y la de Lisandro Catalán del Ministerio del Interior fueron los primeros pasos de esta reestructuración del Gabinete.\n\n💡 **¿Por qué importa?**\n• La designación de un militar en el Ministerio de Defensa marca un precedente histórico en Argentina, redefiniendo la relación entre el poder político y las Fuerzas Armadas desde el retorno de la democracia.\n• Los cambios buscan consolidar la impronta ideológica del gobierno en áreas clave como seguridad y defensa, garantizando la continuidad de las políticas implementadas desde diciembre de 2023.",
-      "cantidad_noticias": 23,
+      "tema_id": "cambios_en_gabinete_20251123",
+      "tema": "Cambios en el Gabinete de Milei",
+      "tema_normalizado": "cambios en gabinete de milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Presidente Javier Milei anunció importantes cambios en su Gabinete, designando a nuevos ministros para las carteras de Seguridad y Defensa.\n*   Estas modificaciones se realizaron ante la próxima asunción de los ministros salientes en el Congreso y forman parte de una reestructuración del equipo de gobierno.\n\n🔍 **Datos clave:**\n*   **22 de noviembre:** Fecha en que se hicieron públicos los nombramientos de los nuevos ministros.\n*   **10 de diciembre:** Día en que los nuevos funcionarios asumirán formalmente sus cargos.\n*   **Alejandra Monteoliva:** Nueva Ministra de Seguridad, en reemplazo de Patricia Bullrich.\n*   **Carlos Alberto Presti:** Nuevo Ministro de Defensa, sustituyendo a Luis Petri.\n*   **1983:** Año desde el cual no había un militar en actividad al frente del Ministerio de Defensa, tradición que se rompe con Presti.\n\n⚡ **Desarrollo:**\n*   **Ministerio de Seguridad:** Alejandra Monteoliva, quien se desempeñaba como Secretaria de Seguridad, ascenderá a ministra. Se espera que continúe con la \"Doctrina Bullrich\", enfocada en la lucha contra el narcoterrorismo y la imposición del orden.\n*   **Ministerio de Defensa:** El Teniente General Carlos Alberto Presti, actual Jefe del Estado Mayor General del Ejército, fue designado ministro. Esta designación marca un hito histórico al ser el primer militar en actividad en ocupar este cargo desde el regreso de la democracia.\n*   **Ministros salientes:** Patricia Bullrich y Luis Petri dejarán sus puestos el 10 de diciembre para asumir bancas en el Congreso Nacional, como Senadora y Diputado, respectivamente.\n*   **Postura del Gobierno:** La Oficina del Presidente agradeció la labor de Bullrich y Petri, afirmando que los nuevos nombramientos implican una \"continuidad del rumbo\" y buscan poner fin a la \"demonización\" de las Fuerzas Armadas.\n*   **Cambios previos:** Previamente a estos anuncios, el exjefe de Gabinete, Guillermo Francos, renunció argumentando \"presiones\" y para facilitar la reorganización ministerial. Manuel Adorni asumió un rol de Ministro Coordinador.\n\n💡 **¿Por qué importa?**\n*   Estos cambios no solo reconfiguran el equipo de Javier Milei, sino que la designación de un militar en el Ministerio de Defensa rompe una tradición democrática de más de cuatro décadas.\n*   Las nuevas designaciones buscan reafirmar las políticas de seguridad y defensa del gobierno, alineadas con una visión de \"mano dura\" y un nuevo rol para las Fuerzas Armadas.",
+      "cantidad_noticias": 20,
       "noticias": [
         {
           "titulo": "El trasfondo de la designación del nuevo ministro de Milei, la inesperada coincidencia con la AFA y la reforma que generó sospechas",
           "link": "https://www.infobae.com/politica/2025/11/23/el-trasfondo-de-la-designacion-del-nuevo-ministro-de-milei-la-inesperada-coincidencia-con-la-afa-y-la-reforma-que-genero-sospechas/",
           "fuente": "Infobae",
-          "fecha": "2025-11-23 00:44:27"
+          "fecha": "2025-11-23 01:51:23"
         },
         {
           "titulo": "El teniente general Carlos Presti, tras ser designado ministro de Defensa: \"Las Fuerzas Armadas deben...\"",
           "link": "https://www.minutouno.com/politica/el-teniente-general-carlos-presti-ser-designado-ministro-defensa-las-fuerzas-armadas-deben-n6216783",
           "fuente": "Minuto1",
           "fecha": "2025-11-22 22:18:00"
-        },
-        {
-          "titulo": "Manuel Adorni hizo su \"resumen de la semana de nuestra querida Argentina\"",
-          "link": "https://www.minutouno.com/politica/manuel-adorni-hizo-su-resumen-la-semana-nuestra-querida-argentina-n6216773",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 21:13:00"
         },
         {
           "titulo": "Quiénes son Carlos Presti y Alejandra Monteoliva, los nuevos ministros de Javier Milei",
@@ -190,28 +129,16 @@
           "link": "https://www.clarin.com/politica/guillermo-francos-dejar-gabinete-confirmo-sigue-dispuesto-apoyar-gobierno_0_6SATuo6Jm3.html",
           "fuente": "Clarín",
           "fecha": "2025-11-22 15:22:15"
-        },
-        {
-          "titulo": "Peter Lamelas celebró tres semanas al frente de la embajada de EEUU y destacó el trabajo \"a toda máquina con Javier Milei\"",
-          "link": "https://www.ambito.com/politica/peter-lamelas-celebro-sus-tres-semanas-al-frente-la-embajada-eeuu-y-destaco-el-trabajo-a-toda-maquina-javier-milei-n6216671",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-22 10:44:00"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno evalúa convocar a extraordinarias en el Congreso antes del 10 de diciembre para acelerar sus reformas",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-evalua-convocar-extraordinarias-congreso-10-diciembre-acelerar-reformas_0_Iljhg3iyRW.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 08:06:06"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-23",
       "fuentes": [
-        "Infobae",
         "Perfil",
+        "Ámbito Financiero",
         "Clarín",
         "Minuto1",
-        "Ámbito Financiero"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -219,227 +146,48 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "situacion_economica_argentina_20251123",
-      "tema": "Situación económica argentina y Caputo",
-      "tema_normalizado": "situacion economica argentina y caputo",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El ministro de Economía, Luis Caputo, desmintió negociaciones sobre un \"rescate\" de USD 20.000 millones con bancos de Estados Unidos, aclarando que era una operación de \"manejo de pasivos\" o \"ayuda adicional\" que se rechazó por la favorable reacción del mercado post-electoral.\n*   La economía argentina sigue enfrentando el desafío de acumular reservas y recuperar el acceso a los mercados de deuda internacionales, mientras la actividad productiva y el consumo muestran signos de recesión.\n\n🔍 **Datos clave:**\n*   **USD 20.000 millones:** Monto del supuesto \"rescate\" o \"facilidad adicional\" con bancos de EE.UU. desmentido por Caputo.\n*   **USD 4.300 millones:** Vencimiento de bonos que el Gobierno debe afrontar el 9 de enero.\n*   **600 puntos básicos:** Umbral de riesgo país que el Gobierno aspira a perforar para reingresar a los mercados de deuda.\n*   **$2.027.283:** Ingreso mensual mínimo necesario para una familia tipo en octubre de 2025, según informe de ATE Indec.\n*   **16%:** Morosidad del crédito no bancario, duplicándose entre julio de 2024 y julio de 2025.\n*   **5 millones:** Argentinos que tienen el crédito no bancario como única opción de financiamiento.\n*   **32%:** Caída del Bitcoin desde su récord de USD 125.000.\n*   **54,8%:** Pérdida del poder de compra de salarios públicos desde diciembre de 2015.\n\n⚡ **Desarrollo:**\n*   Caputo explicó que la opción de una \"ayuda adicional\" de USD 20.000 millones se evaluó con apoyo de EE.UU. en caso de necesidad, pero se descartó al ver una reacción \"muy favorable\" de los mercados tras las elecciones del 26 de octubre.\n*   El Gobierno busca acumular reservas, utilizando financiamiento como \"repos\" con bancos internacionales (USD 3.000 millones ya obtenidos en 2025) para afrontar próximos vencimientos, pero aún no hay un plan claro de compras de dólares por el BCRA.\n*   El mercado demanda más claridad sobre el esquema cambiario de equilibrio, la acumulación de reservas y la necesidad de fortalecer el diálogo político para aprobar reformas estructurales y el Presupuesto 2026.\n*   La economía real experimenta una profunda recesión, con caídas significativas en la industria manufacturera (-43.970 empleos), la construcción (-72.350 empleos) y el comercio minorista, a pesar de reportes de \"repunte del optimismo\".\n*   Se proponen reformas al régimen penal tributario para actualizar los pisos de punibilidad (ej. evasión simple de $1.5 millones a $100 millones), buscando mayor proporcionalidad y eficiencia en la sanción de la evasión.\n*   El crédito no bancario, ofrecido por Fintech y otros proveedores, creció un 84% en monto en el último año, cubriendo a 11,2 millones de personas, pero su morosidad se disparó.\n*   La Comisión Nacional de Valores (CNV) amplió las posibilidades de inversión para adolescentes de 13 a 17 años, permitiéndoles operar fondos de acciones y bonos para fomentar la educación financiera.\n\n💡 **¿Por qué importa?**\n*   La gestión de Caputo y la estrategia económica son cruciales para la estabilidad financiera, la capacidad de pago del país y la atracción de inversiones.\n*   La combinación de ajuste fiscal y gradualismo monetario busca evitar crisis, pero el impacto en el empleo y el consumo refleja el desafío de reactivar la economía mientras se controlan las variables macro.",
-      "cantidad_noticias": 34,
+      "tema_id": "plan_de_paz_20251123",
+      "tema": "Plan de paz Trump para Ucrania",
+      "tema_normalizado": "plan de paz trump para ucrania",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Donald Trump propuso un plan de paz para Ucrania, buscando poner fin a casi cuatro años de guerra y generando gran controversia internacional.\n• Este plan exige a Ucrania la cesión de vastos territorios a Rusia, una significativa reducción de su ejército y el compromiso de no unirse a la OTAN.\n• La propuesta incluyó un ultimátum a Ucrania para su aceptación y ha provocado un fuerte rechazo por parte de los aliados europeos.\n\n🔍 **Datos clave:**\n• **Plan:** Contiene 28 puntos clave, negociados por asesores de Trump y Putin.\n• **Ultimátum:** Se dio plazo hasta el jueves 27 de noviembre para que Ucrania aceptara la oferta, o se enfrentaría a la pérdida de apoyo de EE.UU.\n• **Territorios cedidos:** Incluyen Crimea (anexada por Rusia en 2014), Donbass oriental, Lugansk y Donetsk.\n• **Reducción militar:** El ejército ucraniano se limitaría a 600.000 efectivos, desde los aproximadamente 900.000 actuales.\n• **Actores principales:** Presidente Donald Trump, Presidente Vladimir Putin, Presidente Volodímir Zelenski, Dan Driscoll (enviado de EE.UU.), Marco Rubio (secretario de Estado de EE.UU.).\n• **Reuniones:** Líderes europeos se reunieron de urgencia en la cumbre del G20 en Johannesburgo para abordar el plan.\n\n⚡ **Desarrollo:**\n• El plan de Trump demanda la desmilitarización parcial de Ucrania y le impide unirse a la Unión Europea o la OTAN, además de prever una amnistía para crímenes cometidos por Rusia.\n• Enviados estadounidenses, como Dan Driscoll, comunicaron el ultimátum a embajadores de la OTAN en Kiev, advirtiendo que el rechazo implicaría un futuro aún peor para Ucrania.\n• El presidente Zelenski calificó la situación como \"uno de los momentos más difíciles\" de la historia de Ucrania, enfrentando la elección entre \"dignidad\" o la pérdida de un \"socio clave\".\n• The Wall Street Journal criticó duramente la propuesta, considerándola una medida que \"debilitaría a Ucrania\" y expondría a Estados Unidos a un mayor riesgo de confrontación directa con Rusia.\n• Líderes europeos (Gran Bretaña, Francia, Alemania, entre otros) expresaron en el G20 sus \"preocupaciones\" por la cesión territorial y las limitaciones militares, declarando que \"las fronteras no deben cambiarse por la fuerza\".\n• Los europeos consideraron el plan como una \"base que requerirá trabajo adicional\", y Trump, posteriormente, afirmó que no era su \"última oferta\" para Ucrania, sugiriendo flexibilidad.\n\n💡 **¿Por qué importa?**\n• Este plan tiene el potencial de redefinir drásticamente la soberanía y existencia de Ucrania, validando la agresión territorial de Rusia.\n• Sus implicaciones son críticas para la seguridad europea y la credibilidad de las alianzas occidentales, sentando un precedente peligroso en las relaciones internacionales.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "El mercado espera más claridad sobre cómo se acumularán reservas y el riesgo país no logra aún perforar los 600 puntos",
-          "link": "https://www.infobae.com/economia/2025/11/23/el-mercado-espera-mas-claridad-sobre-como-se-acumularan-reservas-y-el-riesgo-pais-no-logra-aun-perforar-los-600-puntos/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-23 00:43:45"
-        },
-        {
-          "titulo": "Clima de Negocios: Volvieron las dudas por las reservas mientras el FMI se resigna y ya prepara un nuevo “perdón” para el país",
-          "link": "https://www.infobae.com/economia/2025/11/23/clima-de-negocios-volvieron-las-dudas-por-las-reservas-mientras-el-fmi-se-resigna-y-ya-prepara-un-nuevo-perdon-para-el-pais/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-23 00:42:43"
-        },
-        {
-          "titulo": "El crédito no bancario cubre a más de 11 millones de personas y su morosidad se disparó al 16 por ciento",
-          "link": "https://www.infobae.com/economia/2025/11/23/el-credito-no-bancario-cubre-a-mas-de-11-millones-de-personas-y-su-morosidad-se-disparo-al-16-por-ciento/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-23 00:35:41"
-        },
-        {
-          "titulo": "Los riesgos del otro gradualismo",
-          "link": "https://www.lanacion.com.ar/economia/los-riesgos-del-otro-gradualismo-nid23112025/",
+          "titulo": "Trump y el plan para Ucrania: un acuerdo asqueroso y una traición flagrante",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-y-el-plan-para-ucrania-un-acuerdo-asqueroso-y-una-traicion-flagrante-nid22112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-23 00:01:00"
+          "fecha": "2025-11-23 01:00:00"
         },
         {
-          "titulo": "La industria de fondos sigue marcando récords",
-          "link": "https://www.lanacion.com.ar/economia/la-industria-de-fondos-sigue-marcando-records-nid23112025/",
+          "titulo": "Duro editorial de The Wall Street Journal contra el plan de paz de Trump para Ucrania",
+          "link": "https://www.lanacion.com.ar/estados-unidos/duro-editorial-de-the-wall-street-journal-contra-el-plan-de-paz-de-trump-para-ucrania-nid22112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-23 00:01:00"
+          "fecha": "2025-11-22 19:26:28"
         },
         {
-          "titulo": "Las propuestas de modificación del régimen penal tributario",
-          "link": "https://www.lanacion.com.ar/economia/las-propuestas-de-modificacion-del-regimen-penal-tributario-nid23112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-23 00:01:00"
-        },
-        {
-          "titulo": "El nuevo escenario financiero: cómo ven los analistas la economía que viene y dónde aconsejan invertir",
-          "link": "https://www.lanacion.com.ar/economia/el-nuevo-escenario-financiero-como-ven-los-analistas-la-economia-que-viene-y-donde-aconsejan-nid23112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-23 00:01:00"
-        },
-        {
-          "titulo": "Larry Kotlikoff: “Argentina tiene un siglo de historia de no poder controlarse cuando hablamos de imprimir dinero”",
-          "link": "https://www.lanacion.com.ar/economia/dolar/larry-kotlikoff-argentina-tiene-un-siglo-de-historia-de-no-poder-controlarse-cuando-hablamos-de-nid23112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-23 00:01:00"
-        },
-        {
-          "titulo": "De Narváez, en avanzadas conversaciones para quedarse con Carrefour en la Argentina",
-          "link": "https://www.perfil.com/noticias/economia/de-narvaez-en-avanzadas-conversaciones-para-quedarse-con-carrefour-en-la-argentina.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-23 00:00:03"
-        },
-        {
-          "titulo": "Presupuestos municipales en la era Milei: cuánto se puede ajustar sin vaciar la caja",
-          "link": "https://www.perfil.com/noticias/cordoba/presupuestos-municipales-en-la-era-milei-cuanto-se-puede-ajustar-sin-vaciar-la-caja.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-22 22:50:00"
-        },
-        {
-          "titulo": "Caminos rurales: ante el colapso urgen cambios para su mantenimiento",
-          "link": "https://www.lanacion.com.ar/economia/campo/caminos-rurales-ante-el-colapso-urgen-cambios-para-su-mantenimiento-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 22:44:22"
-        },
-        {
-          "titulo": "¿Puede subir? Una gran cosecha de trigo y el interrogante sobre el futuro de los precios",
-          "link": "https://www.lanacion.com.ar/economia/campo/puede-subir-una-gran-cosecha-de-trigo-y-el-interrogante-sobre-el-futuro-de-los-precios-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 22:40:15"
-        },
-        {
-          "titulo": "¿Por qué los gobiernos acuerdan en materia comercial?",
-          "link": "https://www.lanacion.com.ar/economia/por-que-los-gobiernos-acuerdan-en-materia-comercial-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 19:00:00"
-        },
-        {
-          "titulo": "Caputo negó un rescate con bancos de EE.UU., pero dijo que hubo una oferta de \"ayuda adicional\"",
-          "link": "https://www.iprofesional.com/economia/442551-luis-caputo-nego-rescate-con-bancos-estados-unidos-pero-dijo-que-hubo-una-oferta-de-ayuda-adicional",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 18:18:00"
-        },
-        {
-          "titulo": "ANSES: a quiénes no se les depositará el aguinaldo de diciembre 2025",
-          "link": "https://www.minutouno.com/economia/anses-quienes-no-se-les-depositara-el-aguinaldo-diciembre-2025-n6216215",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 17:45:00"
-        },
-        {
-          "titulo": "Cuáles son los descuentos de Cuenta DNI que aplican al feriado del lunes 24 de noviembre",
-          "link": "https://www.ambito.com/economia/cuales-son-los-descuentos-cuenta-dni-que-aplican-al-feriado-del-lunes-24-noviembre-n6215681",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-22 17:00:00"
-        },
-        {
-          "titulo": "Temor en el mundo cripto tras derrumbe del Bitcoin: ¿está barato para comprar o conviene esperar?",
-          "link": "https://www.iprofesional.com/finanzas/442524-panico-en-mundo-cripto-revelan-si-bitcoin-esta-barato-para-aprovechar-y-comprar",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 16:20:00"
-        },
-        {
-          "titulo": "La reactivación oficial, rodeada de zonas grises",
-          "link": "https://www.clarin.com/economia/reactivacion-oficial-rodeada-zonas-grises_0_s9su7lves5.html",
+          "titulo": "Europa busca frenar el plan de Estados Unidos y Rusia que significa la capitulación de Ucrania",
+          "link": "https://www.clarin.com/mundo/europa-busca-frenar-plan-estados-unidos-rusia-significa-capitulacion-ucrania_0_nXlK82i1Pu.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-22 15:08:09"
+          "fecha": "2025-11-22 19:16:24"
         },
         {
-          "titulo": "Luis Caputo volvió a negar un rescate con bancos de EEUU y dijo que el Gobierno rechazó \"ayuda adicional\"",
-          "link": "https://www.ambito.com/economia/luis-caputo-volvio-negar-un-rescate-bancos-eeuu-y-dijo-que-el-gobierno-rechazo-ayuda-adicional-trump-n6216709",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-22 12:51:00"
+          "titulo": "Los líderes europeos apoyan a Zelensky y expresan sus “preocupaciones” por el plan de paz de Trump",
+          "link": "https://www.lanacion.com.ar/el-mundo/los-lideres-europeos-apoyan-a-zelensky-y-expresan-sus-preocupaciones-por-el-plan-de-paz-de-trump-nid22112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 18:45:03"
         },
         {
-          "titulo": "La fábrica de las ollas indestructibles atraviesa su peor crisis: 30 despidos y producción frenada",
-          "link": "https://www.iprofesional.com/economia/442544-fabrica-ollas-indestructibles-atraviesa-su-peor-crisis-30-despidos-y-produccion-frenada",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 12:25:00"
-        },
-        {
-          "titulo": "La explicación que Luis Caputo dio de la suspensión del rescate financiero: \"Los mercados reaccionaron favorablemente\"",
-          "link": "https://www.minutouno.com/economia/la-explicacion-que-luis-caputo-dio-la-suspension-del-rescate-financiero-los-mercados-reaccionaron-favorablemente-n6216705",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 12:25:00"
-        },
-        {
-          "titulo": "Empleada doméstica: cuánto cobra en diciembre 2025, con el último aumento del año confirmado",
-          "link": "https://www.iprofesional.com/economia/442542-empleada-domestica-cuanto-cobra-diciembre-2025-con-ultimo-aumento-ano-confirmado",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 11:24:00"
-        },
-        {
-          "titulo": "El parto con dolor en el nacimiento de una startup: cómo fue la gestación de la primera plataforma de subasta de autos",
-          "link": "https://www.clarin.com/economia/parto-dolor-nacimiento-startup-gestacion-primera-plataforma-subasta-autos_0_rBQhGBPZyt.html",
+          "titulo": "Después del ultimátum, Trump dice que no es su \"última oferta\" para Ucrania",
+          "link": "https://www.clarin.com/mundo/despues-ultimatum-trump-dice-ultima-oferta-ucrania_0_dS0LqjmV0e.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-22 10:55:07"
-        },
-        {
-          "titulo": "Informe de ATE INDEC sostiene que una familia tipo necesita dos millones de pesos para cubrir necesidades básicas",
-          "link": "https://www.minutouno.com/economia/informe-ate-indec-sostiene-que-una-familia-tipo-necesita-dos-millones-pesos-cubrir-necesidades-basicas-n6216674",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 10:47:43"
-        },
-        {
-          "titulo": "Adolescentes de entre 13 y 17 años podrán invertir en fondos de acciones, bonos y otros activos",
-          "link": "https://www.iprofesional.com/economia/442411-adolescentes-entre-13-y-17-anos-podran-invertir-en-acciones-bonos-y-otros-activos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 10:41:00"
-        },
-        {
-          "titulo": "Cuba, el destino inesperado en el desembarco de una consultora argentina",
-          "link": "https://www.clarin.com/economia/cuba-destino-inesperado-desembarco-consultora-argentina_0_SlpfqoKFBs.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 10:09:35"
-        },
-        {
-          "titulo": "Caputo negó que haya negociaciones con bancos de Estados Unidos por un rescate para Argentina",
-          "link": "https://www.iprofesional.com/index.php/economia/442509-luis-caputo-nego-que-haya-negociaciones-con-bancos-de-estados-unidos-por-rescate-para-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 09:43:00"
-        },
-        {
-          "titulo": "Nuevo acuerdo estratégico entre Argentina y Aduana de EE.UU. para comercio y tránsito de pasajeros",
-          "link": "https://www.iprofesional.com/economia/442417-nuevo-acuerdo-arca-con-aduana-de-estados-unidos-para-comercio-y-transito-pasajeros",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 09:36:00"
-        },
-        {
-          "titulo": "Aerolíneas Argentinas extiende los vuelos a Aruba hasta abril y Emirates volará todos los días a Ezeiza",
-          "link": "https://www.clarin.com/economia/aerolineas-argentinas-extiende-vuelos-aruba-abril-emirates-volara-dias-ezeiza_0_ohkXI2vUum.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 09:00:12"
-        },
-        {
-          "titulo": "Aumento en al AUH: la ANSES otorgará casi $400.000 a un grupo de beneficiarios",
-          "link": "https://www.minutouno.com/economia/aumento-al-auh-la-anses-otorgara-casi-400000-un-grupo-beneficiarios-n6216108",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-22 08:40:00"
-        },
-        {
-          "titulo": "Mercado Pago: qué datos pueden solicitarte ahora y qué pasa si no los entregás",
-          "link": "https://www.iprofesional.com/finanzas/442255-mercado-pago-que-datos-pueden-solicitarte-ahora-y-que-pasa-si-no-los-entregas",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 08:39:00"
-        },
-        {
-          "titulo": "Usuarios de Ualá: qué información pueden pedirte y cuándo deben hacerlo",
-          "link": "https://www.iprofesional.com/finanzas/442252-usuarios-de-uala-que-informacion-pueden-pedirte-y-cuando-deben-hacerlo",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 08:33:00"
-        },
-        {
-          "titulo": "Se viene un rally alcista de bonos y acciones que dejará ganancias: a cuáles subirse",
-          "link": "https://www.iprofesional.com/finanzas/442508-guru-de-la-city-anticipa-rally-alcista-con-grandes-ganancias-en-que-acciones-invertir",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-22 08:03:00"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 22 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-22-noviembre_0_kvnDqvOe6J.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 07:08:02"
+          "fecha": "2025-11-22 17:49:58"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-23",
       "fuentes": [
-        "Minuto1",
-        "Infobae",
         "La Nación",
-        "Perfil",
-        "Clarín",
-        "iProfesional",
-        "Ámbito Financiero"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -447,11 +195,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "arresto_y_situacion_20251123",
-      "tema": "Arresto y situación legal de Bolsonaro",
-      "tema_normalizado": "arresto y situacion legal de bolsonaro",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El expresidente brasileño Jair Bolsonaro fue arrestado preventivamente este sábado, 22 de noviembre, por orden del juez Alexandre de Moraes del Supremo Tribunal Federal (STF).\n*   La detención se produjo bajo la justificación de \"riesgo concreto de fuga\" y \"amenaza al orden público\", después de que Bolsonaro admitiera haber intentado manipular su tobillera electrónica.\n*   Bolsonaro, quien cumplía prisión domiciliaria desde el 4 de agosto, fue trasladado a la sede de la Policía Federal en Brasilia.\n\n🔍 **Datos clave:**\n*   **Fecha de arresto preventivo:** Sábado, 22 de noviembre.\n*   **Juez que ordenó la detención:** Alexandre de Moraes, del Supremo Tribunal Federal (STF).\n*   **Condena previa:** 27 años y 3 meses de prisión por intento de golpe de Estado (sentencia de septiembre).\n*   **Inicio de prisión domiciliaria:** 4 de agosto.\n*   **Ubicación actual:** \"Sala de Estado mayor\" en la sede de la Policía Federal en Brasilia, una celda de 12 metros cuadrados con baño privado.\n\n⚡ **Desarrollo:**\n*   La decisión de transformar la prisión domiciliaria en preventiva se basó en dos hechos: la violación de la tobillera electrónica (registrada a las 0.08 del sábado) y la convocatoria de una vigilia frente a su casa por su hijo, el senador Flávio Bolsonaro.\n*   Bolsonaro confesó ante las autoridades haber usado un soldador para tratar de romper su tobillera electrónica, alegando \"curiosidad\". El dispositivo mostraba visibles marcas de quemaduras.\n*   El juez Moraes interpretó la manipulación de la tobillera como una \"señal inequívoca de fuga\" y la manifestación de sus seguidores como un intento de \"entorpecer las acciones de fiscalización y permitir una eventual fuga\".\n*   La defensa del expresidente había pedido mantener el arresto domiciliario por razones humanitarias, citando su delicado estado de salud debido a las secuelas de una puñalada de 2018 y otros problemas médicos.\n*   La condena de 27 años fue dictada en septiembre por haber liderado una organización criminal y una trama golpista para impedir la asunción del actual presidente Luiz Inácio Lula da Silva tras las elecciones de 2022.\n*   Moraes también consideró la reciente fuga de aliados condenados, como el diputado Alexandre Ramagem, para fundamentar el riesgo de fuga.\n\n💡 **¿Por qué importa?**\n*   Este arresto preventivo marca un endurecimiento en la situación legal de Jair Bolsonaro, señalando la determinación de la justicia brasileña frente a la violación de medidas cautelares.\n*   El caso tiene un gran impacto en la política brasileña, influyendo en el debate público sobre seguridad y reconfigurando el panorama de la derecha de cara a futuras elecciones presidenciales.",
-      "cantidad_noticias": 9,
+      "tema_id": "detencion_y_caso_20251123",
+      "tema": "Detención y caso Bolsonaro en Brasil",
+      "tema_normalizado": "detencion y caso bolsonaro en brasil",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente brasileño Jair Bolsonaro fue detenido preventivamente y trasladado a una celda de la Policía Federal.\n• Esta decisión del Supremo Tribunal Federal (STF) se fundamenta en un \"riesgo de fuga\" y una \"amenaza al orden público\".\n• La detención se produjo después de que Bolsonaro, bajo arresto domiciliario, intentara romper su tobillera electrónica con un soldador.\n\n🔍 **Datos clave:**\n• **Jair Bolsonaro:** Expresidente de Brasil (2019-2022), figura prominente de la derecha.\n• **Alexandre de Moraes:** Juez del STF, relator de la causa y quien ordenó la detención preventiva.\n• **27 años:** Pena de prisión a la que fue condenado en septiembre por intento de golpe de Estado.\n• **12 metros cuadrados:** Dimensiones de su celda especial, conocida como \"sala de Estado mayor\".\n• **4 de agosto:** Fecha desde la cual cumplía prisión domiciliaria con monitoreo electrónico.\n\n⚡ **Desarrollo:**\n• Bolsonaro se encontraba bajo arresto domiciliario con una tobillera electrónica desde agosto, tras ser condenado por conspirar para impedir la asunción del actual presidente Luiz Inácio Lula da Silva.\n• La Justicia constató que manipuló el dispositivo con un soldador y que una manifestación convocada por su hijo, Flávio Bolsonaro, frente a su casa, aumentaba el riesgo de evasión.\n• Por estas razones, el juez De Moraes ordenó su traslado a una \"sala de Estado mayor\" en la sede de la Policía Federal en Brasilia, un tipo de celda con condiciones específicas para exautoridades (baño privado, cama, aire acondicionado, etc.).\n• La defensa de Bolsonaro había solicitado mantener el arresto domiciliario citando su delicado estado de salud, con secuelas de una puñalada recibida en 2018 y otros problemas médicos.\n• Es importante aclarar que esta es una prisión preventiva y no la ejecución de su condena de 27 años, cuya pena en \"régimen cerrado\" ya había sido confirmada por el STF en noviembre.\n• En un hecho relacionado, también se ordenó la prisión preventiva del diputado Alexandre Ramagem, un aliado clave de Bolsonaro y exdirector de Inteligencia, por riesgo de fuga.\n• Este suceso se enmarca en un contexto de alta tensión política en Brasil, donde la seguridad pública se ha vuelto un tema central, afectando la popularidad del gobierno de Lula.\n\n💡 **¿Por qué importa?**\n• La detención de Bolsonaro envía un fuerte mensaje sobre la independencia judicial y la aplicación de la ley a figuras políticas de alto nivel en Brasil, especialmente en casos de intento de subversión democrática.\n• Genera una reconfiguración significativa en el liderazgo de la derecha brasileña, que ahora enfrenta el desafío de buscar nuevos candidatos y estrategias para las próximas elecciones presidenciales de 2026.",
+      "cantidad_noticias": 8,
       "noticias": [
         {
           "titulo": "Con Bolsonaro preso y Lula golpeado por la seguridad, la derecha de Brasil busca su candidato para la presidencia",
@@ -464,12 +212,6 @@
           "link": "https://www.clarin.com/mundo/desesperada-maniobra-bolsonaro-quitarse-tobillera-lleva-prision-intento-abrirla-soldador_0_zIBv9K66vD.html",
           "fuente": "Clarín",
           "fecha": "2025-11-22 18:57:42"
-        },
-        {
-          "titulo": "Arrestaron a Jair Bolsonaro por “riesgo de fuga”: admitió que quiso quemar su tobillera electrónica",
-          "link": "https://www.lanacion.com.ar/el-mundo/arrestan-al-expresidente-de-brasil-jair-bolsonaro-y-lo-envian-a-la-carcel-nid22112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-22 17:35:03"
         },
         {
           "titulo": "Cómo es la \"sala de Estado mayor\", la celda donde está detenido Jair Bolsonaro",
@@ -511,47 +253,10 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-23",
       "fuentes": [
-        "Clarín",
-        "Minuto1",
         "Ámbito Financiero",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "restricciones_vuelos_a_20251123",
-      "tema": "Restricciones vuelos a Venezuela por Estados Unidos",
-      "tema_normalizado": "restricciones vuelos a venezuela por estados unidos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos emitió una advertencia a la aviación civil sobre un aumento del nivel de riesgo en el espacio aéreo de Venezuela debido a un incremento de la actividad militar.\n*   Esta alerta ha llevado a que varias aerolíneas internacionales suspendan sus vuelos hacia y desde Venezuela, impactando directamente la conectividad aérea.\n\n🔍 **Datos clave:**\n*   **Autoridad emisora:** Administración Federal de Aviación (FAA) de Estados Unidos.\n*   **Espacio aéreo afectado:** Región de Información de Vuelo (FIR) de Maiquetía (Venezuela).\n*   **Airlíneas que suspendieron:** Seis compañías: Iberia, TAP, Avianca, Caribbean Airlines, GOL y Latam.\n*   **Despliegue militar clave:** El portaaviones USS Gerald R. Ford de EE. UU. junto a una flotilla en el Caribe para operaciones antidrogas.\n\n⚡ **Desarrollo:**\n*   La advertencia de EE. UU. es un NOTAM (aviso a aviadores) que señala el \"empeoramiento de la situación de seguridad\" y el \"aumento de la actividad militar\" en Venezuela y sus alrededores.\n*   El exdirector de la Aeronáutica Civil de Colombia, Sergio París, alertó que estas medidas tienen un fuerte componente geopolítico y pueden generar un \"aislamiento aéreo\" para países vecinos como Colombia.\n*   Las aerolíneas afectadas han citado razones de seguridad para la cancelación de sus vuelos, actuando de forma independiente sin una orden ejecutiva inicial del gobierno venezolano.\n*   La presencia militar estadounidense en el Caribe, con el portaaviones Gerald Ford, ha sido calificada como una \"amenaza\" por Nicolás Maduro y generó acciones aeronavales que afectaron radares en Venezuela.\n*   Aunque la Organización de Aviación Civil Internacional (OACI) coordina operaciones en situaciones de riesgo, la influencia de EE. UU. provoca una extensión \"capilar\" de estas restricciones.\n*   Algunas aerolíneas como Copa, Air Europa, Turkish Airlines y Laser, en contraste, mantuvieron sus operaciones, mientras que otras como Wingo analizaban la situación.\n\n💡 **¿Por qué importa?**\n*   Esta situación pone en riesgo la conectividad aérea regional, con posibles efectos operativos, humanitarios y diplomáticos para países con rutas hacia Venezuela.\n*   Refleja tensiones geopolíticas en el Caribe y puede agravar el aislamiento internacional de Venezuela, afectando la movilidad de pasajeros y el transporte de mercancías.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Exdirector de la Aerocivil alerta sobre el riesgo de aislamiento aéreo para Colombia tras decisión de EE. UU. sobre Venezuela",
-          "link": "https://www.infobae.com/colombia/2025/11/23/exdirector-de-la-aerocivil-alerta-sobre-el-riesgo-de-aislamiento-aereo-para-colombia-tras-decision-de-ee-uu-sobre-venezuela/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-23 00:34:57"
-        },
-        {
-          "titulo": "Las seis aerolíneas que suspendieron sus vuelos a Venezuela tras la advertencia de EE.UU. por el aumento de actividad militar",
-          "link": "https://www.clarin.com/mundo/aerolineas-suspendieron-vuelos-venezuela-advertencia-eeuu-aumento-actividad-militar_0_I2TqwlzXsj.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 23:07:34"
-        },
-        {
-          "titulo": "Venezuela restringe los vuelos comerciales desde y hacia el país por las advertencias de Estados Unidos",
-          "link": "https://www.clarin.com/mundo/venezuela-restringe-vuelos-comerciales-pais-advertencias-estados-unidos_0_I6XMU4kWCn.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-22 18:45:55"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-23",
-      "fuentes": [
+        "La Nación",
         "Clarín",
-        "Infobae"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -559,10 +264,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "posicion_argentina_y_20251123",
-      "tema": "Posición argentina y acuerdos Cumbre G20",
-      "tema_normalizado": "posicion argentina y acuerdos cumbre g20",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina no firmó la declaración final de líderes de la Cumbre del G20, celebrada recientemente en Johannesburgo, Sudáfrica.\n• La Cancillería argentina confirmó la decisión, argumentando un \"quiebre de las reglas de consenso\" que rigen el funcionamiento del foro.\n• También citó \"diferencias sustantivas\" respecto a consideraciones geopolíticas contenidas en el documento.\n\n🔍 **Datos clave:**\n• **Evento:** Reciente Cumbre de Líderes del G20 en Johannesburgo, Sudáfrica.\n• **Representante argentino:** Canciller Pablo Quirno, liderando la delegación en ausencia del Presidente Javier Milei.\n• **Causas principales de la no firma:** Falta de consenso y desacuerdos geopolíticos.\n• **Punto de objeción:** El \"enfoque parcial\" del documento sobre el conflicto en Medio Oriente.\n\n⚡ **Desarrollo:**\n• Argentina enfatizó la importancia de preservar la regla del consenso como fundamento para la legitimidad de las decisiones del G20.\n• El Gobierno lamentó que la declaración fuera considerada aprobada sin el acuerdo de todos los miembros del foro, incluida la delegación argentina.\n• El canciller Pablo Quirno había anticipado la postura, señalando \"líneas rojas identificadas\" y preocupaciones por la forma en que se abordaban ciertos asuntos geopolíticos.\n• Argentina criticó específicamente que el documento sobre el conflicto en Medio Oriente omitía el contexto regional y las causas estructurales subyacentes.\n• En su discurso, Quirno destacó que la prosperidad global requiere \"reglas claras, disciplina fiscal y respeto a la propiedad privada\", e inversión privada para el crecimiento.\n• La declaración final, adoptada por una \"abrumadora mayoría\", llamó a la paz mundial y a proteger la cadena de suministro de minerales críticos.\n• A pesar de su discrepancia, Argentina reafirmó su pleno compromiso con el espíritu de cooperación del G20 y el diálogo constructivo.\n\n💡 **¿Por qué importa?**\n• Esta es la primera vez en la historia del G20 que un documento final no es suscripto por todos sus miembros, sentando un precedente significativo.\n• La postura argentina resalta las tensiones geopolíticas y la complejidad de alcanzar acuerdos unánimes en foros internacionales, subrayando el valor del consenso.",
+      "tema_id": "postura_de_argentina_20251123",
+      "tema": "Postura de Argentina frente al G20",
+      "tema_normalizado": "postura de argentina frente al g20",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina no firmó la declaración final de la Cumbre de Líderes del G20 en Johannesburgo, Sudáfrica.\n• La Cancillería justificó la decisión por un \"quiebre de las reglas de consenso\" y \"diferencias sustantivas\" geopolíticas.\n• Es la primera vez en la historia del G20 que su documento final no cuenta con la firma consensuada de todos los miembros.\n\n🔍 **Datos clave:**\n• **Evento:** Cumbre de Líderes del G20 en Johannesburgo, Sudáfrica.\n• **Representante argentino:** El canciller Pablo Quirno, quien encabezó la delegación en ausencia del presidente Javier Milei.\n• **Motivo principal:** Preservar la regla del consenso como fundamento de la legitimidad de las decisiones del foro.\n• **Punto de conflicto geopolítico:** El enfoque del documento sobre el conflicto en Medio Oriente.\n\n⚡ **Desarrollo:**\n• Argentina lamentó que se diera por aprobada una declaración sin el consenso de todos los miembros, lo que considera una omisión a una norma central del G20.\n• El país criticó el enfoque \"parcial\" del texto sobre el conflicto en Medio Oriente, al omitir el contexto regional y las causas estructurales subyacentes.\n• El canciller Quirno había anticipado la postura argentina en el plenario, marcando \"líneas rojas identificadas\" sobre ciertos asuntos geopolíticos.\n• Quirno enfatizó que el crecimiento económico y la estabilidad global requieren \"reglas claras, disciplina fiscal y respeto a la propiedad privada\".\n• La postura argentina, según un medio, se alineó con la de Estados Unidos, que también había rechazado algunos puntos de borradores previos.\n• La decisión del presidente Milei de no asistir a la cumbre ya había señalado una diferenciación en la política exterior argentina.\n\n💡 **¿Por qué importa?**\n• La no adhesión de Argentina pone en cuestión la validez del principio de consenso del G20, fundamental para su funcionamiento y legitimidad.\n• Demuestra la voluntad de Argentina de adoptar una postura diplomática independiente en la escena global, especialmente en temas geopolíticos sensibles.\n• Este precedente podría influir en futuras negociaciones dentro del foro, evidenciando que la falta de unanimidad puede llevar a declaraciones sin un respaldo total.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -593,10 +298,391 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-23",
       "fuentes": [
-        "Perfil",
-        "Minuto1",
         "Ámbito Financiero",
-        "Clarín"
+        "Perfil",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "macroeconomia_y_rescate_20251123",
+      "tema": "Macroeconomía y rescate financiero Argentina",
+      "tema_normalizado": "macroeconomia y rescate financiero argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro de Economía, Luis Caputo, desmintió enfáticamente la existencia de un \"rescate\" de USD 20.000 millones por parte de bancos privados de Estados Unidos, calificando las versiones como una \"operación\" para generar confusión.\n• Caputo aclaró que ese monto correspondía a una operación de \"manejo de pasivos\" o una oferta de \"ayuda adicional\" de la administración de Donald Trump, la cual fue rechazada por la \"reacción favorable\" de los mercados post-electorales.\n\n🔍 **Datos clave:**\n• **USD 20.000 millones:** Monto del supuesto \"rescate\" o plan de manejo de pasivos.\n• **Luis Caputo:** Ministro de Economía de Argentina.\n• **The Wall Street Journal (WSJ):** Medio que publicó la noticia inicial sobre el \"rescate\" fallido.\n• **9 de enero:** Fecha del vencimiento de USD 4.300 millones de capital e intereses de bonos en dólares.\n• **USD 5.000 millones:** Préstamo \"repo\" de corto plazo que se evalúa como alternativa para cubrir vencimientos.\n• **Riesgo País:** Superó los 600 puntos y llegó a 663 tras la difusión de las versiones, impactando el ánimo inversor.\n• **USD -16.000 millones:** Tenencias netas negativas del Banco Central de Argentina (según metodología FMI).\n\n⚡ **Desarrollo:**\n• Previamente, se había difundido que un paquete de USD 20.000 millones del Tesoro de EE.UU. y otros USD 20.000 millones de bancos privados buscaban apuntalar al gobierno argentino.\n• El Ministro Caputo había mencionado en octubre una \"facilidad por USD 20.000 millones\", lo que alimentó las expectativas de un gran apoyo externo.\n• La versión oficial actual es que, tras las elecciones, los mercados reaccionaron favorablemente, por lo que el Gobierno optó por no activar esa \"ayuda adicional\" de EE.UU., buscando dar una señal de autoconfianza.\n• Para afrontar el vencimiento de USD 4.300 millones de enero, la opción más clara es un nuevo \"repo\" (financiamiento con garantía de bonos) con bancos internacionales, habiendo ya obtenido USD 3.000 millones en 2025.\n• Argentina enfrenta el desafío de acumular reservas internacionales y reducir el riesgo país para recuperar el acceso a los mercados voluntarios de deuda, cerrados desde 2018.\n• El FMI, por su parte, se prepara para otorgar un nuevo \"perdón\" (waiver) a Argentina, reconociendo las dificultades del país para cumplir con algunas metas.\n• Economistas como Larry Kotlikoff critican un \"siglo de terribles errores económicos\" en Argentina, destacando la necesidad de reformas de fondo en política fiscal, monetaria y cambiaria.\n\n💡 **¿Por qué importa?**\n• La gestión del endeudamiento y la acumulación de reservas son esenciales para la estabilidad económica y la confianza de los inversores en Argentina.\n• La narrativa sobre el financiamiento internacional impacta directamente en el riesgo país y la capacidad del Gobierno para implementar su plan económico a largo plazo.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "El mercado espera más claridad sobre cómo se acumularán reservas y el riesgo país no logra aún perforar los 600 puntos",
+          "link": "https://www.infobae.com/economia/2025/11/23/el-mercado-espera-mas-claridad-sobre-como-se-acumularan-reservas-y-el-riesgo-pais-no-logra-aun-perforar-los-600-puntos/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:51:34"
+        },
+        {
+          "titulo": "Clima de Negocios: Volvieron las dudas por las reservas mientras el FMI se resigna y ya prepara un nuevo “perdón” para el país",
+          "link": "https://www.infobae.com/economia/2025/11/23/clima-de-negocios-volvieron-las-dudas-por-las-reservas-mientras-el-fmi-se-resigna-y-ya-prepara-un-nuevo-perdon-para-el-pais/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:42:43"
+        },
+        {
+          "titulo": "Larry Kotlikoff: “Argentina tiene un siglo de historia de no poder controlarse cuando hablamos de imprimir dinero”",
+          "link": "https://www.lanacion.com.ar/economia/dolar/larry-kotlikoff-argentina-tiene-un-siglo-de-historia-de-no-poder-controlarse-cuando-hablamos-de-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 00:01:00"
+        },
+        {
+          "titulo": "Caputo negó un rescate con bancos de EE.UU., pero dijo que hubo una oferta de \"ayuda adicional\"",
+          "link": "https://www.iprofesional.com/economia/442551-luis-caputo-nego-rescate-con-bancos-estados-unidos-pero-dijo-que-hubo-una-oferta-de-ayuda-adicional",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 18:18:00"
+        },
+        {
+          "titulo": "Luis Caputo volvió a negar un rescate con bancos de EEUU y dijo que el Gobierno rechazó \"ayuda adicional\"",
+          "link": "https://www.ambito.com/economia/luis-caputo-volvio-negar-un-rescate-bancos-eeuu-y-dijo-que-el-gobierno-rechazo-ayuda-adicional-trump-n6216709",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-22 12:51:00"
+        },
+        {
+          "titulo": "La explicación que Luis Caputo dio de la suspensión del rescate financiero: \"Los mercados reaccionaron favorablemente\"",
+          "link": "https://www.minutouno.com/economia/la-explicacion-que-luis-caputo-dio-la-suspension-del-rescate-financiero-los-mercados-reaccionaron-favorablemente-n6216705",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 12:25:00"
+        },
+        {
+          "titulo": "Caputo negó que haya negociaciones con bancos de Estados Unidos por un rescate para Argentina",
+          "link": "https://www.iprofesional.com/economia/442509-luis-caputo-nego-que-haya-negociaciones-con-bancos-de-estados-unidos-por-rescate-para-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 09:43:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "Infobae",
+        "La Nación",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "advertencias_de_eeuu_20251123",
+      "tema": "Advertencias de EEUU y vuelos a Venezuela",
+      "tema_normalizado": "advertencias de eeuu y vuelos a venezuela",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos ha emitido una advertencia a la aviación civil global sobre un aumento del nivel de riesgo en el espacio aéreo de Venezuela, citando un incremento de la actividad militar en la región.\n*   Esta alerta de la FAA ha provocado que seis aerolíneas internacionales suspendan sus vuelos hacia y desde Venezuela, mientras EE. UU. intensifica su despliegue militar en el Caribe.\n\n🔍 **Datos clave:**\n*   **Autoridad emisora:** Administración Federal de Aviación (FAA) de Estados Unidos.\n*   **Espacio afectado:** Región de Información de Vuelo (FIR) de Maiquetía (SVZM FIR), que corresponde al espacio aéreo de Venezuela.\n*   **Aerolíneas suspendidas (6):** Iberia (España), TAP (Portugal), Avianca (Colombia), Caribbean Airlines (Trinidad y Tobago), GOL (Brasil) y Latam (Chile).\n*   **Portaaviones clave:** USS Gerald R. Ford, el portaaviones más grande del mundo, desplegado en el Caribe como parte de las operaciones estadounidenses.\n*   **Fecha de despliegue del Gerald R. Ford:** Llegó al Caribe el 16 de noviembre (en el contexto de la intensificación militar).\n\n⚡ **Desarrollo:**\n*   La advertencia de la FAA es un \"NOTAM\" (aviso a los aviadores) formal, que alerta sobre el \"empeoramiento de la situación de seguridad y el aumento de la actividad militar\" en Venezuela y sus alrededores.\n*   Estados Unidos ha desplegado el portaaviones Gerald R. Ford junto a una flotilla de buques y aviones de combate F-35 en el Caribe, con la presunta intención de combatir el narcotráfico y aumentar la presión sobre el gobierno de Nicolás Maduro.\n*   El exdirector de la Aeronáutica Civil de Colombia, Sergio París, advirtió que esta medida podría generar un \"aislamiento aéreo\" para Colombia y la región, afectando la conectividad, los flujos humanitarios y la estabilidad en las fronteras.\n*   Las aerolíneas han tomado la decisión de cancelar o reprogramar sus vuelos de manera autónoma, basándose en la advertencia de seguridad internacional y buscando garantizar la protección de pasajeros y tripulación.\n*   Las operaciones militares estadounidenses en la zona han incluido acciones aeronavales y bombardeos de embarcaciones, lo que ha afectado sistemas de radares en Venezuela y exacerbado la situación.\n*   El Instituto Nacional de Aeronáutica Civil (INAC) de Venezuela, por su parte, no ha emitido ningún comunicado oficial al respecto, dejando a las compañías aéreas la responsabilidad de sus decisiones operativas.\n\n💡 **¿Por qué importa?**\n*   Esta situación no solo interrumpe los viajes y el comercio aéreo con Venezuela, sino que también resalta una escalada de tensiones y operaciones militares estadounidenses en la región.\n*   Podría generar un precedente geopolítico significativo, afectando la conectividad aérea de países vecinos como Colombia y reconfigurando las rutas aéreas internacionales, con consecuencias económicas y humanitarias.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Exdirector de la Aerocivil alerta sobre el riesgo de aislamiento aéreo para Colombia tras decisión de EE. UU. sobre Venezuela",
+          "link": "https://www.infobae.com/colombia/2025/11/23/exdirector-de-la-aerocivil-alerta-sobre-el-riesgo-de-aislamiento-aereo-para-colombia-tras-decision-de-ee-uu-sobre-venezuela/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:34:57"
+        },
+        {
+          "titulo": "Las seis aerolíneas que suspendieron sus vuelos a Venezuela tras la advertencia de EE.UU. por el aumento de actividad militar",
+          "link": "https://www.clarin.com/mundo/aerolineas-suspendieron-vuelos-venezuela-advertencia-eeuu-aumento-actividad-militar_0_I2TqwlzXsj.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-22 23:07:34"
+        },
+        {
+          "titulo": "Trump prepara una nueva fase de operaciones militares en su estrategia de presión sobre Maduro",
+          "link": "https://www.lanacion.com.ar/el-mundo/trump-prepara-una-nueva-fase-de-operaciones-militares-en-su-estrategia-de-presion-sobre-maduro-nid22112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 22:13:42"
+        },
+        {
+          "titulo": "Venezuela restringe los vuelos comerciales desde y hacia el país por las advertencias de Estados Unidos",
+          "link": "https://www.clarin.com/mundo/venezuela-restringe-vuelos-comerciales-pais-advertencias-estados-unidos_0_I6XMU4kWCn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-22 18:45:55"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "Clarín",
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tragedias_y_sismos_20251123",
+      "tema": "Tragedias y sismos en México",
+      "tema_normalizado": "tragedias y sismos en mexico",
+      "resumen": "📌 **¿Qué está pasando?**\n• México ha sido escenario de reciente actividad sísmica y una grave tragedia vial.\n• Un sismo de 4.1 de magnitud ocurrió en Oaxaca sin reportes de daños, mientras que un accidente de colectivo en Michoacán causó la muerte de siete personas.\n• Estos eventos resaltan la constante necesidad de preparación y respuesta ante desastres en el país.\n\n🔍 **Datos clave:**\n• **Sismo en Oaxaca:** Magnitud 4.1, registrado el 22 de noviembre a las 21:41 horas, en Unión Hidalgo, Oaxaca.\n• **Accidente en Michoacán:** 7 muertos y 20 heridos (6 graves), ocurrido un sábado en la carretera Morelia-Pátzcuaro.\n• **Sismos históricos:** Los de 1985 y 2017 son ejemplos de grandes movimientos telúricos recordados en el país.\n• **Recomendaciones clave:** Protección Civil enfatiza simulacros, mochila de emergencia y medidas de seguridad específicas durante un temblor.\n\n⚡ **Desarrollo:**\n• El sismo de 4.1 en Oaxaca se localizó a 47 km al sureste de Unión Hidalgo, con una profundidad de 98.3 km, y no generó daños reportados.\n• México, al estar en una zona tectónica activa, experimenta decenas de sismos diarios, la mayoría de baja magnitud e imperceptibles; los sismos no son predecibles.\n• La intensidad de los sismos varía por factores como el tipo de suelo, la distancia al epicentro y la atenuación sísmica. El país cuenta con el SSN y la Red Acelerográfica Nacional para su monitoreo.\n• La tragedia en Michoacán fue el vuelco de un colectivo que transportaba turistas de Uruapan a Tlalpujahua. Las causas del accidente están bajo investigación por la Fiscalía.\n• Autoridades como el Gobernador Alfredo Ramírez Bedolla y Protección Civil coordinaron la atención de los 20 heridos y el traslado a hospitales en Morelia.\n• Ante un sismo, es fundamental mantener la calma, buscar zonas de seguridad (bajo marcos de puertas, junto a muros de carga) y, al finalizar, cortar gas y electricidad, según Protección Civil.\n\n💡 **¿Por qué importa?**\n• La combinación de la actividad sísmica constante y tragedias como el accidente vial subraya la vulnerabilidad de México ante diversos desastres.\n• Es crucial que la población esté informada y preparada con protocolos de seguridad actualizados para proteger vidas y reducir los impactos.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Temblor hoy en México: noticias de la actividad sísmica este domingo 23 de noviembre de 2025",
+          "link": "https://www.infobae.com/mexico/2025/11/23/temblor-hoy-en-mexico-noticias-de-la-actividad-sismica-este-domingo-23-de-noviembre-de-2025/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 03:02:59"
+        },
+        {
+          "titulo": "Temblor en Oaxaca hoy: se registra sismo de 4.1 de magnitud en Unión Hidalgo",
+          "link": "https://www.infobae.com/mexico/2025/11/23/temblor-en-oaxaca-hoy-se-registra-sismo-de-41-de-magnitud-en-union-hidalgo/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 01:15:34"
+        },
+        {
+          "titulo": "Tragedia en México: siete muertos y 20 heridos por el vuelco de un colectivo",
+          "link": "https://www.clarin.com/mundo/tragedia-mexico-muertos-20-heridos-vuelco-colectivo_0_1kqWAZ3EvX.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-22 21:06:40"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "loterias_y_sorteos_20251123",
+      "tema": "Loterías y sorteos en Latinoamérica",
+      "tema_normalizado": "loterias y sorteos en latinoamerica",
+      "resumen": "📌 **¿Qué está pasando?**\n• Loterías y sorteos como Powerball, Chispazo, Tris, Sinuano, Super Astro y Melate Retro continúan siendo una tradición popular en Latinoamérica, ofreciendo la posibilidad de ganar premios millonarios.\n• Recientemente, el 22 de noviembre de 2025, se dieron a conocer los resultados de múltiples sorteos en México, Colombia y Estados Unidos, atrayendo a millones de participantes.\n\n🔍 **Datos clave:**\n• **Fecha de referencia:** 22 de noviembre de 2025 para varios sorteos.\n• **Loterías destacadas:** Powerball (EE. UU.), Chispazo (México), Tris (México), Sinuano (Colombia), Super Astro (Colombia), Melate Retro (México).\n• **Premios:** Van desde los 4 dólares o pesos hasta miles de millones de dólares o pesos, como los 2.040 millones de Powerball en un récord de 2022.\n• **Reclamo de premios:** Plazos varían de 60 días (México) a 1 año (Colombia, algunos en EE. UU.).\n• **Costos de participación:** Desde 2 dólares (Powerball) o 10 pesos (Chispazo, Melate Retro).\n\n⚡ **Desarrollo:**\n• Las loterías operan con diversas mecánicas, generalmente implicando la selección de números (ej. 5 de 69 y 1 de 26 para Powerball, o 4 cifras y un signo zodiacal para Super Astro).\n• La participación no siempre requiere ciudadanía local; por ejemplo, para Powerball, solo se necesita la edad legal en la jurisdicción de compra.\n• Los premios se entregan en moneda nacional y, en algunos casos como Powerball, se puede elegir entre un pago único en efectivo o una anualidad de 29 años.\n• Es crucial conservar el boleto original, ya que es el comprobante oficial para cobrar el premio, y se aplica retención de impuestos según la legislación local.\n• Muchas loterías realizan múltiples sorteos al día o a la semana, como Tris (cinco veces al día) o Chispazo (dos veces al día), aumentando las oportunidades de juego.\n• Parte de las ganancias de estas loterías se destina a causas sociales o asistencia pública, como el 35% de las entradas de Powerball.\n• Existen diversas estrategias entre los jugadores para intentar aumentar sus chances, como jugar en grupo o analizar patrones de números anteriores, aunque el azar sigue siendo el factor principal.\n\n💡 **¿Por qué importa?**\n• Las loterías y sorteos representan una fuente de ilusión y la posibilidad de un cambio de vida para millones de personas en la región.\n• Contribuyen significativamente a la financiación de programas de asistencia social y obras públicas, impactando positivamente en la comunidad.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Resultados de Powerball: todos los números ganadores del 22 de noviembre de 2025",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/23/resultados-de-powerball-todos-los-numeros-ganadores-del-22-de-noviembre-de-2025/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 02:30:51"
+        },
+        {
+          "titulo": "Resultados del sorteo de Chispazo: ¿Quiénes son los nuevos millonarios?",
+          "link": "https://www.infobae.com/mexico/2025/11/23/resultados-del-sorteo-de-chispazo-quienes-son-los-nuevos-millonarios/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 02:30:32"
+        },
+        {
+          "titulo": "Resultados del Tris: ganadores y números premiados de hoy 22 de noviembre",
+          "link": "https://www.infobae.com/mexico/2025/11/23/resultados-del-tris-ganadores-y-numeros-premiados-de-hoy-22-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 01:15:54"
+        },
+        {
+          "titulo": "Sinuano Noche: revise los resultados del último sorteo del sábado 22 de noviembre",
+          "link": "https://www.infobae.com/colombia/2025/11/23/sinuano-noche-revise-los-resultados-del-ultimo-sorteo-del-sabado-22-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 01:15:27"
+        },
+        {
+          "titulo": "Super Astro Sol y Luna resultados 22 de noviembre de 2025",
+          "link": "https://www.infobae.com/colombia/2025/11/22/super-astro-sol-resultados-22-de-noviembre-de-2025/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:57:03"
+        },
+        {
+          "titulo": "Melate Retro: resultados del sorteo 1584 de sábado este 22 de noviembre",
+          "link": "https://www.infobae.com/mexico/2025/11/23/melate-retro-resultados-del-sorteo-1584-de-sabado-este-22-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:35:49"
+        },
+        {
+          "titulo": "Resultados de la lotería Powerball de este sábado 22 de noviembre: a cuánto asciende el pozo en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/loterias/resultados-de-la-loteria-powerball-de-este-sabado-22-de-noviembre-a-cuanto-asciende-el-pozo-en-eeuu-nid22112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 22:59:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "La Nación",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caso_calvete:_bailarinas_20251123",
+      "tema": "Caso Calvete: bailarinas y explotación sexual",
+      "tema_normalizado": "caso calvete: bailarinas y explotacion sexual",
+      "resumen": "📌 **¿Qué está pasando?**\n• Miguel Ángel Calvete, figura con conexiones en el poder, fue condenado por la explotación sexual de mujeres, quienes ejercían la prostitución en departamentos bajo su control.\n• El caso reveló un sistema organizado de sometimiento y lucro, que operaba bajo la fachada de eventos sociales y \"bailarinas de caño\".\n• Esta trama de explotación, aunque decisiva en lo judicial, fue inicialmente opacada por acusaciones de corrupción en la Agencia Nacional de Discapacidad (ANDIS).\n\n🔍 **Datos clave:**\n• **Condena principal:** 4 años de prisión.\n• **Delito:** Facilitación de la prostitución.\n• **Condenados:** Miguel Ángel Calvete, su hermano Alejandro Calvete y Ramiro Martín Rius.\n• **Tribunal:** Tribunal Oral N.º 5, que emitió la sentencia en 2019.\n• **Mecanismo de explotación:** Alquileres de departamentos aumentados hasta un 180% anualizado, más un 10% mensual de comisión.\n• **Inmuebles decomisados:** Dos propiedades utilizadas como prostíbulos.\n• **Inicio de investigación:** 2014, a partir de denuncias de explotación sexual.\n\n⚡ **Desarrollo:**\n• Miguel Ángel Calvete era conocido como operador político y empresario, pero detrás de su imagen pública, la Justicia probó que organizaba una red de explotación sexual.\n• La organización asignaba a las víctimas departamentos donde vivían y ejercían la prostitución, imponiendo condiciones económicas abusivas que generaban dependencia y endeudamiento.\n• La casona de Defensa 1364, sede de \"negocios y ocio\" con fiestas y pole dance, funcionaba como un centro que encubría y facilitaba la operación de esta red.\n• Las mujeres, algunas referidas como \"bailarinas\", estaban insertas en un ecosistema donde la organización definía las reglas, sin tener autonomía sobre su situación.\n• La fiscalía y los jueces confirmaron, a través de escuchas y testimonios, que los hermanos Calvete se beneficiaban directamente de los pagos y del control sobre las mujeres.\n• La Cámara de Casación rechazó el recurso de Calvete, confirmando la condena y sentenciando que \"hubo estructura, hubo lucro y hubo sometimiento\".\n• Calvete fue recientemente detenido (en octubre) en el marco de la investigación por la causa ANDIS y se encuentra en el Hospital Penitenciario Central de Ezeiza.\n\n💡 **¿Por qué importa?**\n• El caso Calvete visibiliza la compleja red de explotación sexual que puede operar bajo fachadas de legalidad y entretenimiento, a menudo vinculada a esferas de poder.\n• Destaca la labor judicial en desmantelar estructuras de sometimiento y proteger a las víctimas, poniendo de manifiesto la necesidad de reconocer y combatir este tipo de crímenes.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El lado B del caso Calvete: bailarinas, departamentos y explotación sexual",
+          "link": "https://www.perfil.com/noticias/politica/el-lado-b-del-caso-calvete-bailarinas-departamentos-y-explotacion-sexual.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 02:56:06"
+        },
+        {
+          "titulo": "Los días en el Hospital de Ezeiza de Calvete y la foto que causó sorpresa",
+          "link": "https://www.lanacion.com.ar/politica/los-dias-en-el-hospital-de-ezeiza-de-calvete-y-la-foto-que-causo-sorpresa-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-22 19:00:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "economia_argentina:_mercados,_20251123",
+      "tema": "Economía Argentina: mercados, finanzas y consumo",
+      "tema_normalizado": "economia argentina: mercados, finanzas y consumo",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina está buscando una mayor integración económica global, con nuevos acuerdos comerciales y un enfoque en mercados estratégicos para atraer inversiones.\n*   Internamente, el país observa una evolución significativa en los mercados financieros, el consumo y la adaptación a nuevas regulaciones y tecnologías, con un énfasis en la estabilidad y la inclusión financiera.\n\n🔍 **Datos clave:**\n*   **Acuerdo Marco EEUU:** Se firmó un \"Acuerdo Marco\" con Estados Unidos para comercio e inversiones recíprocas, buscando equilibrar el intercambio bilateral.\n*   **Crédito No Bancario:** Alcanza a 11.2 millones de personas, con un crecimiento del 84% en el monto prestado y una morosidad que se duplicó al 16%.\n*   **Fondos de Inversión:** Los activos bajo administración marcaron un récord de $75.5 billones en noviembre, creciendo un 33% en el año.\n*   **Límites ARCA (Mercado Pago/Ualá):** El tope mensual de transferencias y saldo sin justificación se unificó en $50.000.000 para personas físicas.\n*   **Salario Familia Tipo (ATE INDEC):** En octubre de 2025, una familia tipo necesitó $2.027.283 para cubrir sus necesidades básicas.\n*   **AUH/Empleadas Domésticas (diciembre 2025):** La AUH alcanza casi $400.000 y las empleadas domésticas reciben un aumento del 1.3% más un bono de $14.000.\n\n⚡ **Desarrollo:**\n*   Argentina profundiza su apertura económica con el \"Acuerdo Marco\" con Estados Unidos, enfocado en comercio e inversiones, y busca modernizar su aduana para agilizar el intercambio.\n*   Estados Unidos ha manifestado objeciones a las prácticas comerciales de China, como subsidios y violación de propiedad intelectual, influyendo en la agenda bilateral con Argentina.\n*   La demanda de infraestructuras digitales es creciente, con la necesidad de inversiones en centros de datos para Inteligencia Artificial, que requieren alta capacidad energética y refrigeración.\n*   El mercado de crédito no bancario, impulsado por las fintech, muestra un crecimiento significativo en usuarios y montos, pero enfrenta un aumento de la morosidad al 16%.\n*   Los fondos de inversión registran récords, con un interés marcado en estrategias de corto plazo y cobertura contra la inflación (CER), mientras los fondos Dólar Linked experimentan egresos post-electorales.\n*   La Comisión Nacional de Valores (CNV) habilitó a adolescentes (13-17 años) a invertir en un rango más amplio de fondos, incluyendo acciones y bonos, para promover la educación financiera.\n*   En el sector de consumo, Francisco de Narváez negocia la adquisición de Carrefour Argentina, lo que consolidaría su presencia en el mercado minorista, manejando cerca del 29%.\n*   Los presupuestos municipales se ajustan a un clima de austeridad, buscando reducir gastos y modernizar la gestión, aunque enfrentan desafíos para mantener servicios esenciales.\n*   La ANSES actualizó montos de la AUH y anunció el último aumento y bono para empleadas domésticas en diciembre 2025, pero aclaró que el seguro de desempleo no incluye aguinaldo.\n*   Las billeteras virtuales como Mercado Pago y Ualá implementan controles de ARCA, solicitando justificación de fondos ante movimientos que superen los nuevos topes mensuales de $50.000.000.\n\n💡 **¿Por qué importa?**\n*   Estos movimientos delinean el rumbo económico de Argentina, mostrando una reorientación hacia mercados globales y una adaptación a las demandas tecnológicas y financieras.\n*   Los cambios en regulaciones, créditos, inversiones y consumo impactan directamente en la capacidad de ahorro, el poder adquisitivo y la inclusión financiera de la población.",
+      "cantidad_noticias": 20,
+      "noticias": [
+        {
+          "titulo": "Marcela Cristini, economista de FIEL: “El tratado con EEUU plantea desafíos de competitividad y modernización para las empresas”",
+          "link": "https://www.infobae.com/economia/2025/11/23/marcela-cristini-economista-de-fiel-el-tratado-con-eeuu-plantea-desafios-de-competitividad-y-modernizacion-para-las-empresas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:56:52"
+        },
+        {
+          "titulo": "Argentina frente al desafío de los centros de datos para Inteligencia Artificial: inversiones, energía y futuro digital",
+          "link": "https://www.infobae.com/economia/2025/11/23/argentina-frente-al-desafio-de-los-centros-de-datos-para-inteligencia-artificial-inversiones-energia-y-futuro-digital/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:53:44"
+        },
+        {
+          "titulo": "Subsidios, trabajo forzado y violación  de propiedad intelectual: las objeciones de EEUU al comercio de Argentina con China",
+          "link": "https://www.infobae.com/economia/2025/11/23/subsidios-trabajo-forzado-y-violacion-de-propiedad-intelectual-las-objeciones-de-eeuu-al-comercio-de-argentina-con-china/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:51:51"
+        },
+        {
+          "titulo": "El crédito no bancario cubre a más de 11 millones de personas y su morosidad se disparó al 16 por ciento",
+          "link": "https://www.infobae.com/economia/2025/11/23/el-credito-no-bancario-cubre-a-mas-de-11-millones-de-personas-y-su-morosidad-se-disparo-al-16-por-ciento/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-23 00:35:41"
+        },
+        {
+          "titulo": "La industria de fondos sigue marcando récords",
+          "link": "https://www.lanacion.com.ar/economia/la-industria-de-fondos-sigue-marcando-records-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 00:01:00"
+        },
+        {
+          "titulo": "El nuevo escenario financiero: cómo ven los analistas la economía que viene y dónde aconsejan invertir",
+          "link": "https://www.lanacion.com.ar/economia/el-nuevo-escenario-financiero-como-ven-los-analistas-la-economia-que-viene-y-donde-aconsejan-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 00:01:00"
+        },
+        {
+          "titulo": "De Narváez, en avanzadas conversaciones para quedarse con Carrefour en la Argentina",
+          "link": "https://www.perfil.com/noticias/economia/de-narvaez-en-avanzadas-conversaciones-para-quedarse-con-carrefour-en-la-argentina.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 00:00:03"
+        },
+        {
+          "titulo": "Presupuestos municipales en la era Milei: cuánto se puede ajustar sin vaciar la caja",
+          "link": "https://www.perfil.com/noticias/cordoba/presupuestos-municipales-en-la-era-milei-cuanto-se-puede-ajustar-sin-vaciar-la-caja.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-22 22:50:00"
+        },
+        {
+          "titulo": "ANSES: a quiénes no se les depositará el aguinaldo de diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-quienes-no-se-les-depositara-el-aguinaldo-diciembre-2025-n6216215",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 17:45:00"
+        },
+        {
+          "titulo": "Cuáles son los descuentos de Cuenta DNI que aplican al feriado del lunes 24 de noviembre",
+          "link": "https://www.ambito.com/economia/cuales-son-los-descuentos-cuenta-dni-que-aplican-al-feriado-del-lunes-24-noviembre-n6215681",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-22 17:00:00"
+        },
+        {
+          "titulo": "Temor en el mundo cripto tras derrumbe del Bitcoin: ¿está barato para comprar o conviene esperar?",
+          "link": "https://www.iprofesional.com/finanzas/442524-panico-en-mundo-cripto-revelan-si-bitcoin-esta-barato-para-aprovechar-y-comprar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 16:20:00"
+        },
+        {
+          "titulo": "Empleada doméstica: cuánto cobra en diciembre 2025, con el último aumento del año confirmado",
+          "link": "https://www.iprofesional.com/economia/442542-empleada-domestica-cuanto-cobra-diciembre-2025-con-ultimo-aumento-ano-confirmado",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 11:24:00"
+        },
+        {
+          "titulo": "Informe de ATE INDEC sostiene que una familia tipo necesita dos millones de pesos para cubrir necesidades básicas",
+          "link": "https://www.minutouno.com/economia/informe-ate-indec-sostiene-que-una-familia-tipo-necesita-dos-millones-pesos-cubrir-necesidades-basicas-n6216674",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 10:47:43"
+        },
+        {
+          "titulo": "Adolescentes de entre 13 y 17 años podrán invertir en fondos de acciones, bonos y otros activos",
+          "link": "https://www.iprofesional.com/economia/442411-adolescentes-entre-13-y-17-anos-podran-invertir-en-acciones-bonos-y-otros-activos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 10:41:00"
+        },
+        {
+          "titulo": "Nuevo acuerdo estratégico entre Argentina y Aduana de EE.UU. para comercio y tránsito de pasajeros",
+          "link": "https://www.iprofesional.com/economia/442417-nuevo-acuerdo-arca-con-aduana-de-estados-unidos-para-comercio-y-transito-pasajeros",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 09:36:00"
+        },
+        {
+          "titulo": "Aerolíneas Argentinas extiende los vuelos a Aruba hasta abril y Emirates volará todos los días a Ezeiza",
+          "link": "https://www.clarin.com/economia/aerolineas-argentinas-extiende-vuelos-aruba-abril-emirates-volara-dias-ezeiza_0_ohkXI2vUum.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-22 09:00:12"
+        },
+        {
+          "titulo": "Aumento en al AUH: la ANSES otorgará casi $400.000 a un grupo de beneficiarios",
+          "link": "https://www.minutouno.com/economia/aumento-al-auh-la-anses-otorgara-casi-400000-un-grupo-beneficiarios-n6216108",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-22 08:40:00"
+        },
+        {
+          "titulo": "Mercado Pago: qué datos pueden solicitarte ahora y qué pasa si no los entregás",
+          "link": "https://www.iprofesional.com/finanzas/442255-mercado-pago-que-datos-pueden-solicitarte-ahora-y-que-pasa-si-no-los-entregas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 08:39:00"
+        },
+        {
+          "titulo": "Usuarios de Ualá: qué información pueden pedirte y cuándo deben hacerlo",
+          "link": "https://www.iprofesional.com/finanzas/442252-usuarios-de-uala-que-informacion-pueden-pedirte-y-cuando-deben-hacerlo",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 08:33:00"
+        },
+        {
+          "titulo": "Se viene un rally alcista de bonos y acciones que dejará ganancias: a cuáles subirse",
+          "link": "https://www.iprofesional.com/finanzas/442508-guru-de-la-city-anticipa-rally-alcista-con-grandes-ganancias-en-que-acciones-invertir",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-22 08:03:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-23",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "Clarín",
+        "Minuto1",
+        "Infobae",
+        "La Nación",
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
