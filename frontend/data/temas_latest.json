@@ -1,6 +1,471 @@
 {
-  "fecha": "2025-11-23",
-  "fecha_generacion": "2025-11-24T00:57:43.389243",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-24",
+  "fecha_generacion": "2025-11-24T04:02:00.987074",
+  "total_temas": 8,
+  "temas": [
+    {
+      "tema_id": "cristina_kirchner:_declaraciones_20251124",
+      "tema": "Cristina Kirchner: declaraciones y causas judiciales",
+      "tema_normalizado": "cristina kirchner: declaraciones y causas judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La expresidenta Cristina Kirchner, bajo prisión domiciliaria por la causa Vialidad, emitió audios en un reciente encuentro de mujeres donde reflexionó sobre la \"libertad\" en Argentina y criticó la situación económica del país.\n*   Paralelamente, la justicia avanza con el decomiso de sus propiedades y otras incautaciones relacionadas con sus causas judiciales.\n\n🔍 **Datos clave:**\n*   **38° Encuentro Plurinacional de Mujeres:** Evento en Corrientes donde se reprodujo el audio de Cristina Kirchner.\n*   **San José 1111:** Domicilio en Constitución donde cumple su condena de prisión.\n*   **20 propiedades decomisadas:** Cantidad inicial de bienes de Cristina Kirchner bajo proceso de incautación.\n*   **$685.000 millones:** Monto del perjuicio al Estado fijado en la causa Vialidad.\n*   **60 empresarios:** Involucrados en el juicio de la Causa Cuadernos, algunos la señalaron como conocedora del esquema.\n*   **Abril de 2004 - Diciembre de 2015:** Periodo clave para la evaluación de bienes ilícitos en la causa Vialidad.\n\n⚡ **Desarrollo:**\n*   Desde su domicilio, Cristina Kirchner participó con un mensaje de audio en el Encuentro Plurinacional de Mujeres, bajo la consigna \"Cristina Libre\", calificando su detención de \"injusta\".\n*   En sus declaraciones, la expresidenta redefinió la \"libertad\" como la capacidad de decidir la propia vida dignamente, no solo como la ausencia de cadenas, y afirmó que millones de argentinos están privados de ella por la situación económica.\n*   Expresó que su \"privación de libertad y proscripción\" es una \"metáfora perfecta y disciplinadora\" de un país con posibilidades de desarrollo \"liquidadas\".\n*   El Tribunal Oral Federal 2 (TOF 2) ordenó el decomiso de 20 propiedades de Cristina Kirchner, buscando restituir bienes obtenidos ilícitamente al Estado por la causa Vialidad.\n*   El fiscal Diego Luciani trabaja en un segundo pedido de incautaciones, evaluando incluso el decomiso del departamento donde cumple arresto domiciliario, propiedad de Los Sauces SA.\n*   La condena en la causa Vialidad se relaciona con una \"maniobra defraudatoria\" de $685.000 millones que involucró 51 licitaciones viales irregulares a Lázaro Báez.\n*   En la Causa Cuadernos, numerosos empresarios \"arrepentidos\" han implicado a Cristina Kirchner como conocedora y destinataria final de un sistema de sobornos desde el Ministerio de Planificación Federal.\n*   Recientemente, la justicia estableció nuevas restricciones a sus visitas domiciliarias, limitándolas a dos veces por semana y un máximo de tres personas por dos horas.\n\n💡 **¿Por qué importa?**\n*   La situación judicial de Cristina Kirchner, con causas en curso y condenas que implican decomiso de bienes, sigue siendo un tema central en la agenda política y judicial argentina.\n*   Sus declaraciones públicas buscan vincular su condición personal con una crítica más amplia a la situación económica y social del país, generando un debate sobre el concepto de \"libertad\" en la sociedad actual.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Cristina Kirchner participó del Encuentro Plurinacional de Mujeres con un audio: “Hoy vivimos la libertad para la desesperación”",
+          "link": "https://www.perfil.com/noticias/politica/cristina-kirchner-participo-del-encuentro-plurinacional-de-mujeres-con-un-audio-hoy-vivimos-la-libertad-para-la-desesperacion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 23:59:00"
+        },
+        {
+          "titulo": "Cristina Kirchner: \"Que yo esté privada de mi libertad es la metáfora perfecta y disciplinadora de Argentina\"",
+          "link": "https://www.ambito.com/politica/cristina-kirchner-que-yo-este-privada-mi-libertad-es-la-metafora-perfecta-y-disciplinadora-argentina-n6216956",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 21:31:53"
+        },
+        {
+          "titulo": "Tras el decomiso de 20 propiedades de Cristina Kirchner, el fiscal Luciani trabaja en más incautaciones",
+          "link": "https://www.clarin.com/politica/decomiso-20-propiedades-cristina-kirchner-fiscal-luciani-trabaja-incautaciones_0_fSdqHdwhQE.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 21:25:02"
+        },
+        {
+          "titulo": "El audio de Cristina Kirchner en un acto en Corrientes: \"La Argentina está liquidada\"",
+          "link": "https://www.minutouno.com/politica/el-audio-cristina-kirchner-un-acto-corrientes-la-argentina-esta-liquidada-n6216952",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-23 20:39:42"
+        },
+        {
+          "titulo": "\"Libertad para la tristeza\", Cristina Kirchner volvió a aparecer en un audio que envió al Encuentro Nacional de Mujeres en Corrientes",
+          "link": "https://www.clarin.com/politica/libertad-tristeza-cristina-kirchner-volvio-aparecer-audio-envio-encuentro-nacional-mujeres-corrientes_0_qoPNKeJn8J.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 19:44:38"
+        },
+        {
+          "titulo": "Causa Cuadernos: también los empresarios involucraron a Cristina Kirchner en un circuito de aprietes y las coimas millonarias",
+          "link": "https://www.clarin.com/politica/causa-cuadernos-empresarios-involucraron-cristina-kirchner-circuito-aprietes-coimas-millonarias_0_9ezuatGoEO.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 18:44:08"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "bolsonaro:_incidentes_con_20251124",
+      "tema": "Bolsonaro: incidentes con tobillera electrónica",
+      "tema_normalizado": "bolsonaro: incidentes con tobillera electronica",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente brasileño Jair Bolsonaro fue detenido preventivamente tras admitir haber manipulado y quemado su tobillera electrónica.\n• El incidente ocurrió mientras cumplía arresto domiciliario en Brasilia, lo que el Supremo Tribunal Federal (STF) consideró un indicio de intento de fuga.\n• Bolsonaro argumentó que actuó por un \"episodio de paranoia\" y \"alucinaciones\" provocado por la interacción de medicamentos.\n\n🔍 **Datos clave:**\n• **Jair Bolsonaro**: Expresidente de Brasil (2019-2022).\n• **Soldador**: Herramienta que Bolsonaro confesó haber usado para manipular la tobillera.\n• **Alexandre de Moraes**: Juez del STF que ordenó la prisión preventiva.\n• **Viernes/Sábado**: El incidente de manipulación ocurrió la madrugada del viernes, y la detención preventiva fue el sábado.\n• **27 años**: Condena previa de Bolsonaro por intento de golpe de Estado, aún no efectiva.\n\n⚡ **Desarrollo:**\n• El episodio salió a la luz cuando la tobillera de Bolsonaro activó una alarma en la madrugada del viernes, revelando \"daños claros y significativos\" y marcas de quemaduras.\n• Bolsonaro declaró que sospechaba que el dispositivo pudiera contener un sistema de escucha, lo que lo llevó a intentar abrirlo con un soldador.\n• También afirmó que lo hizo \"por curiosidad\" y que \"recuperó la razón\" cerca de la medianoche, tras un \"brote de paranoia\" causado por nuevos medicamentos.\n• El juez De Moraes interpretó la manipulación como un intento de fuga, especialmente ante la movilización de seguidores cerca de su residencia.\n• Tras la orden judicial, Bolsonaro fue trasladado a una sala especial en la Policía Federal de Brasilia, equipada con comodidades como cama, baño y aire acondicionado.\n• La Justicia deberá decidir si el expresidente continuará en esta sala o será trasladado a una cárcel común.\n• El caso se suma a la situación de otros aliados de Bolsonaro, como el exdirector de Inteligencia Alexandre Ramagem, también detenido por riesgo de fuga.\n\n💡 **¿Por qué importa?**\n• Este incidente agrava la situación judicial de Jair Bolsonaro, quien ya enfrenta múltiples causas y una condena por intentar un golpe de Estado.\n• Cuestiona seriamente la capacidad de las autoridades para asegurar el cumplimiento de medidas cautelares en figuras de alto perfil.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Jair Bolsonaro admitió haber quemado su tobillera electrónica por un \"episodio de paranoia\"",
+          "link": "https://www.ambito.com/mundo/jair-bolsonaro-admitio-haber-quemado-su-tobillera-electronica-su-arresto-domiciliario-n6216802",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 22:21:00"
+        },
+        {
+          "titulo": "Jair Bolsonaro atribuye a “paranoia” y “alucinaciones” el intento de destruir su tobillera electrónica",
+          "link": "https://www.lanacion.com.ar/el-mundo/jair-bolsonaro-atribuye-a-paranoia-y-alucinaciones-el-intento-de-destruir-su-tobillera-electronica-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 21:05:15"
+        },
+        {
+          "titulo": "Jair Bolsonaro dijo que intentó quemar su tobillera electrónica en un brote de \"paranoia\" por ingesta de medicamentos",
+          "link": "https://www.clarin.com/mundo/jair-bolsonaro-dijo-intento-quemar-tobillera-electronica-brote-paranoia-ingesta-medicamentos_0_ZbOow7OSXS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 14:56:29"
+        },
+        {
+          "titulo": "Jair Bolsonaro confirmó en un video que intentó romper la tobillera electrónica \"por curiosidad\"",
+          "link": "https://www.minutouno.com/mundo/jair-bolsonaro-confirmo-un-video-que-intento-romper-la-tobillera-electronica-por-curiosidad-n6216874",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-23 14:30:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflictos_internacionales:_ucrania,_20251124",
+      "tema": "Conflictos internacionales: Ucrania, Venezuela, Rusia",
+      "tema_normalizado": "conflictos internacionales: ucrania, venezuela, rusia",
+      "resumen": "📌 **¿Qué está pasando?**\n*   En Ucrania, las delegaciones de Estados Unidos y Kiev avanzaron en Ginebra hacia un \"marco de paz actualizado\" para poner fin al conflicto con Rusia, aunque el plan original de Donald Trump generó fuertes críticas y preocupación en Europa.\n*   En Venezuela, la situación se encuentra en un punto de máxima tensión debido a un ultimátum de Estados Unidos para calificar al \"Cartel de los Soles\" como organización terrorista, lo que podría habilitar acciones militares y ha provocado la cancelación de vuelos internacionales.\n\n🔍 **Datos clave:**\n*   **Plan de Paz:** Propuesta inicial de 28 puntos de Donald Trump, criticada por Ucrania por incluir demandas como la reducción del ejército y la cesión de territorio.\n*   **Acuerdo en Ginebra:** Estados Unidos y Ucrania lograron un \"marco de paz actualizado y perfeccionado\" que busca respetar la soberanía ucraniana.\n*   **Ultimátum a Venezuela:** Este lunes es la fecha límite para que EE.UU. eleve la calificación del \"Cartel de los Soles\" a organización terrorista internacional.\n*   **Despliegue militar en Caribe:** Incluye el portaaviones USS Gerald Ford y la segunda fase de operaciones \"Lanza del Sur\".\n*   **Vuelos cancelados:** Seis aerolíneas internacionales (Iberia, TAP, Avianca, Caribbean, GOL y Latam) suspendieron rutas a Venezuela.\n*   **Actividad naval rusa:** Ha aumentado un 30% en los últimos dos años, con recientes interceptaciones de buques rusos en el Canal de la Mancha por la marina británica.\n*   **Conflicto en Ucrania:** Acumula 33 meses desde la invasión, con la capital, Kiev, registrando 1926 alarmas antiaéreas.\n\n⚡ **Desarrollo:**\n*   El presidente Donald Trump ha criticado duramente al liderazgo ucraniano por su \"total falta de gratitud\" y a Europa por seguir comprando petróleo ruso mientras Washington proporciona ayuda militar.\n*   La iniciativa original de Trump para la paz en Ucrania fue vista por muchos ucranianos como una \"capitulación\" ante Rusia, ya que implicaba ceder territorio y renunciar a la adhesión a la OTAN.\n*   A pesar de las críticas, las conversaciones en Ginebra resultaron en un \"marco de paz actualizado\", buscando un acuerdo que sea justo y sostenible para Ucrania.\n*   Líderes europeos, como el presidente español Pedro Sánchez, han solicitado una revisión \"en profundidad\" del plan de Trump para asegurar que Ucrania y la Unión Europea estén plenamente representadas en las negociaciones.\n*   En Venezuela, la Administración Federal de Aviación de EE.UU. (FAA) emitió una advertencia por el \"aumento de la actividad militar\" y las interferencias en sistemas de navegación (GNSS) en la región.\n*   Estados Unidos acusa al presidente Nicolás Maduro de ser el cabecilla del \"Cartel de los Soles\", una red de narcotráfico que Washington busca legitimar para acciones militares directas.\n*   El presidente colombiano Gustavo Petro, aunque no apoya a Maduro, ha rechazado una posible invasión estadounidense, proponiendo una solución política y pacífica con un \"gobierno de transición compartido\".\n*   Paralelamente, la tensión global se refleja en el aumento de la actividad naval rusa, con el Reino Unido interceptando buques y denunciando tácticas peligrosas como el uso de láseres contra aviones de vigilancia.\n\n💡 **¿Por qué importa?**\n*   Estos conflictos demuestran la fragilidad de la paz internacional y el impacto de las tensiones geopolíticas en la soberanía de las naciones, la seguridad regional y la vida de millones de personas.\n*   Las negociaciones y ultimátums en Ucrania y Venezuela, junto con la creciente actividad militar de Rusia, subrayan la compleja reconfiguración de las alianzas globales y los riesgos de escalada.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "Plan de paz: EEUU y Ucrania acordaron un marco \"actualizado\" con las exigencias de Kiev",
+          "link": "https://www.ambito.com/mundo/plan-paz-eeuu-y-ucrania-acordaron-un-marco-actualizado-las-exigencias-kiev-n6216972",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 23:43:41"
+        },
+        {
+          "titulo": "Trump retoma sus ataques a Zelensky mientras avanza en Ginebra un plan de paz que inquieta a Europa",
+          "link": "https://www.lanacion.com.ar/el-mundo/trump-retoma-sus-ataques-a-zelensky-mientras-avanza-en-ginebra-un-plan-de-paz-que-inquieta-a-europa-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 20:36:25"
+        },
+        {
+          "titulo": "Vence un ultimátum y la dictadura chavista entra en estado de tensión extrema",
+          "link": "https://www.lanacion.com.ar/el-mundo/vence-un-ultimatum-y-la-dictadura-chavista-entra-en-estado-de-tension-extrema-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 20:27:29"
+        },
+        {
+          "titulo": "“Suena como una capitulación”: en Kiev, el plan de Trump irrita a los ucranianos, que se resisten a claudicar ante Putin",
+          "link": "https://www.lanacion.com.ar/el-mundo/suena-como-una-capitulacion-en-kiev-el-plan-de-trump-irrita-a-los-ucranianos-que-se-resisten-a-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 19:59:44"
+        },
+        {
+          "titulo": "Tensión entre Estados Unidos y Venezuela: Gustavo Petro dice que no apoya a Nicolás Maduro, pero tampoco una invasión norteamericana",
+          "link": "https://www.clarin.com/mundo/tension-estados-unidos-venezuela-gustavo-petro-dice-apoya-nicolas-maduro-invasion-norteamericana_0_hBmLKSVPKY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 19:46:26"
+        },
+        {
+          "titulo": "La marina británica interceptó una corbeta y un petrolero rusos en el Canal de la Mancha, en medio de una fuerte actividad naval de Moscú",
+          "link": "https://www.clarin.com/mundo/marina-britanica-intercepto-corbeta-petrolero-rusos-canal-mancha-medio-fuerte-actividad-naval-moscu_0_ALN6KWYsjE.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 16:57:59"
+        },
+        {
+          "titulo": "Donald Trump critica a Ucrania por su \"total falta de gratitud\" mientras negocia su plan de pazcon Rusia",
+          "link": "https://www.ambito.com/mundo/donald-trump-critica-ucrania-su-total-falta-gratitud-mientras-negocia-su-plan-pazcon-rusia-n6216890",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 16:17:55"
+        },
+        {
+          "titulo": "Seis aerolíneas cancelaron vuelos a Venezuela tras una advertencia de EEUU por un aumento actividad militar",
+          "link": "https://www.ambito.com/mundo/seis-aerolineas-cancelaron-vuelos-venezuela-una-advertencia-eeuu-un-aumento-actividad-militar-n6216865",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 13:02:00"
+        },
+        {
+          "titulo": "Pedro Sánchez solicitó una revisión \"en profundidad\" de la propuesta de paz de Donald Trump para Ucrania",
+          "link": "https://www.ambito.com/mundo/pedro-sanchez-solicito-una-revision-en-profundidad-la-propuesta-paz-donald-trump-ucrania-n6216860",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 12:43:46"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "ataques_israel_contra_20251124",
+      "tema": "Ataques Israel contra Hezbollah en Beirut",
+      "tema_normalizado": "ataques israel contra hezbollah en beirut",
+      "resumen": "📌 **¿Qué está pasando?**\n• Israel ejecutó un ataque aéreo en Haret Hreik, un suburbio del sur de Beirut, siendo el primer bombardeo en la capital libanesa en meses.\n• El objetivo del ataque fue Haytham Ali Tabtabai, identificado como el jefe de Estado Mayor de Hezbollah, cuya eliminación resultó en al menos 5 muertos y 25 heridos.\n• Israel justificó la acción afirmando que buscaba impedir que Hezbollah reconstruya su capacidad militar tras la guerra de 2023-2024.\n\n🔍 **Datos clave:**\n• **Haytham Ali Tabtabai:** Líder de Hezbollah, \"cerebro operativo\" y jefe de Estado Mayor, designado terrorista internacional por EE.UU. en 2016 con una recompensa de $5 millones.\n• **5 muertos y 25 heridos:** Bajas reportadas por el Ministerio de Salud libanés tras el bombardeo en el apartamento residencial.\n• **Haret Hreik:** Zona residencial densamente poblada en el sur de Beirut, bastión de Hezbollah, donde ocurrió el ataque.\n• **27 de noviembre de 2024:** Fecha del alto el fuego que puso fin a 13 meses de combates transfronterizos, y que se menciona como \"hace casi un año\" respecto al ataque.\n• **331 muertos y 945 heridos:** Cifras de víctimas en Líbano atribuidas a ataques y violaciones israelíes desde el 27 de noviembre de 2024.\n\n⚡ **Desarrollo:**\n• El ataque es el primero contra Beirut en meses, y se da en un contexto de intensificación de bombardeos israelíes en el sur del Líbano, pese a que el gobierno libanés niega la reconstrucción militar de Hezbollah.\n• Tabtabai había logrado un ascenso significativo en Hezbollah, asumiendo responsabilidades clave y la jefatura del Estado Mayor tras la eliminación de otros comandantes de alto rango, como Ibrahim Aqil, por Israel.\n• El primer ministro israelí, Benjamin Netanyahu, confirmó el ataque y reafirmó la determinación de Israel de prevenir amenazas y evitar que Hezbollah restablezca su capacidad.\n• El presidente libanés, Joseph Aoun, condenó el bombardeo, acusándolo de incumplir el acuerdo de alto el fuego y pidiendo la intervención de la comunidad internacional.\n• Fuentes estadounidenses indicaron que Israel no informó a Washington con antelación sobre el ataque, aunque EE.UU. tenía conocimiento de los planes israelíes para intensificar las operaciones.\n\n💡 **¿Por qué importa?**\n• Este ataque, al dirigirse a un líder de alto perfil y romper meses de relativa calma en la capital, amenaza con reavivar un nuevo ciclo de violencia y desestabilizar la región.\n• La eliminación de Tabtabai representa un golpe significativo para la capacidad de Hezbollah de reorganizar y reconstruir su estructura militar, que ha sido severamente afectada por los previos bombardeos israelíes.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Haytham Ali Tabtabai: el estratega silencioso que ascendió en las sombras de Hezbollah",
+          "link": "https://www.lanacion.com.ar/el-mundo/haytham-ali-tabtabai-el-estratega-silencioso-que-ascendio-en-las-sombras-de-hezbollah-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 17:03:10"
+        },
+        {
+          "titulo": "Israel ejecutó el primer ataque aéreo en meses contra Beirut: apuntó al jefe de Estado Mayor de Hezbollah",
+          "link": "https://www.ambito.com/mundo/israel-ejecuto-el-primer-ataque-aereo-meses-contra-beirut-apunto-al-jefe-estado-mayor-hezbollah-n6216884",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 15:23:02"
+        },
+        {
+          "titulo": "Israel afirma que mató al jefe de Estado Mayor de Hezbollah en un ataque en Beirut",
+          "link": "https://www.clarin.com/mundo/israel-afirma-mato-jefe-estado-mayor-hezbollah-ataque-beirut_0_eHsaUt4FVf.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 14:16:05"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_de_defensa_20251124",
+      "tema": "Política de Defensa Argentina: nombramientos y Milei",
+      "tema_normalizado": "politica de defensa argentina: nombramientos y milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Teniente General Carlos Alberto Presti, jefe del Estado Mayor General del Ejército, fue designado por Javier Milei como nuevo Ministro de Defensa.\n• Esta decisión rompe una tradición de 40 años de conducción civil en el ministerio desde el retorno a la democracia en 1983.\n• La designación generó un amplio debate sobre el rol de los militares en la política y el control civil de las Fuerzas Armadas.\n\n🔍 **Datos clave:**\n• **Carlos Alberto Presti:** Teniente General, actual Jefe del Estado Mayor General del Ejército, nombrado Ministro de Defensa.\n• **Luis Petri:** Ministro de Defensa saliente, asumirá como diputado nacional el 10 de diciembre.\n• **1983:** Desde la recuperación democrática, el Ministerio de Defensa fue siempre liderado por civiles hasta esta designación.\n• **Agustín Rossi:** Exministro de Defensa del kirchnerismo, crítico de la designación por considerarla un \"enorme retroceso\".\n• **César Milani:** Exjefe del Ejército durante el kirchnerismo, defendió la elección de un militar pero cuestionó el perfil ideológico de Presti.\n\n⚡ **Desarrollo:**\n• El gobierno de Javier Milei, a través de esta designación, busca \"revalorizar\" a las Fuerzas Armadas y terminar con la \"demonización\" de los militares.\n• Sectores progresistas, organizaciones de derechos humanos y Agustín Rossi cuestionaron el nombramiento, calificándolo de \"retroceso institucional\" y alertando sobre las implicancias para el control civil.\n• Rossi planteó la preocupación de si el nuevo ministro representará al Presidente ante las Fuerzas o a las Fuerzas ante el Presidente.\n• César Milani argumentó que no es un retroceso, sino una decisión que el peronismo debió tomar hace décadas para integrar las FF.AA. a un proyecto nacional.\n• Sin embargo, Milani se mostró disconforme con Presti, afirmando que responde al \"ala liberal\" del gobierno y a una doctrina \"entreguista\".\n• Luis Petri, el ministro saliente, celebró la decisión como \"acertada\" y un \"cambio de paradigma\", destacando que ya había designado militares retirados en su secretaría.\n• Desde el gobierno, se presenta la decisión como una forma de devolverles a los militares \"lo que merecen: una oportunidad\", destacando su alta confianza social y profesionalismo.\n• Esta política se alinea con la visión de Milei de romper esquemas y fortalecer lazos estratégicos con potencias como Estados Unidos.\n\n💡 **¿Por qué importa?**\n• La ruptura de 40 años de tradición de conducción civil en Defensa marca un giro significativo en la política de seguridad y defensa de Argentina, generando un debate profundo sobre la relación entre el poder político y militar.\n• Esta decisión consolida la visión del gobierno de Javier Milei de \"revalorizar\" a las Fuerzas Armadas, lo que podría redefinir su rol, doctrina y presupuesto en el contexto geopolítico actual.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Milani defendió el nombramiento de Presti y cargó contra Rossi: \"Retroceso fue el resultado electoral de 2023\"",
+          "link": "https://www.perfil.com/noticias/politica/milani-defendio-el-nombramiento-de-presti-y-cargo-contra-rossi-retroceso-fue-el-resultado-electoral-de-2023.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 23:47:00"
+        },
+        {
+          "titulo": "La designación de un militar en Defensa despierta otra interna en el PJ: ahora César Milani apuntó contra Agustín Rossi",
+          "link": "https://www.clarin.com/politica/designacion-militar-defensa-despierta-interna-pj-ahora-cesar-milani-apunto-agustin-rossi_0_OfKZ3SBELW.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 20:41:16"
+        },
+        {
+          "titulo": "El presidente Milei le devuelve a los militares lo que merecen: una oportunidad",
+          "link": "https://www.clarin.com/opinion/presidente-milei-devuelve-militares-merecen-oportunidad_0_LUXxxTR7SZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 19:54:47"
+        },
+        {
+          "titulo": "Luis Petri sostuvo que la designación de Carlos Presti “es acertada y marca un cambio de paradigma en Defensa”",
+          "link": "https://www.perfil.com/noticias/politica/luis-petri-sostuvo-que-la-designacion-de-carlos-presti-es-acertada-y-marca-un-cambio-de-paradigma-en-defensa.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 16:55:00"
+        },
+        {
+          "titulo": "Desafíos de la era Javier Milei: la llegada de un cisne verde al ministerio de Defensa",
+          "link": "https://www.ambito.com/politica/desafios-la-era-javier-milei-la-llegada-un-cisne-verde-al-ministerio-defensa-n6216897",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 16:32:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "economia_argentina:_politicas_20251124",
+      "tema": "Economía Argentina: políticas y proyecciones",
+      "tema_normalizado": "economia argentina: politicas y proyecciones",
+      "resumen": "📌 **¿Qué está pasando?**\n• La economía argentina se encuentra en un punto de inflexión, con el Gobierno impulsando privatizaciones, reformas estructurales y buscando financiamiento externo para estabilizar las finanzas.\n• Mientras tanto, la población enfrenta una alta inflación y un creciente endeudamiento, impactando el consumo y la rentabilidad del sector bancario.\n\n🔍 **Datos clave:**\n• **Privatización AySA:** 90% del paquete accionario en licitación para el primer trimestre de 2026.\n• **Endeudamiento Moroso:** Los argentinos deben en promedio $5,6 millones (a julio), con una morosidad familiar del 7,3%.\n• **Crédito Internacional:** Negociación con bancos de EE.UU. por un préstamo que no superaría los US$5.000 millones.\n• **Riesgo País:** Se mantiene por encima de los 600 puntos, lejos del rango de 400-550 necesario para el retorno al mercado de deuda.\n• **Inflación de Noviembre:** Proyectada entre 2,3% y 2,5%, similar o superior a la de octubre.\n• **Jubilados (Diciembre 2025):** La jubilación mínima, con bono de $70.000 y aguinaldo, alcanzaría aproximadamente $580.000.\n\n⚡ **Desarrollo:**\n• El Gobierno avanza con una agenda reformista que incluye la privatización de AySA, empresa que generó déficits por US$14.100 millones entre 2006 y 2023, y promueve una menor intervención estatal con la premisa de que \"la mejor política industrial es la que no existe\".\n• La búsqueda de financiamiento externo se ve complicada por la reticencia de bancos estadounidenses y un riesgo país elevado, aunque la Ciudad de Buenos Aires logró colocar deuda por US$600 millones a una tasa del 7,8%.\n• El sistema financiero enfrenta una rentabilidad en rojo y una alarmante morosidad, especialmente en préstamos personales no bancarios (20%) y compras financiadas de electrodomésticos (27%). El BCRA bajó la tasa de interés de referencia del 22% al 20% para impulsar el crédito.\n• El sector financiero reclama una reforma tributaria, criticando la \"mamushka impositiva\" de Ingresos Brutos (con alícuotas de hasta 9%) que consideran distorsiva, mientras el Gobierno investiga a bancos y otras empresas por supuestas pérdidas infladas en $100.000 millones.\n• Pese a la suba generalizada de precios, el consumo interno de carne vacuna creció un 4,4% en octubre de 2025 (vs. 2024). Sin embargo, sectores como el turismo y la gastronomía sufren una \"inflación en dólares\", con el bife de chorizo un 133% más caro y una caída del 20% en comensales.\n• En materia laboral, el Gobierno impulsa una reforma que permitiría convenios por empresa, salarios en pesos, dólares o euros, y la creación de un fondo de cese laboral obligatorio. ANSES, por su parte, adelantó el aguinaldo y un bono de $70.000 para jubilados en diciembre de 2025, y mantiene la prestación por desempleo hasta $322.200.\n• El conflicto por fondos de coparticipación entre la Ciudad y la Nación continúa, con CABA reclamando una deuda que asciende a US$6.000 millones.\n\n💡 **¿Por qué importa?**\n• Estas decisiones económicas y políticas definirán la estabilidad y el crecimiento del país, impactando directamente en la inversión, el empleo y la inflación, así como en la capacidad de Argentina para insertarse en los mercados globales.\n• La combinación de desafíos internos y la necesidad de financiamiento externo subraya la urgencia de encontrar soluciones sostenibles para la economía argentina y sus ciudadanos.",
+      "cantidad_noticias": 18,
+      "noticias": [
+        {
+          "titulo": "El Gobierno tiene todo preparado para privatizar AySA en el verano",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-tiene-todo-preparado-para-privatizar-aysa-en-el-verano-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 22:50:00"
+        },
+        {
+          "titulo": "Alarmante suba de la tasa de morosidad: los argentinos deben $5,6 millones en promedio a bancos y billeteras",
+          "link": "https://www.minutouno.com/economia/alarmante-suba-la-tasa-morosidad-los-argentinos-deben-56-millones-promedio-bancos-y-billeteras-n6216962",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-23 21:57:00"
+        },
+        {
+          "titulo": "Orlando Ferrere, sobre el préstamo con bancos estadounidenses: \"No va a ser de más de u$s5.000 millones\"",
+          "link": "https://www.ambito.com/economia/orlando-ferrere-el-prestamo-bancos-estadounidenses-no-va-ser-mas-us5000-millones-n6216954",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 21:31:56"
+        },
+        {
+          "titulo": "Contrapunto con Techint: un funcionario de Caputo dijo que \"la mejor política industrial es la que no existe\"",
+          "link": "https://www.clarin.com/economia/contrapunto-techint-funcionario-caputo-dijo-mejor-politica-industrial-existe_0_CtxrrzBDF0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 21:23:33"
+        },
+        {
+          "titulo": "Prevén que la inflación de noviembre sería igual o superior que la octubre",
+          "link": "https://www.lanacion.com.ar/economia/preven-que-la-inflacion-de-noviembre-seria-igual-o-superior-que-la-octubre-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 20:57:14"
+        },
+        {
+          "titulo": "Cuándo pagan el aguinaldo a jubilados y pensionados de ANSES en diciembre 2025",
+          "link": "https://www.iprofesional.com/impuestos/442347-cuando-pagan-aguinaldo-a-jubilados-y-pensionados-anses-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-23 20:18:00"
+        },
+        {
+          "titulo": "Bancos de inversión y analistas anticipan un pronto retorno de la Nación al mercado de deuda",
+          "link": "https://www.lanacion.com.ar/economia/bancos-de-inversion-y-analistas-anticipan-un-pronto-retorno-de-la-nacion-al-mercado-de-deuda-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 20:10:27"
+        },
+        {
+          "titulo": "Por dudas sobre las reservas y los compromisos con la deuda, la baja del riesgo país se frenó en los últimos 20 días",
+          "link": "https://www.clarin.com/economia/dudas-reservas-compromisos-deuda-baja-riesgo-pais-freno-ultimos-20-dias_0_IGkBvJgSqc.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 20:06:47"
+        },
+        {
+          "titulo": "Temporada de balances: los bancos llegan con la rentabilidad en rojo y la mora en el nivel más alto en años",
+          "link": "https://www.clarin.com/economia/temporada-balances-bancos-llegan-rentabilidad-rojo-mora-nivel-alto-anos_0_4B3qhRAwF9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 19:58:46"
+        },
+        {
+          "titulo": "La \"mamushka impositiva\" que afecta a bancos y fintechs: qué cambios urgentes reclaman en la reforma tributaria",
+          "link": "https://www.ambito.com/finanzas/la-mamushka-impositiva-que-afecta-bancos-y-fintechs-que-cambios-urgentes-reclaman-la-reforma-tributaria-n6215999",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 19:52:31"
+        },
+        {
+          "titulo": "ANSES: cómo serán los calendarios de pago del 2026",
+          "link": "https://www.minutouno.com/economia/anses-como-seran-los-calendarios-pago-del-2026-n6216220",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-23 18:38:00"
+        },
+        {
+          "titulo": "ANSES activa un bono de $300.000 antes de fin de mes: fechas, montos y condiciones",
+          "link": "https://www.perfil.com/noticias/economia/anses-activa-un-bono-de-300000-antes-de-fin-de-mes-fechas-montos-y-condiciones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-23 18:05:00"
+        },
+        {
+          "titulo": "Pese al aumento de precios, creció el consumo interno de carne",
+          "link": "https://www.ambito.com/economia/pese-al-aumento-precios-crecio-el-consumo-interno-carne-n6216905",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 17:47:54"
+        },
+        {
+          "titulo": "La pelea Ciudad-Nación: reclamo de fondo por US$ 6.000 millones y la deuda que se inició en la gestión de Luis Caputo",
+          "link": "https://www.clarin.com/politica/pelea-ciudad-nacion-reclamo-fondo-us-6000-millones-deuda-inicio-gestion-luis-caputo_0_5O6zE55fzc.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 17:18:27"
+        },
+        {
+          "titulo": "El Gobierno investiga a bancos, bingos y energéticas, y los acusa de inflar pérdidas por $100.000 millones",
+          "link": "https://www.clarin.com/economia/gobierno-investiga-bancos-bingos-energeticas-acusa-inflar-perdidas-100000-millones_0_0q1TcvA1dm.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 13:45:39"
+        },
+        {
+          "titulo": "Financial Times advierte crisis por alta inflación en dólares en Argentina",
+          "link": "https://www.iprofesional.com/economia/442561-mas-pizza-y-menos-carne-financial-times-advierte-alta-inflacion-dolares-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-23 13:23:00"
+        },
+        {
+          "titulo": "Crédito y desarrollo: por primera vez, todos los bancos del país se reúnen a debatir sobre tecnología e innovación",
+          "link": "https://www.ambito.com/economia/credito-y-desarrollo-primera-vez-todos-los-bancos-del-pais-se-reunen-debatir-tecnologia-e-innovacion-n6216833",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 12:10:00"
+        },
+        {
+          "titulo": "Sueldo en euros o dólares, el cambio clave que se viene con la reforma laboral",
+          "link": "https://www.iprofesional.com/politica/442559-sueldo-en-euros-o-dolares-cambio-clave-que-se-viene-con-reforma-laboral",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-23 11:49:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil",
+        "iProfesional",
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "clan_kennedy:_salud_20251124",
+      "tema": "Clan Kennedy: salud y legado familiar",
+      "tema_normalizado": "clan kennedy: salud y legado familiar",
+      "resumen": "📌 **¿Qué está pasando?**\n• Tatiana Schlossberg, nieta de John F. Kennedy, ha revelado que padece leucemia mieloide aguda, un cáncer de sangre agresivo diagnosticado en mayo de 2024.\n• Este nuevo y grave problema de salud se suma a la larga cadena de tragedias que han marcado al clan Kennedy, conocidas popularmente como la \"Maldición Kennedy\".\n• Su testimonio, publicado en un ensayo, expone no solo su lucha personal, sino también tensiones familiares y críticas al sistema de salud.\n\n🔍 **Datos clave:**\n• **Tatiana Schlossberg:** 35 años, nieta de JFK, diagnosticada con leucemia mieloide aguda (AML) \"Inversión 3\".\n• **Mayo de 2024:** Fecha del diagnóstico de Tatiana, el mismo día del nacimiento de su segundo hijo.\n• **1963:** Asesinato de John F. Kennedy (JFK), 35º presidente de EE. UU., a los 46 años.\n• **1968:** Asesinato de Robert F. Kennedy (RFK), hermano de JFK, a los 42 años.\n• **1999:** Muerte de John F. Kennedy Jr. (JFK Jr.), hijo de JFK, en un accidente aéreo a los 38 años.\n• **Robert F. Kennedy Jr.:** Primo de Tatiana, criticado por sus posturas y políticas en salud.\n\n⚡ **Desarrollo:**\n• Tatiana Schlossberg, periodista ambiental, fue diagnosticada con la enfermedad de forma inesperada tras un análisis rutinario después del parto de su segunda hija.\n• Desde entonces, ha enfrentado múltiples tratamientos, incluyendo varias rondas de quimioterapia y dos trasplantes de médula ósea; uno de ellos con células madre donadas por su hermana, Rose Schlossberg.\n• Expresó su temor de que sus hijos pequeños no la recuerden y la frustración por no poder seguir viviendo la vida que tenía.\n• La historia del clan Kennedy incluye otras desgracias como la lobotomía fallida de Rosemary Kennedy en 1941, que la dejó con graves discapacidades.\n• Ted Kennedy, otro hermano, estuvo involucrado en un fatal accidente automovilístico en 1969 y posteriormente falleció a los 77 años de un tumor cerebral.\n• El ensayo de Tatiana, que también arremete contra las decisiones políticas de su primo Robert F. Kennedy Jr. en el ámbito de la salud, fue publicado coincidiendo con el 62º aniversario del asesinato de su abuelo JFK.\n\n💡 **¿Por qué importa?**\n• La noticia de la enfermedad de Tatiana Schlossberg pone de relieve, una vez más, el persistente \"legado de la tragedia\" que envuelve a la prominente familia Kennedy.\n• Su testimonio personal no solo humaniza la lucha contra una enfermedad devastadora, sino que también reabre el debate sobre las dinámicas internas de poder y las políticas de salud pública en Estados Unidos.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El clan Kennedy, la dinastía política más poderosa de Estados Unidos marcada por la desgracia",
+          "link": "https://www.clarin.com/mundo/clan-kennedy-dinastia-politica-poderosa-estados-unidos-marcada-desgracia_0_03ZCLWFTn9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-23 21:34:20"
+        },
+        {
+          "titulo": "La nieta de JFK revela su lucha contra un cáncer feroz y expone las tensiones en el clan Kennedy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/la-nieta-de-jfk-revela-su-lucha-contra-un-cancer-de-sangre-raro-y-feroz-y-expone-tensiones-internas-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-23 19:04:30"
+        },
+        {
+          "titulo": "Tatiana Schlossberg, la nieta de John F. Kennedy reveló que padece un cáncer terminal",
+          "link": "https://www.ambito.com/mundo/tatiana-schlossberg-la-nieta-john-f-kennedy-revelo-que-padece-un-cancer-terminal-n6216878",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 14:21:43"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "lula_confirma_acuerdo_20251124",
+      "tema": "Lula confirma acuerdo Mercosur-UE diciembre",
+      "tema_normalizado": "lula confirma acuerdo mercosur-ue diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente de Brasil, Luiz Lula da Silva, confirmó que el acuerdo comercial entre el Mercosur y la Unión Europea se firmará el próximo 20 de diciembre.\n*   Este anuncio se realizó tras la reunión de líderes del G20 en Johannesburgo, Sudáfrica.\n*   Lula calificó el pacto como \"el mayor acuerdo comercial del mundo\", a pesar de la oposición del gobierno de Francia.\n\n🔍 **Datos clave:**\n*   **Fecha de firma:** 20 de diciembre.\n*   **Ubicación de firma:** Brasilia, Brasil.\n*   **Duración de negociaciones:** 25 años.\n*   **Alcance:** Unirá un mercado de aproximadamente 722 a 780 millones de personas y representará un PIB conjunto de 22 billones de dólares.\n*   **Actores clave:** Lula da Silva (Brasil), Ursula von der Leyen (Comisión Europea), António Costa (Consejo Europeo), Emmanuel Macron (Francia).\n\n⚡ **Desarrollo:**\n*   Lula da Silva destacó que es un \"momento muy especial\" para ambos bloques y aseguró que la firma se concretará, incluso con la oposición francesa.\n*   Francia, a través de su canciller Jean-Noël Barrot, ha insistido en incluir una \"cláusula de salvaguarda robusta\" para proteger sectores sensibles, especialmente el agropecuario francés.\n*   El presidente brasileño aclaró que negocia con la Unión Europea como bloque, no específicamente con Francia, nombrando a Von der Leyen y Costa como los negociadores clave.\n*   El acuerdo, cuyo texto fue sellado en diciembre del año pasado, prevé la eliminación progresiva de aranceles y la creación de una zona de libre comercio.\n*   También incluye capítulos sobre servicios, propiedad intelectual, compras públicas, comercio sostenible, empresas estatales y mecanismos de solución de controversias.\n*   Para Mercosur, el tratado significa una ampliación del acceso al mercado europeo, particularmente para el sector agroexportador.\n*   Para la UE, busca facilitar la entrada de bienes industriales al mercado sudamericano y diversificar sus socios comerciales.\n*   La firma se realizará en Brasilia porque la cumbre del Mercosur en Foz de Iguazú, inicialmente prevista para la misma fecha, podría posponerse debido a problemas de agenda de presidentes como Javier Milei de Argentina y Santiago Peña de Paraguay.\n\n💡 **¿Por qué importa?**\n*   Este acuerdo representa la culminación de un cuarto de siglo de negociaciones, prometiendo ser el mayor pacto comercial del mundo y reconfigurando las relaciones económicas entre ambos bloques.\n*   Su concretización abrirá nuevas oportunidades de mercado para las exportaciones de Mercosur y los bienes industriales de la UE, aunque aún requiere la ratificación de los Estados miembros europeos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Lula Da Silva confirmó que el acuerdo Mercosur-UE se firmará en diciembre",
+          "link": "https://www.ambito.com/mundo/lula-da-silva-confirmo-que-el-acuerdo-mercosur-ue-se-firmara-diciembre-n6216930",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-23 19:17:51"
+        },
+        {
+          "titulo": "Lula da Silva confirmó fecha para la firma del acuerdo entre el Mercosur y la Unión Europea",
+          "link": "https://www.minutouno.com/mundo/lula-da-silva-confirmo-fecha-la-firma-del-acuerdo-el-mercosur-y-la-union-europea-n6216903",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-23 18:18:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
