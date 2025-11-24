@@ -1,26 +1,86 @@
 {
   "fecha": "2025-11-24",
-  "fecha_generacion": "2025-11-24T18:27:44.274152",
+  "fecha_generacion": "2025-11-24T21:21:03.602797",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "fallecimiento_juan_jose_20251124",
-      "tema": "Fallecimiento Juan José Mussi",
-      "tema_normalizado": "fallecimiento juan jose mussi",
-      "resumen": "📌 **¿Qué está pasando?**\n• Juan José Mussi, el intendente de Berazategui y un histórico dirigente del peronismo, falleció este lunes a los 84 años de edad.\n• Su deceso fue una noticia de impacto en el ámbito político, generando mensajes de condolencias de importantes figuras.\n• Al momento de su fallecimiento, Mussi se encontraba ejerciendo su sexto mandato al frente del municipio.\n\n🔍 **Datos clave:**\n• **Fecha de fallecimiento:** Lunes, 24 de noviembre de 2025 (según la fecha asociada a los tweets de despedida en las noticias).\n• **Edad al morir:** 84 años.\n• **Principal cargo:** Intendente de Berazategui, en seis ocasiones.\n• **Otros roles:** Ministro de Salud de la Provincia de Buenos Aires y Secretario de Ambiente y Desarrollo Sustentable de la Nación.\n• **Formación:** Médico clínico, egresado de la Universidad Nacional de La Plata.\n• **Sucesión familiar:** Su hijo, Juan Patricio Mussi, también fue intendente de Berazategui.\n\n⚡ **Desarrollo:**\n• Nacido el 9 de enero de 1941 en Plátanos, Mussi inició su carrera política en los años '70 como secretario del Concejo Deliberante de Berazategui.\n• Asumió la intendencia por primera vez en 1987, manteniéndose en el cargo hasta 1994, cuando fue designado Ministro de Salud provincial por Eduardo Duhalde.\n• Permaneció en el Ministerio de Salud bonaerense hasta 2002, sirviendo bajo distintas gobernaciones.\n• En 2003, regresó a la intendencia de Berazategui, puesto que ocupó hasta 2010, cuando Cristina Kirchner lo convocó como Secretario de Ambiente y Desarrollo Sustentable de la Nación.\n• Durante su gestión nacional, impulsó proyectos clave como la limpieza del Riachuelo y la creación del Inventario Nacional de Glaciares.\n• En 2019, Mussi volvió a ser intendente de Berazategui y fue reelecto en 2023, con un mandato previsto hasta 2027.\n• Dirigentes como Cristina Kirchner y Axel Kicillof lo despidieron con mensajes que destacaron su trayectoria, su compromiso peronista y su rol como \"militante incansable\".\n\n💡 **¿Por qué importa?**\n• La muerte de Juan José Mussi representa la partida de una figura emblemática y con décadas de influencia en el peronismo de la Provincia de Buenos Aires y en la gestión municipal de Berazategui.\n• Su extenso recorrido dejó un legado significativo en áreas como la salud y el medio ambiente, así como un modelo de militancia y liderazgo político.",
-      "cantidad_noticias": 6,
+      "tema_id": "muerte_juan_jose_20251124",
+      "tema": "Muerte Juan José Mussi y sucesión Berazategui",
+      "tema_normalizado": "muerte juan jose mussi y sucesion berazategui",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Dr. Juan José Mussi, histórico intendente de Berazategui y prominente figura del peronismo bonaerense, falleció este lunes 24 de noviembre de 2025 a los 84 años de edad.\n• Se encontraba internado en el Hospital de Alta Complejidad El Cruce – Néstor Kirchner debido a un cuadro pulmonar severo que se había agravado en los últimos días.\n• Su deceso ocurre en pleno ejercicio de su sexto mandato como jefe comunal, el cual había ganado en 2023 para el período 2023-2027.\n\n🔍 **Datos clave:**\n• **Fecha de fallecimiento:** Lunes 24 de noviembre de 2025.\n• **Edad:** 84 años.\n• **Cargos clave:** 6 veces intendente de Berazategui; Ministro de Salud bonaerense; Secretario de Ambiente de la Nación.\n• **Sucesor directo:** Carlos “Turco” Balor.\n• **Rol de Balor:** Primer concejal de la lista oficialista electa en 2023 y actual secretario de Obras Públicas.\n• **Base legal de sucesión:** Artículo 123 de la ley provincial 5109, modificado en 1993.\n\n⚡ **Desarrollo:**\n• Juan José Mussi forjó una extensa y dominante trayectoria política, manteniendo el control del gobierno de Berazategui desde 1987, incluso cuando no ocupaba directamente la intendencia y delegaba en personas de su confianza, como su hijo Patricio Mussi.\n• A lo largo de sus casi cuatro décadas en la política, demostró una notable capacidad de adaptación a las diferentes vertientes del justicialismo, consolidando un fuerte apoyo electoral en su distrito.\n• Además de sus múltiples mandatos como intendente, Mussi fue convocado para importantes roles a nivel provincial, como Ministro de Salud bonaerense entre 1994 y 2002, y a nivel nacional, como Secretario de Ambiente de la Nación durante la presidencia de Cristina Kirchner (2010-2013).\n• El Municipio de Berazategui emitió un comunicado oficial lamentando su partida y destacando su legado de \"lealtad, justicia social y vocación inquebrantable de trabajar por su pueblo y sus vecinos\".\n• Según la normativa vigente, la intendencia será asumida por Carlos “Turco” Balor, quien era el primer concejal de la lista que acompañó a Mussi en las elecciones de 2023. Balor completará el mandato hasta 2027.\n• Su fallecimiento generó un amplio impacto en el arco político peronista; figuras como Cristina Kirchner, Axel Kicillof y Alberto Fernández expresaron su profundo pesar y reconocimiento a su figura como \"referente histórico\" y \"compañero ejemplar\".\n\n💡 **¿Por qué importa?**\n• La muerte de Juan José Mussi representa el cierre de una significativa era de liderazgo en Berazategui, marcando un hito en la política del conurbano bonaerense y el peronismo.\n• La inmediata sucesión por Carlos Balor asegura la continuidad institucional y la estabilidad política en el municipio, siguiendo un mecanismo legal establecido para este tipo de vacantes.",
+      "cantidad_noticias": 16,
       "noticias": [
+        {
+          "titulo": "\"Despedimos a un gran compañero\": el mensaje de Berazategui para despedir a Juan José Mussi",
+          "link": "https://www.minutouno.com/politica/despedimos-un-gran-companero-el-mensaje-berazategui-despedir-juan-jose-mussi-n6217174",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 17:46:00"
+        },
+        {
+          "titulo": "Quién asumirá la intendencia de Berazategui en reemplazo de Juan José Mussi",
+          "link": "https://www.minutouno.com/politica/quien-asumira-la-intendencia-berazategui-reemplazo-juan-jose-mussi-n6217172",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 17:46:00"
+        },
+        {
+          "titulo": "Juan José Mussi, una espada de la vieja guardia de intendentes que blindó su distrito y se adaptó a todas las caras del PJ",
+          "link": "https://www.lanacion.com.ar/politica/juan-jose-mussi-una-espada-de-la-vieja-guardia-de-intendentes-que-blindo-su-distrito-y-se-adapto-a-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 17:41:32"
+        },
+        {
+          "titulo": "Tras la muerte de Juan José Mussi, quién será el nuevo intendente de Berazategui hasta 2027",
+          "link": "https://www.infobae.com/politica/2025/11/24/tras-la-muerte-de-juan-jose-mussi-quien-sera-el-nuevo-intendente-de-berazategui-hasta-2027/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-24 17:20:20"
+        },
+        {
+          "titulo": "De Cristina Kirchner hasta Axel Kicillof y Alberto Fernández, el peronismo lamentó la muerte de Juan José Mussi",
+          "link": "https://www.ambito.com/politica/de-cristina-kirchner-axel-kicillof-y-alberto-fernandez-el-peronismo-lamento-la-muerte-juan-jose-mussi-n6217159",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 17:10:08"
+        },
+        {
+          "titulo": "Murió el intendente de Berazategui Juan José Mussi, figura histórica del peronismo bonaerense",
+          "link": "https://www.perfil.com/noticias/politica/murio-el-intendente-de-berazategui-juan-jose-mussi-figura-historica-del-peronismo-bonaerense.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 16:15:00"
+        },
+        {
+          "titulo": "Quién fue Juan José Mussi, el histórico dirigente que gobernó Berazategui seis veces",
+          "link": "https://www.minutouno.com/politica/quien-fue-juan-jose-mussi-el-historico-dirigente-que-goberno-berazategui-seis-veces-n6217153",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 16:09:00"
+        },
+        {
+          "titulo": "Sucesión en Berazategui: quién asume como intendente tras la muerte de Juan José Mussi",
+          "link": "https://www.clarin.com/politica/sucesion-berazategui-asume-intendente-muerte-juan-jose-mussi_0_bTzGmacNXG.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 16:02:41"
+        },
+        {
+          "titulo": "Muerte de Juan José Mussi: las reacciones políticas en Berazategui y el PJ bonaerense",
+          "link": "https://www.clarin.com/politica/muerte-juan-jose-mussi-reacciones-politicas-berazategui-pj-bonaerense_0_EjuMF173H0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 15:52:29"
+        },
         {
           "titulo": "Murió Juan José Mussi, intendente de Berazategui",
           "link": "https://www.lanacion.com.ar/politica/murio-juan-jose-mussi-intendente-de-berazategui-nid24112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-24 15:16:23"
+          "fecha": "2025-11-24 15:44:53"
         },
         {
-          "titulo": "Murió Juan José Mussi, el intendente de Berazategui e histórico dirigente del PJ",
-          "link": "https://www.infobae.com/politica/2025/11/24/murio-juan-jose-mussi-el-intendente-de-berazategui-e-historico-dirigente-del-pj/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-24 15:10:28"
+          "titulo": "De qué murió Juan José Mussi, el intendente de Berazategui",
+          "link": "https://www.minutouno.com/politica/de-que-murio-juan-jose-mussi-el-intendente-berazategui-n6217150",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 15:43:00"
+        },
+        {
+          "titulo": "Axel Kicillof despidió a Juan José Mussi en redes sociales: \"Referente histórico y compañero ejemplar\"",
+          "link": "https://www.minutouno.com/politica/axel-kicillof-despidio-juan-jose-mussi-redes-sociales-referente-historico-y-companero-ejemplar-n6217145",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 15:23:00"
         },
         {
           "titulo": "El mensaje de Cristina Kirchner tras la muerte de Juan José Mussi: \"Peronista de toda la vida\"",
@@ -41,7 +101,7 @@
           "fecha": "2025-11-24 14:45:00"
         },
         {
-          "titulo": "Murió Juan José Mussi, el histórico intendente de Berazategui",
+          "titulo": "Murió Juan José Mussi, intendente de Berazategui y ex funcionario de Cristina Kirchner",
           "link": "https://www.clarin.com/politica/murio-juan-jose-mussi-historico-intendente-berazategui_0_a3BNYrYy4P.html",
           "fuente": "Clarín",
           "fecha": "2025-11-24 14:41:58"
@@ -50,11 +110,12 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "Infobae",
         "La Nación",
         "Clarín",
-        "Minuto1",
-        "Infobae",
-        "Ámbito Financiero"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -62,54 +123,161 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cotizacion_diaria_dolar_20251124",
-      "tema": "Cotización diaria dólar Argentina",
-      "tema_normalizado": "cotizacion diaria dolar argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Este lunes 24 de noviembre, Argentina presenta una compleja dinámica en la cotización del dólar, con la coexistencia de al menos seis tipos de cambio distintos.\n• Cada cotización tiene un valor específico y se aplica a diferentes transacciones, generando un panorama diverso para ahorristas y empresas.\n• Estos valores varían según el canal de acceso, las regulaciones y los impuestos asociados a cada tipo de dólar.\n\n🔍 **Datos clave:**\n• **Dólar Oficial:** Cotiza a $1400 para la compra y $1450 para la venta en bancos.\n• **Dólar Blue:** Se ubica en $1405 para la compra y $1425 para la venta en el mercado informal.\n• **Dólar Tarjeta/Turista/Solidario:** Alcanza los $1885, incluyendo un 60% de impuestos sobre el oficial (30% Impuesto País + 30% Ganancias).\n• **Dólar MEP (Mercado Electrónico de Pagos):** Valorado en $1454,60 (compra) y $1473,80 (venta).\n• **Dólar CCL (Contado con Liquidación):** Su precio de referencia es $1488,10 (compra) y $1488,50 (venta).\n• **Dólar Cripto:** Se cotiza a $1486,84 (compra) y $1506,48 (venta).\n• **Dólar Mayorista:** Inicia el día a $1487,38 (compra) y $1506,80 (venta).\n\n⚡ **Desarrollo:**\n• El **Dólar Oficial** es el valor de referencia en entidades bancarias, sujeto a un límite de US$200 por persona debido a restricciones cambiarias (\"cepo\").\n• El **Dólar Blue** opera en el mercado informal, ofreciendo una alternativa sin cupos, aunque sin respaldo oficial.\n• El **Dólar Tarjeta** se utiliza para consumos y pagos con tarjeta en el exterior, así como para la compra de pasajes y paquetes turísticos fuera de Argentina, sumando un 60% en impuestos al oficial.\n• El **Dólar MEP** permite adquirir divisas de forma legal en el mercado local mediante la compra de bonos en pesos (como AL30 y GD30) y su posterior venta en dólares.\n• El **Dólar CCL** es una operatoria legal para empresas y grandes inversores que desean girar divisas al exterior, comprando títulos argentinos en pesos y vendiéndolos en dólares fuera del país.\n• El **Dólar Mayorista** es el tipo de cambio utilizado principalmente para el comercio exterior, el pago de deudas dolarizadas y dividendos, influyendo en los precios de productos importados.\n• El **Dólar Cripto** se define por la compraventa de \"stablecoins\", criptomonedas cuyo valor está atado al dólar estadounidense, operando 24/7.\n• Las cotizaciones del MEP y CCL funcionan en el horario del mercado de capitales, de lunes a viernes hasta las 16:30 horas.\n\n💡 **¿Por qué importa?**\n• La existencia de múltiples cotizaciones genera un panorama económico complejo, impactando directamente en la planificación financiera de individuos y la toma de decisiones empresariales.\n• Cada tipo de cambio afecta de manera diferente la capacidad de ahorro, el costo de viajar, el comercio exterior y los precios internos, reflejando las condiciones económicas y regulaciones del país.",
-      "cantidad_noticias": 6,
+      "tema_id": "economia_argentina:_inflacion,_20251124",
+      "tema": "Economía Argentina: Inflación, Impuestos y Mercados",
+      "tema_normalizado": "economia argentina: inflacion, impuestos y mercados",
+      "resumen": "📌 **¿Qué está pasando?**\n• La economía argentina muestra un panorama dual con señales de estabilización macroeconómica, como el superávit fiscal y el crecimiento del crédito privado, pero enfrenta desafíos inflacionarios persistentes.\n• La inflación proyectada para noviembre de 2025 se mantiene por encima del 2%, impulsada por aumentos en alimentos, transporte y tarifas, afectando el poder adquisitivo.\n• Existe un intenso debate sobre la reforma tributaria y el rol de las políticas de apertura de mercados, con impacto directo en la industria local y el empleo.\n\n🔍 **Datos clave:**\n• **Crédito privado:** Se expandió de 5,2% a 12% del PBI desde Dic 2023, pero muy por debajo del promedio regional.\n• **Inflación proyectada (Nov 2025):** Superior al 2%, con algunas estimaciones en 2,5%. Octubre fue 2,3%.\n• **Superávit fiscal (Oct 2025):** Más de $500.000 millones (financiero) y 1,4% del PBI (primario acumulado).\n• **Impuesto a las Ganancias:** Deducciones y pisos salariales se actualizarán 11,73% en Ene-Jun 2026.\n• **Riesgo País:** Se ubica alrededor de los 634-639 puntos básicos, buscando consolidar debajo de 500 para volver a los mercados internacionales.\n\n⚡ **Desarrollo:**\n• **Inflación y Consumo:** La suba de precios en alimentos y bebidas (que representan casi el 30% del IPC), así como los incrementos en transporte público (colectivos y subtes aumentan 4,4% en diciembre) y tarifas de servicios, condicionan la desaceleración inflacionaria. Las asignaciones familiares (AUH/SUAF) se ajustaron en diciembre un 2,3%.\n• **Política Fiscal y Tributaria:** El histórico superávit fiscal de octubre, logrado por mayor recaudación y contención del gasto, genera oportunidades para reducir la presión tributaria en el futuro. Paralelamente, se debate una reforma impositiva que busca ampliar las deducciones de Ganancias y aliviar la carga sobre PyMEs y el consumo, en contraste con disputas existentes sobre la actualización por inflación de pérdidas empresariales.\n• **Crédito y Mercados Financieros:** El notable crecimiento del crédito privado, impulsado por una menor demanda estatal y estabilización macro, es positivo, aunque el país sigue rezagado regionalmente. El financiamiento automotor cayó 15% en octubre por la incertidumbre, mientras que se habilitó a jóvenes de 13 a 17 años a invertir en instrumentos financieros más amplios para fomentar la educación financiera.\n• **Comercio e Industria:** La industria PyME critica las políticas de apertura indiscriminada de importaciones, que consideran destructivas para la producción y el empleo local, como lo demuestra el caso de la fábrica Essen que redujo su plantilla. Argentina y EE.UU. firmaron un acuerdo aduanero para agilizar el intercambio de información y fortalecer el comercio bilateral.\n• **Turismo:** El último feriado largo registró un récord de 1,7 millones de turistas nacionales (+21%), pero con un gasto promedio más austero. A pesar de esto, vacacionar en el exterior sigue siendo más económico para los argentinos debido a la relación del tipo de cambio.\n\n💡 **¿Por qué importa?**\n• El superávit fiscal y la expansión del crédito privado son pasos fundamentales para la estabilidad económica, la recuperación de la moneda y la posible reducción de impuestos.\n• Los desafíos como la inflación persistente, las tensiones sobre la política industrial y el bajo nivel de crédito frente a la región, subrayan la necesidad de continuar con reformas para un crecimiento sostenible e inclusivo.",
+      "cantidad_noticias": 23,
       "noticias": [
         {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este lunes 24 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-24-de-noviembre-nid24112025/",
+          "titulo": "El crédito privado se duplicó en dos años, pero la Argentina sigue rezagada en la región",
+          "link": "https://www.lanacion.com.ar/economia/el-credito-privado-se-duplico-en-dos-anos-pero-la-argentina-sigue-rezagado-en-la-region-nid24112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-24 15:00:00"
+          "fecha": "2025-11-24 17:26:55"
         },
         {
-          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 24 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-24-noviembre_0_LgbkUFVFnC.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 09:00:01"
+          "titulo": "La inflación de alimentos condiciona la baja de los precios en noviembre, según estimaciones privadas",
+          "link": "https://www.infobae.com/economia/2025/11/24/la-inflacion-de-alimentos-condiciona-la-baja-de-los-precios-en-noviembre-segun-estimaciones-privadas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-24 17:07:23"
         },
         {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este lunes 24 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-lunes-24-noviembre_0_1RshtoSl0W.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 07:08:02"
+          "titulo": "Argentina y EE.UU firmaron una acuerdo aduanero para intercambio de información",
+          "link": "https://www.perfil.com/noticias/economia/acuerdo-aduanero-entre-argentina-y-eeuu-agilizara-procesos-e-intercambio-de-informacion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 16:50:37"
         },
         {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este lunes 24 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-lunes-24-noviembre_0_FnaOpZTu9l.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 07:08:01"
+          "titulo": "Irse de vacaciones al exterior sigue siendo más barato",
+          "link": "https://www.lanacion.com.ar/economia/a-pesar-de-los-vaivenes-del-dolar-irse-de-vacaciones-al-exterior-sigue-siendo-mas-barato-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 16:35:45"
         },
         {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este lunes 24 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-lunes-24-noviembre_0_n81lxRQc56.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 07:05:02"
+          "titulo": "Impuesto a las ganancias: qué gastos podrían declararse para aliviar la carga fiscal",
+          "link": "https://www.lanacion.com.ar/economia/impuesto-a-las-ganancias-que-gastos-podrian-declararse-para-aliviar-la-carga-fiscal-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 15:15:08"
         },
         {
-          "titulo": "Dólar cripto hoy: a cuánto cotiza este lunes 24 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-lunes-24-noviembre_0_oAyMIZsP58.html",
+          "titulo": "Las criptomonedas anotan leves rebotes, pero Bitcoin continúa debajo de los u$s88.000",
+          "link": "https://www.ambito.com/finanzas/las-criptomonedas-anotan-leves-rebotes-pero-bitcoin-continua-debajo-los-us88000-n6217129",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 15:02:00"
+        },
+        {
+          "titulo": "Daniel Rosato: “Sin industrias, difícilmente se logre generar trabajo y mejorar el consumo”",
+          "link": "https://www.perfil.com/noticias/economia/daniel-rosato-sin-industrias-dificilmente-se-logre-generar-trabajo-y-mejorar-el-consumo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 14:54:00"
+        },
+        {
+          "titulo": "Ganancias: cuál es el trasfondo en la pelea entre empresas y el Gobierno por $100.000 millones de impuestos impagos",
+          "link": "https://www.clarin.com/economia/ganancias-trasfondo-pelea-empresas-gobierno-100000-millones-impuestos-impagos_0_9CUolX9H3x.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-24 07:05:01"
+          "fecha": "2025-11-24 14:41:16"
+        },
+        {
+          "titulo": "ANSES: el detalle de lo que cobrarán las SUAF en diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-el-detalle-lo-que-cobraran-las-suaf-diciembre-2025-n6216228",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 14:31:00"
+        },
+        {
+          "titulo": "Ahora los jóvenes de 13 años podrán invertir en más instrumentos financieros: ¿qué opinan los expertos?",
+          "link": "https://www.ambito.com/finanzas/ahora-los-jovenes-13-anos-podran-invertir-mas-instrumentos-financieros-que-opinan-los-expertos-n6217051",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 14:17:00"
+        },
+        {
+          "titulo": "Los ADRs extienden baja, pero los bonos suben y el riesgo país vuelve a perforar los 650 puntos",
+          "link": "https://www.ambito.com/finanzas/los-adrs-extienden-baja-pero-los-bonos-suben-y-el-riesgo-pais-vuelve-perforar-los-650-puntos-n6217120",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 14:05:00"
+        },
+        {
+          "titulo": "Feriado largo: creció el turismo un 21%, pero aún se observan gastos austeros",
+          "link": "https://www.ambito.com/economia/feriado-largo-crecio-el-turismo-un-21-pero-aun-se-observan-gastos-austeros-n6217103",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 14:04:00"
+        },
+        {
+          "titulo": "Colectivos y subtes vuelven a aumentar más que la inflación en diciembre: cuánto saldrán los boletos",
+          "link": "https://www.iprofesional.com/economia/442591-colectivos-subtes-aumentan-mas-que-inflacion-diciembre-2025-cuanto-saldran-los-boletos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-24 13:59:00"
+        },
+        {
+          "titulo": "Así impactarán los montos de Ganancias 2026 en el bolsillo de los trabajadores",
+          "link": "https://www.iprofesional.com/impuestos/442454-impuesto-a-las-ganancias-2026-el-nuevo-piso-salarial-y-quienes-quedaran-alcanzados",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-24 13:36:00"
+        },
+        {
+          "titulo": "Cómo vincular tus tarjetas a MODO y pagar con QR en cualquier comercio",
+          "link": "https://www.iprofesional.com/finanzas/442019-como-vincular-tus-tarjetas-a-modo-y-pagar-con-qr-en-cualquier-comercio",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-24 13:35:00"
+        },
+        {
+          "titulo": "El financiamiento para comprar autos nuevos y usados cayó 15% en octubre",
+          "link": "https://www.perfil.com/noticias/economia/el-financiamiento-para-comprar-autos-nuevos-y-usados-cayo-15-en-octubre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 13:18:20"
+        },
+        {
+          "titulo": "Guillermo Michel: \"Quiero discutir una reforma tributaria distinta a la del Gobierno\"",
+          "link": "https://www.ambito.com/economia/guillermo-michel-quiero-discutir-una-reforma-tributaria-distinta-la-del-gobierno-n6217097",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 13:14:00"
+        },
+        {
+          "titulo": "Se achica la fábrica de ollas y sartenes Essen: la empresa dice que es por la baja del consumo y el gremio apunta a las importaciones",
+          "link": "https://www.clarin.com/economia/achica-fabrica-ollas-sartenes-essen-santa-fe-importara-china-temen-reemplace-toda-produccion_0_lpqkLag3fZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 13:11:09"
+        },
+        {
+          "titulo": "Un fin de semana largo con récord de movimiento: 1.7 millones de personas viajaron por el país",
+          "link": "https://www.minutouno.com/economia/un-fin-semana-largo-record-movimiento-17-millones-personas-viajaron-el-pais-n6217096",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 12:55:00"
+        },
+        {
+          "titulo": "¿Vuelve el optimismo?: mejoran los bonos y el riesgo país arranca con una leve baja",
+          "link": "https://www.clarin.com/economia/vuelve-optimismo-mejoran-bonos-riesgo-pais-arranca-leve-baja_0_V2ShDh2y9g.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 12:54:51"
+        },
+        {
+          "titulo": "ARBA: vence la última cuota del impuesto inmobiliario y quienes pagan el adicional",
+          "link": "https://www.ambito.com/economia/arba-vence-la-ultima-cuota-del-impuesto-inmobiliario-y-quienes-pagan-el-adicional-n6217069",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-24 12:07:00"
+        },
+        {
+          "titulo": "Un superávit que abre nuevas oportunidades",
+          "link": "https://noticias.perfil.com/noticias/economia/un-superavit-que-abre-nuevas-oportunidades.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 12:01:43"
+        },
+        {
+          "titulo": "La inflación de noviembre volvería a superar el 2%, según proyecciones privadas",
+          "link": "https://www.perfil.com/noticias/economia/la-inflacion-de-noviembre-rondara-por-encima-del-20-aumentos-en-tarifas-transporte-y-alimentos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 12:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "Infobae",
         "La Nación",
-        "Clarín"
+        "iProfesional",
+        "Clarín",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -117,12 +285,100 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "eeuu_designa_cartel_20251124",
-      "tema": "EEUU designa Cártel Soles terrorista",
-      "tema_normalizado": "eeuu designa cartel soles terrorista",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos (administración Trump) designó formalmente al \"Cartel de los Soles\" como una Organización Terrorista Extranjera (OTE).\n*   Washington identificó a Nicolás Maduro y a altos funcionarios de su régimen como los líderes de esta estructura criminal con sede en Venezuela.\n*   Venezuela rechazó categórica y firmemente la medida, calificándola de \"ridícula patraña\" y asegurando que el Cartel de los Soles es \"inexistente\".\n\n🔍 **Datos clave:**\n*   **Fecha de designación:** 24 de noviembre de 2025 (entrada en vigor).\n*   **Recompensa por Maduro:** US$50 millones ofrecidos por EE. UU. por información para su arresto.\n*   **Despliegue militar estadounidense:** Incluye el portaviones USS Gerald Ford, destructores, submarinos, cazas F-35 y unos 15.000 soldados en el Caribe.\n*   **Aerolíneas afectadas:** Al menos seis líneas aéreas (Gol, Avianca, Latam, Iberia, TAP, Caribbean) cancelaron vuelos a Venezuela.\n*   **Agencia de aviación:** La FAA de EE. UU. alertó sobre una situación \"potencialmente peligrosa\" en el espacio aéreo venezolano.\n\n⚡ **Desarrollo:**\n*   El concepto \"Cartel de los Soles\" surgió en los años 90 como un apodo para generales venezolanos involucrados en corrupción y narcotráfico, identificados por los soles en sus charreteras.\n*   Expertos como InSight Crime y WOLA describen el Cartel de los Soles más como un \"ecosistema de corrupción\" o \"redes de corrupción\" dentro del Estado que una estructura criminal centralizada y cohesionada.\n*   En 2020, el Departamento de Justicia estadounidense ya había imputado a Maduro y su círculo por narcoterrorismo, vinculándolos a este supuesto cartel.\n*   La designación como OTE habilita a EE. UU. para imponer nuevas y severas sanciones legales y financieras, bloquear fondos y recursos, y abre la puerta a posibles acciones militares contra objetivos vinculados al régimen venezolano.\n*   Venezuela, a través del canciller Yván Gil, denunció que la medida es una \"infame y vil mentira\" fabricada para justificar una intervención militar \"ilegítima e ilegal\" y acusó a EE. UU. de buscar un \"cambio de régimen\".\n*   La decisión se enmarca en una escalada de presión de Washington contra Caracas, que incluye operaciones antinarcóticos en el Caribe que ya han provocado ataques a barcos y más de 80 muertes.\n*   EE. UU. también vinculó al Cartel de los Soles con otras organizaciones terroristas designadas, como el Tren de Aragua y el Cartel de Sinaloa.\n\n💡 **¿Por qué importa?**\n*   Esta acción eleva significativamente la tensión entre Estados Unidos y Venezuela, endureciendo la postura de Washington y abriendo nuevas vías de presión contra el gobierno de Maduro.\n*   La designación podría tener importantes repercusiones diplomáticas, económicas y de seguridad en la región, con el riesgo latente de una escalada militar.",
-      "cantidad_noticias": 6,
+      "tema_id": "gobierno_milei:_designaciones,_20251124",
+      "tema": "Gobierno Milei: designaciones, conflictos y agenda",
+      "tema_normalizado": "gobierno milei: designaciones, conflictos y agenda",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Javier Milei está en un proceso de reacomodo con nuevas designaciones en áreas clave como Defensa e Inteligencia, y enfrentando diversas tensiones políticas internas.\n*   La agenda presidencial se centra en actos institucionales, reuniones de Gabinete para definir el Presupuesto 2026 y encuentros diplomáticos para fortalecer lazos internacionales.\n*   A pesar de un aumento en la confianza en el gobierno, persisten críticas por nombramientos y conflictos dentro de La Libertad Avanza (LLA), junto con desafíos en políticas sociales.\n\n🔍 **Datos clave:**\n*   **Designación clave:** Carlos Alberto Presti, teniente general egresado en diciembre de 1987, asumirá como Ministro de Defensa, reemplazando a Luis Petri.\n*   **Confianza gubernamental:** Aumentó 17,5% en noviembre, según la Universidad Di Tella, alcanzando su punto más alto desde febrero de 2025 (referencia).\n*   **Interna en la ex AFI:** Tensión entre el titular Sergio Neiffert y el asesor Santiago Caputo, con Neiffert acercándose a Karina Milei.\n*   **Presupuesto 2026:** Prevé un aumento del 5,5% en gasto social, pero recortes del 13% en pensiones no contributivas de la ANDIS, ignorando leyes de emergencia pediátrica y discapacidad.\n*   **Agenda presidencial:** Milei encabezó la Entrega de Sables a 30 militares y se reunió con el canciller de Israel, Gideon Sa’ar.\n*   **Conflictos en LLA:** Choque en redes entre las diputadas Marcela Pagano y Lilia Lemoine, y una impugnación por \"idoneidad moral\" a la senadora electa Lorena Villaverde.\n\n⚡ **Desarrollo:**\n*   **Nuevos nombramientos y reacciones:** La designación del teniente general Carlos Alberto Presti en el Ministerio de Defensa generó críticas de Estela de Carlotto, quien la calificó de \"provocación\", y advertencias de exministros de Macri sobre una posible \"confusión de roles\", aunque respaldaron su trayectoria.\n*   **Tensiones internas y reacomodos:** En la ex AFI (SIDE), Sergio Neiffert habría dejado su lealtad a Santiago Caputo para alinearse con Karina Milei, causando ruido y disputas de gestión. Además, Karina Milei habría influido en el impedimento del ascenso de Caputo como \"superministro del Interior\", facilitando la llegada de Diego Santilli.\n*   **Agenda y políticas del Gobierno:** Javier Milei retoma las reuniones de Gabinete para impulsar el Presupuesto 2026. Este presupuesto propone un crecimiento del gasto social del 5,5% real, pero incluye una reducción del 4% en la Agencia Nacional de Discapacidad (ANDIS) y un recorte del 13% en pensiones por invalidez laboral.\n*   **Lazos internacionales y comerciales:** El presidente mantuvo un encuentro con el canciller de Israel, Gideon Sa’ar, y la Agencia de Recaudación y Control Aduanero (ARCA) firmó un acuerdo de cooperación con la Oficina de Aduanas y Protección Fronteriza de EE.UU. (CBP).\n*   **Frentes de conflicto abiertos:** El Gobierno se mantiene en \"guardia alta\" frente a \"escándalos\" como la causa Andis, que ya provocó 13 despidos, y sigue con atención las declaraciones de figuras como Mauricio Macri y Victoria Villarruel, interpretadas como posibles \"embriones\" de una oposición de centro derecha.\n\n💡 **¿Por qué importa?**\n*   Las designaciones estratégicas y los conflictos internos y externos son cruciales para la consolidación del poder y la dirección de las políticas del Gobierno de Milei.\n*   La implementación del Presupuesto 2026, con sus recortes en áreas sociales y la gestión de las leyes vetadas, tendrá un impacto directo en la sociedad y la economía argentina.",
+      "cantidad_noticias": 9,
       "noticias": [
+        {
+          "titulo": "Javier Milei encabezará la Entrega de Sables a las Fuerzas Armadas y recibirá al canciller de Israel",
+          "link": "https://www.infobae.com/politica/2025/11/24/javier-milei-encabezara-la-entrega-de-sables-a-las-fuerzas-armadas-y-recibira-al-canciller-de-israel/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-24 17:46:17"
+        },
+        {
+          "titulo": "Interna en la SIDE: Neiffert se corre para el lado de Karina y genera ruido en la pelea con Santiago Caputo",
+          "link": "https://www.clarin.com/politica/interna-side-neiffert-corre-lado-karina-genera-ruido-pelea-santiago-caputo_0_z6XW5SA1UX.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 17:08:58"
+        },
+        {
+          "titulo": "La confianza en el gobierno de Javier Milei aumentó 17,5% en noviembre según la Universidad Di Tella",
+          "link": "https://www.perfil.com/noticias/politica/la-confianza-en-el-gobierno-de-javier-milei-aumento-175-en-noviembre-segun-la-universidad-di-tella.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 17:02:00"
+        },
+        {
+          "titulo": "Estela de Carlotto cuestionó la designación de Carlos Presti en el Ministerio de Defensa: “No corresponde”",
+          "link": "https://www.lanacion.com.ar/politica/estela-de-carlotto-cuestiono-la-designacion-de-carlos-presti-en-el-ministerio-de-defensa-y-lanzo-una-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 16:41:26"
+        },
+        {
+          "titulo": "El Presupuesto 2026 no prevé una reforma previsional e ignora las leyes de emergencia pediátrica y de discapacidad",
+          "link": "https://www.lanacion.com.ar/politica/el-presupuesto-2026-no-preve-una-reforma-previsional-e-ignora-las-leyes-de-emergencia-pediatrica-y-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 16:31:45"
+        },
+        {
+          "titulo": "Milei, en guardia contra Cristina Kirchner y Chiqui Tapia",
+          "link": "https://www.lanacion.com.ar/politica/milei-en-guardia-contra-cristina-kirchner-y-chiqui-tapia-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 16:21:01"
+        },
+        {
+          "titulo": "Javier Milei retoma su agenda con reunión de Gabinete y un encuentro con el canciller israelí",
+          "link": "https://www.minutouno.com/politica/javier-milei-retoma-su-agenda-reunion-gabinete-y-un-encuentro-el-canciller-israeli-n6217079",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 14:31:00"
+        },
+        {
+          "titulo": "Exministros de Defensa de Macri respaldaron a Carlos Presti, pero adviertieron sobre posible “confusión de roles”",
+          "link": "https://www.perfil.com/noticias/politica/los-exministros-de-defensa-de-macri-respaldaron-a-carlos-presti-aunque-advirtieron-sobre-posible-confusion-de-roles.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 13:10:00"
+        },
+        {
+          "titulo": "Nuevo choque en redes entre Lemoine y Pagano: ‘Operando sucio contra Milei’ y ‘Chinverguencha’",
+          "link": "https://www.perfil.com/noticias/politica/nuevo-choque-en-redes-entre-lemoine-y-pagano-operando-sucio-contra-milei-y-chinverguencha-por-la-impugnacion-de-una-diputada-libertaria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 12:10:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Perfil",
+        "Infobae",
+        "La Nación",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_internacional:_cartel_20251124",
+      "tema": "Política internacional: Cartel Soles y Maduro",
+      "tema_normalizado": "politica internacional: cartel soles y maduro",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha designado oficialmente al \"Cartel de los Soles\" como una organización terrorista extranjera (FTO), intensificando la presión sobre el gobierno de Venezuela.\n• Washington acusa directamente a Nicolás Maduro, presidente venezolano, de ser el líder de este entramado criminal involucrado en narcotráfico.\n• Esta decisión coincide con un significativo despliegue militar estadounidense en el Caribe, elevando la tensión en la región.\n\n🔍 **Datos clave:**\n• **Designación FTO:** Lunes 24 de noviembre de 2025 (fecha reportada en las noticias, que entró en vigor tras notificación al Congreso).\n• **Recompensa por Maduro:** EE. UU. ofrece 50 millones de dólares por información que lleve a su captura.\n• **Despliegue militar de EE. UU.:** Incluye el portaviones USS Gerald R. Ford, destructores, submarinos, cazas F-35 y unos 15.000 soldados.\n• **Origen del concepto \"Cartel de los Soles\":** Años noventa, como apodo para militares venezolanos involucrados en corrupción y narcotráfico.\n• **Acusación formal por narcoterrorismo a Maduro:** Marzo de 2020 por el Departamento de Justicia estadounidense.\n• **Vuelos suspendidos:** Seis aerolíneas internacionales cancelaron sus vuelos a Venezuela el 22 de noviembre de 2025 por advertencias de seguridad.\n\n⚡ **Desarrollo:**\n• El Cartel de los Soles es descrito por EE. UU. como una organización vinculada con la cúpula militar y el gobierno de Maduro, señalándola como responsable de tráfico de drogas hacia EE. UU. y Europa, y violencia terrorista.\n• Expertos como Edgardo Buscaglia y Adam Isaacson, sin embargo, lo describen más como un \"ecosistema de corrupción\" o redes difusas de militares y funcionarios civiles, en lugar de un cartel centralizado y cohesionado.\n• La expansión de este grupo se habría dado bajo Hugo Chávez y se habría ampliado enormemente a funcionarios civiles como Diosdado Cabello bajo la administración de Maduro.\n• Venezuela, a través de su canciller Yván Gil, rechaza \"firme y absolutamente\" la medida, calificándola de \"ridícula patraña\" y una \"infame y vil mentira\" para justificar una intervención militar.\n• La designación como FTO, una de las herramientas antiterroristas más serias, permite a EE. UU. imponer nuevas sanciones contra activos e infraestructuras del régimen, y abre un abanico de opciones para una ofensiva.\n• La operación militar estadounidense en el Caribe, bautizada \"Lanza del Sur\", ha incluido ataques que han resultado en más de 80 muertes en operativos contra el narcotráfico.\n\n💡 **¿Por qué importa?**\n• La decisión de EE. UU. representa una escalada sin precedentes en la presión internacional contra el gobierno de Nicolás Maduro, categorizando a sus líderes como terroristas.\n• Incrementa la posibilidad de acciones más contundentes por parte de Estados Unidos, generando incertidumbre y temores sobre una mayor desestabilización política y militar en la región.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "¿Qué es el Cartel de los Soles, la organización que Estados Unidos designó como grupo terrorista y señala a Nicolás Maduro como su líder?",
+          "link": "https://www.clarin.com/mundo/cartel-soles-organizacion-estados-unidos-designo-grupo-terrorista-senala-nicolas-maduro-lider_0_7S4gic5DIU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 17:05:51"
+        },
+        {
+          "titulo": "Las predicciones de Mhoni Vidente para la era de Sagitario: qué le depara a Nicolás Maduro en Venezuela",
+          "link": "https://www.lanacion.com.ar/estados-unidos/horoscopo-y-astrologia/las-predicciones-de-mhoni-vidente-para-la-era-de-sagitario-que-le-depara-a-nicolas-maduro-en-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 13:45:17"
+        },
         {
           "titulo": "¿Mito o brazo oculto de Maduro? Qué es el Cartel de los Soles y por qué su existencia está en duda",
           "link": "https://www.lanacion.com.ar/estados-unidos/mito-o-brazo-oculto-de-maduro-que-es-el-cartel-de-los-soles-y-por-que-su-existencia-esta-en-duda-nid24112025/",
@@ -140,89 +396,64 @@
           "link": "https://www.lanacion.com.ar/estados-unidos/estados-unidos-designo-al-cartel-de-los-soles-como-organizacion-terrorista-y-senalo-a-nicolas-maduro-nid24112025/",
           "fuente": "La Nación",
           "fecha": "2025-11-24 12:46:14"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "kicillof_y_cambios_20251124",
+      "tema": "Kicillof y cambios en gabinete bonaerense",
+      "tema_normalizado": "kicillof y cambios en gabinete bonaerense",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof ha realizado un cambio clave en su gabinete provincial.\n• Alberto Sileoni renunció a la Dirección General de Cultura y Educación por motivos personales.\n• Kicillof propuso a Flavia Terigi, destacada pedagoga y rectora de la UNGS, como su reemplazante, enviando su pliego a la Legislatura.\n• Paralelamente, el gobierno bonaerense busca la aprobación legislativa para un significativo paquete de endeudamiento.\n\n🔍 **Datos clave:**\n• Ministro de Educación saliente: Alberto Sileoni.\n• Nueva ministra propuesta: Flavia Terigi.\n• Cargo: Directora General de Cultura y Educación de la Provincia de Buenos Aires.\n• Endeudamiento total solicitado: Aproximadamente USD 3.685 millones (compuesto por USD 1.045 millones, USD 1.990 millones, USD 250 millones en Letras del Tesoro, y USD 150 millones para Centrales de la Costa y USD 250 millones para AUBASA).\n• Fecha de presentación del proyecto de financiamiento: 4 de noviembre.\n• Mayoría requerida para el endeudamiento: Dos tercios de los presentes en ambas cámaras.\n• Cambio de composición legislativa: 10 de diciembre.\n• Experiencia de Terigi: Rectora de la Universidad Nacional de General Sarmiento (UNGS) desde agosto de 2022.\n\n⚡ **Desarrollo:**\n• Alberto Sileoni, quien asumió en diciembre de 2021, agradeció la oportunidad y destacó logros como transformaciones curriculares y desarrollo de infraestructura, asegurando que seguirá apoyando al gobernador desde otros espacios.\n• Flavia Terigi es una profesional con vasta trayectoria académica: pedagoga (UBA), magíster (FLACSO) y doctora en Psicología (UAM), además de profesora en la UBA y miembro del Consejo Nacional de la Calidad de la Educación.\n• Su designación, que debe ser aprobada por la Legislatura, es vista como una apuesta a jerarquizar el área educativa con un perfil altamente técnico y académico.\n• El gobierno de Kicillof busca la autorización de un paquete de deuda para financiar la provincia hasta 2027, incluyendo un fondo del 8% para municipios, punto objetado por la oposición.\n• La aprobación del endeudamiento requiere de los dos tercios de los votos en ambas cámaras, por lo que el oficialismo necesita negociar con la oposición.\n• Los bloques opositores (PRO, UCR Cambio Federal y Coalición Cívica) ya han manifestado su intención de presentar un dictamen de minoría y negociar modificaciones.\n• La proximidad del 10 de diciembre, cuando cambia la composición de la Legislatura, ejerce presión sobre las negociaciones, ya que la nueva configuración podría alterar el balance de poder.\n\n💡 **¿Por qué importa?**\n• El nombramiento de Flavia Terigi consolida el enfoque de Kicillof en la educación, priorizando un perfil académico para una gestión considerada estratégica en la provincia.\n• La compleja negociación por el endeudamiento es crucial para la sostenibilidad financiera de la provincia y subraya la necesidad de consensos políticos en un escenario legislativo dinámico y cambiante.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "La oposición bonaerense prepara un dictamen propio para el endeudamiento que pidió Kicillof",
+          "link": "https://www.infobae.com/politica/2025/11/24/la-oposicion-bonaerense-prepara-un-dictamen-propio-para-el-endeudamiento-que-pidio-kicillof/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-24 17:50:39"
         },
         {
-          "titulo": "Venezuela califica de \"ridícula patraña\" la designación del \"Cartel de los Soles\" como organización terrorista por parte de EE.UU.",
-          "link": "https://www.clarin.com/mundo/venezuela-califica-ridicula-patrana-designacion-cartel-soles-organizacion-terrorista-parte-eeuu_0_LYt7JnvgU5.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 10:27:51"
+          "titulo": "Kicillof propone a Flavia Terigi como nueva ministra de Educación tras la renuncia de Sileoni",
+          "link": "https://www.perfil.com/noticias/politica/kicillof-propone-a-flavia-terigi-como-nueva-ministra-de-educacion-tras-la-renuncia-de-sileoni.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 16:01:00"
         },
         {
-          "titulo": "EEUU designó al Cártel de los Soles como grupo terrorista y a Nicolás Maduro como su líder",
-          "link": "https://www.ambito.com/mundo/eeuu-designo-al-cartel-los-soles-como-grupo-terrorista-y-nicolas-maduro-como-su-lider-n6216993",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-24 08:45:00"
-        },
-        {
-          "titulo": "El Gobierno de Donald Trump designó al Cártel de los Soles como organización terrorista",
-          "link": "https://www.minutouno.com/mundo/el-gobierno-donald-trump-designo-al-cartel-los-soles-como-organizacion-terrorista-n6216994",
+          "titulo": "Quién es Flavia Terigi, la elegida por Axel Kicillof para reemplazar a Sileoni en Educación",
+          "link": "https://www.minutouno.com/politica/quien-es-flavia-terigi-la-elegida-axel-kicillof-reemplazar-sileoni-educacion-n6217137",
           "fuente": "Minuto1",
-          "fecha": "2025-11-24 08:40:00"
+          "fecha": "2025-11-24 15:47:00"
+        },
+        {
+          "titulo": "Cambios en el Gabinete de Kicillof: Alberto Sileoni renunció al Ministerio de Educación y será reemplazado por la rectora de una universidad nacional",
+          "link": "https://www.clarin.com/politica/cambios-gabinete-kicillof-alberto-sileoni-renuncio-ministerio-educacion-reemplazado-rectora-universidad-nacional_0_0GotIsaqwC.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 13:58:15"
+        },
+        {
+          "titulo": "Alberto Sileoni renunció al ministerio de Educación: Axel Kicillof ya eligió a su reemplazante",
+          "link": "https://www.minutouno.com/politica/alberto-sileoni-renuncio-al-ministerio-educacion-axel-kicillof-ya-eligio-su-reemplazante-n6217109",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 13:50:00"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "ucrania:_negociaciones_y_20251124",
-      "tema": "Ucrania: negociaciones y planes de paz",
-      "tema_normalizado": "ucrania: negociaciones y planes de paz",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se están llevando a cabo negociaciones para un plan de paz en Ucrania, con una propuesta inicial de Estados Unidos que generó críticas y una contrapropuesta europea.\n• La Unión Europea y Ucrania lograron modificar el borrador inicial estadounidense, considerado demasiado favorable a Rusia.\n• El Kremlin ha calificado la contrapropuesta europea, respaldada por Francia, Alemania y Reino Unido, como \"poco constructiva\".\n\n🔍 **Datos clave:**\n• **Actores principales:** Estados Unidos, Ucrania, Rusia, Unión Europea (Francia, Alemania, Reino Unido), OTAN.\n• **Lugares de negociación:** Ginebra (Suiza) y Luanda (Angola).\n• **Plan original:** Propuesta de paz de 28 puntos de la administración Trump, celebrada por Putin.\n• **Contrapropuesta europea:** Iniciativa de 18 puntos que buscaba limitar demandas rusas y ampliar garantías para Kiev.\n• **Cifras clave:** El ejército ucraniano se limitaría a 800.000 efectivos (en propuesta europea); 100.000 millones de dólares en activos rusos congelados.\n• **Líderes clave:** Ursula von der Leyen (Presidenta Comisión Europea), Marco Rubio (Secretario de Estado de EE.UU.), Volodímir Zelenski (Presidente de Ucrania), Vladímir Putin (Presidente de Rusia).\n\n⚡ **Desarrollo:**\n• El plan inicial de EE.UU. incluía la reducción del ejército ucraniano, la renuncia a zonas ocupadas y la limitación de la integración a la OTAN.\n• La presidenta de la Comisión Europea, Ursula von der Leyen, advirtió que aceptar el plan original de EE.UU. ponía en riesgo la seguridad europea y la soberanía ucraniana.\n• Negociadores de EE.UU. y Ucrania lograron \"refinar\" el borrador en Ginebra, suprimiendo puntos perjudiciales para Kiev y la UE, reduciéndolo de 28 a 19 apartados.\n• La contrapropuesta europea propuso negociar el estatus territorial desde la línea de contacto vigente y eliminar el reconocimiento de soberanía rusa sobre zonas como Jersón y Zaporiyia.\n• Europa también se opuso a que EE.UU. gestionara 100.000 millones de dólares en activos rusos congelados y a una reintegración inmediata de Rusia al comercio internacional.\n• El Kremlin, a través de Yuri Ushakov, expresó que la contrapropuesta europea \"no nos conviene\" y mantiene su preferencia por la versión inicial del plan estadounidense.\n• El presidente ucraniano, Volodímir Zelenski, celebró los avances, pero insistió en que \"entregar tierra a Rusia es el principal problema\", ya que Putin busca un reconocimiento legal de lo que ha \"robado\".\n\n💡 **¿Por qué importa?**\n• Las negociaciones y los distintos planes de paz son cruciales para determinar el futuro de Ucrania y la estabilidad geopolítica de Europa.\n• Las divergencias entre los aliados occidentales y Rusia evidencian la complejidad del conflicto y la dificultad para encontrar un acuerdo que respete la soberanía ucraniana y garantice la seguridad continental.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Von der Leyen advirtió que el plan de paz avalado por Rusia para la paz con Ucrania pone en riesgo la seguridad europea",
-          "link": "https://www.infobae.com/america/mundo/2025/11/24/von-der-leyen-advirtio-que-el-plan-de-paz-avalado-por-rusia-para-la-paz-con-ucrania-pone-en-riesgo-la-seguridad-europea/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-24 15:12:48"
-        },
-        {
-          "titulo": "El Kremlin calificó de “poco constructiva” la contrapropuesta europea al plan de Estados Unidos para poner fin a la guerra en Ucrania",
-          "link": "https://www.infobae.com/america/mundo/2025/11/24/el-kremlin-califico-de-poco-constructiva-la-contrapropuesta-europea-al-plan-de-estados-unidos-para-poner-fin-a-la-guerra-en-ucrania/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-24 15:02:08"
-        },
-        {
-          "titulo": "EE.UU. y Ucrania avanzan en Ginebra, pero admiten que aún quedan puntos críticos por resolver",
-          "link": "https://www.lanacion.com.ar/el-mundo/eeuu-y-ucrania-avanzan-en-ginebra-pero-admiten-que-aun-quedan-puntos-criticos-por-resolver-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-24 11:49:10"
-        },
-        {
-          "titulo": "Uno por uno, los \"ajustes\" que Europa hizo al plan de paz de Trump para poner fin a la guerra en Ucrania y que despiertan optimismo",
-          "link": "https://www.clarin.com/mundo/ajustes-europa-hizo-plan-paz-trump-poner-fin-guerra-ucrania-despiertan-optimismo_0_RYGmMdLrDD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 11:15:08"
-        },
-        {
-          "titulo": "El acuerdo propuesto por Trump con Ucrania es una vergüenza",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/acuerdo-propuesto-trump-ucrania-verguenza_0_Pbd0YntXQ1.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 09:58:34"
-        },
-        {
-          "titulo": "Zelenski celebra avances en negociaciones de paz, pero reconoce que queda mucho por hacer: \"Entregar tierra a Rusia es el problema\"",
-          "link": "https://www.clarin.com/mundo/zelenski-celebra-avances-negociaciones-paz-reconoce-queda-hacer-entregar-tierra-rusia-problema_0_zzUZHRYHmk.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 09:55:40"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-24",
-      "fuentes": [
+        "Perfil",
+        "Clarín",
         "Infobae",
-        "La Nación",
-        "Clarín"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -230,56 +461,54 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "gobierno_milei:_agenda_20251124",
-      "tema": "Gobierno Milei: agenda y conflictos",
-      "tema_normalizado": "gobierno milei: agenda y conflictos",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei busca consolidar su agenda de reformas mientras enfrenta diversos conflictos, tanto internos como externos.\n• El presidente capitaliza escándalos de corrupción y denuncias de \"casta\" para reforzar su narrativa, declarando que la gestión atraviesa su \"mejor momento\".\n• Simultáneamente, el oficialismo lidia con fuertes tensiones internas y críticas a sus controvertidas políticas de desregulación.\n\n🔍 **Datos clave:**\n• **13** funcionarios despedidos en la causa Andis, incluidos Diego Spagnuolo, Ornella Calvete y Daniel María Garbellini.\n• **$560.000** cobrados por Vialidad a la Iglesia por usar un tramo de la Ruta 12 en Misiones (cuestionado por Victoria Villarruel).\n• Edad mínima para poseer armas se redujo **de 21 a 18 años**.\n• Menos de **10** inspectores en el RENAR tras la disolución de la ANMAC en julio.\n• **6 de noviembre:** Se autoriza la tenencia de fusiles semiautomáticos para civiles (Resolución N°37/25, Decreto N°397/25).\n• **Presupuesto 2026:** Tema central de las reuniones de Gabinete.\n• **Gideon Sa’ar:** Canciller de Israel que se reunió con Javier Milei.\n• **Marcela Pagano y Lilia Lemoine:** Diputadas de LLA protagonistas de un fuerte cruce en redes.\n• **Lorena Villaverde:** Senadora electa impugnada por supuesta \"falta de idoneidad moral\".\n\n⚡ **Desarrollo:**\n• El presidente Javier Milei utiliza los escándalos de corrupción (Cristina Kirchner) y las denuncias de mafia (Claudio \"Chiqui\" Tapia) como una \"ayuda inestimable\", viéndolos como ejemplos de la \"casta\" y el \"populismo empobrecedor\".\n• En su agenda, el gobierno trabaja para obtener consensos sobre el Presupuesto 2026 y fortalecer relaciones internacionales, ejemplificado por el encuentro con el canciller israelí Gideon Sa’ar y un acuerdo aduanero con EE.UU. en Washington.\n• A nivel judicial, el gobierno despidió a 13 funcionarios implicados en la causa Andis, destacando una postura de no injerencia en la justicia, lo que el fiscal Picardi valoró como trabajo con \"libertad y menos presión\".\n• Sin embargo, enfrenta roces por declaraciones de figuras cercanas como Mauricio Macri, Guillermo Francos y Victoria Villarruel, que algunos interpretan como descontentos o el germen de una oposición de centro derecha.\n• La interna del oficialismo La Libertad Avanza (LLA) se agudizó con un fuerte cruce en redes entre las diputadas Marcela Pagano (bloque Coherencia) y Lilia Lemoine (LLA), a raíz de la impugnación de la senadora electa Lorena Villaverde por presuntos vínculos con el narcotráfico.\n• Paralelamente, el gobierno impulsa una polémica desregulación de armas, bajando la edad mínima de tenencia a 18 años y autorizando fusiles semiautomáticos para civiles. Críticos de ONGs y la Justicia, como el fiscal Gabriel González Da Silva, alertan sobre la falta de controles y la simplificación del acceso a armas de combate, con menos de 10 inspectores en el RENAR.\n\n💡 **¿Por qué importa?**\n• La capacidad del Gobierno de Milei para implementar su ambiciosa agenda de reformas depende de cómo maneje los conflictos internos y externos, y la cohesión de su base política.\n• Las medidas controversiales y las fricciones dentro del propio espacio oficialista reflejan desafíos significativos para la gobernabilidad y la imagen del Ejecutivo.",
+      "tema_id": "reformas_y_agenda_20251124",
+      "tema": "Reformas y agenda económica del Gobierno",
+      "tema_normalizado": "reformas y agenda economica del gobierno",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno impulsa una ambiciosa agenda de reformas económicas y estructurales que abarca desde la privatización de empresas estatales hasta la modernización de la legislación laboral.\n• Estas medidas buscan reducir el gasto público, combatir la inflación y fomentar la inversión privada, generando debate y apoyo, pero también controversia en distintos sectores.\n\n🔍 **Datos clave:**\n• **AySA:** El Gobierno planea privatizar el 90% de las acciones para el primer trimestre de 2026; la empresa acumuló US$14.100 millones de déficit entre 2006 y 2023.\n• **Reforma Laboral:** El 67,5% de los argentinos apoya que la cuota sindical sea voluntaria; el 50% de la economía laboral actual no está registrada.\n• **Economía:** El país registra un crecimiento del 6%, superávit presupuestario y una reducción de la inflación de alrededor del 85%.\n• **Desregulación de Armas:** La edad mínima para poseer armas se redujo de 21 a 18 años, y se autorizó la compra de fusiles semiautomáticos para civiles.\n• **Nombres Clave:** Javier Milei (Presidente), Alejo Maxit (presidente de AySA), Julián de Diego (asesor laboral), Estela de Carlotto (Abuelas de Plaza de Mayo).\n\n⚡ **Desarrollo:**\n• El Gobierno justifica la privatización de AySA por sus \"fenomenales déficits operativos y financieros\", buscando una gestión privada que mejore la eficiencia y el control de gastos.\n• La reforma laboral tiene como eje central que el 50% de la economía no registrada pase a la formalidad, proponiendo un \"costo de ingreso cero\" y mayor flexibilidad en la contratación y condiciones internas.\n• La desregulación de armas ha generado preocupación por la reducción de inspectores y la \"modernización\" de trámites, que para los críticos debilita el control estatal y facilita el acceso a armas potentes.\n• Se denunció un presunto malgasto de US$4.800 millones en AySA durante 2023, atribuido a la gestión anterior con fines políticos, según voceros del Gobierno.\n• La demanda de una reforma laboral es ampliamente apoyada por la sociedad, con un 55% de los encuestados a favor de modernizar o reemplazar la normativa vigente, que perciben como rígida y desactualizada.\n• En el ámbito de defensa, la designación del teniente general Carlos Alberto Presti como titular del Ministerio fue calificada como \"una provocación\" por Estela de Carlotto, generando debate sobre el rol militar.\n• Para el crecimiento económico, se propone la dolarización gradual y la implementación de una \"banca de fondos mutuos 100% financiada con capital\" para asegurar un sistema bancario más robusto.\n\n💡 **¿Por qué importa?**\n• Estas reformas buscan reconfigurar la economía y el rol del Estado en Argentina, afectando la provisión de servicios, las condiciones laborales, la seguridad y la estabilidad macroeconómica.\n• El éxito de esta agenda determinará la capacidad del país para atraer inversiones y lograr un crecimiento sostenido, enfrentando al mismo tiempo desafíos políticos y sociales significativos.",
       "cantidad_noticias": 6,
       "noticias": [
+        {
+          "titulo": "El Gobierno tiene todo preparado para privatizar AySA antes de abril",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-tiene-todo-preparado-para-privatizar-aysa-en-el-verano-nid23112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 22:50:00"
+        },
+        {
+          "titulo": "Reforma laboral: casi el 70% de los argentinos apoya que la cuota sindical deje de ser obligatoria",
+          "link": "https://www.lanacion.com.ar/economia/reforma-laboral-casi-el-70-de-los-argentinos-apoya-que-la-cuota-sindical-deje-de-ser-obligatoria-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 17:59:07"
+        },
         {
           "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
           "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid24112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-24 14:55:19"
+          "fecha": "2025-11-24 17:30:00"
         },
         {
-          "titulo": "Milei, en guardia contra Cristina Kirchner y Chiqui Tapia",
-          "link": "https://www.lanacion.com.ar/politica/milei-en-guardia-contra-cristina-kirchner-y-chiqui-tapia-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-24 14:39:00"
-        },
-        {
-          "titulo": "Javier Milei retoma su agenda con reunión de Gabinete y un encuentro con el canciller israelí",
-          "link": "https://www.minutouno.com/politica/javier-milei-retoma-su-agenda-reunion-gabinete-y-un-encuentro-el-canciller-israeli-n6217079",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-24 14:31:00"
-        },
-        {
-          "titulo": "Nuevo choque en redes entre Lemoine y Pagano: ‘Operando sucio contra Milei’ y ‘Chinverguencha’",
-          "link": "https://www.perfil.com/noticias/politica/nuevo-choque-en-redes-entre-lemoine-y-pagano-operando-sucio-contra-milei-y-chinverguencha-por-la-impugnacion-de-una-diputada-libertaria.phtml",
+          "titulo": "Así se puede hacer que Argentina vuelva a crecer",
+          "link": "https://www.perfil.com/noticias/economia/larry-kotlikoff-asi-se-puede-hacer-que-argentina-vuelva-a-crecer.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-24 12:10:00"
+          "fecha": "2025-11-24 17:29:10"
+        },
+        {
+          "titulo": "Asesor de la reforma laboral dio detalles sobre el proyecto que trabaja el Gobierno",
+          "link": "https://www.perfil.com/noticias/economia/asesor-de-la-reforma-laboral-dio-detalles-sobre-el-proyecto-que-trabaja-el-gobierno.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-24 13:55:33"
         },
         {
           "titulo": "Armas: la peligrosa desregulación que impulsa el Gobierno",
           "link": "https://noticias.perfil.com/noticias/politica/armas-la-peligrosa-desregulacion-que-impulsa-el-gobierno.phtml",
           "fuente": "Perfil",
           "fecha": "2025-11-24 11:56:35"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: \"Operando sucio contra Milei\" y \"Chinverguencha\", otro fuerte cruce entre Lemoine y Pagano tras la impugnación a una diputada libertaria",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-operando-sucio-milei-chinverguencha-fuerte-cruce-lemoine-pagano-impugnacion-diputada-libertaria_0_tfhgDCefd4.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 08:31:42"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
         "Perfil",
-        "La Nación",
-        "Minuto1",
-        "Clarín"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -287,50 +516,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "reforma_y_pagos_20251124",
-      "tema": "Reforma y pagos tributarios Argentina",
-      "tema_normalizado": "reforma y pagos tributarios argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está inmersa en un proceso de reforma y redefinición de sus pagos tributarios, enfocándose en el Impuesto a las Ganancias para personas y empresas.\n• Se busca simplificar el sistema fiscal, aliviar la carga tributaria y adaptar normativas que se consideran desactualizadas por la inflación.\n• Las discusiones incluyen la ampliación de gastos deducibles, la actualización de pérdidas empresariales y cambios en la Ley Penal Tributaria.\n\n🔍 **Datos clave:**\n• **$100.000 millones:** Monto de impuestos impagos en disputa entre ARCA y grandes empresas por la actualización de quebrantos.\n• **Octubre 2022:** Fecha del fallo \"Telefónica\" de la Corte Suprema, que permite la actualización de pérdidas por inflación.\n• **$20.000 anuales:** Límite actual (y desactualizado por décadas) para deducir intereses de créditos hipotecarios en Ganancias.\n• **11,73%:** Aumento proyectado para las deducciones y pisos salariales de Ganancias en el primer semestre de 2026.\n• **$100 millones:** Nuevo monto mínimo propuesto para evasión simple, y $1.000 millones para evasión agravada, en la reforma penal tributaria.\n• **7.000 a 200:** Reducción estimada de causas penales tributarias con la implementación de la nueva Ley Penal Tributaria.\n\n⚡ **Desarrollo:**\n• El Gobierno propone ampliar la posibilidad de deducir gastos en el Impuesto a las Ganancias para individuos, incluyendo desde electrodomésticos hasta cuotas hipotecarias, con el fin de modernizar topes actualmente obsoletos.\n• Grandes empresas mantienen una disputa legal con ARCA por el derecho a actualizar por inflación las pérdidas contables (quebrantos) de años anteriores, apoyándose en un fallo de la Corte Suprema.\n• ARCA ha ofrecido a estas empresas un plan de pagos de hasta 36 cuotas sin multas para regularizar la situación de los impuestos generados por estos quebrantos.\n• Las deducciones y pisos salariales del Impuesto a las Ganancias se actualizan semestralmente de manera automática, con un incremento proyectado del 11,73% para el período enero-junio de 2026.\n• Se discute una reforma de la Ley Penal Tributaria que busca reducir drásticamente el número de causas penales y permitir la extinción de la acción legal mediante el pago de la deuda más un 50% adicional.\n• Un diputado peronista electo ha propuesto una reforma tributaria alternativa, centrada en la simplificación para PyMEs, el alivio fiscal al consumo y al ingreso, y la segmentación de cargas según el tamaño de las empresas.\n\n💡 **¿Por qué importa?**\n• Estas reformas buscan adaptar el sistema tributario argentino a la realidad económica y la inflación, impactando directamente la carga fiscal de trabajadores y empresas.\n• Podrían generar mayor transparencia y equidad en la recaudación, aliviar la presión sobre los contribuyentes y fomentar la inversión y el empleo.",
-      "cantidad_noticias": 5,
+      "tema_id": "dolar_argentina:_cotizacion_20251124",
+      "tema": "Dólar Argentina: cotización y mercado",
+      "tema_normalizado": "dolar argentina: cotizacion y mercado",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino presenta cotizaciones del dólar oficial y blue, con variaciones y un contexto de inflación.\n• El dólar blue se vendía a $1.425 y el oficial a $1.450 en noviembre, según los reportes más recientes proporcionados.\n• Un economista destacado, Miguel Ángel Broda, advierte sobre un \"dólar barato\" que dificulta la apertura económica y propone cambiar el esquema cambiario.\n\n🔍 **Datos clave:**\n• **Dólar Blue (24 de nov. de 2025, según fuente):** Venta $1.425, Compra $1.405.\n• **Dólar Oficial (20 de nov. de 2025, según fuente):** Venta $1.450, Compra $1.410 (en Banco Nación).\n• **Aumento Dólar Blue 2024:** Cerró en $1.230, con un incremento de $205 (+16,7%) desde su inicio.\n• **Estimación de Equilibrio (Broda):** Un tipo de cambio \"más de equilibrio\" en la franja de $1.650 o $1.700.\n• **Suba Dólar Blue 2020:** Un salto brusco del 111% (frente a una inflación del 36% en el mismo período).\n\n⚡ **Desarrollo:**\n• El dólar blue opera en el mercado paralelo, informal y sin límites, distinto al oficial, y su denominación se asocia a lo \"oscuro\" o a las \"blue chips\".\n• La cotización del dólar blue mostró una tendencia al alza en años previos: en 2023 acumuló una suba de $654 y en 2022 avanzó $138 (+66,4%).\n• Existen otras alternativas como el Dólar Contado Con Liqui (CCL) y el Dólar MEP (Bolsa), que permiten adquirir dólares en el exterior mediante la compra-venta de títulos.\n• Miguel Ángel Broda critica que el Gobierno use el tipo de cambio como ancla inflacionaria, argumentando que no da resultados y perjudica a las PyMES.\n• Broda propone una transición hacia una \"flotación administrada\" ampliando la banda cambiaria, con intervención del Banco Central y reservas, inspirándose en modelos como los de Brasil o Uruguay.\n• Además, asegura que no hay riesgo de un dólar descontrolado ($3.000 o $4.000) si se libera el mercado, ya que la economía argentina es bimonetaria.\n\n💡 **¿Por qué importa?**\n• El valor del dólar impacta directamente en la economía argentina, afectando la capacidad productiva de las empresas, la inflación de precios y el poder de compra de la población.\n• La discusión sobre el esquema cambiario busca definir una estrategia que permita la estabilidad económica, la apertura comercial y el crecimiento, sin sacrificar el tejido empresarial.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Impuesto a las ganancias: qué gastos podrían declararse para aliviar la carga fiscal",
-          "link": "https://www.lanacion.com.ar/economia/impuesto-a-las-ganancias-que-gastos-podrian-declararse-para-aliviar-la-carga-fiscal-nid24112025/",
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este lunes 24 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-lunes-24-noviembre-n6216239",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-24 16:32:00"
+        },
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este lunes 24 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-24-de-noviembre-nid24112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-24 15:15:08"
+          "fecha": "2025-11-24 16:10:00"
         },
         {
-          "titulo": "Ganancias: cuál es el trasfondo en la pelea entre empresas y el Gobierno por $100.000 millones de impuestos impagos",
-          "link": "https://www.clarin.com/economia/ganancias-trasfondo-pelea-empresas-gobierno-100000-millones-impuestos-impagos_0_9CUolX9H3x.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-24 14:41:16"
-        },
-        {
-          "titulo": "Así impactarán los montos de Ganancias 2026 en el bolsillo de los trabajadores",
-          "link": "https://www.iprofesional.com/impuestos/442454-impuesto-a-las-ganancias-2026-el-nuevo-piso-salarial-y-quienes-quedaran-alcanzados",
+          "titulo": "Broda advirtió por el dólar barato y recomendó modificar el esquema cambiario",
+          "link": "https://www.iprofesional.com/economia/442588-broda-advirtio-por-dolar-barato-y-recomendo-modificar-esquema-cambiario",
           "fuente": "iProfesional",
-          "fecha": "2025-11-24 13:36:00"
-        },
-        {
-          "titulo": "Guillermo Michel: \"Quiero discutir una reforma tributaria distinta a la del Gobierno\"",
-          "link": "https://www.ambito.com/economia/guillermo-michel-quiero-discutir-una-reforma-tributaria-distinta-la-del-gobierno-n6217097",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-24 13:14:00"
-        },
-        {
-          "titulo": "Reforma tributaria: ARCA aceptará pagos en juicios penales y se extinguirá la acción legal",
-          "link": "https://www.iprofesional.com/impuestos/442512-reforma-tributaria-arca-aceptara-pagos-en-juicio-penal",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-24 08:46:00"
+          "fecha": "2025-11-24 12:24:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
         "iProfesional",
-        "Clarín"
+        "Minuto1",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -338,119 +554,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "turismo_fin_de_20251124",
-      "tema": "Turismo fin de semana largo",
-      "tema_normalizado": "turismo fin de semana largo",
-      "resumen": "📌 **¿Qué está pasando?**\n• Durante el último fin de semana largo por el Día de la Soberanía Nacional, el turismo en Argentina mostró un fuerte crecimiento en la cantidad de viajeros.\n• Se registró un notable aumento en el gasto total a nivel nacional, aunque el gasto promedio diario por persona reflejó un comportamiento más austero.\n\n🔍 **Datos clave:**\n• **Fecha del feriado:** Del 21 al 24 de noviembre (Día de la Soberanía Nacional).\n• **Turistas movilizados:** 1.694.000 personas, un 21% más que en el mismo período de 2024.\n• **Gasto total en el fin de semana:** $355.789 millones, lo que representa un aumento del 34% real respecto a 2024.\n• **Gasto promedio diario por turista:** $91.317, con una disminución del 3,7% en términos reales comparado con 2024.\n• **Estadía promedio:** 2,3 noches, un 15% superior a 2024 debido al formato de cuatro días (frente a tres el año anterior).\n• **Balance anual (7 fines de semana largos):** 11.964.940 turistas viajaron por el país, generando $2.722.208 millones (equivalente a U$S 1.944 millones).\n\n⚡ **Desarrollo:**\n• El incremento en el movimiento turístico fue favorecido por la combinación de un clima templado, una activa agenda nacional de eventos y el formato de cuatro días del feriado, que amplió las oportunidades de viaje.\n• La Confederación Argentina de la Mediana Empresa (CAME) señaló que, aunque hubo un mayor volumen de consumo, el comportamiento fue más prudente, con un sostenimiento del gasto básico en gastronomía, alojamiento y transporte.\n• Destinos clave como Mar del Plata, Córdoba, Puerto Iguazú, Mendoza y las ciudades termales de Entre Ríos registraron ocupaciones muy altas, superando el 75%.\n• También se destacaron Bariloche, Salta, Tucumán, corredores serranos bonaerenses como Tandil, y en la Patagonia, El Calafate, El Chaltén, Puerto Madryn y Los Antiguos.\n• El feriado del Día de la Conciencia Negra en Brasil también impulsó la llegada de turistas brasileños, especialmente a Puerto Iguazú, donde la ocupación superó el 90%.\n• El secretario de Turismo y Ambiente, Daniel Scioli, y el presidente Javier Milei, celebraron públicamente los resultados, destacando un récord histórico de arribos en Mar del Plata.\n• CAME resalta que estos feriados tienen un impacto significativo, dinamizando las economías regionales y beneficiando a miles de pequeñas y medianas empresas vinculadas al turismo.\n\n💡 **¿Por qué importa?**\n• El turismo de fin de semana largo se consolida como un pilar fundamental para la economía argentina, impulsando el desarrollo regional y generando ingresos para múltiples sectores.\n• Este fenómeno refleja una tendencia en los viajeros a optimizar sus presupuestos, priorizando experiencias y consumos esenciales, lo que marca una pauta para la planificación de la próxima temporada de verano.",
-      "cantidad_noticias": 4,
+      "tema_id": "investigacion_pentagono:_senador_20251124",
+      "tema": "Investigación Pentágono: Senador Mark Kelly",
+      "tema_normalizado": "investigacion pentagono: senador mark kelly",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Pentágono ha abierto una investigación formal contra el senador demócrata por Arizona, Mark Kelly.\n• La medida se debe a que Kelly apareció en un video instando a militares en activo a desobedecer “órdenes ilegales”.\n• Kelly es el único de los legisladores participantes investigado por su estatus de oficial militar retirado sujeto a la jurisdicción del Pentágono.\n\n🔍 **Datos clave:**\n• **Investigado:** Senador Mark Kelly (demócrata por Arizona), ex comandante de la Marina y astronauta.\n• **Acusación:** Incitar a militares a desobedecer “órdenes ilegales” en un video junto a otros cinco legisladores.\n• **Autoridad investigadora:** Departamento de Defensa de EE. UU. (Pentágono).\n• **Secretario de Defensa:** Pete Hegseth, quien confirmó la investigación y explicó la base legal.\n• **Reacción del expresidente:** Donald Trump calificó el acto de sedición, \"castigable con la muerte\".\n• **Base legal:** Ley federal que permite convocar a militares retirados a servicio activo ante sospechas de infracciones penales, incluyendo un consejo de guerra.\n\n⚡ **Desarrollo:**\n• El senador Mark Kelly, junto con otros legisladores con experiencia militar o de inteligencia, lanzó un video dirigido a las fuerzas armadas.\n• En la grabación, Kelly afirmó: \"Ustedes pueden rechazar órdenes ilegales\", mientras sus colegas llamaban a defender la Constitución y las leyes.\n• La polémica surge en un contexto de alta tensión política y cuestionamientos sobre los límites del discurso de ex oficiales en cargos civiles.\n• El Pentágono justificó la investigación señalando que la conducta de Kelly daña el honor militar y podría llevar a un juicio militar o sanciones.\n• Pete Hegseth aclaró que solo Kelly está bajo investigación por ser un oficial retirado con rango de capitán, lo que lo hace reincorporable al servicio.\n• Mark Kelly no respondió directamente a la investigación, pero en una entrevista previa mencionó un aumento de amenazas tras comentarios de Trump.\n• El senador demócrata Rubén Gallego defendió a Kelly, argumentando que su colega solo defendió un principio básico de servir a la Constitución.\n• El video no especificó qué tipo de \"órdenes ilegales\" se referían, pero su difusión coincidió con decisiones de la administración Trump.\n\n💡 **¿Por qué importa?**\n• Esta investigación sienta un precedente sobre la libertad de expresión y los límites para exmilitares que ocupan cargos políticos, impactando las relaciones cívico-militares.\n• Resalta las tensiones políticas actuales en EE. UU. y el delicado equilibrio entre la disciplina militar y el deber constitucional de los miembros de las fuerzas armadas.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Feriado largo: creció el turismo un 21%, pero aún se observan gastos austeros",
-          "link": "https://www.ambito.com/economia/feriado-largo-crecio-el-turismo-un-21-pero-aun-se-observan-gastos-austeros-n6217103",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-24 14:04:00"
+          "titulo": "El Pentágono abrió una investigación contra el senador Mark Kelly por instar a los militares a desobedecer “órdenes ilegales”",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/24/el-pentagono-abrio-una-investigacion-contra-el-senador-mark-kelly-por-instar-a-los-militares-a-desobedecer-ordenes-ilegales/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-24 17:20:30"
         },
         {
-          "titulo": "Un fin de semana largo con récord de movimiento: 1.7 millones de personas viajaron por el país",
-          "link": "https://www.minutouno.com/economia/un-fin-semana-largo-record-movimiento-17-millones-personas-viajaron-el-pais-n6217096",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-24 12:55:00"
-        },
-        {
-          "titulo": "Fin de semana largo: viajaron más turistas y el gasto aumentó 34%, según CAME",
-          "link": "https://www.perfil.com/noticias/economia/fin-de-semana-largo-viajaron-mas-turistas-y-el-gasto-aumento-34-segun-came.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-24 11:15:15"
-        },
-        {
-          "titulo": "El gasto de los turistas en el fin de semana largo aumentó un 34% contra 2024",
-          "link": "https://www.lanacion.com.ar/economia/el-gasto-de-los-turistas-en-el-fin-de-semana-largo-aumento-un-34-contra-2024-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-24 10:56:48"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-24",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "La Nación",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "anses:_pagos_y_20251124",
-      "tema": "ANSES: pagos y cronogramas diciembre",
-      "tema_normalizado": "anses: pagos y cronogramas diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• ANSES anunció el cronograma y los montos de pagos para diciembre de 2025, incluyendo un ajuste del 2,3% en diversas prestaciones.\n• Se destacan los incrementos para jubilaciones y pensiones, Asignaciones Familiares (SUAF) y Asignación Universal por Hijo (AUH), junto con beneficios adicionales.\n• Los cobros se realizarán mediante depósito automático, organizados según la terminación del DNI de cada beneficiario.\n\n🔍 **Datos clave:**\n• **Aumento general:** 2,3% (basado en la variación del IPC de octubre).\n• **Jubilación mínima:** $340.746,35 (antes del aguinaldo).\n• **Bono extraordinario para jubilados:** $70.000.\n• **Aguinaldo:** 50% del mejor ingreso bruto del semestre.\n• **AUH general:** $122.471,72.\n• **AUH por Discapacidad:** $398.853 (con 20% retenido por Libreta).\n• **Tarjeta Alimentar (valores desde mayo 2024):** $52.250 (1 hijo), $81.936 (2 hijos), $108.062 (3 o más).\n• **Complemento Leche (Plan de los Mil Días):** $46.198.\n• **Topes de Ingreso Familiar:** Individual $2.511.023, Grupo Familiar $5.022.047.\n\n⚡ **Desarrollo:**\n• **Jubilados y Pensionados:** Recibirán su haber mensual con aumento, el medio aguinaldo y un bono extra de $70.000, sumando un total estimado de $581.119,35 para la jubilación mínima.\n• **Cronograma de Pagos para Jubilados:** Los depósitos iniciarán el 9 de diciembre (DNI 0 para la mínima) y se extenderán hasta el 23 de diciembre (DNI 8 y 9 para haberes superiores).\n• **Asignación Universal por Hijo (AUH):** El monto general se fijó en $122.471,72. Para la AUH por Discapacidad, el valor es de $398.853, de los cuales se retiene un 20% hasta la presentación de la Libreta AUH.\n• **Asignaciones Familiares (SUAF):** Los montos varían según el nivel de ingreso del grupo familiar, con escalas que van desde $12.877,17 hasta $199.366,21 para hijos o hijos con discapacidad.\n• **Libreta AUH:** La presentación de este formulario, que certifica controles de salud y escolaridad, es indispensable para el cobro del 20% retenido y se gestiona a través de Mi ANSES.\n• **Beneficios Adicionales:** Las familias con AUH por discapacidad también acceden a la Tarjeta Alimentar y al Complemento Leche (para niños de hasta 3 años), con sus respectivos montos actualizados.\n• **Otros Montos:** Asignaciones por Nacimiento ($71.364,50), Adopción ($426.742,24), Matrimonio ($106.868,42) y Cónyuge ($14.846,18) también fueron actualizadas.\n\n💡 **¿Por qué importa?**\n• La publicación de estos cronogramas y montos actualizados brinda certezas económicas a millones de familias y jubilados sobre sus ingresos de fin de año.\n• Estos ajustes, aguinaldos y bonos representan un apoyo fundamental para el poder adquisitivo de los beneficiarios en un contexto inflacionario.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "ANSES: el detalle de lo que cobrarán las SUAF en diciembre 2025",
-          "link": "https://www.minutouno.com/economia/anses-el-detalle-lo-que-cobraran-las-suaf-diciembre-2025-n6216228",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-24 14:31:00"
-        },
-        {
-          "titulo": "ANSES publicó el cronograma del aguinaldo 2025: cuánto cobrarán los jubilados en diciembre",
-          "link": "https://www.perfil.com/noticias/economia/anses-publico-el-cronograma-del-aguinaldo-2025-cuanto-cobraran-los-jubilados-en-diciembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-24 08:00:00"
-        },
-        {
-          "titulo": "ANSES: las modificaciones en los montos de la AUH para diciembre",
-          "link": "https://www.minutouno.com/economia/anses-las-modificaciones-los-montos-la-auh-diciembre-n6216536",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-24 07:15:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-24",
-      "fuentes": [
-        "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "bolsonaro:_ratificacion_prision_20251124",
-      "tema": "Bolsonaro: ratificación prisión preventiva",
-      "tema_normalizado": "bolsonaro: ratificacion prision preventiva",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Tribunal Supremo de Brasil (STF) confirmó la prisión preventiva del expresidente Jair Bolsonaro.\n• Esta decisión ratifica la orden del juez Alexandre de Moraes, dictada tras el intento de Bolsonaro de sabotear su tobillera electrónica.\n• El exmandatario fue trasladado de su arresto domiciliario a la sede de la Policía Federal en Brasilia.\n\n🔍 **Datos clave:**\n• **Jair Bolsonaro:** Expresidente de Brasil (2019-2022), de 70 años.\n• **27 años y 3 meses:** Condena previa por intento de golpe de Estado, en espera de apelaciones.\n• **Alexandre de Moraes:** Juez del STF que ordenó y ratificó la prisión preventiva.\n• **Lunes 23 de noviembre de 2025:** Fecha en que la Primera Sala del STF confirmó la medida.\n• **Más de 100 días:** Tiempo que Bolsonaro estuvo bajo arresto domiciliario.\n• **Flávio Dino, Cristiano Zanin, Cármen Lúcia:** Magistrados que votaron a favor de mantener la decisión de Moraes.\n\n⚡ **Desarrollo:**\n• Bolsonaro se encontraba bajo arresto domiciliario desde agosto, impuesto por el STF debido a incumplimientos de medidas cautelares.\n• El juez de Moraes ordenó la prisión preventiva el sábado anterior, argumentando un riesgo inminente de fuga.\n• La causa principal fue el intento \"doloso y consciente\" de inutilizar su tobillera electrónica con un soldador, lo que calificó de \"falta grave\".\n• Bolsonaro admitió el acto, pero alegó que fue provocado por \"paranoia y alucinaciones\" debido a la mezcla de psicofármacos (pregabalina y sertralina).\n• Moraes destacó que el expresidente ya había incumplido previamente medidas cautelares, como el uso de redes sociales en julio y agosto.\n• La convocatoria a una vigilia de oración frente a su casa, impulsada por su hijo Flávio Bolsonaro, fue interpretada como un posible facilitador para una fuga a una embajada extranjera.\n• La detención busca garantizar el orden público, la aplicación de la ley penal y asegurar que no se sigan violando las medidas judiciales.\n• La condena de 27 años por golpismo, junto con condenas a otros funcionarios de su administración, resalta la gravedad de la conspiración para deslegitimar el proceso electoral de 2022 y los asaltos del 8 de enero de 2023.\n\n💡 **¿Por qué importa?**\n• La ratificación de la prisión preventiva subraya la independencia judicial de Brasil y el principio de que ningún ciudadano, ni siquiera un expresidente, está por encima de la ley.\n• Esta decisión demuestra la firmeza del Estado de derecho ante intentos de subvertir la democracia y el incumplimiento de las decisiones judiciales en el país.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "El Supremo de Brasil confirmó la prisión preventiva de Bolsonaro tras sabotear su tobillera electrónica",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-supremo-de-brasil-confirmo-la-prision-preventiva-de-bolsonaro-tras-sabotear-su-tobillera-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-24 14:39:13"
-        },
-        {
-          "titulo": "La Corte Suprema de Brasil ratificó la prisión preventiva de Jair Bolsonaro",
-          "link": "https://www.ambito.com/mundo/la-corte-suprema-brasil-ratifico-la-prision-preventiva-jair-bolsonaro-n6217071",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-24 12:12:00"
-        },
-        {
-          "titulo": "La Corte Suprema de Brasil ratifica la orden de mantener a Jair Bolsonaro encarcelado",
-          "link": "https://www.clarin.com/mundo/corte-suprema-brasil-ratifica-orden-mantener-jair-bolsonaro-encarcelado_0_pYvznQKPEn.html",
+          "titulo": "El Pentágono investiga a un senador demócrata que pidió a los militares desobedecer \"órdenes ilegales\" y al que Donald Trump sugirió aplicarle la pena de muerte",
+          "link": "https://www.clarin.com/mundo/pentagono-investiga-senador-democrata-pidio-militares-desobedecer-ordenes-ilegales-donald-trump-sugirio-aplicarle-pena-muerte_0_Nlo0jzcUi0.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-24 11:30:51"
+          "fecha": "2025-11-24 15:46:29"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
-        "Clarín"
+        "Clarín",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -458,37 +585,61 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "schiaretti:_operacion_cardiaca_20251124",
-      "tema": "Schiaretti: operación cardíaca programada",
-      "tema_normalizado": "schiaretti: operacion cardiaca programada",
-      "resumen": "📌 **¿Qué está pasando?**\n• El exgobernador de Córdoba y actual diputado nacional electo, Juan Schiaretti, será sometido a una intervención cardíaca programada.\n• La operación, anunciada por él mismo en sus redes sociales, consiste en la sustitución de su válvula aórtica mediante cateterismo.\n• El procedimiento se realizará este viernes 28 de noviembre en la reconocida Fundación Favaloro de la ciudad de Buenos Aires.\n\n🔍 **Datos clave:**\n• **Fecha de intervención:** Viernes 28 de noviembre.\n• **Lugar:** Fundación Favaloro, ciudad de Buenos Aires.\n• **Edad de Schiaretti:** 76 años.\n• **Diagnóstico:** Estenosis de la válvula aórtica (un estrechamiento que dificulta el flujo sanguíneo).\n• **Procedimiento:** Implante Valvular Aórtico Transcatéter (TAVI), un reemplazo de válvula aórtica sin cirugía abierta.\n• **Antecedentes de salud:** Padece diabetes; en 2021 le colocaron cuatro stents y le extirparon un quiste en el riñón derecho.\n\n⚡ **Desarrollo:**\n• La necesidad de la operación fue una recomendación médica, tras la realización de estudios que determinaron el mal funcionamiento de su válvula aórtica.\n• El propio Schiaretti comunicó públicamente la noticia, buscando llevar tranquilidad y despejar dudas sobre su estado de salud.\n• El procedimiento por cateterismo (TAVI) es una técnica mínimamente invasiva y avanzada, que permite reemplazar la válvula sin abrir el esternón.\n• Esta técnica reduce significativamente los riesgos asociados, el tiempo de internación y acelera la recuperación del paciente en comparación con la cirugía tradicional.\n• Si la evolución postoperatoria es favorable y sin complicaciones, se espera que el exgobernador pueda retomar sus actividades en un corto período de tiempo.\n• Schiaretti finalizó su mandato provincial en 2023 y fue electo diputado nacional por la fuerza Provincias Unidas en las elecciones de octubre de ese año, obteniendo el segundo lugar en Córdoba.\n• Previo a la intervención, estuvo en España cumpliendo una agenda institucional para impulsar la cooperación internacional y posicionar a Córdoba.\n• Su pronta y exitosa recuperación es crucial para que pueda asumir su banca en el Congreso Nacional sin mayores demoras.\n\n💡 **¿Por qué importa?**\n• La operación permite abordar un problema de salud crítico de un relevante actor político nacional, garantizando su bienestar con una técnica quirúrgica de vanguardia.\n• Su esperada pronta recuperación es fundamental para que pueda cumplir con su próximo mandato como diputado nacional, manteniendo su rol activo en la política argentina.",
-      "cantidad_noticias": 3,
+      "tema_id": "causa_cuadernos_y_20251124",
+      "tema": "Causa Cuadernos y Caso Vialidad",
+      "tema_normalizado": "causa cuadernos y caso vialidad",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Causa Cuadernos retoma su juicio con la lectura de la acusación principal, que describe a una asociación ilícita liderada por Cristina Kirchner.\n• Paralelamente, en el Caso Vialidad, la fiscalía evalúa incluir el departamento donde reside Cristina Kirchner en el listado de bienes a decomisar.\n\n🔍 **Datos clave:**\n• **10.400.000 dólares:** Suma atribuida a coimas recibidas por Cristina Kirchner en la Causa Cuadernos.\n• **204 hechos:** Número de cohechos pasivos que se le imputan a la expresidenta.\n• **2003-2015:** Período de actividad de la asociación ilícita investigada en la Causa Cuadernos.\n• **6 años de prisión:** Pena impuesta a Cristina Kirchner en el Caso Vialidad (sentencia no firme).\n• **80 propiedades:** Bienes de Lázaro Báez y sus empresas ya decomisados en el Caso Vialidad.\n• **2 de diciembre:** Fecha estimada para finalizar la lectura de la acusación en la Causa Cuadernos.\n• **Carlos Stornelli:** Fiscal federal en la Causa Cuadernos.\n• **Diego Luciani y Sergio Mola:** Fiscales en el Caso Vialidad.\n\n⚡ **Desarrollo:**\n• En la Causa Cuadernos, Cristina Kirchner es acusada como jefa de una asociación ilícita dedicada a la recaudación de fondos ilegales mediante coimas.\n• El Tribunal Oral Federal 7 (TOF 7) realiza audiencias virtuales dos veces por semana para avanzar con la lectura de los requerimientos de elevación a juicio.\n• La fiscalía sostiene que existió un esquema donde funcionarios públicos y empresarios obtenían beneficios recíprocos con el dinero ilegal.\n• En el Caso Vialidad, el Tribunal Oral Federal 2 ya ordenó el decomiso de propiedades de Lázaro Báez y bienes cedidos por Cristina Kirchner a sus hijos.\n• Ahora, la fiscalía analiza decomisar un departamento de 232 m2 en Constitución, inscripto a nombre de Hotesur, empresa de Máximo y Florencia Kirchner.\n• La Justicia argumenta que para el decomiso de bienes no se necesita una \"trazabilidad científica\" estricta, sino coincidencia temporal y razonabilidad económica.\n• Esta medida puede alcanzar a bienes heredados o patrimonios vinculados a personas no condenadas, como los hijos de la expresidenta o Néstor Kirchner.\n\n💡 **¿Por qué importa?**\n• Ambos procesos judiciales son cruciales para determinar responsabilidades en casos de corrupción de alto nivel en Argentina.\n• Se debate el alcance de la ley respecto al decomiso de bienes y cómo se vinculan con delitos, incluso si los dueños actuales no fueron condenados directamente.\n• Los juicios buscan establecer la rendición de cuentas para exfuncionarios y empresarios involucrados en supuestos esquemas de recaudación ilegal de fondos.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Juan Schiaretti será sometido a una operación cardíaca: cómo se encuentra",
-          "link": "https://www.minutouno.com/politica/juan-schiaretti-sera-sometido-una-operacion-cardiaca-como-se-encuentra-n6217063",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-24 12:30:00"
-        },
-        {
-          "titulo": "Juan Schiaretti será sometido a una cirugía programada en la Fundación Favaloro",
-          "link": "https://www.lanacion.com.ar/politica/juan-schiaretti-sera-sometido-a-una-cirugia-programada-en-la-fundacion-favaloro-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-24 12:19:29"
-        },
-        {
-          "titulo": "Juan Schiaretti será sometido a una intervención cardíaca",
-          "link": "https://www.clarin.com/politica/juan-schiaretti-sometido-intervencion-cardiaca_0_VXJGiB5e55.html",
+          "titulo": "Mañana se retoma el juicio de Cuadernos y arrancan dos audiencias por semana: explicarán por qué se trata de una asociación ilícita",
+          "link": "https://www.clarin.com/politica/manana-retoma-juicio-cuadernos-arrancan-audiencias-semana-explicaran-trata-asociacion-ilicita_0_J9Gd41O0l3.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-24 11:53:09"
+          "fecha": "2025-11-24 17:27:06"
+        },
+        {
+          "titulo": "Caso Vialidad: la fiscalía analiza pedir que se incluya el departamento donde vive Cristina Kirchner en los bienes a decomisar",
+          "link": "https://www.lanacion.com.ar/politica/caso-vialidad-la-fiscalia-analiza-pedir-que-se-incluya-el-departamento-donde-vive-cristina-kirchner-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 17:26:11"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-24",
       "fuentes": [
-        "La Nación",
-        "Minuto1",
-        "Clarín"
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "crisis_y_liderazgo_20251124",
+      "tema": "Crisis y liderazgo interno de la UCR",
+      "tema_normalizado": "crisis y liderazgo interno de ucr",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Unión Cívica Radical (UCR) atraviesa una profunda crisis interna y una disputa por su liderazgo tras los resultados electorales.\n• El partido debe renovar su conducción y elegir un nuevo presidente, pero sus principales referentes se muestran reacios a asumir el cargo.\n• Se busca la conformación de una lista de unidad para mitigar las divisiones y definir un rumbo claro para el futuro de la UCR.\n\n🔍 **Datos clave:**\n• **Fecha clave:** 12 de diciembre, convocatoria del Comité Nacional para elegir al nuevo presidente.\n• **Presidente saliente:** Martín Lousteau, no buscará la reelección y dejará la presidencia el 15 de diciembre.\n• **Representación en Diputados:** La bancada radical oficial quedó reducida a 6 legisladores, perdiendo cerca del 70% de sus bancas iniciales.\n• **\"Radicales peluca\":** Los diputados Luis Petri, Mariano Campero, Luis Picat y Federico Tournier, confirmaron su pase al bloque de La Libertad Avanza (LLA).\n• **Candidato potencial:** Gustavo Valdés, gobernador de Corrientes, es mencionado como una figura para la presidencia del partido.\n\n⚡ **Desarrollo:**\n• La UCR sufrió una caída drástica en su representación en el Congreso, pasando de 33 diputados a una bancada oficial de solo 6 miembros.\n• Legisladores vinculados a gobernadores que apoyaron a Javier Milei en las elecciones, como los de Mendoza, Entre Ríos y Chaco, integrarían el bloque radical oficial.\n• Martín Lousteau, el presidente saliente, no formará parte del bloque de la UCR en Diputados, sino que integrará \"Provincias Unidas\", un sello ideado por un grupo de gobernadores.\n• La fragmentación interna se acentuó con la oficialización del pase de algunos legisladores al bloque de La Libertad Avanza, evidenciando la dificultad del partido para ordenarse.\n• La mayoría de los dirigentes radicales prefieren resguardar sus \"pagos chicos\" antes que asumir el costo de liderar un partido en retroceso y con divisiones.\n• Gustavo Valdés es visto como un posible líder por su capacidad de imponerse electoralmente sin alianzas con LLA y por mantener buenos vínculos con diversos sectores.\n\n💡 **¿Por qué importa?**\n• La crisis de liderazgo y la falta de una estrategia común ponen en riesgo la relevancia y el posicionamiento de la UCR en el nuevo escenario político argentino.\n• La UCR debe decidir si se reconstruye como un frente opositor o busca un acercamiento al oficialismo, lo cual definirá su rol futuro en la política nacional.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La UCR, de crisis en crisis: quién podría ser su nuevo presidente y una pelea feroz en el Congreso",
+          "link": "https://www.clarin.com/politica/ucr-crisis-crisis-podria-nuevo-presidente-pelea-feroz-congreso_0_DMgOiO70HM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-24 13:49:18"
+        },
+        {
+          "titulo": "Crisis en la UCR: los principales dirigentes del radicalismo se muestran esquivos a asumir la conducción del partido",
+          "link": "https://www.lanacion.com.ar/politica/crisis-en-la-ucr-los-principales-dirigentes-del-radicalismo-se-resisten-a-asumir-la-conduccion-del-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-24 12:39:46"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-24",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
