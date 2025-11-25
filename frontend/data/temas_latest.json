@@ -1,47 +1,53 @@
 {
   "fecha": "2025-11-25",
-  "fecha_generacion": "2025-11-25T15:23:13.864203",
+  "fecha_generacion": "2025-11-25T18:28:20.699370",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "dolar_argentina:_cotizaciones_20251125",
-      "tema": "Dólar Argentina: Cotizaciones Noviembre 25",
-      "tema_normalizado": "dolar argentina: cotizaciones noviembre 25",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Este martes 25 de noviembre, las distintas cotizaciones del dólar en Argentina experimentaron un alza generalizada tras el fin de semana extra largo.\n*   La suba estuvo marcada por la atención del mercado en las reservas del Banco Central (BCRA), la desmentida de un crédito millonario y la política de tasas de interés.\n\n🔍 **Datos clave:**\n*   **Dólar Oficial (Banco Nación venta):** $1.470\n*   **Dólar Blue (venta):** Se ubicó entre $1.445 y $1.455.\n*   **Dólar Mayorista:** Trepó 1,8% a $1.450 o hasta 3,5% a $1.449.\n*   **Dólar MEP:** Alcanzó $1.479,49.\n*   **Dólar Contado con Liquidación (CCL):** Se negoció hasta $1.518,12.\n*   **Dólar Tarjeta/Turista:** Cotizó en $1.885.\n*   **Reservas netas del BCRA:** Muy bajas, rondando los USD 275 millones.\n*   **Crédito desmentido:** El ministro Luis Caputo negó un supuesto crédito de USD 20.000 millones.\n*   **Swap con EEUU:** Se activó un tramo de USD 2.500 millones.\n\n⚡ **Desarrollo:**\n*   Los mercados se reactivaron con incremento en el dólar oficial y los tipos de cambio financieros, volviendo a concentrar la atención tras el feriado.\n*   El ministro de Economía, Luis Caputo, desmintió un supuesto crédito de USD 20.000 millones de bancos estadounidenses, lo que generó \"ruido\" e incertidumbre entre los operadores.\n*   Las reservas netas del BCRA se mantienen en niveles críticos, cercanas a cero, debido a la activación de un swap con Estados Unidos y el pago de un vencimiento al FMI.\n*   El BCRA volvió a recortar su tasa de referencia, situándola por debajo de la inflación, lo que impacta en los incentivos del mercado y la demanda de pesos.\n*   La licitación de deuda del Tesoro Nacional, prevista para el miércoles, es un evento clave para el Gobierno, ya que pondrá a prueba su estrategia de tasas de interés.\n*   Se evalúa la posibilidad de un REPO por USD 5.000 millones, que podría ayudar a cubrir vencimientos de deuda en moneda extranjera previstos para enero.\n*   Anteriormente, el dólar blue cerró la semana en $1.425, un valor inusual por debajo del dólar oficial mayorista de $1.450, generando una \"brecha negativa\" monitoreada de cerca.\n\n💡 **¿Por qué importa?**\n*   La fluctuación y el aumento en las cotizaciones del dólar reflejan la persistente incertidumbre económica y la preocupación por la capacidad del BCRA para acumular reservas.\n*   Las próximas decisiones sobre tasas, la gestión de la deuda y la recomposición de reservas serán determinantes para la estabilidad del mercado y la confianza de los inversores en Argentina.",
-      "cantidad_noticias": 14,
+      "tema_id": "dolar_blue_y_20251125",
+      "tema": "Dólar Blue y Cotizaciones Noviembre",
+      "tema_normalizado": "dolar blue y cotizaciones noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El martes 25 de noviembre, el dólar blue y las diversas cotizaciones financieras experimentaron subas significativas tras un fin de semana extra largo y la reciente baja de tasas de interés del Banco Central (BCRA).\n• Esta tendencia alcista en el mercado cambiario se vio influenciada por la desmentida de un supuesto crédito millonario y la expectativa ante una licitación clave del Tesoro.\n\n🔍 **Datos clave:**\n• **Fecha:** Martes 25 de noviembre.\n• **Dólar Blue:** Cerró a $1.460 para la venta, subiendo $35. Para la compra, $1.440.\n• **Dólar Oficial Minorista (BNA):** Cotizó a $1.470 para la venta, con un aumento de $20 en la semana.\n• **Dólar Oficial Mayorista:** Se ubicó alrededor de $1.442 - $1.450,26, con subas superiores al 1% en el día.\n• **Dólar MEP:** Operó en torno a $1.474.\n• **Dólar CCL (Contado Con Liquidación):** Alcanzó aproximadamente los $1.517.\n• **Dólar Tarjeta/Turista:** Se mantuvo en $1.911.\n• **Tasa de interés BCRA:** Recortada del 22% al 20% nominal anual.\n\n⚡ **Desarrollo:**\n• Las subas en las cotizaciones se atribuyen a la mayor liquidez en pesos, generada por el recorte de las tasas de interés del BCRA, buscando normalizar variables económicas.\n• El ministro de Economía, Luis Caputo, desmintió un crédito de u$s20.000 millones, lo que generó \"ruido\" e incertidumbre en el mercado cambiario.\n• La atención se centró también en la última licitación de deuda del Tesoro de noviembre, vista como un \"test\" para las tasas de interés futuras y los vencimientos de deuda.\n• El dólar blue es la cotización informal, sin límites, que se negocia en el mercado paralelo, mientras que el CCL y MEP permiten acceder a dólares a través de la compra-venta de títulos.\n• El S&P Merval en dólares experimentó una caída del 4% y el riesgo país superó los 650 puntos, reflejando la volatilidad del mercado.\n\n💡 **¿Por qué importa?**\n• El comportamiento del dólar es un termómetro de la confianza económica y las decisiones de política monetaria del gobierno.\n• La fluctuación de estas cotizaciones impacta directamente en la economía cotidiana, el poder adquisitivo y las expectativas de inversión.",
+      "cantidad_noticias": 10,
       "noticias": [
-        {
-          "titulo": "Dólar hoy en vivo: en el Banco Nación sube a $1.470 para la venta",
-          "link": "https://www.infobae.com/economia/2025/11/25/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-25-de-noviembre/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-25 12:05:15"
-        },
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 25 de noviembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-25-de-noviembre-nid25112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-25 12:01:13"
+          "fecha": "2025-11-25 14:59:17"
         },
         {
-          "titulo": "El dólar oficial salta más de 1% después del fin de semana extra largo",
-          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-al-centro-la-escena-luego-cuatro-dias-actividad-y-el-mercado-se-enfoca-las-reservas-n6217275",
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 25 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-25-noviembre-n6217235",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:59:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 25 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-25-noviembre-n6217271",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:55:00"
+          "fecha": "2025-11-25 14:59:00"
         },
         {
           "titulo": "Dólar hoy: a cuánto cotiza este martes 25 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-25-noviembre-n6217234",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:42:00"
+          "fecha": "2025-11-25 14:58:00"
         },
         {
-          "titulo": "Sube el dólar con la mira puesta en qué ocurrirá esta semana con las tasas",
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 25 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-25-noviembre-n6217271",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 14:55:00"
+        },
+        {
+          "titulo": "El dólar oficial sube más de 1% y se dispara el blue después del fin de semana extra largo",
+          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-al-centro-la-escena-luego-cuatro-dias-actividad-y-el-mercado-se-enfoca-las-reservas-n6217275",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 14:33:00"
+        },
+        {
+          "titulo": "El dólar arranca la semana con una suba de $25, tras la baja de las tasas de interés",
+          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-arranca-la-semana-con-una-suba-de-25-tras-la-baja-de-tasas-de-interes-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 13:10:08"
+        },
+        {
+          "titulo": "Sube el dólar y se acerca a los $ 1.500, con la mira puesta en qué ocurrirá esta semana con las tasas",
           "link": "https://www.clarin.com/economia/sube-dolar-mira-puesta-ocurrira-semana-tasas_0_VW2SykFfEr.html",
           "fuente": "Clarín",
           "fecha": "2025-11-25 11:27:40"
@@ -53,57 +59,25 @@
           "fecha": "2025-11-25 11:25:00"
         },
         {
-          "titulo": "Dólar blue hoy: a cuánto opera este martes 25 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-25-noviembre-n6217235",
+          "titulo": "Real blue: a cuánto opera este martes 25 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-martes-25-noviembre-n6217343",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:05:00"
+          "fecha": "2025-11-25 11:10:00"
         },
         {
-          "titulo": "El dato del BCRA que sacude al mercado: por qué el dólar podría buscar un nuevo precio de referencia",
-          "link": "https://www.iprofesional.com/economia/442636-el-dato-del-bcra-que-sacude-al-mercado-por-que-el-dolar-podria-buscar-un-nuevo-precio",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-25 10:55:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 25 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-25-noviembre_0_wnce2nrERw.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 09:00:01"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 25 de noviembre, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-25-noviembre-minuto-minuto_0_Gjkjy6mSVd.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 07:34:13"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 25 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-25-noviembre_0_XKNrRD4wlg.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 07:08:00"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 25 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-25-noviembre_0_HctHfNrksD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 07:08:00"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este martes 25 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-martes-25-noviembre_0_2Mb5HW05Jy.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 07:05:02"
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 25 de noviembre",
+          "link": "https://www.ambito.com/finanzas/copia-euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-25-noviembre-n6217237",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 11:09:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-25",
       "fuentes": [
-        "La Nación",
+        "Minuto1",
         "Clarín",
         "Ámbito Financiero",
-        "Minuto1",
-        "iProfesional",
-        "Infobae"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -111,106 +85,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "gobierno_milei:_acciones_20251125",
-      "tema": "Gobierno Milei: Acciones y Reformas Clave",
-      "tema_normalizado": "gobierno milei: acciones y reformas clave",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está implementando cambios clave en su gabinete y políticas, destacándose una reestructuración en el Ministerio de Defensa y una ambiciosa agenda legislativa.\n• Se observa un fuerte alineamiento en política exterior con Israel y la propuesta de nuevas fuerzas de seguridad.\n\n🔍 **Datos clave:**\n• **Carlos Presti:** Teniente General, designado nuevo Ministro de Defensa, reemplaza a Luis Petri. Es el primer militar en el cargo desde 1983.\n• **14 de diciembre:** Fecha límite fijada por el Gobierno para presentar el primer borrador de reformas laborales e impositivas.\n• **Gideon Saar:** Canciller de Israel, visitó Argentina para fortalecer la alianza geopolítica.\n• **Policía Migratoria:** Nueva fuerza propuesta para intensificar los controles en fronteras y aeropuertos.\n• **Karina Milei:** Secretaria General de la Presidencia, con 20% de imagen positiva y 65% negativa en reciente encuesta.\n• **Presupuesto 2026:** Una de las leyes prioritarias a debatir en sesiones extraordinarias.\n\n⚡ **Desarrollo:**\n• **Reforma en Defensa:** El Teniente General Carlos Presti, actual jefe del Ejército, asumirá el Ministerio de Defensa, una decisión impulsada por Karina Milei. Se anticipa una profunda renovación en la cúpula de las Fuerzas Armadas, incluyendo la salida del jefe del Estado Mayor Conjunto, Xavier Isaac.\n• **Agenda Legislativa:** El Gobierno impulsa un paquete de reformas estructurales, incluyendo una \"modernización laboral\" y cambios impositivos, a través del \"Consejo de Mayo.\" Se esperan sesiones extraordinarias en diciembre (para el Presupuesto 2026) y febrero, aunque persisten desacuerdos con gobernadores, la CGT y empresarios.\n• **Política Exterior Pro-Israel:** Javier Milei ha fortalecido la relación con Israel, recibiendo a su canciller Gideon Saar y reafirmando su apoyo. Argentina anunció el traslado de su embajada a Jerusalén y ha respaldado a Benjamín Netanyahu, participando también en homenajes a víctimas de atentados.\n• **Seguridad y Control Migratorio:** Se planea la creación de una \"Policía Migratoria\" bajo el Ministerio de Seguridad, destinada a profesionalizar los controles en fronteras y aeropuertos y reemplazar funciones de Gendarmería y PSA. La medida ha generado comparaciones con el ICE de EE. UU.\n• **Panorama Político Interno:** Encuestas recientes muestran a Milei con un 43% de imagen positiva, mientras que Karina Milei registra una baja aprobación (20% positiva). El presidente también ha criticado públicamente al presidente de la AFA, Claudio \"Chiqui\" Tapia, por supuestas irregularidades arbitrales, con un informe de Federico Sturzenegger.\n\n💡 **¿Por qué importa?**\n• Las reformas propuestas y los cambios en el gabinete buscan redefinir la estructura del Estado y la economía, lo que podría generar un impacto significativo en la sociedad y la política argentina.\n• La capacidad del gobierno para obtener consensos en el Congreso será crucial para la implementación de su ambiciosa agenda legislativa y la gobernabilidad a futuro.",
-      "cantidad_noticias": 14,
+      "tema_id": "causa_cuadernos_de_20251125",
+      "tema": "Causa Cuadernos de las Coimas",
+      "tema_normalizado": "causa cuadernos de coimas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El juicio oral por la \"Causa Cuadernos de las Coimas\", uno de los expedientes de corrupción más extensos de Argentina, ha retomado su actividad en Comodoro Py.\n• Las audiencias avanzan con la lectura de declaraciones de \"arrepentidos\" y la presentación de pruebas por parte de la fiscalía.\n• La expresidenta Cristina Fernández de Kirchner, exfuncionarios de alto rango y empresarios están en el banquillo de los acusados por presuntos hechos de corrupción.\n\n🔍 **Datos clave:**\n• **Período investigado:** Los presuntos hechos de corrupción se habrían desarrollado entre 2003 y 2015, abarcando los gobiernos de Néstor y Cristina Kirchner.\n• **Imputados:** La causa abarca a 86 imputados, incluyendo a la expresidenta Cristina Kirchner y al ex-subsecretario de Planificación Roberto Baratta.\n• **Hechos alegados:** Se investigan más de 540 presuntos pagos ilegales relacionados con la adjudicación de obra pública.\n• **Evidencia clave:** Los cuadernos del chofer Oscar Centeno, que detallan supuestos traslados de dinero, son la pieza central que originó la investigación.\n• **Mecanismo de pago:** Los sobornos solían representar el 10% de lo que las empresas ya habían cobrado por una adjudicación, según testimonios.\n\n⚡ **Desarrollo:**\n• La investigación se desencadenó a partir de las meticulosas anotaciones de Oscar Centeno, quien fue chofer de Roberto Baratta, registrando presuntos recorridos y entregas de dinero.\n• Baratta, ex-subsecretario de Coordinación del Ministerio de Planificación, es acusado por la fiscalía de recaudar sobornos en al menos 96 oportunidades.\n• El financista Ernesto Clarens, en su declaración como \"arrepentido\", reconoció su participación como intermediario en la maniobra, cambiando pesos a dólares y entregando el dinero a Daniel Muñoz.\n• Clarens detalló que fue convocado por Carlos Wagner, entonces director de la cámara de empresarios, para un esquema de recaudación de fondos de la obra pública.\n• Cristina Kirchner ha calificado el juicio como un \"show judicial\" y una \"opereta\", alegando que los cuadernos fueron \"fabricados\", \"adulterados\" y \"reescritos\" con fines políticos.\n• La fiscalía, liderada por Carlos Stornelli, busca sostener la hipótesis de una asociación ilícita encabezada por Néstor y Cristina Kirchner.\n• Las defensas de los acusados, por su parte, centran su estrategia en cuestionar la solidez y la procedencia de los elementos probatorios presentados por la acusación.\n• El Tribunal Oral Nº 7, a cargo del proceso, tiene previsto finalizar la presentación de la acusación fiscal el 2 de diciembre.\n\n💡 **¿Por qué importa?**\n• La \"Causa Cuadernos\" es un hito en la lucha contra la corrupción en Argentina, buscando esclarecer una compleja red de sobornos y desvío de fondos públicos.\n• Su desenlace podría sentar precedentes importantes sobre la responsabilidad de altos funcionarios y empresarios en casos de corrupción estatal.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Javier Milei encabezó la entrega de Sables las Fuerzas Armadas y se mostró con el flamante ministro de Defensa",
-          "link": "https://www.infobae.com/politica/2025/11/25/milei-se-mostrara-con-el-proximo-ministro-de-defensa-en-casa-rosada-acto-clave-y-los-cambios-que-estan-en-duda/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-25 12:08:20"
-        },
-        {
-          "titulo": "Milei compartió su primer acto con Petri y Presti juntos y cantó con los Granaderos",
-          "link": "https://www.lanacion.com.ar/politica/milei-compartio-su-primer-acto-con-petri-y-presti-juntos-y-termino-cantando-con-los-granaderos-nid25112025/",
+          "titulo": "Cuadernos de las coimas, cuarta audiencia: se termina el bloque de los arrepentidos y el exfuncionario Baratta cambió de abogados",
+          "link": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-cuarta-audiencia-se-termina-el-bloque-de-los-arrepentidos-y-el-exfuncionario-nid25112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-25 12:05:37"
+          "fecha": "2025-11-25 14:49:21"
         },
         {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 12:00:00"
-        },
-        {
-          "titulo": "Milei recibe al canciller israelí, que participará de homenajes a las víctimas de los atentados y reuniones con empresarios",
-          "link": "https://www.lanacion.com.ar/politica/milei-recibe-al-canciller-israeli-que-participara-de-homenajes-a-las-victimas-de-los-atentados-y-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 11:32:37"
-        },
-        {
-          "titulo": "El presidente Javier Milei encabezó la entrega de sables y diplomas a oficiales de las Fuerzas Armadas",
-          "link": "https://www.perfil.com/noticias/politica/el-presidente-javier-milei-encabeza-en-casa-rosada-la-entrega-de-sables-a-las-fuerzas-armadas.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 11:10:04"
-        },
-        {
-          "titulo": "Reformas de Javier Milei: qué deadline fijó el Gobierno ante la falta de acuerdo en el Consejo de Mayo",
-          "link": "https://www.ambito.com/politica/reformas-javier-milei-que-dead-line-fijo-el-gobierno-la-falta-acuerdo-el-consejo-mayo-n6217280",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 10:52:00"
-        },
-        {
-          "titulo": "Milei, en guardia contra Cristina Kirchner y Chiqui Tapia",
-          "link": "https://www.lanacion.com.ar/politica/milei-en-guardia-contra-cristina-kirchner-y-chiqui-tapia-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 10:40:05"
-        },
-        {
-          "titulo": "Presti planea una renovación en la cúpula de las Fuerzas Armadas y pasarían a retiro oficiales de alto rango",
-          "link": "https://www.lanacion.com.ar/politica/presti-planea-una-renovacion-en-la-cupula-de-las-fuerzas-armadas-y-pasarian-a-retiro-oficiales-de-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 10:32:34"
-        },
-        {
-          "titulo": "Nueva encuesta y ranking libertario: sorpresas en el podio y mala noticia para Karina Milei",
-          "link": "https://www.clarin.com/politica/nueva-encuesta-ranking-libertario-sorpresas-podio-mala-noticia-karina-milei_0_iNKKkXGlYq.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 09:40:47"
-        },
-        {
-          "titulo": "Sturzenegger denunció con un informe parcialidades arbitrales para Barracas Central y Milei lo tildó de “demoledor”",
-          "link": "https://www.lanacion.com.ar/politica/sturzenegger-denuncio-con-un-informe-parcialidades-arbitrales-y-milei-lo-tildo-de-demoledor-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 09:35:07"
-        },
-        {
-          "titulo": "Vidal avaló las reformas de Milei, pero le advirtió al PRO: \"No necesita pintarse de violeta para apoyar al Gobierno\"",
-          "link": "https://www.clarin.com/politica/vidal-avalo-reformas-milei-advirtio-pro-necesita-pintarse-violeta-apoyar-gobierno_0_aRCTJTaVBI.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 09:34:23"
-        },
-        {
-          "titulo": "Javier Milei retoma agenda: recibe al sucesor de Luis Petri y una visita internacional",
-          "link": "https://www.ambito.com/politica/javier-milei-retoma-agenda-recibe-al-sucesor-luis-petri-y-una-visita-internacional-n6217293",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 09:22:00"
-        },
-        {
-          "titulo": "El Gobierno creará la Policía Migratoria: cuál será su función",
-          "link": "https://www.minutouno.com/politica/el-gobierno-creara-la-policia-migratoria-cual-sera-su-funcion-n6217288",
+          "titulo": "Nuevo posteo de Cristina Kirchner por la causa cuadernos: \"Otra extorsión más y van...\"",
+          "link": "https://www.minutouno.com/politica/nuevo-posteo-cristina-kirchner-la-causa-cuadernos-otra-extorsion-mas-y-van-n6217477",
           "fuente": "Minuto1",
-          "fecha": "2025-11-25 09:20:16"
+          "fecha": "2025-11-25 13:35:00"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: Santilli viaja a Misiones en busca del apoyo de Passalacqua en el Congreso para las reformas que impulsa el Gobierno",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-santilli-viaja-misiones-busca-apoyo-passalacqua-congreso-reformas-impulsa-gobierno_0_we8GnjwBqy.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 07:52:56"
+          "titulo": "Causa Cuadernos: el juicio se reanuda con Cristina Kirchner y exfuncionarios en el banquillo por presuntos hechos de corrupción",
+          "link": "https://www.perfil.com/noticias/politica/causa-cuadernos-el-juicio-se-reanuda-con-cristina-kirchner-y-exfuncionarios-en-el-banquillo-por-presuntos-hechos-de-corrupcion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 13:03:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-25",
       "fuentes": [
-        "La Nación",
-        "Clarín",
-        "Ámbito Financiero",
         "Minuto1",
-        "Infobae",
-        "Perfil"
+        "Perfil",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -218,277 +123,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "venezuela:_cartel_soles_20251125",
-      "tema": "Venezuela: Cartel Soles y Tensión EEUU",
-      "tema_normalizado": "venezuela: cartel soles y tension eeuu",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos, bajo la administración de Donald Trump, intensificó la presión sobre Venezuela al designar al \"Cartel de los Soles\" como organización terrorista extranjera, vinculando directamente a Nicolás Maduro como su líder.\n• Sorpresivamente, a pesar de esta designación y un masivo despliegue militar en el Caribe, Trump manifestó su intención de hablar directamente con Maduro para negociar.\n• Venezuela rechazó enérgicamente esta medida, calificándola de \"ridícula patraña\" y \"vil mentira\" para justificar una posible intervención militar, negando la existencia del cartel.\n\n🔍 **Datos clave:**\n• **Fecha de designación:** Lunes, 24 de noviembre de 2025 (según las noticias relacionadas).\n• **Recompensa por Maduro:** 50 millones de dólares ofrecidos por EEUU (recompensa duplicada).\n• **Operación militar:** \"Lanza del Sur\" en el Caribe, con el portaaviones USS Gerald R. Ford y más de 15.000 militares.\n• **Víctimas en operaciones marítimas:** Al menos 83 personas fallecieron en 21 ataques a barcos presuntamente vinculados al narcotráfico.\n• **Producción petrolera venezolana:** Estabilizada en 1.1 millones de barriles por día, con más del 80% exportado a China.\n• **Vuelos cancelados:** Al menos 6 aerolíneas (Gol, Avianca, Latam, Iberia, TAP, Caribbean) el 22 de noviembre de 2025, tras una advertencia de EEUU.\n• **Funcionarios clave EEUU:** Donald Trump (presidente), Marco Rubio (mencionado como secretario de Estado en algunas fuentes), Pete Hegseth (secretario de Defensa), General Dan Caine.\n• **Funcionarios clave Venezuela:** Nicolás Maduro (presidente), Yván Gil (canciller).\n\n⚡ **Desarrollo:**\n• El \"Cartel de los Soles\" surgió en los años noventa como un apodo para referirse a generales y oficiales venezolanos de alto rango involucrados en corrupción y narcotráfico, por los \"soles\" en sus charreteras.\n• Expertos como InSight Crime y el International Crisis Group sugieren que no es una organización cohesionada, sino un \"ecosistema de corrupción\" o un \"atajo periodístico\" para redes dentro del Estado.\n• La imputación de Maduro en 2020 por narcoterrorismo por parte del Departamento de Justicia estadounidense formalizó la acusación, vinculándolo con el Cartel de los Soles, el Tren de Aragua y el Cartel de Sinaloa.\n• El masivo despliegue militar de EEUU en el Caribe, con el portaaviones más grande del mundo y destructores, generó alarmas sobre una posible escalada militar o una \"operación de cambio de régimen\".\n• A pesar de la tensión, Trump consideró el diálogo directo con Maduro, una posibilidad inédita que Caracas había solicitado sin éxito previamente.\n• La negociación podría centrarse en el petróleo venezolano, que Maduro podría ofrecer a EEUU como moneda de cambio ante las sanciones, buscando atraer inversión extranjera.\n• Maduro, por su parte, mantuvo una retórica general contra el \"imperialismo\" y evitó cuestionar directamente a Trump, preparando el terreno para un posible canal de comunicación diplomática.\n• La designación como organización terrorista es vista por analistas como una amenaza directa a Maduro y una justificación para futuras acciones, incluso encubiertas, para combatir el narcotráfico.\n\n💡 **¿Por qué importa?**\n• Este escenario intensifica drásticamente la confrontación entre Estados Unidos y Venezuela, llevando la crisis a un punto crítico con implicaciones militares y diplomáticas.\n• La situación revela una compleja dinámica donde la presión militar se mezcla con la posibilidad de negociación, impactando la estabilidad regional y la postura global frente al narcotráfico y la soberanía.",
-      "cantidad_noticias": 7,
-      "noticias": [
-        {
-          "titulo": "El petróleo, la clave en la que se podría centrar una negociación entre Trump y Maduro",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-petroleo-la-clave-en-la-que-se-podria-centrar-una-negociacion-entre-trump-y-maduro-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 11:49:05"
-        },
-        {
-          "titulo": "¿Mito o brazo oculto de Maduro? Qué es el Cartel de los Soles y por qué su existencia está en duda",
-          "link": "https://www.lanacion.com.ar/estados-unidos/mito-o-brazo-oculto-de-maduro-que-es-el-cartel-de-los-soles-y-por-que-su-existencia-esta-en-duda-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 11:13:08"
-        },
-        {
-          "titulo": "La incomprensible marcha hacia el cambio de régimen en Venezuela",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/incomprensible-marcha-cambio-regimen-venezuela_0_0W1lCg5TeJ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 10:45:33"
-        },
-        {
-          "titulo": "En medio de la tensión, Trump analizaría hablar directamente con Maduro",
-          "link": "https://www.lanacion.com.ar/estados-unidos/en-medio-de-la-tension-trump-analizaria-hablar-directamente-con-maduro-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 10:45:10"
-        },
-        {
-          "titulo": "Venezuela tildó de una \"ridícula patraña\" la designación del Cartel de los Soles como organización terrorista",
-          "link": "https://www.ambito.com/mundo/venezuela-tildo-una-ridicula-patrana-la-designacion-del-cartel-los-soles-como-organizacion-terrorista-n6217318",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 10:44:00"
-        },
-        {
-          "titulo": "Estados Unidos designó al Cartel de los Soles como organización terrorista y señaló a Nicolás Maduro como su líder",
-          "link": "https://www.lanacion.com.ar/estados-unidos/estados-unidos-designo-al-cartel-de-los-soles-como-organizacion-terrorista-y-senalo-a-nicolas-maduro-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 09:34:39"
-        },
-        {
-          "titulo": "Trump llenó el Caribe con barcos de guerra: ahora busca hablar directamente con Nicolás Maduro",
-          "link": "https://www.clarin.com/mundo/trump-lleno-caribe-barcos-guerra-ahora-busca-hablar-directamente-nicolas-maduro_0_QFbH9zya7N.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 08:59:13"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-25",
-      "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_impuestos,_presupuesto_20251125",
-      "tema": "Argentina: Impuestos, Presupuesto y Endeudamiento",
-      "tema_normalizado": "argentina: impuestos, presupuesto y endeudamiento",
-      "resumen": "📌 **¿Qué está pasando?**\n• La provincia de Buenos Aires se encuentra en un debate legislativo clave para aprobar su presupuesto, ley impositiva y una solicitud de endeudamiento significativa.\n• Paralelamente, se ajustan los valores del Impuesto a las Ganancias para 2026 y se reporta una baja en la evasión del Impuesto al Valor Agregado (IVA).\n• La Agencia de Recaudación de la provincia de Buenos Aires (ARBA) gestiona el vencimiento de la última cuota del Impuesto Inmobiliario, que incluye un adicional para inmuebles de mayor valuación.\n\n🔍 **Datos clave:**\n• **Endeudamiento PBA:** Solicitud de hasta US$3.685 millones por el gobernador Axel Kicillof.\n• **Impuesto Inmobiliario PBA:** Adicional aplica al 8% de partidas con base imponible superior a $31.465.000, con un límite del 20% sobre el impuesto anual.\n• **Impuesto a las Ganancias:** Proyección de ajuste del 11,73% para el primer semestre de 2026; piso estimado para soltero sin hijos en $3.177.083 (sueldo bruto).\n• **Evasión del IVA:** Se ubicó en 42% en 2023, reflejando una caída del 7% respecto al año anterior, por segundo año consecutivo.\n• **Pérdida por evasión general:** El Estado pierde recursos equivalentes al 21% del PBI.\n• **Bonificación ARBA:** Hasta 10% por pago al día y adhesión al débito automático.\n\n⚡ **Desarrollo:**\n• El gobernador Kicillof busca la aprobación de su paquete de proyectos en la legislatura bonaerense, incluyendo el crucial endeudamiento que requiere dos tercios de los votos.\n• Las negociaciones con la oposición y sectores internos del peronismo incluyen el ofrecimiento de cargos y la coparticipación del 8% del monto total del endeudamiento a los municipios, con un tercio garantizado.\n• El Impuesto Inmobiliario Urbano Edificado de ARBA, cuya última cuota venció el 25 de noviembre, sumó un monto adicional de carácter progresivo para inmuebles de alta valuación.\n• El Impuesto a las Ganancias actualizará sus deducciones y escalas en enero de 2026 según la inflación, impactando los salarios de diciembre cobrados ese mes con los nuevos valores.\n• La evasión del IVA mostró una reducción por segundo año, un fenómeno atribuido en parte a la digitalización de la economía y a particularidades en el sector agropecuario.\n• A pesar de esta mejora, la evasión tributaria sigue siendo un problema significativo que priva al Estado de una considerable porción de sus ingresos potenciales.\n\n💡 **¿Por qué importa?**\n• La aprobación del presupuesto y el endeudamiento provincial son vitales para la gobernabilidad y la capacidad de inversión de la provincia de Buenos Aires en un contexto económico complejo.\n• La evolución de los impuestos nacionales y provinciales, junto con la reducción de la evasión, impacta directamente la recaudación pública, la equidad fiscal y el poder adquisitivo de los ciudadanos.",
+      "tema_id": "guerra_ucrania-rusia:_esfuerzos_20251125",
+      "tema": "Guerra Ucrania-Rusia: Esfuerzos de Paz",
+      "tema_normalizado": "guerra ucrania-rusia: esfuerzos de paz",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se intensifican los esfuerzos diplomáticos para alcanzar un acuerdo de paz entre Rusia y Ucrania, con Estados Unidos liderando una propuesta.\n• Hay señales de progreso y optimismo sobre un posible fin a la guerra, que se ha extendido por casi cuatro años.\n\n🔍 **Datos clave:**\n• **Actores principales:** Donald Trump (EEUU), Volodímir Zelenski (Ucrania), Emmanuel Macron (Francia), Keir Starmer (Reino Unido), Vladimir Putin (Rusia).\n• **Planes de paz:** Plan original de Trump (28 puntos); Nuevo plan EEUU-Ucrania (19 puntos); \"Contraplan\" europeo.\n• **Lugares de negociación:** Ginebra (Suiza), Abu Dhabi (Emiratos Árabes Unidos), Washington D.C.\n• **Activos rusos congelados:** Aproximadamente USD 100.000 millones, bajo jurisdicción europea.\n• **Duración del conflicto:** Casi cuatro años.\n• **Próxima reunión esperada:** Entre Zelenski y Trump, posiblemente antes de fin de noviembre, para cerrar detalles.\n\n⚡ **Desarrollo:**\n• El presidente de Estados Unidos, Donald Trump, impulsó una propuesta de paz inicial, afirmando que un acuerdo está \"muy cerca\".\n• Francia y Reino Unido celebraron los avances, pero el presidente Macron subrayó la necesidad de \"garantías de seguridad robustas\" para Ucrania, señalando la falta de voluntad rusa para un alto el fuego.\n• El plan inicial de 28 puntos, que algunos consideraron favorable a Rusia, fue ajustado en Ginebra por EEUU y Ucrania, resultando en un nuevo borrador de 19 puntos.\n• Europa presentó un \"contraplan\" para corregir exigencias consideradas inaceptables del plan original y asegurar la seguridad europea.\n• Uno de los puntos clave es el destino de los USD 100.000 millones en activos rusos congelados, donde Macron insistió que la decisión \"corresponde a los europeos\".\n• El presidente Zelenski, aunque cauto, reconoció \"puntos correctos\" en el nuevo borrador, pero enfatizó que se necesita \"mucho más\" y que Ucrania no aceptará cambios territoriales impuestos por la fuerza.\n• La Casa Blanca reportó \"avances enormes\" y que solo restan \"detalles menores\" para cerrar el acuerdo, impulsando la expectativa de un encuentro Trump-Zelenski.\n• Negociaciones secretas continúan en Abu Dhabi, con la participación del secretario del Ejército de EEUU, Dan Driscoll, y representantes rusos y ucranianos.\n• Rusia, a través de su canciller Serguéi Lavrov, afirmó que las enmiendas deben reflejar el \"espíritu\" de las conversaciones Putin-Trump, y Moscú ha aumentado ataques y expresado desconfianza.\n\n💡 **¿Por qué importa?**\n• Este proceso diplomático representa la oportunidad más concreta en años para detener el conflicto y la devastación en Ucrania.\n• Su éxito o fracaso tendrá profundas implicaciones para la estabilidad global, la seguridad en Europa y el futuro de las relaciones internacionales.",
       "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "ARBA recuerda que hoy vence la última cuota del Impuesto Inmobiliario: cuál es el descuento por estar al día",
-          "link": "https://www.minutouno.com/economia/arba-recuerda-que-hoy-vence-la-ultima-cuota-del-impuesto-inmobiliario-cual-es-el-descuento-estar-al-dia-n6217379",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-25 11:30:00"
-        },
-        {
-          "titulo": "Axel Kicillof afronta días claves en la legislatura: se debate endeudamiento, Presupuesto y ley impositiva",
-          "link": "https://www.ambito.com/politica/axel-kicillof-afronta-dias-claves-la-legislatura-se-debate-endeudamiento-presupuesto-y-ley-impositiva-n6217361",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:15:00"
-        },
-        {
-          "titulo": "Ganancias 2026: desde qué sueldo se comenzará a pagar el impuesto sin reforma tributaria",
-          "link": "https://www.iprofesional.com/impuestos/442208-ganancias-2026-desde-que-sueldo-se-comenzara-a-pagar-el-impuesto-sin-reforma-tributaria",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-25 09:55:00"
-        },
-        {
-          "titulo": "La evasión del IVA se redujo por segundo año pero sigue teniendo un peso enorme en el PBI",
-          "link": "https://www.perfil.com/noticias/economia/la-evasion-del-iva-se-redujo-por-segundo-ano-pero-sigue-teniendo-peso-enorme-en-el-pbi.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 09:15:22"
-        },
-        {
-          "titulo": "Kicillof se juega en dos días clave sus proyectos de endeudamiento, presupuesto y ley impositiva",
-          "link": "https://www.lanacion.com.ar/politica/kicillof-se-juega-en-dos-dias-clave-sus-proyectos-de-endeudamiento-presupuesto-y-ley-impositiva-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 08:45:00"
-        },
-        {
-          "titulo": "Vence la última cuota del impuesto inmobiliario de ARBA: Cómo saber si tengo que pagar el monto adicional",
-          "link": "https://www.perfil.com/noticias/economia/arba-vence-la-ultima-cuota-del-impuesto-inmobiliario-de-ARBA-como-saber-si-tengo-que-pagar-el-monto-adicional.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 08:33:49"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-25",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Minuto1",
-        "iProfesional",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "anses:_pagos_y_20251125",
-      "tema": "ANSES: Pagos y Jubilaciones Diciembre",
-      "tema_normalizado": "anses: pagos y jubilaciones diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• La ANSES ha confirmado el calendario de pagos y los montos correspondientes a diciembre de 2025 para jubilados, pensionados y beneficiarios de diversos programas.\n• Este mes incluirá un aumento del 2,3% en los haberes, el cobro del Sueldo Anual Complementario (aguinaldo) y un bono extraordinario.\n\n🔍 **Datos clave:**\n• **Aumento:** 2,3% para jubilaciones y pensiones, basado en el Índice de Precios al Consumidor (IPC) de octubre.\n• **Bono Extraordinario:** $70.000 para quienes perciben la jubilación mínima, con montos proporcionales para haberes superiores que no excedan el tope de $403.150.\n• **Aguinaldo (SAC):** Equivalente al 50% del mejor haber mensual bruto percibido en el último semestre, sin incluir el bono.\n• **Jubilación Mínima Total (diciembre):** Aproximadamente $581.319,38 (incluyendo haber, bono y aguinaldo).\n• **Pensiones No Contributivas (PNC invalidez/vejez) Total (diciembre):** Aproximadamente $427.923,56.\n• **Ex-Potenciar Trabajo:** Los beneficiarios cobrarán $78.000 el viernes 5 de diciembre.\n• **Libreta AUH:** Plazo para presentar hasta el 31 de diciembre de 2025 y acceder al 20% retenido (hasta $165.000 por hijo).\n\n⚡ **Desarrollo:**\n• Los jubilados y pensionados recibirán en diciembre su haber actualizado con el 2,3% de aumento, el aguinaldo correspondiente y un bono extraordinario de $70.000 o su parte proporcional.\n• El bono extraordinario no es remunerativo y no se considera para el cálculo del aguinaldo, el cual es el 50% del mejor haber bruto del semestre (julio-diciembre).\n• El calendario de pagos de diciembre comienza el 9 para las Pensiones No Contributivas y jubilaciones mínimas, extendiéndose hasta el 23 de diciembre para haberes superiores, según la terminación del DNI.\n• Los programas ex-Potenciar Trabajo, ahora Volver al Trabajo y Acompañamiento Social, mantendrán su monto en $78.000 y se abonarán el 5 de diciembre.\n• Adicionalmente, las familias con AUH tienen la oportunidad de cobrar hasta $165.000 por hijo si presentan la Libreta AUH antes de fin de año, sumado a la Ayuda Escolar Anual de $85.000 si cumplen los requisitos.\n\n💡 **¿Por qué importa?**\n• Esta información es crucial para que los beneficiarios puedan gestionar sus finanzas y organizar los gastos de fin de año.\n• La combinación de estos pagos representa un refuerzo económico significativo en un mes de alta demanda y consumo.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Cobro de pensiones no contributivas en diciembre 2025: fechas, montos y novedades",
-          "link": "https://www.clarin.com/economia/cobro-pensiones-contributivas-diciembre-2025-fechas-montos-novedades_0_QSIB3rnr0S.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 10:06:44"
-        },
-        {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 09:34:43"
-        },
-        {
-          "titulo": "ANSES: Tras el feriado, quienes cobran la jubilación este martes 25 de noviembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/anses-tras-el-feriado-quienes-cobran-la-jubilacion-este-martes-25-de-noviembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 07:32:41"
-        },
-        {
-          "titulo": "ANSES: lo que cobrarán los jubilados que reciben más de la mínima",
-          "link": "https://www.minutouno.com/economia/anses-lo-que-cobraran-los-jubilados-que-reciben-mas-la-minima-n6217196",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-25 07:30:00"
-        },
-        {
-          "titulo": "ANSES: el organismo realizará un pago de $165.000 a un grupo de beneficiarias",
-          "link": "https://www.minutouno.com/economia/anses-el-organismo-realizara-un-pago-165000-un-grupo-beneficiarias-n6217190",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-25 07:30:00"
-        },
-        {
-          "titulo": "ANSES publicó el cronograma del aguinaldo 2025: cuánto cobrarán los jubilados en diciembre",
-          "link": "https://www.perfil.com/noticias/economia/anses-publico-el-cronograma-del-aguinaldo-2025-cuanto-cobraran-los-jubilados-en-diciembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 07:10:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-25",
-      "fuentes": [
-        "Perfil",
-        "Clarín",
-        "La Nación",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_causas_judiciales_20251125",
-      "tema": "Argentina: Causas Judiciales por Corrupción",
-      "tema_normalizado": "argentina: causas judiciales por corrupcion",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está inmersa en varias causas judiciales de alto impacto que investigan la corrupción en la administración pública.\n• Estos casos involucran a exfuncionarios de gobiernos anteriores y figuras recientes, acusados de desviar fondos y recibir sobornos.\n• La justicia busca determinar responsabilidades, recuperar activos y reparar el daño económico causado al Estado.\n\n🔍 **Datos clave:**\n• **Causa Vialidad:** Cristina Kirchner, Lázaro Báez, 685.000 millones de pesos (perjuicio).\n• **Causa ANDIS:** Administración Nacional de Discapacidad, Fiscal Franco Picardi, U$S 700.000 (sin justificar).\n• **Causa Cuadernos de las Coimas:** 60 empresarios y exfuncionarios acusados.\n• Período de investigación en Vialidad: 2003-2015.\n\n⚡ **Desarrollo:**\n• En la **Causa Vialidad**, Cristina Kirchner y Lázaro Báez fueron condenados por defraudar al Estado con obras públicas en Santa Cruz entre 2003 y 2015. La justicia busca decomisar 20 propiedades de la familia Kirchner y 90 de Báez para reparar el daño provincial.\n• La **Causa ANDIS** investiga una presunta red de coimas y direccionamiento de concesiones en la Administración Nacional de Discapacidad. El fiscal Franco Picardi acusa a funcionarios y empresarios de droguerías por \"acuerdos espurios\" en perjuicio de personas con discapacidad.\n• En el marco de la ANDIS, Javier Cardini y Ornella Calvete renunciaron a sus cargos; a Calvete se le encontraron U$S 700.000 sin justificar. Audios mencionan a figuras como Karina Milei en el circuito de sobornos.\n• La **Causa Cuadernos de las Coimas** continúa su juicio oral, donde 60 empresarios y exfuncionarios enfrentan acusaciones de sobornos. Varios empresarios declararon como \"arrepentidos\", señalando a Cristina Kirchner como conocedora y destinataria final de la recaudación ilegal.\n• Estos procesos judiciales buscan desmantelar estructuras de corrupción, castigar a los responsables y devolver a la comunidad los bienes obtenidos de forma ilícita.\n\n💡 **¿Por qué importa?**\n• Las causas de corrupción son cruciales para la transparencia, la rendición de cuentas y el fortalecimiento de las instituciones democráticas en Argentina.\n• La recuperación de activos y la reparación del daño social buscan restaurar el equilibrio perdido, afectando directamente el patrimonio del Estado y la confianza ciudadana.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Para la Justicia, Santa Cruz debería ser la beneficiada con las propiedades que le sacaron a Cristina Kirchner y Lázaro Báez en la causa Vialidad",
-          "link": "https://www.clarin.com/politica/justicia-santa-cruz-deberia-beneficiada-propiedades-sacaron-cristina-kirchner-lazaro-baez-causa-vialidad_0_pEotw4dcJ9.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 11:42:07"
-        },
-        {
-          "titulo": "Causa ANDIS: el novio de Ornella Calvete también renunció como funcionario de Economía salpicado por las coimas en discapacidad",
-          "link": "https://www.clarin.com/politica/causa-andis-renuncio-funcionario-economia-salpicado-presuntas-coimas-discapacidad_0_cS9b0JSb1j.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 10:39:29"
-        },
-        {
-          "titulo": "Coimas en ANDIS: Quién es Franco Picardi, el fiscal que puede hacer tambalear al gobierno",
-          "link": "https://www.perfil.com/noticias/politica/quien-es-franco-picardi-el-fiscal-que-puede-hacer-tambalear-al-gobierno.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 10:04:00"
-        },
-        {
-          "titulo": "Causa Cuadernos de las Coimas, EN VIVO: continúa hoy el juicio, con Cristina Kirchner y exfuncionarios entre los acusados de corrupción",
-          "link": "https://www.clarin.com/politica/causa-cuadernos-coimas-vivo-continua-hoy-juicio-cristina-kirchner-exfuncionarios-acusados-corrupcion_0_m6DBZffUcN.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 08:38:45"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-25",
-      "fuentes": [
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_despidos_essen_20251125",
-      "tema": "Argentina: Despidos Essen y Recesión",
-      "tema_normalizado": "argentina: despidos essen y recesion",
-      "resumen": "📌 **¿Qué está pasando?**\n• Essen, la reconocida fábrica argentina de ollas y sartenes, despidió a más de 30 trabajadores en su planta de Venado Tuerto, Santa Fe.\n• La empresa también está reduciendo su producción local, reemplazándola con importaciones de productos semiterminados desde China.\n• Esta situación se enmarca en un contexto de fuerte caída del consumo y de una posible recesión técnica a nivel nacional.\n\n🔍 **Datos clave:**\n• **+30 despidos:** Número inicial de desvinculaciones recientes en Essen. La UOM confirmó 34 en esta tanda (17 permanentes y 17 eventuales).\n• **58 bajas:** Total de despidos reportados por la UOM en los últimos tres meses, incluyendo personal eventual.\n• **10% reducción de personal:** Porcentaje de la dotación total de Essen afectada por los despidos.\n• **45% producción reemplazada:** Cantidad de la producción local de Essen que ahora se cubre con importaciones semiterminadas de China.\n• **Recesión técnica:** Estimaciones privadas (Orlando Ferreres & Asociados, Universidad Torcuato Di Tella, Equilibra, Analytica) anticipan que Argentina habría entrado en recesión al cierre del tercer trimestre de 2023.\n\n⚡ **Desarrollo:**\n• La principal causa de los despidos en Essen es la fuerte caída del consumo interno, directamente relacionada con la disminución del poder adquisitivo de los salarios.\n• Un segundo factor clave es el aumento del ingreso de importaciones, especialmente piezas semiterminadas de China, que reemplazan etapas productivas realizadas en la fábrica local.\n• Diego Olave, secretario general de la UOM Venado Tuerto, confirmó los despidos y la preocupación del gremio por el impacto en el empleo industrial.\n• La senadora Juliana Di Tullio (Unión por la Patria) criticó las políticas del gobierno nacional, responsabilizándolas por la crisis industrial.\n• Essen, por su parte, atribuyó los despidos exclusivamente a la baja demanda y negó que la reestructuración esté vinculada con las importaciones, reafirmando su compromiso con la industria nacional.\n• Consultoras privadas estimaron caídas en la actividad económica. Por ejemplo, Orlando Ferreres & Asociados calculó una contracción del 0,3% en el tercer trimestre de 2023.\n• El INDEC se prepara para oficializar los datos del Estimador Mensual de Actividad Económica (EMAE), que podrían confirmar la recesión técnica.\n\n💡 **¿Por qué importa?**\n• El caso de Essen es un ejemplo concreto de cómo la combinación de la caída del consumo y la mayor apertura a las importaciones afecta a la industria nacional, generando pérdida de empleos.\n• La posible confirmación de una recesión técnica a nivel nacional subraya un escenario económico complejo que impacta directamente en el bienestar de los ciudadanos y la viabilidad de las empresas argentinas.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Crisis en la fábrica de ollas Essen: despidió a más de 30 trabajadores por bajo consumo y suba de importaciones",
-          "link": "https://www.infobae.com/economia/2025/11/25/crisis-en-la-fabrica-de-ollas-essen-despidio-a-mas-de-30-trabajadores-por-bajo-consumo-y-suba-de-importaciones/",
+          "titulo": "Francia y Reino Unido celebraron los avances en la propuesta de Trump para frenar la guerra entre Rusia y Ucrania",
+          "link": "https://www.infobae.com/america/mundo/2025/11/25/francia-y-reino-unido-celebraron-los-avances-en-la-propuesta-de-trump-para-frenar-la-guerra-entre-rusia-y-ucrania/",
           "fuente": "Infobae",
-          "fecha": "2025-11-25 12:01:45"
+          "fecha": "2025-11-25 15:12:04"
         },
         {
-          "titulo": "Essen echó a más de 30 trabajadores por caída de consumo",
-          "link": "https://www.minutouno.com/economia/essen-echo-mas-30-trabajadores-caida-consumo-n6217354",
+          "titulo": "Donald Trump aseguró que un acuerdo de paz entre Rusia y Ucrania está “muy cerca”",
+          "link": "https://www.infobae.com/america/mundo/2025/11/25/donald-trump-aseguro-que-un-acuerdo-de-paz-entre-rusia-y-ucrania-esta-muy-cerca/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-25 15:09:29"
+        },
+        {
+          "titulo": "Estados Unidos y Ucrania avanzan en un nuevo acuerdo de paz con Rusia",
+          "link": "https://www.minutouno.com/mundo/estados-unidos-y-ucrania-avanzan-un-nuevo-acuerdo-paz-rusia-n6217503",
           "fuente": "Minuto1",
-          "fecha": "2025-11-25 11:15:00"
+          "fecha": "2025-11-25 14:24:00"
         },
         {
-          "titulo": "Recesión técnica: las estimaciones privadas anticipan lo que el INDEC podría oficializar esta tarde",
-          "link": "https://www.ambito.com/economia/recesion-tecnica-las-estimaciones-privadas-anticipan-lo-que-el-indec-podria-oficializar-esta-tarde-n6217371",
+          "titulo": "Acuerdo de paz entre Ucrania y Rusia: EEUU asegura que Volodomir Zelenski aceptó la propuesta y restan \"detalles menores\"",
+          "link": "https://www.ambito.com/mundo/acuerdo-paz-ucrania-y-rusia-eeuu-asegura-que-volodomir-zelenski-acepto-la-propuesta-y-restan-detalles-menores-n6217460",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 11:02:00"
+          "fecha": "2025-11-25 13:27:00"
         },
-        {
-          "titulo": "“Hasta las ollas rompen, gobierno de inútiles”: la respuesta de Juliana di Tullio tras el anuncio de despidos en la fábrica de Essen",
-          "link": "https://www.perfil.com/noticias/economia/hasta-las-ollas-rompen-gobierno-de-inutiles-la-respuesta-de-di-tullio-tras-el-anuncio-de-despidos-en-la-fabrica-de-essen.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-25 08:55:05"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-25",
-      "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
-        "Minuto1",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "guerra_ucrania:_avances_20251125",
-      "tema": "Guerra Ucrania: Avances en Negociaciones Paz",
-      "tema_normalizado": "guerra ucrania: avances en negociaciones paz",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se están llevando a cabo intensas negociaciones para un plan de paz en la guerra de Ucrania, con una nueva propuesta de 19 puntos basada inicialmente en un plan del presidente Donald Trump.\n• Estas conversaciones, que comenzaron en Ginebra y se trasladaron secretamente a Abu Dhabi, buscan un alto al fuego y el fin del conflicto.\n• Paralelamente, Rusia ha lanzado un nuevo ataque masivo sobre Ucrania, lo que subraya la complejidad y tensión del proceso diplomático.\n\n🔍 **Datos clave:**\n• **Plan inicial:** Propuesta original de Donald Trump de 28 puntos, considerada favorable a Rusia.\n• **Nuevo plan:** Versión revisada de 19 puntos, elaborada por Estados Unidos y Ucrania, que pospone decisiones clave.\n• **Negociaciones clave:** Fin de semana del 23-24 de noviembre de 2025 en Ginebra, y el 25 de noviembre de 2025 en Abu Dhabi.\n• **Participantes:** Marco Rubio (Secretario de Estado EE.UU.), Andriy Yermak (Jefe de Gabinete de Zelensky), Sergiy Kyslytsya (Viceministro RR.EE. Ucrania), Dan Driscoll (Secretario del Ejército EE.UU.), Jared Kushner.\n• **Ataque ruso reciente:** Más de 22 misiles y 460 drones lanzados; causó 7 muertos y 13 heridos en Ucrania el 25 de noviembre de 2025.\n\n⚡ **Desarrollo:**\n• El plan original de paz de Trump fue ampliamente criticado por ser favorable a Rusia, lo que llevó a Estados Unidos y Ucrania a reelaborarlo en Ginebra.\n• Durante las negociaciones en Ginebra, lideradas por Marco Rubio por EE.UU. y Andriy Yermak por Ucrania, se acordó un plan de 19 puntos. Los temas más polémicos, como las cuestiones territoriales y las relaciones con la OTAN, se dejaron para ser decididos por Trump y Zelensky.\n• Los europeos también presentaron un \"contraplan\" para corregir exigencias de Washington que consideraban inaceptables, preocupados por la seguridad del continente.\n• Tras Ginebra, las conversaciones secretas continuaron en Abu Dhabi, Emiratos Árabes Unidos, con la participación de funcionarios de EE.UU. (Dan Driscoll), Ucrania (posiblemente Kyrylo Budanov) y Rusia.\n• Rusia, aunque inicialmente acogió con satisfacción el plan de 28 puntos, ha expresado desconfianza ante las enmiendas, insistiendo en que cualquier acuerdo debe reflejar el \"espíritu\" de las conversaciones entre Putin y Trump.\n• El nuevo plan de 19 puntos ya no incluye reclamos territoriales directos, sino que prioriza el respeto a la soberanía ucraniana, una demanda clave de Kiev y Europa.\n• A pesar de los avances diplomáticos, Rusia intensificó sus ataques con misiles y drones sobre ciudades ucranianas, afectando infraestructura civil y energética, lo que el presidente Zelensky consideró una señal de la necesidad de más presión y asistencia.\n\n💡 **¿Por qué importa?**\n• Estos esfuerzos diplomáticos demuestran una búsqueda activa de una salida negociada al conflicto, involucrando a potencias globales y a las partes directamente implicadas.\n• La reconfiguración del plan de paz y las continuas negociaciones resaltan las profundas diferencias entre las partes, mientras que los ataques simultáneos subrayan la fragilidad de la diplomacia frente a la escalada militar.",
-      "cantidad_noticias": 4,
-      "noticias": [
         {
           "titulo": "Cuáles son los “ajustes” que Europa hizo al plan de paz de Trump para poner fin a la guerra en Ucrania",
           "link": "https://www.lanacion.com.ar/el-mundo/eeuu-y-ucrania-reescriben-el-plan-de-paz-mientras-europa-se-rebela-contra-las-exigencias-de-trump-nid24112025/",
@@ -500,25 +164,16 @@
           "link": "https://www.clarin.com/mundo/abu-dhabi-nuevo-epicentro-mediaciones-secretas-plan-paz-ucrania-rusia-guino-kiev-desconfianza-moscu_0_ComPkpVylz.html",
           "fuente": "Clarín",
           "fecha": "2025-11-25 10:59:32"
-        },
-        {
-          "titulo": "Cómo Rubio intentó llevar un plan de paz prorruso a un punto medio",
-          "link": "https://www.clarin.com/new-york-times-international-weekly/rubio-intento-llevar-plan-paz-prorruso-punto-medio_0_lN4rlw5ThE.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 09:59:42"
-        },
-        {
-          "titulo": "Rusia lanzó un nuevo ataque masivo sobre Ucrania en plena renegociación del acuerdo de paz que busca frenar la guerra",
-          "link": "https://www.lanacion.com.ar/el-mundo/rusia-lanza-un-nuevo-ataque-masivo-sobre-ucrania-en-plena-renegociacion-del-acuerdo-de-paz-que-busca-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-25 09:59:21"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-25",
       "fuentes": [
+        "Minuto1",
+        "Infobae",
         "La Nación",
-        "Clarín"
+        "Clarín",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -526,43 +181,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_israel-hamas:_rehenes_20251125",
-      "tema": "Conflicto Israel-Hamas: Rehenes y Gaza",
-      "tema_normalizado": "conflicto israel-hamas: rehenes y gaza",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Grupos palestinos como Hamás y la Yihad Islámica están entregando los cuerpos de rehenes israelíes retenidos en la Franja de Gaza al Comité Internacional de la Cruz Roja.\n*   Al mismo tiempo, Gaza enfrenta una grave crisis humanitaria, con miles de víctimas y condiciones de vida precarias para los civiles.\n*   Un papamóvil del difunto Papa Francisco ha sido convertido en una clínica móvil pediátrica para Gaza, pero su entrada al territorio aún no ha sido autorizada por Israel.\n\n🔍 **Datos clave:**\n*   **7 de octubre de 2023:** Ataque de Hamás a Israel que dejó unas 1200 personas muertas y más de 250 rehenes.\n*   **10 de octubre de 2023:** Inicio del frágil alto el fuego mediado por Estados Unidos.\n*   **25 cuerpos:** Número de rehenes fallecidos devueltos por militantes palestinos desde el alto el fuego.\n*   **3 cuerpos:** Restos de rehenes que se cree aún permanecen en Gaza.\n*   **69.775 palestinos:** Fallecidos en la ofensiva israelí, según el Ministerio de Salud de Gaza.\n*   **170.863 heridos:** Cifra de palestinos heridos.\n*   **67 niños:** Muertes infantiles registradas desde el alto el fuego, según UNICEF.\n*   **2014:** Año en que el Papamóvil fue usado por el Papa Francisco en Belén.\n*   **\"Vehículo de la esperanza\":** Nombre de la clínica móvil pediátrica.\n\n⚡ **Desarrollo:**\n*   La devolución de los cuerpos de rehenes es un proceso lento que se realiza bajo un frágil alto el fuego, con acusaciones mutuas de violación entre Israel y los grupos palestinos.\n*   Israel ha devuelto los cuerpos de 330 palestinos a Gaza, de los cuales solo 95 han sido identificados por las autoridades palestinas debido a la falta de acceso a pruebas de ADN.\n*   La situación humanitaria en Gaza es crítica, con miles de desplazados y condiciones de vida extremas, agravadas por las recientes lluvias.\n*   El \"Vehículo de la esperanza\" fue un \"último deseo\" del Papa Francisco antes de su muerte y está equipado para brindar atención pediátrica.\n*   Cáritas, la organización a cargo del proyecto, negocia con Israel para la entrada del vehículo a Gaza, donde ya cuenta con diez clínicas itinerantes, algunas dañadas por el conflicto.\n*   El ejército israelí afirma atacar a militantes que representan una amenaza, mientras que el Ministerio de Salud de Gaza reporta un aumento de víctimas palestinas, incluyendo fallecidos y heridos.\n\n💡 **¿Por qué importa?**\n*   La devolución de rehenes y cuerpos es crucial para mantener el alto el fuego y avanzar en cualquier negociación hacia una resolución del conflicto.\n*   La severa crisis humanitaria en Gaza, evidenciada por la necesidad de una clínica móvil y las altas cifras de víctimas, resalta la urgencia de garantizar el acceso a la ayuda y protección de civiles.",
-      "cantidad_noticias": 4,
+      "tema_id": "investigacion_robo_millonario_20251125",
+      "tema": "Investigación Robo Millonario Louvre",
+      "tema_normalizado": "investigacion robo millonario louvre",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Las autoridades francesas están llevando a cabo una exhaustiva investigación por el audaz robo de joyas millonarias ocurrido en el Museo del Louvre.\n*   Recientemente, se realizaron cuatro nuevas detenciones, lo que eleva a ocho el número total de sospechosos bajo custodia policial.\n*   La policía cree haber capturado al cuarto integrante del comando de ladrones que ingresó físicamente al famoso museo.\n\n🔍 **Datos clave:**\n*   **Fecha del robo:** La madrugada del 19 de octubre.\n*   **Lugar:** Galería Apolo del Museo del Louvre, en París.\n*   **Botín:** Ocho valiosas joyas históricas, incluyendo piezas de Napoleón y la emperatriz Josefina.\n*   **Valor estimado:** Aproximadamente 100 millones de dólares (o 88 millones de euros), considerado de valor patrimonial incalculable.\n*   **Detenidos actuales:** Un total de ocho personas.\n*   **Fiscal a cargo:** Laure Beccuau, fiscal de París.\n*   **Grupo de ladrones:** Un comando de cuatro hombres.\n\n⚡ **Desarrollo:**\n*   El robo fue ejecutado en pocos minutos por un comando de cuatro hombres que utilizó un camión con plataforma elevadora para acceder por una ventana lateral del museo, identificada como menos segura.\n*   Los ladrones forzaron la ventana, ingresaron y usaron amoladoras angulares para romper las vitrinas blindadas, sustrayendo las joyas rápidamente.\n*   El ruido de las herramientas fue estratégicamente disimulado por tareas de mantenimiento nocturno en un pabellón cercano.\n*   Después del atraco, el grupo abandonó el camión y se dispersó en scooters sin patentes, buscando evadir la persecución policial.\n*   Las primeras detenciones ocurrieron la semana posterior al robo, con dos hombres capturados, uno en el aeropuerto Charles de Gaulle y otro en Seine-Saint-Denis.\n*   Las últimas cuatro detenciones, realizadas tras un mes de seguimiento discreto, incluyen a dos hombres (38 y 39 años) y dos mujeres (31 y 40 años).\n*   Uno de estos nuevos arrestados está acusado de \"robo organizado\" y \"asociación ilícita\", y se presume que es el cuarto integrante del comando que entró al museo.\n*   Todos los implicados identificados son originarios o residentes de Aubervilliers, Seine-Saint-Denis, y la investigación sigue buscando a posibles autores intelectuales.\n\n💡 **¿Por qué importa?**\n*   El \"robo del siglo\" en el Louvre no solo implica una pérdida económica millonaria, sino también un invaluable patrimonio cultural e histórico para Francia.\n*   Subraya la sofisticación de las bandas criminales y representa un desafío significativo para la seguridad en museos de talla mundial, requiriendo una compleja investigación internacional.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Hamas devolvió el cuerpo de otro rehén israelí hallado en Nuseirat",
-          "link": "https://www.infobae.com/america/mundo/2025/11/25/hamas-anuncio-que-devolvera-el-cuerpo-de-otro-rehen-israeli-hallado-en-nuseirat/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-25 12:05:34"
-        },
-        {
-          "titulo": "Un papamóvil de Francisco será convertido en una clínica para atender niños de Gaza",
-          "link": "https://www.ambito.com/mundo/un-papamovil-francisco-sera-convertido-una-clinica-atender-ninos-gaza-n6217355",
+          "titulo": "Robo del Louvre: cuatro nuevas personas fueron detenidas y una sería parte del grupo que ingresó al museo",
+          "link": "https://www.ambito.com/mundo/robo-del-louvre-cuatro-nuevas-personas-fueron-detenidas-y-una-seria-parte-del-grupo-que-ingreso-al-museo-n6217437",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 12:02:00"
+          "fecha": "2025-11-25 14:11:00"
         },
         {
-          "titulo": "Hamas y la Yihad Islámica anuncian la entrega de los restos de un rehén israelí secuestrado en Gaza",
-          "link": "https://www.clarin.com/mundo/hamas-yihad-islamica-anuncian-entrega-restos-rehen-israeli-secuestrado-gaza_0_TiJdeIStOU.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 10:15:15"
-        },
-        {
-          "titulo": "El Papamóvil de Francisco llegó a Belén reformado como clínica, pero aún no puede entrar a Gaza",
-          "link": "https://www.clarin.com/mundo/papamovil-francisco-llego-belen-reformado-clinica-puede-entrar-gaza_0_uFyItzioFO.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 10:01:55"
+          "titulo": "Nuevas detenciones por el millonario robo en el Louvre: creen que atraparon al cuarto ladrón del comando",
+          "link": "https://www.lanacion.com.ar/el-mundo/nuevas-detenciones-por-el-millonario-robo-en-el-louvre-creen-que-es-el-cuarto-ladron-del-comando-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 12:49:09"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-25",
       "fuentes": [
         "Ámbito Financiero",
-        "Clarín",
-        "Infobae"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -570,17 +212,84 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina:_reforma_laboral_20251125",
-      "tema": "Argentina: Reforma Laboral y Salarios",
-      "tema_normalizado": "argentina: reforma laboral y salarios",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional está finalizando su proyecto de reforma laboral y buscando consensos para su aprobación, junto con el presupuesto 2026, antes de fin de año.\n• En la Ciudad de Buenos Aires, un legislador impulsa una \"ley anti Moyano\" para evitar que el gobierno porteño deba pagar indemnizaciones millonarias a recolectores de basura.\n• En paralelo, la UTA (Unión Tranviarios Automotor) amenaza con un paro nacional de colectivos si no se pagan salarios y el aguinaldo completo, responsabilizando a empresas y al gobierno por la falta de subsidios.\n\n🔍 **Datos clave:**\n• **200 millones de dólares:** Costo estimado para el Gobierno porteño si pagara indemnizaciones a 6.000 recolectores de basura.\n• **1998:** Año en que se estableció el acuerdo tácito de la \"Ley Moyano\" en la recolección de residuos de CABA.\n• **Consejo de Mayo:** Instancia intersectorial donde se está terminando de elaborar el texto de la reforma laboral.\n• **1.713 pesos:** Precio estimado de un pasaje de colectivo sin subsidio, según empresarios.\n• **Diciembre:** Mes clave para el pago de aguinaldos y posibles paros de la UTA.\n\n⚡ **Desarrollo:**\n• El Gobierno nacional acelera el tratamiento de la reforma laboral y el presupuesto 2026 en el Congreso, buscando el apoyo de gobernadores, empresarios y sindicatos.\n• La reforma laboral nacional contempla cuatro puntos clave: la implementación del \"banco de horas\" para flexibilizar la jornada, priorizar convenios colectivos por empresa con salarios dinámicos, permitir el pago de salarios en dólares y reducir las cargas sociales.\n• El legislador Facundo del Gaiso (Coalición Cívica) impulsa su proyecto para que las indemnizaciones a los trabajadores de recolección de residuos sean responsabilidad exclusiva de las empresas concesionarias y no del Gobierno de la Ciudad.\n• Esta iniciativa porteña busca evitar \"extorsiones\" del gremio de Camioneros y proteger las cuentas públicas de un costo de 200 millones de dólares.\n• La UTA denuncia que las empresas de transporte no tienen fondos para abonar salarios y aguinaldos debido a la demora en la liquidación de subsidios estatales, lo que ha generado un desequilibrio financiero.\n• El gremio advierte que si no se cumplen los pagos o se intentan fraccionar, convocará a un paro nacional, en un contexto donde también se negocia la paritaria 2025-2026.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca modernizar la legislación y promover el empleo formal, pero sus propuestas de flexibilidad generan debate sobre la protección de los derechos laborales.\n• Los conflictos salariales y las amenazas de paro en servicios esenciales como el transporte y la recolección de residuos impactan directamente en la calidad de vida de los ciudadanos y la estabilidad económica del país.",
-      "cantidad_noticias": 4,
+      "tema_id": "cristina_kirchner:_casos_20251125",
+      "tema": "Cristina Kirchner: Casos Judiciales",
+      "tema_normalizado": "cristina kirchner: casos judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n• Cristina Kirchner enfrenta varios casos judiciales de gran relevancia, destacándose la condena en la causa Vialidad y la reapertura del juicio por el Pacto con Irán.\n• Recientemente, Juan Grabois se unió a su equipo de abogados para la defensa en el juicio del Pacto con Irán, que aborda el presunto encubrimiento del atentado de la AMIA.\n• Paralelamente, la Justicia avanza en el decomiso de propiedades en la causa Vialidad, evaluando incluir el departamento donde la ex Presidenta cumple su prisión domiciliaria.\n\n🔍 **Datos clave:**\n• **Causa Vialidad:** Condena de 6 años de prisión, con un perjuicio económico estimado en 685.000 millones de pesos para el Estado.\n• **Decomiso Vialidad:** Más de 110 propiedades (20 de la familia Kirchner, 90 de Lázaro Báez) están siendo recuperadas y pasarán a titularidad de la Corte Suprema.\n• **Pacto con Irán:** Juicio por encubrimiento del atentado de la AMIA, reabierto por la Corte Suprema y con posible inicio programado para 2026.\n• **Abogados:** Carlos Beraldi, Ary Llernovoy y, recientemente incorporado para el caso Irán, Juan Grabois.\n\n⚡ **Desarrollo:**\n• La condena en la causa Vialidad se debe a una maniobra defraudatoria en la obra pública de Santa Cruz, vinculando negocios entre la familia Kirchner y Lázaro Báez entre 2003 y 2015.\n• El Tribunal Oral Federal 2 (TOF 2) ordenó el decomiso de un amplio paquete patrimonial, incluyendo un predio de 6.000 m² de Cristina Kirchner y 19 inmuebles transferidos a sus hijos.\n• La fiscalía evalúa sumar el departamento de Constitución (232 m², adquirido en 2010 por u$s300.000, a nombre de Hotesur) al listado de bienes a recuperar en la causa Vialidad.\n• La defensa argumenta que no hay relación directa entre el origen del departamento y los delitos, y que no debería afectar a Máximo y Florencia Kirchner, quienes no fueron condenados.\n• Sin embargo, el TOF 2 sostiene que para el decomiso basta una coincidencia temporal y razonabilidad económica, sin necesidad de \"trazabilidad científica\" del dinero.\n• Respecto al caso Pacto con Irán, la Cámara de Casación ordenó la reapertura del expediente, dejando sin efecto un sobreseimiento que había obtenido la ex vicepresidenta.\n• Este juicio, que contará con unos 300 testigos, estará a cargo del TOF 8, incluyendo a jueces (Andrés Basso y Rodrigo Giménez Uriburu) que ya la condenaron en la causa Vialidad.\n• La provincia de Santa Cruz podría ser la beneficiada final con las propiedades decomisadas en la causa Vialidad, buscando reparar el daño social causado por la corrupción.\n\n💡 **¿Por qué importa?**\n• Estos casos son un hito en la lucha contra la corrupción en Argentina, marcando la recuperación de activos ilícitos y el enjuiciamiento de figuras de alto perfil.\n• La participación de Juan Grabois en la defensa y la eventual adjudicación de bienes a Santa Cruz resaltan la dimensión política y reparatoria de estos procesos judiciales en curso.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Recolección de residuos: impulsan una “ley anti Moyano” para que el Gobierno porteño no tenga que pagar indemnizaciones",
-          "link": "https://www.lanacion.com.ar/politica/recoleccion-de-residuos-impulsan-una-ley-anti-moyano-para-que-el-gobierno-porteno-no-tenga-que-pagar-nid25112025/",
+          "titulo": "Cristina Kirchner sumó a su equipo de abogados para la causa del Pacto con Irán a Juan Grabois",
+          "link": "https://www.clarin.com/politica/cristina-kirchner-sumo-equipo-abogados-causa-pacto-iran-juan-grabois_0_s9mr5VSUQs.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 14:23:22"
+        },
+        {
+          "titulo": "Para la Justicia, Santa Cruz debería ser la beneficiada con las propiedades que le sacaron a Cristina Kirchner y Lázaro Báez en la causa Vialidad",
+          "link": "https://www.clarin.com/politica/justicia-santa-cruz-deberia-beneficiada-propiedades-sacaron-cristina-kirchner-lazaro-baez-causa-vialidad_0_pEotw4dcJ9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 11:42:07"
+        },
+        {
+          "titulo": "Podrían decomisar el departamento donde Cristina Kirchner cumple su prisión domiciliaria",
+          "link": "https://www.iprofesional.com/politica/442641-evaluan-decomisar-el-departamento-donde-cristina-kirchner-cumple-domiciliaria",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-25 11:03:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-25",
+      "fuentes": [
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gobierno_milei:_acciones_20251125",
+      "tema": "Gobierno Milei: Acciones y Agenda",
+      "tema_normalizado": "gobierno milei: acciones y agenda",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno del Presidente Javier Milei impulsa su agenda legislativa y consolida alianzas internacionales clave, mientras reorganiza su gabinete.\n*   Destacan la designación de un militar activo como Ministro de Defensa y el reforzado vínculo geopolítico con Israel.\n\n🔍 **Datos clave:**\n*   **Carlos Presti:** Teniente General y actual Jefe del Ejército, designado Ministro de Defensa sin pasar a retiro.\n*   **Gideon Sa'ar:** Ministro de Relaciones Exteriores de Israel, se reunió con Milei para fortalecer lazos bilaterales.\n*   **Ley 19.101:** Norma que regula la carrera militar y permite la situación de \"disponibilidad\" para el ministro Presti.\n*   **Presupuesto 2026 y Reforma Laboral:** Prioridades legislativas que el Gobierno busca aprobar antes de fin de año.\n*   **1983:** Año del regreso a la democracia, marcando la última vez que un militar activo ocupó el Ministerio de Defensa.\n\n⚡ **Desarrollo:**\n*   La designación de Carlos Presti como Ministro de Defensa es un hecho histórico, siendo el primer militar en actividad en ocupar este cargo desde 1983, rompiendo un consenso democrático.\n*   Presti confirmó que tomará licencia o pasará a \"disponibilidad\", una figura legal que le permite mantener su jerarquía militar mientras ejerce el puesto político.\n*   Esta decisión generó controversia en la oposición y en sectores políticos, mientras que algunos exfuncionarios, como César Milani, defendieron el nombramiento.\n*   En política exterior, el Gobierno de Milei profundizó su alineamiento con Israel, materializado en la reciente reunión de Milei con el canciller Gideon Sa'ar en Casa Rosada.\n*   Milei ha visitado Israel en dos ocasiones, se reunió con el primer ministro Benjamin Netanyahu, firmó acuerdos contra el terrorismo y anunció el traslado de la embajada argentina a Jerusalén.\n*   A nivel interno, el Gobierno acelera su agenda legislativa, buscando la aprobación del Presupuesto 2026 y una reforma laboral integral antes de que finalice el año.\n*   Para ello, se prevén reuniones clave del Consejo de Mayo para finalizar el texto de la reforma laboral y se trabaja en un nuevo tándem político, incluyendo al jefe de Gabinete Manuel Adorni, para buscar apoyos en el Congreso y las provincias.\n\n💡 **¿Por qué importa?**\n*   Las decisiones del Gobierno en Defensa y su política exterior con Israel marcan rupturas con tradiciones democráticas y alineamientos geopolíticos previos, generando un intenso debate institucional.\n*   La celeridad en la agenda legislativa busca implementar reformas estructurales que podrían redefinir el modelo económico y social del país en el corto y mediano plazo.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid25112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-25 11:28:30"
+          "fecha": "2025-11-25 15:14:37"
+        },
+        {
+          "titulo": "Javier Milei se reunió con el ministro de Relaciones Exteriores de Israel, Gideon Sa'ar",
+          "link": "https://www.ambito.com/politica/javier-milei-se-reunio-el-ministro-relaciones-exteriores-israel-gideon-saar-n6217494",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 14:20:00"
+        },
+        {
+          "titulo": "Presti: “Voy a seguir con jerarquía militar, pero en una situación distinta”",
+          "link": "https://www.lanacion.com.ar/politica/milei-compartio-su-primer-acto-con-petri-y-presti-juntos-y-termino-cantando-con-los-granaderos-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 13:59:48"
+        },
+        {
+          "titulo": "Carlos Presti confirmó que tomará licencia de su cargo militar para asumir como ministro",
+          "link": "https://www.perfil.com/noticias/politica/carlos-presti-confirmo-que-tomara-licencia-de-su-cargo-militar-para-asumir-como-ministro.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 13:35:55"
+        },
+        {
+          "titulo": "Javier Milei ascendió formalmente a Presti antes de que asuma como ministro de Defensa",
+          "link": "https://www.perfil.com/noticias/politica/milei-ascendio-formalmente-a-presti-antes-de-que-suma-como-ministro-de-defensa.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 12:04:01"
+        },
+        {
+          "titulo": "Milei recibió al canciller israelí, que participará de homenajes a las víctimas de los atentados y reuniones con empresarios",
+          "link": "https://www.lanacion.com.ar/politica/milei-recibe-al-canciller-israeli-que-participara-de-homenajes-a-las-victimas-de-los-atentados-y-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 11:32:37"
         },
         {
           "titulo": "El Gobierno acelera el presupuesto 2026 y busca terminar el proyecto de reforma laboral",
@@ -589,23 +298,149 @@
           "fecha": "2025-11-25 11:10:59"
         },
         {
-          "titulo": "La UTA amenazó con un paro nacional de colectivos si no pagan salarios y aguinaldo",
-          "link": "https://www.iprofesional.com/economia/442631-la-uta-amenazo-con-un-paro-nacional-de-colectivos-si-no-pagan-salarios-y-aguinaldo",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-25 10:55:00"
+          "titulo": "El presidente Javier Milei encabezó la entrega de sables y diplomas a oficiales de las Fuerzas Armadas",
+          "link": "https://www.perfil.com/noticias/politica/el-presidente-javier-milei-encabeza-en-casa-rosada-la-entrega-de-sables-a-las-fuerzas-armadas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 11:10:04"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-25",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "kicillof:_ley_financiamiento_20251125",
+      "tema": "Kicillof: Ley Financiamiento y Presupuesto",
+      "tema_normalizado": "kicillof: ley financiamiento y presupuesto",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof busca la aprobación de un paquete legislativo clave en la provincia de Buenos Aires.\n• Este paquete incluye una Ley de Financiamiento con un pedido de endeudamiento, el Presupuesto 2026 y la Ley Impositiva.\n• La discusión más tensa se centra en el monto del endeudamiento y la asignación de fondos para los 135 municipios bonaerenses.\n\n🔍 **Datos clave:**\n• **Monto de Endeudamiento solicitado:** Hasta US$3.685 millones (según la propuesta detallada y La Cámpora), aunque el Ministro de Economía mencionó US$3.035 millones.\n• **Fondo Municipal exigido por Oposición (UCR + Cambio Federal):** $600.000 millones para los municipios.\n• **Fondo Municipal propuesto por el Ejecutivo:** No más de $330.000 millones.\n• **Porción para municipios:** El Poder Ejecutivo ofrece repartir un tercio de la deuda total que se apruebe.\n• **Requisito para aprobación:** Se necesitan dos tercios de los votos en ambas cámaras legislativas para el endeudamiento.\n\n⚡ **Desarrollo:**\n• La Ley de Financiamiento es el punto más conflictivo, ya que su aprobación es fundamental para la gestión de Kicillof en un contexto de escasez de recursos.\n• El eje de la disputa es cuánto del endeudamiento se destinará al Fondo de Fortalecimiento de Inversión Municipal.\n• Inicialmente, se propuso un 8% de $1990 millones para los municipios, pero el Ejecutivo ha cedido a un tercio del monto total de la deuda aprobada.\n• Hay tensiones internas dentro del peronismo, con La Cámpora destacando el monto total de US$3.685 millones del endeudamiento solicitado.\n• El Presupuesto 2026 y la Ley Impositiva ya obtuvieron dictamen en comisión, pero su aprobación final se vincula a la suerte del endeudamiento.\n• La aprobación de todo el paquete debe lograrse en la última semana del período legislativo ordinario, requiriendo el apoyo de diversas bancadas peronistas y de la oposición.\n\n💡 **¿Por qué importa?**\n• Estas leyes son esenciales para definir la capacidad de inversión y la disponibilidad de recursos de la provincia y sus municipios para el año 2026.\n• La resolución de estas negociaciones impactará directamente en la provisión de servicios y obras para los 17,5 millones de bonaerenses.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El fondo para los municipios condiciona la aprobación de una Ley de Financiamiento pedida por Kicillof",
+          "link": "https://www.lanacion.com.ar/politica/el-fondo-para-los-municipios-condiciona-la-aprobacion-de-una-ley-de-financiamiento-pedida-por-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 15:13:51"
         },
         {
-          "titulo": "Reforma laboral: 4 claves que negocian para salarios, jornada y pago en dólares",
-          "link": "https://www.iprofesional.com/impuestos/442625-reforma-laboral-4-claves-negocian-salario-jornada-pago-en-dolares",
+          "titulo": "Axel Kicillof afronta días claves en la legislatura: se debate endeudamiento, Presupuesto y ley impositiva",
+          "link": "https://www.ambito.com/politica/axel-kicillof-afronta-dias-claves-la-legislatura-se-debate-endeudamiento-presupuesto-y-ley-impositiva-n6217361",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 11:15:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-25",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "moyano/camioneros_conflicto_recoleccion_20251125",
+      "tema": "Moyano/Camioneros Conflicto Recolección Residuos",
+      "tema_normalizado": "moyano/camioneros conflicto recoleccion residuos",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las empresas de recolección de residuos de la Ciudad de Buenos Aires rechazaron el pedido de indemnizaciones del sindicato de Camioneros, liderado por Hugo Moyano.\n• El gremio exige aplicar la \"Ley Moyano\", una práctica que establece el pago de indemnizaciones y la recontratación de trabajadores al finalizar una concesión.\n• Tanto las empresas como el Gobierno porteño argumentan que la concesión actual fue prorrogada hasta 2028, por lo que el reclamo es improcedente e inviable.\n\n🔍 **Datos clave:**\n• **\"Ley Moyano\":** Acuerdo tácito desde 1998, exige indemnización y recontratación al vencer una concesión.\n• **Prórroga de la concesión:** Realizada en 2022 por Horacio Rodríguez Larreta, extendiendo el servicio hasta 2028.\n• **Trabajadores afectados:** Aproximadamente 6.000 recolectores de residuos de la Ciudad.\n• **Costo estimado:** Unos 200 millones de dólares si la Ciudad pagara las indemnizaciones.\n• **Legislador impulsor:** Facundo del Gaiso (Coalición Cívica) propone una \"ley anti Moyano\".\n\n⚡ **Desarrollo:**\n• El conflicto se centra en si corresponde pagar indemnizaciones ahora, dado que Camioneros interpreta que la concesión original finalizó, a pesar de su prórroga.\n• Las empresas concesionarias se negaron en una reunión con Moyano, argumentando que no existe base legal para el reclamo y que el pago sería inviable.\n• El Gobierno de la Ciudad, bajo la administración de Jorge Macri, también ha rechazado el pedido, insistiendo en que el contrato actual rige hasta 2028.\n• Ante la posibilidad de medidas de fuerza como \"trabajo a reglamento\", se advirtió sobre la aplicación de sanciones.\n• En respuesta, el legislador Del Gaiso impulsa una ley para asegurar que el costo de estas indemnizaciones recaiga únicamente en las empresas, evitando que el Gobierno porteño deba asumirlos.\n• Esta iniciativa busca prevenir \"extorsiones\" al Gobierno y proteger las cuentas públicas de Buenos Aires.\n• Durante la última reunión, la presencia de recolectores en apoyo a Moyano fue baja, con cerca de 50 personas.\n\n💡 **¿Por qué importa?**\n• El desenlace de este conflicto podría afectar la continuidad y calidad del servicio esencial de recolección de residuos en la Ciudad.\n• Establece un precedente importante sobre la responsabilidad del pago de indemnizaciones en contratos de servicios públicos y la relación entre sindicatos, empresas y el Estado.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Fracasó Moyano y los recolectores de residuos no tendrán las indemnizaciones que exigía Camioneros",
+          "link": "https://www.clarin.com/politica/fracaso-moyano-recolectores-residuos-indemnizaciones-exigia-camioneros_0_3Dg2x4f1Pa.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 14:30:34"
+        },
+        {
+          "titulo": "Recolección de residuos: impulsan una “ley anti Moyano” para que el Gobierno porteño no tenga que pagar indemnizaciones",
+          "link": "https://www.lanacion.com.ar/politica/recoleccion-de-residuos-impulsan-una-ley-anti-moyano-para-que-el-gobierno-porteno-no-tenga-que-pagar-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 11:28:30"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-25",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "bancos_argentinos:_balances_20251125",
+      "tema": "Bancos Argentinos: Balances y Pérdidas",
+      "tema_normalizado": "bancos argentinos: balances y perdidas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los bancos argentinos están reportando importantes pérdidas en sus balances del tercer trimestre de 2025, marcando un período desafiante para el sector financiero.\n• Grupo Financiero Galicia, uno de los principales bancos, informó una pérdida integral neta de $228.080 millones, su primer resultado negativo desde el inicio de la actual administración.\n• Esta tendencia refleja los efectos de cambios regulatorios, altos costos de fondeo y un deterioro del crédito en el sistema bancario.\n\n🔍 **Datos clave:**\n• **Pérdida neta integral Grupo Galicia (Q3 2025):** $228.080 millones.\n• **Pérdida Grupo Galicia (sin gastos extraordinarios):** $87.710 millones (frente a ganancia de $221.327 millones en Q3 2024).\n• **Gastos extraordinarios fusión HSBC (Galicia):** $174.283 millones (o $105.343 millones netos).\n• **Morosidad sectorial (septiembre):** 4,2% (según BCRA).\n• **Morosidad Galicia (Q3 2025):** 6,8% (desde 2,7% en Q3 2024).\n• **Cargo por incobrabilidad Galicia (Q3 2025):** $443.408 millones (208% más que en Q3 2024).\n\n⚡ **Desarrollo:**\n• Las pérdidas se explican por cambios en las regulaciones de encajes, una suba significativa de tasas de interés y un encarecimiento del fondeo, que comprimieron los márgenes financieros.\n• Además, Grupo Galicia enfrentó \"gastos de reestructuración\" por la integración de las operaciones de HSBC en Argentina, que impactaron directamente en su rentabilidad.\n• El sector experimentó una fuerte volatilidad de tasas, mayores requisitos de encaje y una contracción del crédito, lo que limitó la liquidez disponible y el dinamismo.\n• Se observó un marcado deterioro en la cartera crediticia, con un aumento de los préstamos en situación irregular y un incremento significativo de los cargos por incobrabilidad.\n• El Banco Central ya había señalado un escenario desafiante debido a la eliminación de las LEFIs, un shock de liquidez y el consiguiente aumento de encajes.\n• A pesar del aumento de la morosidad, el Banco Central aclara que los niveles actuales no representan un riesgo para la estabilidad general del sistema financiero.\n\n💡 **¿Por qué importa?**\n• Estas cifras evidencian el impacto de las políticas monetarias y regulaciones implementadas por el gobierno, que buscaron controlar el dólar y generaron un \"apretón monetario\" en el sector.\n• El escenario obliga a los bancos a operar con mayor prudencia, lo que se traduce en tasas de interés elevadas y una menor disponibilidad de crédito, afectando la actividad económica general.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Temporada de balances: banco top de Argentina mostró millonaria pérdida de casi $90.000 millones",
+          "link": "https://www.iprofesional.com/finanzas/442650-temporada-de-balances-banco-top-mostro-millonaria-perdida-de-casi-90-000-millones",
           "fuente": "iProfesional",
-          "fecha": "2025-11-25 08:30:00"
+          "fecha": "2025-11-25 12:29:00"
+        },
+        {
+          "titulo": "Los bancos muestran sus números: en un trimestre negativo, los inversores debaten si es hora de comprar",
+          "link": "https://www.ambito.com/finanzas/los-bancos-muestran-sus-numeros-se-preve-un-trimestre-negativo-y-los-inversores-debaten-si-es-hora-comprar-n6217294",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 11:47:00"
+        },
+        {
+          "titulo": "Empieza a verse el efecto de la política oficial sobre los bancos: el Galicia perdió casi $ 88.000 millones",
+          "link": "https://www.clarin.com/economia/grupo-galicia-abre-temporada-balances-bancarios-rojo-perdio-87000-millones_0_hIxjagbzSZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 11:45:06"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-25",
       "fuentes": [
-        "La Nación",
+        "Clarín",
+        "Ámbito Financiero",
         "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "crisis_humanitaria_en_20251125",
+      "tema": "Crisis Humanitaria en Gaza",
+      "tema_normalizado": "crisis humanitaria en gaza",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Franja de Gaza enfrenta una severa crisis humanitaria, exacerbada por intensas lluvias que inundan los precarios refugios y tiendas de campaña de miles de familias palestinas desplazadas.\n• Esta situación se suma a la destrucción masiva de viviendas tras la ofensiva israelí, dejando a la población sin refugios dignos por tercer invierno consecutivo.\n• En un esfuerzo por aliviar parte de la crisis sanitaria, un antiguo papamóvil utilizado por el difunto Papa Francisco ha sido transformado en una clínica móvil para atender a los niños de Gaza.\n\n🔍 **Datos clave:**\n• **Octubre de 2023:** Fecha de inicio de la ofensiva israelí que destruyó gran parte de las viviendas en Gaza.\n• **13.000+ familias:** Cantidad de familias damnificadas y miles de tiendas dañadas por lluvias anteriores, según datos de la ONU.\n• **Tercer invierno:** Período consecutivo que los palestinos en Gaza enfrentan sin refugios dignos.\n• **2014:** Año en que el papamóvil fue donado por el presidente palestino Mahmud Abás a Francisco en Belén.\n• **200 niños/día:** Capacidad estimada de atención de la clínica móvil del papamóvil.\n• **67 niños:** Cifra de niños fallecidos en incidentes relacionados con el conflicto desde el alto el fuego, según UNICEF.\n• **Abril:** Mes en que falleció el Papa Francisco, quien bendijo la iniciativa de la clínica móvil.\n\n⚡ **Desarrollo:**\n• Las recientes tormentas han inundado campamentos en ciudades como Gaza y Khan Younis, transformando las tiendas de campaña en \"un mar\" y dejando a los desplazados en condiciones de \"humillación\".\n• La población vive en tiendas viejas y rasgadas, con testimonios que describen la situación como peor que la de los animales, y donde el invierno ha pasado de ser una bendición a un daño.\n• La iniciativa del papamóvil-clínica, bendecida por el Papa Francisco antes de morir, busca ofrecer atención médica vital a los niños afectados por el conflicto.\n• Cáritas, la organización católica, está a cargo del proyecto, que ha sido descrito como el \"último deseo del Papa para los niños de Gaza\" y un testimonio de que el mundo no los ha olvidado.\n• A pesar de un alto el fuego formal, continúan los frecuentes ataques aéreos israelíes sobre el territorio, generando incertidumbre sobre cuándo y cómo el vehículo médico podrá ingresar a Gaza.\n• El Papa Francisco se pronunció frecuentemente sobre la guerra, calificando la situación humanitaria de \"vergonzosa\" en enero y pidiendo la liberación de rehenes, además de condenar los ataques de Hamás.\n\n💡 **¿Por qué importa?**\n• La crisis humanitaria en Gaza es extremadamente grave, con millones de personas desplazadas enfrentando condiciones climáticas adversas sin refugio adecuado ni servicios básicos, lo que requiere ayuda urgente y sostenida.\n• Iniciativas como la clínica móvil del papamóvil son un intento crucial por aliviar el sufrimiento, especialmente el de los niños, pero la persistencia del conflicto y la inestabilidad de la zona dificultan enormemente la distribución efectiva de la ayuda humanitaria.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Las lluvias vuelven a inundar la devastada Gaza: “Los animales viven mejor que nosotros”",
+          "link": "https://www.infobae.com/america/mundo/2025/11/25/las-lluvias-vuelven-a-inundar-la-devastada-gaza-los-animales-viven-mejor-que-nosotros/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-25 14:51:22"
+        },
+        {
+          "titulo": "Un papamóvil de Francisco será convertido en una clínica para atender niños de Gaza",
+          "link": "https://www.ambito.com/mundo/un-papamovil-francisco-sera-convertido-una-clinica-atender-ninos-gaza-n6217355",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 12:02:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-25",
+      "fuentes": [
+        "Infobae",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
