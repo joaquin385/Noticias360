@@ -1,114 +1,134 @@
 {
   "fecha": "2025-11-26",
-  "fecha_generacion": "2025-11-26T12:33:36.505637",
+  "fecha_generacion": "2025-11-26T15:20:51.959229",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "dolar_argentina:_cotizaciones_20251126",
-      "tema": "Dólar Argentina: Cotizaciones y Presión Cambiaria",
-      "tema_normalizado": "dolar argentina: cotizaciones y presion cambiaria",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado cambiario argentino experimenta una fuerte presión alcista en todas sus cotizaciones, con el dólar oficial y los paralelos registrando importantes subas a fines de noviembre de 2025.\n*   Esta dinámica se recalienta por una combinación de factores, incluyendo la baja de tasas de interés, un vencimiento clave de instrumentos atados al dólar y una próxima licitación de deuda del Tesoro.\n*   El dólar mayorista se acerca peligrosamente al techo de la banda de flotación, lo que pone en alerta al Banco Central ante una posible intervención.\n\n🔍 **Datos clave:**\n*   **Fecha:** Miércoles 26 de noviembre de 2025.\n*   **Dólar Oficial (Mayorista):** $1.447,50 (subió casi $60 en 4 ruedas).\n*   **Dólar Blue (venta):** $1.460 (subió $35).\n*   **Dólar MEP (venta):** $1.484,70.\n*   **Dólar CCL (venta):** $1.525,10.\n*   **Dólar Tarjeta:** $1.911 (incluye 60% de impuestos).\n*   **Vencimientos de Deuda del Tesoro:** Entre $14,5 y $15 billones.\n*   **Tasa de referencia BCRA:** 20% nominal anual (recortada).\n\n⚡ **Desarrollo:**\n*   La reciente baja de la tasa de referencia del Banco Central (del 22% al 20%) aumentó la liquidez en pesos, deprimió los rendimientos de corto plazo y alimentó la demanda de dólares.\n*   Una \"maniobra\" en la City, vinculada al vencimiento de la letra dólar linked \"D28N5\", generó una fuerte demanda de divisas para el fixing de su precio, contribuyendo a la presión alcista.\n*   El Ministerio de Economía afronta una licitación crucial para refinanciar una gran cantidad de vencimientos de deuda en pesos, buscando estirar plazos en un contexto de mayor demanda estacional de pesos.\n*   El dólar mayorista se ubicó a tan solo $60 del techo de la banda de flotación ($1.508), lo que podría forzar al BCRA a intervenir para contener su avance.\n*   La negación del ministro Luis Caputo sobre un supuesto crédito de u$s20.000 millones también influyó en el nerviosismo del mercado.\n*   UBS proyecta un 2026 positivo para Argentina, anticipando reformas clave y una renovada capacidad política del gobierno de Javier Milei.\n\n💡 **¿Por qué importa?**\n*   La volatilidad del dólar impacta directamente en la inflación, los precios de los productos y el poder adquisitivo, afectando la vida cotidiana de los argentinos.\n*   El éxito en la refinanciación de la deuda y el control de la presión cambiaria son fundamentales para la estabilidad económica del país y la confianza de los inversores.",
-      "cantidad_noticias": 15,
+      "tema_id": "gobierno_milei:_primeras_20251126",
+      "tema": "Gobierno Milei: Primeras medidas y Gabinete",
+      "tema_normalizado": "gobierno milei: primeras medidas y gabinete",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei relanzó su Gabinete con Manuel Adorni asumiendo formalmente como nuevo Jefe de Gabinete, marcando una nueva etapa en la gestión.\n• En su primera reunión ampliada, con la presencia del Presidente, se presentaron a los futuros ministros de Seguridad y Defensa, Alejandra Monteoliva y Carlos Presti.\n• El foco principal del encuentro fue la aceleración de la agenda legislativa, priorizando reformas clave para las próximas sesiones extraordinarias del Congreso.\n\n🔍 **Datos clave:**\n• **Nuevo Jefe de Gabinete:** Manuel Adorni.\n• **Nuevos Ministros designados:** Alejandra Monteoliva (Seguridad) y Carlos Presti (Defensa).\n• **Ministros salientes (a relevar):** Patricia Bullrich y Luis Petri.\n• **Frecuencia de reuniones de Gabinete:** Aproximadamente cada 10 días.\n• **Fecha clave para Reforma Laboral:** 15 de diciembre, envío de borrador al Congreso.\n• **Caso Lorena Villaverde:** Senadora libertaria impugnada por presuntos vínculos con narcotráfico (detenida en 2022 con 2 kg de cocaína en EE. UU.), cuya jura fue respaldada por Luis Juez.\n\n⚡ **Desarrollo:**\n• Manuel Adorni fue designado con la misión de ser los \"ojos\" de los hermanos Milei en la gestión, buscando un seguimiento intenso y auditorías en cada ministerio para dinamizar las políticas.\n• La reunión de Gabinete, realizada en Casa Rosada, contó con todos los ministros y los entrantes Monteoliva y Presti, en un gesto que simboliza la \"segunda fase\" del gobierno.\n• Se definieron temas prioritarios para las sesiones extraordinarias del Congreso, incluyendo el Presupuesto, la Reforma Laboral, cambios en la legislación laboral y, potencialmente, la reforma del Código Penal.\n• El Consejo de Mayo, ahora bajo la presidencia de Adorni, celebró su última reunión para finalizar el borrador de la Reforma Laboral, con la participación de representantes del Ejecutivo, provincias, legisladores, sindicatos y empresarios.\n• En el ámbito legislativo, el senador Luis Juez (Pro) anunció su apoyo a la jura de la senadora Lorena Villaverde, desestimando la impugnación del PJ por \"inhabilidad moral\" tras una causa judicial en Estados Unidos.\n\n💡 **¿Por qué importa?**\n• Este relanzamiento consolida el equipo de gobierno bajo una nueva dinámica de gestión, buscando mayor eficiencia y control en la implementación de las políticas.\n• La celeridad en la presentación de reformas legislativas cruciales como la laboral y presupuestaria definirá la dirección económica y social del país, enfrentando desafíos políticos y consensos en el Congreso.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Milei se sumó a la primera reunión de gabinete que encabezó Adorni",
+          "link": "https://www.lanacion.com.ar/politica/milei-se-suma-a-la-primera-reunion-de-gabinete-que-encabezara-adorni-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 12:08:51"
+        },
+        {
+          "titulo": "Con una reunión de Gabinete, Milei y Adorni inauguraron la nueva etapa del Gobierno y presentaron a Monteoliva y Presti a los ministros",
+          "link": "https://www.infobae.com/politica/2025/11/26/adorni-encabeza-su-primera-reunion-de-gabinete-y-presentara-a-monteoliva-y-presti-a-los-ministros/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-26 12:03:36"
+        },
+        {
+          "titulo": "Luis Juez apoyará la jura de la senadora libertaria Villaverde: “No estamos eligiendo un Papa”",
+          "link": "https://www.lanacion.com.ar/politica/luis-juez-apoyara-la-jura-de-la-senadora-libertaria-villaverde-no-estamos-eligiendo-un-papa-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 12:00:54"
+        },
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:50:32"
+        },
+        {
+          "titulo": "Manuel Adorni debuta al frente del Consejo de Mayo para definir detalles de la reforma laboral",
+          "link": "https://www.minutouno.com/politica/manuel-adorni-debuta-al-frente-del-consejo-mayo-definir-detalles-la-reforma-laboral-n6217807",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 09:50:00"
+        },
+        {
+          "titulo": "Javier Milei participa de la reunión de Gabinete y el Gobierno acelera el cierre del Consejo de Mayo",
+          "link": "https://www.ambito.com/politica/manuel-adorni-debuta-al-mando-del-gabinete-y-el-gobierno-acelera-el-cierre-del-consejo-mayo-n6217774",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 09:16:00"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente relanza el Gabinete con los nuevos ministros de Seguridad y Defensa en la primera reunión de Adorni",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-adorni-cabeza-consejo-mayo-reune-ultima-vez-recambio-congreso_0_2aVum6ER7Y.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 07:56:18"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Infobae",
+        "La Nación",
+        "Clarín",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "dolar_y_mercado_20251126",
+      "tema": "Dólar y mercado cambiario argentino",
+      "tema_normalizado": "dolar y mercado cambiario argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n• Este miércoles 26 de noviembre, el mercado cambiario argentino mostró la cotización de múltiples tipos de dólar, reflejando la complejidad económica del país.\n• El dólar oficial y el dólar blue (paralelo) mantuvieron una brecha relativamente baja, mientras otros tipos como el MEP, CCL y tarjeta también operaron.\n• Se destaca la influencia del Banco Central y la atención del mercado en licitaciones del Tesoro.\n\n🔍 **Datos clave:**\n• **Fecha:** Miércoles 26 de noviembre.\n• **Dólar Oficial (venta Banco Nación):** $1.470.\n• **Dólar Blue (venta):** $1.460 (subió $35).\n• **Dólar Tarjeta/Turista:** $1.911 (incluye 30% de recargo).\n• **Dólar MEP (venta):** $1.480,68 (brecha del 2,1% con el oficial).\n• **Dólar CCL (Contado con Liquidación):** $1.521,83 (brecha del 4,9% con el oficial).\n• **Dólar Cripto:** $1.513.\n• **Ministro de Economía:** Luis Caputo.\n\n⚡ **Desarrollo:**\n• El Banco Central (BCRA) controla y difunde la cotización del dólar oficial, mientras que el valor del dólar blue se releva en el mercado informal, conocido como \"cuevas\".\n• Argentina opera con al menos seis tipos de dólar, cada uno con un propósito y valor diferente, como el mayorista (para comercio exterior) y el ahorro/solidario (con recargo impositivo).\n• El \"dólar blue\" se negocia fuera del circuito bancario y a menudo presenta una cotización distinta al oficial, generando una \"brecha\" entre ambos.\n• El \"dólar tarjeta\" incluye un recargo del 30% deducible del Impuesto a las Ganancias, aplicado a compras en el exterior o para atesoramiento dentro del circuito oficial.\n• El Contado con Liquidación (CCL) y el Dólar MEP son operaciones legales que permiten a empresas y particulares adquirir dólares, principalmente para girar divisas al exterior.\n• El Ministro de Economía, Luis Caputo, expresó optimismo sobre la economía para 2026, anticipando una rebaja impositiva y ratificando el esquema cambiario sin esperar un dólar alto.\n• Además del dólar, se cotizaron otras divisas con sus versiones \"blue\", como el Euro (oficial venta $1.706,10; blue venta $1.773,75) y el Real (oficial venta $280; blue venta $278,75).\n\n💡 **¿Por qué importa?**\n• La multiplicidad de tipos de cambio del dólar en Argentina es un indicador clave de las restricciones y regulaciones económicas del país.\n• Estas cotizaciones afectan directamente el poder adquisitivo de los ciudadanos, las operaciones de comercio exterior y las decisiones de inversión y ahorro, influyendo en la estabilidad económica general.",
+      "cantidad_noticias": 8,
       "noticias": [
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 26 de noviembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-26-de-noviembre-nid26112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-26 09:09:00"
+          "fecha": "2025-11-26 11:59:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-26-noviembre-n6217661",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 11:46:00"
         },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 26 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-26-noviembre-n6217732",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-26 09:08:00"
+          "fecha": "2025-11-26 11:38:00"
         },
         {
-          "titulo": "El dólar se recalienta en el cierre del mes y a la espera de una licitación clave",
-          "link": "https://www.ambito.com/finanzas/el-dolar-se-recalienta-el-cierre-del-mes-y-la-espera-una-licitacion-clave-n6217736",
+          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-26-noviembre-n6217663",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-26 08:14:51"
+          "fecha": "2025-11-26 11:06:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-26-noviembre-n6217772",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 11:06:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-26-noviembre-n6217664",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 11:06:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este miércoles 26 de noviembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-miercoles-26-noviembre_0_N0TVZsRYjx.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 09:00:01"
         },
         {
           "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 26 de noviembre, minuto a minuto",
           "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-miercoles-26-noviembre-minuto-minuto_0_k0LvNNeo8j.html",
           "fuente": "Clarín",
           "fecha": "2025-11-26 07:38:50"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-miercoles-26-noviembre_0_thpYIvP55C.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:08:02"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-miercoles-26-noviembre_0_PWNzNMHmmV.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:08:01"
-        },
-        {
-          "titulo": "Dólar cripto hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-miercoles-26-noviembre_0_AdWel84F91.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:05:01"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-miercoles-26-noviembre_0_PhaTJe7Ltd.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:05:01"
-        },
-        {
-          "titulo": "Una maniobra en la City le metió presión al dólar: por qué prevén que pronto retomará la calma",
-          "link": "https://www.iprofesional.com/finanzas/442713-una-maniobra-en-la-city-le-metio-presion-al-dolar-por-que-preven-que-retomara-la-calma",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-26 07:00:00"
-        },
-        {
-          "titulo": "El dólar sube, roza el techo de la banda y el mercado espera un test clave",
-          "link": "https://www.iprofesional.com/finanzas/442684-dolar-sube-roza-techo-de-banda-cambiaria-y-mercado-espera-test-clave",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-26 06:38:00"
-        },
-        {
-          "titulo": "Suba del dólar: cuáles son los cuatro desafíos cambiarios que afronta el Gobierno en los próximos días",
-          "link": "https://www.clarin.com/economia/suba-dolar-desafios-cambiarios-afronta-gobierno-proximos-dias_0_NihqMWIfqp.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 06:00:55"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-26-noviembre_0_pTrwMZa3tW.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 04:00:01"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 26 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-26-noviembre-n6217663",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-26 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-26-noviembre-n6217661",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-26 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 26 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-26-noviembre-n6217702",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-26 00:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
         "La Nación",
-        "Ámbito Financiero",
-        "Minuto1",
         "Clarín",
-        "iProfesional"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -116,211 +136,53 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "anses:_pagos_y_20251126",
-      "tema": "ANSES: Pagos y Beneficios Diciembre 2025",
-      "tema_normalizado": "anses: pagos y beneficios diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• ANSES actualiza los montos de diversas prestaciones sociales, jubilaciones y pensiones para diciembre de 2025.\n• Este mes, muchos beneficiarios reciben aumentos, un bono extra de $70.000 y la segunda cuota del aguinaldo (SAC).\n• Los pagos buscan reforzar los ingresos de los sectores más vulnerables y se realizan según calendarios específicos por terminación de DNI.\n\n🔍 **Datos clave:**\n• **Aumento General:** 2,34% para la mayoría de las prestaciones (jubilaciones, PNC, PUAM, SUAF) en línea con la inflación de octubre.\n• **Bono Extra:** $70.000 destinado a jubilados y pensionados de la mínima, titulares de PUAM y PNC.\n• **Aguinaldo:** Segunda cuota del Sueldo Anual Complementario (SAC) para jubilados y pensionados.\n• **Volver al Trabajo / Acompañamiento Social:** $78.000, con fecha de pago el viernes 5 de diciembre.\n• **Jubilación Mínima (total):** $581.319,38 (que incluye haber base, bono y aguinaldo).\n• **Tarjeta Alimentar:** Montos entre $52.250 (1 hijo/embarazo) y $108.062 (3 o más hijos), sin cambios este mes.\n• **AUH:** $97.993,42 por hijo.\n\n⚡ **Desarrollo:**\n• **Jubilaciones y Pensiones (incl. PUAM y PNC):** Se incrementan un 2,34%. La jubilación mínima, PUAM y PNC reciben un bono de $70.000 y aguinaldo, alcanzando montos combinados importantes (ej. jubilación mínima: $581.319,38). Para haberes mayores al mínimo, el bono es proporcional hasta $410.879,59.\n• **Volver al Trabajo y Acompañamiento Social:** Mantienen su monto en $78.000 y se abonan el 5 de diciembre. Estos programas no tuvieron actualización de monto este mes.\n• **Tarjeta Alimentar:** Los montos se mantienen sin cambios, variando de $52.250 (1 hijo/embarazo) a $108.062 (3 o más hijos), y se paga junto a la prestación de origen. Está destinada a beneficiarios de AUH, AUE, PNC Madre de 7 hijos, hasta los 17 años inclusive.\n• **AUH y AUE:** Aumentan 2,34%, llevando la AUH a $97.993,42 y la Asignación por Embarazo al mismo valor. Se retiene el 20% hasta presentar la Libreta AUH para acreditar asistencia escolar y sanitaria.\n• **Asignaciones Familiares (SUAF):** Aumentan 2,34%. Los montos varían según el Ingreso del Grupo Familiar (IGF), con valores desde $12.891,77 hasta $61.251,51 por hijo. Hay topes de ingreso familiar individual y grupal.\n• **Consulta de Cobro:** Los beneficiarios pueden verificar fechas y montos en Mi ANSES o Mi Argentina, en la sección \"Mis cobros\", ingresando CUIL y Clave de Seguridad Social.\n• **Calendarios de Pago:** Las fechas de cobro son por terminación de DNI, distribuyéndose a lo largo del mes (ej. jubilados de mínima 9-16 dic, AUH 9-19 dic). Las Pensiones No Contributivas suelen acreditarse la segunda semana de diciembre.\n\n💡 **¿Por qué importa?**\n• Diciembre es un mes crucial para los beneficiarios de ANSES, ya que la combinación de aumentos, bonos y aguinaldo representa un importante refuerzo económico.\n• Estos pagos son fundamentales para sostener el poder adquisitivo de jubilados, pensionados y familias, y ayudan a cubrir gastos de fin de año.",
-      "cantidad_noticias": 14,
+      "tema_id": "deuda,_tasas_y_20251126",
+      "tema": "Deuda, tasas y finanzas argentinas",
+      "tema_normalizado": "deuda, tasas y finanzas argentinas",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina enfrenta importantes desafíos financieros, centrados en la refinanciación de una abultada deuda en pesos y la búsqueda de fondos externos.\n*   El Banco Central (BCRA) ha implementado medidas como la baja de tasas de interés y la flexibilización de encajes bancarios para facilitar la gestión de la deuda interna.\n*   El Gobierno, a través de Luis Caputo, busca cerrar un crédito privado de hasta u$s5.000 millones para fortalecer las reservas, tras no concretarse un préstamo más ambicioso.\n\n🔍 **Datos clave:**\n*   **Vencimientos de deuda en pesos:** Aproximadamente $14.6 billones (u$s14 mil millones) en licitaciones recientes, con $13.8 billones en manos de privados.\n*   **Tasa de simultáneas BCRA:** Reducida del 22% al 20% Nominal Anual.\n*   **Encajes bancarios:** Eliminada la exigencia de 3.5 puntos porcentuales extra.\n*   **Tasas de Plazo Fijo:** Oscilan entre 24% y 29% TNA en los principales bancos, volviéndose negativas frente a la inflación.\n*   **Riesgo País:** Se mantiene elevado, por encima de los 650 puntos básicos (actualmente 653 puntos).\n*   **Reservas netas:** Negativas en u$s16.000 millones, según la contabilidad del FMI.\n*   **Crédito Externo:** Negociación por u$s5.000 millones (operación de repo) tras fracasar un plan inicial de u$s20.000 millones.\n*   **Día de referencia:** Miércoles 26 de noviembre, fecha de licitaciones y publicación de tasas.\n\n⚡ **Desarrollo:**\n*   El Tesoro Nacional ofreció un amplio menú de instrumentos de deuda en pesos (Boncap, Lecap, Boncer, bonos de tasa flotante y dólar linked) para refinanciar los vencimientos, con plazos superiores a dos meses.\n*   La baja de tasas del BCRA busca abaratar el costo del financiamiento para el Estado y liberar liquidez en el sistema bancario, generando a su vez una caída en los rendimientos de los plazos fijos.\n*   La desregulación de las tasas mínimas para plazos fijos ha llevado a que los rendimientos de muchos bancos sean inferiores a la inflación, impulsando a los ahorristas a buscar alternativas como billeteras virtuales (algunas ofrecen hasta 38% TNA).\n*   La atención del mercado se centra en si el Gobierno logrará un \"roll-over\" (refinanciación) de entre el 70% y el 100% de la deuda, considerando los abultados vencimientos de fin de año y principios del próximo.\n*   El crédito por u$s5.000 millones es vital para reforzar las reservas del BCRA, luego de que las negociaciones con bancos de Wall Street por un monto mayor se frustraran debido a la falta de garantías.\n*   A pesar de cierta calma actual en el tipo de cambio, influenciada por factores estacionales y mayor oferta de divisas, persiste la tensión por los compromisos de deuda y la demanda estacional de pesos en diciembre.\n\n💡 **¿Por qué importa?**\n*   La capacidad del Gobierno para refinanciar su deuda interna y atraer dólares externos es fundamental para la estabilidad macroeconómica y evitar una mayor volatilidad en el tipo de cambio.\n*   Las políticas de tasas de interés y encajes impactan directamente en el poder adquisitivo del ahorro de los argentinos y en la capacidad de financiamiento del Estado, influyendo en la inflación y las expectativas económicas.",
+      "cantidad_noticias": 7,
       "noticias": [
         {
-          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
+          "titulo": "Una licitación clave de deuda comienza a definir el clima financiero de fin de año",
+          "link": "https://www.lanacion.com.ar/economia/una-licitacion-clave-de-deuda-comienza-a-definir-el-clima-financiero-de-fin-de-ano-nid26112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-26 08:22:03"
+          "fecha": "2025-11-26 12:05:11"
         },
         {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:22:01"
-        },
-        {
-          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:19:11"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:19:08"
-        },
-        {
-          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:57"
-        },
-        {
-          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:54"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:52"
-        },
-        {
-          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:50"
-        },
-        {
-          "titulo": "ANSES: quiénes cobrarán el bono de $70.000 en diciembre y cómo quedan los haberes 2025",
-          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobraran-el-bono-de-70000-en-diciembre-y-como-quedan-los-haberes-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 07:48:00"
-        },
-        {
-          "titulo": "Calendario ANSES: quiénes cobran hoy 26 de noviembre del 2025",
-          "link": "https://www.perfil.com/noticias/economia/calendario-anses-quienes-cobran-hoy-26-de-noviembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 07:48:00"
-        },
-        {
-          "titulo": "ANSES: a quiénes están destinados los bonos de hasta $50.000",
-          "link": "https://www.minutouno.com/economia/anses-quienes-estan-destinados-los-bonos-50000-n6217443",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-26 07:15:00"
-        },
-        {
-          "titulo": "Jubilados ANSES: los montos y las fechas confirmadas de los haberes de diciembre",
-          "link": "https://www.minutouno.com/economia/jubilados-anses-los-montos-y-las-fechas-confirmadas-los-haberes-diciembre-n6217436",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-26 07:15:00"
-        },
-        {
-          "titulo": "Jubilaciones de Anses: quiénes cobran este miércoles 26 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-quienes-cobran-este-miercoles-26-de-noviembre-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 07:00:59"
-        },
-        {
-          "titulo": "Calendario de la Anses: todas las prestaciones sociales que se pagan este miércoles 26 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/calendario-de-la-anses-todas-las-prestaciones-sociales-que-se-pagan-este-miercoles-26-de-noviembre-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 07:00:57"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-26",
-      "fuentes": [
-        "La Nación",
-        "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "salarios_y_aguinaldo_20251126",
-      "tema": "Salarios y Aguinaldo Argentina Diciembre 2025",
-      "tema_normalizado": "salarios y aguinaldo argentina diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n*   En diciembre de 2025, millones de trabajadores registrados y jubilados/pensionados en Argentina cobrarán la segunda cuota del Aguinaldo (SAC).\n*   Además, diversos sectores como Empleados de Comercio, Servicio Doméstico, Bancarios, Fuerzas de Seguridad y Vigilancia Privada verán actualizaciones salariales y/o bonos específicos.\n*   El Gobierno convocó al Consejo del Salario para definir un nuevo valor para el Salario Mínimo, Vital y Móvil (SMVM), estancado desde agosto.\n\n🔍 **Datos clave:**\n*   **Aguinaldo (SAC):** 50% del sueldo más alto percibido entre julio y diciembre.\n*   **Fecha límite de pago del Aguinaldo:** Hasta el 18 de diciembre, con extensión legal hasta el 24 de diciembre.\n*   **Empleados de Comercio (dic 2025):** 1% de aumento + $40.000 suma fija. Salarios iniciales (ej. Maestranza A: $1.095.795).\n*   **Servicio Doméstico (dic 2025):** 1.3% de aumento (complementando un 2.7% total entre noviembre y diciembre).\n*   **Bono Servicio Doméstico:** Extraordinario, no remunerativo, en Nov, Dic y Enero 2026. Montos: $6.000, $9.000 o $14.000 según horas semanales.\n*   **Bancarios (Nov 2025):** Salario inicial de $1.915.982,88 (base para diciembre).\n*   **Vigiladores Privados (dic 2025):** Cobrarán una suma no remunerativa extraordinaria.\n*   **Salario Mínimo (SMVM):** Congelado en $322.200 desde agosto; se busca su actualización.\n\n⚡ **Desarrollo:**\n*   El aguinaldo de diciembre es la segunda cuota del Sueldo Anual Complementario (SAC), destinado a trabajadores registrados en relación de dependencia, jubilados y pensionados.\n*   No aplica a monotributistas ni a trabajadores informales. Se calcula como el 50% de la mayor remuneración mensual del semestre (julio a diciembre), o proporcionalmente si se trabajó menos.\n*   Los Empleados de Comercio recibirán un incremento del 1% y una suma fija de $40.000 en su haber mensual de diciembre, adicional al aguinaldo correspondiente.\n*   El personal del Servicio Doméstico, en todas sus categorías (supervisores, caseros, cocineros, niñeras, etc.), percibirá un aumento salarial del 1.3% en diciembre.\n*   Además, este sector recibirá un bono extraordinario no remunerativo en noviembre, diciembre y enero de 2026, con montos variables de $6.000, $9.000 o $14.000, según la carga horaria semanal.\n*   Otros gremios como bancarios, la Policía Federal Argentina, las Fuerzas Armadas y los vigiladores privados también actualizaron sus haberes en noviembre, lo que establece su base salarial para el cierre de año, y algunos recibirán bonos especiales en diciembre.\n*   El Gobierno convocó al Consejo del Salario para redefinir el Salario Mínimo, Vital y Móvil, que se mantuvo en $322.200 desde agosto de 2025, tras una significativa pérdida de poder adquisitivo real.\n\n💡 **¿Por qué importa?**\n*   Estas liquidaciones de salarios y aguinaldos son cruciales para el presupuesto de millones de familias argentinas en el último mes del año.\n*   Reflejan las negociaciones paritarias y los esfuerzos por mantener el poder adquisitivo de los salarios frente a la inflación.",
-      "cantidad_noticias": 16,
-      "noticias": [
-        {
-          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:22:06"
-        },
-        {
-          "titulo": "Cuánto cobran los supervisores en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-supervisores-en-noviembre-de-2025-nid12112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:45"
-        },
-        {
-          "titulo": "Aumentos en el empleo doméstico: así quedan las escalas salariales tras la suba de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/aumentos-en-el-empleo-domestico-asi-quedan-las-escalas-salariales-tras-la-suba-de-noviembre-nid11112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:43"
-        },
-        {
-          "titulo": "Cuánto cobran los empleados bancarios en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-noviembre-de-2025-nid10112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:41"
-        },
-        {
-          "titulo": "Cuánto cobran los caseros en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-caseros-en-noviembre-de-2025-nid11112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:39"
-        },
-        {
-          "titulo": "Cuánto gana el personal de la Policía Federal Argentina en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-gana-el-personal-de-la-policia-federal-argentina-en-noviembre-de-2025-nid04112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:36"
-        },
-        {
-          "titulo": "Vigiladores: cuánto gana un empleado de seguridad privada en noviembre 2025, tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/vigiladores-cuanto-gana-un-empleado-de-seguridad-privada-en-noviembre-2025-tras-el-aumento-nid03112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:34"
-        },
-        {
-          "titulo": "Cuánto cobra el servicio doméstico en noviembre 2025, según el último acuerdo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobra-el-servicio-domestico-en-noviembre-2025-segun-los-ultimos-acuerdos-nid30102025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:32"
-        },
-        {
-          "titulo": "Cuánto cobra el personal de las Fuerzas Armadas en noviembre de 2025, tras el aumento pactado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobra-el-personal-de-las-fuerzas-armadas-en-noviembre-de-2025-tras-el-aumento-pactado-nid30102025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:29"
-        },
-        {
-          "titulo": "Cuánto cobran los cocineros y el personal de tareas específicas en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-cocineros-y-el-personal-de-tareas-especificas-en-noviembre-de-2025-nid29102025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:28"
-        },
-        {
-          "titulo": "Cuánto cobran las niñeras y cuidadores de adultos en noviembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-noviembre-2025-nid28102025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:24"
-        },
-        {
-          "titulo": "Empleadas domésticas: cuánto cobran en noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/empleadas-domesticas-cuanto-cobran-en-noviembre-de-2025-nid21102025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:18:21"
-        },
-        {
-          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:17:50"
-        },
-        {
-          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:17:48"
-        },
-        {
-          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:17:46"
-        },
-        {
-          "titulo": "Tras seis meses de parálisis, el Gobierno vuelve a convocar al Consejo del Salario para definir un aumento del sueldo mínimo",
-          "link": "https://www.ambito.com/economia/tras-seis-meses-paralisis-el-gobierno-vuelve-convocar-al-consejo-del-salario-definir-un-aumento-del-sueldo-minimo-n6217716",
+          "titulo": "Los bonos en dólares cortan su racha negativa, pero el riesgo país sigue arriba de 650 puntos y cae el S&P Merval",
+          "link": "https://www.ambito.com/finanzas/el-riesgo-pais-se-sostiene-arriba-los-650-puntos-podran-los-bonos-dolares-cortar-la-racha-negativa-n6217832",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 23:02:20"
+          "fecha": "2025-11-26 11:54:00"
+        },
+        {
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este miércoles 26 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-miercoles-26-de-noviembre-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:49:26"
+        },
+        {
+          "titulo": "El dólar cae levemente en la antesala de una licitación clave del Tesoro",
+          "link": "https://www.ambito.com/finanzas/el-dolar-se-recalienta-el-cierre-del-mes-y-la-espera-una-licitacion-clave-n6217736",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 11:20:00"
+        },
+        {
+          "titulo": "Las tasas de interés se vuelven negativas y los plazos fijos pierden atractivo",
+          "link": "https://www.ambito.com/finanzas/las-tasas-interes-se-vuelven-negativas-y-los-plazos-fijos-pierden-atractivo-n6217830",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 10:43:19"
+        },
+        {
+          "titulo": "Así están las tasas del plazo fijo en los principales bancos hoy, miércoles 26 de noviembre 2025",
+          "link": "https://www.ambito.com/economia/asi-estan-las-tasas-del-plazo-fijo-los-principales-bancos-hoy-miercoles-26-noviembre-2025-n6217820",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 10:23:00"
+        },
+        {
+          "titulo": "Luis Caputo acelera crédito por u$s5.000 millones y estudios de abogados analizan la \"ingeniería de garantías\"",
+          "link": "https://www.ambito.com/economia/luis-caputo-acelera-credito-us5000-millones-y-estudios-abogados-analizan-la-ingenieria-garantias-n6217714",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 08:09:22"
         }
       ],
       "categoria_principal": "economia",
@@ -335,42 +197,73 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "gobierno_milei:_gabinete_20251126",
-      "tema": "Gobierno Milei: Gabinete y Primeras Medidas",
-      "tema_normalizado": "gobierno milei: gabinete y primeras medidas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei ha inaugurado una nueva etapa con la primera reunión de Gabinete encabezada por el flamante Jefe de Gabinete, Manuel Adorni, con la presencia del Presidente.\n• Este encuentro marca un giro hacia un seguimiento más estricto de la gestión ministerial y la presentación de Alejandra Monteoliva y Carlos Presti como nuevos ministros de Seguridad y Defensa, respectivamente.\n\n🔍 **Datos clave:**\n• **Nuevo Jefe de Gabinete:** Manuel Adorni (asume rol con mayor control de gestión).\n• **Cambios ministeriales:** Alejandra Monteoliva (Seguridad, reemplaza a Patricia Bullrich) y Carlos Presti (Defensa, reemplaza a Luis Petri).\n• **Frecuencia reuniones de Gabinete:** Aproximadamente cada 10 días.\n• **Costo promedio concejal:** 21,6 millones de pesos por mes (según estudio de la Fundación Libertad).\n• **Salario Mínimo Actual:** $322.200 (60% más bajo que en 2023, por debajo de la línea de indigencia de $544.304).\n\n⚡ **Desarrollo:**\n• Manuel Adorni fue designado para ser \"los ojos\" de la presidencia en la gestión, implementando un seguimiento intenso de los ministerios y considerando posibles \"auditorías\" para dinamizar las políticas.\n• La Casa Rosada está trabajando en el borrador final de importantes reformas, incluyendo el Presupuesto 2026, la reforma laboral, la tributaria y cambios al Código Penal.\n• El Ministro del Interior, Diego Santilli, ha sostenido reuniones con 14 de los 20 gobernadores del país para buscar consensos, dejando para más adelante a los mandatarios más \"díscolos\".\n• La Confederación General del Trabajo (ATE) criticó al Gobierno por \"desnaturalizar\" el Consejo del Salario, acusando una fusión entre el empresariado y el Gobierno que ha deteriorado el poder adquisitivo del salario mínimo.\n• Se ha puesto en relieve el alto costo de la política, ejemplificado con el Concejo Deliberante de Posadas que emplea a 1585 personas para 13 concejales, lo que implica un elevado gasto para el contribuyente.\n\n💡 **¿Por qué importa?**\n• Estos movimientos y la nueva dinámica de control buscan acelerar las reformas y políticas de eficiencia propuestas por el Gobierno de Milei, con un impacto directo en la estructura estatal y la economía.\n• El enfoque en el ajuste del gasto público y la reconfiguración de equipos ministeriales señalan un intento de consolidar la dirección del gobierno y abordar los desafíos económicos y sociales desde una nueva perspectiva de gestión.",
-      "cantidad_noticias": 4,
+      "tema_id": "conflicto_rusia-ucrania_y_20251126",
+      "tema": "Conflicto Rusia-Ucrania y Trump",
+      "tema_normalizado": "conflicto rusia-ucrania y trump",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Donald Trump y su equipo han propuesto un plan de paz de 28 puntos para Ucrania, el cual genera gran controversia por estar basado en un documento entregado por Rusia.\n*   El enviado especial de Trump, Steve Witkoff, fue grabado aconsejando a un alto funcionario del Kremlin sobre cómo halagar al expresidente para facilitar una llamada con Vladimir Putin.\n*   La iniciativa ha provocado escepticismo en Estados Unidos y Europa, mientras Ucrania rechaza cualquier concesión territorial o amnistía por crímenes de guerra, como los documentados en Bucha.\n\n🔍 **Datos clave:**\n*   **Plan de Paz:** Propuesta de 28 puntos, basada en un \"non-paper\" ruso entregado en octubre.\n*   **Fecha de llamada filtrada:** 14 de octubre, entre Steve Witkoff (enviado de Trump) y Yuri Ushakov (asesor de Putin).\n*   **Costo para Rusia:** La guerra ha costado a Rusia unos 800.000 millones de dólares, según Polonia.\n*   **Espionaje ruso:** Cuatro detenciones en Francia, incluyendo a Anna N. (ciudadanía franco-rusa) fundadora de \"SOS Dombás\".\n*   **Territorios ocupados:** Cerca de 4 millones de ucranianos residen actualmente en zonas bajo control ruso.\n\n⚡ **Desarrollo:**\n*   El plan de paz de Trump de 28 puntos ha generado controversia por incluir importantes concesiones a Rusia, como la posible cesión de territorio en el este de Ucrania y una amnistía a crímenes de guerra.\n*   Según filtraciones, el enviado especial Steve Witkoff aconsejó al asesor ruso Yuri Ushakov cómo halagar a Trump, sugiriéndole que lo felicitara como \"un hombre de paz\" para una posible llamada con Putin.\n*   Altos funcionarios estadounidenses, como el secretario de Estado Marco Rubio, habían evaluado que las demandas rusas, detalladas en un documento presentado a la administración de Trump en octubre, serían rechazadas por Ucrania.\n*   La propuesta de paz se gestó, en parte, en una reunión en Miami entre el yerno de Trump, Jared Kushner, Steve Witkoff y Kirill Dmitriev, jefe de fondos soberanos rusos, con conocimiento limitado.\n*   Países como Polonia, que ha sufrido incursiones de drones y sabotajes rusos, advierten sobre el peligro de aceptar cambios de fronteras en Europa, destacando la visión imperialista de Putin.\n*   La Unión Europea, a través de España, enfatiza la necesidad de un alto el fuego \"incondicional e inmediato\" y el respeto a la soberanía ucraniana, apoyando el uso de activos rusos congelados y nuevas sanciones.\n*   En respuesta a la amenaza rusa, varios países europeos están reforzando sus defensas: Dinamarca ha ampliado el reclutamiento a mujeres y prolongado el servicio, mientras Polonia busca duplicar su ejército a 500.000 efectivos.\n*   El escepticismo crece entre legisladores y funcionarios estadounidenses que consideran que la propuesta de Trump replica las posiciones del Kremlin, con Washington incluso presionando a Ucrania con posibles revisiones de asistencia militar.\n\n💡 **¿Por qué importa?**\n*   El plan de Trump, basado en demandas rusas y las tácticas de su enviado, podría alterar drásticamente el curso del conflicto, pero a costa de la soberanía ucraniana y la impunidad por crímenes de guerra.\n*   El contexto de espionaje ruso en Europa y el debate sobre el rearmamento europeo subrayan la preocupación internacional por la expansión de la inestabilidad generada por la guerra en Ucrania.",
+      "cantidad_noticias": 9,
       "noticias": [
         {
-          "titulo": "Reunión de Gabinete en Casa Rosada: Milei y Adorni inauguran la nueva etapa del Gobierno y presentarán a Monteoliva y Presti a los ministros",
-          "link": "https://www.infobae.com/politica/2025/11/26/adorni-encabeza-su-primera-reunion-de-gabinete-y-presentara-a-monteoliva-y-presti-a-los-ministros/",
+          "titulo": "Filtraciones, halagos al Kremlin y un plan bajo sospecha: el delicado juego de Trump para cerrar la guerra en Ucrania",
+          "link": "https://www.lanacion.com.ar/estados-unidos/filtraciones-halagos-al-kremlin-y-un-plan-bajo-sospecha-el-delicado-juego-de-trump-para-cerrar-la-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 12:07:32"
+        },
+        {
+          "titulo": "Ejecuciones, tortura y la lucha contra la impunidad: Bucha, la ciudad ucraniana marcada por la masacre",
+          "link": "https://www.lanacion.com.ar/el-mundo/ejecuciones-torturas-y-la-lucha-contra-la-impunidad-bucha-la-ciudad-ucraniana-marcada-por-la-masacre-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:40:33"
+        },
+        {
+          "titulo": "Francia detuvo a cuatro acusados de espiar para Rusia: montaban campañas contra el envío de armas a Ucrania",
+          "link": "https://www.infobae.com/america/mundo/2025/11/26/francia-detuvo-a-cuatro-acusados-de-espiar-para-rusia-montaban-campanas-contra-el-envio-de-armas-a-ucrania/",
           "fuente": "Infobae",
-          "fecha": "2025-11-26 09:20:41"
+          "fecha": "2025-11-26 11:24:25"
         },
         {
-          "titulo": "Milei se suma a la primera reunión de gabinete que encabezará Adorni",
-          "link": "https://www.lanacion.com.ar/politica/milei-se-suma-a-la-primera-reunion-de-gabinete-que-encabezara-adorni-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 09:16:07"
-        },
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 09:10:00"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: con Adorni a la cabeza, el Consejo de Mayo se reúne por última vez antes del recambio en el Congreso",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-adorni-cabeza-consejo-mayo-reune-ultima-vez-recambio-congreso_0_2aVum6ER7Y.html",
+          "titulo": "Las transcripción completa de la llamada entre el enviado de Trump Steve Witkoff y el asesor ruso Yuri Ushakov",
+          "link": "https://www.clarin.com/mundo/transcripcion-completa-llamada-enviado-trump-steve-witkoff-asesor-ruso-yuri-ushakov_0_OWHW4ol9h9.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-26 07:56:18"
+          "fecha": "2025-11-26 11:16:52"
+        },
+        {
+          "titulo": "Un enviado de EE.UU. aconsejó a Rusia cómo hablar con Trump sobre Ucrania: \"Díganle que es un verdadero hombre de paz",
+          "link": "https://www.clarin.com/mundo/enviado-eeuu-aconsejo-rusia-hablar-trump-ucrania-diganle-verdadero-hombre-paz_0_yOi7mPQNm7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 11:04:21"
+        },
+        {
+          "titulo": "Donald Trump usó un documento ruso como base al plan de paz para Ucrania",
+          "link": "https://www.ambito.com/mundo/donald-trump-uso-un-documento-ruso-como-base-al-plan-paz-ucrania-n6217767",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 10:12:00"
+        },
+        {
+          "titulo": "Marcin Bosacki: “Una vez que se acepta que se pueden cambiar las fronteras en Europa, ¿por qué no invadir el este de Polonia?\"",
+          "link": "https://www.lanacion.com.ar/el-mundo/marcin-bosacki-una-vez-que-se-acepta-que-se-pueden-cambiar-las-fronteras-en-europa-por-que-no-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 09:50:24"
+        },
+        {
+          "titulo": "¿Reclutamiento o voluntarios? La amenaza rusa genera un debate urgente en Europa",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/reclutamiento-voluntarios-amenaza-rusa-genera-debate-urgente-europa_0_9cPN6m6qsu.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 09:31:59"
+        },
+        {
+          "titulo": "Guerra Rusia-Ucrania, EN VIVO: Trump ahora dice que nunca le dio un ultimátum a Kiev y siguen las negociaciones, pero la paz parece lejos",
+          "link": "https://www.clarin.com/mundo/guerra-rusia-ucrania-vivo-horas-termine-plazo-ultimatum-trump-kiev-siguen-negociaciones-paz_0_p6TZINf82y.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 09:01:48"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
-        "La Nación",
+        "Ámbito Financiero",
         "Infobae",
+        "La Nación",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -379,68 +272,49 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "congreso_argentina:_debates_20251126",
-      "tema": "Congreso Argentina: Debates y Agenda Legislativa",
-      "tema_normalizado": "congreso argentina: debates y agenda legislativa",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Congreso argentino, tanto a nivel nacional como en la Ciudad de Buenos Aires y la provincia de Buenos Aires, atraviesa un período de intensos debates y negociaciones políticas.\n• Se discuten temas cruciales como presupuestos, reformas económicas y la jura de nuevos legisladores, marcando el fin de las sesiones ordinarias y el inicio de las extraordinarias.\n\n🔍 **Datos clave:**\n• **28 de noviembre:** Fecha de finalización de las sesiones ordinarias del Congreso nacional.\n• **10 de diciembre:** Asunción de los nuevos diputados electos y posible inicio de sesiones extraordinarias nacionales, previstas hasta el 30 de diciembre.\n• **Presupuesto 2026:** Tema central en la agenda legislativa para CABA, la provincia de Buenos Aires y a nivel nacional.\n• **Reforma Laboral:** Propuesta clave del Gobierno que iniciaría su tratamiento en el Senado, cuyo contenido aún no es público.\n• **U$S 3.000 millones:** Monto de endeudamiento solicitado por el gobierno de Axel Kicillof para la provincia de Buenos Aires.\n• **Lorena Villaverde:** Senadora electa por La Libertad Avanza (Río Negro) cuya jura fue impugnada por la oposición.\n• **Acuerdo con EE.UU.:** Entendimiento marco bilateral que la oposición exige que sea tratado y aprobado por el Congreso.\n\n⚡ **Desarrollo:**\n• En CABA, Jorge Macri negocia con La Libertad Avanza (LLA) el respaldo al Presupuesto 2026, enfrentando el reclamo libertario por mayores bajas de impuestos y la intención de impulsar una \"Ley Bases\" local.\n• A nivel nacional, las sesiones ordinarias cerraron sin que la oposición lograra convocar a una última sesión, preparando el terreno para las extraordinarias que tendrán un temario acotado.\n• Patricia Bullrich, futura jefa de bloque oficialista en el Senado, busca el apoyo de la UCR para el Presupuesto (que pasará por Diputados) y la reforma laboral, que comenzaría en la Cámara Alta.\n• La reforma laboral genera incertidumbre; líderes sindicales como Gerardo Martínez debaten en el Consejo de Mayo sin conocer el proyecto oficial, que el Gobierno promete enviar para el 15 de diciembre.\n• La jura de Lorena Villaverde está en discusión en el Senado, con el peronismo impugnándola por presuntos vínculos con el narcotráfico y LLA buscando asegurar los votos necesarios para su asunción.\n• En la provincia de Buenos Aires, el gobierno de Axel Kicillof logró un primer dictamen para su pedido de endeudamiento y se encamina a aprobar su Presupuesto y Ley Fiscal, tras complejas negociaciones que requieren mayorías especiales.\n• La oposición en Diputados exige que el acuerdo marco con Estados Unidos, anunciado por el Gobierno, sea debatido en el Congreso debido a sus implicaciones en materia aduanera, comercial y de tratados internacionales.\n\n💡 **¿Por qué importa?**\n• Los resultados de estos debates y negociaciones definirán la hoja de ruta del Gobierno en los primeros meses, impactando directamente en la economía y la sociedad argentina.\n• La capacidad de construir consensos y alianzas políticas en un Congreso fragmentado será crucial para la gobernabilidad y la implementación de las reformas propuestas.",
-      "cantidad_noticias": 8,
+      "tema_id": "reforma_laboral_y_20251126",
+      "tema": "Reforma laboral y salarios Argentina",
+      "tema_normalizado": "reforma laboral y salarios argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Salario Mínimo, Vital y Móvil (SMVM) de Argentina ha alcanzado un mínimo histórico, siendo el más bajo de la región y perdiendo drásticamente su poder adquisitivo desde 2011 y 2001.\n• El Gobierno de Javier Milei enfrenta una fuerte oposición sindical a su propuesta de reforma laboral, mientras el Consejo del Salario no logra consensos para actualizar los haberes mínimos tras siete meses de inactividad.\n\n🔍 **Datos clave:**\n• **SMVM actual:** $322.000 pesos argentinos.\n• **Valor en dólares (Noviembre 2025):** u$s225, el más bajo de América Latina (ej: Bolivia u$s395, Costa Rica u$s729).\n• **Pérdida de poder adquisitivo:** El SMVM cayó 63% desde su pico en septiembre de 2011 y 34% entre noviembre de 2023 y septiembre de 2025.\n• **Reactivación del Consejo del Salario:** Convocado virtualmente el 26 de noviembre de 2025, tras una intimación judicial por no reunirse desde hacía 6 meses (cuando la ley exige cada dos).\n• **Propuestas para el SMVM:** Empresarios ofrecieron llevarlo a $349.000 a abril de 2026; la CGT pidió $512.000 ahora y $553.000 en abril; la CTA Autónoma solicitó $736.000.\n• **Paritaria Avícola:** La Federación de la Alimentación acordó un aumento del 7.2% para noviembre a enero, sumando 1% (oct), 2.2% (nov), 2.1% (dic) y 1.8% (ene) para el sector.\n\n⚡ **Desarrollo:**\n• El gobierno de Milei ha reconocido haber utilizado el ingreso de los trabajadores como \"ancla del ajuste\" para intentar desacelerar la inflación, lo que ha contribuido a la marcada devaluación salarial.\n• La CGT, a través de Gerardo Martínez (UOCRA), endureció su postura en el Consejo de Mayo, reclamando debatir un modelo económico actual que, según afirman, provoca cierre de empresas y precariedad laboral.\n• Los dirigentes sindicales, incluyendo la CGT, rechazan fuertemente los puntos de la reforma laboral que trascendieron, alegando que afectan los derechos de los trabajadores y al gremialismo.\n• A pesar de los intentos de diálogo informal por parte de funcionarios como Diego Santilli, el Gobierno aún no ha convocado formalmente a la CGT para consensuar la reforma laboral, aumentando el malestar en el sector.\n• En las cinco reuniones del Consejo del Salario durante la gestión actual, no hubo acuerdo entre empresarios y gremios, llevando al Gobierno a fijar el SMVM por decreto, siempre por debajo de los registros inflacionarios.\n• La Federación de la Alimentación (FTIA), con Héctor Morcillo, expresó su preocupación por la posible pérdida de puestos de trabajo en el mercado interno, a pesar de haber logrado acuerdos paritarios sectoriales.\n\n💡 **¿Por qué importa?**\n• La drástica caída del salario mínimo impacta directamente en la capacidad de compra de la mayoría de los argentinos, con dos tercios de la población viviendo con ingresos por debajo de la media.\n• La confrontación entre el Gobierno y los sindicatos por la reforma laboral y la política salarial configura un escenario de inestabilidad y conflictos que podría tener repercusiones significativas en la economía y la sociedad.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Jorge Macri negocia con LLA el respaldo al Presupuesto 2026 de CABA: los puntos en discusión antes de un debate clave",
-          "link": "https://www.infobae.com/politica/2025/11/26/jorge-macri-negocia-con-lla-el-respaldo-al-presupuesto-2026-de-caba-los-puntos-en-discusion-antes-de-un-debate-clave/",
+          "titulo": "Incluso con atraso cambiario Argentina tiene, medido en dólares, el salario mínimo más bajo de la región",
+          "link": "https://www.minutouno.com/economia/incluso-atraso-cambiario-argentina-tiene-medido-dolares-el-salario-minimo-mas-la-region-n6217853",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 11:47:06"
+        },
+        {
+          "titulo": "Reforma laboral: la CGT endurece su postura en el Consejo de Mayo y reclamará debatir el modelo económico",
+          "link": "https://www.infobae.com/politica/2025/11/26/reforma-laboral-la-cgt-endurece-su-postura-en-el-consejo-de-mayo-y-reclamara-debatir-el-modelo-economico/",
           "fuente": "Infobae",
-          "fecha": "2025-11-26 09:13:28"
+          "fecha": "2025-11-26 11:40:44"
         },
         {
-          "titulo": "Senado: Patricia Bullrich busca cerrar el apoyo de la UCR para la agenda de sesiones extraordinarias",
-          "link": "https://www.lanacion.com.ar/politica/senado-patricia-bullrich-busca-cerrar-el-apoyo-de-la-ucr-para-la-agenda-de-sesiones-extraordinarias-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 09:03:43"
-        },
-        {
-          "titulo": "Lorena Villaverde conseguiría los votos para superar la impugnación de la oposición y jurar como senadora libertaria",
-          "link": "https://www.perfil.com/noticias/politica/lorena-villaverde-conseguiria-los-votos-para-superar-la-impugnacion-de-la-oposicion-y-jurar-como-senadora-libertaria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 05:30:00"
-        },
-        {
-          "titulo": "Gerardo Martínez llega al Consejo de Mayo para debatir la reforma laboral sin conocer el proyecto oficial",
-          "link": "https://www.perfil.com/noticias/politica/gerardo-martinez-llega-al-consejo-de-mayo-para-debatir-la-reforma-laboral-sin-conocer-el-proyecto-oficial.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 02:01:00"
-        },
-        {
-          "titulo": "La Libertad Avanza impidió que la oposición abra el Congreso por última vez y se prepara para las sesiones extraordinarias",
-          "link": "https://www.perfil.com/noticias/politica/la-libertad-avanza-impidio-que-la-oposicion-abra-el-congreso-por-ultima-vez-y-se-prepara-para-las-sesiones-extraordinarias.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 00:53:00"
-        },
-        {
-          "titulo": "Kicillof logró el primer aval para el endeudamiento y se encamina a sacar un paquete de leyes claves para el 2026",
-          "link": "https://www.clarin.com/politica/kicillof-logro-primer-aval-endeudamiento-encamina-sacar-paquete-leyes-claves-2026_0_jzKk9lCpFV.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 20:35:01"
-        },
-        {
-          "titulo": "La oposición exige al Gobierno que el acuerdo con Estados Unidos pase por el Congreso",
-          "link": "https://www.iprofesional.com/politica/442692-oposicion-exige-gobierno-javier-milei-que-acuerdo-con-estados-unidos-pase-por-congreso",
+          "titulo": "Gremio clave acordó un aumento salarial:. cómo quedaron los sueldos básicos de la rama Avícola",
+          "link": "https://www.iprofesional.com/economia/442727-aumento-salarial-para-los-trabajadores-de-la-rama-avicola-cuanto-cobraran-en-diciembre",
           "fuente": "iProfesional",
-          "fecha": "2025-11-25 20:13:00"
+          "fecha": "2025-11-26 11:20:00"
         },
         {
-          "titulo": "Patricia Bullrich se juntó con los radicales en medio de la pelea por Villaverde y la presión de los K",
-          "link": "https://www.clarin.com/politica/patricia-bullrich-junto-radicales-medio-pelea-villaverde-presion-k_0_wvN1nmOPHR.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 19:58:12"
+          "titulo": "Se reactivó el Consejo del Salario tras medio año de parálisis, pero otra vez no hubo acuerdo",
+          "link": "https://www.lanacion.com.ar/politica/se-reactiva-el-consejo-del-salario-tras-medio-ano-de-paralisis-y-los-gremios-exigen-una-suba-de-100-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:12:45"
+        },
+        {
+          "titulo": "El Gobierno convocó para hoy al Consejo del Salario para actualizar el mínimo",
+          "link": "https://www.minutouno.com/economia/el-gobierno-convoco-hoy-al-consejo-del-salario-actualizar-el-minimo-n6217815",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 10:55:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
-        "La Nación",
-        "Clarín",
-        "Perfil",
         "Infobae",
+        "La Nación",
+        "Minuto1",
         "iProfesional"
       ],
       "es_tema_nuevo": true,
@@ -449,36 +323,92 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_cuadernos:_avances_20251126",
-      "tema": "Causa Cuadernos: Avances Judiciales y Acusaciones",
-      "tema_normalizado": "causa cuadernos: avances judiciales y acusaciones",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina sigue adelante con la Causa Cuadernos, donde el Tribunal Oral Federal N°7 continúa la lectura de acusaciones y las declaraciones de testigos colaboradores.\n• El fiscal Carlos Stornelli defiende la figura del \"arrepentido\" frente a las acusaciones de extorsión planteadas por la expresidenta Cristina Kirchner.\n• Paralelamente, el juez de la Corte Suprema Ricardo Lorenzetti ha destacado la urgencia de cubrir las vacantes judiciales y afirmó que Cristina Kirchner no es una presa política.\n\n🔍 **Datos clave:**\n• **Fiscal clave:** Carlos Stornelli, quien impulsó la elevación a juicio y defiende la validez de los testimonios.\n• **Tribunal a cargo:** Tribunal Oral en lo Criminal Federal (TOF) N°7, donde se realiza la lectura de la acusación.\n• **Testigos \"arrepentidos\":** Ernesto Clarens (financista) y el fallecido Fabián Gutiérrez (exsecretario de los Kirchner), cuyas declaraciones fueron leídas.\n• **Juez de la Corte:** Ricardo Lorenzetti, quien se refirió al funcionamiento de la justicia y la política.\n• **Chofer central:** Oscar Bernardo Centeno, cuyas anotaciones originales dieron origen a la investigación.\n\n⚡ **Desarrollo:**\n• La Causa Cuadernos investiga una compleja red de presuntos sobornos vinculados a la obra pública durante los gobiernos de Néstor y Cristina Kirchner, documentada por el chofer Oscar Centeno.\n• El fiscal Stornelli desestimó las acusaciones de Cristina Kirchner sobre supuestas extorsiones a testigos, explicando que el \"arrepentido\" busca un beneficio a cambio de aportar pruebas relevantes.\n• Víctor Manzanares, contador, es destacado por Stornelli como un colaborador crucial, cuyo testimonio, según el fiscal, incomodó al poder y permitió \"unir las piezas del rompecabezas\".\n• Ernesto Clarens, dueño de la financiera Inverness S.A., detalló su operación, pero negó haber manejado dinero de los Kirchner o intermediado en el cobro de sobornos para ellos.\n• Fabián Gutiérrez, exsecretario de los Kirchner, relató haber visto a funcionarios como José López llevando bolsos a Néstor Kirchner y a Daniel Muñoz trasladando valijas con dinero en vuelos presidenciales.\n• La fiscalía está trabajando para elevar a juicio más material probatorio, lo que podría generar un nuevo proceso judicial contra la expresidenta por lavado y otras causas residuales.\n• Ricardo Lorenzetti, de la Corte Suprema, insistió en la necesidad de integrar plenamente el máximo tribunal y criticó la vacancia de cargos en el sistema judicial, refiriéndose a un \"fin de ciclo\" político.\n\n💡 **¿Por qué importa?**\n• La Causa Cuadernos es uno de los expedientes de corrupción más relevantes de Argentina, que involucra a exfuncionarios de alto nivel y empresarios, buscando sentar precedentes en la lucha contra la impunidad.\n• El avance del juicio y las declaraciones de los \"arrepentidos\" son clave para la transparencia y la rendición de cuentas en la política argentina.",
-      "cantidad_noticias": 3,
+      "tema_id": "black_friday_y_20251126",
+      "tema": "Black Friday y ofertas comerciales",
+      "tema_normalizado": "black friday y ofertas comerciales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Black Friday, cuya fecha principal en 2025 es el viernes 28 de noviembre, se ha consolidado como un evento comercial clave, con marcas que anticipan sus ofertas en una \"Black Week\" y las extienden hasta el Cyber Monday (1 de diciembre de 2025).\n• En Bogotá, este día coincide con \"Bogotá Despierta\", una estrategia que amplía horarios comerciales y busca impulsar las ventas presenciales.\n• Grandes plataformas como Amazon lanzan descuentos significativos y alertan a millones de usuarios sobre el aumento de ciberataques y estafas en línea durante esta intensa temporada de compras.\n\n🔍 **Datos clave:**\n• **Fecha principal:** Viernes 28 de noviembre de 2025 (Black Friday).\n• **Extensión de ofertas:** Desde mediados de noviembre (\"Black Week\") hasta el 1 de diciembre de 2025 (Cyber Monday).\n• **Descuentos:** Hasta 60% en Bogotá; 30% en productos específicos como el champú favorito de Taylor Swift en Amazon.\n• **Participación en Bogotá:** 8 de cada 10 establecimientos participan con promociones especiales.\n• **Impacto en compras navideñas:** Concentra entre el 15% y 25% de las compras de fin de año en Bogotá.\n• **Alertas de ciberseguridad:** Amazon envió un aviso a más de 300 millones de usuarios por riesgos de estafas en línea.\n\n⚡ **Desarrollo:**\n• El Black Friday, con raíces en Estados Unidos, se ha globalizado, marcando el inicio de la temporada de compras navideñas y permitiendo a los consumidores adelantar regalos con descuentos.\n• Las empresas, desde pequeños negocios hasta gigantes como Walmart y Amazon, utilizan la \"Black Week\" para maximizar ventas, ofreciendo promociones tanto en tiendas físicas como en línea.\n• Sectores como vestuario, calzado, juguetería, tecnología, turismo y electrodomésticos son protagonistas, con ofertas y facilidades de pago como cuotas sin interés para incentivar el consumo.\n• La iniciativa \"Bogotá Despierta\" busca revitalizar el comercio físico en fechas clave, complementando las ventas digitales y facilitando una experiencia de compra más tranquila.\n• El aumento de las transacciones en línea durante estas fechas ha generado una escalada en los ciberataques, incluyendo phishing y anuncios falsos, lo que llevó a Amazon a emitir una alerta preventiva.\n• Se recomienda a los compradores usar siempre plataformas oficiales, configurar la autenticación de dos factores y claves de acceso, y desconfiar de comunicaciones que soliciten información personal o de pago por vías no autorizadas.\n\n💡 **¿Por qué importa?**\n• El Black Friday y su extensión a \"Black Week\" son cruciales para el comercio, generando un impulso económico significativo a nivel nacional e internacional justo antes de la temporada navideña.\n• Es fundamental que los consumidores aprovechen las ofertas de manera informada y segura, implementando las recomendaciones de ciberseguridad para protegerse de las estafas crecientes en el entorno digital.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Ricardo Lorenzetti descartó que Cristina Kirchner sea una presa política",
-          "link": "https://www.infobae.com/politica/2025/11/26/ricardo-lorenzetti-hablo-sobre-la-conformacion-de-la-corte-es-muy-importante-integrarla-cuanto-antes/",
+          "titulo": "Black Friday y Bogotá Despierta coinciden este año para impulsar el comercio en la capital colombiana",
+          "link": "https://www.infobae.com/colombia/2025/11/26/black-friday-y-bogota-despierta-coinciden-este-ano-para-impulsar-el-comercio-en-la-capital-colombiana/",
           "fuente": "Infobae",
-          "fecha": "2025-11-26 09:16:18"
+          "fecha": "2025-11-26 11:29:57"
         },
         {
-          "titulo": "El fiscal Stornelli contestó a las acusaciones de Cristina Kirchner sobre las supuestas extorsiones a los testigos de la causa Cuadernos",
-          "link": "https://www.perfil.com/noticias/politica/el-fiscal-stornelli-contesto-a-las-acusaciones-de-cristina-kirchner-sobre-las-supuestas-extorsiones-a-los-testigos-de-la-causa-cuadernos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 05:30:00"
+          "titulo": "Black Friday 2025 en Walmart: hasta cuándo duran las ofertas del Viernes Negro en Estados Unidos",
+          "link": "https://www.lanacion.com.ar/estados-unidos/black-friday-en-walmart-hasta-cuando-duran-las-ofertas-del-viernes-negro-en-estados-unidos-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:14:29"
         },
         {
-          "titulo": "Causa Cuadernos: nueva jornada de lectura de la acusación",
-          "link": "https://www.ambito.com/politica/causa-cuadernos-nueva-jornada-lectura-la-acusacion-n6217671",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 19:54:00"
+          "titulo": "Antes del Black Friday: qué significa la alerta por ciberataques que Amazon envió a 300 millones de usuarios",
+          "link": "https://www.lanacion.com.ar/estados-unidos/antes-del-black-friday-que-significa-la-alerta-por-ciberataques-que-amazon-envio-a-300-millones-de-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 10:47:40"
+        },
+        {
+          "titulo": "Ofertas del Black Friday 2025: Amazon vende el champú favorito de Taylor Swift con un 30% de descuento",
+          "link": "https://www.lanacion.com.ar/estados-unidos/famosos/ofertas-del-black-friday-2025-amazon-vende-el-champu-favorito-de-taylor-swift-con-un-30-de-descuento-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 09:34:56"
+        },
+        {
+          "titulo": "Black Friday 2025: las marcas se anticipan al evento y tendrán ofertas toda la semana",
+          "link": "https://www.clarin.com/economia/black-friday-2025-marcas-anticipan-evento-ofertas-toda-semana_0_ioUQd4Ji6Q.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 07:25:37"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
-        "Ámbito Financiero",
         "Infobae",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "anses_y_haberes_20251126",
+      "tema": "ANSES y haberes de diciembre",
+      "tema_normalizado": "anses y haberes de diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• ANSES anunció los haberes de diciembre de 2025, que incluyen un aumento por movilidad, la continuidad de un bono extraordinario y el pago del aguinaldo para jubilados y pensionados.\n• Se oficializaron los montos totales que recibirán los beneficiarios y el calendario de pagos para el último mes del año.\n• Adicionalmente, se informó la fecha límite para la presentación de la Libreta AUH 2025, un requisito clave para quienes perciben esta asignación.\n\n🔍 **Datos clave:**\n• **Bono Extraordinario:** $70.000 para jubilados y pensionados con haberes mínimos.\n• **Aumento por Movilidad:** 2.3% para todos los titulares de ANSES, basado en el IPC de septiembre.\n• **Jubilación Mínima (Total Diciembre):** $581.319,38 (incluye haber base, bono y medio aguinaldo).\n• **Jubilación Máxima (Total Diciembre):** $3.440.695,38 (incluye haber base y medio aguinaldo).\n• **Fecha Límite Libreta AUH 2025:** 31 de diciembre.\n• **AUH General (Diciembre):** $122.471,72.\n\n⚡ **Desarrollo:**\n• El aumento del 2.3% se aplicó a todos los beneficios conforme al Decreto de Movilidad Jubilatoria, impactando en las bases de cálculo de todas las prestaciones.\n• El bono de $70.000 está destinado a jubilados y pensionados que cobran la mínima, titulares de PUAM, Pensiones No Contributivas (PNC) por Invalidez o Vejez, y PNC Madre de Siete Hijos.\n• Los jubilados con haberes superiores a la mínima no percibirán el bono, pero sí el aumento del 2.3% y el medio aguinaldo correspondiente.\n• Las Pensiones Universal para el Adulto Mayor (PUAM) y las Pensiones No Contributivas (PNC) por Invalidez o Vejez también recibirán el bono y aguinaldo, elevando sus totales a $479.055,50 y $427.923,56, respectivamente.\n• La Libreta AUH 2025 es obligatoria para certificar salud, educación y vacunación de los hijos, lo que habilita el cobro del 20% retenido mensualmente y la Ayuda Escolar.\n• El trámite de la Libreta AUH se puede realizar digitalmente a través de Mi ANSES (descargando el Formulario PS. 147) o presencialmente en oficinas sin turno.\n• El calendario de pagos de diciembre comienza el 9 de diciembre para jubilados y pensionados que no superan la mínima, y continúa de forma escalonada según la terminación del DNI para todos los beneficiarios.\n\n💡 **¿Por qué importa?**\n• La combinación de aumento, bono y aguinaldo en diciembre representa un refuerzo significativo en los ingresos de millones de personas, siendo un mes clave para la economía familiar.\n• La correcta y oportuna presentación de la Libreta AUH es fundamental para que los beneficiarios de la Asignación Universal por Hijo mantengan el acceso a todos los componentes de la prestación.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
+          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:30:37"
+        },
+        {
+          "titulo": "ANSES: quiénes cobrarán el bono de $70.000 en diciembre y cómo quedan los haberes 2025",
+          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobraran-el-bono-de-70000-en-diciembre-y-como-quedan-los-haberes-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 07:48:00"
+        },
+        {
+          "titulo": "Calendario ANSES: quiénes cobran hoy 26 de noviembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/calendario-anses-quienes-cobran-hoy-26-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 07:48:00"
+        },
+        {
+          "titulo": "Jubilados ANSES: los montos y las fechas confirmadas de los haberes de diciembre",
+          "link": "https://www.minutouno.com/economia/jubilados-anses-los-montos-y-las-fechas-confirmadas-los-haberes-diciembre-n6217436",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 07:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "La Nación",
+        "Minuto1",
         "Perfil"
       ],
       "es_tema_nuevo": true,
@@ -487,23 +417,23 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "tragico_incendio_edificios_20251126",
-      "tema": "Trágico Incendio Edificios en Hong Kong",
-      "tema_normalizado": "tragico incendio edificios en hong kong",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Un trágico y voraz incendio afectó un gran complejo de edificios residenciales en el distrito de Tai Po, al norte de Hong Kong, el miércoles por la tarde (hora local).\n*   Las llamas se propagaron con inusual velocidad a través de un andamiaje de bambú que rodeaba las estructuras, cobrándose la vida de al menos cuatro personas y dejando varios heridos.\n\n🔍 **Datos clave:**\n*   **Fecha del Incidente:** Miércoles.\n*   **Ubicación Principal:** Complejo Wang Fuk Court, distrito de Tai Po, Hong Kong.\n*   **Víctimas:** Al menos 4 fallecidos (incluido un bombero) y 8 personas heridas.\n*   **Nivel de Alerta:** El fuego fue clasificado rápidamente como nivel 4 (en una escala de 1 a 5), el segundo más grave.\n*   **Contexto de Riesgo:** Existía una alerta roja por riesgo extremo de incendios en Hong Kong desde el lunes.\n\n⚡ **Desarrollo:**\n*   El incendio comenzó cerca del mediodía y su magnitud creció rápidamente, generando una densa columna de humo visible a kilómetros y provocando el derrumbe de partes del andamiaje.\n*   La principal causa de la rápida propagación fue el andamiaje de bambú, un material tradicional en Hong Kong pero altamente inflamable que rodeaba los edificios en un proceso de renovación valorado en 42 millones de dólares.\n*   Entre los fallecidos se confirmó un bombero y tres residentes; las autoridades también reportaron que varias personas quedaron atrapadas en el interior de los edificios afectados.\n*   Este siniestro ha reavivado las preocupaciones sobre la seguridad de los andamios de bambú, ya que ha sido un factor en otros incendios recientes en la ciudad.\n*   El gobierno de Hong Kong ha expresado su intención de eliminar gradualmente el uso de andamios de bambú en proyectos públicos debido a sus riesgos de seguridad.\n*   Las operaciones de emergencia incluyeron el cierre de tramos de la carretera Tai Po y desvíos de autobuses para facilitar el trabajo de los bomberos.\n\n💡 **¿Por qué importa?**\n*   Este trágico evento pone de manifiesto la urgente necesidad de revisar y mejorar las normativas de seguridad en la construcción, especialmente en una ciudad con alta densidad poblacional y métodos tradicionales vulnerables.\n*   El incidente genera un importante debate sobre el equilibrio entre el uso de materiales tradicionales de bajo costo y la implementación de soluciones de construcción más seguras frente a los riesgos de incendio.",
+      "tema_id": "incendio_en_edificios_20251126",
+      "tema": "Incendio en edificios de Hong Kong",
+      "tema_normalizado": "incendio en edificios de hong kong",
+      "resumen": "📌 **¿Qué está pasando?**\n• Un violento incendio se desató en un complejo de edificios residenciales en Tai Po, Hong Kong, causando múltiples muertes y heridos.\n• El fuego se propagó rápidamente a través de un andamio de bambú, generando una densa columna de humo visible a kilómetros de distancia.\n• Los equipos de emergencia intervinieron para contener las llamas y rescatar a las personas atrapadas, en un siniestro de alta gravedad.\n\n🔍 **Datos clave:**\n• **Fecha:** Miércoles por la tarde (hora local).\n• **Lugar:** Distrito de Tai Po, Hong Kong (complejo \"Wang Fuk Court\"), en un área suburbana con edificios de gran altura.\n• **Víctimas fatales:** Al menos 13 personas, incluyendo un bombero de apellido Ho, además de 8 mujeres y 3 hombres.\n• **Heridos:** Al menos 8 personas, con algunos en estado crítico.\n• **Gravedad:** Incendio clasificado en nivel 4 (el segundo más alto en una escala de 1 a 5), tras haber sido inicialmente nivel 1.\n• **Causa de propagación inicial:** Andamiaje de bambú instalado en el exterior de los edificios por obras de renovación.\n• **Edificios afectados:** Un complejo de cinco edificios (u ocho bloques) con casi 2000 departamentos (1984 unidades en \"Wang Fuk Court\").\n• **Contexto previo:** Alerta roja por riesgo extremo de incendios en Hong Kong desde el lunes debido a baja humedad y vientos intensos.\n\n⚡ **Desarrollo:**\n• El fuego se originó en el andamiaje de bambú que rodeaba los edificios en obras, un material habitual en Hong Kong pero altamente inflamable que facilitó una rápida propagación.\n• Las imágenes difundidas mostraban llamas saliendo de ventanas y el derrumbe de partes del andamio, mientras los bomberos usaban camiones con escalera para combatir el fuego.\n• La magnitud del incendio llevó a las autoridades a cerrar tramos de autovías cercanas y desviar el tráfico, afectando la movilidad en la zona.\n• La muerte de un bombero en servicio resalta los peligros enfrentados por los equipos de rescate durante la emergencia.\n• Este incidente ha reavivado el debate sobre la seguridad de los andamios de bambú, ya que el gobierno de Hong Kong había considerado eliminarlos gradualmente por preocupaciones de seguridad en proyectos públicos.\n• El complejo afectado, \"Wang Fuk Court\", con unas 4.000 personas, estaba en un proceso de renovación de U$S 42 millones, obra que había generado resistencia entre los vecinos.\n\n💡 **¿Por qué importa?**\n• Este trágico incendio pone de manifiesto los graves riesgos de seguridad asociados al uso de materiales inflamables como el bambú en estructuras de gran altura y entornos urbanos densos.\n• Subraya la urgencia de revisar y fortalecer las normativas de construcción y los estándares de seguridad para proteger a la población y prevenir futuras catástrofes en ciudades de alta densidad.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Un incendio a gran escala afecta un complejo de viviendas en Hong Kong y provocó al menos cuatro muertos",
+          "titulo": "Impactante incendio en un complejo de edificios en Hong Kong: al menos 13 muertos y varias personas atrapadas",
+          "link": "https://www.lanacion.com.ar/el-mundo/impactante-incendio-en-un-edificio-en-hong-kong-hay-por-lo-menos-cuatro-muertos-y-varias-personas-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 11:04:32"
+        },
+        {
+          "titulo": "Un incendio a gran escala afecta un complejo de viviendas en Hong Kong y provocó al menos trece muertos",
           "link": "https://www.ambito.com/mundo/un-incendio-gran-escala-afecta-un-complejo-viviendas-hong-kong-y-provoco-al-menos-cuatro-muertos-n6217761",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-26 09:16:00"
-        },
-        {
-          "titulo": "Impactante incendio en un complejo de edificios en Hong Kong: al menos cuatro muertos y varias personas atrapadas",
-          "link": "https://www.lanacion.com.ar/el-mundo/impactante-incendio-en-un-edificio-en-hong-kong-hay-por-lo-menos-cuatro-muertos-y-varias-personas-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 08:46:27"
         },
         {
           "titulo": "Impresionante incendio de tres edificios en Hong Kong dejó al menos cuatro muertos",
@@ -515,97 +445,9 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
-        "Ámbito Financiero",
         "La Nación",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reportes_sismos_en_20251126",
-      "tema": "Reportes Sismos en México, Chile, EE.UU.",
-      "tema_normalizado": "reportes sismos en mexico, chile, ee.uu.",
-      "resumen": "📌 **¿Qué está pasando?**\n• El 26 de noviembre de 2025, México, Chile y EE.UU. registraron actividad sísmica significativa, demostrando su constante exposición a fenómenos telúricos.\n• México experimentó múltiples sismos en Chiapas y Michoacán, con tres temblores en la costa de Chiapas en menos de dos horas.\n• EE.UU. reportó 15 sismos en Norteamérica y el Caribe en 24 horas, destacando uno de magnitud 4.6 en Hawái.\n• En Chile, un temblor de magnitud 4.1 sacudió la ciudad de Socaire, subrayando la alta sismicidad del país.\n\n🔍 **Datos clave:**\n• **Fecha:** Miércoles 26 de noviembre de 2025.\n• **México:**\n    • Sismo de 4.5 en Mapastepec, Chiapas (04:32 hrs).\n    • Sismo de 4.4 en La Mira, Michoacán (01:55 hrs).\n• **EE.UU.:**\n    • Sismo de 4.6 en Fern Forest, Hawái (09:49 UTC del 26 de noviembre).\n    • Sismo de 2.8 cerca de Sparks, Oklahoma (el más fuerte en territorio continental).\n• **Chile:**\n    • Sismo de 4.1 en Socaire (07:53 hrs local).\n    • Profundidad: 128.0 kilómetros.\n\n⚡ **Desarrollo:**\n• México se ubica en una zona de alta sismicidad debido a la interacción de cinco placas tectónicas: Caribe, Norteamérica, Pacífico, Rivera y Cocos, según el Servicio Sismológico Nacional (SSN).\n• Los informes del Servicio Geológico de EE.UU. (USGS) detallan la variedad de terremotos que ocurren en el país, especialmente en regiones como Hawái y Alaska.\n• Chile es uno de los países con mayor actividad sísmica mundial, situado en la convergencia de la Placa de Nazca y la Placa Sudamericana.\n• Esta configuración geológica coloca a Chile dentro del \"Anillo o Cinturón de Fuego del Pacífico\", una región que concentra el 90% de la actividad sísmica y el 81% de los terremotos más fuertes del planeta.\n• Los sismos son monitoreados por instituciones como el Centro Sismológico Nacional (CSN) en Chile, el SSN en México y el USGS en EE.UU., proporcionando información crucial para la población.\n\n💡 **¿Por qué importa?**\n• La recurrencia de sismos en México, Chile y EE.UU. enfatiza la necesidad de contar con sistemas de monitoreo robustos y planes de protección civil efectivos.\n• Estos eventos recuerdan la ubicación geográfica de estos países en zonas de alta complejidad tectónica, lo que obliga a una preparación constante para minimizar riesgos y proteger vidas.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Temblor hoy 26 de noviembre en México: re registró un sismo de magnitud 4.1 en Chiapas",
-          "link": "https://www.infobae.com/mexico/2025/11/26/temblor-hoy-en-mexico-noticias-actividad-sismica-26-de-noviembre-de-2025/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-26 09:17:40"
-        },
-        {
-          "titulo": "Último temblor en EE.UU. hoy: hora, lugar y epicentro del nuevo sismo, este miércoles 26 de noviembre de 2025",
-          "link": "https://www.lanacion.com.ar/estados-unidos/ultimo-temblor-en-eeuu-hoy-hora-lugar-y-epicentro-del-nuevo-sismo-este-miercoles-26-de-noviembre-de-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 09:16:00"
-        },
-        {
-          "titulo": "Chile: se percibe temblor de magnitud 4.1 en la ciudad de Socaire",
-          "link": "https://www.infobae.com/noticias/2025/11/26/chile-se-percibe-temblor-de-magnitud-41-en-la-ciudad-de-socaire/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-26 08:47:24"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-26",
-      "fuentes": [
-        "La Nación",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_traslado_embajada_20251126",
-      "tema": "Argentina: Traslado Embajada Israel y ONU",
-      "tema_normalizado": "argentina: traslado embajada israel y onu",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino confirmó el traslado de su embajada en Israel desde Tel Aviv a Jerusalén, una decisión que genera tensión con el derecho internacional.\n• Paralelamente, dos diplomáticos argentinos, Rafael Grossi y Virginia Gamba, han presentado sus candidaturas para ser el próximo Secretario General de las Naciones Unidas.\n\n🔍 **Datos clave:**\n• **Traslado embajada:** Se concretaría en 2026.\n• **Ministro israelí:** Gideon Sa’ar visitó Argentina para reuniones bilaterales.\n• **Canciller argentino:** Pablo Quirno ratificó la decisión del gobierno.\n• **Candidatos ONU:** Rafael Grossi (Director del OIEA) y Virginia Gamba (ex-Representante Especial de la ONU).\n• **Inicio mandato SG ONU:** 1 de enero de 2027.\n• **Países con embajada en Jerusalén:** EE.UU., Paraguay, Honduras, Guatemala, Papúa Nueva Guinea, Kosovo (reconocimiento limitado).\n\n⚡ **Desarrollo:**\n• El presidente Javier Milei y el canciller Pablo Quirno han reafirmado el compromiso de trasladar la embajada argentina a Jerusalén, alineando la política exterior con Israel y Estados Unidos.\n• La mudanza de la sede diplomática está prevista para 2026, con una posible visita de Milei a Israel entre abril y mayo de ese año para formalizar el proceso.\n• Jerusalén es una ciudad disputada por israelíes y palestinos como su capital, y la mayoría de las naciones mantiene sus embajadas en Tel Aviv para no tomar partido en este conflicto.\n• El proceso de selección para el nuevo Secretario General de la ONU, que asumirá en 2027, ha comenzado, invitando a los estados miembros a proponer candidatos y destacando la importancia de postular mujeres.\n• Rafael Grossi cuenta con el apoyo del gobierno argentino y de Italia, mientras que Virginia Gamba, conocida en la ONU, se postula como candidata independiente.\n• La tradición diplomática de la ONU sugiere que el próximo turno de la secretaría general podría corresponder a una mujer y ser de América Latina.\n\n💡 **¿Por qué importa?**\n• El traslado de la embajada argentina a Jerusalén marca un cambio radical en la postura diplomática del país, con implicaciones geopolíticas y un posible impacto en su relación con el mundo árabe y el derecho internacional.\n• La presencia de dos candidatos argentinos para la Secretaría General de la ONU subraya el rol diplomático de Argentina y podría fortalecer su influencia en decisiones globales clave.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "El Gobierno confirmó ante Israel que trasladará la embajada argentina de Tel Aviv a Jerusalén",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-confirmo-ante-israel-que-trasladara-la-embajada-argentina-a-jerusalen.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-26 02:55:00"
-        },
-        {
-          "titulo": "Javier Milei viajará a Israel para trabajar en el traslado de la Embajada a Jerusalén",
-          "link": "https://www.minutouno.com/politica/javier-milei-viajara-israel-trabajar-el-traslado-la-embajada-jerusalen-n6217681",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-25 22:34:00"
-        },
-        {
-          "titulo": "Comenzó el proceso de selección del próximo secretario general de la ONU: quién es el candidato argentino",
-          "link": "https://www.ambito.com/mundo/comenzo-el-proceso-seleccion-del-proximo-secretario-general-la-onu-quien-es-el-candidato-argentino-n6217689",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-25 21:20:00"
-        },
-        {
-          "titulo": "Dos argentinos anotados para competir por la secretaría general de Naciones Unidas",
-          "link": "https://www.clarin.com/politica/argentinos-anotados-competir-secretaria-general-naciones-unidas_0_zUrqztgCa9.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 20:19:23"
-        },
-        {
-          "titulo": "Llegaron de Estados Unidos los primeros blindados de guerra Stryker 8x8 comprados para el Ejército argentino",
-          "link": "https://www.clarin.com/politica/llegaron-estados-unidos-primeros-blindados-guerra-stryker-8x8-comprados-ejercito-argentino_0_2OFuj17F7f.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-25 19:54:28"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-26",
-      "fuentes": [
-        "Ámbito Financiero",
         "Minuto1",
-        "Clarín",
-        "Perfil"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -613,68 +455,61 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cotizaciones_monedas_extranjeras_20251126",
-      "tema": "Cotizaciones Monedas Extranjeras en Latinoamérica",
-      "tema_normalizado": "cotizaciones monedas extranjeras en latinoamerica",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones de monedas extranjeras como el dólar y el euro presentan tendencias variadas en Latinoamérica este miércoles 26 de noviembre de 2025.\n• Países como República Dominicana y Uruguay muestran movimientos diarios frente al dólar, mientras que Argentina maneja múltiples tipos de cambio para sus divisas, incluyendo el real brasileño.\n\n🔍 **Datos clave:**\n• **República Dominicana:** Dólar a 62,39 pesos dominicanos (promedio); variación del -0,18% hoy. Proyección 2025: PIB +5%, dólar 62.3 pesos.\n• **Uruguay:** Dólar a 39,72 pesos uruguayos (promedio); variación del +1,15% hoy, +1% en 7 días, -7,18% interanual.\n• **Chile:** Dólar a 933,14 pesos chilenos (promedio); variación del -0,28% hoy, +0,03% en 7 días, -6,11% interanual. Proyección 2025: PIB +2,2%.\n• **Brasil:** Dólar a 5,38 reales brasileños (promedio); variación del +0,11% hoy, +0,79% en 7 días, -13,08% interanual. Proyección 2025: Crecimiento 2,1% (FMI).\n• **Argentina:**\n    • **Dólar oficial:** $1420 (compra) / $1470 (venta); **Dólar blue:** $1440 (compra) / $1460 (venta).\n    • **Real oficial:** $239,64 (compra) / $239,87 (venta); **Real blue:** $278,75 (compra) / $267,75 (venta). Brecha 14,03%.\n    • **Euro oficial (BCRA):** $1.614,07 (compra) / $1.706,53 (venta); **Euro blue:** $1.741,75 (compra) / $1.773,75 (venta).\n\n⚡ **Desarrollo:**\n• Las cotizaciones del dólar presentan tendencias mixtas en la región, con variaciones diarias y anuales diversas en los mercados locales.\n• Bancos Centrales, como el dominicano, buscan estabilidad y proyectan crecimiento del PIB para 2025, impulsado por demanda interna y turismo.\n• Uruguay muestra recuperación y estabilidad, pese al reciente ascenso del dólar frente a su peso, que anualmente es descendente.\n• Chile proyecta crecimiento del PIB para 2025, pero su peso ha disminuido anualmente frente al dólar, aunque con menor volatilidad reciente.\n• El real brasileño, tras devaluaciones previas, se proyecta con crecimiento del 2,1% en 2025 (FMI), impulsado por exportaciones.\n• Argentina presenta un mercado cambiario segmentado, con cotizaciones \"oficiales\" y \"blue\" para dólar, real y euro, reflejando restricciones y un mercado paralelo.\n\n💡 **¿Por qué importa?**\n• Las fluctuaciones impactan directamente el poder adquisitivo, costos de importación/exportación y la inversión extranjera en la región.\n• Reflejan la estabilidad económica, las políticas monetarias de cada país y los desafíos como la inflación o la especulación cambiaria.",
-      "cantidad_noticias": 8,
+      "tema_id": "politica_fiscal_provincial:_20251126",
+      "tema": "Política fiscal provincial: Ingresos Brutos",
+      "tema_normalizado": "politica fiscal provincial: ingresos brutos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de la provincia de Buenos Aires, liderado por Axel Kicillof, aplicará una alícuota del 9% de Ingresos Brutos (IIBB) a las operaciones de bancos con bonos y otros instrumentos emitidos por el Gobierno nacional.\n• Esta medida elimina la exención fiscal que existía para estos títulos, pero mantiene la exención para emisiones de deuda provinciales, de CABA y municipales.\n• La propuesta forma parte del proyecto de Código Tributario enviado a la legislatura bonaerense para su tratamiento.\n\n🔍 **Datos clave:**\n• **Alícuota aplicada:** 9% de Ingresos Brutos a entidades financieras.\n• **Impacto previsto:** Un incremento del 30% al 40% en los pagos de IIBB de bancos al fisco bonaerense.\n• **Relevancia para bancos:** La Provincia de Buenos Aires representa aproximadamente un tercio del pago total de IIBB para las grandes entidades financieras.\n• **Contexto legislativo:** El proyecto se tratará junto con el Presupuesto 2026 y una autorización para tomar deuda por hasta USD 3.000 millones.\n• **Artículo modificado:** Artículo 207, inciso c) del Código Fiscal bonaerense.\n\n⚡ **Desarrollo:**\n• La eliminación de la exención se aplica exclusivamente a las entidades financieras que operan con títulos públicos nacionales, sin afectar a agentes de bolsa e intermediarios.\n• La tasa del 9% se posiciona como una de las más elevadas a nivel nacional para las actividades financieras, equiparable a la de al menos otras ocho provincias.\n• El sector bancario sostiene que esta presión fiscal adicional incrementará sus costos operativos, lo que se trasladaría a un encarecimiento del crédito para familias y empresas.\n• La aprobación de esta reforma tributaria requiere de mayoría simple en ambas cámaras legislativas provinciales.\n• El titular del bloque PRO, Matías Ranzini, anticipó el rechazo de la oposición, argumentando que la medida \"encarecerá el financiamiento del sector privado\".\n• Cámaras empresariales como ADIBA, CEPBA, FEBA y UIPBA también han reclamado la actualización de la base no imponible de IIBB, que consideran desfasada y afecta a pymes.\n• Sectores como el industrial del cartón y el cervecero también buscan una revisión de sus alícuotas específicas, que consideran elevadas y afectan su estructura de costos.\n\n💡 **¿Por qué importa?**\n• La medida busca aumentar la recaudación para la provincia de Buenos Aires en un contexto de recorte de fondos nacionales, pero genera preocupación por su impacto en el costo del crédito y la actividad económica.\n• Pone de manifiesto las tensiones fiscales entre el gobierno provincial y el nacional, así como el debate más amplio sobre la presión impositiva que enfrentan el sistema financiero y otros sectores productivos en Argentina.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Dólar: cotización de apertura hoy 26 de noviembre en República Dominicana",
-          "link": "https://www.infobae.com/noticias/2025/11/26/dolar-cotizacion-de-apertura-hoy-26-de-noviembre-en-republica-dominicana/",
+          "titulo": "Kicillof aplicará una alícuota del 9% de Ingresos Brutos a los bonos emitidos por el Gobierno nacional",
+          "link": "https://www.infobae.com/economia/2025/11/26/kicillof-aplicara-una-alicuota-del-9-de-ingresos-brutos-a-los-bonos-emitidos-por-el-gobierno-nacional/",
           "fuente": "Infobae",
-          "fecha": "2025-11-26 09:15:33"
+          "fecha": "2025-11-26 11:32:30"
         },
         {
-          "titulo": "De dólar a peso mexicano, hoy: tipo de cambio en vivo este miércoles 26 de noviembre",
-          "link": "https://www.lanacion.com.ar/estados-unidos/de-dolar-a-peso-mexicano-hoy-tipo-de-cambio-en-vivo-este-miercoles-26-de-noviembre-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-26 09:11:20"
-        },
-        {
-          "titulo": "Dólar: cotización de apertura hoy 26 de noviembre en Uruguay",
-          "link": "https://www.infobae.com/noticias/2025/11/26/dolar-cotizacion-de-apertura-hoy-26-de-noviembre-en-uruguay/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-26 08:46:48"
-        },
-        {
-          "titulo": "Dólar: cotización de apertura hoy 26 de noviembre en Chile",
-          "link": "https://www.infobae.com/noticias/2025/11/26/dolar-cotizacion-de-apertura-hoy-26-de-noviembre-en-chile/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-26 08:46:30"
-        },
-        {
-          "titulo": "Dólar: cotización de apertura hoy 26 de noviembre en Brasil",
-          "link": "https://www.infobae.com/noticias/2025/11/26/dolar-cotizacion-de-apertura-hoy-26-de-noviembre-en-brasil/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-26 08:45:57"
-        },
-        {
-          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-miercoles-26-noviembre_0_UOPS62ultA.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:00:02"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este miércoles 26 de noviembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-miercoles-26-noviembre_0_uEUJr0gtZA.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-26 07:00:01"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 26 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-26-noviembre-n6217664",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-26 00:00:00"
+          "titulo": "Kicillof aplicará alícuota del 9% de Ingresos Brutos a los bonos emitidos por el Gobierno nacional",
+          "link": "https://www.iprofesional.com/impuestos/442732-kicillof-suma-alicuota-de-9-de-ingresos-brutos-a-bonos-emitidos-por-el-gobierno-nacional",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-26 10:50:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-26",
       "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
         "Infobae",
-        "Clarín"
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "medidas_seguridad_urbana_20251126",
+      "tema": "Medidas Seguridad Urbana CABA",
+      "tema_normalizado": "medidas seguridad urbana caba",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de la Ciudad de Buenos Aires anunció el retiro de la licencia de conducir a quienes cometan delitos utilizando motos o autos.\n• Esta medida busca reforzar el plan integral de seguridad y quitar una herramienta de movilidad clave a los delincuentes.\n• Se aplicará a las licencias emitidas en CABA, inhabilitando a quienes sean detenidos por este tipo de crímenes.\n\n🔍 **Datos clave:**\n• **Jefe de Gobierno porteño:** Jorge Macri.\n• **Secretario de Seguridad de CABA:** Maximiliano Piñeiro.\n• **Licencias CABA revocadas (primeros casos):** 125 (correspondientes a delincuentes detenidos este año).\n• **Total de detenidos por delitos con vehículos (en el año):** 1.021 personas.\n• **Entidades coordinadoras:** Secretaría de Seguridad y Dirección General de Habilitación de Conductores.\n\n⚡ **Desarrollo:**\n• La disposición, inédita en CABA, fue anunciada por Jorge Macri, quien afirmó que \"en la Ciudad, el orden no se negocia\".\n• En lo que va del año, ya fueron detenidos 125 delincuentes que usaron vehículos para robar y contaban con licencias vigentes emitidas por la Ciudad.\n• El procedimiento establecido implica que la Secretaría de Seguridad notificará a la Dirección General de Habilitación de Conductores los datos de las personas detenidas.\n• Posteriormente, esta Dirección analizará la información y aplicará la normativa vigente para la revocación definitiva del registro de conducir.\n• De los 1.021 detenidos por delitos con vehículos este año, 523 provenían de la Provincia de Buenos Aires y 446 residían en CABA.\n• El Secretario Piñeiro explicó que la medida busca \"quitarles herramientas a quienes buscan en el delito una forma de vida\", adaptándose a la mutación de los hechos de inseguridad.\n• El Gobierno porteño ha instado a la Provincia de Buenos Aires y a los municipios del conurbano a sumarse a esta iniciativa para una mayor coordinación y efectividad.\n• Esta nueva disposición se añade al sistema de scoring de 20 puntos ya vigente en CABA, que también permite la suspensión o revocación de licencias por infracciones de tránsito.\n\n💡 **¿Por qué importa?**\n• La revocación de licencias busca desincentivar el uso de vehículos en la comisión de delitos, afectando directamente la capacidad de movimiento de los criminales.\n• Representa un endurecimiento de las políticas de seguridad urbana en CABA, enviando un mensaje claro de intolerancia al delito y promoviendo la coordinación interjurisdiccional.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El Gobierno porteño retirará licencias a quienes cometan delitos con vehículos",
+          "link": "https://www.infobae.com/politica/2025/11/26/el-gobierno-porteno-retirara-licencias-a-quienes-cometan-delitos-con-vehiculos/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-26 11:35:01"
+        },
+        {
+          "titulo": "Jorge Macri anunció que quien cometa algún delito en CABA perderá el registro",
+          "link": "https://www.minutouno.com/politica/jorge-macri-anuncio-que-quien-cometa-algun-delito-caba-perdera-el-registro-n6217842",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 10:35:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Infobae",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
