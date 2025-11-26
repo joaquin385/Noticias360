@@ -1,6 +1,377 @@
 {
-  "fecha": "2025-11-25",
-  "fecha_generacion": "2025-11-26T00:54:20.678650",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-26",
+  "fecha_generacion": "2025-11-26T03:52:23.094496",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "milei_vs._chiqui_20251126",
+      "tema": "Milei vs. Chiqui Tapia / AFA",
+      "tema_normalizado": "milei vs. chiqui tapia / afa",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino, a través de la Dirección General Impositiva (DGI), denunció a la empresa Sur Finanzas, del empresario Ariel Vallejo, ligado a Claudio \"Chiqui\" Tapia, presidente de la AFA, por presunto lavado de dinero y evasión fiscal.\n• Paralelamente, el presidente Javier Milei intensificó su confrontación con la AFA, mostrando públicamente su apoyo a Estudiantes de La Plata, un club que impulsa la transformación a Sociedades Anónimas Deportivas (SADs).\n\n🔍 **Datos clave:**\n• **Empresa denunciada:** Sur Finanzas PSP S.A., propiedad de Ariel Vallejo.\n• **Monto de evasión estimado:** $3.327.267.047 (por Impuesto al Cheque).\n• **Monto de transferencias bajo sospecha de lavado:** $818.000.000.000.\n• **Fecha de inicio de investigación DGI:** Abril de 2024.\n• **Fiscalía a cargo:** Federal 2 de Lomas de Zamora (Cecilia Incardona).\n• **Clubes patrocinados por Sur Finanzas:** Banfield, Platense, Deportivo Morón, Barracas Central, Atlanta.\n• **Presidente de Estudiantes (a favor de SADs):** Juan Sebastián Verón.\n• **Ministro que publicó análisis arbitral:** Federico Sturzenegger.\n\n⚡ **Desarrollo:**\n• La DGI detectó transferencias masivas a través de Sur Finanzas PSP, donde $818 mil millones fueron operados por \"monotributistas sin capacidad económica\", \"sujetos no categorizados\" y \"apócrifos\".\n• La denuncia se enfoca en la evasión del Impuesto a los Créditos y Débitos y en el supuesto lavado de activos, sugiriendo el uso de un \"ejército de soldaditos\" para mover fondos.\n• El gobierno de Milei promueve la implementación de las Sociedades Anónimas Deportivas (SADs) en los clubes de fútbol, una medida rechazada por \"Chiqui\" Tapia y la mayoría de la AFA.\n• Milei ha mostrado su respaldo a Estudiantes de La Plata, exhibiendo su camiseta en reuniones oficiales. Este gesto se interpreta como una señal de disconformidad con la gestión de la AFA, especialmente tras la polémica por el \"pasillo de honor\" a Rosario Central.\n• El ministro Federico Sturzenegger publicó un gráfico, avalado por Milei, que \"demuestra con estadísticas duras\" supuestas irregularidades arbitrales a favor de Barracas Central, club vinculado a Tapia.\n• En la intimidad, Milei ha calificado a Tapia como el \"máximo representante de la casta\" y del \"populismo empobrecedor\", criticando la \"inflación de títulos\" en el fútbol argentino.\n\n💡 **¿Por qué importa?**\n• Este conflicto marca una confrontación directa entre el gobierno nacional y la cúpula del fútbol argentino, con potenciales repercusiones en las esferas legal, económica y deportiva.\n• Podría sentar un precedente sobre el modelo de gestión de los clubes de fútbol en Argentina y la autonomía de las federaciones deportivas frente a la intervención estatal.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "El Gobierno denunció al financista ligado al “Chiqui” Tapia por lavado de dinero y evasión",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-denuncio-al-financista-ligado-al-chiqui-tapia-por-lavado-de-dinero-y-evasion-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 00:21:38"
+        },
+        {
+          "titulo": "El Gobierno denunció a una financiera cercana al Chiqui Tapia por evasión impositiva y supuesto lavado de activos",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-denuncio-a-una-financiera-cercana-al-chiqui-tapia-por-evasion-impositiva-y-supuesto-lavado-de-activos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 23:18:00"
+        },
+        {
+          "titulo": "Javier Milei exhibió la camiseta de Estudiantes en una reunión y un intendente kirchnerista lo cruzó",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-exhibio-la-camiseta-de-estudiantes-en-una-reunion-y-un-intendente-kirchnerista-lo-cruzo-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 22:41:18"
+        },
+        {
+          "titulo": "Milei, en guardia contra Cristina Kirchner y Chiqui Tapia",
+          "link": "https://www.lanacion.com.ar/politica/milei-en-guardia-contra-cristina-kirchner-y-chiqui-tapia-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 19:56:00"
+        },
+        {
+          "titulo": "Javier Milei contra el \"Chiqui\" Tapia: ahora el Presidente puso la camiseta de Estudiantes en el sillón de Rivadavia",
+          "link": "https://www.clarin.com/politica/javier-milei-chiqui-tapia-ahora-presidente-puso-camiseta-estudiantes-sillon-rivadavia_0_TyGLBa78u5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 18:50:00"
+        },
+        {
+          "titulo": "El gesto Javier Milei con Estudiantes para volver a pronunciarse contra la AFA de Chiqui Tapia",
+          "link": "https://www.minutouno.com/politica/el-gesto-javier-milei-estudiantes-volver-pronunciarse-contra-la-afa-chiqui-tapia-n6217608",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-25 17:36:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "milei's_israel_embassy_20251126",
+      "tema": "Milei's Israel Embassy Relocation",
+      "tema_normalizado": "milei's israel embassy relocation",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina, bajo la presidencia de Javier Milei, ha anunciado sus planes de trasladar la embajada en Israel desde Tel Aviv a Jerusalén.\n• El presidente Milei tiene previsto viajar a Israel en abril o mayo de 2026 para inaugurar personalmente la nueva sede diplomática.\n• Esta decisión consolida un fuerte alineamiento político con Israel y marca un cambio sustancial en la política exterior tradicional de Argentina.\n\n🔍 **Datos clave:**\n• **Fecha del traslado:** Abril o mayo de 2026.\n• **Actores principales:** Presidente Javier Milei, canciller argentino Pablo Quirno, canciller israelí Gideon Sa’ar.\n• **Países con embajada en Jerusalén (otros):** Estados Unidos, Guatemala, Honduras, Papúa Nueva Guinea, Paraguay (desde diciembre de 2024).\n• **Estado Palestino:** Reconocido por 157 países (incluida Argentina desde 2010), reclama Jerusalén como su capital.\n• **Sede actual:** Tel Aviv (anteriormente mencionada también en Hertzlia).\n• **Anuncio clave:** Milei ratificó la mudanza a Jerusalén Oeste en su discurso ante el Parlamento israelí (Knéset) en junio.\n\n⚡ **Desarrollo:**\n• Históricamente, la mayoría de las naciones mantienen sus embajadas en Tel Aviv para evitar tomar partido en la disputa por la soberanía de Jerusalén.\n• Israel considera a Jerusalén su capital indivisible, mientras que los palestinos reclaman Jerusalén Este (ocupada por Israel desde 1967) como capital de su futuro Estado.\n• La decisión argentina pone fin a una postura de neutralidad que el país mantuvo respecto al conflicto israelí-palestino desde el nacimiento de Israel en 1948.\n• El canciller israelí Gideon Sa’ar visitó Argentina para profundizar la relación bilateral, reuniéndose con Milei y Quirno para confirmar los planes de traslado.\n• Como paso previo, el canciller Pablo Quirno viajará a Israel en febrero para coordinar la agenda presidencial y ultimar detalles de la inauguración.\n• Israel ha elogiado el liderazgo de Milei y sus reformas económicas, anunciando la apertura de una agregaduría económica en Buenos Aires y estudiando la implementación de vuelos directos.\n• La relación comercial bilateral entre Argentina e Israel ronda los US$ 600 millones anuales, y la Cámara de Comercio conjunta aumentó un 30% sus socios desde la asunción de Milei.\n• Durante previas visitas a Israel, Milei firmó un memorándum contra el terrorismo y respaldó a Benjamin Netanyahu en su lucha, fortaleciendo la alianza geopolítica.\n\n💡 **¿Por qué importa?**\n• Este traslado representa un giro radical en la política exterior de Argentina, rompiendo con décadas de neutralidad diplomática en una de las zonas más conflictivas del mundo.\n• La medida podría generar fuertes críticas de países árabes y de la comunidad internacional que apoyan la causa palestina, afectando la posición de Argentina en foros globales y regionales.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Javier Milei viajará a Israel para trabajar en el traslado de la Embajada a Jerusalén",
+          "link": "https://www.minutouno.com/politica/javier-milei-viajara-israel-trabajar-el-traslado-la-embajada-jerusalen-n6217681",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-25 22:34:00"
+        },
+        {
+          "titulo": "Javier Milei viajará en 2026 a Israel para encabezar la mudanza de la embajada argentina a Jerusalén",
+          "link": "https://www.lanacion.com.ar/politica/milei-recibe-al-canciller-israeli-que-participara-de-homenajes-a-las-victimas-de-los-atentados-y-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 20:27:21"
+        },
+        {
+          "titulo": "Milei irá a Israel en 2026 para la mudanza de la embajada argentina  a Jerusalén",
+          "link": "https://www.clarin.com/economia/milei-ira-israel-2026-mudanza-embajada-argentina-jerusalen_0_JYwQszs5J3.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 19:46:57"
+        },
+        {
+          "titulo": "Javier Milei viajará a Israel el año que viene para el traslado de la embajada argentina a Jerusalén",
+          "link": "https://www.ambito.com/politica/javier-milei-viajara-israel-abril-y-mayo-el-traslado-la-embajada-argentina-jerusalen-n6217626",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 18:21:00"
+        },
+        {
+          "titulo": "Javier Milei recibió al canciller de Israel en Casa Rosada para profundizar la relación bilateral",
+          "link": "https://www.minutouno.com/politica/javier-milei-recibio-al-canciller-israel-casa-rosada-profundizar-la-relacion-bilateral-n6217598",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-25 17:20:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Clarín",
+        "Minuto1",
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_cuadernos_judicial_20251126",
+      "tema": "Causa Cuadernos Judicial Proceedings",
+      "tema_normalizado": "causa cuadernos judicial proceedings",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Tribunal Oral Federal N°7 continúa con la lectura de la acusación en la Causa Cuadernos, uno de los juicios de corrupción más importantes de Argentina.\n*   Durante estas jornadas, se leen las declaraciones de imputados colaboradores, como el financista Ernesto Clarens y el exsecretario presidencial Fabián Gutiérrez.\n*   La acusación principal sostiene que la expresidenta Cristina Kirchner lideró un circuito de coimas para enriquecerse ilegalmente junto a empresarios.\n\n🔍 **Datos clave:**\n*   **86** imputados: Incluye a **60** importantes empresarios de diversas compañías del país.\n*   **2003-2015**: Período en que operó la supuesta \"empresa delictiva\" o \"asociación ilícita\" para la recaudación ilegal.\n*   **Carlos Stornelli**: Fiscal federal que formuló el requerimiento de elevación a juicio por los hechos.\n*   **Claudio Bonadio**: Juez federal fallecido que llevó adelante la investigación inicial y procesó a los imputados.\n*   **Ernesto Clarens y Fabián Gutiérrez**: Imputados colaboradores cuyas declaraciones aportan detalles clave al proceso.\n\n⚡ **Desarrollo:**\n*   La fiscalía acusa la conformación de una \"empresa delictiva\" que operó por doce años, liderada por referentes del Poder Ejecutivo y organizada desde el ex Ministerio de Planificación.\n*   El plan era que sus integrantes, tanto funcionarios estatales como empresarios, pudieran enriquecerse personalmente de manera ilegítima, desviando fondos públicos.\n*   Los empresarios habrían pagado \"montos descomunales\" para obtener favores, como adjudicaciones de licitaciones, obras públicas, o pagos acelerados de facturas.\n*   Fabián Gutiérrez, exsecretario de los Kirchner, relató haber visto a José López y Ricardo Jaime llevar bolsos con dinero al expresidente, y a Daniel Muñoz transportar valijas con candado en vuelos al sur.\n*   Ernesto Clarens, dueño de la financiera Inverness S.A., dio precisiones sobre su funcionamiento y su nexo con el expresidente de CAMARCO, Carlos Wagner, investigado en la causa \"La Camarita\". Aclaró no haber manejado dinero de los Kirchner.\n*   La investigación se basa, en gran parte, en los cuadernos del chofer Oscar Bernardo Centeno, donde registraba meticulosamente la recepción y entrega de dinero de las supuestas coimas.\n\n💡 **¿Por qué importa?**\n*   Este juicio expone un presunto sistema de corrupción masiva y sistemática en Argentina, vinculando a la más alta esfera política con importantes empresarios.\n*   Su resolución busca determinar la responsabilidad en el desvío de fondos públicos y el enriquecimiento ilícito de figuras clave durante más de una década.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Causa Cuadernos: nueva jornada de lectura de la acusación",
+          "link": "https://www.ambito.com/politica/causa-cuadernos-nueva-jornada-lectura-la-acusacion-n6217671",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 19:54:00"
+        },
+        {
+          "titulo": "Cuadernos: según la acusación, Cristina Kirchner “armó un circuito de coimas para enriquecerse ilegalmente” y los empresarios “se beneficiaron”",
+          "link": "https://www.clarin.com/politica/cuadernos-acusacion-cristina-kirchner-armo-circuito-coimas-enriquecerse-ilegalmente-empresarios-beneficiaron_0_o6vvEXHCNy.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 19:40:35"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caputo's_economic_optimism_20251126",
+      "tema": "Caputo's Economic Optimism 2026",
+      "tema_normalizado": "caputo's economic optimism 2026",
+      "resumen": "📌 **¿Qué está pasando?**\n• El ministro de Economía, Luis Caputo, expresó un fuerte optimismo sobre el futuro económico de Argentina, vaticinando que el año 2026 será \"espectacular\".\n• Este pronóstico se basa en una \"convergencia de factores políticos, económicos y sociales muy positivos\" y la expectativa de importantes reformas estructurales.\n• Los anuncios se realizaron durante una reunión con representantes de empresas británicas que operan en el país.\n\n🔍 **Datos clave:**\n• **Proyección 2026:** Luis Caputo anticipa un \"año espectacular\" para la economía argentina.\n• **Actores principales:** Ministro Luis Caputo, viceministro José Luis Daza, secretario Pablo Lavigne, y el semanario The Economist.\n• **Reformas mencionadas:** Principalmente la reforma laboral y el proyecto de Presunción de Inocencia Fiscal.\n• **Histórico de crecimiento:** La tasa promedio anual de Argentina ha decrecido del 4,3% (década del 90) al 0,7% (período 2020-2024).\n• **Meta de crecimiento:** Economistas como Jorge Vasconcelos sugieren un potencial retorno al 4% anual con las reformas adecuadas.\n\n⚡ **Desarrollo:**\n• El optimismo de Caputo se fundamenta en reformas legislativas que el Gobierno planea impulsar en el Congreso, incluyendo aspectos tributarios, laborales y el Presupuesto 2026.\n• Estas iniciativas buscan \"incentivar la formalización y generar más empleo\", así como fomentar el desarrollo del mercado de capitales, entendiendo que el crecimiento se produce \"a través del crédito\".\n• Caputo enfatizó que la competitividad no depende de un dólar alto, sino de la baja de impuestos, lo que considera crucial para devolver el crecimiento a empresas y ciudadanos.\n• The Economist también proyecta un posible buen año para el gobierno de Javier Milei en 2026, pero advierte que la \"normalidad macroeconómica\" es solo un paso; se necesitan reformas estructurales para que Argentina prospere.\n• El viceministro José Luis Daza señaló una \"aceleración de proyectos de inversión\" en el país, impulsada por el apoyo al programa económico del Gobierno tras recientes elecciones legislativas.\n• A pesar de que las autoridades han ratificado las bandas cambiarias, el mercado y analistas como Fernando Marull y The Economist no descartan posibles ajustes en el tipo de cambio durante 2026.\n• Los empresarios británicos presentes en la reunión valoraron las rebajas de impuestos nacionales, pero destacaron la persistente presión fiscal distorsiva por parte de provincias y municipios.\n\n💡 **¿Por qué importa?**\n• Las declaraciones de Caputo establecen las expectativas económicas del gobierno para los próximos años, posicionando las reformas como pilares fundamentales para el crecimiento.\n• El cumplimiento de este optimismo dependerá directamente de la aprobación e implementación de las reformas estructurales y de la capacidad del país para atraer y consolidar nuevas inversiones.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Los cuatro tests que enfrenta Caputo antes de que llegue Papá Noel y las reformas para crecer",
+          "link": "https://www.clarin.com/economia/tests-enfrenta-caputo-llegue-papa-noel-reformas-crecer_0_FItees4scI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 20:27:31"
+        },
+        {
+          "titulo": "Caputo anticipó a empresarios británicos que \"2026 será un año espectacular\"",
+          "link": "https://www.perfil.com/noticias/economia/luis-caputo-se-reunio-con-representantes-de-empresas-britanicas-que-operan-en-el-pais.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 19:47:00"
+        },
+        {
+          "titulo": "Luis Caputo se reunió con empresas británicas y vaticinó que 2026 será un \"año espectacular\"",
+          "link": "https://www.ambito.com/politica/luis-caputo-se-reunio-empresas-britanicas-y-vaticino-que-2026-sera-un-ano-espectacular-n6217653",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 19:20:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentine_economic_activity_20251126",
+      "tema": "Argentine Economic Activity & Wages",
+      "tema_normalizado": "argentine economic activity & wages",
+      "resumen": "📌 **¿Qué está pasando?**\n• La actividad económica en Argentina muestra una recuperación limitada y desigual, con sectores clave aún en caída.\n• Paralelamente, el empleo formal total continúa disminuyendo, con una marcada pérdida de puestos en el sector privado.\n• El poder adquisitivo del salario mínimo vital y móvil ha sufrido una drástica caída, ubicándose en niveles históricamente bajos.\n\n🔍 **Datos clave:**\n• **Empleo privado (agosto 2025):** Cayó 10.600 puestos, 6 veces más que el público (-1.700).\n• **Pérdida de empleos formales (Nov 2023 - Agosto 2025):** 224.000 puestos de trabajo perdidos.\n• **Salario Mínimo (Nov 2023 - Oct 2025):** Acumuló una caída del 35% en su poder de compra real ($322.000 actuales).\n• **Actividad Económica (EMAE - septiembre 2025):** Aumento del 0,5% mensual y 5,0% interanual.\n• **Sectores con mayor caída (interanual):** Industria manufacturera (-1%) y Administración pública y defensa (-0,7%).\n\n⚡ **Desarrollo:**\n• El empleo asalariado formal registró cuatro meses consecutivos de caídas (mayo a agosto de 2025), afectando principalmente al sector privado, que alcanza niveles de agosto de 2018.\n• Desde noviembre de 2023, se perdieron 139.000 empleos privados (-2,2%) frente a 61.000 públicos (-1,7%), indicando que el mayor ajuste se dio en el ámbito privado.\n• Sectores como intermediación financiera, minería y construcción tuvieron las caídas más significativas en agosto, mientras agro, pesca, energía y hotelería/restaurantes mostraron leves alzas.\n• La drástica caída del 35% del salario mínimo lo sitúa por debajo del valor de 2001 y representa solo un tercio de su poder de compra máximo de 2011.\n• La mejora en la actividad económica de septiembre fue limitada y concentrada en Pesca (+58,2%) e Intermediación financiera (+39,7%), sin un impacto expansivo directo sobre la economía real o la producción.\n• La debilidad de la industria manufacturera y la administración pública (-0,7%) sigue frenando la recuperación general, mostrando una convivencia de avances y retrocesos.\n\n💡 **¿Por qué importa?**\n• El país enfrenta un fuerte deterioro laboral y salarial, con una pérdida acelerada de empleos privados y del poder adquisitivo, impactando directamente en el bienestar de las familias.\n• La recuperación económica es aún frágil y desequilibrada, sin un impulso sólido en sectores productivos clave, lo que plantea desafíos para un crecimiento sostenido y la mejora de las condiciones de vida.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Mala señal: el empleo privado cayó seis veces más que el público durante agosto",
+          "link": "https://www.ambito.com/economia/mala-senal-el-empleo-privado-cayo-seis-veces-mas-que-el-publico-agosto-n6217672",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 20:51:00"
+        },
+        {
+          "titulo": "El poder de compra del salario mínimo cayó 35% en la era Milei según la UBA",
+          "link": "https://www.perfil.com/noticias/economia/el-poder-de-compra-del-salario-minimo-cayo-35-en-la-era-milei-segun-la-uba.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 20:33:00"
+        },
+        {
+          "titulo": "La actividad económica apenas repuntó en septiembre: sectores clave siguen en caída",
+          "link": "https://www.minutouno.com/economia/la-actividad-economica-apenas-repunto-septiembre-sectores-clave-siguen-caida-n6217599",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-25 18:14:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "kicillof's_debt_authorization_20251126",
+      "tema": "Kicillof's Debt Authorization Request",
+      "tema_normalizado": "kicillof's debt authorization request",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof consiguió un dictamen favorable en la comisión de Presupuesto e Impuestos para su Ley de Financiamiento de 2026.\n• Este proyecto busca autorización para tomar deuda y es clave para el pago de compromisos provinciales y obras de infraestructura.\n• La iniciativa ahora debe ser votada en la Legislatura bonaerense, donde requiere una mayoría especial de dos tercios.\n\n🔍 **Datos clave:**\n• **Monto de endeudamiento:** Más de US$3.000 millones (compuesto por US$1045 millones y US$1990 millones).\n• **Fondo Municipal:** Se fijó en $352.000 millones, equivalente al 8% de la deuda que se logre colocar.\n• **Votos necesarios:** 62 en Diputados y 31 en Senadores para la aprobación final (dos tercios).\n• **Dictamen en comisión:** Aprobado con 9 votos a favor (bloques peronistas y \"dialoguistas\"), y 6 abstenciones.\n• **Leyes asociadas:** Presupuesto 2026 y Ley Impositiva 2026.\n\n⚡ **Desarrollo:**\n• El dictamen de mayoría es un avance importante, pero el oficialismo aún no tiene garantizados los dos tercios necesarios para la aprobación final del endeudamiento.\n• La negociación principal se centró en el Fondo de Fortalecimiento de Inversión Municipal, inicialmente reclamado por la oposición en $600.000 millones.\n• Aunque el Poder Ejecutivo ofreció $330.000 millones, el acuerdo final lo fijó en $352.000 millones, condicionado a la obtención efectiva de la deuda en los mercados.\n• El dictamen fue respaldado por Fuerza Patria y Nuevos Aires (46 votos), pero no firmado por UCR + Cambio Federal, La Libertad Avanza y Pro, que pidieron más tiempo.\n• Kicillof monitoreó activamente las discusiones, y su equipo desplegó \"elementos de seducción\" como la distribución de cargos y ofertas para intendentes.\n• Actores clave en la negociación incluyeron a Alexis Guerrera (Presidente de Diputados), Facundo Tignanelli (La Cámpora) y Juan de Jesús (intendentes peronistas).\n\n💡 **¿Por qué importa?**\n• La aprobación de esta ley es fundamental para la estabilidad financiera de la provincia, permitiendo cumplir con sus obligaciones de deuda y financiar proyectos esenciales.\n• El proceso legislativo pone a prueba la capacidad de negociación del gobierno de Kicillof y su relación con la oposición, siendo un indicador clave para la gobernabilidad de 2026.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Al filo de plazo, Kicillof consigue avanzar para que la Legislatura trate el endeudamiento que necesita para 2026",
+          "link": "https://www.lanacion.com.ar/politica/el-fondo-para-los-municipios-condiciona-la-aprobacion-de-una-ley-de-financiamiento-pedida-por-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 20:47:55"
+        },
+        {
+          "titulo": "Kicillof logró el primer aval para el endeudamiento y se encamina a sacar un paquete de leyes claves para el 2026",
+          "link": "https://www.clarin.com/politica/kicillof-logro-primer-aval-endeudamiento-encamina-sacar-paquete-leyes-claves-2026_0_jzKk9lCpFV.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 20:35:01"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "$libra_cryptocurrency_scandal_20251126",
+      "tema": "$LIBRA Cryptocurrency Scandal Developments",
+      "tema_normalizado": "$libra cryptocurrency scandal developments",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se desató una nueva fase en el escándalo de la criptomoneda $LIBRA, con el creador Hayden Davis enfrentando acusaciones de fraude por parte de inversores.\n• Se solicitó urgentemente el congelamiento de sus billeteras cripto tras detectar movimientos de fondos importantes, incluyendo intercambios por activos difíciles de rastrear.\n• Davis respondió lanzando un fideicomiso y la jueza a cargo del caso finalmente rechazó el último pedido de los querellantes para congelar los fondos.\n\n🔍 **Datos clave:**\n• **Personas clave:** Hayden Davis (creador de $LIBRA), Jueza Jennifer Rochon (Tribunal Sur de Nueva York), Abogado Max Burwick (representa a los inversores).\n• **Fechas importantes:** Pedido urgente de congelamiento enviado el 19 de noviembre; audiencia oral reciente (martes/miércoles).\n• **Montos:** Se detectó un intercambio de $61.5 millones de USDC por $SOL. Previamente, casi $60 millones estuvieron congelados por tres meses y luego fueron liberados.\n• **Criptomonedas:** $LIBRA, USDC (criptoestable), SOL (criptomoneda), ZCash (criptomoneda anónima).\n• **Entidades:** Meteora (firma acusada por los inversores), The Libra Trust (fideicomiso lanzado por Davis).\n• **Vínculo político:** El presidente argentino Javier Milei había promocionado $LIBRA en sus redes sociales en febrero pasado.\n\n⚡ **Desarrollo:**\n• Inversores, representados por Max Burwick, denunciaron a Hayden Davis y su firma Meteora por un presunto fraude con $LIBRA.\n• Burwick solicitó a la jueza Rochon que congelara la billetera \"$LIBRA Team Wallet 2\" tras observar transferencias de USDC a SOL y ZCash, criptomonedas más difíciles de rastrear judicialmente.\n• La jueza Rochon ya había congelado alrededor de $60 millones en agosto, pero levantó la restricción al considerar que los querellantes no sostenían las razones para mantener el dinero freezado.\n• Minutos antes de la audiencia más reciente, Hayden Davis lanzó \"The Libra Trust\", un fideicomiso que, según él, busca continuar el proyecto original de financiar empresas argentinas.\n• Los abogados de Davis afirmaron en la audiencia que él ya no tiene control directo sobre los fondos, los cuales fueron transferidos al fideicomiso y revisados por un abogado independiente.\n• La jueza Jennifer Rochon rechazó el nuevo pedido de congelamiento al considerar que Burwick no logró demostrar un \"daño irreparable\" inminente con los movimientos de fondos.\n• Davis busca desvincularse de la figura de estafa y alejar al presidente Milei del escándalo, destacando la independencia del fideicomiso y acusando a \"la izquierda política\" de intentar sabotear el proyecto.\n\n💡 **¿Por qué importa?**\n• El caso pone en relieve los desafíos legales y regulatorios en el ámbito de las criptomonedas, especialmente ante la alta movilidad y el potencial anonimato de los fondos.\n• Afecta la confianza de los inversores en proyectos cripto promocionados y genera debate sobre la responsabilidad de figuras públicas al avalar este tipo de iniciativas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Los creadores de $Libra comenzaron a vaciar las cuentas y solicitaron una audiencia urgente para congelar las billeteras de Hayden Davis",
+          "link": "https://www.perfil.com/noticias/politica/los-creadores-de-libra-comenzaron-a-vaciar-las-cuentas-y-solicitaron-una-audiencia-urgente-para-congelar-las-billeteras-de-hayden-davis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-25 22:47:00"
+        },
+        {
+          "titulo": "Giro en el escándalo cripto: Hayden Davis lanzó un fideicomiso que lo aleja de la figura de estafa e intenta despegar a Milei de $LIBRA",
+          "link": "https://www.clarin.com/politica/giro-escandalo-cripto-hayden-davis-lanzo-fideicomiso-aleja-figura-estafa-intenta-despegar-milei-libra_0_Oq1SVk1xww.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 19:36:34"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "bullrich-villaverde_political_conflict_20251126",
+      "tema": "Bullrich-Villaverde Political Conflict",
+      "tema_normalizado": "bullrich-villaverde political conflict",
+      "resumen": "📌 **¿Qué está pasando?**\n• El conflicto político principal se centra en la asunción de Lorena Villaverde como senadora electa por Río Negro, debido a impugnaciones de la oposición que la vinculan con el narcotráfico.\n• Patricia Bullrich, futura compañera de bancada de Villaverde y líder del bloque oficialista, ha salido en su defensa, desestimando las acusaciones como una \"impugnación política\" sin fundamentos legales.\n• Esta situación genera tensiones en el Senado, donde el oficialismo busca los votos para confirmar el pliego de Villaverde y asegurar una mayoría que impulse su agenda legislativa.\n\n🔍 **Datos clave:**\n• **Lorena Villaverde:** Senadora electa por Río Negro, cuya asunción está en debate.\n• **Patricia Bullrich:** Ministra de Seguridad saliente, futura senadora y jefa de bancada oficialista que defiende a Villaverde.\n• **Federico \"Fred\" Machado:** Empresario vinculado a Villaverde, extraditado por narcotráfico.\n• **10 al 30 de diciembre:** Período de sesiones extraordinarias, donde se prevé tratar la agenda del gobierno.\n• **71 senadores:** Número de integrantes de la Cámara alta que participarían en la votación para definir el pliego de Villaverde.\n• **20 votos:** Votos asegurados para el oficialismo (sin contar el de Villaverde).\n• **28 votos:** Votos que sumaría el peronismo en caso de no haber fugas.\n\n⚡ **Desarrollo:**\n• Lorena Villaverde fue impugnada por el PJ de Río Negro, que la acusa de \"amenazas y amedrentamiento\" y menciona un \"pasado y presente delictivo, narcotraficante y defraudador\", incluyendo una supuesta causa por narcotráfico en Estados Unidos.\n• Patricia Bullrich ha defendido públicamente a Villaverde, afirmando que \"no tiene ninguna causa\" y que su certificado de antecedentes la respalda como inocente, calificando las objeciones como puramente políticas.\n• Bullrich argumenta que la Constitución establece los requisitos para ocupar una banca y que, sin una condena firme, Villaverde \"puede asumir\", minimizando las acusaciones como \"mucho ruido y pocas nueces\".\n• El oficialismo confía en que Villaverde obtendrá los votos necesarios para su asunción, y Bullrich se reunió con senadores de la UCR para construir alianzas y avanzar con la agenda del Gobierno, que incluye el Presupuesto, la ley de inocencia fiscal y la reforma laboral.\n• La Unión Cívica Radical (UCR), tras reunirse con Bullrich, considera tener \"libertad de acción\" en la votación sobre el pliego de Villaverde, lo que podría facilitar la obtención de la mayoría por parte del oficialismo.\n• En caso de que la mayoría de los senadores (36 de 71) rechace su asunción, Villaverde tendría dos opciones: judicializar el tema (dejando la banca vacía) o renunciar a su puesto.\n• Como parte del clima de confrontación, Bullrich también promovió impugnaciones a través de terceros contra figuras del peronismo como Jorge Capitanich (por el caso Cecilia Strzyzowski) y Martín Soria (por falsificación de documentos).\n\n💡 **¿Por qué importa?**\n• Este conflicto es clave para la conformación del nuevo Senado y determinará la capacidad del oficialismo para negociar y aprobar sus leyes fundamentales al inicio de la nueva gestión.\n• Evidencia las profundas tensiones políticas y las estrategias de impugnación y defensa cruzada que marcarán el escenario legislativo durante el nuevo gobierno.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Patricia Bullrich se juntó con los radicales en medio de la pelea por Villaverde y la presión de los K",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-junto-radicales-medio-pelea-villaverde-presion-k_0_wvN1nmOPHR.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 19:58:12"
+        },
+        {
+          "titulo": "Patricia Bullrich defendió a Lorena Villaverde tras su impugnación en el Senado: \"No tiene ninguna causa\"",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-defendio-lorena-villaverde-su-impugnacion-el-senado-no-tiene-ninguna-causa-n6217618",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 18:03:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentine_secretary_general_20251126",
+      "tema": "Argentine UN Secretary General Candidacy",
+      "tema_normalizado": "argentine secretary general candidacy",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Las Naciones Unidas iniciaron oficialmente el proceso para elegir a su próximo Secretario General, quien asumirá el cargo el 1 de enero de 2027.\n*   Se ha solicitado a los Estados miembros que propongan candidatos, instando especialmente a la postulación de mujeres, ya que ninguna ha ocupado el puesto hasta ahora.\n*   Actualmente, dos argentinos han anunciado sus candidaturas para este importante cargo: Rafael Grossi y Virginia Gamba.\n\n🔍 **Datos clave:**\n*   **Fecha de inicio del mandato:** 1 de enero de 2027.\n*   **Fecha de decisión:** Fines de 2026.\n*   **Candidatos argentinos:** Rafael Grossi y Virginia Gamba.\n*   **Otros candidatos latinoamericanos:** Michelle Bachelet (Chile) y Rebeca Grynspan (Costa Rica).\n*   **Países miembros de la ONU:** 193.\n*   **Miembros permanentes del Consejo de Seguridad con derecho a veto:** 5 (Estados Unidos, Rusia, Gran Bretaña, China y Francia).\n\n⚡ **Desarrollo:**\n*   La Secretaría General de la ONU se rota entre continentes, y el próximo turno corresponde a América Latina, lo que abre una oportunidad para candidatos de la región.\n*   Rafael Grossi es el actual Director General del Organismo Internacional de Energía Atómica (OIEA) y cuenta con el apoyo del gobierno argentino.\n*   Grossi, diplomático de carrera, deberá renunciar a su cargo en el OIEA si su candidatura avanza, debido a la normativa que impide postularse a quienes ocupan puestos en la ONU.\n*   Virginia Gamba, ex Representante Especial del Secretario General sobre la Violencia contra los Niños en Conflictos Armados, se presenta como candidata independiente.\n*   La ONU ha enfatizado la importancia de designar a una mujer como candidata, buscando garantizar la igualdad de oportunidades en altos puestos de decisión.\n*   Una encuesta del sitio PassBlue ubicó a Virginia Gamba en el puesto 5 y a Rafael Grossi en el puesto 8 de las preferencias, con Michelle Bachelet en primer lugar.\n*   La selección final requiere el acuerdo de los cinco miembros permanentes del Consejo de Seguridad, que tienen derecho a veto.\n\n💡 **¿Por qué importa?**\n*   La elección del Secretario General es fundamental para la dirección de la agenda global y la respuesta de la comunidad internacional a los desafíos actuales.\n*   La posible elección de un candidato argentino representaría un significativo reconocimiento y una oportunidad para aumentar la influencia del país en el ámbito multilateral.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Comenzó el proceso de selección del próximo secretario general de la ONU: quién es el candidato argentino",
+          "link": "https://www.ambito.com/mundo/comenzo-el-proceso-seleccion-del-proximo-secretario-general-la-onu-quien-es-el-candidato-argentino-n6217689",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-25 21:20:00"
+        },
+        {
+          "titulo": "Dos argentinos anotados para competir por la secretaría general de Naciones Unidas",
+          "link": "https://www.clarin.com/politica/argentinos-anotados-competir-secretaria-general-naciones-unidas_0_zUrqztgCa9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-25 20:19:23"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina-usa_seed_ip_20251126",
+      "tema": "Argentina-USA Seed IP Agreement",
+      "tema_normalizado": "argentina-usa seed ip agreement",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina y Estados Unidos negocian un acuerdo que incluye la propiedad intelectual (PI) en semillas, buscando que Argentina se adhiera al convenio UPOV-91.\n• El Gobierno argentino impulsa esta adhesión para atraer inversiones y acceder a mejor tecnología genética.\n• La oposición reclama falta de transparencia y exige que el acuerdo pase por el Congreso para su debate y aprobación.\n\n🔍 **Datos clave:**\n• **UPOV-91:** Convenio internacional al que Argentina buscaría adherirse para la protección de las obtenciones vegetales.\n• **UPOV-78:** Versión anterior de UPOV a la que Argentina está adherida actualmente, considerada desactualizada por expertos.\n• **Ley de Semillas de 1973:** Norma vigente en Argentina que habilita el \"uso propio\" de semillas por parte de los productores.\n• **Informe 301 de 2025:** Observaciones de EE.UU. sobre PI que Argentina se comprometió a atender.\n• **Artículo 75 (incisos 1, 13, 22) de la Constitución Nacional:** Artículos que otorgan al Congreso competencias en materia aduanera, comercial y de tratados internacionales.\n\n⚡ **Desarrollo:**\n• El acuerdo bilateral con EE.UU. incluye compromisos sobre propiedad intelectual, lo que lleva al Gobierno a impulsar la adhesión a UPOV-91.\n• Esta adhesión, que ya se intentó con la primera versión de la Ley Bases, ahora se buscaría incluir en un paquete de leyes más amplio.\n• Las empresas del sector agroindustrial reclaman mayor protección para sus innovaciones biotecnológicas, ya que la Ley de Semillas de 1973 no contempla la biotecnología moderna y habilita el \"uso propio\".\n• UPOV-91 concede derechos más amplios a los obtentores de variedades vegetales y reglamenta el \"uso propio\" de los agricultores, eximiendo a los pequeños productores del pago.\n• La oposición, liderada por \"Unión por la Patria\", exige que el acuerdo completo con EE.UU. sea tratado en el Congreso, argumentando competencias constitucionales y falta de información detallada.\n• Funcionarios del Gobierno se negaron a asistir a una reunión en la Cámara de Diputados para explicar los alcances del acuerdo, generando críticas sobre la \"opacidad\".\n• Argentina también se comprometió a reforzar la lucha contra la falsificación y a alinear su régimen de PI con estándares internacionales, abordando las observaciones del Informe 301 de EE.UU.\n\n💡 **¿Por qué importa?**\n• La adhesión a UPOV-91 implicaría un cambio significativo en el régimen de propiedad intelectual del sector agropecuario argentino, afectando desde las grandes empresas de biotecnología hasta los pequeños productores y el uso de semillas guardadas.\n• El debate plantea un equilibrio entre la necesidad de atraer inversiones y acceder a tecnología de punta, y la soberanía legislativa, la transparencia en los acuerdos internacionales y el impacto directo en la producción agrícola nacional.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Acuerdo con EE.UU.: el Gobierno buscaría la adhesión a un convenio internacional para la propiedad intelectual en semillas y atraer inversiones",
+          "link": "https://www.lanacion.com.ar/economia/campo/acuerdo-con-eeuu-el-gobierno-buscaria-la-adhesion-a-un-convenio-internacional-para-la-propiedad-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-25 20:37:20"
+        },
+        {
+          "titulo": "La oposición exige al Gobierno que el acuerdo con Estados Unidos pase por el Congreso",
+          "link": "https://www.iprofesional.com/politica/442692-oposicion-exige-gobierno-javier-milei-que-acuerdo-con-estados-unidos-pase-por-congreso",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-25 20:13:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-26",
+      "fuentes": [
+        "iProfesional",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
