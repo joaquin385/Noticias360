@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-26",
-  "fecha_generacion": "2025-11-26T21:15:20.396820",
+  "fecha_generacion": "2025-11-27T00:53:24.426942",
   "resumenes": {
     "internacional": {
-      "resumen": "Un tiroteo cerca de la Casa Blanca en Washington D.C. dejó a dos soldados de la Guardia Nacional heridos y un sospechoso detenido, generando la condena de Donald Trump. En Estados Unidos también se reportó un frente polar y una gran tormenta de nieve para Acción de Gracias, mientras que en la frontera sur, la CBP interceptó una carga ilegal valorada en más de 10 millones de dólares. Florida endurece sus leyes contra \"buques migrantes\" y Uscis evalúa nuevas reglas para la inadmisibilidad de migrantes.\n\nLa arena política internacional se vio marcada por un golpe de Estado en Guinea-Bisáu, donde militares tomaron el poder. Expresidentes enfrentaron la justicia: Nicolas Sarkozy en Francia vio ratificada su condena por financiación ilegal, y Martín Vizcarra en Perú fue sentenciado a 14 años por sobornos. Amnistía Internacional criticó las \"prácticas autoritarias\" de Cuba contra mujeres defensoras de derechos humanos. En Medio Oriente, Hamas debate una posible disolución de su rama militar, y Argentina reafirmó su compromiso con Israel en materia diplomática.\n\nHong Kong sufrió un incendio a gran escala en unas torres, resultando en al menos 36 muertos y más de 270 desaparecidos. El Papa León XIV inició su primer viaje internacional, con destinos en Turquía y Líbano para promover la unidad cristiana y la paz en Medio Oriente. A nivel cultural, el certamen de Miss Universo se ve empañado por una investigación de fraude que podría llevar a prisión a su copropietaria.",
-      "cantidad_noticias": 23,
-      "fecha_generacion": "2025-11-26T21:14:55.306755",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-27T00:53:24.426451"
     },
     "politica": {
-      "resumen": "El Gobierno acelera la reforma laboral, con fecha de presentación en el Congreso fijada para el 9 de diciembre. Pese a las reuniones del Consejo de Mayo, liderado por Manuel Adorni, no se logró un acuerdo con la CGT, que advirtió sobre la falta de consenso y la posibilidad de movilizaciones. Un borrador de decreto que limita la contratación temporal para fin de año generó alerta gremial por la posible pérdida de hasta 500.000 empleos.\n\nEn el ámbito legislativo, el bloque Provincias Unidas en Diputados enfrenta una crisis interna y riesgo de ruptura por la disputa de su presidencia entre Miguel Pichetto y los gobernadores, que impulsan a Gisela Scaglia. Paralelamente, los debates presupuestarios para 2026 están estancados: el presupuesto nacional vuelve a foja cero, el de CABA peligra por negociaciones impositivas entre Jorge Macri y La Libertad Avanza, y el de la provincia de Buenos Aires se demora por diferencias sobre el fondo municipal y cargos.\n\nMúltiples casos judiciales y de corrupción avanzan. La situación del juez Maraniello se agrava ante la Comisión de Acusación por cargos de abuso. Probes por lavado de dinero involucran a empresas ligadas a financistas como Vallejo y “Chiqui” Tapia, con revelaciones sobre firmas falsas que movieron $72.000 millones. El caso “Yategate” contra Martín Insaurralde progresa, y un funcionario de la Oficina Anticorrupción fue cuestionado por defender a un empresario. También, un financista arrepentido complicó la situación del juez Salmain.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-26T21:15:06.472406",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-27T00:53:24.426611"
     },
     "economia": {
-      "resumen": "La actividad industrial argentina muestra un retroceso significativo. Empresas como Whirlpool y Cramaco cesaron su producción local en Pilar y Santa Fe, respectivamente, optando por la importación de productos y resultando en el despido de más de 250 trabajadores. La Unión Industrial Argentina (UIA) alertó sobre una caída de la actividad, situándose por debajo de los niveles de 2022, mientras que las ventas en supermercados y mayoristas también registraron descensos en septiembre. El Salario Mínimo Vital y Móvil cubre apenas el 64,4% del alquiler de un departamento en CABA, reflejando una precarización del poder adquisitivo.\n\nEn el ámbito financiero, el dólar exhibió una marcada volatilidad, con el oficial cercano a $1.475 y el dólar blue superando los $1.430, generando alertas por la caída de reservas y presiones cambiarias. Paradójicamente, los depósitos en dólares alcanzaron un récord de US$35.524 millones, mientras las colocaciones en pesos continúan estancadas. A pesar de los balances trimestrales negativos de los bancos, las acciones argentinas en Wall Street y el S&P Merval mostraron repuntes, impulsadas por un dato positivo de actividad económica. La provincia de Buenos Aires, en tanto, propone un impuesto del 9% a los bancos que adquieran títulos públicos.\n\nEl comercio exterior presenta un panorama mixto. Las exportaciones mineras registraron un máximo histórico de US$650 millones en octubre, impulsadas por el precio del oro. Sin embargo, el precio del trigo tocó mínimos no vistos desde 2019, lo que genera inquietud sobre la oferta de divisas. Los mercados de vacunos experimentaron selectividad y precios fluctuantes. A nivel regulatorio, la Agencia Nacional de Recaudación y Control Aduanero (ARCA) intensificará la vigilancia sobre transferencias bancarias y virtuales a partir de diciembre. Además, se avanzan en discusiones políticas para el Presupuesto 2026.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-26T21:15:20.396445",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-27T00:53:24.426767"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-26T21:15:20.396795"
+      "fecha_generacion": "2025-11-27T00:53:24.426926"
     }
   }
 }
