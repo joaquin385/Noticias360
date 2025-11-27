@@ -1,6 +1,510 @@
 {
-  "fecha": "2025-11-26",
-  "fecha_generacion": "2025-11-27T00:53:28.688017",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-27",
+  "fecha_generacion": "2025-11-27T03:49:01.288116",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "tiroteo_cerca_de_20251127",
+      "tema": "Tiroteo cerca de Casa Blanca, Washington",
+      "tema_normalizado": "tiroteo cerca de casa blanca, washington",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Dos miembros de la Guardia Nacional de Virginia Occidental fueron baleados y heridos de gravedad cerca de la Casa Blanca, en Washington D.C.\n*   El atacante, un ciudadano afgano de 29 años, resultó herido, fue detenido en el lugar y permanece bajo custodia policial.\n*   El incidente, ocurrido el miércoles 26 de noviembre de 2025, generó un gran despliegue de seguridad y conmoción a nivel nacional.\n\n🔍 **Datos clave:**\n*   **Víctimas:** Dos soldados de la Guardia Nacional de Virginia Occidental, en estado crítico.\n*   **Atacante:** Rahmanullah Lakanwal, 29 años, ciudadano afgano.\n*   **Lugar del ataque:** Intersección de las calles 17 y H/I, a menos de dos cuadras de la Casa Blanca.\n*   **Fecha de Ingreso a EE.UU. del atacante:** Septiembre de 2021, bajo la \"Operación Aliados Bienvenidos\".\n*   **Presidente:** Donald Trump (se encontraba en Florida en el momento del tiroteo).\n\n⚡ **Desarrollo:**\n*   El tiroteo se produjo alrededor de las 14:15 (hora local) cuando Lakanwal, aparentemente actuando solo, abrió fuego contra los guardias que realizaban patrullajes.\n*   Un tercer integrante de la Guardia que estaba cerca corrió al lugar, logró derribar al agresor y este recibió disparos antes de ser puesto bajo custodia.\n*   El subdirector ejecutivo de la Policía Metropolitana de D.C. calificó el hecho como un \"ataque directo\", y las autoridades federales investigan el episodio como un posible acto de terrorismo internacional.\n*   El presidente Donald Trump condenó enérgicamente el ataque desde Florida, calificándolo de \"acto de terrorismo\" y \"crimen contra toda nuestra nación\".\n*   Trump confirmó la identidad y nacionalidad del atacante, utilizando el incidente para criticar las políticas migratorias de la administración del expresidente Joe Biden.\n*   Como respuesta al ataque, el presidente ordenó el despliegue de 500 efectivos adicionales de la Guardia Nacional en Washington.\n*   Inicialmente, el gobernador de Virginia Occidental, Patrick Morrisey, reportó el fallecimiento de los soldados, pero luego rectificó, confirmando que se encontraban en condición crítica.\n\n💡 **¿Por qué importa?**\n*   Este ataque de alto perfil en una zona sensible de Washington D.C. eleva las preocupaciones sobre la seguridad nacional y la protección de personal uniformado.\n*   El incidente ha alimentado el debate político en Estados Unidos, especialmente en torno a la inmigración y las políticas de control fronterizo.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Las autoridades identificaron al sospechoso del tiroteo en Washington: es un afgano de 29 años que ingresó a Estados Unidos en 2021",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/26/en-vivo-murieron-dos-agentes-de-la-guardia-nacional-en-washington-tras-ser-baleados/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 00:34:44"
+        },
+        {
+          "titulo": "Trump calificó el tiroteo contra los miembros de la Guardia Nacional como un “acto de terrorismo” y confirmó que el atacante es afgano",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/27/trump-califico-el-tiroteo-contra-los-miembros-de-la-guardia-nacional-como-un-acto-de-terrorismo-y-confirmo-que-el-atacante-es-afgano/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 00:25:33"
+        },
+        {
+          "titulo": "Quién es Rahmanullah Lakanwal, el tirador afgano cerca de la Casa Blanca: llegó a EE.UU. en 2021 con un programa de reubicación de Biden",
+          "link": "https://www.clarin.com/mundo/rahmanullah-lakanwal-tirador-afgano-cerca-casa-blanca-llego-eeuu-2021-programa-reubicacion-biden_0_rHKvMdP2IC.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 00:03:04"
+        },
+        {
+          "titulo": "Tiroteo en Washington: balearon a dos soldados de la Guardia Nacional cerca de la Casa Blanca",
+          "link": "https://www.lanacion.com.ar/estados-unidos/atacaron-a-dos-soldados-de-la-guardia-nacional-cerca-de-la-casa-blanca-un-detenido-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 22:08:25"
+        },
+        {
+          "titulo": "Ataque en Washington: Hochul, Newsom y Pritzker exigen “tolerancia cero” tras el tiroteo a la Guardia Nacional",
+          "link": "https://www.lanacion.com.ar/estados-unidos/ataque-en-washington-hochul-newsom-y-pritzker-exigen-tolerancia-cero-tras-el-tiroteo-a-la-guardia-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 20:34:33"
+        },
+        {
+          "titulo": "Donald Trump, tras el tiroteo cerca de la Casa Blanca: \"El animal que disparó pagará un precio muy alto\"",
+          "link": "https://www.minutouno.com/mundo/donald-trump-el-tiroteo-cerca-la-casa-blanca-el-animal-que-disparo-pagara-un-precio-muy-alto-n6218085",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 19:12:00"
+        },
+        {
+          "titulo": "Estados Unidos: los tiroteos más mortales que han golpeado a Washington",
+          "link": "https://www.clarin.com/mundo/estados-unidos-tiroteos-mortales-golpeado-washington_0_IOTQG4Xg8v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 18:44:34"
+        },
+        {
+          "titulo": "Tiroteo en EEUU: hirieron de bala a dos miembros de la Guardia Nacional en Washington",
+          "link": "https://www.ambito.com/mundo/tiroteo-eeuu-hirieron-bala-dos-miembros-la-guardia-nacional-washington-n6218068",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:27:00"
+        },
+        {
+          "titulo": "Estados Unidos: dos oficiales de la Guardia Nacional fueron asesinados en un tiroteo cerca de la Casa Blanca",
+          "link": "https://www.minutouno.com/mundo/estados-unidos-dos-oficiales-la-guardia-nacional-fueron-asesinados-un-tiroteo-cerca-la-casa-blanca-n6218065",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 18:05:00"
+        },
+        {
+          "titulo": "Tiroteo en las inmediaciones de la Casa Blanca, Washington, EN VIVO: investigan a un ciudadano afgano como principal sospechoso",
+          "link": "https://www.clarin.com/mundo/tiroteo-inmediaciones-casa-blanca-washington-vivo-animal-disparo-guardias-nacionales-pagara-precio-alto-advirtio-donald-trump_0_R9GIxXoSqv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 17:38:54"
+        },
+        {
+          "titulo": "Estados Unidos: dos miembros de la Guardia Nacional fueron baleados en Washington y arrestan a un sospechoso cerca de la Casa Blanca",
+          "link": "https://www.clarin.com/mundo/estados-unidos-varias-personas-baleadas-washington-incluido-miembro-guardia-nacional_0_cnKMdD77P1.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 17:04:30"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Clarín",
+        "Minuto1",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "presupuesto_y_deuda_20251127",
+      "tema": "Presupuesto y deuda bonaerense Kicillof",
+      "tema_normalizado": "presupuesto y deuda bonaerense kicillof",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Legislatura bonaerense aprobó el Presupuesto 2026 y la Ley Fiscal Impositiva enviadas por el gobernador Axel Kicillof.\n• Sin embargo, la crucial autorización para endeudarse por más de 3 mil millones de dólares quedó postergada.\n• Esta postergación se debe a desacuerdos con la oposición sobre la creación y distribución de un fondo para los municipios.\n\n🔍 **Datos clave:**\n• **USD 3.038 millones:** Monto de endeudamiento solicitado por Kicillof.\n• **Presupuesto 2026:** Año al que corresponde el presupuesto aprobado tras dos años de operar con decretos.\n• **9%:** Nuevo impuesto a la renta de bancos que compren títulos públicos nacionales.\n• **Dos tercios:** Cantidad de votos necesarios para aprobar el endeudamiento (no obtenidos).\n• **1° de enero de 2026:** Fecha prevista para la entrada en vigencia del nuevo impuesto a los bancos.\n\n⚡ **Desarrollo:**\n• Kicillof logró la aprobación del Presupuesto y la Ley Fiscal con apoyo del peronismo, \"libertarios dialoguistas\" y el bloque Somos Buenos Aires, tras intensas negociaciones.\n• La autorización de deuda es considerada \"imperiosa\" por el gobierno provincial para cumplir con compromisos externos (aproximadamente USD 900 millones) y financiar el presupuesto.\n• La oposición (La Libertad Avanza, PRO, UCR Cambio Federal, Coalición Cívica) rechazó dar los dos tercios para el endeudamiento, exigiendo un fondo municipal fijo, de libre disponibilidad y con reglas claras de ejecución.\n• Se rechazó una propuesta de $300.000 millones para el fondo municipal, que había sido negociada por la oposición.\n• La nueva Ley Impositiva incluye una alícuota del 9% sobre los Ingresos Brutos de entidades financieras por operaciones con títulos públicos emitidos por la Nación.\n• Este impuesto, que afecta directamente el financiamiento del Estado nacional, busca desincentivar la compra de bonos nacionales por parte de los bancos.\n\n💡 **¿Por qué importa?**\n• La aprobación del Presupuesto le otorga a Kicillof una hoja de ruta clara para su gestión después de dos años de operar sin uno formal.\n• La postergación del endeudamiento genera incertidumbre financiera para la provincia y la ejecución de proyectos, evidenciando la fuerte tensión política en la Legislatura.\n• El nuevo impuesto a los bancos marca un punto de conflicto fiscal con el gobierno central y podría impactar el mercado de capitales.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Kicillof logró en Diputados el Presupuesto y la Ley Fiscal, pero se postergó el debate por el endeudamiento",
+          "link": "https://www.infobae.com/politica/2025/11/27/kicillof-logro-en-diputados-el-presupuesto-y-la-ley-fiscal-pero-se-postergo-el-debate-por-el-endeudamiento/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 00:12:52"
+        },
+        {
+          "titulo": "María Eugenia Vidal cuestionó el presupuesto bonaerense en debate y dijo que Kicillof está “totalmente bochado”",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 00:01:58"
+        },
+        {
+          "titulo": "Postergan la aprobación del endeudamiento que pide Kicillof por diferencias sobre el fondo para los municipios",
+          "link": "https://www.lanacion.com.ar/politica/legislatura-se-demora-la-sesion-clave-para-kicillof-por-diferencias-sobre-el-fondo-municipal-y-los-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 21:42:17"
+        },
+        {
+          "titulo": "La Cámara de Diputados bonaerense aprobó el Presupuesto y ley impositiva, pero se trabó el aval para que Kicillof emita deuda",
+          "link": "https://www.clarin.com/politica/demoras-empezo-debate-legislatura-tratan-presupuesto-ley-impositiva-trabo-aval-kicillof-emita-deuda_0_rekb2BCJZx.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 20:00:24"
+        },
+        {
+          "titulo": "Axel Kicillof quedó habilitado para cobrar un impuesto del 9% a los bancos que compren títulos públicos de Nación",
+          "link": "https://www.clarin.com/economia/impuestazo-kicillof-busca-aplicar-alicuota-9-bancos-compren-titulos-publicos_0_u58B6MWHJM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 15:44:38"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "debate_reforma_laboral_20251127",
+      "tema": "Debate reforma laboral y Consejo de Mayo",
+      "tema_normalizado": "debate reforma laboral y consejo de mayo",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei busca aprobar una reforma laboral y otras leyes clave en sesiones extraordinarias del Congreso, que comenzarían el 10 de diciembre.\n• Esta reforma, trabajada en el marco del Consejo de Mayo, enfrenta un fuerte rechazo de los gremios y genera reparos en algunos sectores empresariales debido a su contenido y la falta de diálogo.\n• El documento final del Consejo de Mayo y el proyecto de ley de reforma laboral definitivo se espera que sean presentados el 9 de diciembre.\n\n🔍 **Datos clave:**\n• **Fecha de inicio de sesiones extraordinarias:** 10 de diciembre.\n• **Fecha prevista de presentación del proyecto:** 9 de diciembre.\n• **Ministro de Desregulación (vocero de la reforma):** Federico Sturzenegger.\n• **Líder de la CGT y UOCRA:** Gerardo Martínez.\n• **Jefe de Gabinete:** Manuel Adorni.\n• **Puntos de conflicto:** Eliminación de la \"ultraactividad\" de convenios, \"banco de horas\".\n\n⚡ **Desarrollo:**\n• El Gobierno busca acelerar la aprobación de la reforma laboral, considerándola una meta principal junto al presupuesto 2026, y prevé extender las sesiones extraordinarias hasta fin de año y posiblemente febrero.\n• El Consejo de Mayo, concebido como un espacio de diálogo, fue percibido por la CGT como una instancia de mera presentación sin posibilidad de debatir la \"letra chica\" del proyecto.\n• Gerardo Martínez, representante de la CGT, manifestó su profundo desacuerdo y la falta de conocimiento del texto definitivo, no descartando movilizaciones o un paro general.\n• Ante la ausencia de un diálogo formal con el Ejecutivo, los gremios, liderados por la CGT, están forjando alianzas con cámaras de pymes (como CGERA y CAME) y gobernadores para construir una agenda común.\n• Sectores empresariales, incluyendo la Unión Industrial Argentina (UIA), también han expresado objeciones y preocupación por la metodología y algunos puntos de la reforma propuesta.\n• La reforma busca suprimir la \"ultraactividad\" de los convenios colectivos y habilitar el \"banco de horas\", lo que constituye dos de los puntos más conflictivos para el sindicalismo.\n• La agenda de las sesiones extraordinarias incluirá también el tratamiento del presupuesto 2026, la Ley de Glaciares y un proyecto de presunción de inocencia fiscal.\n\n💡 **¿Por qué importa?**\n• La reforma laboral tiene el potencial de transformar significativamente las relaciones laborales en Argentina, afectando los derechos de los trabajadores y la estructura sindical y empresarial.\n• Este debate es una prueba crucial para la capacidad del Gobierno de lograr consensos legislativos y sociales frente a sus ambiciosas reformas estructurales.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "El Gobierno trabaja en la convocatoria a extraordinarias con la expectativa de avanzar con la reforma laboral",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-trabaja-en-la-convocatoria-a-extraordinarias-con-la-expectativa-de-avanzar-con-la-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 00:01:00"
+        },
+        {
+          "titulo": "Los gremios rechazan la reforma laboral presentada en el Consejo de Mayo y aceleran alianzas con pymes",
+          "link": "https://www.ambito.com/politica/los-gremios-rechazan-la-reforma-laboral-presentada-el-consejo-mayo-y-aceleran-alianzas-pymes-n6218005",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 20:57:00"
+        },
+        {
+          "titulo": "Lucha por la reforma laboral: puntos más conflictivos que amenazan con trabar el proyecto",
+          "link": "https://www.iprofesional.com/politica/442771-reforma-laboral-6-puntos-mas-calientes-que-amenazan-con-trabar-el-proyecto",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-26 20:21:00"
+        },
+        {
+          "titulo": "La CGT y empresarios pyme avanzan en una agenda común ante las reformas del Gobierno",
+          "link": "https://www.perfil.com/noticias/economia/la-cgt-recibio-a-empresarios-pyme-para-acordar-una-agenda-en-comun-en-el-marco-de-las-reformas-del-gobierno.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 20:20:00"
+        },
+        {
+          "titulo": "Consejo de Mayo: Gerardo Martínez advirtió que \"no hay consenso\" para la reforma laboral del Gobierno",
+          "link": "https://www.ambito.com/politica/consejo-mayo-gerardo-martinez-advirtio-que-no-hay-consenso-la-reforma-laboral-del-gobierno-n6218029",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:07:00"
+        },
+        {
+          "titulo": "Manuel Adorni presidió el Consejo de Mayo en Casa Rosada: no logró acuerdo con la CGT",
+          "link": "https://www.minutouno.com/politica/manuel-adorni-presidio-el-consejo-mayo-casa-rosada-no-logro-acuerdo-la-cgt-n6218055",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 17:42:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Perfil",
+        "Minuto1",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "candidatura_rafael_grossi_20251127",
+      "tema": "Candidatura Rafael Grossi ONU",
+      "tema_normalizado": "candidatura rafael grossi onu",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina oficializó la candidatura de Rafael Grossi para el puesto de Secretario General de las Naciones Unidas.\n• Grossi, actual Director General del Organismo Internacional de Energía Atómica (OIEA), busca suceder a António Guterres.\n• La elección es para el período 2027-2031 y el proceso para encontrar al próximo titular de la ONU ya está en marcha.\n\n🔍 **Datos clave:**\n• **Candidato:** Rafael Grossi, diplomático argentino.\n• **Cargo actual:** Director General del OIEA desde 2019, reelecto en 2023.\n• **Cargo buscado:** Secretario General de la ONU para el período 2027-2031.\n• **Postulante:** Gobierno de Argentina (Javier Milei).\n• **Oficialización de candidatura:** Noviembre de 2025 por la Cancillería argentina.\n• **Trayectoria destacada:** Más de cuatro décadas como funcionario diplomático.\n• **Otro candidato argentino mencionado:** Virginia Gamba.\n\n⚡ **Desarrollo:**\n• Rafael Grossi es un politólogo de la UCA y diplomático de carrera, reconocido por su liderazgo en alta diplomacia y gestión de crisis nucleares, como el conflicto con Irán.\n• Su experiencia incluye haber sido embajador argentino en Austria y jefe de Gabinete en el OIEA antes de asumir su actual dirección.\n• La Cancillería argentina destacó su \"gran capacidad de liderazgo ante graves situaciones que afectan la paz y la seguridad internacional\" y su firme compromiso con la Carta de la ONU.\n• El gobierno argentino argumenta que su profundo conocimiento del sistema multilateral y su habilidad para promover el diálogo lo hacen un candidato de excelencia para los desafíos actuales.\n• Una tradición diplomática no escrita sugiere que el próximo Secretario General debería ser una mujer y provenir de América Latina, lo que suma un desafío a la candidatura de Grossi.\n• Las normativas de la ONU requieren que los funcionarios en ejercicio renuncien a sus cargos para competir por la Secretaría General, lo que obligaría a Grossi a dejar el OIEA si su candidatura avanza.\n• Grossi cuenta con el respaldo formal del gobierno de Milei y también ha recibido apoyo del gobierno de Italia para su postulación.\n\n💡 **¿Por qué importa?**\n• La elección del Secretario General es crucial para la dirección de la diplomacia global y la gestión de conflictos a nivel mundial.\n• La candidatura de Grossi resalta la presencia diplomática de Argentina y su apuesta por un liderazgo con vasta experiencia en seguridad y energía nuclear en la Organización de las Naciones Unidas.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Quiénes son los dos candidatos argentinos que compiten por ser el próximo Secretario General de la ONU",
+          "link": "https://www.perfil.com/noticias/politica/quienes-son-los-dos-candidatos-argentinos-que-compiten-por-ser-el-proximo-secretario-general-de-la-onu.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 20:21:00"
+        },
+        {
+          "titulo": "Argentina presentó a Rafael Grossi como candidato para el cargo de secretario general de la ONU",
+          "link": "https://www.minutouno.com/politica/argentina-presento-rafael-grossi-como-candidato-el-cargo-secretario-general-la-onu-n6218091",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 19:24:00"
+        },
+        {
+          "titulo": "Cancillería presentó oficialmente a Rafael Grossi como candidato a la Secretaría General de la ONU",
+          "link": "https://www.ambito.com/politica/cancilleria-presento-oficialmente-rafael-grossi-como-candidato-la-secretaria-general-la-onu-n6218076",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:54:00"
+        },
+        {
+          "titulo": "El Gobierno oficializó la candidatura de Rafael Grossi para la Secretaría General de las Naciones Unidas",
+          "link": "https://www.clarin.com/politica/gobierno-oficializo-candidatura-rafael-grossi-secretaria-general-naciones-unidas_0_FTXlzAZcmz.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-26 17:57:17"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_dolar_y_20251127",
+      "tema": "Cotización dólar y monedas extranjeras",
+      "tema_normalizado": "cotizacion dolar y monedas extranjeras",
+      "resumen": "📌 **¿Qué está pasando?**\n• El miércoles 26 de noviembre, las cotizaciones del dólar y otras divisas extranjeras en Argentina mostraron un panorama variado.\n• El dólar oficial continuó su tendencia alcista, mientras que el dólar blue cerró a la baja por segunda vez en la semana.\n• El euro y el real también presentaron sus valores en el mercado oficial y paralelo, reflejando las particularidades del sistema cambiario local.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (BCRA promedio):** $1.424,58 (compra) / $1.475,83 (venta). En Banco Nación: $1.425 (compra) / $1.475 (venta).\n• **Dólar Mayorista:** $1.453,5.\n• **Dólar Blue:** $1.430 (compra) / $1.450 (venta), con una baja de $10.\n• **Dólar Contado con Liquidación (CCL):** $1.532,66, con una brecha del 5,5% respecto al oficial.\n• **Dólar MEP:** $1.487,55, con una brecha del 2,4% respecto al oficial.\n• **Dólar Tarjeta/Turista:** $1.917,50, incluyendo un recargo del 30%.\n• **Dólar Cripto:** $1.519,10.\n• **Euro Oficial (BCRA promedio):** $1.619,96 (compra) / $1.712,67 (venta). En Banco Nación: $1.630 (compra) / $1.730 (venta).\n• **Euro Blue:** $1.729,75 (compra) / $1.761,75 (venta).\n• **Euro Tarjeta:** $2.217,93.\n• **Real Oficial:** $265 (compra) / $280 (venta).\n• **Real Blue:** $265,75 (compra) / $276,75 (venta).\n• **Reservas Brutas Internacionales BCRA:** u$s41.901 millones, con un aumento de u$s717 millones en el día.\n\n⚡ **Desarrollo:**\n• En Argentina, la coexistencia de múltiples tipos de cambio se debe a las restricciones del Banco Central (BCRA) y a la dinámica de oferta y demanda en los mercados informales.\n• El dólar blue, operando fuera del circuito bancario, es una referencia importante para quienes buscan proteger sus ahorros frente a la inflación y las devaluaciones.\n• Los dólares financieros (MEP y CCL) permiten el acceso a divisas de forma legal mediante la compra-venta de activos, con sus propias cotizaciones y brechas respecto al oficial.\n• El dólar tarjeta incluye impuestos adicionales para gastos en el exterior, haciendo que su valor sea considerablemente más alto que el oficial minorista.\n• La capacidad del BCRA para gestionar sus reservas internacionales es clave para contener las presiones cambiarias y moderar la brecha entre los diferentes tipos de dólar.\n• La jornada también estuvo marcada por la expectativa de una licitación de deuda del Tesoro, un evento crucial para el refinanciamiento de compromisos y la estabilidad económica.\n\n💡 **¿Por qué importa?**\n• Las variaciones en las cotizaciones impactan directamente en la vida económica de los ciudadanos, desde los precios de productos importados hasta el poder de ahorro.\n• La dinámica compleja de los múltiples tipos de cambio y sus brechas son un indicador de la situación económica del país y generan incertidumbre en los mercados financieros.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-26-noviembre-n6217664",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:52:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-miercoles-26-noviembre-n6218083",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:52:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-26-noviembre-n6217772",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:50:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-26-noviembre-n6217732",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 18:43:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cerró este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-26-noviembre-n6218058",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 17:54:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 26 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-26-noviembre-n6217661",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 17:42:00"
+        },
+        {
+          "titulo": "El dólar blue cerró a la baja por segunda vez en cuatro ruedas",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-cerro-la-baja-segunda-vez-cuatro-ruedas-n6218040",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 17:24:00"
+        },
+        {
+          "titulo": "El dólar volvió a subir y se acercó al techo de la banda: señales que encienden alarmas en la City",
+          "link": "https://www.iprofesional.com/finanzas/442733-dolar-bajo-presion-las-reservas-vuelven-a-caer-y-el-mercado-teme-por-un-salto-inminente",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-26 16:40:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 26 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-26-noviembre-n6217702",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 16:36:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy miércoles 26 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-miercoles-26-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 16:15:47"
+        },
+        {
+          "titulo": "El dólar oficial subió por quinta rueda consecutiva y quedó a menos de 4% del techo de la banda",
+          "link": "https://www.ambito.com/finanzas/el-dolar-se-recalienta-el-cierre-del-mes-y-la-espera-una-licitacion-clave-n6217736",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 15:45:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "condena_corrupcion_expresidente_20251127",
+      "tema": "Condena corrupción expresidente Martín Vizcarra",
+      "tema_normalizado": "condena corrupcion expresidente martin vizcarra",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El expresidente peruano Martín Vizcarra fue condenado a 14 años de prisión por delitos de corrupción.\n*   La sentencia lo halló culpable de recibir sobornos cuando ejercía como gobernador del departamento de Moquegua.\n*   Vizcarra ha negado los cargos, calificando la decisión judicial como una \"venganza\" política.\n\n🔍 **Datos clave:**\n*   **Condena:** 14 años de prisión.\n*   **Delito:** Cohecho pasivo propio (aceptación de sobornos).\n*   **Monto de sobornos:** Equivalente a 676.000 dólares.\n*   **Cargos ejercidos durante los sobornos:** Gobernador de Moquegua (2011-2014).\n*   **Proyectos implicados:** Irrigación Lomas de Ilo y construcción del Hospital de Moquegua.\n*   **Reparación civil:** $692.763 dólares (impuesta a Vizcarra y empresas).\n*   **Inhabilitación política:** 9 años adicionales para ejercer cargos públicos.\n*   **Periodo presidencial de Vizcarra:** 2018-2020.\n\n⚡ **Desarrollo:**\n*   La sentencia establece que Martín Vizcarra recibió pagos de empresas constructoras a cambio de la adjudicación de dos obras públicas cuando era gobernador regional.\n*   La jueza Fernanda Ayasta del Cuarto Juzgado Penal Colegiado Nacional enfatizó que el exmandatario aprovechó su cargo para condicionar a los postores.\n*   Vizcarra, de 62 años, mantuvo su inocencia durante el juicio, alegando ser víctima de persecución política y cuestionando la solidez de las pruebas.\n*   Esta condena se suma a previas inhabilitaciones políticas, incluyendo una de 10 años por el caso \"Vacunagate\", lo que ha impedido su participación en cargos públicos desde 2021.\n*   La inhabilitación de 9 años significa un golpe definitivo a sus aspiraciones políticas, impidiéndole ejercer hasta los 84 años.\n*   Martín Vizcarra se une a una extensa lista de expresidentes peruanos procesados o condenados por corrupción, como Alejandro Toledo, Ollanta Humala y Pedro Castillo.\n*   Simpatizantes del expresidente se congregaron en apoyo, denunciando una sentencia injusta que busca sacarlo de la carrera electoral de 2026.\n*   Su hermano, Mario Vizcarra, se postulará a las elecciones presidenciales de 2026, con el expresidente como asesor principal.\n\n💡 **¿Por qué importa?**\n*   Este fallo refuerza la percepción de una profunda crisis de corrupción en la política peruana, con múltiples expresidentes enfrentando la justicia por delitos similares.\n*   La condena impacta el panorama político del país, eliminando una figura relevante de futuras contiendas electorales y alimentando el debate sobre la independencia judicial y la persecución política.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Condenan a 14 años de cárcel por corrupción al expresidente peruano Martín Vizcarra",
+          "link": "https://www.lanacion.com.ar/el-mundo/condenan-a-14-anos-de-carcel-por-corrupcion-al-expresidente-peruano-martin-vizcarra-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-26 19:59:38"
+        },
+        {
+          "titulo": "Perú: el expresidente Martín Vizcarra fue condenado a 14 años de prisión por sobornos",
+          "link": "https://www.ambito.com/mundo/peru-el-expresidente-martin-vizcarra-fue-condenado-14-anos-prision-sobornos-n6218088",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 19:34:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "mercado_laboral_argentino_20251127",
+      "tema": "Mercado laboral argentino y empleo",
+      "tema_normalizado": "mercado laboral argentino y empleo",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado laboral argentino se caracteriza por una creciente precarización e informalidad en nuevas modalidades como el trabajo en apps de delivery.\n• Simultáneamente, las empresas formales enfrentan altos costos por juicios laborales, mientras que los empleados demandan cada vez más flexibilidad y beneficios.\n\n🔍 **Datos clave:**\n• **Informalidad:** Alcanza el 43.2% de los trabajadores (Q2 2023, INDEC EPH), lo que representa a 5.527 millones de personas sin derechos laborales.\n• **Trabajo en apps:** El 90% de estos trabajadores opera part-time; los repartidores eventuales (hasta 80 órdenes mensuales) aumentaron al 67-68% en 2023.\n• **Flexibilidad laboral:** El 63.5% de los empleados prefiere el formato híbrido, y menos del 30% trabaja de forma 100% presencial.\n• **Costos laborales:** Juicios con sentencias que superan los $200 millones para Piegari y más de $1.500 millones para Manaos, calculados con altas tasas de interés (UVA).\n\n⚡ **Desarrollo:**\n• El trabajo en apps de delivery ofrece ingresos potencialmente más altos que un salario formal, pero carece de derechos esenciales como licencias, cobertura por accidentes o espacios de descanso, promoviendo la autoexplotación.\n• Empresas como Rappi solicitan el registro en monotributo sin exigir factura, mientras que PedidosYa sí la requiere. La ASiMM denuncia que PedidosYa pasó de 2.500 a solo 50 trabajadores formales.\n• En el sector formal, el restaurante Piegari (con más de 30 años y 100 empleados) y la empresa Manaos enfrentan la amenaza de cierres por fallos laborales multimillonarios.\n• Estas condenas, por despido o falencias de registración, son consideradas por los empleadores como \"arbitrarias\" y \"abusivas\" debido a los índices y actualizaciones aplicados.\n• Según el informe de Great Place to Work y HIT, los empleados exigen hoy mayor flexibilidad en horarios y modalidades de trabajo (híbrida), así como beneficios personalizados y la posibilidad de hablar de salud mental sin estigma.\n• La autonomía para definir el esquema de presencialidad se traduce en mayores niveles de satisfacción y menor rotación, consolidando el formato híbrido como el predominante post-pandemia.\n\n💡 **¿Por qué importa?**\n• La precarización de las nuevas modalidades de empleo y los elevados costos de los juicios laborales plantean desafíos cruciales para la sostenibilidad del mercado y la protección de los trabajadores en Argentina.\n• Las demandas crecientes de flexibilidad y bienestar por parte de los empleados obligan a las empresas a innovar en sus modelos de contratación y gestión para retener talento y asegurar la productividad.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Crece el trabajo en apps de delivery: ingresos más altos que asalariados, pero sin lugares de descanso y con alta precarización",
+          "link": "https://www.ambito.com/economia/crece-el-trabajo-apps-delivery-ingresos-mas-altos-que-asalariados-pero-lugares-descanso-y-alta-precarizacion-n6217648",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 21:15:00"
+        },
+        {
+          "titulo": "El dueño de un emblemático restaurante porteño dice que debe cerrar por un juicio laboral",
+          "link": "https://www.perfil.com/noticias/economia/el-dueno-de-un-emblematico-restaurante-porteno-dice-que-debe-cerrar-por-un-juicio-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 19:58:00"
+        },
+        {
+          "titulo": "Desafíos del mercado laboral: empleados exigen más flexibilidad y beneficios personalizados",
+          "link": "https://www.ambito.com/economia/desafios-del-mercado-laboral-empleados-exigen-mas-flexibilidad-y-beneficios-personalizados-n6217957",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 16:48:00"
+        },
+        {
+          "titulo": "Manaos abrió una nueva búsqueda de empleados: para qué puestos y qué tener en cuenta al mandar el CV",
+          "link": "https://www.iprofesional.com/economia/442673-manaos-busca-empleados-noviembre-2025-que-puestos-quiere-cubrir-como-postularse",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-26 16:30:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caida_de_ventas_20251127",
+      "tema": "Caída de ventas y consumo masivo",
+      "tema_normalizado": "caida de ventas y consumo masivo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las ventas en supermercados y mayoristas experimentaron una caída significativa en septiembre de 2025, según informó el INDEC.\n• Esto refleja un marcado retroceso en el consumo masivo y una contracción del mercado interno.\n• El sector mayorista registró el mayor desplome, mientras que los supermercados acumulan seis meses consecutivos de bajas en sus ventas.\n\n🔍 **Datos clave:**\n• **Ventas Mayoristas (Septiembre 2025):** Caída interanual del 13,1% a precios constantes; retroceso mensual del 5,2%.\n• **Ventas Supermercados (Septiembre 2025):** Caída interanual del 0,8% a precios constantes; descenso mensual del 0,2%.\n• **Acumulado Ene-Sep 2025:** Mayoristas -7,4%; Supermercados +2,7% (aunque la tendencia mensual es negativa).\n• **Inflación interanual (Septiembre):** 31,8%, superando los aumentos nominales de ventas.\n• **Artículos con mayores aumentos (Supermercados):** \"Indumentaria, calzado y textiles para el hogar\" (+53,4%), \"Carnes\" (+45,2%).\n• **Artículos con mayores aumentos (Mayoristas):** \"Carnes\" (+29,9%), \"Panadería\" (+15,6%).\n• **Principal medio de pago (Supermercados):** Tarjetas de crédito (44,1%).\n\n⚡ **Desarrollo:**\n• El informe del INDEC pone de manifiesto un panorama económico restrictivo que limita el poder adquisitivo de los consumidores.\n• La caída en mayoristas es la peor en lo que va de 2025, señalando un impacto significativo en la cadena de distribución y acopio.\n• Aunque la baja en supermercados es menor en términos interanuales, la continuidad de las caídas mensuales muestra un desgaste sostenido en el consumo cotidiano.\n• Los incrementos nominales de las ventas (7,9% en mayoristas y 23,8% en supermercados) quedan opacados por la alta inflación, indicando una pérdida de poder de compra real.\n• El encarecimiento de bienes esenciales como las carnes y la indumentaria presiona aún más los bolsillos de los hogares.\n• Expertos como CEPEC indican que la caída es estructural, afectando tanto bienes esenciales como gastos discrecionales, lo que limita la recuperación.\n\n💡 **¿Por qué importa?**\n• La persistente caída en las ventas y el consumo masivo es un claro indicador de desaceleración económica y pérdida de poder adquisitivo, afectando directamente la calidad de vida de los ciudadanos.\n• Esta situación impacta negativamente en la producción, el empleo y la viabilidad de las empresas comerciales y de distribución, generando incertidumbre en el mercado.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El derrumbe del consumo: caída fuerte en mayoristas y señales de alerta en supermercados",
+          "link": "https://www.minutouno.com/economia/el-derrumbe-del-consumo-caida-fuerte-mayoristas-y-senales-alerta-supermercados-n6218061",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-26 18:04:00"
+        },
+        {
+          "titulo": "Las ventas en supermercados y mayoristas cayeron en septiembre, informó el INDEC",
+          "link": "https://www.perfil.com/noticias/economia/las-ventas-en-supermercados-y-mayoristas-cayeron-en-septiembre-informo-el-indec.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 17:01:00"
+        },
+        {
+          "titulo": "El consumo masivo no levanta: ventas en supermercados cayeron por sexto mes consecutivo en septiembre",
+          "link": "https://www.ambito.com/economia/el-consumo-no-levanta-ventas-supermercados-cayeron-sexto-mes-consecutivo-septiembre-n6218020",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 16:34:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "record_de_depositos_20251127",
+      "tema": "Récord de depósitos en dólares",
+      "tema_normalizado": "record de depositos en dolares",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Los depósitos bancarios en dólares en Argentina han alcanzado un nuevo récord histórico, llegando a u$s35.524 millones.\n*   Este monto representa el nivel más alto registrado desde la salida de la convertibilidad, marcando un hito en el sistema financiero.\n*   El crecimiento de estas colocaciones en moneda extranjera ocurre mientras los depósitos en pesos han mostrado un retroceso.\n\n🔍 **Datos clave:**\n*   **Depósitos en dólares récord:** u$s35.524 millones.\n*   **Fecha de referencia (depósitos en pesos):** Al 18 de noviembre.\n*   **Depósitos en pesos:** Retrocedieron a $94 billones, desde un pico anterior de $100 billones.\n*   **Aumento en octubre (dólares):** Cerca de u$s1.200 millones.\n*   **Retiro de fondos bancarios:** Solo u$s570 millones habrían salido del sistema, según LCG.\n*   **Caída crédito en dólares (octubre):** Reducción de u$s640 millones.\n*   **Emisiones ON noviembre:** Más de u$s3.600 millones (corporativas) y u$s600 millones (Ciudad de Buenos Aires).\n\n⚡ **Desarrollo:**\n*   El significativo aumento de depósitos en dólares se explica en parte por la habitual dolarización de activos que suele ocurrir antes de las elecciones, buscando cobertura.\n*   A diferencia de procesos electorales anteriores, la mayor parte de esos fondos permaneció dentro del sistema financiero, lo que se considera un dato positivo.\n*   Otro factor que contribuyó al incremento podría ser la compra de divisas para gastos de turismo y servicios, que se canalizan a través del mercado formal.\n*   El economista Amilcar Collante también destacó que las recientes emisiones de Obligaciones Negociables (ON) por parte de empresas y de la Ciudad de Buenos Aires influyeron en este repunte.\n*   Un blanqueo fiscal impulsado por el Gobierno a fines de 2024 ya había generado un fuerte crecimiento de estas colocaciones en moneda dura.\n*   En contraste con el récord de depósitos, los préstamos al sector privado en dólares se redujeron en u$s640 millones en octubre, revirtiendo una tendencia de 17 meses de subas consecutivas.\n*   Paralelamente, los depósitos del Tesoro Nacional en el Banco Central están en mínimos del año, debido a que esos recursos fueron destinados a pagos de deuda y a intervenir en el mercado cambiario oficial.\n*   Mientras tanto, el crédito en pesos al sector privado mostró un ligero incremento real del 1,1% en octubre, impulsado principalmente por préstamos comerciales de corto plazo.\n\n💡 **¿Por qué importa?**\n*   El récord de depósitos en dólares refleja la persistente búsqueda de los ahorristas por resguardar el valor de sus activos frente a la incertidumbre económica del país.\n*   Es relevante que estos fondos permanezcan en el sistema bancario, lo que muestra cierta confianza, aunque la caída de los créditos en dólares y el retroceso de depósitos en pesos señalan desequilibrios en la economía.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Depósitos en dólares alcanzaron nuevo récord y tocaron máximos desde la salida de la convertibilidad",
+          "link": "https://www.iprofesional.com/economia/442760-depositos-en-dolares-alcanzaron-nuevo-record-desde-salida-de-convertibilidad",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-26 16:54:00"
+        },
+        {
+          "titulo": "Los depósitos en dólares tocaron un nuevo récord, por encima de los u$s35.500 millones",
+          "link": "https://www.ambito.com/economia/los-depositos-dolares-tocaron-un-nuevo-record-encima-los-us35500-millones-n6217994",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 16:29:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "proyecto_ley_eutanasia_20251127",
+      "tema": "Proyecto ley eutanasia en Argentina",
+      "tema_normalizado": "proyecto ley eutanasia en argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diputados nacionales de la Unión Cívica Radical (UCR) presentaron un Proyecto de Ley para regular la eutanasia en Argentina.\n• La iniciativa busca establecer un marco legal que garantice a personas con enfermedades graves o padecimientos crónicos el derecho a solicitar asistencia médica para finalizar su vida en condiciones de dignidad.\n• Este proyecto se apoya en legislaciones previas como la Ley de Derechos del Paciente y la Ley de Muerte Digna, que ya reconocen la autonomía de la voluntad.\n\n🔍 **Datos clave:**\n• **Impulsor principal:** Diputado Lisandro Nieri (UCR, por Mendoza).\n• **Leyes vigentes relacionadas:** Ley N° 26.529 (Derechos del Paciente) y Ley N° 26.742 (Muerte Digna).\n• **Modificaciones propuestas:** Inclusión de los artículos 83 bis y 83 ter en el Código Penal.\n• **Países de inspiración:** Canadá, España y Uruguay.\n• **Uruguay:** Se convirtió en el primer país de Sudamérica en aprobar una ley de eutanasia por vía parlamentaria (en octubre de 2025).\n\n⚡ **Desarrollo:**\n• El proyecto busca legalizar la eutanasia activa, permitiendo la ayuda médica directa para poner fin a la vida, diferenciándose de la \"muerte digna\" ya establecida, que permite rechazar tratamientos.\n• Contempla estrictas garantías para el paciente, como la intervención de comisiones médicas específicas y la necesidad de un consentimiento informado.\n• La decisión de solicitar la eutanasia podrá ser revocada en cualquier momento del proceso.\n• Para los profesionales de la salud, la ley busca otorgar seguridad jurídica al excluir de responsabilidad penal a los médicos que actúen conforme a los procedimientos establecidos.\n• El proyecto también prevé sanciones para quienes obstaculicen injustificadamente el acceso a esta práctica y garantiza la cobertura integral por el sistema de salud.\n• El diputado Nieri afirmó que el objetivo es humanizar el final de la vida, ofreciendo certeza a profesionales y familias.\n\n💡 **¿Por qué importa?**\n• La posible legalización de la eutanasia en Argentina representaría un avance significativo en los derechos individuales y la autonomía del paciente.\n• Permitiría a las personas decidir sobre el final de su vida, en situaciones de sufrimiento extremo, garantizando una muerte digna y segura para pacientes y médicos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La UCR impulsa la regulación de la eutanasia en Argentina para garantizar una muerte \"en condiciones de dignidad\"",
+          "link": "https://www.perfil.com/noticias/politica/la-ucr-impulsa-la-regulacion-de-la-eutanasia-en-argentina-para-garantizar-una-muerte-en-condiciones-de-dignidad.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-26 18:24:00"
+        },
+        {
+          "titulo": "Presentan en Diputados un proyecto para regular la eutanasia en la Argentina",
+          "link": "https://www.ambito.com/politica/presentan-diputados-un-proyecto-regular-la-eutanasia-la-argentina-n6218036",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-26 17:11:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
