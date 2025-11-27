@@ -1,26 +1,143 @@
 {
   "fecha": "2025-11-27",
-  "fecha_generacion": "2025-11-27T18:25:10.001129",
+  "fecha_generacion": "2025-11-27T21:20:10.603910",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "causa_cuadernos:_acusaciones_20251127",
-      "tema": "Causa Cuadernos: Acusaciones y Críticas",
-      "tema_normalizado": "causa cuadernos: acusaciones y criticas",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Causa Cuadernos investiga un supuesto sistema de recaudación ilegal de sobornos pagados por empresarios a funcionarios del gobierno entre 2003 y 2015.\n• Cristina Kirchner, expresidenta, ha sido señalada por la fiscalía como la \"jefa de la asociación ilícita\" y \"destinataria final\" de estos fondos.\n• El juicio oral está en curso, con lecturas de la acusación que detallan el mecanismo y los lugares de entrega del dinero.\n\n🔍 **Datos clave:**\n• **2003-2015:** Periodo en que se habrían realizado los pagos de sobornos.\n• **127 sobornos:** Número total de coimas que se acusa a empresarios de pagar.\n• **38 sobornos:** Cantidad de pagos que tuvieron como destino final domicilios vinculados a Cristina Kirchner.\n• **Oscar Centeno:** Ex chofer cuyas anotaciones de viajes con dinero iniciaron la causa.\n• **Cristina Kirchner:** Acusada de ser la \"destinataria final\" y \"jefa de la asociación ilícita\".\n• **Carlos Stornelli y Diego Luciani:** Fiscales clave en la acusación y las críticas al sistema.\n\n⚡ **Desarrollo:**\n• La fiscalía sostiene que Cristina Kirchner detentó un rol activo y fue la única con capacidad real para decidir sobre el destino de gran parte del dinero recaudado ilegalmente.\n• El sistema de recaudación ilegal operó desde la cúspide del Poder Ejecutivo Nacional, con pagos que comenzaban en empresas y terminaban en domicilios oficiales o privados.\n• Se describe que los \"paquetes chicos\" de dinero eran llevados a la Casa de Gobierno, mientras que los \"grandes\" tenían como destino el departamento de Juncal y Uruguay de la exmandataria.\n• Otros lugares de entrega mencionados incluyen la Quinta de Olivos y la casa de los Kirchner en Río Gallegos, donde se habrían guardado fondos en bóvedas.\n• Testimonios de arrepentidos, como el financista Ernesto Clarens y los exfuncionarios Claudio Uberti y José López, corroboran las entregas y la existencia de valijas con millones de dólares.\n• El fiscal Diego Luciani ha criticado la \"resistencia del poder\" al ser juzgado, denunciando presiones, amenazas e intentos de \"colonización de la Justicia\" para evitar condenas por corrupción.\n\n💡 **¿Por qué importa?**\n• Este caso representa una de las investigaciones más importantes sobre corrupción pública en Argentina, involucrando a figuras de alto nivel político y empresarial.\n• Subraya los desafíos del sistema judicial frente a acusaciones de corrupción en el poder, evidenciando la complejidad de perseguir y condenar estos delitos.",
-      "cantidad_noticias": 3,
+      "tema_id": "dolar_y_cotizaciones_20251127",
+      "tema": "Dólar y Cotizaciones Noviembre",
+      "tema_normalizado": "dolar y cotizaciones noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los dólares cotizaron a la baja y el dólar blue se posicionó como el más barato del mercado este jueves 27 de noviembre.\n• Las acciones bursátiles, por su parte, continuaron registrando subas, impulsadas por una exitosa colocación de deuda del Tesoro.\n\n🔍 **Datos clave:**\n• **Fecha principal:** Jueves 27 de noviembre.\n• **Dólar Blue (venta):** $1440 (retrocedió $10).\n• **Dólar Oficial (minorista BNA venta):** $1475.\n• **Dólar Oficial (mayorista cierre):** $1450.\n• **Dólar MEP (cierre):** $1481,82.\n• **Dólar CCL (cierre):** $1526,48.\n• **Merval (Bolsa porteña):** Subió 1,15%.\n• **Refinanciación de deuda del Tesoro:** 96,5% (sobre $14 billones).\n• **Reservas Brutas del BCRA:** US$41.901 millones (aumento de US$717 millones).\n• **Proyección de exportaciones agrícolas:** Aumento de US$1400 millones.\n\n⚡ **Desarrollo:**\n• La jornada se caracterizó por un volumen reducido de operaciones y la ausencia de referencias externas debido al feriado de Acción de Gracias en Estados Unidos.\n• El dólar oficial cayó tras cinco días consecutivos de alzas, influenciado por la calma generada tras una licitación clave del Tesoro.\n• El Tesoro logró refinanciar el 96,5% de sus vencimientos de deuda por $14 billones, un resultado positivo atribuido también a la flexibilización de encajes por parte del BCRA.\n• El Banco Central (BCRA) había reducido la tasa de referencia al 20% y ajustado normas de encaje, contribuyendo a la favorable colocación de deuda.\n• El dólar blue registró una caída de $10 y se ubicó en $1440 para la venta, resultando más barato que el dólar mayorista.\n• Los tipos de cambio financieros como el MEP y el CCL también mostraron ligeras bajas o estabilidad.\n• La Bolsa porteña (S&P Merval) continuó en terreno positivo con una suba del 1,15%, destacándose acciones de bancos y energéticas.\n• Las reservas brutas del BCRA aumentaron US$717 millones, alcanzando US$41.901 millones, en parte por una colocación internacional de CABA de US$600 millones.\n• Hay perspectivas favorables para la próxima cosecha agrícola, que podría generar US$1400 millones adicionales en exportaciones por el buen precio de la soja y una proyección de 47 millones de toneladas.\n\n💡 **¿Por qué importa?**\n• La caída de los dólares paralelos y la suba de la bolsa reflejan una mejora momentánea en el clima de confianza del mercado.\n• El ingreso proyectado de divisas por el sector agropecuario es una noticia clave para el gobierno, buscando fortalecer las reservas del BCRA que se encuentran en niveles muy bajos.",
+      "cantidad_noticias": 14,
       "noticias": [
+        {
+          "titulo": "Feriado en EE.UU. El blue ya es el dólar más barato del mercado y la Bolsa porteña volvió a subir",
+          "link": "https://www.lanacion.com.ar/economia/dolar/feriado-en-eeuu-el-dolar-blue-se-vuelve-la-cotizacion-mas-barata-del-mercado-y-la-bolsa-portena-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 18:02:03"
+        },
+        {
+          "titulo": "A cuánto cotizó el dólar este jueves 27 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-27-de-noviembre-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 17:56:05"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-27-noviembre-n6218168",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 17:44:00"
+        },
+        {
+          "titulo": "Dólar: la noticia favorable que llega del campo y genera sonrisas en el Gobierno",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-la-noticia-favorable-que-llega-del-campo-y-genera-sonrisas-en-el-gobierno-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 17:27:24"
+        },
+        {
+          "titulo": "El dólar oficial cayó tras cinco días al alza ante un mercado reducido por el feriado en EEUU",
+          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-quedar-el-foco-cinco-subas-seguidas-y-hay-expectativa-el-impacto-la-licitacion-n6218174",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:44:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-27-noviembre-n6218374",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:33:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-jueves-27-noviembre-n6218435",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:32:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-27-noviembre-n6218110",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:24:00"
+        },
+        {
+          "titulo": "El dólar blue retrocedió $10 y encadenó su segunda caída consecutiva",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-retrocedio-10-y-encadeno-su-segunda-caida-consecutiva-n6218423",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:08:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-27-noviembre-n6218109",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 15:57:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-27-noviembre-n6218108",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 15:51:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy jueves 27 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-jueves-27-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:12:32"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue este jueves 27 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-jueves-27-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:00:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 27 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-27-noviembre-n6218092",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 11:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Perfil",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caso_cuadernos:_avances_20251127",
+      "tema": "Caso Cuadernos: Avances Judiciales",
+      "tema_normalizado": "caso cuadernos: avances judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Corte Suprema de Justicia rechazó recursos de empresarios en el Caso Cuadernos que buscaban que sus pagos fueran considerados aportes de campaña y no sobornos.\n• La fiscalía acusó formalmente a la expresidenta Cristina Kirchner de ser la \"destinataria final\" de las coimas en el marco del juicio oral.\n• Uno de los jueces del tribunal a cargo del juicio, Germán Castelli, solicitó una subrogación en otro juzgado, generando debate sobre el ritmo del proceso.\n\n🔍 **Datos clave:**\n• **Empresarios rechazados:** Hugo Dragonetti, Jorge Mauricio Balán, Armando Loson, Angelo Calcaterra, entre otros.\n• **Casos que pasaron a justicia electoral:** Manuel Santos Uribellarrea, Alejandro Ivanissevich y Hugo Eurnekian.\n• **Tribunal a cargo:** Tribunal Oral Federal N°7 (TOF 7), con los jueces Enrique Méndez Signori, Fernando Canero y Germán Castelli.\n• **Imputados en juicio:** 87 personas, incluyendo Cristina Kirchner, y más de 600 testigos.\n• **Inicio del juicio oral:** 6 de noviembre pasado, con audiencias semanales virtuales.\n• **Fiscales clave:** Carlos Stornelli (Caso Cuadernos) y Diego Luciani (Caso Vialidad).\n\n⚡ **Desarrollo:**\n• La Corte Suprema, con la firma de Rosatti, Rosenkrantz y Lorenzetti, desestimó los recursos de los empresarios porque no se dirigían contra una sentencia definitiva o equiparable.\n• Esta decisión ratifica que los pagos en cuestión deben ser juzgados como cohecho y no como simples aportes de campaña.\n• La fiscalía sostuvo que Cristina Kirchner recibió sumas de dinero en sus domicilios (calle Uruguay, Olivos, Casa de Gobierno) y fue la \"principal receptora\" de los sobornos.\n• La acusación describe a Roberto Baratta como comunicador y receptor inicial, Héctor Daniel Muñoz como intermediario, y Cristina Fernández como la destinataria final de los fondos.\n• Se argumenta que la expresidenta tenía la capacidad real y efectiva para decidir cómo y qué hacer con la mayoría del dinero entregado por los privados.\n• El juez Germán Castelli solicitó una subrogación en el Tribunal Oral Criminal Federal N°6, lo que implica un 33% más de sueldo, en un contexto donde el TOF 7 había justificado el lento ritmo del juicio por sobrecarga de trabajo.\n• La Cámara Federal de Casación había instado a los jueces del TOF 7 a acelerar el proceso, que actualmente avanza con una única audiencia semanal por Zoom.\n• El fiscal Diego Luciani (Vialidad) destacó que la Justicia impidió que políticos se \"refugiaran en los fueros\", en referencia a la resistencia del poder frente a los juicios por corrupción.\n\n💡 **¿Por qué importa?**\n• El rechazo de la Corte refuerza la consideración de los pagos como coimas, consolidando la seriedad de las acusaciones por corrupción en el caso.\n• La acusación formal a Cristina Kirchner como \"destinataria final\" y el avance del juicio oral son pasos clave en la determinación de responsabilidades en una de las causas de corrupción más importantes.\n• La dinámica del juicio y las solicitudes de los jueces reflejan los desafíos en la gestión de causas de alta complejidad y repercusión pública, que buscan transparencia y celeridad judicial.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Caso Cuadernos: la Corte rechazó planteos de empresarios que alegaron que no pagaron coimas sino aportes de campaña",
+          "link": "https://www.lanacion.com.ar/politica/caso-cuadernos-la-corte-rechazo-planteos-de-empresarios-que-alegaron-que-no-pagaron-coimas-sino-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 17:46:34"
+        },
+        {
+          "titulo": "Uno de los jueces del caso de los Cuadernos pidió ser suplente en otro tribunal oral",
+          "link": "https://www.lanacion.com.ar/politica/uno-de-los-jueces-del-caso-de-los-cuadernos-pidio-ser-suplente-en-otro-tribunal-oral-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 16:39:06"
+        },
+        {
+          "titulo": "Cuadernos: Cristina Kirchner era la \"destinataria final\" de las coimas, según sostuvo la fiscalía",
+          "link": "https://www.iprofesional.com/politica/442837-cuadernos-cristina-kirchner-era-destinataria-final-de-coimas-segun-fiscalia",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:39:00"
+        },
         {
           "titulo": "Juicio Cuadernos: \"Cristina Kirchner era la destinataria final de los sobornos, se benefició con ellos\"",
           "link": "https://www.clarin.com/politica/juicio-cuadernos-cristina-kirchner-destinataria-final-sobornos-beneficio_0_SnO7i3N9eX.html",
           "fuente": "Clarín",
           "fecha": "2025-11-27 14:37:10"
-        },
-        {
-          "titulo": "Cuadernos, quinta audiencia: se completa la acusación contra los empresarios por el pago de 127 sobornos: dicen que se entregaron en la casa de Cristina Kirchner",
-          "link": "https://www.lanacion.com.ar/politica/cuadernos-quinta-audiencia-se-completa-la-acusacion-contra-los-empresarios-por-el-pago-de-127-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 14:00:12"
         },
         {
           "titulo": "Diego Luciani, el fiscal de la causa en la que fue condena Cristina Kirchner, criticó a la ex presidenta: \"La Justicia impidió que se refugiara en los fueros\"",
@@ -33,6 +150,7 @@
       "fecha_deteccion": "2025-11-27",
       "fuentes": [
         "La Nación",
+        "iProfesional",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -41,124 +159,56 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "dolar_y_cotizaciones_20251127",
-      "tema": "Dólar y Cotizaciones Noviembre",
-      "tema_normalizado": "dolar y cotizaciones noviembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El jueves 27 de noviembre, las distintas cotizaciones del dólar en Argentina mostraron un panorama mixto, con una tendencia a la baja en varios segmentos.\n• El mercado local operó con menor volumen y sin la referencia habitual de Wall Street debido al feriado de Acción de Gracias en Estados Unidos.\n• En este contexto particular, el dólar blue se posicionó como la cotización más económica disponible en el mercado.\n\n🔍 **Datos clave:**\n• **Fecha:** Jueves 27 de noviembre.\n• **Dólar Oficial (Banco Nación venta):** $1.475.\n• **Dólar Blue (venta):** Cerró en $1.440, registrando una baja de $15 durante la jornada.\n• **Dólar Mayorista:** Cerró en $1.453,50.\n• **Dólar MEP:** Cotizó a $1.481,20, con una caída del 0,4%.\n• **Dólar CCL:** Cotizó a $1.523,05, retrocediendo un 0,6%.\n• **Dólar Tarjeta:** Se ubicó en $1.917,50.\n• **Euro Blue (venta):** $1.749,75.\n• **Real Blue (venta):** $274,75.\n• **S&P Merval:** Avanzó 1%, alcanzando las 3.014.930 unidades.\n• **Reservas del BCRA:** Aumentaron u$s717 millones, llegando a u$s41.901 millones.\n• **Licitación de Deuda:** El Tesoro renovó el 96,48% de vencimientos (aproximadamente $13,99 billones) con tasas cercanas al 35%.\n\n⚡ **Desarrollo:**\n• El feriado del Día de Acción de Gracias en Estados Unidos restringió las operaciones, lo que llevó a un mercado reducido y sin referencias externas.\n• El dólar oficial, que venía de cinco días de subas, experimentó una caída impulsada por una exitosa licitación de deuda del Tesoro argentino.\n• El Tesoro logró refinanciar casi la totalidad de sus vencimientos, generando un clima de mayor tranquilidad en el ámbito cambiario.\n• La cotización del dólar blue mostró una baja significativa, situándose incluso por debajo del dólar mayorista y convirtiéndose en la opción más barata.\n• La estabilidad o baja de las cotizaciones se vio favorecida por una menor demanda estacional de pesos y una mayor oferta de dólares en el mercado oficial.\n• Un considerable ingreso de divisas (más de u$s4.000 millones en noviembre) por emisiones de deuda corporativa y provincial también contribuyó a la calma.\n• La Bolsa porteña (S&P Merval) mantuvo una tendencia positiva, con subas destacadas en acciones como Banco de Valores, Central Puerto e Irsa.\n• Además de las distintas versiones del dólar, se informaron las cotizaciones del Euro y el Real, tanto en el mercado oficial como en el \"blue\".\n\n💡 **¿Por qué importa?**\n• La estabilidad o baja de las cotizaciones del dólar, especialmente la del blue, en un día de menor actividad global, indica una reducción en la presión cambiaria.\n• El éxito en la refinanciación de la deuda y el incremento de las reservas del Banco Central son señales positivas que pueden fortalecer la confianza en la gestión económica.",
-      "cantidad_noticias": 9,
+      "tema_id": "tiroteo_washington_d.c._20251127",
+      "tema": "Tiroteo Washington D.C.",
+      "tema_normalizado": "tiroteo washington d.c.",
+      "resumen": "📌 **¿Qué está pasando?**\n• El 26 de noviembre de 2025, dos miembros de la Guardia Nacional fueron baleados y heridos de gravedad en una emboscada cerca de la Casa Blanca en Washington D.C.\n• El atacante fue identificado como Rahmanullah Lakanwal, un ciudadano afgano, quien presuntamente usó un potente revólver .357 Magnum.\n• El FBI está investigando este \"atroz acto de terrorismo\", aunque no se ha establecido un motivo claro para el ataque.\n\n🔍 **Datos clave:**\n• **Fecha del ataque:** Miércoles 26 de noviembre de 2025.\n• **Víctimas:** Especialista Sarah Beckstrom (20) y Sargento Primero Andrew Wolfe (24), ambos en estado crítico.\n• **Sospechoso:** Rahmanullah Lakanwal (29), ciudadano afgano.\n• **Arma:** Revólver Magnum .357 (Smith & Wesson calibre .357).\n• **Cargos:** Tres de agresión con intención de matar mientras estaba armado, posesión de arma de fuego; podría enfrentar cargos de terrorismo con pena de cadena perpetua o pena de muerte.\n\n⚡ **Desarrollo:**\n• Lakanwal condujo su vehículo miles de kilómetros desde el estado de Washington, donde residía con su esposa y cinco hijos, hasta la capital del país.\n• El sospechoso llegó a EE.UU. en septiembre de 2021 a través de la \"Operación Bienvenidos Aliados\" y obtuvo asilo en abril de 2025.\n• Previamente, había trabajado con las fuerzas estadounidenses en Afganistán, incluyendo la CIA, y fue investigado dos veces por terrorismo sin encontrar vínculos conocidos.\n• Tras el tiroteo, el FBI registró varias propiedades en Washington y San Diego, incautando dispositivos electrónicos de la casa de Lakanwal.\n• El presidente Donald Trump condenó el ataque como un \"acto de terror\" y ordenó el envío de 500 miembros adicionales de la Guardia Nacional a Washington.\n• Las víctimas, que formaban parte de la misión \"DC Segura y Hermosa\", habían prestado juramento a la Guardia Nacional poco antes del incidente.\n\n💡 **¿Por qué importa?**\n• El Servicio de Ciudadanía e Inmigración de EE.UU. (USCIS) suspendió \"con efecto inmediato\" e indefinidamente todas las solicitudes de inmigración de ciudadanos afganos.\n• Esta medida busca revisar los protocolos de seguridad e investigación, afectando a solicitantes de asilo, Green Card y visas especiales (SIV) para colaboradores afganos.\n• El incidente subraya las preocupaciones sobre la seguridad nacional y la inmigración, impulsando un reexamen de las políticas migratorias y de asilo en el país.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este jueves 27 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-27-de-noviembre-nid27112025/",
+          "titulo": "El FBI registró varias casas tras el atentado contra dos miembros de la guardia nacional cerca de la Casa Blanca",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/27/el-fbi-registro-varias-casas-tras-el-atentado-contra-dos-miembros-de-la-guardia-nacional-cerca-de-la-casa-blanca/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 17:33:39"
+        },
+        {
+          "titulo": "Qué se sabe de los dos miembros de la Guardia Nacional de 20 y 24 años en estado crítico tras el tiroteo en Washington",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-dos-miembros-de-la-guardia-nacional-de-20-y-24-anos-en-estado-critico-tras-el-nid27112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-27 14:57:59"
+          "fecha": "2025-11-27 17:24:56"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-27-noviembre-n6218168",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 14:51:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-27-noviembre-n6218374",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 14:31:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-27-noviembre-n6218110",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 14:25:00"
-        },
-        {
-          "titulo": "Feriado en EE.UU.: el dólar blue se vuelve la cotización más barata del mercado y la Bolsa porteña anota otra rueda de subas",
-          "link": "https://www.lanacion.com.ar/economia/dolar/feriado-en-eeuu-el-dolar-blue-se-vuelve-la-cotizacion-mas-barata-del-mercado-y-la-bolsa-portena-nid27112025/",
+          "titulo": "La medida anunciada por Uscis que afecta a un grupo de inmigrantes tras el tiroteo en Washington D.C.: “Con efecto inmediato”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/washington/la-medida-anunciada-por-uscis-que-afecta-a-un-grupo-de-inmigrantes-tras-el-tiroteo-en-washington-dc-nid27112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-27 14:24:42"
+          "fecha": "2025-11-27 17:09:30"
         },
         {
-          "titulo": "El dólar oficial y los futuros caen en un mercado reducido por el feriado en EEUU",
-          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-quedar-el-foco-cinco-subas-seguidas-y-hay-expectativa-el-impacto-la-licitacion-n6218174",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 13:55:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-27-noviembre-n6218109",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 12:44:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-27-noviembre-n6218108",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 11:46:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 27 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-27-noviembre-n6218092",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 11:15:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-27",
-      "fuentes": [
-        "Minuto1",
-        "La Nación",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_gobierno_20251127",
-      "tema": "Reforma Laboral Gobierno Milei",
-      "tema_normalizado": "reforma laboral gobierno milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei impulsa una reforma laboral para modernizar la normativa vigente, fomentar el empleo y reducir la informalidad.\n• El borrador del proyecto busca flexibilizar las condiciones de contratación y modificar aspectos de la Ley de Contrato de Trabajo.\n• Este tema genera debate y negociaciones entre el Ejecutivo, empresarios y sindicatos, particularmente en el marco del Consejo de Mayo.\n\n🔍 **Datos clave:**\n• **Fecha objetivo de presentación:** 9 de diciembre, para tratar en sesiones extraordinarias del Congreso.\n• **Informalidad laboral:** El 37,7% de los asalariados no tiene descuento jubilatorio (según INDEC).\n• **Negociador clave del Gobierno:** Santiago Caputo (asesor presidencial) ha negociado con líderes sindicales.\n• **Principal representante sindical:** Gerardo Martínez (Secretario General de UOCRA y miembro de la CGT en el Consejo de Mayo).\n• **Pérdida de empleos (denuncia CGT):** 276.000 puestos de trabajo y 20.000 pymes cerradas en lo que va del año.\n• **Período de vacaciones:** Propuesta de otorgarlas entre el 1° de octubre y el 30 de abril, con notificación de 45 días y posibilidad de fraccionarlas en tramos de al menos una semana.\n\n⚡ **Desarrollo:**\n• El borrador de la reforma propone impulsar convenios por empresa, conceder premios a la productividad y crear bancos de horas.\n• Se busca la posible reducción de impuestos al trabajo y cargas sociales, además de condonación de multas si se regulariza al personal no registrado.\n• El Gobierno plantea un fondo de cese laboral para los nuevos empleados, como alternativa al sistema actual de indemnizaciones.\n• Otros puntos bajo análisis incluyen la ultraactividad de los convenios, la relación entre distintos convenios, cargas fiscales, financiamiento sindical y la democracia sindical.\n• Desde el oficialismo, se cree que la reforma beneficiará principalmente a las pymes, al reducir los costos laborales y la litigiosidad.\n• La CGT, a través de Gerardo Martínez y Cristian Jerónimo, rechaza cualquier propuesta que implique una \"pérdida de derechos\" o una extensión de la jornada laboral.\n• Los sindicatos denuncian desconocimiento del texto completo del proyecto y reclaman una mesa tripartita (Gobierno, empresarios, sindicatos) para un debate profundo.\n• A pesar de las críticas, el Gobierno mantiene optimismo y señala que hay \"más acuerdo de lo que se supone\", buscando aumentar la masa de trabajadores formales.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca transformar el mercado de trabajo en Argentina, impactando directamente en la estabilidad económica y social del país.\n• Genera una fuerte tensión entre el Gobierno, que busca mayor flexibilidad, y los sindicatos, que defienden los derechos laborales adquiridos.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Qué dice el borrador de la reforma laboral que Milei presentaría en el Congreso",
-          "link": "https://www.lanacion.com.ar/economia/que-dice-el-borrador-de-la-reforma-laboral-que-milei-presentaria-en-el-congreso-nid27112025/",
+          "titulo": "Quién es Rahmanullah Lakanwal, el afgano que baleó a soldados de la Guardia Nacional cerca de la Casa Blanca",
+          "link": "https://www.lanacion.com.ar/estados-unidos/que-se-sabe-del-afgano-acusado-por-el-ataque-contra-la-guardia-nacional-en-washington-nid27112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-27 14:04:03"
+          "fecha": "2025-11-27 16:36:59"
         },
         {
-          "titulo": "El Gobierno le baja el tono a las críticas de la CGT por la reforma laboral y se enfoca en los detalles del texto",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-le-baja-el-tono-a-las-criticas-de-la-cgt-por-la-reforma-laboral-y-se-enfoca-en-los-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 12:54:21"
-        },
-        {
-          "titulo": "Reforma laboral: qué se sabe hasta ahora del proyecto que impulsa el Ejecutivo",
-          "link": "https://www.ambito.com/politica/reforma-laboral-que-se-sabe-ahora-del-proyecto-que-impulsa-el-ejecutivo-n6218267",
+          "titulo": "Tiroteo en Washington: el FBI confirmó que el sospechoso tenía vínculos con las fuerzas estadounidenses en Afganistán",
+          "link": "https://www.ambito.com/mundo/tiroteo-washington-el-fbi-confirmo-que-el-sospechoso-tenia-vinculos-las-fuerzas-estadounidenses-afganistan-n6218335",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 11:45:00"
+          "fecha": "2025-11-27 13:57:00"
         },
         {
-          "titulo": "La CGT pidió una mesa tripartita con el Gobierno y empresarios por la reforma laboral, pero advirtió: \"Todos los días hay cierres de pymes\"",
-          "link": "https://www.clarin.com/politica/cgt-pidio-mesa-tripartita-gobierno-empresarios-reforma-laboral-advirtio-dias-cierres-pymes_0_eGNcs1Te2X.html",
+          "titulo": "Tiroteo en Washington: el atacante trabajó con la CIA en Afganistán y manejó miles de kilómetros antes del ataque",
+          "link": "https://www.clarin.com/mundo/tiroteo-washington-atacante-trabajo-cia-afganistan-manejo-miles-kilometros-ataque_0_GRbOXfvacB.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-27 11:18:45"
-        },
-        {
-          "titulo": "Gerardo Martínez admitió que negocia con Santiago Caputo la reforma laboral",
-          "link": "https://www.minutouno.com/politica/gerardo-martinez-admitio-que-negocia-santiago-caputo-la-reforma-laboral-n6218223",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 10:44:28"
+          "fecha": "2025-11-27 12:46:26"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-27",
       "fuentes": [
-        "Minuto1",
         "La Nación",
+        "Ámbito Financiero",
         "Clarín",
-        "Ámbito Financiero"
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -166,50 +216,24 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cierre_fabrica_whirlpool_20251127",
-      "tema": "Cierre Fábrica Whirlpool Argentina",
-      "tema_normalizado": "cierre fabrica whirlpool argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• La fábrica de Whirlpool en el Parque Industrial de Fátima, Pilar (Argentina), cesó definitivamente su actividad manufacturera.\n• Esta decisión implica el despido de entre 220 y 300 trabajadores y la reorientación de la compañía a un modelo de negocio basado exclusivamente en la importación y distribución de productos terminados.\n• La planta, que fue inaugurada hace apenas tres años con una inversión millonaria, dejará de producir lavarropas para el mercado local y de exportación.\n\n🔍 **Datos clave:**\n• **Ubicación:** Parque Industrial de Fátima, Pilar, provincia de Buenos Aires.\n• **Inversión inicial:** US$50-52 millones en 2022 para la puesta en marcha de la fábrica.\n• **Empleados afectados:** Entre 220 y 300 trabajadores desvinculados, incluyendo personal administrativo y de gestión.\n• **Capacidad de producción anterior:** 300.000 unidades anuales de lavarropas, con un 70% destinado a la exportación, principalmente a Brasil.\n• **Reducción de aranceles:** Las importaciones de electrodomésticos pasaron de pagar el 35% al 20% en aranceles.\n• **Anticipo de importaciones:** Paolo Rocca (Techint) señaló un aumento de importaciones de lavarropas de 5.000 a 87.000 unidades por mes en un año.\n\n⚡ **Desarrollo:**\n• La decisión de Whirlpool forma parte de un proceso global de revisión de estructuras productivas de la empresa, buscando eficiencia operativa y reasignación de recursos a nivel regional.\n• La compañía atribuye el cierre a múltiples factores internos y externos, como la caída del consumo, la fuerte competencia de productos importados y la pérdida de competitividad para la exportación.\n• En mayo de 2024, la empresa ya había recortado un turno de producción y eliminado 60 puestos de trabajo como medida de adaptación al \"entorno actual\" antes del cierre definitivo.\n• El cambio en la política económica del gobierno, con la apertura de importaciones, la reducción de aranceles y el fin de las licencias no automáticas, favoreció el ingreso masivo de productos terminados.\n• La Unión Obrera Metalúrgica (UOM) reclamó a Whirlpool la reubicación de parte de los trabajadores despedidos en tareas relacionadas con el despacho de los productos importados.\n• Productores locales, como el titular de la UIA, Martín Rappallini, han señalado que producir en Argentina es entre un 25% y un 30% más caro que en Brasil.\n• Whirlpool mantendrá su presencia comercial en Argentina, distribuyendo sus productos importados, mayormente desde China, lo que convierte a la planta en un centro de acopio y distribución.\n\n💡 **¿Por qué importa?**\n• El cierre de Whirlpool es un caso emblemático del impacto de las políticas económicas actuales en la industria nacional, afectando directamente la producción y el empleo.\n• Este evento se suma a un escenario de reacomodamientos fabriles y suspensiones en otros sectores, lo que genera incertidumbre sobre la capacidad productiva del país y el futuro de la inversión industrial.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Por qué cierra la fábrica de Whirlpool en la Argentina",
-          "link": "https://www.lanacion.com.ar/economia/por-que-cierra-la-fabrica-de-whirlpool-en-la-argentina-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 14:24:14"
-        },
-        {
-          "titulo": "La UOM le reclamó a Whirlpool que reubique a los trabajadores de la planta que cerró en Pilar",
-          "link": "https://www.minutouno.com/economia/la-uom-le-reclamo-whirlpool-que-reubique-los-trabajadores-la-planta-que-cerro-pilar-n6218319",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 13:10:00"
-        },
-        {
-          "titulo": "Paolo Rocca lo había anticipado: por qué Whirlpool cerró su fábrica de lavarropas a tres años de inaugurarla",
-          "link": "https://www.clarin.com/economia/paolo-rocca-anticipado-whirlpool-cerro-fabrica-lavarropas-anos-inaugurarla_0_V3LRNG8EVY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 12:32:13"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-27",
-      "fuentes": [
-        "Minuto1",
-        "La Nación",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "acuerdo_comercial_mercosur-ue_20251127",
-      "tema": "Acuerdo Comercial Mercosur-UE",
-      "tema_normalizado": "acuerdo comercial mercosur-ue",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Mercosur y la Unión Europea están próximos a firmar un acuerdo comercial tras más de dos décadas de negociaciones.\n• Este pacto creará una de las zonas de libre comercio más grandes del mundo, uniendo un mercado de más de 700 millones de personas.\n• La firma está programada para el 20 de diciembre en Brasil, con la asistencia confirmada del presidente argentino Javier Milei.\n\n🔍 **Datos clave:**\n• **Fecha de firma prevista:** 20 de diciembre en Brasil.\n• **Mercado total:** Más de 700 millones de personas.\n• **PBI conjunto:** U$S 22 billones, lo que representaría cerca del 20% del PBI mundial.\n• **Comercio bilateral actual (UE-Mercosur):** €88.000 millones en bienes y €34.000 millones en servicios anualmente.\n• **Eliminación de aranceles:** Sobre el 90% del comercio bilateral entre ambos bloques.\n• **Rechazo francés:** La Asamblea Nacional de Francia votó unánimemente (245 votos a favor, 0 en contra) en oposición al acuerdo.\n\n⚡ **Desarrollo:**\n• El objetivo principal del acuerdo es desarmar gradualmente las barreras arancelarias y establecer una zona de libre comercio con reglas de origen claras para asegurar los beneficios mutuos.\n• Contiene un marco regulatorio que abarca áreas como servicios, propiedad intelectual, contratación pública, comercio sostenible y mecanismos para resolver controversias.\n• Para Argentina, el gobierno ve una oportunidad para diversificar exportaciones y fortalecer vínculos con Europa, aunque con cautela por posibles impactos en sectores económicos sensibles.\n• La presencia del presidente Milei en la cumbre busca señalar cohesión dentro del bloque Mercosur, a pesar de la tensa relación con el presidente brasileño Lula da Silva.\n• Persisten dudas: los sectores industriales del Mercosur temen la asimetría tecnológica con Europa, mientras que agricultores europeos manifiestan reservas por la competencia de productos sudamericanos.\n• En Francia, legisladores lo califican de \"arma de destrucción masiva\" para su agricultura, preocupados por la posible reintroducción de productos con hormonas o pesticidas prohibidos en la UE.\n• Para que el acuerdo entre en vigor, debe ser aprobado por los parlamentos de todos los países miembros de la Unión Europea después de su firma formal.\n\n💡 **¿Por qué importa?**\n• El acuerdo tiene el potencial de reposicionar al Mercosur como un actor comercial global relevante y podría impulsar significativamente las exportaciones agroindustriales y energéticas de la región.\n• Sin embargo, plantea desafíos importantes para sectores específicos en ambas partes y su aprobación final dependerá de la superación de objeciones y reservas políticas, especialmente en Europa.",
+      "tema_id": "acuerdo_ue-mercosur_negociaciones_20251127",
+      "tema": "Acuerdo UE-Mercosur Negociaciones",
+      "tema_normalizado": "acuerdo ue-mercosur negociaciones",
+      "resumen": "📌 **¿Qué está pasando?**\n* La Unión Europea y el Mercosur están listos para firmar un acuerdo comercial histórico el 20 de diciembre de 2023, tras más de dos décadas de negociaciones.\n* Este pacto busca crear una de las zonas de libre comercio más grandes del mundo, uniendo un mercado de más de 700 millones de personas.\n* Paralelamente, la UE postergó hasta 2027 la entrada en vigor de su reglamento antideforestación, un tema clave para las exportaciones agroindustriales de Mercosur.\n\n🔍 **Datos clave:**\n* **20 de diciembre de 2023:** Fecha prevista para la firma del acuerdo UE-Mercosur en Brasil.\n* **Más de 700 millones:** Cantidad de personas que integrarían el mercado de libre comercio.\n* **25 años:** Tiempo de negociaciones para alcanzar este acuerdo.\n* **2027:** Nueva fecha de entrada en vigor para el Reglamento 1115/2023 de la UE (antideforestación).\n* **u$s22 billones:** PBI conjunto proyectado para ambas regiones, posicionándolo como el \"mayor acuerdo comercial del mundo\".\n* **88.000 millones de euros:** Comercio bilateral anual actual en bienes entre UE y Mercosur.\n* **29.500 toneladas anuales / u$s550 millones:** Valor estimado de la Cuota Hilton de carne argentina para la UE.\n\n⚡ **Desarrollo:**\n* El acuerdo prevé la eliminación gradual de aranceles sobre el 90% del comercio bilateral y la creación de un marco regulatorio para servicios, propiedad intelectual y comercio sostenible.\n* Países como Francia han reiterado su fuerte oposición al pacto, temiendo la competencia de productos agrícolas del Mercosur y el impacto en sus agricultores locales.\n* La postergación del reglamento antideforestación beneficia a exportadores como Argentina, ya que Europa absorbe el 20% de su carne vacuna y es un destino crucial para la soja.\n* Dicha normativa es vista por muchos países exportadores como una barrera paraarancelaria, al vincular directamente las reglas ambientales con el comercio internacional.\n* El presidente de Brasil, Lula da Silva, ha confirmado la firma y ha impulsado activamente el acuerdo, destacando su importancia para la inserción global del Mercosur.\n* El presidente argentino, Javier Milei, tiene previsto asistir a la cumbre de líderes del Mercosur el 17 de diciembre y a la posterior firma, buscando reforzar lazos con Europa.\n* Persisten objeciones de sectores industriales del Mercosur por asimetrías tecnológicas y de productores agrícolas europeos por la competencia sudamericana.\n\n💡 **¿Por qué importa?**\n* La concreción del acuerdo UE-Mercosur reconfigurará significativamente el comercio global, creando una de las mayores áreas de libre comercio y abriendo nuevas oportunidades económicas.\n* Sin embargo, la tensión entre los intereses comerciales y las crecientes exigencias ambientales de la UE plantea desafíos continuos para las exportaciones agroindustriales de la región.",
       "cantidad_noticias": 4,
       "noticias": [
+        {
+          "titulo": "Soja y carne:  Europa aplazó un reglamento que puede afectar exportaciones argentinas por u$s1.000M",
+          "link": "https://www.iprofesional.com/economia/442847-soja-carne-europa-aplazo-reglamento-que-puede-afectar-exportaciones-por-1000-millones-dolares",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 17:40:00"
+        },
+        {
+          "titulo": "Francia refuerza su rechazo al acuerdo UE-Mercosur antes de la firma en diciembre",
+          "link": "https://www.perfil.com/noticias/economia/francia-refuerza-su-rechazo-al-acuerdo-ue-mercosur-antes-de-la-firma-en-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:55:51"
+        },
         {
           "titulo": "Javier Milei irá a la firma del acuerdo Mercosur-UE en Brasil",
           "link": "https://www.minutouno.com/economia/javier-milei-ira-la-firma-del-acuerdo-mercosur-ue-brasil-n6218344",
@@ -221,26 +245,15 @@
           "link": "https://www.ambito.com/economia/que-implica-el-acuerdo-libre-comercio-la-union-europea-y-el-mercosur-n6218314",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-27 12:56:00"
-        },
-        {
-          "titulo": "\"Un arma de destrucción masiva\": La Asamblea Nacional en Francia rechaza por unanimidad el acuerdo con el Mercosur y presiona a Macron para que no lo acepte",
-          "link": "https://www.clarin.com/mundo/arma-destruccion-masiva-asamblea-nacional-francia-rechaza-unanimidad-acuerdo-mercosur-presiona-macron-acepte_0_MTnYYQvRAU.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 10:08:09"
-        },
-        {
-          "titulo": "Mercosur: Javier Milei viaja a Brasil para una cumbre marcada por la inminente firma del acuerdo con la Unión Europea",
-          "link": "https://www.ambito.com/politica/mercosur-javier-milei-viaja-brasil-una-cumbre-marcada-la-inminente-firma-del-acuerdo-la-union-europea-n6218201",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 09:52:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-27",
       "fuentes": [
-        "Minuto1",
-        "Clarín",
-        "Ámbito Financiero"
+        "iProfesional",
+        "Ámbito Financiero",
+        "Perfil",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -248,106 +261,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "ataque_en_washington_20251127",
-      "tema": "Ataque en Washington D.C.",
-      "tema_normalizado": "ataque en washington d.c.",
-      "resumen": "📌 **¿Qué está pasando?**\n• Dos miembros de la Guardia Nacional fueron gravemente heridos por disparos cerca de la Casa Blanca en Washington D.C., en un incidente que el FBI investiga como un acto de terrorismo.\n• El sospechoso, Rahmanullah Lakanwal, un ciudadano afgano de 29 años, también resultó herido y fue puesto bajo custodia.\n• Lakanwal condujo miles de kilómetros desde el estado de Washington hasta la capital para cometer el ataque.\n\n🔍 **Datos clave:**\n• **Sospechoso:** Rahmanullah Lakanwal, 29 años, originario de la provincia de Khost, Afganistán.\n• **Víctimas:** Sarah Beckstrom (20) y Andrew Wolfe (24), miembros de la Guardia Nacional de Virginia Occidental, en estado crítico.\n• **Fecha del ataque:** Miércoles 26 de noviembre de 2025.\n• **Arma:** Revólver Smith & Wesson calibre .357.\n• **Llegada a EE.UU.:** Septiembre de 2021, bajo la \"Operación Aliados Bienvenidos\".\n• **Vínculos:** Trabajó 10 años con el ejército afgano apoyando a EE.UU. y con la CIA en Kandahar.\n• **Cargos:** Tres cargos de agresión con intención de matar estando armado y posesión de arma de fuego, enfrentando hasta posible pena de muerte.\n\n⚡ **Desarrollo:**\n• Lakanwal residía en Bellingham, estado de Washington, con su esposa y cinco hijos, y se le había concedido asilo en abril de 2025.\n• Fue evacuado a EE.UU. tras el colapso del gobierno en Kabul y la caótica retirada de las fuerzas norteamericanas de Afganistán.\n• El director del FBI, Kash Patel, confirmó la investigación como acto de terrorismo, aunque las motivaciones exactas del sospechoso aún son desconocidas.\n• El presidente Donald Trump calificó el ataque de \"acto de terror\" y \"monstruoso\", prometiendo endurecer las políticas antiinmigración y revisar los casos de afganos evacuados.\n• Trump ordenó el envío de 500 tropas adicionales a Washington D.C., que se suman a las cerca de 2000 ya desplegadas en la capital.\n• El Servicio de Ciudadanía e Inmigración (USCIS) suspendió indefinidamente el procesamiento de todas las solicitudes de inmigración de ciudadanos afganos.\n• El gobernador de Texas, Greg Abbott, envió un mensaje de apoyo a los soldados heridos y exigió que el atacante fuera llevado ante la justicia.\n\n💡 **¿Por qué importa?**\n• El ataque ha generado una fuerte conmoción y ha llevado a un endurecimiento de las políticas migratorias y de seguridad nacional en Estados Unidos.\n• Pone en el centro del debate público los procesos de verificación de antecedentes para las personas evacuadas de Afganistán y la seguridad interna del país.\n• El incidente también reaviva la discusión sobre el legado de la guerra en Afganistán y sus implicaciones para la política doméstica estadounidense.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Quién es Rahmanullah Lakanwal, el afgano que baleó a soldados de la Guardia Nacional cerca de la Casa Blanca",
-          "link": "https://www.lanacion.com.ar/estados-unidos/que-se-sabe-del-afgano-acusado-por-el-ataque-contra-la-guardia-nacional-en-washington-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 14:19:18"
-        },
-        {
-          "titulo": "Tiroteo en Washington: el FBI confirmó que el sospechoso tenía vínculos con las fuerzas estadounidenses en Afganistán",
-          "link": "https://www.ambito.com/mundo/tiroteo-washington-el-fbi-confirmo-que-el-sospechoso-tenia-vinculos-las-fuerzas-estadounidenses-afganistan-n6218335",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 13:57:00"
-        },
-        {
-          "titulo": "“Texas está con ellos”: el sentido mensaje de Greg Abbott tras el ataque en Washington D.C.",
-          "link": "https://www.lanacion.com.ar/estados-unidos/texas/texas-esta-con-ellos-el-sentido-mensaje-de-greg-abbott-tras-el-ataque-en-washington-dc-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 13:26:10"
-        },
-        {
-          "titulo": "Tiroteo en Washington: el atacante trabajó con la CIA en Afganistán y manejó miles de kilómetros antes del ataque",
-          "link": "https://www.clarin.com/mundo/tiroteo-washington-atacante-trabajo-cia-afganistan-manejo-miles-kilometros-ataque_0_GRbOXfvacB.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 12:46:26"
-        },
-        {
-          "titulo": "Washington D.C. se blinda: Trump ordena el envío de 500 soldados más tras el ataque cerca de la Casa Blanca",
-          "link": "https://www.lanacion.com.ar/estados-unidos/washington/washington-dc-se-blinda-trump-ordena-el-envio-de-500-soldados-mas-tras-el-ataque-cerca-de-la-casa-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 11:55:31"
-        },
-        {
-          "titulo": "Ataque en Washington: Trump endurece la política migratoria y revisará todos los casos de asilo a afganos",
-          "link": "https://www.clarin.com/mundo/ataque-washington-trump-endurece-politica-migratoria-revisara-casos-asilo-afganos_0_bSKoA3Koxf.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 10:30:04"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-27",
-      "fuentes": [
-        "La Nación",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "incendio_historico_hong_20251127",
-      "tema": "Incendio Histórico Hong Kong",
-      "tema_normalizado": "incendio historico hong kong",
-      "resumen": "📌 **¿Qué está pasando?**\n• Un devastador incendio arrasó siete de las ocho torres residenciales de Wang Fuk Court en Tai Po, Hong Kong, un complejo habitacional de gran envergadura.\n• La tragedia, considerada uno de los peores incendios del siglo en la región, ha dejado un trágico balance de muertos, heridos y un número considerable de personas desaparecidas.\n• El fuego se propagó con una velocidad y virulencia inusuales, generando una emergencia masiva y movilizando a un gran contingente de servicios de rescate.\n\n🔍 **Datos clave:**\n• **Ubicación:** Complejo residencial Wang Fuk Court, Tai Po, Hong Kong.\n• **Fecha de inicio:** Miércoles, con el fuego controlado tras más de 24 horas de intensos trabajos.\n• **Balance de víctimas:** 75 muertos confirmados, casi 300 desaparecidos y 60 heridos.\n• **Edificios afectados:** 7 de 8 torres residenciales de 31 pisos, que estaban bajo obras de renovación.\n• **Empresa investigada:** Prestige Construction and Engineering Company Limited.\n\n⚡ **Desarrollo:**\n• El fuego se originó en los tradicionales andamios de bambú y las mallas plásticas altamente inflamables que rodeaban los edificios, facilitando una propagación extremadamente rápida entre las estructuras.\n• Las autoridades, incluyendo la policía y un organismo anticorrupción, investigan la \"grave negligencia\" de la empresa constructora, Prestige Construction and Engineering Company. Se sospecha del uso de materiales no aptos y andamios inseguros.\n• La policía detuvo a tres hombres vinculados a la empresa –dos directores y un consultor de ingeniería–, quienes son sospechosos de haber causado la propagación incontrolada del fuego. Se allanaron sus oficinas y se incautaron documentos relevantes.\n• En medio del desastre, los bomberos realizaron un rescate milagroso al encontrar con vida a un hombre mayor atrapado en el hall del piso 31 de una de las torres afectadas.\n• El despliegue de emergencia fue masivo, con más de 1.200 efectivos y 304 unidades del Departamento de Bomberos movilizadas para combatir las llamas y buscar sobrevivientes.\n• Como medida de apoyo, se han puesto a disposición 1.000 plazas en hostales y hoteles para la reubicación temporal de los residentes que perdieron sus hogares o se vieron afectados.\n\n💡 **¿Por qué importa?**\n• Este incendio es uno de los más graves a nivel mundial en las últimas décadas, poniendo de manifiesto los peligros inherentes a la falta de seguridad en las obras de construcción y el uso de materiales combustibles.\n• La tragedia ha generado una profunda investigación sobre la responsabilidad corporativa y las normativas de seguridad, buscando implementar medidas más estrictas para proteger a los residentes en futuros proyectos de renovación.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Devastador incendio en Hong Kong: 75 muertos, un rescate increíble y la búsqueda de sobrevivientes",
-          "link": "https://www.lanacion.com.ar/el-mundo/devastador-incendio-en-hong-kong-65-muertos-un-rescate-increible-y-la-busqueda-de-sobrevivientes-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 14:20:18"
-        },
-        {
-          "titulo": "Incendio histórico en Hong Kong: las autoridades confirmaron al menos 55 muertos y casi 300 desaparecidos",
-          "link": "https://www.ambito.com/mundo/incendio-historico-hong-kong-las-autoridades-confirmaron-al-menos-55-muertos-y-casi-300desaparecidos-n6218183",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 10:06:57"
-        },
-        {
-          "titulo": "Incendio en Hong Kong, uno de los peores del siglo y provocado por una \"grave negligencia\": hay tres detenidos",
-          "link": "https://www.clarin.com/mundo/incendio-hong-kong-peores-siglo-provocado-grave-negligencia-detenidos_0_e6rJEV8OwR.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 09:49:40"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-27",
-      "fuentes": [
-        "La Nación",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "caputo_niega_atraso_20251127",
-      "tema": "Caputo Niega Atraso Cambiario",
-      "tema_normalizado": "caputo niega atraso cambiario",
-      "resumen": "📌 **¿Qué está pasando?**\n• Luis Caputo, Ministro de Economía, niega categóricamente que el dólar oficial esté \"atrasado\" o \"barato\", contradiciendo la visión de economistas y el sector privado.\n• Su principal argumento para defender la política cambiaria actual es el aumento récord en las cantidades exportadas en Argentina.\n• Compartió gráficos en redes sociales con un mensaje irónico: \"Primer caso en el mundo de un programa económico que aumenta las cantidades exportadas a niveles récord, con tipo de cambio ‘atrasado’\".\n\n🔍 **Datos clave:**\n• **Exportaciones récord:** Octubre mostró un crecimiento interanual del 13,1% en valor y 13,9% en cantidades, según INDEC. Las exportaciones a EE.UU. alcanzaron un récord de USD 6.557 millones de enero a octubre de 2025.\n• **Superávit comercial:** Octubre de 2025 cerró con un superávit de USD 800 millones, aunque menor al del año anterior.\n• **Sectores impulsores:** El crecimiento se concentró en Productor Primarios (PP) con un avance del 32,3% interanual en cantidades, y Combustibles y Energía (CyE) con un 31,5%, impulsado por Vaca Muerta.\n• **Gestión de deuda:** El Tesoro renovó el 96,5% de los $14,5 billones en una licitación reciente, absorbiendo liquidez.\n• **Fecha de declaración:** El posteo de Caputo fue el 27 de noviembre de 2025.\n\n⚡ **Desarrollo:**\n• Caputo desafía al sector privado que advierte sobre un \"dólar barato\" que afecta la competitividad, generando cierres de empresas o reemplazo por importaciones.\n• El ministro defiende su política económica mostrando que, a pesar de las críticas, el país logra un aumento histórico en los volúmenes de exportación.\n• El crecimiento exportador se debe principalmente a sectores con ventajas competitivas, como el agropecuario (beneficiado por una ventana de retenciones cero en granos, generando U$S 7.000 millones) y la energía (especialmente Vaca Muerta).\n• Las exportaciones de hidrocarburos son menos sensibles al valor del dólar local, ya que su precio se fija en dólares internacionales, a diferencia de otros productos con costos en pesos.\n• El gobierno, a través del Tesoro, absorbió gran parte de la liquidez en el mercado al renovar la mayoría de la deuda, mostrando cautela con la inyección de pesos.\n• Economistas como Fausto Spotorno advierten que una devaluación abrupta a $2.000 generaría un aumento de la pobreza y dispararía la inflación, priorizando la estabilidad del tipo de cambio.\n• A pesar del superávit comercial en octubre, este se redujo en USD 112 millones respecto al mismo mes de 2024, y el incremento de las importaciones en cantidades (19,7%) fue mayor al de las exportaciones.\n\n💡 **¿Por qué importa?**\n• La discusión sobre el valor del dólar es fundamental para la competitividad de las exportaciones, la acumulación de reservas internacionales y la estabilidad macroeconómica del país.\n• La postura de Caputo busca generar confianza en su gestión económica, mientras que las críticas señalan posibles riesgos a largo plazo por un tipo de cambio que consideran desalineado.",
+      "tema_id": "politica_cambiaria_luis_20251127",
+      "tema": "Política Cambiaria Luis Caputo",
+      "tema_normalizado": "politica cambiaria luis caputo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Luis Caputo, Ministro de Economía, defiende la política cambiaria actual, negando que el dólar oficial esté \"atrasado\".\n• Su principal argumento es el aumento récord en las cantidades exportadas de Argentina, lo que contradice las críticas de algunos economistas.\n• Los mercados muestran una relativa calma, aunque la escasez de reservas del Banco Central y la liquidez ajustada siguen siendo desafíos clave.\n\n🔍 **Datos clave:**\n• Dólar oficial: $1.475 (Banco Nación, 27 de noviembre).\n• Exportaciones de octubre: USD 7.954 millones (+13,1% interanual en valor; +13,9% en cantidades).\n• Superávit comercial de octubre: USD 800 millones.\n• Récord de exportaciones a EE.UU. (enero-octubre): USD 6.557 millones.\n• Crédito bancario al PBI: 12% actual (era 5,2% a fines de 2023).\n• Renovación de deuda en licitación: 96,5% de $14,5 billones.\n\n⚡ **Desarrollo:**\n• Caputo ironizó en redes sociales afirmando que Argentina es el \"primer caso en el mundo\" de un programa que aumenta exportaciones a niveles récord con un tipo de cambio supuestamente \"atrasado\".\n• El incremento de las exportaciones se debe, en gran parte, a Productores Primarios (+32,3% interanual en volumen) y Combustibles y Energía (+31,5% en Q3 2025).\n• Factores como la ventana de retenciones cero para granos y el desarrollo de Vaca Muerta, con la puesta en marcha del gasoducto Perito Moreno, impulsaron estos volúmenes.\n• Economistas y el sector privado cuestionan si un dólar \"barato\" afecta la competitividad de otras industrias y la capacidad del país para acumular más reservas.\n• El Gobierno enfrenta el dilema de usar los pocos dólares disponibles para pagar deuda o priorizar la recomposición de reservas sin generar distorsiones cambiarias.\n• En la última licitación de deuda, el Tesoro absorbió el 96,5% de los $14,5 billones ofrecidos, demostrando cautela con la liquidez en pesos del mercado.\n• Argentina tiene un bajo nivel de monetización, con un crédito bancario al PBI del 12%, muy inferior a países como Chile (103%) y Brasil (76%).\n• Expertos como Fausto Spotorno advierten que una devaluación abrupta del dólar a $2.000 dispararía la inflación y aumentaría la pobreza, abogando por estabilidad cambiaria.\n\n💡 **¿Por qué importa?**\n• La defensa del tipo de cambio por Caputo busca estabilizar la economía y generar confianza, priorizando el control inflacionario sobre una devaluación que los críticos sugieren.\n• Este debate es crucial porque afecta la competitividad de las exportaciones, la capacidad de acumular reservas y el equilibrio entre crecimiento y estabilidad de precios.",
       "cantidad_noticias": 5,
       "noticias": [
+        {
+          "titulo": "Dólar en la cornisa: el plan oculto de Caputo para juntar reservas sin soltar las bandas",
+          "link": "https://www.iprofesional.com/finanzas/442805-dolar-en-la-cornisa-el-plan-oculto-de-caputo-para-juntar-reservas-sin-soltar-las-bandas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:15:00"
+        },
         {
           "titulo": "\"No hay atraso cambiario\", Luis Caputo desafía al sector privado con datos",
           "link": "https://www.iprofesional.com/economia/442825-no-hay-atraso-cambiario-luis-caputo-desafia-al-sector-privado-con-datos",
@@ -371,21 +296,15 @@
           "link": "https://www.clarin.com/economia/ironico-mensaje-redes-caputo-volvio-negar-dolar-atrasado-primer-caso-mundo_0_q8ujqywFbW.html",
           "fuente": "Clarín",
           "fecha": "2025-11-27 12:24:17"
-        },
-        {
-          "titulo": "Dólar en la cornisa: el plan oculto de Caputo para juntar reservas sin soltar las bandas",
-          "link": "https://www.iprofesional.com/finanzas/442805-dolar-en-la-cornisa-el-plan-oculto-de-caputo-para-juntar-reservas-sin-soltar-las-bandas",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-27 10:45:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-27",
       "fuentes": [
-        "Perfil",
         "iProfesional",
-        "Clarín",
-        "Ámbito Financiero"
+        "Ámbito Financiero",
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -393,50 +312,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "viaje_internacional_papa_20251127",
-      "tema": "Viaje Internacional Papa León",
-      "tema_normalizado": "viaje internacional papa leon",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Papa León XIV inició su primer viaje internacional, visitando Turquía y luego Líbano, una gira que estaba en la agenda de su antecesor, el Papa Francisco.\n• En Turquía, su debut en el escenario global, el Pontífice advirtió severamente sobre la escalada de conflictos mundiales, declarando que \"está en juego el futuro de la humanidad\".\n• El objetivo principal del viaje es promover la paz, el diálogo y la unidad, destacando el papel de Turquía como un puente entre culturas y continentes.\n\n🔍 **Datos clave:**\n• **Papa:** León XIV, el primer Pontífice estadounidense.\n• **Fechas clave:** El viaje comenzó el 27 de noviembre de 2025 en Ankara y se extenderá hasta el 2 de diciembre, incluyendo Líbano.\n• **Países visitados:** Turquía (Ankara, Estambul, Iznik) y Líbano.\n• **Lema del viaje:** \"Un solo Señor, una sola fe, un solo bautismo\".\n• **Presidente turco:** Recep Tayyip Erdogan, con quien el Papa se reunió.\n• **Aniversario conmemorado:** 1700 años del Primer Concilio de Nicea, en Iznik.\n• **Cita destacada:** \"¡Está en juego el futuro de la humanidad!\" (León XIV).\n\n⚡ **Desarrollo:**\n• El viaje de León XIV marca su primera gira fuera del Vaticano desde su asunción el 8 de mayo de 2025.\n• En Ankara, el Papa visitó el mausoleo del fundador de la República Turca, Mustafa Kemal Ataturk, antes de ser recibido por el presidente Erdogan en el Palacio Presidencial.\n• En su primer discurso, el Pontífice alertó sobre la \"fase de fuertes conflictos a nivel global\" y las \"estrategias de poder económico y militar\", citando la \"tercera guerra mundial a pedazos\" del Papa Francisco.\n• Instó a Turquía, una potencia regional clave y \"puente\" entre Asia y Europa, a ser un \"factor de estabilidad y acercamiento entre los pueblos\" al servicio de la paz.\n• Subrayó que las energías y recursos absorbidos por dinámicas destructivas se desvían de retos vitales como la paz, el hambre, la salud, la educación y la salvaguarda de la creación.\n• En territorio turco, conmemorará los 1700 años del Primer Concilio de Nicea en Iznik, rezando junto al Patriarca Bartolomé y representantes de diversas iglesias.\n• La agenda del Papa incluye una parada en Líbano, del 30 de noviembre al 2 de diciembre, para ofrecer consuelo a una población castigada por sucesivas crisis.\n\n💡 **¿Por qué importa?**\n• Este viaje marca el debut internacional del Papa León XIV, estableciendo su tono y las prioridades de su pontificado, centrado en la urgencia de la paz y el diálogo.\n• Subraya la profunda preocupación de la Iglesia Católica por los conflictos globales y la necesidad de una acción unida para preservar el futuro de la humanidad.",
-      "cantidad_noticias": 3,
+      "tema_id": "armado_politico_congreso_20251127",
+      "tema": "Armado Político Congreso Argentino",
+      "tema_normalizado": "armado politico congreso argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n• Gobernadores no kirchneristas están formando un nuevo interbloque federal en el Congreso para sumar poder y debilitar la influencia del peronismo.\n• Al mismo tiempo, 24 nuevos senadores juran sus bancas, reconfigurando el equilibrio de fuerzas con figuras provinciales clave.\n\n🔍 **Datos clave:**\n• **24** nuevos senadores asumen sus bancas este viernes 1 de diciembre.\n• El nuevo interbloque, tentativamente llamado \"País Federal\", busca reunir entre **12 y 20** diputados y **10** senadores.\n• **Patricia Bullrich:** Asume como jefa del bloque de La Libertad Avanza (LLA) en el Senado.\n• **Gobernadores promotores:** Sáenz (Salta), Jaldo (Tucumán), Jalil (Catamarca), Figueroa (Neuquén), Passalaqua (Misiones).\n• **Exgobernadores/gobernadores senadores:** Capitanich (Chaco), Zamora (Santiago del Estero), Kirchner (Santa Cruz), Uñac (San Juan), Manzur (Tucumán), Suárez (Mendoza).\n• **Lorena Villaverde:** Senadora electa por LLA (Río Negro) cuya jura está bajo impugnación.\n\n⚡ **Desarrollo:**\n• Gobernadores del norte impulsan un interbloque, \"País Federal\", para coordinar la agenda provincial y ganar peso legislativo en ambas cámaras.\n• Este movimiento podría hacer que el peronismo (Fuerza Patria) pierda su estatus de primera minoría en Diputados, si el bloque catamarqueño se escinde.\n• LLA se beneficia de esta fragmentación, acercándose a la primera minoría en Diputados y buscando apoyo de estos nuevos bloques provinciales.\n• La jura de 24 nuevos senadores incorpora a exgobernadores y dirigentes provinciales, aumentando el peso territorial y la diversidad política en la Cámara Alta.\n• El Senado, con baja representación propia de LLA, anticipa negociaciones complejas y alianzas caso por caso para quórums y aprobación de leyes.\n• La jura de Lorena Villaverde (LLA), impugnada por sus vínculos con narcotráfico, es el primer test; LLA busca asegurar una mayoría simple con apoyo de PRO, radicales y provinciales.\n\n💡 **¿Por qué importa?**\n• La reconfiguración de bloques y nuevas alianzas provinciales cambian el equilibrio de poder, complejizando la gobernabilidad y la aprobación de la agenda oficialista.\n• El peronismo pierde influencia, mientras el oficialismo deberá negociar intensamente con un Congreso más fragmentado para avanzar con sus proyectos.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "En Turquía, el papa León advirtió sobre un mundo lleno de conflictos: “Está en juego el futuro de la humanidad”",
-          "link": "https://www.lanacion.com.ar/el-mundo/en-turquia-el-papa-leon-advirtio-sobre-un-mundo-lleno-de-conflictos-esta-en-juego-el-futuro-de-la-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-27 14:42:05"
+          "titulo": "Gobernadores no kirchneristas definen un armado propio en el Congreso que le quitará poder al PJ",
+          "link": "https://www.infobae.com/politica/2025/11/27/gobernadores-no-kirchneristas-definen-un-armado-propio-en-el-congreso-que-le-quitara-poder-al-pj/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 17:26:58"
         },
         {
-          "titulo": "El Papa llegó a Ankara en su primer viaje internacional: homenaje a Ataturk, encuentro con Erdogan y un severo discurso",
-          "link": "https://www.clarin.com/mundo/papa-llego-ankara-primer-viaje-internacional-homenaje-ataturk-encuentro-erdogan_0_Bvhirhh3vf.html",
+          "titulo": "Uno por uno, quiénes son los 24 senadores que juran este viernes",
+          "link": "https://www.clarin.com/politica/24-senadores-juran-viernes_0_zHQXmbGrey.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-27 09:27:42"
+          "fecha": "2025-11-27 17:14:54"
         },
         {
-          "titulo": "El papa León XIV comienza su primer viaje al extranjero con visitas a Turquía y Líbano",
-          "link": "https://www.ambito.com/mundo/el-papa-leon-xiv-comienza-su-primer-viaje-al-extranjero-visitas-turquia-y-libano-n6218178",
+          "titulo": "Senado: exgobernadores y referentes provinciales con peso territorial marcan la cancha",
+          "link": "https://www.ambito.com/politica/senado-exgobernadores-y-referentes-provinciales-peso-territorial-marcan-la-cancha-n6218391",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 09:17:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-27",
-      "fuentes": [
-        "La Nación",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica:_nuevos_bloques_20251127",
-      "tema": "Política: Nuevos Bloques Peronistas",
-      "tema_normalizado": "politica: nuevos bloques peronistas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Gobernadores de varias provincias, principalmente del Norte, se unieron para formar nuevos bloques e interbloques federales en el Congreso.\n*   Esta movida busca representar los intereses provinciales ante el gobierno de Javier Milei y tiene un fuerte impacto en el equilibrio de fuerzas parlamentarias.\n*   Significa un duro golpe para el peronismo de Unión por la Patria (UxP), debilitando su representación y liderazgo en el Congreso.\n\n🔍 **Datos clave:**\n*   **Gobernadores involucrados:** Gustavo Sáenz (Salta), Osvaldo Jaldo (Tucumán), Raúl Jalil (Catamarca), Rolando Figueroa (Neuquén) y Hugo Passalacqua (Misiones).\n*   **Ubicación de la reunión clave:** Sede porteña de la Casa de Salta.\n*   **Ministro del Interior:** Diego Santilli, interlocutor clave del Gobierno con los mandatarios provinciales.\n*   **Impacto en diputados:** UxP podría perder 4 diputados, quedando con 92, uno menos que La Libertad Avanza.\n*   **Bloques mencionados:** Innovación Federal, Independencia y La Neuquinitud.\n*   **Contexto temporal:** Reuniones recientes a principios de diciembre, en la transición del nuevo gobierno.\n\n⚡ **Desarrollo:**\n*   Los gobernadores, aunque peronistas o con raíces peronistas, buscan distanciarse de la conducción nacional del Partido Justicialista y del kirchnerismo.\n*   Su principal motivación es enfocarse en las necesidades de sus provincias y negociar apoyos con el nuevo gobierno para el Presupuesto y sus reformas.\n*   El nuevo interbloque de gobernadores federales podría sumar hasta 14 diputados, debilitando el bloque de Unión por la Patria en ambas cámaras.\n*   Rolando Figueroa (Neuquén) aclaró que su bloque \"La Neuquinitud\" trabajará coordinadamente pero no integrará formalmente el interbloque, manteniendo independencia.\n*   El Gobierno de Javier Milei ve con buenos ojos esta fragmentación, ya que acerca a La Libertad Avanza a obtener la primera minoría en la Cámara de Diputados.\n*   Esta división y riesgo de fractura dentro del peronismo era algo que Cristina Kirchner ya había advertido como consecuencia de la derrota electoral.\n\n💡 **¿Por qué importa?**\n*   Esta reorganización política cambia drásticamente el mapa de poder en el Congreso, otorgando mayor peso a las bancadas provinciales y facilitando la agenda legislativa del gobierno de Javier Milei.\n*   Representa una fractura significativa dentro del peronismo, que pierde influencia, enfrenta una crisis de liderazgo y deberá redefinir su rol como principal fuerza opositora.",
-      "cantidad_noticias": 2,
-      "noticias": [
+          "fecha": "2025-11-27 15:47:00"
+        },
         {
           "titulo": "Duro golpe para el peronismo en el Congreso: los gobernadores del norte lanzan un nuevo interbloque y le sacan más poder",
           "link": "https://www.clarin.com/politica/duro-golpe-peronismo-congreso-gobernadores-norte-lanzan-nuevo-interbloque-sacan-poder_0_3TsObJt62u.html",
@@ -444,17 +343,150 @@
           "fecha": "2025-11-27 14:51:06"
         },
         {
-          "titulo": "Alerta en el peronismo: reunión clave de cinco gobernadores que analizan armar un bloque federal en el Congreso",
-          "link": "https://www.infobae.com/politica/2025/11/27/alerta-en-el-peronismo-reunion-clave-de-cinco-gobernadores-que-analizan-armar-un-bloque-federal-en-el-congreso/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-27 14:31:33"
+          "titulo": "Senado: LLA se acerca a la mayoría para lograr que Lorena Villaverde asuma su banca",
+          "link": "https://www.minutouno.com/politica/senado-lla-se-acerca-la-mayoria-lograr-que-lorena-villaverde-asuma-su-banca-n6218264",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 11:42:17"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-27",
       "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
         "Clarín",
         "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "presupuesto_caba_2026_20251127",
+      "tema": "Presupuesto CABA 2026 Aprobación",
+      "tema_normalizado": "presupuesto caba 2026 aprobacion",
+      "resumen": "📌 **¿Qué está pasando?**\n* La Legislatura de la Ciudad de Buenos Aires está lista para aprobar el Presupuesto 2026 y un paquete de leyes impositivas clave.\n* Esta aprobación se logró tras intensas negociaciones entre el oficialismo porteño (PRO) y el bloque de La Libertad Avanza (LLA).\n* El acuerdo destrabó la sesión parlamentaria, asegurando los 31 votos necesarios para la sanción de las leyes.\n\n🔍 **Datos clave:**\n* **2026:** Año del presupuesto en discusión.\n* **31:** Votos requeridos para la aprobación del paquete de leyes presupuestarias.\n* **Jorge Macri:** Jefe de Gobierno de CABA, cuyo PRO lideró las negociaciones.\n* **La Libertad Avanza (LLA):** Bloque con 8 legisladores, decisivo para alcanzar los votos.\n* **Pilar Ramírez:** Presidenta del bloque de LLA en la Legislatura porteña.\n* **Ingresos Brutos y Impuesto a los Sellos:** Impuestos sobre los que LLA negoció exenciones.\n\n⚡ **Desarrollo:**\n* El PRO necesitaba los votos de LLA para aprobar el presupuesto antes del recambio de la cámara, dada su actual debilidad parlamentaria.\n* LLA, respaldada por sus recientes triunfos electorales, presionó al PRO para incorporar demandas de mayor alivio fiscal.\n* Las principales exigencias de LLA incluyeron la exención de Ingresos Brutos para Fondos Comunes de Inversión y del Impuesto a los Sellos para créditos hipotecarios de vivienda única y financiamiento de tarjetas de crédito.\n* Jorge Macri y el PRO cedieron a estas demandas, lo que llevó a LLA a confirmar su apoyo al proyecto presupuestario, el Código Fiscal y la Ley Tarifaria.\n* También se espera que la sesión trate la creación del Servicio Penitenciario de la Ciudad, una ampliación del Presupuesto 2025 y la Ley de Ministerios.\n* Además del apoyo de LLA, el oficialismo cuenta con la anuencia de la UCR y el interbloque larretista (Confianza Pública y MID), mientras que Unión por la Patria se manifestó en contra.\n\n💡 **¿Por qué importa?**\n* La aprobación del Presupuesto 2026 es fundamental para la gestión de Jorge Macri, ya que establece la planificación fiscal y financiera para su tercer año de mandato.\n* Este proceso evidencia la necesidad de negociación y concesión entre los distintos bloques políticos para garantizar la gobernabilidad y avanzar con la agenda legislativa.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Legislatura porteña: buscan destrabar la sesión para aprobar el presupuesto 2026 en medio de una ardua negociación entre Pro y LLA",
+          "link": "https://www.lanacion.com.ar/politica/legislatura-portena-buscan-destrabar-la-sesion-para-aprobar-el-presupuesto-2026-en-medio-de-una-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 18:03:07"
+        },
+        {
+          "titulo": "Ciudad: el PRO destrabó negociación con LLA y la Legislatura se encamina a aprobar el Presupuesto de Jorge Macri",
+          "link": "https://www.ambito.com/politica/ciudad-el-pro-destrabo-negociacion-lla-y-la-legislatura-se-encamina-aprobar-el-presupuesto-jorge-macri-n6218230",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 11:15:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "privatizaciones_represas_comahue_20251127",
+      "tema": "Privatizaciones Represas Comahue",
+      "tema_normalizado": "privatizaciones represas comahue",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino está culminando la privatización de cuatro centrales hidroeléctricas estratégicas ubicadas en la región del Comahue.\n• Este proceso implica la venta del 100% de las acciones de las sociedades creadas para operar estas represas: Alicurá, El Chocón, Piedra del Águila y Cerros Colorados.\n• La apertura de las ofertas económicas definirá a los nuevos operadores que gestionarán estos complejos por los próximos 30 años.\n\n🔍 **Datos clave:**\n• **Represas:** Alicurá, El Chocón y Arroyito, Piedra del Águila, Cerros Colorados (Planicie Banderita).\n• **Ubicación:** Río Limay, en el límite entre las provincias de Neuquén y Río Negro.\n• **Contribución energética:** Aportan el 15% de la generación eléctrica nacional y el 10% de la potencia instalada.\n• **Fecha clave:** Apertura de ofertas económicas el viernes 28 de noviembre a las 10:00 a través de CONTRAT.AR.\n• **Recaudación esperada:** El Gobierno espera recaudar entre US$ 500 y US$ 700 millones por la venta total.\n• **Precalificados:** Ocho grupos de los nueve iniciales; la oferta de IPS Renewal S.A. fue desestimada por incumplir requisitos.\n\n⚡ **Desarrollo:**\n• Las concesiones originales de estas represas datan de 1993 y fueron reincorporadas al programa de privatización.\n• La medida se formalizó mediante la Resolución 1910/2025 del Ministerio de Economía y se apoya en un extenso andamiaje normativo, incluyendo leyes como la 27.742 y decretos clave como el 718/2024 y 286/2025.\n• Previamente, ENARSA y Nucleoeléctrica Argentina (NASA) conformaron cuatro sociedades operadoras (98% ENARSA, 2% NASA) para la etapa de transición.\n• Los grupos precalificados incluyen a los actuales operadores como Enel, AES Argentina, Central Puerto y Orazul.\n• También compiten nuevos actores como Pampa Energía, Central Costanera, y un consorcio formado por Hidroeléctrica Futaleufú (Aluar), la provincia de Chubut y Genneia.\n• Otros interesados sin experiencia previa en grandes represas son Edison Inversiones (familias Neuss, Cherñajovsky y Galli) e Inverlat (dueños de Havanna).\n• La adjudicación de las acciones activará formalmente las nuevas concesiones para la generación hidroeléctrica.\n\n💡 **¿Por qué importa?**\n• La privatización es considerada estratégica por el Gobierno para atraer inversiones y asegurar la eficiencia y modernización de estas infraestructuras críticas.\n• Busca inyectar capital privado en un sector fundamental para el suministro energético del país, impactando directamente en la matriz eléctrica nacional.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Privatizaciones: cuáles son las empresas que compiten por las represas del Comahue",
+          "link": "https://www.perfil.com/noticias/economia/el-gobierno-avanzo-en-la-privatizacion-de-las-represas-hidroelectricas-delcomahue.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 16:57:28"
+        },
+        {
+          "titulo": "Privatización de 4 hidroeléctricas: rechazan una oferta y mañana se conocerán los ganadores",
+          "link": "https://www.clarin.com/economia/privatizaciones-hidroelectricas-rechazan-oferta-manana-conoceran-ganadores_0_NaLFdjIKQO.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 13:46:49"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "indec_y_actividad_20251127",
+      "tema": "INDEC y Actividad Económica",
+      "tema_normalizado": "indec y actividad economica",
+      "resumen": "📌 **¿Qué está pasando?**\n• El INDEC (Instituto Nacional de Estadística y Censos) corrigió al alza los datos de actividad económica de julio y agosto al difundir el Estimador Mensual de la Actividad Económica (EMAE) de septiembre.\n• Esta revisión hizo que el tercer trimestre de 2023 registrara un crecimiento del 0,5% frente al trimestre anterior.\n• Con este ajuste, la economía argentina evitó la condición técnica de \"recesión\", que se define por dos trimestres consecutivos de caída de la actividad.\n\n🔍 **Datos clave:**\n• **EMAE Septiembre (INDEC):** Creció 0,5% mensual desestacionalizado y 5% interanual.\n• **Crecimiento 3er Trimestre (INDEC):** +0,5% desestacionalizado, lo que evitó la recesión.\n• **Intermediación Financiera:** Sector con un salto interanual del 39,7% en septiembre (según INDEC), impulsando la actividad.\n• **Actividad Económica Octubre (Ferreres):** Crecimiento mensual del 0,7% y 4,6% interanual, con +5,8% acumulado en 10 meses.\n• **Acumulado 2023 (INDEC):** La actividad económica registró un crecimiento positivo del 5,2% en los primeros 9 meses del año.\n\n⚡ **Desarrollo:**\n• La corrección retroactiva de los datos generó rápidamente suspicacias en redes sociales y entre analistas, lo que llevó al INDEC a publicar una nota explicativa.\n• El organismo aclaró que la revisión no respondió a un cambio metodológico discrecional, sino al funcionamiento técnico del proceso de desestacionalización utilizado.\n• Este método trabaja con filtros móviles que obligan a recalcular la tendencia y la estacionalidad cada vez que se incorpora un nuevo dato mensual, modificando los meses previos.\n• El EMAE desestacionalizado se construye de manera indirecta, combinando los valores desestacionalizados de cada uno de los sectores que componen la actividad económica.\n• La mejora se concentró especialmente en el sector de Intermediación Financiera, apuntalado por el crecimiento en préstamos, depósitos y comisiones bancarias.\n• También aportaron dinamismo las sociedades y agentes de bolsa, favorecidos por un fuerte aumento del volumen operado en títulos públicos.\n• Consultoras privadas como Orlando Ferreres y Asociados y Equilibra también monitorearon la actividad, confirmando la recuperación y la evitación de la recesión.\n• El ministro de Economía, Luis Caputo, celebró públicamente el dato de crecimiento de la actividad económica en septiembre a través de sus redes sociales.\n\n💡 **¿Por qué importa?**\n• El ajuste de los datos del INDEC tiene un impacto significativo al evitar que la economía argentina entre oficialmente en una recesión técnica, lo que influye en la percepción económica.\n• La explicación detallada de la metodología busca fortalecer la transparencia y la credibilidad del organismo estadístico ante la opinión pública y el análisis especializado.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El INDEC aclaró por qué corrigió el dato de actividad que evitó la recesión y generó polémica",
+          "link": "https://www.iprofesional.com/economia/442834-indec-aclaro-por-que-corrigio-dato-de-actividad-que-genero-polemica-entre-analistas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:15:00"
+        },
+        {
+          "titulo": "La actividad económica creció 0,7% mensual en octubre según Orlando Ferreres",
+          "link": "https://www.perfil.com/noticias/economia/la-actividad-economica-crecio-07-en-octubre-segun-orlando-ferreres.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 14:54:56"
+        },
+        {
+          "titulo": "El INDEC explicó por qué actualizó los números de actividad y la economía se salvó de la recesión",
+          "link": "https://www.clarin.com/economia/gobierno-explico-indec-recalculo-numeros-actividad-economia-salvo-recesion_0_PpMZ5HFFKv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 14:36:45"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "iProfesional",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "condena_ex-presidente_pedro_20251127",
+      "tema": "Condena Ex-Presidente Pedro Castillo",
+      "tema_normalizado": "condena ex-presidente pedro castillo",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente de Perú, Pedro Castillo, fue condenado a más de 11 años de prisión efectiva por la justicia peruana.\n• La sentencia se dictó por el delito de conspiración para una rebelión, tras su fallido intento de autogolpe de Estado en 2022.\n• Fue absuelto de otros cargos como abuso de poder y perturbación del orden público.\n\n🔍 **Datos clave:**\n• **Pena impuesta:** 11 años, 5 meses y 15 días de prisión privativa de libertad efectiva.\n• **Fecha del intento de autogolpe:** 7 de diciembre de 2022.\n• **Delito principal:** Conspiración para una rebelión (contra los poderes del Estado y el orden constitucional).\n• **Solicitud de la Fiscalía:** 34 años de prisión por todos los cargos inicialmente.\n• **Tiempo en la presidencia:** 16 meses (desde julio de 2021 hasta diciembre de 2022).\n• **Otra condenada:** Su exprimera ministra Betssy Chávez, también a la misma pena por participación en los hechos.\n\n⚡ **Desarrollo:**\n• El 7 de diciembre de 2022, Castillo anunció la disolución del Congreso, la instauración de un gobierno de excepción y la intervención del Poder Judicial.\n• Esta acción fue calificada por la Fiscalía como un intento de quiebre del orden constitucional, buscando evitar una moción de vacancia por \"permanente incapacidad moral\".\n• Ese mismo día, el entonces presidente fue detenido por la policía mientras se dirigía con su familia hacia la embajada de México.\n• Inmediatamente después de su anuncio y detención, el Congreso lo destituyó de su cargo.\n• Durante su breve gobierno, Castillo enfrentó acusaciones de corrupción y una gran inestabilidad política, con más de 60 cambios en su gabinete.\n• El juicio, iniciado en marzo, incluyó testimonios de exfuncionarios y mandos policiales que detallaron las órdenes y circunstancias de su detención.\n• Su caída provocó el ascenso al poder de su vicepresidenta Dina Boluarte y desató violentas protestas que dejaron más de 50 civiles muertos.\n• Castillo, un maestro rural y sindicalista, ganó las elecciones de 2021, siendo el primer presidente de Perú sin lazos con las élites tradicionales.\n\n💡 **¿Por qué importa?**\n• Esta condena refuerza el respeto al orden constitucional y sienta un precedente sobre las graves consecuencias de intentar romper la institucionalidad democrática.\n• Los eventos posteriores al autogolpe fallido generaron una profunda crisis política y social en Perú, con impactos duraderos en la estabilidad del país.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La Justicia peruana condena al expresidente Pedro Castillo a 11 años de prisión por su fallido autogolpe",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-justicia-peruana-condena-al-expresidente-pedro-castillo-a-11-anos-de-prision-por-su-fallido-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 17:00:00"
+        },
+        {
+          "titulo": "Perú: condenaron al ex presidente Pedro Castillo a 11 años y 5 meses de cárcel por el intento de golpe de Estado",
+          "link": "https://www.clarin.com/mundo/peru-condenaron-ex-presidente-pedro-castillo-11-anos-5-meses-carcel-intento-golpe-estado_0_pqIM3I8x1w.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 15:50:43"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-27",
+      "fuentes": [
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
