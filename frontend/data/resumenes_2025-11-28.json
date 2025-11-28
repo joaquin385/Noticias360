@@ -1,0 +1,29 @@
+{
+  "fecha_consolidacion": "2025-11-28",
+  "fecha_generacion": "2025-11-28T03:45:31.545299",
+  "resumenes": {
+    "internacional": {
+      "resumen": "En el ámbito de los conflictos geopolíticos, Rusia condiciona un alto el fuego en Ucrania al repliegue de Kiev de las regiones anexionadas, mientras el presidente Putin desestimó un plan de paz propuesto por Donald Trump. En Oriente Medio, Israel mantiene una estrategia de ataques diarios pese al cese el fuego con Hezbollah, y se investiga la presunta ejecución de palestinos por soldados israelíes en Cisjordania.\n\nRespecto a la seguridad interna y política migratoria en Estados Unidos, un ataque cerca de la Casa Blanca resultó en la muerte de una agente de la Guardia Nacional. El FBI investiga el incidente como terrorismo y el presidente Trump ha reforzado su discurso antimigratorio, ordenando revisar casos de asilo de la administración Biden. Paralelamente, Florida y condados de Texas implementan medidas más estrictas contra migrantes indocumentados, incluyendo la no validación de licencias de conducir y una mayor colaboración con ICE.\n\nEn América Latina, el expresidente peruano Pedro Castillo fue condenado a 11 años y 5 meses de prisión por \"conspiración para rebelión\". Venezuela revocó concesiones y bloqueó a seis aerolíneas internacionales por suspensión de vuelos, generando la respuesta de Portugal. Bolivia evalúa el regreso de la DEA y en Brasil, un operativo antinarcotráfico en Río de Janeiro dejó tres muertos y un niño herido. Otros eventos relevantes incluyen la detención por presunta corrupción de exfuncionarios cercanos a Pedro Sánchez en España, y un devastador incendio en Hong Kong que dejó más de 80 muertos y cerca de 200 desaparecidos.",
+      "cantidad_noticias": 23,
+      "fecha_generacion": "2025-11-28T03:45:06.633335",
+      "categoria": "internacional"
+    },
+    "politica": {
+      "resumen": "El gobierno del presidente Javier Milei ha priorizado medidas económicas, con Wall Street analizando la baja del riesgo país y las defensas ante una posible devaluación. En el ámbito internacional, Milei canceló su viaje a Washington para el sorteo del Mundial 2026, si bien Argentina firmó un acuerdo de \"cielos abiertos\" con Paraguay. Internamente, la Asociación Trabajadores del Estado (ATE) anunció un paro nacional y protestas contra la reforma laboral que el Ejecutivo busca aprobar antes de fin de año mediante sesiones extraordinarias.\n\nEn el ámbito judicial, la fiscalía acusó a Cristina Kirchner como \"destinataria final\" de coimas en el caso Cuadernos. La Justicia autorizó al Gobierno a participar en la causa por enriquecimiento ilícito contra Martín Insaurralde, y la Corte Suprema dejó firme la condena contra Nicolás Carrizo, líder de Los Copitos. La Cámara Federal de Casación anuló el límite temporal impuesto a la investigación por la desaparición del niño Loan Danilo Peña. Políticamente, un controvertido acto antivacunas en el Congreso, organizado por una diputada del PRO, generó amplio repudio. La senadora electa Lorena Villaverde no podrá jurar su banca, volviendo su diploma a comisión por presuntos vínculos con el narcotráfico.\n\nLa ministra de Seguridad, Patricia Bullrich, intervino en la interna de la AFA, respaldando a Juan Sebastián Verón y criticando al presidente Claudio \"Chiqui\" Tapia, evocando la frase \"la pelota no se mancha\". La UBA lanzó un centro académico dedicado al estudio del terrorismo. En el ámbito estatal, el gobierno de Puebla ha iniciado acciones para combatir un \"cártel de las concesiones\" que comprometía recursos públicos.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-28T03:45:18.852097",
+      "categoria": "politica"
+    },
+    "economia": {
+      "resumen": "El gobierno nacional impulsa reformas y alivio fiscal. Se eliminaron retenciones a exportaciones petroleras para fomentar inversiones, mientras que una reforma laboral avanza con énfasis en derechos individuales. Pese a la corrección al alza del INDEC que mostró una mejora del 0,5% en el tercer trimestre, persisten dudas sobre la capacidad de pago de las provincias endeudadas y los intendentes solicitan una rebaja del IVA. La privatización de las represas del Comahue sigue en curso.\n\nEn el sector productivo, se espera una cosecha récord de trigo, aunque con los precios más bajos desde 2019. Argentina proyecta una inversión de u$s25.000 millones en minería. Aerolíneas Argentinas sumará 18 aviones sin fondos estatales. En el frente externo, la Unión Europea pospuso una regulación antideforestación que amenaza exportaciones de soja y carne por u$s1.000 millones, y Francia reitera su rechazo al acuerdo UE-Mercosur. El turismo mostró una leve recuperación en vuelos receptivos de octubre, pero la balanza es negativa.\n\nSocialmente, ANSES confirmó aumentos, bonos y aguinaldo para jubilados y beneficiarios en diciembre. También se registraron acuerdos paritarios para Comercio y Construcción. Financieramente, Banco Macro y una empresa del Merval anunciaron pérdidas, generando cautela. No obstante, se identificaron oportunidades de inversión en CEDEARs de multinacionales. Se buscan mecanismos para el pago de servicios e impuestos en cuotas para mitigar la mora.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-28T03:45:31.544804",
+      "categoria": "economia"
+    },
+    "sociedad": {
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-28T03:45:31.545278"
+    }
+  }
+}

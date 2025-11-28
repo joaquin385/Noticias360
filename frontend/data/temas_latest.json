@@ -1,6 +1,634 @@
 {
-  "fecha": "2025-11-27",
-  "fecha_generacion": "2025-11-28T00:52:37.205250",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-28",
+  "fecha_generacion": "2025-11-28T03:49:47.333857",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "gobierno_milei:_medidas_20251128",
+      "tema": "Gobierno Milei: Medidas y Viaje",
+      "tema_normalizado": "gobierno milei: medidas y viaje",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente Javier Milei canceló su viaje a Washington, previsto para el 5 de diciembre, donde asistiría al sorteo del Mundial 2026.\n*   La decisión se atribuye a los escándalos que envuelven a la Asociación del Fútbol Argentino (AFA) y prioriza la agenda interna de reformas.\n*   Paralelamente, el Gobierno impulsa una reforma laboral y el presupuesto 2026, mientras que concretó acuerdos de \"cielos abiertos\" y la eliminación de retenciones petroleras.\n\n🔍 **Datos clave:**\n*   **Fecha de viaje cancelado:** Sorteo del Mundial 2026, 5 de diciembre en Washington D.C.\n*   **Comunicación:** Anuncio del jefe de Gabinete, Manuel Adorni, a través de la red social X.\n*   **AFA:** Denuncia de la DGI contra la financiera \"Sur Finanzas\" (vinculada a Claudio Tapia) por presunta evasión de más de 3.300 millones de pesos.\n*   **Protesta sindical:** ATE convocó a un paro nacional y \"protestas sorpresivas\" para diciembre contra la reforma laboral.\n*   **Acuerdo internacional:** Firma de un \"Acuerdo sobre Servicios Aéreos\" con Paraguay.\n*   **Medida económica:** Eliminación de retenciones a exportaciones petroleras de Santa Cruz, Neuquén y Chubut.\n*   **Agenda legislativa:** El Gobierno busca tratar el Presupuesto 2026 y la reforma laboral en sesiones extraordinarias del 10 al 31 de diciembre.\n\n⚡ **Desarrollo:**\n*   La cancelación del viaje de Milei fue interpretada como una \"respuesta silenciosa\" a las controversias de la AFA, incluyendo la sanción a Estudiantes de La Plata (\"PDFgate\") y la denuncia contra Sur Finanzas.\n*   Al no viajar, el presidente prioriza la reconfiguración de su agenda para enfocarse en el tratamiento del Presupuesto 2026 y el avance de la reforma laboral.\n*   La reforma laboral, impulsada por el ministro Federico Sturzenegger, propone cambios como el \"banco de horas\", \"convenios por empresa\", \"salario dinámico\" y límites a la acción sindical.\n*   Los principales gremios, como ATE y la CGT, han manifestado su fuerte rechazo a la reforma y amenazaron con medidas de fuerza si sus reclamos no son escuchados.\n*   En el ámbito de las relaciones exteriores, el canciller Pablo Quirno firmó un acuerdo de \"cielos abiertos\" con Paraguay, buscando liberalizar el espacio aéreo y mejorar la conectividad y tarifas.\n*   En política económica, el Gobierno eliminó las retenciones a las exportaciones de petróleo convencional en un acuerdo con gobernadores de provincias productoras (Santa Cruz, Neuquén, Chubut) para incentivar la inversión y sostener el empleo.\n*   El viaje cancelado también implicó que Milei no pudiera reunirse con Donald Trump ni exponer sus planes económicos ante empresarios estadounidenses.\n\n💡 **¿Por qué importa?**\n*   Las decisiones presidenciales demuestran una estrategia de concentración en la agenda interna y en las reformas económicas, generando tensiones con los sectores sindicales y políticos.\n*   La cancelación del viaje y las medidas implementadas marcan un período de intensas definiciones que impactarán en la estabilidad económica, social y en las relaciones internacionales del país.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 00:30:29"
+        },
+        {
+          "titulo": "El presidente Javier Milei canceló su viaje a Washington y no asistirá al sorteo del Mundial 2026",
+          "link": "https://www.perfil.com/noticias/politica/el-presidente-javier-milei-cancelo-su-viaje-a-washington-y-no-asistira-al-sorteo-del-mundial-2026.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 23:59:00"
+        },
+        {
+          "titulo": "Javier Milei canceló su viaje a Washington para el sorteo del Mundial 2026: los motivos",
+          "link": "https://www.minutouno.com/politica/javier-milei-cancelo-su-viaje-washington-el-sorteo-del-mundial-2026-los-motivos-n6218569",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 23:31:00"
+        },
+        {
+          "titulo": "Javier Milei suspendió su viaje a EEUU para presenciar el sorteo del Mundial 2026",
+          "link": "https://www.ambito.com/politica/javier-milei-suspendio-su-viaje-eeuu-presenciar-el-sorteo-del-mundial-2026-n6218557",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 22:10:00"
+        },
+        {
+          "titulo": "ATE anunció un paro nacional y protestas sorpresivas contra la Reforma Laboral que impulsa Javier Milei",
+          "link": "https://www.perfil.com/noticias/politica/ate-anuncio-un-paro-nacional-y-protestas-sorpresivas-contra-la-reforma-laboral-que-impulsa-javier-milei.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 21:46:00"
+        },
+        {
+          "titulo": "El Gobierno, ante otra hora de la verdad",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-ante-otra-hora-de-la-verdad-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 20:23:27"
+        },
+        {
+          "titulo": "Pablo Quirno se reunió con el canciller de Paraguay y firmaron un acuerdo de \"cielos abiertos\"",
+          "link": "https://www.ambito.com/politica/pablo-quirno-se-reunio-el-canciller-paraguay-y-firmaron-un-acuerdo-cielos-abiertos-n6218528",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 20:17:00"
+        },
+        {
+          "titulo": "Acelera la reforma laboral: desde los cambios de mínima que planea Milei hasta el cepo a sindicatos",
+          "link": "https://www.iprofesional.com/impuestos/442814-reforma-laboral-meta-oficial-jornada-salario-vacaciones-o-sumar-cepo-gremios",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 19:50:00"
+        },
+        {
+          "titulo": "A contrarreloj: Javier Milei busca que la reforma laboral se apruebe antes de fin de año",
+          "link": "https://www.minutouno.com/politica/a-contrarreloj-javier-milei-busca-que-la-reforma-laboral-se-apruebe-antes-fin-ano-n6218470",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 18:12:00"
+        },
+        {
+          "titulo": "El Gobierno elimina retenciones a exportaciones petroleras de Santa Cruz y Neuquén",
+          "link": "https://www.perfil.com/noticias/economia/el-gobierno-elimina-retenciones-a-exportaciones-petroleras-de-santa-cruz-y-neuquen.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 18:04:52"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil",
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "polemica_acto_antivacunas_20251128",
+      "tema": "Polémica Acto Antivacunas Congreso",
+      "tema_normalizado": "polemica acto antivacunas congreso",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se realizó un polémico acto antivacunas en el Congreso Nacional argentino, organizado por la diputada del PRO Marilú Quiroz.\n• Durante el evento, se presentaron \"expertos\" con datos dudosos y un hombre que afirmó estar \"magnetizado\" por las vacunas Covid-19.\n• La jornada generó un fuerte repudio de sociedades científicas, legisladores y el sector de la salud por la difusión de información sin base científica.\n\n🔍 **Datos clave:**\n• **Organizadora:** Diputada Marilú Quiroz (PRO, Chaco).\n• **Lugar:** Auditorio del Anexo A de la Cámara de Diputados.\n• **Título del evento:** \"¿Qué contienen realmente las vacunas?\".\n• **Presentación polémica:** José Daniel Fabián, quien exhibió objetos metálicos pegándose a su torso, atribuido a la vacuna AstraZeneca por Lorena Diblasi (Lic. Biotecnología).\n• **Ponentes destacados:** Oscar Botta (oftalmólogo, sobre vacunas y autismo), Viviana Lens (Dra., sobre \"sangre de vacunados\"), Pablo Stolkiner (Lic. Adm., sobre pandemia como \"invento\").\n• **Autorización:** Martín Menem (Presidente de la Cámara de Diputados).\n• **Repudio de:** Colegio de Médicos, Sociedad Argentina de Vacunología y Epidemiología (SAVE), y legisladores de la Comisión de Salud.\n\n⚡ **Desarrollo:**\n• El evento se extendió por más de seis horas, con oradores que vincularon las vacunas con el autismo, un supuesto \"exceso de aluminio en sangre\", y afirmaron que la pandemia fue \"un invento\".\n• La diputada Quiroz, quien ya ha presentado proyectos para revisar la obligatoriedad de la vacunación, defendió la iniciativa como un espacio para escuchar \"voces calificadas\".\n• La presentación del \"hombre imán\" fue un momento central, donde se intentó demostrar una \"magnetización\" como supuesta secuela de las vacunas, aunque algunos intentos no tuvieron éxito.\n• A pesar de los pedidos de suspensión de diversas organizaciones médicas y legisladores que lo denunciaron como \"desinformación sanitaria\", el acto fue autorizado por Martín Menem.\n• Las entidades de salud advirtieron sobre el enorme peligro que representa la difusión de estas ideas para la reticencia a vacunarse y el posible resurgimiento de enfermedades ya controladas.\n\n💡 **¿Por qué importa?**\n• La realización de un acto antivacunas en un espacio oficial como el Congreso Nacional legitima y amplifica mensajes sin base científica, pudiendo afectar gravemente la confianza pública en el calendario de vacunación.\n• Esto representa un riesgo significativo para la salud pública, al socavar los esfuerzos de prevención y el control de enfermedades que las vacunas han logrado mantener a raya.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Los antivacunas y el hombre imán: las presentaciones del PRO en el Congreso que generaron indignación",
+          "link": "https://www.perfil.com/noticias/politica/una-diputada-del-pro-realizo-un-acto-antivacunas-en-el-congreso-y-genero-repudio-en-el-sector-de-la-salud.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 23:50:00"
+        },
+        {
+          "titulo": "Insólita exposición antivacunas en el Congreso: un hombre en cuero pretendió ser prueba de consecuencias magnéticas",
+          "link": "https://www.clarin.com/politica/insolita-exposicion-antivacunas-congreso-hombre-cuero-pretendio-prueba-consecuencias-magneticas_0_U6iyAojJlB.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 21:41:52"
+        },
+        {
+          "titulo": "Polémica y repudio por un acto antivacunas organizado por una diputada de Pro en el Congreso",
+          "link": "https://www.lanacion.com.ar/politica/polemica-y-repudio-por-un-acto-antivacunas-organizado-por-una-diputada-del-pro-en-el-congreso-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 21:07:14"
+        },
+        {
+          "titulo": "Insólito acto antivacunas realizado en el Congreso y organizado por diputada del PRO",
+          "link": "https://www.minutouno.com/politica/insolito-acto-antivacunas-realizado-el-congreso-y-organizado-diputada-del-pro-n6218541",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 20:55:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Perfil",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "dolar_y_regulaciones_20251128",
+      "tema": "Dólar y Regulaciones Financieras",
+      "tema_normalizado": "dolar y regulaciones financieras",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino se enfrenta al desafío de acumular reservas internacionales en medio de debates sobre la estrategia económica más efectiva.\n• Los diferentes tipos de cambio del dólar (oficial, blue, MEP, CCL) muestran volatilidad, mientras se implementan regulaciones financieras.\n• El Banco Central y la CNV están interviniendo para estabilizar el mercado de tasas y la liquidez, afectando a fondos de inversión y bancos.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (venta BNA):** ~$1.475\n• **Dólar Blue (venta):** ~$1.440 (retrocedió $10)\n• **Brecha CCL vs. Oficial:** ~5.3%\n• **Reservas Brutas BCRA:** ~$41.959 millones (máximo desde el 13 de octubre)\n• **Riesgo País:** ~653 puntos básicos\n• **Límite CNV a cauciones:** 20% del patrimonio neto de Fondos Comunes de Inversión Money Market.\n• **Pérdidas bancarias Q3:** Banco Macro (+$33.065 millones), Grupo Supervielle (+$50.274 millones), Grupo Galicia (+$90.000 millones).\n• **Licitación de Deuda del Tesoro:** Colocó casi $14 billones (rollover del 96,48%).\n\n⚡ **Desarrollo:**\n• El Gobierno busca acumular reservas principalmente a través de dólares financieros (deuda), siguiendo un modelo similar al de Brasil en 2006-2011, y sin un dólar \"artificialmente alto\".\n• Economistas advierten sobre la volatilidad de los capitales financieros y cuestionan que el actual aumento de exportaciones no se deba a una mejora real de la competitividad, sino a pocos productos específicos.\n• La Comisión Nacional de Valores (CNV), a pedido del Banco Central, limitó al 20% la inversión de los Fondos Comunes de Inversión Money Market en \"cauciones\".\n• Esta regulación busca reducir la volatilidad de las tasas de interés de corto plazo, evitar una excesiva concentración en estos instrumentos y fomentar la inversión en títulos de deuda del Tesoro.\n• Varios bancos (Macro, Supervielle, Galicia) reportaron importantes pérdidas en el tercer trimestre del año, atribuidas a la incertidumbre electoral, mayores encajes del BCRA, contracción monetaria y suba de tasas de interés que incrementó la incobrabilidad.\n• El mercado de capitales local (S&P Merval) mostró subas, mientras que el riesgo país se mantiene en un nivel que aún dificulta el acceso a financiamiento internacional.\n• Algunas empresas, como Loma Negra, mostraron malos resultados en el tercer trimestre por menor actividad, aumento de costos y un impacto negativo por diferencias de cambio.\n\n💡 **¿Por qué importa?**\n• La capacidad del país para acumular reservas es fundamental para la estabilidad económica, la contención del dólar y la prevención de futuras crisis financieras.\n• Las nuevas regulaciones y el comportamiento del dólar impactan directamente en el poder adquisitivo, las inversiones y el costo de vida de los ciudadanos.\n• La situación financiera de bancos y empresas refleja la salud general de la economía y las implicaciones de las políticas monetarias y cambiarias actuales.",
+      "cantidad_noticias": 20,
+      "noticias": [
+        {
+          "titulo": "¿Y las reservas cómo van a subir?, pregunta el mercado",
+          "link": "https://www.clarin.com/economia/reservas-van-subir-pregunta-mercado_0_MWiv3Jk9fn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 22:13:29"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-27-noviembre-n6218168",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 20:31:00"
+        },
+        {
+          "titulo": "La baja del riesgo país y las 4 claves económicas del Gobierno que analizan en Wall Street",
+          "link": "https://www.iprofesional.com/politica/442860-riesgo-pais-como-impactan-cuatro-claves-economicas-gobierno-javier-milei-que-analizan-inversores",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 19:30:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cerró este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-27-noviembre-n6218108",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 18:57:00"
+        },
+        {
+          "titulo": "Banco Macro anunció pérdidas por más de $30.000 millones: ¿momento de comprar o vender sus acciones?",
+          "link": "https://www.iprofesional.com/finanzas/442846-banco-macro-anuncio-perdidas-millonarias-momento-de-comprar-o-vender-acciones",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 17:50:00"
+        },
+        {
+          "titulo": "El S&P Merval selló su tercer ascenso en fila y se encamina a cerrar su mejor semana en un mes",
+          "link": "https://www.ambito.com/finanzas/el-sp-merval-supera-un-valor-clave-y-los-bonos-cer-mantienen-el-apetito-n6218265",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 17:25:00"
+        },
+        {
+          "titulo": "CEDEAR de una gran multinacional, recomendada por expertos: puede \"volar\" hasta 50% en dólares",
+          "link": "https://www.iprofesional.com/finanzas/442786-cedear-de-empresa-mundial-recomendada-por-expertos-puede-subir-hasta-50-por-ciento-en-dolares",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 16:53:00"
+        },
+        {
+          "titulo": "El dólar oficial cayó tras cinco días al alza ante un mercado reducido por el feriado en EEUU",
+          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-quedar-el-foco-cinco-subas-seguidas-y-hay-expectativa-el-impacto-la-licitacion-n6218174",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:44:00"
+        },
+        {
+          "titulo": "Empresa del Merval quedó expuesta por malos números y la City ya no recomienda comprar su acción",
+          "link": "https://www.iprofesional.com/economia/442835-empresa-merval-quedo-expuesta-por-malos-numeros-que-advierten-con-su-accion",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 16:43:00"
+        },
+        {
+          "titulo": "La CNV avanzó con un \"cepo\" a inversión elegida por la City para frenar la volatilidad  de las tasas",
+          "link": "https://www.iprofesional.com/finanzas/442842-cnv-avanzo-con-cepo-inversion-elegida-por-city-para-frenar-volatilidad-en-tasas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 16:39:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-27-noviembre-n6218374",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:33:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-jueves-27-noviembre-n6218435",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:32:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-27-noviembre-n6218110",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:24:00"
+        },
+        {
+          "titulo": "El dólar blue retrocedió $10 y encadenó su segunda caída consecutiva",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-retrocedio-10-y-encadeno-su-segunda-caida-consecutiva-n6218423",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 16:08:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 27 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-27-noviembre-n6218109",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 15:57:00"
+        },
+        {
+          "titulo": "La CNV limita las inversiones de los Fondos Money Market para reducir la volatilidad en las tasas",
+          "link": "https://www.iprofesional.com/economia/442840-cnv-limito-inversion-de-fondos-money-market-cauciones-motivos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:51:00"
+        },
+        {
+          "titulo": "La CNV puso un tope a la inversión de los FCI Money Market en cauciones para reducir la volatilidad",
+          "link": "https://www.ambito.com/finanzas/la-cnv-puso-un-tope-la-inversion-los-money-market-cauciones-reducir-la-volatilidad-n6218407",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 15:38:00"
+        },
+        {
+          "titulo": "Dólar en la cornisa: el plan oculto de Caputo para juntar reservas sin soltar las bandas",
+          "link": "https://www.iprofesional.com/finanzas/442805-dolar-en-la-cornisa-el-plan-oculto-de-caputo-para-juntar-reservas-sin-soltar-las-bandas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:15:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy jueves 27 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-jueves-27-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:12:32"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue este jueves 27 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-jueves-27-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil",
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "jura_senadores_y_20251128",
+      "tema": "Jura Senadores y Caso Villaverde",
+      "tema_normalizado": "jura senadores y caso villaverde",
+      "resumen": "📌 **¿Qué está pasando?**\n• Lorena Villaverde, senadora electa por La Libertad Avanza (LLA) de Río Negro, no pudo jurar su banca este viernes 29 de noviembre junto a los demás 23 legisladores.\n• Su diploma fue impugnado por presuntos vínculos con el narcotráfico y antecedentes judiciales, y devuelto a la Comisión de Asuntos Constitucionales para ser revisado después del 10 de diciembre.\n• Esta situación la convierte en la única de los 24 nuevos senadores que no accedió a su escaño en la sesión preparatoria.\n\n🔍 **Datos clave:**\n• **Fecha de jura general:** Viernes 29 de noviembre.\n• **Senadores que juraron:** 23 de los 24 electos.\n• **Senadora excluida:** Lorena Villaverde (Río Negro, LLA).\n• **Causa central de impugnación:** Una causa por estupefacientes en Estados Unidos en 2002 y presuntos vínculos con narcotráfico.\n• **Nueva fecha de revisión:** Después del 10 de diciembre.\n\n⚡ **Desarrollo:**\n• Los senadores electos en octubre de 2023 debían jurar para asumir sus mandatos el 10 de diciembre. El caso de Villaverde fue una sorpresa, ya que inicialmente parecía tener los votos necesarios para jurar.\n• La impugnación contra Villaverde, impulsada por el PJ de Río Negro y el kirchnerismo, se basa en una detención en Florida, EEUU, en 2002 por presunto tráfico de cocaína, y sus nexos con el empresario Federico \"Fred\" Machado, acusado de narcotráfico.\n• Los jefes de bloque, en una reunión con la vicepresidenta Victoria Villarruel, acordaron enviar el pliego de Villaverde a la Comisión de Asuntos Constitucionales, posponiendo su definición hasta la nueva conformación del Senado.\n• Victoria Villarruel buscó desvincularse de la defensa de Villaverde, expresando que no quería quedar \"pegada\" a una senadora sospechada de narcotráfico, a quien ya había cuestionado previamente.\n• Patricia Bullrich, futura jefa del bloque LLA en el Senado, había defendido a Villaverde públicamente y se le atribuyó presionar para su jura, aunque ella lo negó.\n• El oficialismo de LLA, aunque su bloque pidió la vuelta a comisión, espera poder revertir el dictamen de rechazo con la nueva composición de la Cámara.\n• Impugnaciones presentadas contra los peronistas Martín Soria y Jorge Capitanich también se resolvieron, permitiendo que ambos juraran sus bancas sin problemas.\n\n💡 **¿Por qué importa?**\n• El caso Villaverde resalta el debate sobre la idoneidad y antecedentes de los funcionarios electos, impactando en la confianza pública en el Poder Legislativo.\n• Refleja las complejidades políticas y las tensiones internas en el nuevo oficialismo, así como la importancia de las negociaciones interbloques para la gobernabilidad en el Senado.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Senado: Lorena Villaverde no podrá jurar su banca y su diploma volverá a comisión tras el 10 de diciembre",
+          "link": "https://www.ambito.com/politica/senado-lorena-villaverde-no-podra-jurar-su-banca-y-su-diploma-volvera-comision-el-10-diciembre-n6218549",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 21:37:00"
+        },
+        {
+          "titulo": "Juran los nuevos senadores, menos  Lorena Villaverde, impugnada por el kirchnerismo por supuestos contactos con el narco",
+          "link": "https://www.lanacion.com.ar/politica/se-define-la-suerte-de-lorena-villaverde-impugnada-por-el-kirchnerismo-por-supuestos-contactos-con-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 20:22:26"
+        },
+        {
+          "titulo": "Villarruel recibió a los nuevos senadores oficialistas con un reproche por el presupuesto del Senado",
+          "link": "https://www.lanacion.com.ar/politica/villarruel-recibio-a-los-nuevos-senadores-oficialistas-con-un-reproche-por-el-presupuesto-del-senado-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 20:13:38"
+        },
+        {
+          "titulo": "Por falta de votos, el pliego de la libertaria Lorena Villaverde vuelve a comisión y no jura este viernes",
+          "link": "https://www.clarin.com/politica/cortocircuito-villarruel-bullrich-horas-asuncion-vice-despega-movida-defender-libertaria-villaverde_0_QHd6pHoWlI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 19:46:43"
+        },
+        {
+          "titulo": "Patricia Bullrich reunió al bloque de LLA en el Senado y se prepara para asumir el mando",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-reunio-al-bloque-lla-el-senado-y-se-prepara-asumir-el-mando-n6218499",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 19:18:00"
+        },
+        {
+          "titulo": "Uno por uno, quiénes son los 23 senadores que juran este viernes",
+          "link": "https://www.clarin.com/politica/24-senadores-juran-viernes_0_zHQXmbGrey.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 17:14:54"
+        },
+        {
+          "titulo": "Senado: exgobernadores y referentes provinciales con peso territorial marcan la cancha",
+          "link": "https://www.ambito.com/politica/senado-exgobernadores-y-referentes-provinciales-peso-territorial-marcan-la-cancha-n6218391",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 15:47:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_cuadernos:_rechazo_20251128",
+      "tema": "Causa Cuadernos: Rechazo y Fiscalía",
+      "tema_normalizado": "causa cuadernos: rechazo y fiscalia",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Corte Suprema de Justicia de la Nación rechazó los recursos de un grupo de empresarios involucrados en la Causa Cuadernos que pedían ser juzgados por la justicia electoral en lugar de la penal.\n*   Paralelamente, la fiscalía concluyó la lectura de su acusación, señalando a la expresidenta Cristina Kirchner como la \"destinataria final\" de los pagos ilegales recibidos de empresarios.\n\n🔍 **Datos clave:**\n*   **86:** Total de procesados en la Causa Cuadernos que enfrentan el juicio oral.\n*   **678 páginas:** Extensión de la acusación central leída por la fiscalía contra los imputados.\n*   **22 hechos:** Cantidad de cohecho por los que se acusa a Cristina Kirchner en el expediente.\n*   **Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti:** Jueces de la Corte que firmaron el rechazo a los recursos empresariales.\n*   **Carlos Stornelli:** Fiscal federal a cargo de la acusación contra la expresidenta.\n*   **2013 y 2015:** Años de campañas electorales para los que los empresarios alegaron que el dinero eran \"aportes\".\n\n⚡ **Desarrollo:**\n*   Empresarios como Hugo Dragonetti, Jorge Mauricio Balan y Armando Loson (quien fue arrepentido) alegaban que el dinero entregado eran \"aportes electorales no formalizados\" y no coimas.\n*   Su objetivo era que sus casos pasaran a la justicia electoral, lo que implicaría un encuadre legal diferente y potencialmente menos severo que la justicia penal.\n*   La Corte Suprema rechazó estos planteos argumentando que las presentaciones no se dirigían contra una sentencia definitiva o equiparable, una respuesta similar a más de treinta planteos previos.\n*   Esta decisión de la Corte respalda la continuación del juicio oral de la Causa Cuadernos ante el Tribunal Oral Federal 7 (TOF 7), donde también está siendo juzgada Cristina Kirchner.\n*   La fiscalía, a través de Carlos Stornelli, acusó directamente a Cristina Kirchner de recibir sumas de dinero en sus domicilios, como el de la calle Uruguay, el cual funcionaba como \"punto de acopio\".\n*   Se describió un esquema donde Roberto Baratta era el receptor inicial, Héctor Daniel Muñoz (fallecido) un intermediario, y Cristina Fernández la \"destinataria final\" de los fondos.\n*   La expresidenta enfrenta cargos como presunta jefa de asociación ilícita y cohecho, siguiendo las audiencias por Zoom desde su domicilio en San José 1111.\n*   La acusación fiscal se basó en el repaso de 128 episodios de presuntos sobornos y testimonios de imputados colaboradores que \"ratificaron la participación e intervención directa\" de la exmandataria.\n\n💡 **¿Por qué importa?**\n*   El fallo de la Corte Suprema consolida la vía penal para los empresarios en la Causa Cuadernos, garantizando la continuidad del juicio oral y la investigación de la corrupción.\n*   La acusación formal de la fiscalía contra Cristina Kirchner como la \"destinataria final\" de las coimas la sitúa como la figura central del presunto esquema, marcando un paso clave en el proceso judicial.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Cuadernos: la Corte rechazó recursos de empresarios que decían que las coimas habían sido \"aportes electorales ilegales\"",
+          "link": "https://www.clarin.com/politica/cuadernos-corte-rechazo-recursos-empresarios-decian-coimas-aportes-electorales-ilegales_0_0WUxgzoYUH.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 18:05:57"
+        },
+        {
+          "titulo": "Cuadernos: Cristina Kirchner era la \"destinataria final\" de las coimas, según sostuvo la fiscalía",
+          "link": "https://www.iprofesional.com/politica/442837-cuadernos-cristina-kirchner-era-destinataria-final-de-coimas-segun-fiscalia",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:39:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "deuda_y_presupuesto_20251128",
+      "tema": "Deuda y Presupuesto Provincial/CABA",
+      "tema_normalizado": "deuda y presupuesto provincial/caba",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El equipo económico nacional mira con desconfianza el endeudamiento externo de provincias como Santa Fe y la Ciudad Autónoma de Buenos Aires (CABA), temiendo futuros defaults.\n*   La provincia de Buenos Aires se declaró en emergencia económica y busca autorización para un significativo endeudamiento, mientras que CABA logró aprobar su presupuesto con concesiones fiscales.\n\n🔍 **Datos clave:**\n*   **CABA:** Emitió Bono Tango Serie 13 por USD 600 millones a tasa del 7.8%. Aprobó Presupuesto 2026 con el apoyo de LLA tras negociación por alivio fiscal.\n*   **Provincia de Buenos Aires:** Declaró emergencia económica hasta el 31 de marzo de 2027. Solicitó autorización para tomar US$ 3.035 millones de deuda (más US$ 500 millones para empresas estatales).\n*   **Santa Fe:** Planea una emisión de deuda internacional entre USD 700 y USD 1.000 millones.\n*   **IVA Municipal:** Intendentes piden bajar la alícuota del IVA del 21% al 10.5% para compras municipales.\n*   **IIBB (PBA):** La Ley Fiscal 2026 aumenta el piso no imponible del Impuesto sobre los Ingresos Brutos para la industria en un 60%.\n\n⚡ **Desarrollo:**\n*   Altos funcionarios del equipo económico nacional expresaron su \"disconformidad\" con la toma de deuda externa por parte de provincias y CABA, cuestionando su capacidad de pago y mencionando que \"no son generadoras de dólares\".\n*   La provincia de Buenos Aires justificó su emergencia económica y la necesidad de deuda por la \"profunda recesión\" y la \"detracción\" de transferencias nacionales, que comprometen servicios esenciales.\n*   El gobernador Axel Kicillof enfrenta dificultades para aprobar la Ley de Financiamiento en la Legislatura bonaerense, ya que requiere dos tercios de los votos y hay fuertes disputas con municipios por la asignación del 8% del endeudamiento a un fondo municipal.\n*   En CABA, el gobierno de Jorge Macri logró destrabar la aprobación del Presupuesto 2026 y leyes impositivas al negociar con La Libertad Avanza (LLA), acordando la exención de Ingresos Brutos para Fondos Comunes de Inversión y del Impuesto a los Sellos en créditos hipotecarios.\n*   Intendentes de diversos municipios se unieron para impulsar un proyecto de ley que reduzca el IVA en sus compras, argumentando que no pueden descargarlo como crédito fiscal y esto les permitiría liberar recursos.\n*   La Ley Fiscal 2026 de la provincia de Buenos Aires busca beneficiar a la industria, especialmente a PyMEs, actualizando la base no imponible de Ingresos Brutos por un 60%, un avance logrado tras el diálogo con cámaras fabriles.\n\n💡 **¿Por qué importa?**\n*   La gestión de la deuda y los presupuestos provinciales/CABA es clave para la sostenibilidad financiera de estas jurisdicciones y su capacidad para brindar servicios públicos y realizar inversiones necesarias.\n*   Estas discusiones reflejan tensiones políticas y económicas entre el gobierno central y las provincias, así como entre los diferentes niveles del Estado, impactando directamente en la distribución de recursos y las políticas fiscales.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "¿Nueva tensión?: hay dudas en el equipo económico sobre la capacidad de pago de las provincias que se endeudan en el exterior",
+          "link": "https://www.infobae.com/economia/2025/11/27/nueva-tension-hay-dudas-en-el-equipo-economico-sobre-la-capacidad-de-pago-de-las-provincias-que-se-endeudan-en-el-exterior/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-27 23:22:01"
+        },
+        {
+          "titulo": "La provincia de Buenos Aires se declaró en emergencia económica y sigue la pulseada de los municipios por la deuda",
+          "link": "https://www.lanacion.com.ar/politica/la-provincia-de-buenos-aires-se-declaro-en-emergencia-economica-y-sigue-la-pulseada-de-los-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 19:45:32"
+        },
+        {
+          "titulo": "Pujas y tironeos en Legislatura: aún no hay acuerdo para votar el endeudamiento que pide Kicillof",
+          "link": "https://www.clarin.com/politica/pujas-tironeos-legislatura-acuerdo-votar-endeudamiento-pide-kicillof_0_eL6eiTDNZw.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 19:37:35"
+        },
+        {
+          "titulo": "Legislatura porteña: Pro logró destrabar la sesión para aprobar el presupuesto 2026 tras una ardua negociación con LLA",
+          "link": "https://www.lanacion.com.ar/politica/legislatura-portena-buscan-destrabar-la-sesion-para-aprobar-el-presupuesto-2026-en-medio-de-una-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-27 19:36:06"
+        },
+        {
+          "titulo": "Los intendentes piden rebaja del IVA para las compras de los municipios",
+          "link": "https://www.ambito.com/economia/los-intendentes-piden-rebaja-del-iva-las-compras-los-municipios-n6218493",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 19:32:00"
+        },
+        {
+          "titulo": "Ciudad: el PRO destrabó negociación con LLA y la Legislatura se encamina a aprobar el Presupuesto de Jorge Macri",
+          "link": "https://www.ambito.com/politica/ciudad-el-pro-destrabo-negociacion-lla-y-la-legislatura-se-encamina-aprobar-el-presupuesto-jorge-macri-n6218230",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 19:18:00"
+        },
+        {
+          "titulo": "Con la industria en crisis, Axel Kicillof busca aliviar a las fábricas y muestra señales de diálogo",
+          "link": "https://www.perfil.com/noticias/economia/con-la-industria-en-crisis-axel-kicillof-busca-aliviar-a-las-fabricas-y-muestra-senales-de-dialogo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 15:30:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Infobae",
+        "Perfil",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "controversia_afa:_gobierno_20251128",
+      "tema": "Controversia AFA: Gobierno y Tapia",
+      "tema_normalizado": "controversia afa: gobierno y tapia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno, con figuras como Patricia Bullrich y Javier Milei, ha intensificado su confrontación con Claudio \"Chiqui\" Tapia, presidente de la AFA.\n• La disputa se reavivó tras las sanciones de la AFA a Juan Sebastián Verón y a Estudiantes de La Plata por un \"pasillo de espaldas\" a Rosario Central.\n• Esta polémica se enmarca en un debate más amplio sobre el futuro del fútbol argentino, incluyendo la posible implementación de las Sociedades Anónimas Deportivas (SAD).\n\n🔍 **Datos clave:**\n• **Actores principales:** Claudio \"Chiqui\" Tapia (AFA), Patricia Bullrich (Ministra de Seguridad), Juan Sebastián Verón (Pte. Estudiantes), Javier Milei (Presidente).\n• **Sanciones AFA:** Verón fue suspendido por 6 meses para actividades relacionadas con el fútbol; 11 jugadores de Estudiantes por 2 partidos.\n• **Frase icónica:** Patricia Bullrich citó a Maradona: \"La pelota no se mancha. Aunque creo que ya está bastante sucia.\"\n• **Figura clave AFA:** Pablo Toviggino, tesorero de AFA y \"mano derecha\" de Tapia, conocido por su influencia y estilo confrontativo.\n• **Respaldo a Tapia:** El expresidente Alberto Fernández elogió públicamente la gestión de Tapia, afirmando que \"ha hecho un buen trabajo\".\n\n⚡ **Desarrollo:**\n• **Postura del Gobierno:** Bullrich y Milei respaldan a Verón, a quien ven \"con el hincha de verdad\", y critican a Tapia como representante de \"la casta y la mafia\".\n• **Modelo de fútbol:** El Gobierno promueve la implementación de las Sociedades Anónimas Deportivas (SAD) como un modelo de \"negocios\" frente al tradicional, una postura que Milei sostiene desde 2022.\n• **Acciones de la AFA:** El Tribunal de Disciplina sancionó a Estudiantes y a Verón por su protesta al \"supuesto campeón\" Rosario Central, desatando la condena de funcionarios gubernamentales.\n• **Conflicto histórico:** Las tensiones entre el Gobierno y la AFA datan de 2024, con el intento de impulsar las SADs, y se agudizaron en julio de 2025 con un aumento de alícuotas a los clubes.\n• **Poder en AFA:** Pablo Toviggino, además de tesorero, preside el Consejo Federal (220 ligas, 3.500 clubes) y es visto como un actor central con vínculos políticos afines al peronismo.\n• **Defensa de Tapia:** Alberto Fernández se manifestó en contra de la injerencia política en el fútbol y valoró positivamente la gestión de Tapia al frente de la AFA.\n\n💡 **¿Por qué importa?**\n• La controversia refleja un choque fundamental entre el modelo de gestión actual de la AFA y la propuesta de privatización del fútbol (SADs) impulsada por el Gobierno.\n• Subraya la tensión entre el poder político y las estructuras establecidas en el deporte, con implicaciones directas sobre la autonomía de las federaciones y el futuro de los clubes argentinos.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Los mensajes de funcionarios del Gobierno contra Tapia",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 00:19:09"
+        },
+        {
+          "titulo": "Patricia Bullrich respaldó a Juan Sebastián Verón y citó a Maradona: \"La pelota no se mancha\"",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-respaldo-juan-sebastian-veron-y-cito-maradona-la-pelota-no-se-mancha-n6218571",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 23:53:00"
+        },
+        {
+          "titulo": "Patricia Bullrich se metió en la pelea entre la AFA y Estudiantes: \"Verón está con el hincha\"",
+          "link": "https://www.minutouno.com/politica/patricia-bullrich-se-metio-la-pelea-la-afa-y-estudiantes-veron-esta-el-hincha-n6218550",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 21:46:00"
+        },
+        {
+          "titulo": "\"La pelota no se mancha, aunque creo que ya está bastante sucia\": Bullrich se sumó a las críticas contra Chiqui Tapia",
+          "link": "https://www.clarin.com/politica/pelota-mancha-creo-bastante-sucia-bullrich-sumo-criticas-chiqui-tapia_0_jE6faXb916.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 20:42:52"
+        },
+        {
+          "titulo": "Quién es Pablo Toviggino, el polémico cajero de \"Chiqui\" Tapia en la AFA",
+          "link": "https://noticias.perfil.com/noticias/politica/quien-es-pablo-toviggino-el-polemico-cajero-de-chiqui-tapia-en-la-afa.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 16:37:36"
+        },
+        {
+          "titulo": "Alberto Fernández pidió que De Vido tenga prisión domiciliaria y elogió la gestión de Chiqui Tapia en la AFA: \"Ha hecho un buen trabajo\"",
+          "link": "https://www.clarin.com/politica/alberto-fernandez-pidio-vido-prision-domiciliaria-volvio-defender-cristina-kirchner_0_B8X4ufSAN0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 16:28:29"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil",
+        "Minuto1",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "economia_laboral_y_20251128",
+      "tema": "Economía Laboral y Previsional",
+      "tema_normalizado": "economia laboral y previsional",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diversos sectores laborales y previsionales en Argentina reciben actualizaciones de ingresos en diciembre de 2025.\n• Se oficializan aumentos salariales para trabajadores de Comercio y Construcción, y beneficios para jubilados y beneficiarios de asignaciones de ANSES.\n• Estas medidas buscan mitigar el impacto de la inflación y garantizar un piso de ingresos para el cierre del año.\n\n🔍 **Datos clave:**\n• **Fecha:** Diciembre de 2025.\n• **Aumento ANSES:** 2,34% para jubilaciones, pensiones y asignaciones familiares.\n• **Bono jubilados:** $70.000 para quienes perciben el haber mínimo.\n• **Jubilación mínima total (Dic 2025):** $581.319,38 (incluye haber, bono y aguinaldo).\n• **Acuerdo Comercio:** Incremento mensual del 1% (remunerativo) de julio a diciembre y suma fija no remunerativa de $40.000.\n• **Acuerdo Construcción (UOCRA):** Incremento del 1.3% sobre la base de noviembre y una suma fija mensual no remunerativa.\n• **Aguinaldo:** Segunda cuota del Sueldo Anual Complementario (SAC) para jubilados y pensionados.\n\n⚡ **Desarrollo:**\n• El Gobierno homologó el acuerdo paritario de Comercio entre FAECYS y cámaras empresariales, estableciendo salarios que, para un Administrativo A, alcanzan aproximadamente $1.108.170,99 brutos en diciembre.\n• Este acuerdo del sector Comercio fija un piso salarial y las sumas no remunerativas impactan directamente en el bolsillo sin integrar el básico.\n• ANSES oficializó, mediante las resoluciones 359 y 361/2025, el incremento del 2,34% y el bono de $70.000 para jubilados y pensionados con haberes mínimos.\n• La jubilación máxima en diciembre de 2025, incluyendo el medio aguinaldo, ascenderá a $3.440.695,38.\n• La Pensión Universal para el Adulto Mayor (PUAM) y las Pensiones No Contributivas (PNC) también reciben el aumento, bono y aguinaldo, alcanzando un total de $479.055,50 y $427.923,56, respectivamente.\n• La UOCRA y cámaras empresarias acordaron un incremento del 1.3% para los obreros de la construcción en yacimientos petrolíferos y gasíferos (CCT 545/08).\n• Los salarios por hora para la construcción varían por zona, siendo el Oficial especializado en Zona A de $5.268 por hora.\n• Las Asignaciones Universal por Hijo (AUH) y por Embarazo generales se fijan en $122.492 para diciembre de 2025, con montos mayores para zonas específicas o condiciones especiales.\n\n💡 **¿Por qué importa?**\n• Estas actualizaciones garantizan un aumento de ingresos para millones de trabajadores y beneficiarios previsionales en Argentina, especialmente para los de haberes más bajos.\n• Contribuyen a que los salarios y beneficios no pierdan tanto poder adquisitivo y aseguran la continuidad de la cobertura de salud mediante aportes de sumas no remunerativas.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Paritarias de Comercio: cuánto cobrarán en diciembre de 2025 tras el último acuerdo",
+          "link": "https://www.ambito.com/economia/paritarias-comercio-cuanto-cobraran-diciembre-2025-el-ultimo-acuerdo-n6218471",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 22:00:00"
+        },
+        {
+          "titulo": "ANSES confirmó aumento y bono de diciembre: cuánto cobran jubilados y beneficiarios de asignaciones",
+          "link": "https://www.iprofesional.com/economia/442869-anses-confirmo-aumento-y-bono-para-jubilados-y-asignaciones-cuanto-cobran-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 21:27:00"
+        },
+        {
+          "titulo": "Paritarias de la construcción: cuánto cobrarán los trabajadores en diciembre 2025",
+          "link": "https://www.ambito.com/economia/paritarias-la-construccion-cuanto-cobraran-los-trabajadores-diciembre-2025-n6218452",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 17:45:00"
+        },
+        {
+          "titulo": "ANSES: los montos confirmados de la jubilación mínima y máxima en diciembre",
+          "link": "https://www.minutouno.com/economia/anses-los-montos-confirmados-la-jubilacion-minima-y-maxima-diciembre-n6217625",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 14:58:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "indec_y_balanza_20251128",
+      "tema": "INDEC y Balanza Comercial",
+      "tema_normalizado": "indec y balanza comercial",
+      "resumen": "📌 **¿Qué está pasando?**\n• El INDEC corrigió al alza datos económicos previos, lo que resultó en que la economía argentina evitara una recesión técnica, generando debate.\n• Simultáneamente, la balanza turística del país registró un importante déficit en octubre y en el acumulado anual de visitantes y divisas.\n\n🔍 **Datos clave:**\n• **INDEC (actividad económica):**\n    • **EMAE Septiembre:** Mejoró 0,5% mensual.\n    • **Tercer Trimestre:** Creció 0,5% respecto al trimestre anterior, evitando la recesión.\n    • **Intermediación Financiera:** Explicó casi el 40% del crecimiento anual de la economía.\n• **Balanza Turística (Octubre):**\n    • **Saldo Negativo:** US$ 364,59 millones.\n    • **Turistas al exterior:** 725,0 mil personas.\n    • **Turistas que ingresaron:** 389,8 mil personas.\n    • **Gasto Promedio Diario (Argentinos en exterior):** US$ 94,2 (máximo en EEUU y Canadá: US$ 119,3).\n    • **Gasto Promedio Diario (Extranjeros en Argentina):** US$ 88,0 (máximo de brasileños: US$ 108,8).\n• **Acumulado Enero-Octubre:**\n    • **Visitantes que ingresaron:** 7,09 millones (22,2% menos que el mismo período del año pasado).\n    • **Personas que salieron:** 16,28 millones (aumento del 47,0% sobre el año pasado).\n\n⚡ **Desarrollo:**\n• El INDEC explicó que la corrección al alza de los datos del Estimador Mensual de Actividad Económica (EMAE) se debe a tres factores.\n• Estos factores incluyen el efecto composición impulsado por el sector de Intermediación Financiera, la reestimación propia del método de desestacionalización y el impacto del dato de septiembre al cerrar el trimestre.\n• Los cambios retroactivos en los datos de julio y agosto, que originalmente mostraban una tendencia negativa, pasaron a ser positivos, generando \"suspicacias\" y cuestionamientos públicos.\n• En cuanto al turismo, a pesar de una tenue mejora en octubre, con la primera suba anual (+1,3%) en vuelos desde el extranjero, el balance general siguió siendo deficitario.\n• El turismo emisivo (argentinos viajando al exterior) aumentó un 10,8% en octubre respecto al año pasado, mientras que el receptivo (extranjeros en Argentina) disminuyó un 5,9%.\n• Daniel Schteingart de Fundar pronostica que 2025 podría marcar un récord histórico en turismo emisivo (superando los 12 millones), con un mínimo en receptivo desde 2006 (exceptuando la pandemia).\n\n💡 **¿Por qué importa?**\n• La credibilidad de los datos oficiales del INDEC es crucial para la toma de decisiones económicas, y las correcciones en cifras clave pueden generar incertidumbre sobre la verdadera situación del país.\n• El persistente déficit en la balanza turística representa una importante salida de divisas, lo que impacta negativamente en las reservas y en el equilibrio comercial general de Argentina.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "INDEC explicó las tres causas que corrigieron al alza los datos de la economía y que evitaron la recesión",
+          "link": "https://www.ambito.com/economia/indec-explico-las-tres-causas-que-corrigieron-al-alza-los-datos-la-y-que-evitaron-la-recesion-n6218500",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 21:18:00"
+        },
+        {
+          "titulo": "La balanza turística marcó un saldo negativo de US$ 364 millones",
+          "link": "https://www.perfil.com/noticias/economia/la-balanza-turistica-marco-saldo-de-negativo-de-us-364-millones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 17:55:24"
+        },
+        {
+          "titulo": "Tenue rebote para el turismo: en octubre los vuelos desde el extranjero tuvieron su primera mejora del año",
+          "link": "https://www.ambito.com/economia/tenue-rebote-el-turismo-local-octubre-los-vuelos-el-extranjero-tuvieron-su-primera-mejora-del-ano-n6218441",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 17:44:00"
+        },
+        {
+          "titulo": "El INDEC aclaró por qué corrigió el dato de actividad que evitó la recesión y generó polémica",
+          "link": "https://www.iprofesional.com/economia/442834-indec-aclaro-por-que-corrigio-dato-de-actividad-que-genero-polemica-entre-analistas",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-27 15:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "justicia_argentina:_casos_20251128",
+      "tema": "Justicia Argentina: Casos y Fallos",
+      "tema_normalizado": "justicia argentina: casos y fallos",
+      "resumen": "📌 **¿Qué está pasando?**\n• La justicia argentina ha tomado decisiones importantes en diversos casos que involucran a figuras públicas, corrupción y derechos humanos.\n• Estos fallos abarcan desde el rol de organismos de control en investigaciones complejas hasta la priorización de búsquedas de personas desaparecidas y la asignación de recursos estatales.\n\n🔍 **Datos clave:**\n• **Martín Insaurralde:** Ex-intendente de Lomas de Zamora; la Justicia permitió que la UIF siga como querellante en su causa por enriquecimiento ilícito (iniciada en 2023).\n• **Ricardo Nissen:** Ex-titular de la IGJ; la Corte Suprema desestimó su intento de ser querellante contra 9 jueces de la Cámara Comercial.\n• **Nicolás Carrizo:** Líder de \"Los Copitos\"; condena firme de 1 año de prisión en suspenso por tenencia ilegítima de 2 DNI, ratificada por la Corte Suprema.\n• **Loan Danilo Peña:** Niño de 6 años desaparecido; la Casación anuló la limitación de 60 días impuesta a la investigación, priorizando la búsqueda.\n• **Cristina Kirchner:** Su custodia continúa vigilando propiedades \"vacías\" en el Sur, pese a su condena firme a 6 años de prisión por corrupción (diciembre 2022).\n• **Sergio Mastropietro:** Empresario vinculado al caso ANDIS; su celular no pudo ser secuestrado el 15 de noviembre debido a una demora de autoridades.\n\n⚡ **Desarrollo:**\n• La Cámara Federal de Casación Penal ratificó que la Unidad de Información Financiera (UIF) puede participar como querellante en la causa contra Martín Insaurralde por lavado de dinero. Esto ocurrió pese a la defensa intentar excluir a la UIF argumentando un decreto presidencial.\n• La Corte Suprema de Justicia desestimó la pretensión de Ricardo Nissen de ser querellante en una denuncia contra nueve magistrados de la Cámara de Apelaciones en lo Comercial. Nissen los acusaba de anular facultades de la IGJ para beneficiar a empresarios poderosos.\n• La condena de Nicolás Carrizo a un año de prisión en suspenso por la tenencia ilegítima de dos DNI ajenos fue confirmada por la Corte Suprema. Esta pena quedó firme, aunque Carrizo fue absuelto en la causa principal por el intento de atentado a Cristina Kirchner.\n• La Sala III de la Cámara Federal de Casación Penal anuló la decisión que limitaba a 60 días la investigación por la desaparición del niño Loan Danilo Peña. La resolución enfatizó la obligación del Estado de buscar a menores sin restricciones de tiempo.\n• Persiste la polémica sobre la asignación de recursos de la Policía Federal para custodiar las casas \"vacías\" de Cristina Kirchner en Río Gallegos y El Calafate. Esta situación ocurre a pesar de su condena firme por corrupción y su actual arresto domiciliario.\n• Sergio Mastropietro, un empresario de aviación señalado como operador clave en el presunto caso de corrupción en la Agencia Nacional de Discapacidad (ANDIS), evitó el secuestro de su teléfono. El dispositivo desapareció en una parada de su avión el 15 de noviembre, antes de que las autoridades ejecutaran la orden judicial.\n\n💡 **¿Por qué importa?**\n• Estos casos demuestran la complejidad y la diversidad de situaciones que enfrenta el sistema judicial argentino, desde la persecución de delitos complejos como la corrupción hasta la protección de derechos humanos fundamentales.\n• Las decisiones de las más altas instancias judiciales, como la Casación y la Corte Suprema, reafirman principios legales clave y marcan precedentes sobre la independencia judicial y la responsabilidad estatal.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "La Justicia permitió que el Gobierno nacional siga participando en la causa contra Martín Insaurralde por enriquecimiento ilícito",
+          "link": "https://www.perfil.com/noticias/politica/la-justicia-permitio-que-el-gobierno-nacional-siga-participando-en-la-causa-contra-martin-insaurralde-por-enriquecimiento-ilicito.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 23:04:00"
+        },
+        {
+          "titulo": "Otro revés de un ex funcionario K y ex abogado de los Kirchner ante la Corte Suprema",
+          "link": "https://www.clarin.com/politica/reves-ex-funcionario-k-ex-abogado-kirchner-corte-suprema_0_RZArgAGoZz.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 20:13:28"
+        },
+        {
+          "titulo": "La Corte Suprema dejó firme la condena contra Nicolás Carrizo, líder de Los Copitos, por tenencia ilegítima de DNI",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-dejo-firme-la-condena-contra-nicolas-carrizo-lider-los-copitos-tenencia-ilegitima-dni-n6218518",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 20:12:00"
+        },
+        {
+          "titulo": "Caso ANDIS: el teléfono de un empresario que la Justicia no pudo secuestrar",
+          "link": "https://www.ambito.com/politica/caso-andis-el-telefono-un-empresario-que-la-justicia-no-pudo-secuestrar-n6218517",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 20:03:00"
+        },
+        {
+          "titulo": "La decisión que volvió a encender la búsqueda: la Casación, el niño desaparecido y la voz firme del fiscal Pleé",
+          "link": "https://www.perfil.com/noticias/politica/la-decision-que-volvio-a-encender-la-busqueda-la-casacion-el-nino-desaparecido-y-la-voz-firme-del-fiscal-plee.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 17:59:00"
+        },
+        {
+          "titulo": "La custodia de Cristina vigila sus dos casas \"vacías\" en el Sur pese a que ella sigue presa en Constitución",
+          "link": "https://www.clarin.com/politica/custodia-cristina-vigila-casas-vacias-sur-pese-sigue-presa-constitucion_0_ylTUajhle8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-27 17:03:43"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
