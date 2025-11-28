@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-27",
-  "fecha_generacion": "2025-11-27T21:15:42.178541",
+  "fecha_generacion": "2025-11-28T00:52:33.134720",
   "resumenes": {
     "internacional": {
-      "resumen": "La esfera internacional ha estado marcada por importantes eventos judiciales, graves incidentes de seguridad y movimientos geopolíticos clave.\n\nEn el ámbito político y judicial, el expresidente peruano Pedro Castillo fue condenado a 11 años de prisión por su intento de autogolpe de estado. En España, el exministro de Transporte, José Luis Ábalos, fue enviado a prisión preventiva por una investigación de corrupción ligada a la compra de barbijos durante la pandemia. Asimismo, en Tailandia, la copropietaria de Miss Universo, Jakkaphong Jakrajutatip, es buscada por presunto fraude.\n\nEn cuanto a seguridad y emergencias, un devastador incendio en Hong Kong dejó un saldo de más de 80 muertos y cientos de desaparecidos, provocando una masiva operación de rescate. En Washington D.C., un ciudadano afgano con vínculos previos con fuerzas estadounidenses hirió a dos miembros de la Guardia Nacional en un tiroteo, lo que llevó a USCIS a implementar medidas inmediatas para inmigrantes. Además, en un crucero, una joven falleció por asfixia, con su hermanastro bajo sospecha. A nivel global, el Papa León, desde Turquía, advirtió sobre un mundo en creciente polarización y el riesgo de un conflicto global.\n\nGeopolíticamente, Rusia fijó sus condiciones para un acuerdo de paz en Ucrania, exigiendo la retirada ucraniana de las zonas anexionadas y advirtiendo sobre la continuidad de la vía militar. En Oriente Medio, Israel continúa con una estrategia asertiva, manteniendo ataques frecuentes a pesar de los ceses al fuego. Francia, por su parte, anunció un nuevo servicio militar nacional voluntario para jóvenes a partir de 2026. Finalmente, Uruguay enfrenta desafíos demográficos con una población estancada y envejecida, y la monarquía británica busca dar mayor protagonismo a las princesas Beatriz y Eugenia.",
-      "cantidad_noticias": 22,
-      "fecha_generacion": "2025-11-27T21:15:16.816669",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-28T00:52:33.134450"
     },
     "politica": {
-      "resumen": "La fiscalía ratificó que Cristina Kirchner fue la \"destinataria final\" de sobornos en el caso Cuadernos, una posición respaldada por el Tribunal Oral Federal 7, mientras la Corte Suprema rechazó recursos empresariales. Paralelamente, el expresidente Alberto Fernández reiteró su solicitud de prisión domiciliaria para Julio De Vido. En el ámbito judicial, se investiga a un funcionario de la Oficina Anticorrupción vinculado a casos de corrupción en la Agencia Nacional de Discapacidad, y el Secretario de Trabajo es objeto de investigación por la intervención de OSPRERA.\n\nEl panorama legislativo experimenta una reconfiguración. Tras la jura de 24 nuevos senadores, gobernadores no kirchneristas del norte impulsan la creación de un interbloque en la Cámara de Diputados, debilitando al peronismo y acercando a La Libertad Avanza (LLA) a la primera minoría. En la Legislatura porteña, PRO y LLA destrabaron negociaciones para aprobar el Presupuesto 2026 de Jorge Macri, incluyendo la creación del sistema penitenciario de la Ciudad.\n\nEn el ámbito gubernamental y económico, el presidente Javier Milei confirmó el lanzamiento de los \"Acuerdos de Isaac\" para la cooperación regional. El Ejecutivo avanza con una reforma laboral que genera rechazo gremial, con la CGT advirtiendo sobre cierres de pymes y la pérdida de 276.000 puestos de trabajo. A nivel provincial, Buenos Aires se declaró en emergencia económica. En contraste, el INDEC actualizó sus datos, evitando que la economía se declarara en recesión en el segundo y tercer trimestre.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-27T21:15:28.945512",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-28T00:52:33.134579"
     },
     "economia": {
-      "resumen": "Los mercados argentinos observaron un dólar blue en $1440, por debajo del oficial ($1475), en una jornada de bajo volumen por el feriado en EE.UU. El S&P Merval y los títulos soberanos encadenaron su tercer ascenso. Los depósitos dolarizados post-elecciones alcanzaron un récord histórico de US$ 35.540 millones, sumando US$ 500 millones. Sin embargo, surgen dudas internas en el equipo económico sobre la capacidad de pago de provincias que se endeudan en el exterior, y la CNV intervino con un \"cepo\" para limitar cauciones y frenar la volatilidad de tasas. Se lanzó un fideicomiso para un proyecto de cobre, avalado por bonos del Tesoro, en un contexto de auge de deuda corporativa.\n\nEn el sector externo y agroindustrial, la supercosecha de trigo llevó su precio al mínimo desde 2019, con una producción proyectada de 25,5 millones de toneladas. Se estima que la producción agrícola, impulsada por la soja, incrementará su valor en US$4000 millones. Europa aplazó su reglamento antideforestación, lo que impacta positivamente en las exportaciones argentinas de soja y carne por US$1.000 millones. El presidente Javier Milei participará en la firma del acuerdo Mercosur-UE en Brasil, a pesar del reforzado rechazo de Francia. El Gobierno avanzó con la privatización de cuatro hidroeléctricas del Comahue, esperando recaudar US$500-700 millones, y Neuquén y Santa Cruz acordaron una baja de retenciones al petróleo.\n\nEn el ámbito doméstico y empresarial, se anunciaron los montos de jubilación mínima y máxima para diciembre. La UOM reclamó la reubicación de trabajadores tras el cierre de la planta de Whirlpool en Pilar. Empresas de cobranza exploran la opción de pagar servicios, impuestos y expensas en cuotas para mitigar la mora. Banco Macro reportó pérdidas por más de $30.000 millones, y otras compañías del Merval mostraron malos resultados. El gobierno bonaerense de Axel Kicillof busca aliviar a las fábricas mediante la Ley Fiscal y diálogo con el sector industrial.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-27T21:15:42.178048",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-28T00:52:33.134647"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-27T21:15:42.178517"
+      "fecha_generacion": "2025-11-28T00:52:33.134712"
     }
   }
 }
