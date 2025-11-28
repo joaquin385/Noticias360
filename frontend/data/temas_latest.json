@@ -1,44 +1,247 @@
 {
   "fecha": "2025-11-28",
-  "fecha_generacion": "2025-11-28T12:31:57.268136",
+  "fecha_generacion": "2025-11-28T15:21:18.126928",
   "total_temas": 10,
   "temas": [
     {
+      "tema_id": "aprobacion_presupuesto_caba_20251128",
+      "tema": "Aprobación Presupuesto CABA 2026 Jorge Macri",
+      "tema_normalizado": "aprobacion presupuesto caba 2026 jorge macri",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Legislatura de la Ciudad Autónoma de Buenos Aires (CABA) aprobó el Presupuesto 2026 para la gestión de Jorge Macri, junto con un paquete de leyes fiscales.\n*   Esta aprobación se logró tras intensas negociaciones que incluyeron importantes concesiones impositivas al bloque de La Libertad Avanza (LLA), cuyo apoyo fue clave.\n*   El resultado asegura los recursos necesarios para el funcionamiento de la ciudad y el plan de obras previsto para el tercer año de mandato del Jefe de Gobierno.\n\n🔍 **Datos clave:**\n*   **38 votos afirmativos:** Número de votos que aseguraron la aprobación del Presupuesto (sobre un total de 59).\n*   **20% del presupuesto:** Asignado a las áreas de Educación y Obra Pública, las partidas más altas.\n*   **17 billones 341 mil millones:** Cifra estimada de gastos totales para el ejercicio 2026.\n*   **5° año consecutivo:** El Presupuesto de CABA mantiene un equilibrio fiscal.\n*   **Pilar Ramírez:** Presidenta del bloque de La Libertad Avanza y figura central en las negociaciones por las concesiones.\n\n⚡ **Desarrollo:**\n*   La aprobación se dio tras una maratónica sesión ordinaria de fin de año, que implicó negociaciones hasta el último minuto, principalmente entre el PRO y La Libertad Avanza.\n*   Para obtener el respaldo de LLA, el oficialismo porteño acordó significativas rebajas impositivas, como bonificaciones en Ingresos Brutos y exenciones en el Impuesto de Sellos para créditos hipotecarios y consumos con tarjeta.\n*   Además del Presupuesto, la Legislatura aprobó la reforma del Código Fiscal, la Ley Impositiva y Arancelaria, y la creación del Servicio Penitenciario local.\n*   El presupuesto prioriza el orden fiscal, la baja de la presión impositiva y una fuerte inversión en movilidad, salud, seguridad, educación y obra pública, con un 62% destinado a áreas sociales.\n*   Entre las inversiones destacadas se encuentra la cuadruplicación del presupuesto en Movilidad respecto a 2023, incluyendo la renovación del Subte Línea B y el inicio de la Línea F.\n*   El apoyo de LLA es interpretado como una muestra de un \"pacto de no agresión\" entre ambos partidos, fundamental para la construcción de acuerdos en la Legislatura.\n*   El proyecto contó también con el respaldo de la Unión Cívica Radical, la Coalición Cívica y Confianza Pública, mientras que el peronismo y la izquierda votaron en contra.\n\n💡 **¿Por qué importa?**\n*   Este presupuesto dota al gobierno de Jorge Macri de las herramientas económicas para ejecutar su plan de gestión durante 2026, asegurando la continuidad de obras de infraestructura y el funcionamiento de servicios esenciales.\n*   Demuestra la capacidad de negociación política del oficialismo porteño y sienta un precedente sobre las alianzas y acuerdos necesarios para la gobernabilidad en la Ciudad, especialmente con La Libertad Avanza.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Con el apoyo de La Libertad Avanza, la Legislatura porteña aprobó el Presupuesto 2026 de Jorge Macri",
+          "link": "https://www.infobae.com/politica/2025/11/27/con-el-apoyo-de-lla-la-legislatura-portena-se-encamina-a-aprobar-el-presupuesto-2026-de-jorge-macri/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 12:09:44"
+        },
+        {
+          "titulo": "La Legislatura porteña aprobó el presupuesto 2026 de Jorge Macri",
+          "link": "https://www.perfil.com/noticias/economia/la-legislatura-portena-aprobo-el-presupuesto-2026-de-jorge-macri.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 10:38:27"
+        },
+        {
+          "titulo": "Ciudad: la Legislatura aprobó el Presupuesto de Jorge Macri tras arduas negociaciones entre el PRO y LLA",
+          "link": "https://www.ambito.com/politica/ciudad-la-legislatura-aprobo-el-presupuesto-jorge-macri-arduas-negociaciones-el-pro-y-lla-n6218584",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 09:07:00"
+        },
+        {
+          "titulo": "Ciudad: el PRO destrabó negociación con LLA y la Legislatura se encamina a aprobar el Presupuesto de Jorge Macri",
+          "link": "https://www.ambito.com/politica/ciudad-el-pro-destrabo-negociacion-lla-y-la-legislatura-se-encamina-aprobar-el-presupuesto-jorge-macri-n6218230",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 04:31:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Infobae",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "jura_senadores_y_20251128",
+      "tema": "Jura Senadores y caso Villaverde",
+      "tema_normalizado": "jura senadores y caso villaverde",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Senado de la Nación celebró la sesión para que 23 de los 24 nuevos legisladores electos el 26 de octubre juraran sus cargos.\n*   La jura de la senadora electa Lorena Villaverde, de La Libertad Avanza (LLA) por Río Negro, fue postergada.\n*   Su diploma fue devuelto a la Comisión de Asuntos Constitucionales para revisar las objeciones presentadas en su contra.\n\n🔍 **Datos clave:**\n*   **23 de 24:** Número de senadores que juraron de los electos el 26 de octubre.\n*   **28 de noviembre:** Fecha de la sesión especial de jura en el Senado.\n*   **Lorena Villaverde:** Senadora electa de La Libertad Avanza (Río Negro) cuya jura fue suspendida.\n*   **Federico \"Fred\" Machado:** Empresario investigado por narcotráfico, con quien Villaverde tendría presuntos vínculos.\n*   **10 de diciembre:** Fecha en que asumen los nuevos senadores y se espera que el caso Villaverde sea tratado en comisión.\n*   **2002:** Año de una supuesta detención de Villaverde en Miami por una causa de drogas.\n\n⚡ **Desarrollo:**\n*   Lorena Villaverde enfrenta objeciones debido a una supuesta detención en Miami en 2002 por temas de estupefacientes y presuntos vínculos con el empresario Federico \"Fred\" Machado, investigado por narcotráfico.\n*   Aunque LLA confiaba en tener los votos para su asunción, acuerdos entre los presidentes de bloque decidieron postergar su jura y remitir el caso a la Comisión de Asuntos Constitucionales.\n*   Esta decisión es vista como un gesto pragmático de Patricia Bullrich, líder del bloque libertario en el Senado, para asegurar el apoyo de otras bancadas, clave para futuros proyectos.\n*   La Libertad Avanza logra un avance significativo, pasando de 7 a 20 senadores y consolidándose como la segunda fuerza, aunque su bloque iniciará con 19 miembros sin Villaverde.\n*   Durante la jornada, se reportaron tensiones entre la Casa Rosada y la vicepresidenta Victoria Villarruel, con dificultades de acceso al recinto para Karina Milei y Manuel Adorni.\n*   La impugnación de Villaverde fue impulsada principalmente por el peronismo de su provincia, fundamentada en causas judiciales y acusaciones de amenazas.\n\n💡 **¿Por qué importa?**\n*   La postergación de la jura de Villaverde pone de manifiesto la importancia de la revisión de antecedentes de legisladores y podría afectar la correlación de fuerzas inicial en el bloque de La Libertad Avanza.\n*   Este evento subraya la necesidad de negociaciones y alianzas en el nuevo Senado, crucial para la gobernabilidad y la aprobación de leyes clave para el Poder Ejecutivo como el Presupuesto 2026.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Jura en el Senado, en vivo: las últimas noticias sobre la Cámara Alta hoy, 28 de noviembre",
+          "link": "https://www.infobae.com/politica/2025/11/28/jura-en-el-senado-en-vivo-las-ultimas-noticias-sobre-la-camara-alta-hoy-28-de-noviembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 12:00:39"
+        },
+        {
+          "titulo": "Senado EN VIVO: juran los 23 legisladores electos en octubre",
+          "link": "https://www.ambito.com/congreso-jura-senadores-en-vivo-minuto-a-minuto-fecha-28-noviembre",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 11:56:00"
+        },
+        {
+          "titulo": "Insólito episodio en el Senado: Karina y Adorni acusaron a Villarruel de no querer dejarlos pasar a la jura de los nuevos legisladores",
+          "link": "https://www.infobae.com/politica/2025/11/28/insolito-episodio-en-el-senado-karina-y-adorni-acusaron-a-villarruel-de-no-querer-dejarlos-pasar-a-la-jura-en-el-senado/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 11:40:26"
+        },
+        {
+          "titulo": "Juran todos los senadores electos el 26 de octubre menos la libertaria Lorena Villaverde",
+          "link": "https://www.perfil.com/noticias/politica/juran-todos-los-senadores-electos-el-26-de-octubre-menos-la-libertaria-lorena-villaverde.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 10:49:00"
+        },
+        {
+          "titulo": "Lorena Villaverde no podrá jurar hoy por su banca en el Senado",
+          "link": "https://www.minutouno.com/politica/lorena-villaverde-no-podra-jurar-hoy-su-banca-el-senado-n6218650",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 10:25:00"
+        },
+        {
+          "titulo": "Javier Milei, EN VIVO: 23 senadores electos juran mientras se define la situación de Lorena Villaverde",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-espera-defina-situacion-lorena-villaverde-hoy-juran-23-senadores-electos-octubre_0_pFvW65Nkjy.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 08:07:25"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Infobae",
+        "Minuto1",
+        "Clarín",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "conflicto_gobierno_milei_20251128",
+      "tema": "Conflicto Gobierno Milei con AFA y Tapia",
+      "tema_normalizado": "conflicto gobierno milei con afa y tapia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei mantiene un fuerte conflicto con la Asociación del Fútbol Argentino (AFA) y su presidente, Claudio \"Chiqui\" Tapia.\n• Esta tensión escaló por las sanciones de la AFA a Estudiantes de La Plata y su presidente Juan Sebastián Verón, y el impulso oficial a las Sociedades Anónimas Deportivas (SAD).\n• El Presidente Milei canceló su viaje al sorteo del Mundial 2026 en Washington, interpretado como un claro gesto de confrontación hacia Tapia.\n\n🔍 **Datos clave:**\n• **Javier Milei:** Presidente de Argentina, apoya el modelo de SAD y critica la gestión de AFA.\n• **Claudio \"Chiqui\" Tapia:** Presidente de la AFA, blanco de las críticas y denuncias del gobierno.\n• **Juan Sebastián Verón:** Presidente de Estudiantes de La Plata, fue suspendido por 6 meses por la AFA.\n• **Estudiantes de La Plata:** Club sancionado con 2 fechas de suspensión a su plantel.\n• **5 de diciembre:** Fecha del sorteo del Mundial 2026, al que Milei decidió no asistir.\n• **Sur Finanzas:** Financiera vinculada a Tapia, denunciada por la DGI por presunta evasión de más de $3.300 millones y lavado de dinero (periodo 2022-2025).\n\n⚡ **Desarrollo:**\n• El conflicto se agudizó tras la polémica sanción de la AFA a Estudiantes de La Plata, que hizo un \"pasillo de espaldas\" a Rosario Central en protesta por un título considerado \"a dedo\".\n• Javier Milei respaldó públicamente a Verón y a Estudiantes, calificando a la cúpula de la AFA como \"populismo empobrecedor\".\n• El Gobierno busca impulsar las Sociedades Anónimas Deportivas (SAD) para los clubes de fútbol, una medida rechazada por la AFA y su modelo actual de asociaciones civiles sin fines de lucro.\n• Patricia Bullrich, Ministra de Seguridad y senadora electa, anunció que investigará la transparencia y la \"democracia interna\" de la AFA desde el Congreso.\n• Bullrich describió a la AFA como una \"institución retrógrada\" con \"monopolio\", donde los dirigentes se enriquecen mientras los clubes tienen dificultades.\n• La cancelación del viaje presidencial a Washington fue una \"respuesta silenciosa\" estratégica frente a los escándalos que involucran a la AFA y su presidente.\n• La Dirección General Impositiva (DGI) denunció a \"Sur Finanzas\", una financiera presuntamente vinculada a Tapia, por evasión fiscal y lavado de dinero.\n\n💡 **¿Por qué importa?**\n• Este conflicto pone en tela de juicio el modelo de gestión del fútbol argentino y la transparencia de la AFA, una institución con gran poder.\n• Podría generar cambios estructurales importantes en la organización de los clubes y el deporte nacional, abriendo la puerta a nuevas formas de inversión y gestión.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Crece la tensión entre Milei y la AFA: por qué el Presidente decidió no ir al sorteo del Mundial y qué planea hacer con las Sociedades Anónimas Deportivas",
+          "link": "https://www.infobae.com/politica/2025/11/28/crece-la-tension-entre-milei-y-la-afa-por-que-el-presidente-decidio-no-ir-al-sorteo-del-mundial-y-que-planea-hacer-con-las-sociedades-anonimas-deportivas/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 11:46:37"
+        },
+        {
+          "titulo": "Bullrich dijo que va a estudiar la transparencia de la AFA desde el Senado",
+          "link": "https://www.lanacion.com.ar/politica/bullrich-dijo-que-va-a-estudiar-la-transparencia-de-la-afa-desde-el-senado-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 10:18:29"
+        },
+        {
+          "titulo": "Patricia Bullrich se metió en la pelea del Gobierno con la AFA: usó una frase de Maradona, pero le recordaron una foto",
+          "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-se-metio-en-la-pelea-del-gobierno-con-la-afa-uso-una-frase-de-maradona-pero-le-recordaron-una-foto.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 09:31:42"
+        },
+        {
+          "titulo": "Bullrich trató de \"institución retrógrada\" a la AFA y dijo que desde el Senado investigará su transparencia",
+          "link": "https://www.clarin.com/politica/bullrich-trato-institucion-retrograda-afa-dijo-senado-investigara-transparencia_0_vpCyQuupYK.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 09:26:14"
+        },
+        {
+          "titulo": "Con una foto \"sensible\", Javier Milei volvió a respaldar a Estudiantes y apuntó otra vez contra “Chiqui” Tapia",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-volvio-a-respaldar-a-estudiantes-y-apunto-otra-vez-contra-chiqui-tapia.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 07:56:06"
+        },
+        {
+          "titulo": "Gesto contra \"Chiqui\" Tapia: Javier Milei canceló su viaje a Washington y no asistirá al sorteo del Mundial 2026",
+          "link": "https://www.perfil.com/noticias/politica/el-presidente-javier-milei-cancelo-su-viaje-a-washington-y-no-asistira-al-sorteo-del-mundial-2026.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-27 23:59:00"
+        },
+        {
+          "titulo": "Patricia Bullrich respaldó a Juan Sebastián Verón y citó a Maradona: \"La pelota no se mancha\"",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-respaldo-juan-sebastian-veron-y-cito-maradona-la-pelota-no-se-mancha-n6218571",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-27 23:53:00"
+        },
+        {
+          "titulo": "Javier Milei canceló su viaje a Washington para el sorteo del Mundial 2026: los motivos",
+          "link": "https://www.minutouno.com/politica/javier-milei-cancelo-su-viaje-washington-el-sorteo-del-mundial-2026-los-motivos-n6218569",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-27 23:31:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-28",
+      "fuentes": [
+        "Infobae",
+        "La Nación",
+        "Minuto1",
+        "Clarín",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
       "tema_id": "cotizacion_dolar_y_20251128",
-      "tema": "Cotización Dólar y Monedas Extranjeras",
-      "tema_normalizado": "cotizacion dolar y monedas extranjeras",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El 28 de noviembre de 2025, las cotizaciones del dólar estadounidense y otras monedas como el euro y el real mostraron distintas variaciones en Argentina, Bolivia y República Dominicana.\n*   En Argentina, el dólar se negocia a través de múltiples tipos de cambio (oficial, blue, MEP, CCL, tarjeta, cripto), cada uno con sus propios valores.\n*   Una particularidad de esta jornada fue que el dólar blue cotizó por debajo del dólar oficial minorista en Argentina.\n\n🔍 **Datos clave:**\n*   **Fecha:** Viernes 28 de noviembre de 2025.\n*   **Dólar Oficial (Argentina):** Compra $1.425 / Venta $1.475 (Banco Nación).\n*   **Dólar Blue (Argentina):** Compra $1.420 / Venta $1.440.\n*   **Dólar Tarjeta (Argentina):** $1.917,50 (incluye 60% de impuestos).\n*   **Dólar MEP (Argentina):** Compra $1.480,40 / Venta $1.484,30.\n*   **Dólar CCL (Argentina):** Compra $1.529,90 / Venta $1.531,30.\n*   **Dólar Cripto (Argentina):** Compra $1.499,02 / Venta $1.516,58.\n*   **Euro Oficial (Argentina):** Compra $1.684,29 / Venta $1.688,03.\n*   **Euro Blue (Argentina):** Compra $1.717,75 / Venta $1.749,75.\n*   **Real Oficial (Argentina):** Compra $239,64 / Venta $239,87 (Banco Nación).\n*   **Real Blue (Argentina):** Compra $263,75 / Venta $274,75.\n*   **Dólar en Bolivia:** 6,86 bolivianos promedio; el oficial es 6,96 (venta) y 6,86 (compra), con un mercado paralelo que duplica el valor.\n*   **Dólar en República Dominicana:** 62,45 pesos dominicanos promedio.\n*   **Reservas Brutas BCRA (Argentina):** u$s41.959 millones.\n\n⚡ **Desarrollo:**\n*   En Argentina, la complejidad del mercado se evidencia en la variedad de tipos de dólar: el **Oficial** (regulado por el BCRA), el **Blue** (informal), el **Tarjeta** (para gastos con recargos), el **MEP** y el **CCL** (financieros para operar con bonos), y el **Cripto** (basado en stablecoins).\n*   El dólar oficial retomó su actividad plena el viernes 28, luego de una jornada con movimiento limitado el jueves 27 por el feriado de Acción de Gracias en Estados Unidos, día en que había caído tras cinco subas consecutivas.\n*   El Gobierno argentino logró renovar el 96% de un importante vencimiento de deuda en pesos por $14,6 billones, gracias a medidas como la baja de encajes bancarios y ajustes en las tasas, lo que contribuyó a aliviar la presión sobre el dólar.\n*   Las reservas brutas internacionales del Banco Central de Argentina aumentaron a u$s41.959 millones, en parte por la colocación de Obligaciones Negociables de empresas privadas.\n*   En **Bolivia**, persiste una escasez de dólares desde 2023, llevando a la existencia de un mercado paralelo que duplica el tipo de cambio oficial, en un escenario de alta inflación (9,97% en 2023) y bajo crecimiento del PIB.\n*   **República Dominicana** mostró estabilidad en la cotización del dólar, con el Banco Central llamando a evitar aumentos desproporcionados; se proyecta un crecimiento del PIB de hasta el 5% y baja depreciación del peso dominicano para 2025.\n\n💡 **¿Por qué importa?**\n*   La cotización de las monedas extranjeras es un factor clave que afecta la economía diaria, incidiendo en la inflación, el comercio, las inversiones y el poder adquisitivo de ciudadanos y empresas.\n*   La diversidad de tipos de cambio en Argentina y la presencia de mercados paralelos en otros países reflejan las particularidades de sus economías y las estrategias para manejar la oferta y demanda de divisas.",
-      "cantidad_noticias": 23,
+      "tema": "Cotización Dólar y monedas extranjeras Argentina",
+      "tema_normalizado": "cotizacion dolar y monedas extranjeras argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El 28 de noviembre, la cotización del dólar en Argentina exhibe una relativa estabilidad en sus diversas modalidades (oficial, blue, financieros).\n• Este escenario marca el cierre de un mes de noviembre con variaciones moderadas, influenciado por una \"pax cambiaria\" post-electoral y feriados en EE.UU.\n• A pesar de la calma actual, persisten desafíos significativos para el país, como el cumplimiento de las metas de reservas acordadas con el Fondo Monetario Internacional (FMI).\n\n🔍 **Datos clave (al 28 de noviembre):**\n• **Dólar Oficial (venta Banco Nación):** $1.475\n• **Dólar Blue (venta):** $1.440\n• **Dólar MEP (venta):** $1.481,82\n• **Dólar CCL (venta):** $1.523,74\n• **Dólar Tarjeta/Turista:** $1.917,50\n• **Dólar Cripto (venta):** $1.508,03\n• **Reservas Internacionales Brutas:** USD 41.959 millones (máximo desde el 13 de octubre)\n• **Depósitos en dólares privados:** USD 35.540 millones (récord desde la salida de la convertibilidad)\n\n⚡ **Desarrollo:**\n• En Argentina coexisten al menos seis tipos de dólar, cada uno con sus propias reglas, precios y finalidades de uso en el mercado cambiario.\n• El dólar oficial es regulado por el Banco Central (BCRA) y se utiliza para transacciones bancarias y comercio exterior, mientras que el dólar blue opera en el mercado informal.\n• Los dólares financieros, como el MEP (Mercado Electrónico de Pagos) y el CCL (Contado con Liquidación), son mecanismos legales para adquirir divisas mediante la compra y venta de bonos.\n• El dólar tarjeta incluye recargos impositivos (30% Impuesto País y 30% Ganancias) sobre el valor oficial, aplicándose a gastos en el exterior o compras de ahorro con tarjeta.\n• Noviembre finaliza con el dólar oficial mayorista con una suba moderada, mostrando un comportamiento más estable comparado con meses anteriores de mayor volatilidad.\n• Aunque las reservas brutas del BCRA mostraron un incremento, la meta de acumulación de reservas con el FMI sigue siendo difícil de alcanzar, anticipando un posible \"waiver\" (excepción). Se necesitan más de USD 10.400 millones para cumplir el objetivo.\n• Expertos, como Bank Of America, proyectan que el peso argentino podría cerrar 2025 en $1.450 por dólar, sugiriendo una perspectiva de estabilidad futura.\n• Otras monedas extranjeras, como el euro y el real brasileño, también presentan cotizaciones oficiales y \"blue\", con brechas significativas entre ambas. El Euro blue se sitúa en $1.668,38 (venta) y el Real blue en $267,75 (venta).\n\n💡 **¿Por qué importa?**\n• La complejidad de tener múltiples tipos de cambio para el dólar en Argentina impacta directamente en la economía diaria, los precios y las decisiones de inversión de ciudadanos y empresas.\n• La gestión de las reservas internacionales y el cumplimiento de los acuerdos con el FMI son factores críticos para la estabilidad económica, influyendo en la confianza y las expectativas futuras sobre la moneda local.",
+      "cantidad_noticias": 18,
       "noticias": [
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este viernes 28 de noviembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-viernes-28-de-noviembre-nid28112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-28 09:18:00"
+          "fecha": "2025-11-28 11:46:00"
         },
         {
-          "titulo": "Bolivia: cotización de apertura del dólar hoy 28 de noviembre de USD a BOB",
-          "link": "https://www.infobae.com/noticias/2025/11/28/bolivia-cotizacion-de-apertura-del-dolar-hoy-28-de-noviembre-de-usd-a-bob/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-28 09:16:26"
+          "titulo": "El dólar opera estable en la última rueda de un noviembre que osciló entre la \"pax cambiaria\" y el rebote",
+          "link": "https://www.ambito.com/finanzas/el-dolar-encara-la-ultima-rueda-un-noviembre-que-oscilo-la-pax-cambiaria-y-el-rebote-n6218653",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 11:43:00"
         },
         {
-          "titulo": "Dólar: cotización de apertura hoy 28 de noviembre en República Dominicana",
-          "link": "https://www.infobae.com/noticias/2025/11/28/dolar-cotizacion-de-apertura-hoy-28-de-noviembre-en-republica-dominicana/",
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 28 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-28-noviembre-n6218454",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 11:40:00"
+        },
+        {
+          "titulo": "Dólar hoy en vivo: a cuánto se operan todas las cotizaciones minuto a minuto este viernes 28 de noviembre",
+          "link": "https://www.infobae.com/economia/2025/11/28/dolar-hoy-en-vivo-a-cuanto-se-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-28-de-noviembre/",
           "fuente": "Infobae",
-          "fecha": "2025-11-28 09:15:36"
+          "fecha": "2025-11-28 11:23:31"
         },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de noviembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-noviembre-n6218599",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-28 09:15:00"
+          "fecha": "2025-11-28 10:49:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 28 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-28-noviembre-n6218522",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 10:35:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este viernes 28 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-28-noviembre-n6218526",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 10:34:00"
+        },
+        {
+          "titulo": "Esto valdrá el dólar en diciembre 2025, según expertos",
+          "link": "https://www.iprofesional.com/finanzas/441098-esto-valdra-el-dolar-en-diciembre-2025-segun-expertos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-28 09:36:00"
         },
         {
           "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 28 de noviembre",
           "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-28-noviembre_0_P5iZMl5X7R.html",
           "fuente": "Clarín",
           "fecha": "2025-11-28 09:00:01"
+        },
+        {
+          "titulo": "Reservas al límite y metas imposibles con el FMI: cuánto más puede aguantar tranquilo el dólar",
+          "link": "https://www.iprofesional.com/finanzas/442875-reservas-al-limite-y-metas-imposibles-con-el-fmi-cuanto-mas-puede-aguantar-el-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-28 08:40:00"
         },
         {
           "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 28 de noviembre, minuto a minuto",
@@ -87,153 +290,17 @@
           "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-28-noviembre-n6218531",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-28 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este viernes 28 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-28-noviembre-n6218526",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-28 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este viernes 28 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-28-noviembre-n6218522",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-28 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 28 de noviembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-28-noviembre-n6218454",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-28 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 28 de noviembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-28-de-noviembre-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 21:27:45"
-        },
-        {
-          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 28 de noviembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-28-de-noviembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 21:17:01"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-27-noviembre-n6218168",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 20:31:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cerró este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-27-noviembre-n6218108",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 18:57:00"
-        },
-        {
-          "titulo": "El dólar oficial cayó tras cinco días al alza ante un mercado reducido por el feriado en EEUU",
-          "link": "https://www.ambito.com/finanzas/el-dolar-vuelve-quedar-el-foco-cinco-subas-seguidas-y-hay-expectativa-el-impacto-la-licitacion-n6218174",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 16:44:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-27-noviembre-n6218374",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 16:33:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este jueves 27 de noviembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-jueves-27-noviembre-n6218435",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 16:32:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
-        "Clarín",
-        "Infobae",
-        "Ámbito Financiero",
-        "Perfil",
         "La Nación",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "conflicto_gobierno_y_20251128",
-      "tema": "Conflicto Gobierno y AFA Fútbol",
-      "tema_normalizado": "conflicto gobierno y afa futbol",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino, encabezado por Javier Milei y Patricia Bullrich, ha iniciado un conflicto directo con la Asociación del Fútbol Argentino (AFA) y su presidente, Claudio \"Chiqui\" Tapia.\n• La disputa se intensificó a raíz de la polémica sanción de la AFA a Estudiantes de La Plata y su presidente, Juan Sebastián Verón, por realizar un \"pasillo de espaldas\" a Rosario Central.\n• El Gobierno acusa a la AFA de falta de transparencia, irregularidades y manejos discrecionales, mientras la entidad futbolística defiende su autonomía y decisiones.\n\n🔍 **Datos clave:**\n• **Actores principales:** Javier Milei (Presidente), Patricia Bullrich (Ministra y Senadora electa), Claudio \"Chiqui\" Tapia (Presidente AFA), Juan Sebastián Verón (Presidente Estudiantes de LP), Pablo Toviggino (Tesorero AFA).\n• **Fecha de sanción a Estudiantes:** 23 de noviembre (Boletín 6797).\n• **Sanción a Verón:** 6 meses de suspensión para toda actividad relacionada con el fútbol.\n• **Sanción a jugadores de Estudiantes:** 2 fechas de suspensión en partidos oficiales.\n• **Viaje presidencial cancelado:** Sorteo del Mundial 2026 en Washington D.C., previsto para el 5 de diciembre.\n• **Denuncia DGI:** Contra la financiera \"Sur Finanzas\" (vinculada a Tapia) por presunta evasión y lavado de dinero (25 de noviembre).\n• **Monto de presunta evasión:** Más de 3.300 millones de pesos entre 2022 y 2025.\n\n⚡ **Desarrollo:**\n• **Iniciativa de SADs:** El Gobierno promueve la implementación de Sociedades Anónimas Deportivas (SADs) en el fútbol, una medida rechazada por la AFA y la mayoría de los clubes, que defienden el modelo de asociación civil.\n• **Apoyo a Estudiantes:** Javier Milei respaldó públicamente a Estudiantes tras su sanción, compartiendo fotos históricas del club y exhibiendo una camiseta del \"Pincha\" en su despacho, un claro mensaje contra Tapia.\n• **Investigación en el Senado:** Patricia Bullrich anunció que investigará la transparencia de la AFA desde su rol como senadora, denunciando \"muchas irregularidades\", clubes \"rehenes\" y \"figurones\" con fortunas millonarias alrededor de Tapia.\n• **\"PDFgate\" y cuestionamiento a sanciones:** El Gobierno señaló la supuesta falsificación de un documento por la AFA para sancionar a Estudiantes, y Bullrich criticó la desproporción de la pena por el \"pasillo de espaldas\".\n• **Frente judicial:** La Dirección General Impositiva (DGI) denunció a \"Sur Finanzas\", una financiera que estaría vinculada a Tapia, por maniobras de evasión y lavado de dinero, abriendo un flanco legal al conflicto.\n• **Gesto presidencial:** La cancelación del viaje de Milei al sorteo del Mundial 2026 fue interpretada por fuentes gubernamentales como una \"respuesta silenciosa\" y un claro gesto de desaprobación hacia la gestión de \"Chiqui\" Tapia.\n• **Críticas al manejo de AFA:** Bullrich comparó la situación con una lógica extorsiva, mencionando la entrega de \"títulos regalados\" y la falta de \"libertad\" de los clubes frente a la entidad madre del fútbol argentino.\n\n💡 **¿Por qué importa?**\n• Este conflicto representa un enfrentamiento institucional de alto impacto entre el poder político y una de las organizaciones más influyentes de Argentina, cuestionando la autonomía del fútbol.\n• Las acusaciones de corrupción, falta de transparencia y el debate sobre el modelo de gestión (SADs vs. asociaciones civiles) podrían redefinir el futuro y la estructura del fútbol argentino.",
-      "cantidad_noticias": 9,
-      "noticias": [
-        {
-          "titulo": "El Gobierno se involucra de lleno en el conflicto en el fútbol: “Voy a estudiar la transparencia de la AFA desde el Senado”, anticipó Patricia Bullrich",
-          "link": "https://www.infobae.com/politica/2025/11/28/el-gobierno-se-involucra-de-lleno-en-el-conflicto-en-el-futbol-voy-a-estudiar-la-transparencia-de-la-afa-desde-el-senado-anticipo-patricia-bullrich/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-28 09:16:16"
-        },
-        {
-          "titulo": "Con una foto \"sensible\", Javier Milei volvió a respaldar a Estudiantes y apuntó otra vez contra “Chiqui” Tapia",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-volvio-a-respaldar-a-estudiantes-y-apunto-otra-vez-contra-chiqui-tapia.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-28 07:56:06"
-        },
-        {
-          "titulo": "Gesto contra \"Chiqui\" Tapia: Javier Milei canceló su viaje a Washington y no asistirá al sorteo del Mundial 2026",
-          "link": "https://www.perfil.com/noticias/politica/el-presidente-javier-milei-cancelo-su-viaje-a-washington-y-no-asistira-al-sorteo-del-mundial-2026.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 23:59:00"
-        },
-        {
-          "titulo": "Patricia Bullrich respaldó a Juan Sebastián Verón y citó a Maradona: \"La pelota no se mancha\"",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-respaldo-juan-sebastian-veron-y-cito-maradona-la-pelota-no-se-mancha-n6218571",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 23:53:00"
-        },
-        {
-          "titulo": "Javier Milei canceló su viaje a Washington para el sorteo del Mundial 2026: los motivos",
-          "link": "https://www.minutouno.com/politica/javier-milei-cancelo-su-viaje-washington-el-sorteo-del-mundial-2026-los-motivos-n6218569",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 23:31:00"
-        },
-        {
-          "titulo": "Javier Milei suspendió su viaje a EEUU para presenciar el sorteo del Mundial 2026",
-          "link": "https://www.ambito.com/politica/javier-milei-suspendio-su-viaje-eeuu-presenciar-el-sorteo-del-mundial-2026-n6218557",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 22:10:00"
-        },
-        {
-          "titulo": "Patricia Bullrich se metió en la pelea entre la AFA y Estudiantes: \"Verón está con el hincha\"",
-          "link": "https://www.minutouno.com/politica/patricia-bullrich-se-metio-la-pelea-la-afa-y-estudiantes-veron-esta-el-hincha-n6218550",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 21:46:00"
-        },
-        {
-          "titulo": "\"La pelota no se mancha, aunque creo que ya está bastante sucia\": Bullrich se sumó a las críticas contra Chiqui Tapia",
-          "link": "https://www.clarin.com/politica/pelota-mancha-creo-bastante-sucia-bullrich-sumo-criticas-chiqui-tapia_0_jE6faXb916.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 20:42:52"
-        },
-        {
-          "titulo": "Quién es Pablo Toviggino, el polémico cajero de \"Chiqui\" Tapia en la AFA",
-          "link": "https://noticias.perfil.com/noticias/politica/quien-es-pablo-toviggino-el-polemico-cajero-de-chiqui-tapia-en-la-afa.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 16:37:36"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-28",
-      "fuentes": [
-        "Clarín",
         "Infobae",
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1"
+        "Minuto1",
+        "Clarín",
+        "iProfesional",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -241,49 +308,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "aprobacion_presupuesto_jorge_20251128",
-      "tema": "Aprobación Presupuesto Jorge Macri CABA",
-      "tema_normalizado": "aprobacion presupuesto jorge macri caba",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Legislatura de la Ciudad de Buenos Aires aprobó el Presupuesto 2026 para la gestión del Jefe de Gobierno Jorge Macri en la última sesión ordinaria del año.\n• La sanción se logró tras una maratónica jornada y arduas negociaciones con La Libertad Avanza (LLA) y otros bloques aliados.\n\n🔍 **Datos clave:**\n• **Presupuesto:** Ejercicio 2026, con un gasto total estimado de $17 billones 341 mil millones y recursos previstos en $17 billones 347 mil millones.\n• **Votación:** 38 votos a favor, 21 en contra, ninguna abstención, de un total de 59 legisladores.\n• **Bloques a favor:** PRO, La Libertad Avanza (LLA), Unión Cívica Radical (UCR), Coalición Cívica, Confianza Pública y Volvamos Buenos Aires.\n• **Bloques en contra:** Unión por la Patria.\n• **Figuras clave:** Jorge Macri (Jefe de Gobierno), Pilar Ramírez (Presidenta bloque LLA), Gustavo Arengo (Ministro de Hacienda CABA).\n• **Pautas macroeconómicas (2026):** Incremento del 5% en la actividad económica, 10.1% de inflación y tipo de cambio proyectado de $1.423 por dólar.\n\n⚡ **Desarrollo:**\n• La aprobación fue posible gracias a intensas negociaciones y una serie de concesiones impositivas realizadas por el oficialismo porteño para obtener el apoyo de LLA.\n• El bloque libertario impulsó cambios significativos, incluyendo bonificaciones en Ingresos Brutos y alivio para monotributistas y pequeños contribuyentes, además de exenciones de Sellos.\n• La sesión también incluyó la aprobación de otras leyes cruciales, como la reforma del Código Fiscal, la Ley Impositiva y Arancelaria, y la creación del Servicio Penitenciario local.\n• Jorge Macri afirmó que el presupuesto logra un equilibrio entre orden, seguridad, políticas de cuidado y obras de infraestructura, respetando el equilibrio fiscal.\n• Este acuerdo es interpretado como una \"prueba de fuego\" de un pacto tácito de no agresión entre PRO y LLA, alineado con la agenda del presidente Javier Milei.\n\n💡 **¿Por qué importa?**\n• Garantiza la capacidad financiera y de gestión para la administración de Jorge Macri durante el 2026, permitiendo la ejecución de su plan de gobierno y obras prioritarias.\n• Refleja la consolidación de alianzas políticas entre el PRO y La Libertad Avanza en la Ciudad, sentando un precedente para futuras negociaciones legislativas.",
-      "cantidad_noticias": 3,
+      "tema_id": "cambios_subsidios_y_20251128",
+      "tema": "Cambios Subsidios y tarifas luz-gas",
+      "tema_normalizado": "cambios subsidios y tarifas luz-gas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno implementará un nuevo esquema de subsidios para la luz y el gas a partir del 1° de enero de 2026.\n• Este sistema elimina la segmentación por niveles de ingresos (N1, N2, N3) y establece solo dos categorías: con subsidio o sin él.\n• La medida implicará un aumento en las facturas de servicios para muchos usuarios, focalizando la ayuda en los hogares más vulnerables.\n\n🔍 **Datos clave:**\n• **Fecha de inicio:** 1° de enero de 2026 para el nuevo esquema de subsidios.\n• **Umbral de ingresos:** Menos de 3 Canastas Básicas Totales (CBT), equivalentes a $3,6 millones mensuales (valor actual), para acceder a subsidios.\n• **Subsidio base electricidad:** 50% sobre un bloque de 300 kWh/mes (verano/invierno) y 150 kWh/mes (primavera/otoño).\n• **Subsidio base gas:** 50% aplicado solo entre abril y septiembre.\n• **Bonificación excepcional 2026:** Un 25% adicional en enero para ambos servicios, decreciendo 2% mensual hasta desaparecer en diciembre.\n• **Usuarios afectados:** Se estima que 7,5 millones de hogares dejarán de recibir subsidios desde 2026.\n• **Aumento Provincia de Buenos Aires:** 3,6% en tarifas eléctricas para distribuidoras como EDELAP, EDEA, EDEN y EDES.\n• **Aumento recargo gas:** 7,5% sobre el valor del gas en el Punto de Ingreso al Sistema de Transporte (PIST).\n\n⚡ **Desarrollo:**\n• El nuevo esquema de subsidios reemplaza la segmentación existente por criterios patrimoniales y de consumo, dejando fuera a hogares con 3+ vehículos de menos de 5 años, 3+ inmuebles, o embarcaciones/aeronaves de lujo.\n• Para la electricidad, el subsidio del 50% se aplicará a un consumo base, pagándose el excedente a tarifa plena; hasta ahora N2 y N3 tenían subsidio sobre bloques más amplios.\n• En el gas, el subsidio del 50% se concentrará en los meses de mayor demanda, sin bonificación base en verano, a diferencia del esquema anterior que era anual.\n• La bonificación adicional de 25% en enero de 2026 hará que la luz tenga un subsidio total del 75% ese mes y el gas un 25%, reduciéndose gradualmente.\n• Los usuarios ya inscriptos en el Registro de Acceso a los Subsidios Energéticos (RASE) no necesitan reinscribirse, sus datos serán migrados automáticamente.\n• Además de los cambios en subsidios, se han oficializado aumentos específicos como el 3,6% en la tarifa eléctrica bonaerense y un recargo del 7,5% en el precio del gas a nivel nacional.\n• El objetivo del Gobierno es focalizar la asistencia, reducir el gasto fiscal en subsidios energéticos (buscando un ahorro de $1.000 millones en 2026) y corregir las distorsiones del sistema anterior.\n\n💡 **¿Por qué importa?**\n• Estos cambios impactarán directamente el bolsillo de millones de argentinos, con aumentos significativos en las facturas de luz y gas para hogares que antes recibían subsidios, especialmente la clase media.\n• La redefinición busca hacer más eficiente el gasto público, pero genera incertidumbre sobre el efecto económico en las familias y el consumo energético.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Con el apoyo de La Libertad Avanza, la Legislatura porteña aprobó el Presupuesto 2026 de Jorge Macri",
-          "link": "https://www.infobae.com/politica/2025/11/27/con-el-apoyo-de-lla-la-legislatura-portena-se-encamina-a-aprobar-el-presupuesto-2026-de-jorge-macri/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-28 09:14:55"
+          "titulo": "Preguntas y respuestas para entender el cambio radical en la luz y el gas que dispuso el Gobierno",
+          "link": "https://www.lanacion.com.ar/economia/preguntas-y-respuestas-para-entender-el-cambio-radical-en-la-luz-y-el-gas-que-dispuso-el-gobierno-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 11:50:04"
         },
-        {
-          "titulo": "Ciudad: la Legislatura aprobó el Presupuesto de Jorge Macri tras arduas negociaciones entre el PRO y LLA",
-          "link": "https://www.ambito.com/politica/ciudad-la-legislatura-aprobo-el-presupuesto-jorge-macri-arduas-negociaciones-el-pro-y-lla-n6218584",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-28 09:07:00"
-        },
-        {
-          "titulo": "Ciudad: el PRO destrabó negociación con LLA y la Legislatura se encamina a aprobar el Presupuesto de Jorge Macri",
-          "link": "https://www.ambito.com/politica/ciudad-el-pro-destrabo-negociacion-lla-y-la-legislatura-se-encamina-aprobar-el-presupuesto-jorge-macri-n6218230",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-28 04:31:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-28",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "nuevo_regimen_subsidios_20251128",
-      "tema": "Nuevo Régimen Subsidios Energía Argentina",
-      "tema_normalizado": "nuevo regimen subsidios energia argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno argentino implementará un nuevo esquema de subsidios energéticos para la luz y el gas a partir del 1 de enero de 2026, eliminando el sistema de segmentación por niveles de ingresos.\n*   Este cambio busca focalizar la asistencia en los hogares más vulnerables, lo que implicará un aumento en las tarifas y la pérdida generalizada de bonificaciones para muchos usuarios.\n*   El Ministerio de Economía y la Secretaría de Energía han abierto un período de consulta pública como paso previo a la implementación definitiva de estos ajustes.\n\n🔍 **Datos clave:**\n*   **Inicio del nuevo esquema:** 1 de enero de 2026.\n*   **Criterio de ingresos para subsidios:** Inferior a 3 Canastas Básicas Totales (CBT), aproximadamente $3.641.397 mensuales.\n*   **Hogares que perderán subsidios:** Aproximadamente 7.5 millones (45% del total); incluye más de 140 mil de ingresos medios.\n*   **Bonificación de electricidad:** 50% sobre bloques de consumo definidos, con un 25% adicional en enero de 2026.\n*   **Recargo de gas:** Aumento del 7.5% sobre el valor del gas en el Punto de Ingreso al Sistema de Transporte (PIST).\n*   **Ahorro proyectado:** Reducción de 0.65% a 0.5% del PBI en subsidios energéticos para 2026, equivalente a $1.000 millones.\n\n⚡ **Desarrollo:**\n*   El nuevo régimen elimina las categorías N1, N2 y N3, estableciendo solo dos grupos: usuarios con subsidios y usuarios sin ellos. Quienes ya estén registrados en el RASE no deberán reinscribirse.\n*   Para acceder a los subsidios, el ingreso familiar no debe superar las tres CBT, y los hogares no deben cumplir criterios de exclusión como poseer tres o más vehículos de menos de cinco años, tres o más inmuebles, o embarcaciones/aeronaves de lujo.\n*   Las bonificaciones para electricidad se aplicarán sobre un bloque de 300 kWh mensuales en meses de alta demanda y 150 kWh en meses templados, con una bonificación extra del 25% solo en enero de 2026.\n*   En el caso del gas, el 50% de subsidio se concentrará exclusivamente entre abril y septiembre (meses de mayor consumo), no aplicándose en los meses de bajo consumo, también con un 25% adicional en enero de 2026.\n*   Estos cambios se formalizan mediante la Resolución 484/2025 de la Secretaría de Energía y la Resolución 1909/2025 del Ministerio de Economía, en el marco de una etapa de transición tarifaria declarada en emergencia energética hasta el 9 de julio de 2026.\n*   A nivel provincial, el Gobierno de Buenos Aires aprobó un incremento del 3.6% en las tarifas eléctricas para empresas como EDELAP, EDEA, EDEN y EDES, trasladando los precios mayoristas nacionales y ajustando bonificaciones.\n\n💡 **¿Por qué importa?**\n*   Este nuevo esquema modificará drásticamente la estructura de costos de energía para millones de hogares, impactando directamente en el presupuesto familiar y el costo de vida en Argentina.\n*   La medida busca reorientar el gasto público hacia sectores más vulnerables y lograr una significativa reducción fiscal, pero generará una mayor presión económica sobre la clase media que perderá la asistencia estatal.",
-      "cantidad_noticias": 5,
-      "noticias": [
         {
           "titulo": "La provincia de Buenos Aires aprobó nuevos recálculos tarifarios para EDELAP, EDEA, EDEN y EDES",
           "link": "https://www.ambito.com/economia/la-provincia-buenos-aires-aprobo-nuevos-recalculos-tarifarios-edelap-edea-eden-y-edes-n6218606",
@@ -318,8 +354,9 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
-        "iProfesional",
+        "La Nación",
         "Minuto1",
+        "iProfesional",
         "Ámbito Financiero",
         "Perfil"
       ],
@@ -329,109 +366,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "anses_y_prestaciones_20251128",
-      "tema": "ANSES y Prestaciones Sociales Diciembre 2025",
-      "tema_normalizado": "anses y prestaciones sociales diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Administración Nacional de la Seguridad Social (ANSES) oficializó los montos de sus prestaciones sociales para diciembre de 2025.\n*   Se aplicó un aumento del 2,34% en jubilaciones, pensiones y asignaciones familiares, en línea con la movilidad mensual basada en la inflación de octubre.\n*   Diciembre incluye el pago de la segunda cuota del aguinaldo para jubilados y pensionados, además de un bono de $70.000 para los haberes más bajos.\n\n🔍 **Datos clave:**\n*   **Aumento general prestaciones:** 2,34%\n*   **Bono extraordinario:** $70.000 (para haberes mínimos)\n*   **Jubilación mínima (total con bono y aguinaldo):** $581.319,38\n*   **AUH (monto neto por hijo):** $97.993,42\n*   **Tarjeta Alimentar (1 hijo, sin cambios):** $52.250\n*   **Programa Volver al Trabajo:** $78.000 (fecha de pago: 5 de diciembre)\n*   **Fecha límite Libreta AUH:** 31 de diciembre de 2025\n\n⚡ **Desarrollo:**\n*   Las jubilaciones y pensiones, incluyendo la Pensión Universal para el Adulto Mayor (PUAM) y las Pensiones No Contributivas (PNC), reciben el ajuste del 2,34% y el aguinaldo correspondiente.\n*   El bono de $70.000 se destina a jubilados y pensionados con haberes mínimos, PUAM y PNC, aplicándose proporcionalmente hasta alcanzar un tope de $410.879,59.\n*   La Asignación Universal por Hijo (AUH) y la Asignación por Embarazo se incrementan un 2,34%, mientras que la Tarjeta Alimentar mantiene sus montos sin cambios en diciembre.\n*   Es fundamental presentar la Libreta AUH antes del 31 de diciembre para cobrar el 20% retenido de la AUH de 2024 (hasta $165.000 por hijo) y acceder a la Ayuda Escolar Anual.\n*   El programa Volver al Trabajo (que reemplaza al ex-Potenciar Trabajo, junto con Acompañamiento Social) mantiene su monto de $78.000 y se abona el viernes 5 de diciembre.\n*   Las Asignaciones Familiares (SUAF) por hijo, nacimiento, adopción y matrimonio también se actualizan un 2,34%, con valores que varían según el Ingreso del Grupo Familiar.\n*   Para consultar las fechas de cobro y montos específicos, los beneficiarios pueden acceder a Mi ANSES con su CUIL y Clave de la Seguridad Social.\n\n💡 **¿Por qué importa?**\n*   Estos ajustes buscan mitigar el impacto de la inflación mensual en los ingresos de millones de argentinos, brindando un apoyo económico crucial en el cierre del año.\n*   La obligatoriedad de trámites como la Libreta AUH garantiza el cumplimiento de requisitos de salud y educación, asegurando el bienestar de los menores y el acceso a beneficios complementarios.",
-      "cantidad_noticias": 15,
+      "tema_id": "acto_antivacunas_en_20251128",
+      "tema": "Acto antivacunas en el Congreso",
+      "tema_normalizado": "acto antivacunas en congreso",
+      "resumen": "📌 **¿Qué está pasando?**\n• La diputada Marilú Quiróz, representante del PRO por Chaco, organizó un evento antivacunas en el Anexo de la Cámara de Diputados.\n• El acto generó una fuerte polémica y un enérgico repudio, incluso por parte de su propio partido, el PRO, que se desmarcó de la iniciativa.\n• Durante la jornada, se expusieron argumentos sin base científica que cuestionaban la seguridad y eficacia de las vacunas.\n\n🔍 **Datos clave:**\n• **Organizadora:** Diputada Marilú Quiróz (PRO Chaco).\n• **Lugar:** Anexo A de la Cámara de Diputados.\n• **Partido desvinculado:** PRO (liderado por Cristian Ritondo).\n• **Temáticas del evento:** \"¿Qué contienen realmente las vacunas?\", \"Vacunas de calendario y autismo\", \"Víctimas ignoradas por el Estado: sangre de vacunados al microscopio\".\n• **Afirmación \"bizarra\":** Un hombre exhibió supuesto \"magnetismo\" en su cuerpo tras recibir vacunas Covid-19, alegando que objetos metálicos se le adherían.\n• **Fin de mandato:** La diputada Quiróz concluye su mandato el 10 de diciembre y no renovará su banca.\n\n⚡ **Desarrollo:**\n• La jornada se extendió por más de seis horas, contando con la participación de médicos e invitados que, utilizando datos dudosos, promovieron una postura antivacunas.\n• Entre las afirmaciones, se vinculó el autismo con la vacuna Triple Viral y el licenciado en Administración Pablo Stolkiner afirmó que la pandemia de Covid-19 fue \"un invento\".\n• El bloque del PRO se desligó públicamente del evento, calificándolo de \"bizarro\" y declarando que \"el movimiento antivacunas no es un debate intelectual, es un riesgo epidemiológico\".\n• El PRO emitió un comunicado oficial reafirmando su \"compromiso histórico con las campañas de vacunación y la salud pública como un pilar indispensable\".\n• En el comunicado, enfatizaron que \"vacunarse no es una opinión: es una responsabilidad individual y colectiva\" y destacaron los récords de vacunación alcanzados durante su gobierno.\n• Otros diputados del PRO, como Cristian Ritondo y Martín Yeza, también criticaron el acto públicamente, defendiendo la evidencia científica que respalda las vacunas.\n• La diputada Quiróz, quien previamente había presentado un proyecto de ley para eliminar la obligatoriedad del calendario de vacunación, no enfrentará mayores represalias debido a su inminente salida del Congreso.\n• Sociedades científicas y el Colegio de Médicos repudiaron el evento, advirtiendo sobre el peligro de generar reticencia a la vacunación y la reaparición de enfermedades que se consideraban controladas.\n\n💡 **¿Por qué importa?**\n• La difusión de desinformación sobre vacunas desde un espacio institucional como el Congreso pone en riesgo la salud pública y el avance en la prevención de enfermedades.\n• Subraya la importancia de basar las políticas de salud en evidencia científica y la responsabilidad de los funcionarios públicos de proteger el bienestar colectivo.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Calendario de la Anses: todas las prestaciones sociales que se pagan este viernes 28 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/calendario-de-la-anses-todas-las-prestaciones-sociales-que-se-pagan-este-viernes-28-de-noviembre-nid28112025/",
+          "titulo": "“Acto bizarro”: el PRO se desligó de la insólita exposición antivacunas en el Congreso y cuestionó a la diputada Quiróz",
+          "link": "https://www.infobae.com/politica/2025/11/28/acto-bizarro-el-pro-se-desligo-de-la-insolita-exposicion-antivacunas-en-el-congreso-y-cuestiono-a-la-diputada-quiroz/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 12:00:42"
+        },
+        {
+          "titulo": "El comunicado de Pro tras el acto antivacunas organizado por una diputada",
+          "link": "https://www.lanacion.com.ar/politica/el-comunicado-de-pro-tras-el-acto-antivacunas-organizado-por-una-diputada-nid28112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-28 07:46:05"
+          "fecha": "2025-11-28 11:50:57"
         },
         {
-          "titulo": "Jubilaciones de Anses: quiénes cobran este viernes 28 de noviembre",
-          "link": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-quienes-cobran-este-viernes-28-de-noviembre-nid28112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:45:36"
-        },
-        {
-          "titulo": "ANSES: el monto confirmado para la Tarjeta Alimentar y la AUH",
-          "link": "https://www.minutouno.com/economia/anses-el-monto-confirmado-la-tarjeta-alimentar-y-la-auh-n6218283",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-28 07:40:00"
-        },
-        {
-          "titulo": "ANSES: hasta cuándo se puede tramitar la Libreta AUH",
-          "link": "https://www.minutouno.com/economia/anses-cuando-se-puede-tramitar-la-libreta-auh-n6217628",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-28 07:40:00"
-        },
-        {
-          "titulo": "Jubilaciones: ANSES oficializó el último aumento del año y definió los nuevos haberes para diciembre",
-          "link": "https://www.perfil.com/noticias/economia/jubilaciones-anses-oficializo-el-ultimo-aumento-del-ano-y-definio-los-nuevos-haberes-para-diciembre.phtml",
+          "titulo": "Los antivacunas y el hombre imán: las presentaciones del PRO en el Congreso que generaron indignación",
+          "link": "https://www.perfil.com/noticias/politica/una-diputada-del-pro-realizo-un-acto-antivacunas-en-el-congreso-y-genero-repudio-en-el-sector-de-la-salud.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-28 07:38:00"
-        },
-        {
-          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
-          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:30"
-        },
-        {
-          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:28"
-        },
-        {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:25"
-        },
-        {
-          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:22"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:20"
-        },
-        {
-          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:17"
-        },
-        {
-          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:14"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:11"
-        },
-        {
-          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:08"
-        },
-        {
-          "titulo": "ANSES confirmó aumento y bono de diciembre: cuánto cobran jubilados y beneficiarios de asignaciones",
-          "link": "https://www.iprofesional.com/economia/442869-anses-confirmo-aumento-y-bono-para-jubilados-y-asignaciones-cuanto-cobran-diciembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-27 21:27:00"
+          "fecha": "2025-11-27 23:50:00"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
+        "Infobae",
         "La Nación",
-        "Minuto1",
-        "iProfesional",
         "Perfil"
       ],
       "es_tema_nuevo": true,
@@ -440,71 +404,29 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "calculo_y_pago_20251128",
-      "tema": "Cálculo y Pago Aguinaldo Diciembre 2025",
-      "tema_normalizado": "calculo y pago aguinaldo diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• Millones de trabajadores en relación de dependencia, jubilados y pensionados en Argentina recibirán la segunda cuota del Sueldo Anual Complementario (SAC), conocido como aguinaldo, en diciembre de 2025.\n• Este pago adicional representa un ingreso significativo para la planificación económica y el cierre del año.\n\n🔍 **Datos clave:**\n• **Fecha límite para trabajadores activos:** 18 de diciembre de 2025 (jueves).\n• **Margen extendido de pago:** Hasta el 24 de diciembre para trabajadores activos.\n• **Cálculo estándar del aguinaldo:** El 50% de la mayor remuneración mensual bruta del semestre (julio a diciembre).\n• **Marco legal:** Ley 23.041.\n• **Aumentos salariales adicionales en diciembre:** Bancarios (+2,3%), Servicio Doméstico (+1,3% y bono), Empleados de Comercio (+1% y $40.000 fijos), Construcción (+1,3% y suma fija no remunerativa).\n\n⚡ **Desarrollo:**\n• El aguinaldo se abona a trabajadores registrados, jubilados y pensionados; quedan excluidos monotributistas, trabajadores independientes e informales.\n• Para quienes trabajaron el semestre completo, el monto se obtiene dividiendo por dos el sueldo más alto percibido entre julio y diciembre.\n• Si la antigüedad es menor a seis meses, el cálculo es proporcional: (Sueldo del empleado / 12) * Meses trabajados.\n• Los jubilados y pensionados cobran su aguinaldo en la misma fecha que su prestación principal, de acuerdo al calendario que difunde ANSES, que varía por ingresos y terminación de DNI.\n• Además del aguinaldo, varios sectores verán incrementos en sus haberes de diciembre. Los bancarios suman un 2,3% a su salario mensual, acumulando un 24,8% en el año.\n• El servicio doméstico recibe un 1,3% de aumento y un bono extraordinario; mientras que los empleados de comercio suman un 1% y una suma fija no remunerativa de $40.000.\n• Los obreros de la construcción del sector petrolero y gasífero mantienen la escala salarial de noviembre, con un 1.3% adicional y una suma fija mensual no remunerativa con aportes a la obra social.\n\n💡 **¿Por qué importa?**\n• El aguinaldo de diciembre ofrece un respiro financiero vital, permitiendo a millones de argentinos afrontar los gastos de fin de año y planificar con mayor seguridad.\n• Junto con las actualizaciones salariales sectoriales, busca proteger el poder adquisitivo de los ingresos frente a la inflación y asegurar una cobertura de salud.",
-      "cantidad_noticias": 9,
+      "tema_id": "negociaciones_salariales_sectoriales_20251128",
+      "tema": "Negociaciones salariales sectoriales argentinas",
+      "tema_normalizado": "negociaciones salariales sectoriales argentinas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los importantes gremios argentinos UOM (metalúrgicos) y UATRE (rurales) cerraron preacuerdos salariales sectoriales para el período 2025-2026.\n• Ambos acuerdos buscan ajustar los ingresos de los trabajadores frente a la inflación y las condiciones económicas del país, y esperan la homologación oficial.\n\n🔍 **Datos clave:**\n• **UOM (Rama 17 - Metalmecánica):**\n    • Preacuerdo hasta marzo de 2026 con un total de 14% remunerativo acumulado.\n    • Tramos no remunerativos: $35.000 (Oct 2025), $35.000 (Dic 2025), $25.000 (Feb 2026), $35.000 (Mar 2026), sumando $160.000.\n    • Aumentos remunerativos: 4,2% (Nov 2025) y 4,2% (Ene 2026), más $15.000 no remunerativos en cada caso.\n• **UATRE (Trabajo Agrario):**\n    • Acuerdo vigente del 1° de noviembre al 1° de febrero del año próximo (2026).\n    • Salario básico mensual para Peones Generales: desde $702.180,75 (Nov) hasta $768.411,47 (Feb).\n    • Adicionales: 1% de antigüedad (hasta 10 años), 1,5% (más de 10 años); 20% por Zona Desfavorable.\n• **Homologación:** Ambos dependen de la Secretaría de Trabajo, bajo la órbita del Ministerio de Capital Humano, conducido por Sandra Petovello.\n• **Medida Complementaria:** Decreto 777/2025 prorrogó por un año la compatibilidad de planes sociales con el empleo rural formal.\n\n⚡ **Desarrollo:**\n• La Unión Obrera Metalúrgica (UOM), liderada por Abel Furlán, consiguió este preacuerdo con cámaras empresarias para la Rama 17, tras una extensa disputa, quedando pendiente la negociación de la Rama 21 (siderurgia).\n• Este entendimiento de la UOM requiere la formalización de la Secretaría de Trabajo, un proceso que generó demoras de dos meses en una negociación previa para la misma rama.\n• La Unión Argentina de Trabajadores Rurales y Estibadores (UATRE), junto con José Voytenco, acordó los salarios mínimos para el personal agrario en el ámbito de la Comisión Nacional de Trabajo Agrario (CNTA), previendo una nueva reunión en febrero para futuras actualizaciones.\n• El gremio rural también logró la extensión de la medida que permite a los trabajadores temporarios acceder a empleos formales sin perder sus planes de asistencia social, un pedido al Ministerio de Capital Humano.\n• La incertidumbre y las tensiones entre gremios y Gobierno por los plazos de homologación de los acuerdos salariales son un punto de preocupación en ambos sectores.\n\n💡 **¿Por qué importa?**\n• Estos acuerdos son cruciales para el poder adquisitivo de miles de trabajadores metalúrgicos y rurales, buscando recomponer sus ingresos en un contexto de inflación.\n• Muestran el rol central del Estado en la validación de las negociaciones colectivas y las dinámicas de tensión entre los sindicatos y el Gobierno argentino.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:46"
-        },
-        {
-          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:43"
-        },
-        {
-          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:26:41"
-        },
-        {
-          "titulo": "Calculadora de aguinaldo 2025: cómo saber cuánto voy a cobrar en diciembre",
-          "link": "https://www.lanacion.com.ar/economia/calculadora-de-aguinaldo-2025-como-saber-cuanto-voy-a-cobrar-en-diciembre-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:24:30"
-        },
-        {
-          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:24:27"
-        },
-        {
-          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:24:24"
-        },
-        {
-          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-28 07:24:22"
-        },
-        {
-          "titulo": "Paritarias de Comercio: cuánto cobrarán en diciembre de 2025 tras el último acuerdo",
-          "link": "https://www.ambito.com/economia/paritarias-comercio-cuanto-cobraran-diciembre-2025-el-ultimo-acuerdo-n6218471",
+          "titulo": "Paritarias: la UOM avanzó con un preacuerdo salarial y destrabó la negociación con las metalúrgicas",
+          "link": "https://www.ambito.com/politica/paritarias-la-uom-avanzo-un-preacuerdo-salarial-y-destrabo-la-negociacion-las-metalurgicas-n6218662",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 22:00:00"
+          "fecha": "2025-11-28 11:25:00"
         },
         {
-          "titulo": "Paritarias de la construcción: cuánto cobrarán los trabajadores en diciembre 2025",
-          "link": "https://www.ambito.com/economia/paritarias-la-construccion-cuanto-cobraran-los-trabajadores-diciembre-2025-n6218452",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 17:45:00"
+          "titulo": "UATRE cerró un aumento salarial hasta febrero: cómo quedó el salario básico de un peón rural",
+          "link": "https://www.iprofesional.com/economia/442891-aumento-salarial-para-peones-rurales-como-quedaron-los-basicos-hasta-febrero",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-28 09:46:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
-        "La Nación",
+        "iProfesional",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -513,12 +435,48 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "contraccion_empresas_y_20251128",
-      "tema": "Contracción Empresas y Economía Argentina",
-      "tema_normalizado": "contraccion empresas y economia argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Numerosas empresas industriales en Argentina están reduciendo drásticamente sus operaciones, cerrando plantas y despidiendo personal.\n• Esta contracción se debe principalmente a una fuerte caída del consumo interno y al aumento de la competencia por las importaciones.\n• La situación ha generado una discusión sobre si se trata de una crisis pasajera o si forma parte de un nuevo modelo económico para el país.\n\n🔍 **Datos clave:**\n• **Whirlpool:** Anunció el cese de fabricación de lavarropas en su planta de Pilar, afectando a 220 trabajadores.\n• **Mabe:** Cerró su fábrica de Córdoba, reconvirtiéndola en depósito, y ofreció retiros voluntarios.\n• **Essen:** Despidió a más de 30 operarios por baja en el consumo y suba de importaciones.\n• **Color Living:** Cerró su planta en Pacheco, dejando a 40 trabajadores sin empleo; mantendrá actividad en Villa del Rosario, Córdoba (400 empleados).\n• **Tn Platex:** Cerró su línea de confección en Monte Caseros, Corrientes, despidiendo a 20 de 36 operarios del sector.\n• **DBT (Cramaco):** Despidió a 35 trabajadores (el 90% de su personal) en Sastre, Santa Fe.\n• **Granja Tres Arroyos:** Cerrará un peladero en Concepción del Uruguay, Entre Ríos, y trasladará a 250 empleados.\n• **EMAE (septiembre):** La economía argentina puede crecer aún con la industria en retroceso, según este índice.\n• **Riesgo País:** Ascendió a 650 puntos, aunque se prevé una baja a 470 puntos tras posibles canjes de deuda en verano.\n• **US$ 160 millones:** Pérdida para exportadores de pollos por el cierre del mercado chino tras la gripe aviar de 2023.\n\n⚡ **Desarrollo:**\n• La ola de cierres y despidos en la industria es vista como la \"punta del iceberg\" de una crisis más profunda que afecta a sectores clave.\n• Las principales causas mencionadas por las empresas incluyen la fuerte caída de la demanda, el aumento de los costos de producción y la mayor facilidad para importar productos.\n• El Gobierno, a través del ministro Caputo, defiende la política económica actual que prioriza la estabilidad cambiaria y la apertura comercial, sugiriendo que la situación podría ser sostenida.\n• Existe una dicotomía entre el \"velorio\" en las fábricas y el \"festejo\" en los mercados financieros, que anticipan operaciones favorables para Argentina en el ámbito internacional.\n• Esta situación ha provocado debates sobre si el modelo económico actual es transitorio o si constituye un cambio estructural con consecuencias duraderas para la industria nacional.\n• Sindicatos como la UOM y el Sindicato de Madereros Zona Norte están en alerta, negociando suspensiones o llevando conflictos al Ministerio de Trabajo.\n\n💡 **¿Por qué importa?**\n• La contracción de empresas genera la pérdida de cientos de puestos de trabajo, lo que impacta directamente en la calidad de vida de las familias y en la economía regional.\n• Este escenario plantea un desafío crucial sobre la sostenibilidad de la industria nacional, la competitividad frente a las importaciones y el rumbo económico del país a largo plazo.",
-      "cantidad_noticias": 3,
+      "tema_id": "actividad_productiva_y_20251128",
+      "tema": "Actividad productiva y balanza comercial argentina",
+      "tema_normalizado": "actividad productiva y balanza comercial argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La economía argentina presenta un escenario de contrastes, con una marcada crisis en la industria manufacturera que genera cierres y despidos, mientras sectores como la minería y las energías renovables muestran dinamismo e inversiones.\n• La balanza comercial de bienes se beneficia de altos rendimientos agropecuarios y precios récord de minerales, pero la balanza de servicios, impulsada por el turismo, registra un significativo y creciente déficit de dólares.\n\n🔍 **Datos clave:**\n• **US$30 millones:** Inversión del Grupo Dinosaurio en el parque solar más grande de Córdoba, con 40 MW de capacidad.\n• **Diciembre 2025:** Fecha en que Renault Argentina cesará la producción de los modelos Sandero, Stepway y Logan en su planta de Córdoba.\n• **US$3.500 millones:** Ingreso estimado por exportaciones de trigo para la campaña 2025/26, a pesar de la caída internacional de precios.\n• **US$364,6 millones:** Déficit de la balanza de turismo registrado en octubre.\n• **US$650 millones:** Récord de exportaciones mineras en octubre, impulsado por un aumento del 50% en el precio del oro y la plata.\n• **20 despidos (Tn Platex) y 220 empleos en riesgo (Whirlpool):** Casos emblemáticos de la crisis en la industria textil y de electrodomésticos.\n\n⚡ **Desarrollo:**\n• **Contracción Industrial:** Empresas como Whirlpool, Electrolux, Mabe, Essen y Color Living enfrentan un desplome del consumo y mayor competencia de importaciones, derivando en cierres de líneas, suspensiones y despidos masivos.\n• **Reorientación Automotriz:** La planta de Renault en Córdoba se especializará en vehículos comerciales ligeros (LCV) como la Kangoo y una nueva pick-up (Niágara Concept) a partir de 2026, buscando un perfil exportador.\n• **Crecimiento en Energía Renovable:** La inversión del Grupo Dinosaurio en un parque solar generará energía limpia para autoabastecimiento y la red, fomentando el desarrollo industrial y comercial local.\n• **Impulso Exportador Primario:** La minería alcanzó un récord en exportaciones gracias al alza de los precios del oro y la plata, aunque no por un incremento en las cantidades exportadas. El sector agropecuario compensa precios bajos del trigo con rendimientos históricos.\n• **Déficit Turístico Persistente:** Un mayor número de argentinos viajando al exterior (725.000 en octubre) y la caída de turistas extranjeros (389.800 en octubre) amplifican el déficit de la balanza de servicios, drenando reservas.\n• **Impacto de la Apertura:** La política de reducción de aranceles y la apreciación del tipo de cambio afectan la competitividad de la industria local, como el sector textil (381 firmas cerradas desde diciembre de 2023), y favorecen las importaciones.\n\n💡 **¿Por qué importa?**\n• La economía argentina enfrenta el desafío de equilibrar un modelo productivo que combina un boom en sectores primarios y de precios con una profunda crisis en la industria manufacturera, generando una \"doble cara\" con efectos dispares en la actividad y el empleo.\n• La gestión de la balanza comercial se vuelve crucial, ya que el superávit generado por la exportación de bienes es contrarrestado significativamente por el déficit de la balanza de servicios, impactando directamente en la acumulación de reservas y la estabilidad macroeconómica.",
+      "cantidad_noticias": 8,
       "noticias": [
+        {
+          "titulo": "Grupo Dinosaurio invierte US$30 millones en un parque solar",
+          "link": "https://www.lanacion.com.ar/economia/grupo-dinosaurio-invierte-us30-millones-en-un-parque-solar-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 11:53:09"
+        },
+        {
+          "titulo": "Renault dejará de producir tres modelos de autos en su planta de Córdoba desde diciembre",
+          "link": "https://www.infobae.com/economia/2025/11/28/renault-dejara-de-producir-tres-modelos-de-autos-en-su-planta-de-cordoba-desde-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 11:39:16"
+        },
+        {
+          "titulo": "Cae el precio del trigo, pero no se resentirá el ingreso de dólares por los altos rendimientos",
+          "link": "https://www.ambito.com/economia/cae-el-precio-del-trigo-pero-no-se-resentira-el-ingreso-dolares-los-altos-rendimientos-n6218686",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 11:24:00"
+        },
+        {
+          "titulo": "La balanza de turismo tuvo en octubre un déficit de US$364,6 millones",
+          "link": "https://www.lanacion.com.ar/economia/la-balanza-de-turismo-tuvo-en-octubre-un-deficit-us3646-millones-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 11:23:28"
+        },
+        {
+          "titulo": "Exportaciones récord: el país alcanzó una cifra histórica para la minería gracias a una disparada del precio del oro",
+          "link": "https://www.lanacion.com.ar/economia/exportaciones-record-el-pais-alcanzo-una-cifra-historica-para-la-mineria-gracias-a-una-disparada-del-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 11:23:23"
+        },
+        {
+          "titulo": "Tn Platex cerró su línea de confección en Corrientes: 20 despidos y reubicaciones internas ante caída de consumo y ventas",
+          "link": "https://www.perfil.com/noticias/economia/tn-platex-cerro-su-linea-de-confeccion-en-corrientes-20-despidos-y-reubicaciones-internas-ante-caida-de-consumo-y-ventas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 09:20:01"
+        },
         {
           "titulo": "Whirlpool, punta del iceberg: empresas se achican, mientras Caputo defiende precio del dólar",
           "link": "https://www.iprofesional.com/economia/442853-mas-fabricas-cierran-o-se-hacen-importadoras-mientras-luis-caputo-defiende-precio-dolar",
@@ -530,20 +488,16 @@
           "link": "https://www.ambito.com/economia/lo-que-se-dice-las-mesas-festejo-mercados-y-velorios-fabricas-las-2-caras-una-misma-moneda-n6218554",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-28 07:00:00"
-        },
-        {
-          "titulo": "Tras el caso Whirlpool, se achican otras empresas: desde Granja Tres Arroyos hasta la textil de un exasesor del Gobierno",
-          "link": "https://www.clarin.com/economia/caso-whirlpool-achican-empresas-granja-arroyos-textil-exasesor-gobierno_0_QIWWvBAXzM.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-28 06:07:17"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
+        "La Nación",
+        "Infobae",
         "iProfesional",
-        "Clarín",
-        "Ámbito Financiero"
+        "Ámbito Financiero",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -551,35 +505,40 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "actos_antivacunas_en_20251128",
-      "tema": "Actos Antivacunas en Congreso Argentino",
-      "tema_normalizado": "actos antivacunas en congreso argentino",
-      "resumen": "📌 **¿Qué está pasando?**\n• La diputada Marilú Quiroz (PRO, Chaco) organizó un controvertido acto antivacunas en el Congreso Nacional argentino.\n• El evento, titulado “¿Qué contienen realmente las vacunas?”, generó un fuerte repudio de la comunidad médica y de la política.\n• Durante la jornada, se difundieron afirmaciones sin sustento científico sobre las vacunas y sus supuestos efectos adversos.\n\n🔍 **Datos clave:**\n• **Organizadora:** Diputada Marilú Quiroz (PRO, Chaco).\n• **Lugar:** Auditorio del Anexo A de la Cámara de Diputados.\n• **Autorización:** Martín Menem, Presidente de la Cámara de Diputados.\n• **Ponentes destacados:** Oscar Botta, Viviana Lens, Lorena Diblasis, Pablo Stolkiner.\n• **Hombre \"magnetizado\":** José Daniel Fabián, presentado por Lorena Diblasis.\n• **Vacuna cuestionada:** AstraZeneca contra el COVID-19 (en el caso de la \"magnetización\").\n• **Ley mencionada:** Ley N.º 27.491 de Control de Enfermedades Prevenibles por Vacunación.\n• **Ministro de Salud:** Mario Lugones.\n\n⚡ **Desarrollo:**\n• El evento presentó teorías sin base científica, como la vinculación de vacunas (ej. Triple Viral) con el autismo, un supuesto \"exceso de aluminio en sangre\" en vacunados, y la afirmación de que la pandemia fue un \"invento\".\n• Un momento insólito fue la presentación de José Daniel Fabián, quien intentó demostrar que objetos metálicos se le \"pegaban\" al cuerpo, atribuyéndolo a una \"magnetización\" por las vacunas COVID-19.\n• La diputada Quiroz, quien ya había expresado su oposición a la vacunación obligatoria, presentó un proyecto de ley para modificar la Ley N.º 27.491 y eliminar la obligatoriedad de las vacunas del calendario oficial.\n• Diversos legisladores de la Comisión de Salud, como Pablo Yedlin y Mónica Fein, denunciaron el acto como un \"dispositivo de desinformación sanitaria\" y pidieron su cancelación a Martín Menem.\n• El Colegio de Médicos y sociedades científicas expresaron su preocupación, advirtiendo sobre el riesgo de generar dudas en la comunidad y el posible resurgimiento de enfermedades.\n• El Ministro de Salud, Mario Lugones, reiteró que el Calendario Nacional de Vacunación se basa en evidencia científica y décadas de uso seguro, garantizando la calidad y eficacia de cada vacuna.\n• Los ponentes Oscar Botta y Viviana Lens son conocidos por difundir posturas antivacunas y teorías conspirativas, como la que afirmaba que la pandemia fue una \"mentira\" o un complot.\n\n💡 **¿Por qué importa?**\n• El evento en el Congreso pone en riesgo la salud pública al difundir desinformación sobre vacunas en un espacio institucional, socavando la confianza en programas de vacunación esenciales.\n• La promoción de posturas antivacunas puede llevar a una disminución de las tasas de vacunación, favoreciendo el resurgimiento de enfermedades graves que estaban controladas en Argentina.",
-      "cantidad_noticias": 3,
+      "tema_id": "novedades_anses_y_20251128",
+      "tema": "Novedades ANSES y jubilaciones",
+      "tema_normalizado": "novedades anses y jubilaciones",
+      "resumen": "📌 **¿Qué está pasando?**\n• ANSES anunció importantes actualizaciones para diciembre, incluyendo aumentos en jubilaciones, pensiones y asignaciones como la AUH.\n• Se confirmó la validez de distintas credenciales de PAMI para asegurar la atención médica de sus afiliados.\n• Los beneficiarios de la AUH tienen una fecha límite para presentar la Libreta AUH y acceder a un pago retenido.\n\n🔍 **Datos clave:**\n• **Aumento Jubilaciones/Pensiones/Asignaciones Familiares:** 2,34% (IPC octubre).\n• **Aumento AUH:** 2,3%.\n• **Libreta AUH:** Plazo hasta fin de año para su presentación.\n• **Jubilación Mínima (dic):** $340.879,59 + $70.000 (bono) + aguinaldo = $581.319,38.\n• **Tarjeta Alimentar:** Sin cambios en diciembre, montos entre $52.250 (1 hijo) y $108.062 (3+ hijos).\n• **Bono Extraordinario:** $70.000 para jubilaciones mínimas y PUAM.\n\n⚡ **Desarrollo:**\n• **Libreta AUH:** Es un formulario obligatorio para certificar controles de salud, vacunación y asistencia escolar. Su presentación habilita el cobro del 20% retenido mensualmente y el acceso a la Ayuda Escolar Anual.\n• **Trámite Libreta AUH:** Puede realizarse online desde \"mi ANSES\" descargando el formulario, completándolo en centros de salud/escuelas y luego subiéndolo. También es posible presentarlo en oficinas de ANSES sin turno.\n• **Asignación Universal por Hijo (AUH):** Con el aumento del 2,3%, el monto bruto es de $122.467, de los cuales se retiene el 20% ($24.493). La AUH por discapacidad es de $398.697.\n• **Ingresos Totales AUH + Tarjeta Alimentar:** Varían según la cantidad de hijos, desde $150.224 (1 hijo) hasta $206.036 (3 o más hijos).\n• **Jubilaciones y Pensiones:** El aumento del 2,34% fijado por el IPC eleva la jubilación mínima a $340.879,59 y la máxima a $2.293.796,92. La PUAM alcanza los $272.703,67.\n• **Beneficios Extra para Jubilados:** Diciembre incluye el aguinaldo para todos y un bono de $70.000 para quienes cobran la mínima o la PUAM.\n• **Asignaciones Familiares:** Se actualizaron con el mismo 2,34% que las jubilaciones, estableciendo nuevos topes de ingresos familiares ($2.511.024) y montos según tipo de asignación (Ej: Nacimiento $71.396, Hijo con Discapacidad hasta $398.364).\n• **Credenciales PAMI:** Se confirmó la validez de la credencial clásica (plástica), la digital (web/app con QR) y las nuevas. Es importante que estén legibles y con datos actualizados.\n\n💡 **¿Por qué importa?**\n• Estas actualizaciones impactan directamente en el poder adquisitivo de millones de jubilados, pensionados y beneficiarios de asignaciones, en un contexto de inflación.\n• Es crucial que los beneficiarios conozcan los plazos y requisitos (como la Libreta AUH y la revisión de credenciales PAMI) para asegurar el cobro de sus prestaciones y el acceso a servicios.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Los antivacunas y el hombre imán: las presentaciones del PRO en el Congreso que generaron indignación",
-          "link": "https://www.perfil.com/noticias/politica/una-diputada-del-pro-realizo-un-acto-antivacunas-en-el-congreso-y-genero-repudio-en-el-sector-de-la-salud.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 23:50:00"
-        },
-        {
-          "titulo": "Insólita exposición antivacunas en el Congreso: un hombre en cuero pretendió ser prueba de consecuencias magnéticas",
-          "link": "https://www.clarin.com/politica/insolita-exposicion-antivacunas-congreso-hombre-cuero-pretendio-prueba-consecuencias-magneticas_0_U6iyAojJlB.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 21:41:52"
-        },
-        {
-          "titulo": "Insólito acto antivacunas realizado en el Congreso y organizado por diputada del PRO",
-          "link": "https://www.minutouno.com/politica/insolito-acto-antivacunas-realizado-el-congreso-y-organizado-diputada-del-pro-n6218541",
+          "titulo": "ANSES: hasta cuándo se puede tramitar la Libreta AUH",
+          "link": "https://www.minutouno.com/economia/anses-cuando-se-puede-tramitar-la-libreta-auh-n6217628",
           "fuente": "Minuto1",
-          "fecha": "2025-11-27 20:55:00"
+          "fecha": "2025-11-28 07:40:00"
+        },
+        {
+          "titulo": "ANSES: el monto confirmado para la Tarjeta Alimentar y la AUH",
+          "link": "https://www.minutouno.com/economia/anses-el-monto-confirmado-la-tarjeta-alimentar-y-la-auh-n6218283",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 07:40:00"
+        },
+        {
+          "titulo": "Jubilaciones: ANSES oficializó el último aumento del año y definió los nuevos haberes para diciembre",
+          "link": "https://www.perfil.com/noticias/economia/jubilaciones-anses-oficializo-el-ultimo-aumento-del-ano-y-definio-los-nuevos-haberes-para-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 07:38:00"
+        },
+        {
+          "titulo": "PAMI: qué credenciales seguirán siendo válidas para atenderse en diciembre 2025",
+          "link": "https://www.perfil.com/noticias/economia/pami-que-credenciales-seguiran-siendo-validas-para-atenderse-en-diciembre-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 07:38:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
-        "Clarín",
         "Minuto1",
         "Perfil"
       ],
@@ -589,93 +548,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "jura_senadores_y_20251128",
-      "tema": "Jura Senadores y Caso Villaverde",
-      "tema_normalizado": "jura senadores y caso villaverde",
-      "resumen": "📌 **¿Qué está pasando?**\n• Veintitrés de los 24 senadores electos en los comicios de octubre juraron sus cargos este viernes en una sesión preparatoria en el Senado de la Nación.\n• Asumirán oficialmente sus bancas el próximo 10 de diciembre, junto a los nuevos diputados.\n• Lorena Villaverde, senadora electa por La Libertad Avanza (LLA) de Río Negro, fue la única cuyo diploma no fue convalidado y no pudo prestar juramento.\n\n🔍 **Datos clave:**\n• **Fecha de Jura:** Viernes, 11 AM (sesión preparatoria).\n• **Senadores que juraron:** 23.\n• **Senadora excluida:** Lorena Villaverde (LLA, Río Negro).\n• **Fecha de Asunción de bancas:** 10 de diciembre de 2023.\n• **Nueva líder del bloque LLA en el Senado:** Patricia Bullrich.\n• **Motivo de impugnación de Villaverde:** Presuntos vínculos con narcotráfico y una causa de 2002 en EE.UU.\n\n⚡ **Desarrollo:**\n• El proceso de jura se llevó a cabo con normalidad para la gran mayoría de los nuevos legisladores, que incluyen a figuras como Patricia Bullrich (CABA) y exgobernadores.\n• El caso de Lorena Villaverde generó controversia debido a impugnaciones presentadas por el PJ de su provincia.\n• Estas impugnaciones se basan en acusaciones de presuntos vínculos con el narcotráfico y una detención en Estados Unidos en 2002 por tráfico de drogas.\n• A pesar de los esfuerzos de La Libertad Avanza por validar su diploma, el oficialismo no logró reunir los votos necesarios en Labor Parlamentaria.\n• La decisión fue devolver el pliego de Villaverde a la Comisión de Asuntos Constitucionales para ser revisado nuevamente después del 10 de diciembre, con la nueva conformación de la Cámara.\n• Patricia Bullrich juró como senadora por CABA y se prepara para liderar el bloque de LLA en la Cámara Alta con el objetivo de dar una conducción \"con mano de hierro\" y unificar al espacio.\n• La designación de Bullrich busca suplir una percibida falta de liderazgo político en el Senado, especialmente tras el alejamiento de la vicepresidenta Victoria Villarruel de las decisiones gubernamentales, limitándose a un rol institucional.\n• Impugnaciones contra otros senadores, como Martín Soria (Río Negro) y Jorge Capitanich (Chaco), fueron desestimadas, permitiéndoles jurar.\n\n💡 **¿Por qué importa?**\n• La exclusión de Villaverde subraya la importancia de la revisión de antecedentes de los legisladores electos y puede sentar un precedente para futuros casos en el Congreso.\n• El liderazgo de Patricia Bullrich en el bloque oficialista del Senado será crucial para impulsar las iniciativas del gobierno de Javier Milei en un Congreso que se perfila como complejo y dividido.",
-      "cantidad_noticias": 6,
+      "tema_id": "declaraciones_migratorias_de_20251128",
+      "tema": "Declaraciones migratorias de Donald Trump",
+      "tema_normalizado": "declaraciones migratorias de donald trump",
+      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump ha anunciado planes drásticos para su política migratoria, incluyendo la suspensión permanente de la migración desde \"países del tercer mundo\".\n• También propone una revisión exhaustiva de aproximadamente 200,000 refugiados admitidos en Estados Unidos durante la administración de Joe Biden.\n• Estas declaraciones se intensificaron tras un ataque en Washington D.C., vinculando a un ciudadano afgano que ingresó como refugiado en 2021.\n\n🔍 **Datos clave:**\n• **200,000 personas:** Número de refugiados admitidos entre enero de 2021 y febrero de 2025 que serían sometidos a una reevaluación.\n• **53 millones:** Cifra citada por Trump como la población extranjera oficial en EE.UU., de la cual gran parte recibiría asistencia social o estaría involucrada en problemas.\n• **Rahmanullah Lakanwal:** Ciudadano afgano, refugiado de la era Biden, acusado del ataque en Washington D.C. donde murió Sarah Beckstrom (20) y fue herido Andrew Wolfe (24).\n• **US$ 50,000:** Estimación de Trump sobre el costo anual en prestaciones gubernamentales para una familia inmigrante con un perceptor de US$ 30,000.\n• **Enero 2021 - Febrero 2025:** Periodo de admisión de refugiados que serán revisados por su elegibilidad.\n\n⚡ **Desarrollo:**\n• Trump argumenta que la política migratoria actual ha \"dividido, desorganizado y ridiculizado\" a EE.UU., atribuyendo problemas sociales como el deterioro educativo o el aumento de la delincuencia a la presencia de inmigrantes.\n• Ha prometido cancelar \"millones de admisiones ilegales\" de la administración Biden, incluyendo aquellas firmadas con autopen, y deportar a quienes no sean \"un activo neto\" para el país.\n• Planea detener de forma temporal la aprobación de tarjetas de residencia para los refugiados bajo revisión y llevar a cabo nuevas entrevistas para confirmar su elegibilidad.\n• En caso de que se determine que un refugiado no cumplía los requisitos iniciales, no habrá derecho a apelación administrativa, solo a defensa judicial si se inicia un proceso de deportación.\n• Además, propone eliminar todos los beneficios y subsidios federales para no ciudadanos, desnaturalizar a inmigrantes que \"socaven la tranquilidad interna\" y deportar a quienes sean una carga pública o riesgo de seguridad.\n• Nacionalidades más comunes entre los refugiados a revisar incluyen República Democrática del Congo, Afganistán, Siria y Venezuela, con aproximadamente 100,000 admisiones solo en 2024.\n\n💡 **¿Por qué importa?**\n• Estas propuestas de Donald Trump, en caso de implementarse, representarían un cambio radical en la política migratoria de Estados Unidos, con un impacto masivo en la población inmigrante y refugiada.\n• Podrían llevar a deportaciones a gran escala, la revocación de estatus migratorios y un cierre significativo de fronteras, redefiniendo la identidad y las relaciones internacionales del país.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Javier Milei, EN VIVO: 23 senadores electos juran hoy mientras se define la situación de Lorena Villaverde",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-espera-defina-situacion-lorena-villaverde-hoy-juran-23-senadores-electos-octubre_0_pFvW65Nkjy.html",
+          "titulo": "El contundente mensaje “antimigrantes” de Donald Trump en Acción de Gracias: “No les queda mucho tiempo”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/el-contundente-mensaje-antimigrantes-de-donald-trump-en-accion-de-gracias-no-les-queda-mucho-tiempo-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 12:00:56"
+        },
+        {
+          "titulo": "Golpe a los migrantes: la administración Trump revisaría a miles de refugiados admitidos por Biden",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/golpe-a-los-migrantes-la-administracion-trump-revisaria-a-miles-de-refugiados-admitidos-por-biden-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 10:46:07"
+        },
+        {
+          "titulo": "Trump anunció que suspenderá permanentemente la migración a Estados Unidos de todos los países del “tercer mundo”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-anuncio-que-suspendera-permanentemente-la-migracion-a-estados-unidos-de-todos-los-paises-del-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 10:17:41"
+        },
+        {
+          "titulo": "Donald Trump: \"Suspenderé permanentemente la migración de todos los países del tercer mundo\"",
+          "link": "https://www.clarin.com/mundo/donald-trump-suspendere-permanentemente-migracion-paises-tercer-mundo_0_CNDa0K0Boa.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-28 08:07:25"
-        },
-        {
-          "titulo": "Patricia Bullrich se reunió con el bloque de senadores que conducirá con mano de hierro",
-          "link": "https://www.minutouno.com/politica/patricia-bullrich-se-reunio-el-bloque-senadores-que-conducira-mano-hierro-n6218520",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-28 07:35:00"
-        },
-        {
-          "titulo": "Senado: Lorena Villaverde no podrá jurar su banca y su diploma volverá a comisión tras el 10 de diciembre",
-          "link": "https://www.ambito.com/politica/senado-lorena-villaverde-no-podra-jurar-su-banca-y-su-diploma-volvera-comision-el-10-diciembre-n6218549",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 21:37:00"
-        },
-        {
-          "titulo": "Por falta de votos, el pliego de la libertaria Lorena Villaverde vuelve a comisión y no jura este viernes",
-          "link": "https://www.clarin.com/politica/cortocircuito-villarruel-bullrich-horas-asuncion-vice-despega-movida-defender-libertaria-villaverde_0_QHd6pHoWlI.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 19:46:43"
-        },
-        {
-          "titulo": "Patricia Bullrich reunió al bloque de LLA en el Senado y se prepara para asumir el mando",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-reunio-al-bloque-lla-el-senado-y-se-prepara-asumir-el-mando-n6218499",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-27 19:18:00"
-        },
-        {
-          "titulo": "Uno por uno, quiénes son los 23 senadores que juran este viernes",
-          "link": "https://www.clarin.com/politica/24-senadores-juran-viernes_0_zHQXmbGrey.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-27 17:14:54"
+          "fecha": "2025-11-28 02:28:38"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-28",
       "fuentes": [
-        "Clarín",
-        "Minuto1",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_impulsada_20251128",
-      "tema": "Reforma Laboral Impulsada por Milei",
-      "tema_normalizado": "reforma laboral impulsada por milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei impulsa una reforma laboral ambiciosa, buscando su aprobación antes de fin de año a través de sesiones extraordinarias en el Congreso.\n• Esta iniciativa genera un fuerte rechazo de los principales sindicatos, como ATE y la CGT, que anuncian medidas de fuerza y paros nacionales.\n• La reforma propone cambios en derechos individuales y flexibilidad, mientras guarda medidas más restrictivas para los sindicatos para una fase posterior.\n\n🔍 **Datos clave:**\n• **Fecha de debate:** El gobierno busca aprobar la reforma entre el 10 y el 31 de diciembre, mediante sesiones extraordinarias en el Congreso.\n• **Gremio opositor:** ATE (Asociación de Trabajadores del Estado), que convocó a un paro nacional y protestas \"sorpresivas\" en diciembre.\n• **Situación salarial (según ATE):** 24.8% de inflación contra 13.6% de aumento salarial en los primeros 10 meses del año.\n• **Actores gubernamentales clave:** Diego Santilli (Ministro del Interior), Federico Sturzenegger (Ministro de Desregulación), Manuel Adorni (Jefe de Gabinete).\n• **Líderes sindicales destacados:** Rodolfo Aguiar (Secretario General de ATE) y Gerardo Martínez (Secretario General de UOCRA y miembro de la CGT).\n\n⚡ **Desarrollo:**\n• El gobierno discute la reforma en el \"Consejo de Mayo\", inicialmente con una versión \"corta\" enfocada en derechos individuales y mayor flexibilidad laboral.\n• Entre las propuestas se incluyen el \"banco de horas\" para compensar horas extras con días libres y la negociación de \"convenios por empresa\" adaptados a cada compañía.\n• También se plantea un \"salario dinámico\" donde los aumentos estén ligados al desempeño y la rentabilidad, en lugar de la lógica inflacionaria de las paritarias.\n• Medidas más restrictivas para los sindicatos, como cambios en la ultractividad de convenios, los aportes sindicales y la representación de delegados, se reservan para una negociación posterior.\n• Los sindicatos, incluyendo ATE y la CGT, denuncian que la reforma busca desarmar protecciones históricas y debilitar la negociación colectiva.\n• ATE, tras un Consejo Federal en San Luis el 27 de noviembre, anunció un paro nacional para el día de la discusión parlamentaria y protestas en diciembre.\n• La CGT, a través de Gerardo Martínez, advirtió que convocará a medidas de fuerza en las \"últimas semanas de diciembre\" si sus reclamos no son escuchados por el gobierno.\n• El gobierno insiste en que el Consejo de Mayo tiene un rol \"consultivo\" y que la postura del Ejecutivo prevalece, acelerando la aprobación para dar señales a los mercados e inversores.\n\n💡 **¿Por qué importa?**\n• Esta reforma podría transformar profundamente el mercado laboral argentino, modificando las condiciones de trabajo, los salarios, las indemnizaciones y el poder de negociación sindical.\n• Su aprobación generaría un impacto significativo en los derechos de los trabajadores y en la relación entre el Estado, las empresas y los gremios, con una alta conflictividad social esperada.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "ATE anunció un paro nacional y protestas sorpresivas contra la Reforma Laboral que impulsa Javier Milei",
-          "link": "https://www.perfil.com/noticias/politica/ate-anuncio-un-paro-nacional-y-protestas-sorpresivas-contra-la-reforma-laboral-que-impulsa-javier-milei.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-27 21:46:00"
-        },
-        {
-          "titulo": "Acelera la reforma laboral: desde los cambios de mínima que planea Milei hasta el cepo a sindicatos",
-          "link": "https://www.iprofesional.com/impuestos/442814-reforma-laboral-meta-oficial-jornada-salario-vacaciones-o-sumar-cepo-gremios",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-27 19:50:00"
-        },
-        {
-          "titulo": "A contrarreloj: Javier Milei busca que la reforma laboral se apruebe antes de fin de año",
-          "link": "https://www.minutouno.com/politica/a-contrarreloj-javier-milei-busca-que-la-reforma-laboral-se-apruebe-antes-fin-ano-n6218470",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-27 18:12:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-28",
-      "fuentes": [
-        "iProfesional",
-        "Minuto1",
-        "Perfil"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
