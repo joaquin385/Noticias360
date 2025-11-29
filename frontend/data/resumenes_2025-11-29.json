@@ -1,0 +1,29 @@
+{
+  "fecha_consolidacion": "2025-11-29",
+  "fecha_generacion": "2025-11-29T03:45:22.843549",
+  "resumenes": {
+    "internacional": {
+      "resumen": "Una conversación telefónica secreta entre Donald Trump y Nicolás Maduro, revelada por The New York Times, indicó una posible reunión futura y la participación de Marco Rubio, esto en el contexto de la designación del Cartel de los Soles como organización terrorista. En paralelo, Trump anunció la suspensión de la migración desde países \"del tercer mundo\" y había solicitado una revisión generalizada de \"green cards\".\n\nEn Ucrania, el jefe de gabinete de Zelenski, Andrí Yermak, renunció tras una redada anticorrupción en su domicilio. Por otro lado, Vladimir Putin y Víktor Orbán acordaron en Moscú que Budapest sea la sede para futuras negociaciones de paz con Ucrania, una propuesta atribuida a Trump. La OEA, en un ámbito regional, renovó el mandato de Fernando Lottenberg como comisionado para combatir el antisemitismo en las Américas.\n\nLa seguridad aérea global está en alerta, ya que Airbus ordenó la revisión urgente y el reemplazo de software en 6.000 aviones A320. La medida responde a un incidente en Estados Unidos que reveló un riesgo crítico de control en vuelo debido a la vulnerabilidad del sistema a la radiación solar.\n\nEn Estados Unidos, se normalizaron los calendarios de pago de beneficios SNAP en Nueva Jersey, Texas e Illinois, y del Seguro Social en Nuevo México para diciembre de 2025, tras el fin del cierre federal. Paralelamente, la crisis migratoria se intensifica en la frontera entre Chile y Perú por el flujo venezolano. Asimismo, se reportaron casos de detenciones por confusión de identidad del ICE, y activistas utilizan videojuegos como Fortnite para entrenar a inmigrantes sobre cómo interactuar con agentes migratorios. Un proyecto de transporte en California aseguró un contrato millonario.",
+      "cantidad_noticias": 27,
+      "fecha_generacion": "2025-11-29T03:44:56.811000",
+      "categoria": "internacional"
+    },
+    "politica": {
+      "resumen": "El gabinete argentino experimenta una reestructuración significativa, con la salida de Patricia Bullrich de Seguridad y Luis Petri de Defensa para asumir roles legislativos. Alejandra Monteoliva y Carlos Presti han sido designados en sus respectivos ministerios, iniciando una nueva etapa gubernamental. Internamente, se registraron tensiones entre la vicepresidenta Victoria Villarruel y Karina Milei, así como con la saliente Bullrich, durante la jura de nuevos senadores, evidenciando fricciones en la cúpula.\n\nLa transparencia y la justicia se ven interpeladas por diversas investigaciones. Un funcionario de la Oficina Anticorrupción renunció tras revelarse su defensa a un acusado en la causa ANDIS, donde exfuncionarios se negaron a declarar sobre un presunto esquema de corrupción. Asimismo, el caso $Libra generó controversia por la liberación de bienes de los principales acusados con embargos mínimos.\n\nEn el ámbito legislativo y partidario, La Libertad Avanza (LLA) sumó diputados del PRO, acercándose a ser la primera minoría en la Cámara Baja y reconfigurando el panorama parlamentario. El bloque del PRO se desmarcó públicamente de una diputada que organizó un evento antivacunas en el Congreso. La reelección de Hugo Moyano en la Federación de Camioneros reafirma su liderazgo sindical, mientras que la imagen de Karina Milei preocupa al Gobierno por su impacto electoral.\n\nEn política de defensa y exterior, Argentina ha avanzado en la modernización de su Fuerza Aérea con la adquisición y llegada de la primera tanda de aviones F-16 a Dinamarca. En paralelo, el presidente Javier Milei ha manifestado apoyo a Tito Asfura en las elecciones de Honduras, alineándose con posturas de Donald Trump y criticando a gobiernos de izquierda.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-29T03:45:09.559804",
+      "categoria": "politica"
+    },
+    "economia": {
+      "resumen": "El gobierno ha flexibilizado el cepo cambiario para inversores no residentes, buscando normalizar el mercado financiero. En el plano externo, Estados Unidos activó USD 2.500 millones del swap con Argentina. A pesar de estas medidas, la demanda de divisas por parte de argentinos sigue alta, con compras de US$ 36.746 millones en diez meses, la cifra más elevada en seis años.\n\nEn el sector productivo, se observó un aumento significativo en las exportaciones de trigo, duplicando el volumen del año anterior. Sin embargo, la foresto-industria enfrenta una crisis con cierres de empresas y suspensiones, mientras el campo en general demanda baja de Derechos de Exportación y mejoras de infraestructura. La industria automotriz también mostró ajustes con la discontinuación de modelos clave. Entidades vitivinícolas solicitaron mantener instrumentos de trazabilidad.\n\nDiciembre proyecta nuevos aumentos en servicios esenciales como alquileres y prepagas, impactando el poder adquisitivo. El gobierno reestructurará subsidios a garrafas, focalizándolos en sectores de bajos ingresos mediante billeteras virtuales, en un contexto de debate sobre la redefinición de la clase media.\n\nLa confianza empresarial experimentó una caída de 91 puntos en el tercer trimestre de 2025. Persisten tensiones en la reforma laboral entre empresarios y la CGT, mientras bancos rechazaron una suba de impuestos en la provincia de Buenos Aires, alertando sobre un posible encarecimiento del crédito. Globalmente, Bitcoin retrocedió, aunque la inversión en criptomonedas en Argentina se mantiene.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-11-29T03:45:22.843079",
+      "categoria": "economia"
+    },
+    "sociedad": {
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-11-29T03:45:22.843524"
+    }
+  }
+}

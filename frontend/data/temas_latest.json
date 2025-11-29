@@ -1,6 +1,390 @@
 {
-  "fecha": "2025-11-28",
-  "fecha_generacion": "2025-11-29T00:52:54.392330",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-11-29",
+  "fecha_generacion": "2025-11-29T03:49:35.606983",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "sesion_juramento_senado:_20251129",
+      "tema": "Sesión Juramento Senado: Cruce Villarruel-Bullrich",
+      "tema_normalizado": "sesion juramento senado: cruce villarruel-bullrich",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Durante la reciente sesión de jura de nuevos senadores, la vicepresidenta Victoria Villarruel protagonizó dos fuertes cruces: uno con Patricia Bullrich, a quien le negó la palabra, y otro con Karina Milei, por la asignación de palcos.\n*   Estos incidentes generaron tensión y evidenciaron desavenencias dentro del propio espacio oficialista, marcando un debut complejo para el nuevo período legislativo.\n\n🔍 **Datos clave:**\n*   **Fecha de la jura:** Viernes.\n*   **Senadores jurados:** 23 de los 24 electos.\n*   **Protagonistas del cruce:** Victoria Villarruel, Patricia Bullrich, Karina Milei.\n*   **Funcionarios del Ejecutivo presentes:** Karina Milei, Manuel Adorni, Diego Santilli.\n*   **Senadora con diploma en revisión:** Lorena Villaverde (Río Negro).\n\n⚡ **Desarrollo:**\n*   Patricia Bullrich, senadora electa por La Libertad Avanza (LLA) y aún ministra de Seguridad, intentó tomar la palabra para denunciar privilegios en el acceso y trato desigual a funcionarios. Victoria Villarruel, presidiendo la sesión, le negó el micrófono, citando un acuerdo previo de todos los bloques parlamentarios que prohibía intervenciones y discursos.\n*   La secretaria general de la Presidencia, Karina Milei, junto a otros funcionarios como Manuel Adorni y Diego Santilli, asistió al Senado sin una invitación formal ni palco asignado para presenciar la jura de Bullrich. Desde el entorno de Villarruel se aseguró que no se solicitó un lugar por vías institucionales.\n*   Esta situación generó tensión, ya que Villarruel se había opuesto a la presencia de miembros del Ejecutivo sin invitación formal. Patricia Bullrich intervino informalmente, y finalmente, a regañadientes de la Vicepresidenta, se tuvo que desalojar otro palco para ubicar a los funcionarios de la Presidencia.\n*   La sesión también formalizó la jura de 23 de los 24 senadores electos, lo que reconfiguró la composición de la Cámara Alta. El diploma de Lorena Villaverde, senadora electa por Río Negro, fue devuelto a comisión para una nueva revisión debido a impugnaciones por supuestos antecedentes judiciales.\n*   Con estos cambios, el oficialismo de La Libertad Avanza triplicará su presencia a 20 bancas, mientras que el kirchnerismo contará con 28. Esto destaca la necesidad de alianzas para alcanzar el quórum y la aprobación de futuras leyes.\n\n💡 **¿Por qué importa?**\n*   Estos episodios reflejan una marcada tensión interna y problemas de comunicación entre figuras clave del gobierno de Javier Milei, especialmente entre la Vicepresidencia y el círculo cercano al Presidente.\n*   El debut del nuevo Senado estuvo marcado por estos choques, lo que podría prefigurar un escenario legislativo complejo y desafiante para la agenda del oficialismo.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Victoria Villarruel y Karina Milei volvieron a cruzarse por un palco en el Senado: qué pasó",
+          "link": "https://www.minutouno.com/politica/victoria-villarruel-y-karina-milei-volvieron-cruzarse-un-palco-el-senado-que-paso-n6218972",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 22:59:00"
+        },
+        {
+          "titulo": "Así juraron 23 de los 24 legisladores que asumirán en el Senado en diciembre",
+          "link": "https://www.minutouno.com/politica/asi-juraron-23-los-24-legisladores-que-asumiran-el-senado-diciembre-n6218822",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 15:58:00"
+        },
+        {
+          "titulo": "Victoria Villarruel le negó la palabra a Patricia Bullrich en medio de la jura de nuevos legisladores",
+          "link": "https://www.perfil.com/noticias/politica/victoria-villarruel-le-nego-la-palabra-a-patricia-bullrich-en-medio-de-la-jura-de-nuevos-legisladores.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 15:49:00"
+        },
+        {
+          "titulo": "Sesión especial EN VIVO: juraron los 23 senadores que asumirán en diciembre",
+          "link": "https://www.ambito.com/congreso-jura-senadores-en-vivo-minuto-a-minuto-fecha-28-noviembre",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 14:59:00"
+        },
+        {
+          "titulo": "Cruces y pases de factura entre Villarruel y Karina Milei en la jura de los nuevos senadores por el ingreso a los palcos",
+          "link": "https://www.clarin.com/politica/cruces-pases-factura-villarruel-karina-milei-jura-nuevos-senadores-ingreso-palcos_0_61dYqTFsrD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 14:58:06"
+        },
+        {
+          "titulo": "Se reconfigura el Senado: con la jura de los legisladores, el oficialismo gana bancas y Cristina Kirchner pierde poder",
+          "link": "https://www.clarin.com/politica/reconfigura-senado-jura-legisladores-oficialismo-gana-bancas-cristina-kirchner-pierde-poder_0_nJDEQHm601.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 14:09:31"
+        },
+        {
+          "titulo": "Patricia Bullrich y Victoria Villarruel tuvieron su primer cruce en el Senado: qué pasó",
+          "link": "https://www.minutouno.com/politica/patricia-bullrich-y-victoria-villarruel-tuvieron-su-primer-cruce-el-senado-que-paso-n6218765",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 13:55:00"
+        },
+        {
+          "titulo": "Debutó el nuevo Senado con un fuerte cruce entre Victoria Villarruel y Patricia Bullrich",
+          "link": "https://www.ambito.com/politica/debuto-el-nuevo-senado-un-fuerte-cruce-victoria-villarruel-y-patricia-bullrich-n6218757",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 13:49:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizaciones_dolar_y_20251129",
+      "tema": "Cotizaciones Dólar y Euro Blue",
+      "tema_normalizado": "cotizaciones dolar y euro blue",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones del dólar y el euro en sus versiones \"blue\" (informales) y oficiales mostraron variaciones este viernes 28 de noviembre de 2025.\n• El dólar blue experimentó movimientos mixtos, reflejando la persistente búsqueda de activos de refugio por parte de los ahorristas.\n• Otras cotizaciones importantes como el dólar oficial, MEP, CCL y cripto también cerraron la jornada con sus respectivos valores.\n\n🔍 **Datos clave:**\n• **Fecha:** Viernes 28 de noviembre de 2025.\n• **Dólar Blue (cierre):** Compra $1.425,00 / Venta $1.475,00.\n• **Dólar Oficial (BNA, cierre):** Compra $1.430,00 / Venta $1.480,00.\n• **Euro Blue (cierre):** Compra $1.736,75 / Venta $1.705,75.\n• **Riesgo País (jueves 27):** 653,00 puntos básicos, según JP Morgan.\n• **Dólar Tarjeta (venta):** $1.497,14, incluyendo impuestos.\n\n⚡ **Desarrollo:**\n• El \"dólar blue\" es una divisa que opera en el mercado informal o paralelo, donde los precios se acuerdan entre particulares sin regulaciones ni límites. Se le asocia el nombre \"blue\" a lo \"oscuro\" o clandestino, a operaciones con \"blue chips\" o al color para detectar billetes falsos.\n• Históricamente, el dólar blue ha mostrado una significativa escalada: en 2024 subió $205 (+16,7%) cerrando el año en $1.230, y en 2023 acumuló un alza de $654.\n• El dólar oficial, por su parte, cerró noviembre con una leve suba de solo $6,5 (0,5%), manteniendo lo que se describe como una \"pax cambiaria\" durante el mes.\n• Esta relativa estabilidad del dólar oficial se atribuye a una menor demanda de divisas en noviembre, en contraste con octubre, cuando la dolarización pre-electoral generó un avance de casi 5%.\n• Además del dólar blue y el oficial, existen otras cotizaciones relevantes: el Dólar MEP (Compra $1.475,30 / Venta $1.477,80), que surge de la compra-venta de bonos en el mercado local.\n• El Dólar Contado con Liquidación (CCL) (Compra $1.517,50 / Venta $1.518,30) se utiliza para sacar divisas del país mediante la compra-venta de bonos.\n• El Dólar Cripto, representado por stablecoins como USDT, cerró en Compra $1.459,48 / Venta $1.475,10.\n• La cotización del euro también presentó una versión oficial y otra blue, siendo la blue la que circula en el mercado paralelo, con los valores específicos de compra y venta reportados.\n\n💡 **¿Por qué importa?**\n• La evolución de las cotizaciones del dólar y el euro blue es un termómetro clave de la salud económica, reflejando la confianza y las expectativas ante la incertidumbre.\n• La brecha entre los diferentes tipos de cambio impacta directamente en el poder adquisitivo, el ahorro y los costos operativos, afectando las finanzas diarias de ciudadanos y empresas.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 28 de noviembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-28-noviembre-n6218454",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 17:30:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue hoy viernes 28 de noviembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-viernes-28-de-noviembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 15:00:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 28 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-28-noviembre-n6218599",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 14:50:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "suspension_migracion_afganos_20251129",
+      "tema": "Suspensión Migración Afganos EEUU",
+      "tema_normalizado": "suspension migracion afganos eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha suspendido todas las solicitudes de inmigración para ciudadanos afganos, con \"efecto inmediato\".\n• Esta medida se tomó después de que un ciudadano afgano fuera acusado de atacar a dos miembros de la Guardia Nacional en Washington D.C.\n• La suspensión busca una revisión adicional de los protocolos de seguridad y verificación de antecedentes.\n\n🔍 **Datos clave:**\n• **Fecha de anuncio:** Miércoles 26 de noviembre (de la noticia).\n• **Presidente:** Donald Trump (quien anunció la suspensión).\n• **Agresor:** Rahmanullah Lakanwal, ciudadano afgano de 29 años.\n• **Víctima mortal:** Sarah Beckstrom, 20 años, miembro de la Guardia Nacional de Virginia Occidental.\n• **Víctima herida:** Sargento Andrew Wolfe, 24 años, en estado grave.\n• **Soldados adicionales:** 500 desplegados en Washington D.C. tras el ataque.\n\n⚡ **Desarrollo:**\n• La Administración Trump anunció la suspensión de visas tras el ataque, calificándolo de \"acto de terror\" y responsabilizando a su predecesor, Joe Biden.\n• El sospechoso, Rahmanullah Lakanwal, había ingresado al país en 2021 bajo la \"Operación Aliados Bienvenidos\", un programa para acoger afganos tras el regreso de los talibanes al poder.\n• Lakanwal, quien residía en el estado de Washington, viajó a la capital y emboscó a los soldados cerca de la Casa Blanca, disparando con un revólver.\n• Inicialmente acusado de agresión con intención de matar, los cargos contra Lakanwal fueron elevados a asesinato en primer grado tras el fallecimiento de Sarah Beckstrom.\n• El agresor fue miembro de las \"unidades cero\" afganas, un grupo antiterrorista apoyado por la CIA, antes de refugiarse en EE.UU.\n• La fiscal de la capital, Jeanine Pirro, declaró que se trató de un \"asesinato premeditado\" y la policía continúa investigando el motivo del atacante.\n\n💡 **¿Por qué importa?**\n• La suspensión impacta directamente el proceso de refugio y asilo para miles de afganos que buscan seguridad en EE.UU., especialmente aquellos que colaboraron con las fuerzas estadounidenses.\n• Este incidente ha intensificado el debate sobre las políticas migratorias y los protocolos de seguridad, reabriendo cuestionamientos sobre la verificación de antecedentes de los recién llegados.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "EE.UU. suspende solicitudes migratorias de afganos tras ataque a la Guardia Nacional",
+          "link": "https://www.infobae.com/america/agencias/2025/11/27/eeuu-suspende-solicitudes-migratorias-de-afganos-tras-ataque-a-la-guardia-nacional/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-29 00:16:36"
+        },
+        {
+          "titulo": "El agresor de los soldados de la Guardia Nacional ahora enfrenta un cargo de asesinato en primer grado",
+          "link": "https://www.lanacion.com.ar/estados-unidos/el-agresor-de-los-soldados-de-la-guardia-nacional-ahora-enfrenta-un-cargo-de-asesinato-en-primer-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 20:22:42"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cambios_gabinete_nacional_20251129",
+      "tema": "Cambios Gabinete Nacional Argentino",
+      "tema_normalizado": "cambios gabinete nacional argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno nacional argentino está llevando a cabo una reestructuración de su Gabinete, enfocada en los Ministerios de Seguridad y Defensa.\n• Patricia Bullrich y Luis Petri han dejado sus cargos ministeriales para asumir roles en el Poder Legislativo.\n• En su lugar, Alejandra Monteoliva ha sido designada Ministra de Seguridad y el Teniente General Carlos Presti como Ministro de Defensa.\n\n🔍 **Datos clave:**\n• **Alejandra Monteoliva:** Nueva Ministra de Seguridad, jurará el próximo martes en Casa Rosada ante el Presidente Javier Milei.\n• **Carlos Presti:** Nuevo Ministro de Defensa, su asunción está prevista para los días posteriores al 10 de diciembre.\n• **Patricia Bullrich:** Ya juró como Senadora Nacional por la Ciudad de Buenos Aires y preside el bloque de La Libertad Avanza (LLA).\n• **Luis Petri:** Continúa en Defensa hasta asumir como Diputado Nacional por Mendoza, hecho que se concretará cerca del 10 de diciembre.\n• **Anuncio:** El Presidente Javier Milei confirmó las designaciones de Monteoliva y Presti el sábado 22 de noviembre.\n\n⚡ **Desarrollo:**\n• El Ministerio de Seguridad quedó \"prácticamente acéfalo\" tras la salida de Bullrich, pero Monteoliva, de perfil técnico y cercana a la exministra, asumirá para liderar el área.\n• Luis Petri retrasa su salida de Defensa buscando \"ordenar algunas cuestiones\" de la cartera antes del traspaso, lo que ha dilató la asunción de Presti.\n• Petri y el entrante Presti compartirán en los próximos días actos importantes, como la formalización de la compra de aviones de combate F-16 a Dinamarca y blindados Stryker 8x8 a Estados Unidos.\n• Los cambios de Gabinete, incluyendo la salida de figuras prominentes como Bullrich y Petri, generaron un alto impacto mediático y un reacomodamiento en las menciones públicas según informes de Monitor Digital.\n• Además de Seguridad y Defensa, otros movimientos mencionados en el contexto de la renovación incluyen a Diego Santilli como Ministro del Interior y Manuel Adorni como Jefe de Gabinete.\n\n💡 **¿Por qué importa?**\n• Estos movimientos estratégicos buscan reorganizar el Gabinete y marcar el inicio de una nueva etapa en dos áreas gubernamentales consideradas sensibles y prioritarias para el gobierno.\n• La reestructuración implica que figuras con alta visibilidad pública transicionan a roles legislativos, mientras que nuevos perfiles técnicos y militares asumen responsabilidades clave en el Poder Ejecutivo.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Patricia Bullrich ya juró como senadora pero su sucesora todavía no asumió en Seguridad",
+          "link": "https://www.minutouno.com/politica/patricia-bullrich-ya-juro-como-senadora-pero-su-sucesora-todavia-no-asumio-seguridad-n6218961",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-28 23:36:00"
+        },
+        {
+          "titulo": "Alejandra Monteoliva jurará el martes en Seguridad y Carlos Presti lo hará cerca del 10 de diciembre",
+          "link": "https://www.ambito.com/politica/alejandra-monteoliva-jurara-el-martes-seguridad-y-carlos-presti-lo-hara-cerca-del-10-diciembre-n6218963",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 21:55:00"
+        },
+        {
+          "titulo": "Salen Bullrich y Petri, entran Santilli y Adorni: que dice el 'Monitor Digital' sobre el nuevo Gabinete",
+          "link": "https://www.perfil.com/noticias/politica/como-quedo-el-nuevo-mapa-del-poder-digital-en-el-gabinete-de-milei-tras-la-salida-de-bullrich-y-petri-y-la-llegada-de-santilli.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 21:26:06"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "pases_diputados_a_20251129",
+      "tema": "Pases Diputados a La Libertad Avanza",
+      "tema_normalizado": "pases diputados a libertad avanza",
+      "resumen": "📌 **¿Qué está pasando?**\n• Varios diputados, principalmente del PRO, se están uniendo al bloque de La Libertad Avanza (LLA).\n• Estos pases están ocurriendo justo antes de la jura de los legisladores electos, programada para el 3 de diciembre.\n• Con estas incorporaciones, LLA se acerca a convertirse en la principal fuerza legislativa minoritaria en la Cámara de Diputados.\n\n🔍 **Datos clave:**\n• LLA suma 93 miembros tras los últimos pases, acercándose a ser la primera minoría.\n• Fuerza Patria (peronismo/Unión por la Patria) ostenta 95/96 legisladores, siendo la actual primera minoría.\n• Fecha de jura y renovación legislativa: 3 de diciembre.\n• Diputados recientemente incorporados a LLA: Alejandro Bongiovanni y Verónica Razzini (ambos de Santa Fe, ex-PRO).\n• Otros diputados PRO que ya se sumaron a LLA: Damián Arabia, Sabrina Ajmechet, Laura Rodríguez Machado, Silvana Giudici, Patricia Vázquez, María Luisa González Estevarena, Carlos Almenda, Belén Avico (8 en total).\n• \"Radicales pelucas\" que también se unieron a LLA: Luis Picat, Mariano Campero y Federico Tournier (3 en total).\n\n⚡ **Desarrollo:**\n• La Cámara de Diputados está experimentando una reconfiguración, pasando de 25 bloques a una posible nueva disposición con cuatro sectores principales.\n• Los pases de diputados fortalecen la bancada de LLA, lo que es clave para su estrategia legislativa y su poder de negociación.\n• Alejandro Bongiovanni, de Santa Fe, confirmó su salto a LLA tras reuniones con Martín Menem, habiendo coqueteado con la idea por meses.\n• Verónica Razzini, también de Santa Fe, había salido del PRO en abril para formar \"Futuro y Libertad\" y ahora se suma a LLA, respaldada por Patricia Bullrich.\n• Patricia Bullrich, Ministra de Seguridad, posó con Razzini y Martín Menem, celebrando la incorporación de la diputada santafesina al bloque libertario.\n• El peronismo (Unión por la Patria) también enfrenta posibles fugas, como los cuatro legisladores de Catamarca alineados con Raúl Jalil, lo que podría reducir su número a 92 y generar un empate con LLA.\n• El PRO logró retener al diputado Álvaro González, cercano a Horacio Rodríguez Larreta, pero aún observa la situación de José Núñez y Daiana Fernández Molero.\n• El próximo 3 de diciembre se espera la reelección de Martín Menem como presidente de la Cámara y la definición del mecanismo de conformación de comisiones.\n\n💡 **¿Por qué importa?**\n• Alcanzar la primera minoría otorga a LLA una ventaja decisiva en la distribución de lugares en las comisiones legislativas, regida por el sistema proporcional D’Hont.\n• Este liderazgo parlamentario es fundamental para impulsar la agenda del gobierno de Javier Milei y tener mayor influencia en la aprobación de leyes clave.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Diputados: nuevo pase del PRO a La Libertad Avanza, que se acerca a ser la principal fuerza legislativa",
+          "link": "https://www.ambito.com/politica/diputados-nuevo-pase-del-pro-la-libertad-avanza-que-se-acerca-ser-la-principal-fuerza-legislativa-n6218936",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 20:24:00"
+        },
+        {
+          "titulo": "Sangría en el PRO: dos diputados más saltaron a La Libertad Avanza, que está cerca de arrebatarle la primera minoría al PJ",
+          "link": "https://www.clarin.com/politica/diputada-pro-salto-libertad-avanza-cerca-arrebatarle-primera-minoria-pj_0_Kzb2OlHpe8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 16:40:37"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "contactos_donald_trump-nicolas_20251129",
+      "tema": "Contactos Donald Trump-Nicolás Maduro",
+      "tema_normalizado": "contactos donald trump-nicolas maduro",
+      "resumen": "📌 **¿Qué está pasando?**\n• El entonces presidente de Estados Unidos, Donald Trump, y el líder venezolano, Nicolás Maduro, mantuvieron una conversación telefónica.\n• Durante esta llamada, ambos evaluaron la posibilidad de organizar una reunión presencial entre ellos, en un contexto de gran tensión bilateral.\n\n🔍 **Datos clave:**\n• **Actores principales:** Donald Trump (presidente de EE.UU. en ese momento) y Nicolás Maduro (presidente de Venezuela).\n• **Intermediario:** El secretario de Estado de EE.UU., Marco Rubio, participó como mediador en la llamada.\n• **Contexto temporal:** La comunicación tuvo lugar días antes de que EE.UU. designara formalmente a Maduro y al \"Cartel de los Soles\" como una organización terrorista extranjera.\n• **Despliegue militar:** EE.UU. había desplegado cerca de 15.000 militares y una docena de buques de guerra, incluyendo el portaviones USS Gerald Ford, en el Caribe, como parte de la \"Operación Lanza del Sur\".\n\n⚡ **Desarrollo:**\n• La existencia de la llamada fue revelada por The New York Times y confirmada por personas cercanas al gobierno venezolano, aunque oficialmente no hubo declaraciones.\n• Este contacto se produjo en medio de una escalada de presiones estadounidenses, incluyendo amenazas de intervención militar y una operación naval contra el narcotráfico en la región.\n• La \"Operación Lanza del Sur\" no solo buscaba disuadir el contrabando de drogas, sino que también fue asociada al objetivo de EE.UU. de lograr la destitución de Maduro del poder, e incluso resultó en la muerte de más de 80 personas en ataques a embarcaciones.\n• Las motivaciones de Trump para esta comunicación fueron objeto de especulación, como la búsqueda de una salida negociada para Maduro o el fin de una ofensiva militar que era impopular entre algunos de sus seguidores.\n• Anteriormente, el gobierno de Maduro había ofrecido a EE.UU. una participación significativa en los yacimientos petrolíferos del país, pero esas conversaciones fueron interrumpidas.\n• Expertos y diplomáticos expresaron un fuerte escepticismo sobre la credibilidad de Maduro, recordando promesas pasadas, como la celebración de nuevas elecciones o la provisión de petróleo, que nunca se cumplieron.\n\n💡 **¿Por qué importa?**\n• Este contacto directo marcó un giro inesperado en la confrontación entre ambos líderes, abriendo una ventana a la diplomacia en un contexto de máxima presión militar y económica.\n• Reflejó la complejidad de la política exterior de EE.UU. hacia Venezuela, que combinaba una postura de fuerza extrema con la disposición a negociar cara a cara para buscar una resolución a la crisis.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Donald Trump finalmente habló con Nicolás Maduro y evaluaron una posible reunión entre ambos",
+          "link": "https://www.clarin.com/mundo/donald-trump-finalmente-hablo-nicolas-maduro-evaluaron-posible-reunion-ambos_0_giYSIcGSQA.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-28 22:49:07"
+        },
+        {
+          "titulo": "Donald Trump habría hablado con Nicolás Maduro, en medio de la escalada de tensiones",
+          "link": "https://www.ambito.com/mundo/donald-trump-habria-compartido-un-llamado-telefonico-nicolas-maduro-medio-la-escalada-tensiones-n6218907",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 19:40:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "flexibilizacion_cepo_cambiario_20251129",
+      "tema": "Flexibilización Cepo Cambiario Argentina",
+      "tema_normalizado": "flexibilizacion cepo cambiario argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino, a través de la Comisión Nacional de Valores (CNV), flexibilizó una de las restricciones del \"cepo cambiario\".\n• Esta medida permite a inversores extranjeros superar el límite diario de $200 millones al transferir al exterior ciertos títulos públicos.\n• Se busca facilitar la reinversión de pagos de bonos en pesos en nuevos instrumentos del Tesoro.\n\n🔍 **Datos clave:**\n• **Organismo emisor:** Comisión Nacional de Valores (CNV).\n• **Límite anterior:** $200 millones diarios para transferencia de títulos al exterior.\n• **Instrumento legal:** Resolución General 1093.\n• **Plazo mínimo de bonos:** 180 días desde su emisión.\n• **Funcionario clave:** Roberto Silva, presidente de la CNV.\n• **Alcance:** Exclusivamente para inversores no residentes.\n\n⚡ **Desarrollo:**\n• Hasta ahora, tanto residentes como no residentes tenían un tope de $200 millones diarios para mover títulos a depositarias internacionales, buscando evitar tensiones cambiarias.\n• La nueva excepción permite a un inversor del exterior cobrar intereses o amortizaciones en pesos de bonos del Tesoro y reinvertirlos en nuevos títulos públicos.\n• Esos nuevos bonos, suscritos en colocaciones primarias y con ciertos requisitos de plazo, pueden ser transferidos al exterior sin el tope diario.\n• Aplica específicamente a bonos del Tesoro Nacional pagaderos en pesos, con el plazo mínimo de amortización de 180 días desde su emisión.\n• Para acceder al beneficio, se debe demostrar el origen de los fondos y la trazabilidad completa del proceso de reinversión, desde el cobro inicial hasta la suscripción primaria.\n• Roberto Silva, presidente de la CNV, indicó que esta acción es parte del \"desmantelamiento progresivo de restricciones heredadas\" para normalizar el mercado de capitales.\n• La medida busca generar incentivos para que los no residentes faciliten el financiamiento del Tesoro en pesos, impulsando la estabilidad del mercado.\n• El economista Gabriel Caamaño ha señalado que se utilizan las normativas del cepo para promover el financiamiento estatal.\n\n💡 **¿Por qué importa?**\n• La medida busca atraer y retener capital extranjero, reforzando la confianza de los fondos internacionales al ofrecerles mayor libertad de movimiento.\n• Facilita la financiación del Estado en pesos, contribuyendo a la estabilidad del mercado de deuda local y apoyando la estrategia oficial de ordenamiento económico.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El Gobierno flexibilizó el cepo cambiario para inversores extranjeros",
+          "link": "https://www.iprofesional.com/economia/442960-gobierno-javier-milei-flexibilizo-cepo-cambiario-para-inversores-extranjeros",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-28 21:19:00"
+        },
+        {
+          "titulo": "Cepo cambiario: flexibilizan una regla para inversores no residentes",
+          "link": "https://www.perfil.com/noticias/economia/Cepo cambiario: flexibilizan una restricción que rige sobre los inversores extranjeros.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 19:52:00"
+        },
+        {
+          "titulo": "Dólar CCL: la CNV anunció una nueva flexibilización para los inversores extranjeros de corto plazo",
+          "link": "https://www.ambito.com/finanzas/dolar-ccl-la-cnv-anuncio-una-nueva-flexibilizacion-los-inversores-extranjeros-corto-plazo-n6218881",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 18:54:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_andis_y_20251129",
+      "tema": "Causa ANDIS y Oficina Anticorrupción",
+      "tema_normalizado": "causa andis y oficina anticorrupcion",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investigan supuestas maniobras de corrupción en la Agencia Nacional de Discapacidad (ANDIS) por contrataciones de droguerías y desvío de fondos públicos.\n• Exfuncionarios de la ANDIS, Eduardo Nelio González y Lorena Di Giorno, se negaron a declarar ante la justicia en esta causa.\n• Un funcionario de la Oficina Anticorrupción (OA), Camilo Cordero Fabbri, renunció al conocerse que era abogado defensor de Miguel Ángel Calvete, uno de los principales imputados en el caso ANDIS.\n\n🔍 **Datos clave:**\n• **Juez de la causa ANDIS:** Sebastián Casanello.\n• **Fiscal a cargo:** Franco Picardi.\n• **Imputados clave:** Miguel Ángel Calvete (empresario), Eduardo Nelio González y Lorena Di Giorno (exfuncionarios ANDIS).\n• **Empresas investigadas:** INDECOMM S.R.L., Profarma S.A., Profusión S.A.\n• **Funcionario de la OA renunciante:** Camilo Cordero Fabbri (ex-Coordinador de Admisión y Derivación de Denuncias).\n• **Perjuicio económico estimado:** Alrededor de 37.000 millones de pesos.\n• **Dinero incautado en allanamientos:** Cerca de 700 mil dólares.\n\n⚡ **Desarrollo:**\n• La causa ANDIS investiga un presunto esquema de favores a droguerías y desvío de fondos destinados a personas con discapacidad.\n• Eduardo Nelio González, como Director Nacional de Apoyos y Asignaciones Económicas de ANDIS, habría beneficiado a empresas vinculadas a Calvete y manipulado el sistema de compras a cambio de dinero.\n• Lorena Di Giorno, funcionaria de la ANDIS, habría actuado bajo órdenes de Calvete, manejando dinero, facilitando operaciones ilícitas y facturando a sus empresas.\n• Ambos exfuncionarios están acusados de incumplimiento de deberes, administración fraudulenta, corrupción y participación en una organización delictiva, y optaron por negarse a responder preguntas.\n• Miguel Ángel Calvete es señalado como líder u organizador de una asociación ilícita, actuando como operador informal entre la ANDIS y varias firmas proveedoras, pese a no tener un cargo oficial.\n• Calvete ya se encuentra detenido cumpliendo condena por explotación de la prostitución ajena, causa en la que fue defendido por Camilo Cordero Fabbri.\n• Camilo Cordero Fabbri, quien ingresó a la OA en 2020, renunció debido a la incompatibilidad de su rol público (en la OA que investiga corrupción) con su actividad privada como abogado de un imputado en casos de corrupción.\n• Durante un allanamiento a Calvete, se encontraron instrucciones que indicaban contactar al Dr. Camilo Cordero Fabbri en caso de procedimientos judiciales.\n• La hija y el yerno de Calvete, Ornella Calvete y Javier Cardini, también renunciaron a sus cargos en el Ministerio de Economía tras el escándalo.\n• La investigación se inició por audios atribuidos a Diego Spagnuolo, extitular del organismo, y se apoya en mensajes entre Calvete y los funcionarios, así como en cuadernos personales del empresario.\n\n💡 **¿Por qué importa?**\n• La causa ANDIS expone un grave esquema de corrupción que habría desviado fondos públicos destinados a uno de los sectores más vulnerables de la sociedad, afectando directamente la asistencia a personas con discapacidad.\n• Este caso subraya la necesidad de una estricta ética pública y la incompatibilidad de roles, especialmente en organismos clave como la Oficina Anticorrupción, para garantizar la transparencia y la integridad en la administración del Estado.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Causa ANDIS: exfuncionarios se negaron a responder preguntas de los investigadores",
+          "link": "https://www.ambito.com/politica/causa-andis-exfuncionarios-se-negaron-responder-preguntas-los-investigadores-n6218938",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 20:50:00"
+        },
+        {
+          "titulo": "Presentó su renuncia el funcionario de la Oficina Anticorrupción que es abogado defensor de Miguel Calvete",
+          "link": "https://www.lanacion.com.ar/politica/presento-su-renuncia-el-funcionario-de-la-oficina-anticorrupcion-que-es-abogado-defensor-de-miguel-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 20:49:25"
+        },
+        {
+          "titulo": "Renunció un funcionario de la Oficina Anticorrupción tras conocerse que defendía a uno de los acusados en la causa ANDIS",
+          "link": "https://www.perfil.com/noticias/politica/renuncio-un-funcionario-de-la-oficina-anticorrupcion-tras-conocerse-que-defendia-a-uno-de-los-acusados-en-la-causa-andis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-28 20:33:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "revision_aviones_airbus_20251129",
+      "tema": "Revisión Aviones Airbus A320",
+      "tema_normalizado": "revision aviones airbus a320",
+      "resumen": "📌 **¿Qué está pasando?**\n• El fabricante Airbus ha instado a detener inmediatamente los vuelos de cerca de 6000 aviones de la familia A320 en todo el mundo.\n• Esta medida preventiva se debe a la necesidad de actualizar urgentemente un sistema de control de vuelo, llamado ELAC.\n• Se detectó una vulnerabilidad donde la radiación solar intensa puede corromper datos esenciales, afectando funciones críticas del pilotaje automático.\n\n🔍 **Datos clave:**\n• **Aviones afectados:** Aproximadamente 6000 aeronaves de la familia A320.\n• **Sistema comprometido:** ELAC (Elevator and Aileron Computer), que controla elevadores y alerones.\n• **Incidentes:** Un incidente técnico a fines de octubre en un A320 en Estados Unidos, que reveló la vulnerabilidad (ej. vuelo de JetBlue el 30 de octubre con descenso brusco).\n• **Fecha de inmovilización en Colombia:** Desde el sábado 29 de noviembre a las 19:00 horas.\n• **Flota Avianca afectada:** Más del 70% de su flota de A320, que llevó a la suspensión temporal de ventas hasta el 8 de diciembre.\n• **Modelo A320:** Es el avión más vendido del mundo, con más de 12.250 unidades entregadas desde su debut en 1988.\n\n⚡ **Desarrollo:**\n• La vulnerabilidad fue expuesta tras el incidente de octubre, donde una actividad solar elevada corrompió datos digitales clave para los comandos de vuelo.\n• Airbus notificó a las aerolíneas, recomendando la suspensión inmediata de operaciones hasta completar la actualización para priorizar la seguridad.\n• Para la mayoría de los aviones (aproximadamente 5000 o 85%), la corrección consiste en sustituir el software por una versión estable anterior, lo que toma apenas unas horas por aeronave.\n• Sin embargo, unas 1000 unidades adicionales requerirán el reemplazo de componentes electrónicos físicos, tarea que podría extenderse por varias semanas.\n• Las consecuencias ya se sienten: Air France canceló 35 vuelos, Avianca suspendió temporalmente la venta de pasajes y la Aeronáutica Civil de Colombia ordenó la inmovilización obligatoria.\n• Airbus reconoció que estas recomendaciones causarán trastornos operativos a clientes y pasajeros, pidiendo disculpas por las molestias.\n\n💡 **¿Por qué importa?**\n• La revisión es una medida de seguridad fundamental para corregir un fallo crítico que podría afectar la maniobrabilidad de los aviones A320, salvaguardando la vida de pasajeros y tripulación.\n• Esta acción tiene un impacto significativo en la aviación global, generando interrupciones masivas en vuelos, logística y horarios de miles de pasajeros y aerolíneas en todo el mundo.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Airbus instó a detener los vuelos de 6000 aviones A320 para cambiar su programa de control",
+          "link": "https://www.lanacion.com.ar/el-mundo/airbus-insto-a-detener-los-vuelos-de-6000-aviones-a320-para-cambiar-su-programa-de-control-nid28112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-28 22:54:22"
+        },
+        {
+          "titulo": "Airbus ordenó revisar 6.000 aviones por fallas en un sistema vulnerable a la radiación solar",
+          "link": "https://www.ambito.com/mundo/airbus-ordeno-revisar-6000-aviones-fallas-un-sistema-vulnerable-la-radiacion-solar-n6218925",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 21:13:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reservas_bcra_y_20251129",
+      "tema": "Reservas BCRA y Swap Argentina",
+      "tema_normalizado": "reservas bcra y swap argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Tesoro de Estados Unidos confirmó la activación de USD 2.500 millones de un acuerdo de swap con Argentina en octubre, inyectando divisas en el contexto de volatilidad preelectoral.\n*   El Banco Central (BCRA) se prepara para cancelar un vencimiento de USD 1.000 millones de los bonos Bopreal, lo que implicará una reducción de sus ya escasas reservas internacionales.\n*   La situación de las reservas netas del BCRA es crítica y muy por debajo de las metas exigidas por el Fondo Monetario Internacional (FMI), generando preocupación sobre la estabilidad económica.\n\n🔍 **Datos clave:**\n*   **Swap EE.UU.:** Activación de USD 2.500 millones en octubre de un acuerdo total de USD 20.000 millones.\n*   **Vencimiento Bopreal:** USD 1.000 millones a pagar por el BCRA, correspondientes a deudas de importadores de 2023.\n*   **Reservas Brutas BCRA:** Aproximadamente USD 41.959 millones (últimos datos de noviembre).\n*   **Déficit Reservas Netas FMI:** USD 16.800 millones a fines de noviembre, requiriendo probablemente un nuevo \"waiver\".\n*   **Metas FMI:** Necesidad de acumular USD 10.400 millones (o USD 13.900 millones incluyendo el swap con EE.UU.) para fin de año.\n*   **Otros Vencimientos:** USD 338 millones del Tesoro y BCRA en diciembre, y USD 17.100 millones en 2025.\n\n⚡ **Desarrollo:**\n*   La activación del swap con EE.UU. se realizó contra pesos del BCRA, con el objetivo de moderar las tensiones en el mercado cambiario argentino antes de los comicios.\n*   El secretario del Tesoro de EE.UU., Scott Bessent, confirmó que su país obtuvo beneficios de esta operación para estabilizar a Argentina. Sin embargo, el BCRA no ha informado oficialmente sobre los términos o renovaciones de este acuerdo, generando críticas por falta de transparencia.\n*   Los bonos Bopreal, cuyo primer tramo vence, fueron entregados a importadores para saldar deudas comerciales del año anterior debido a la falta de dólares.\n*   La escasa caja en pesos del Tesoro, con vencimientos elevados en noviembre (ARS 14 billones) y diciembre (ARS 40 billones), requiere un alto \"rollover\" para mantener la sostenibilidad financiera.\n*   Para aliviar la presión sobre las reservas, el gobierno podría buscar una operación de recompra de bonos utilizando fondos del swap de EE.UU. para reducir el riesgo país y volver a los mercados.\n*   A pesar de la entrada de dólares frescos por emisiones de deuda privada y sub-soberana, el déficit de reservas netas frente a las metas del FMI persiste como un desafío central.\n\n💡 **¿Por qué importa?**\n*   La gestión de las reservas internacionales es fundamental para la estabilidad económica de Argentina, su capacidad de pago y la confianza de inversores y organismos multilaterales.\n*   La situación actual de las reservas y la dependencia de mecanismos como los swaps ponen en evidencia la vulnerabilidad económica y la urgencia de estrategias para la acumulación de divisas.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El Tesoro de Estados Unidos confirmó que activó USD 2.500 millones del swap con Argentina",
+          "link": "https://www.infobae.com/economia/2025/11/29/el-tesoro-de-estados-unidos-confirmo-que-activo-usd-2500-millones-del-swap-con-argentina/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-28 23:11:09"
+        },
+        {
+          "titulo": "Alerta reservas: el BCRA cancela un vencimiento de u$s1.000 millones por un Bopreal",
+          "link": "https://www.ambito.com/finanzas/alerta-reservas-el-bcra-cancela-un-vencimiento-us1000-millones-un-bopreal-n6218785",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-28 15:38:00"
+        },
+        {
+          "titulo": "Reservas al límite y metas imposibles con el FMI: cuánto más puede aguantar tranquilo el dólar",
+          "link": "https://www.iprofesional.com/finanzas/442875-reservas-al-limite-y-metas-imposibles-con-el-fmi-cuanto-mas-puede-aguantar-el-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-28 15:15:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-29",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Infobae",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
