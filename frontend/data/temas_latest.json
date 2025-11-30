@@ -1,102 +1,27 @@
 {
   "fecha": "2025-11-30",
-  "fecha_generacion": "2025-11-30T12:29:25.195478",
+  "fecha_generacion": "2025-11-30T15:19:43.692460",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "argentina_-_ajuste_20251130",
-      "tema": "Argentina - Ajuste y Reforma del Estado Milei",
-      "tema_normalizado": "argentina - ajuste y reforma del estado milei",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno de Javier Milei está impulsando un profundo \"ajuste\" y \"reforma del Estado\", conocido como \"plan motosierra\". Su objetivo es reducir drásticamente el gasto público, achicar la estructura estatal y buscar el equilibrio fiscal.\n*   Esto implica despidos masivos de empleados públicos, venta de bienes del Estado, desregulación de sectores y la eliminación progresiva de subsidios.\n\n🔍 **Datos clave:**\n*   **58,797** empleados públicos fueron desvinculados desde diciembre de 2023.\n*   Se proyecta un recorte adicional del **10%** de la planta estatal para 2026, afectando a unos **30,000** trabajadores más.\n*   Se remataron **83 vehículos** por casi **USD 490,000** y **10 inmuebles** por más de **USD 200 millones** desde diciembre de 2023.\n*   Se prevé un ahorro de **US$ 1,000 millones** en subsidios energéticos para 2026.\n*   La reforma laboral busca atacar el **43.2%** de informalidad laboral en Argentina.\n*   El sector de la **construcción** perdió más de **60,000** empleos formales y cayó un **24%** en 2023 debido a la paralización de la obra pública.\n\n⚡ **Desarrollo:**\n*   **Achique del Estado:** La estrategia, coordinada por Manuel Adorni y Federico Sturzenegger, incluye la no renovación de contratos, fusiones de organismos y planes de privatización de empresas públicas.\n*   **Impacto en el Empleo Público:** Los despidos afectan tanto a la administración central como a organismos descentralizados como CONICET, ANMAT, INTA e INTI, aunque algunos cierres fueron revertidos judicialmente.\n*   **Reforma Laboral:** Se busca desregular el mercado laboral para reducir la \"litigiosidad\" y los costos empresariales, con el apoyo de grandes compañías y la UIA, para mejorar la competitividad.\n*   **Desregulación de Servicios:** La desregulación del gas, por ejemplo, generó un \"descontrol\" y riesgos de seguridad ante la falta de inspecciones y el aumento de la informalidad, según la Cámara de Fabricantes y Distribuidores de GLP.\n*   **Recortes de Subsidios:** La \"focalización\" de subsidios energéticos implica que los usuarios paguen un mayor porcentaje del costo de la luz y el gas, liberando fondos estatales y alineándose con acuerdos con el FMI.\n*   **Sectores Económicos:** Mientras la construcción es uno de los sectores más golpeados, otros como la energía, minería, agro e industria del conocimiento proyectan un crecimiento exponencial en sus exportaciones a largo plazo.\n\n💡 **¿Por qué importa?**\n*   Estas medidas buscan un cambio estructural en la economía y la administración pública argentina, priorizando el equilibrio fiscal y la eficiencia estatal sobre el gasto social y la intervención directa.\n*   El plan genera un fuerte debate sobre sus consecuencias a corto plazo, como la pérdida de empleos y el aumento de costos para los ciudadanos, frente a los beneficios proyectados de un Estado más reducido y una economía más competitiva.",
-      "cantidad_noticias": 11,
-      "noticias": [
-        {
-          "titulo": "En los últimos dos años, el Gobierno de Milei remató 83 vehículos por casi medio millón de dólares",
-          "link": "https://www.infobae.com/politica/2025/11/30/en-los-ultimos-dos-anos-el-gobierno-de-milei-remato-83-vehiculos-por-casi-medio-millon-de-dolares/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 09:10:46"
-        },
-        {
-          "titulo": "Clima de negocios: qué opinan las empresas argentinas que más empleados contratan de la reforma laboral de Milei",
-          "link": "https://www.infobae.com/economia/2025/11/30/clima-de-negocios-que-opinan-las-empresas-argentinas-que-mas-empleados-contratan-de-la-reforma-laboral-de-milei/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 07:52:37"
-        },
-        {
-          "titulo": "Con el cambio en los subsidios el Gobierno ahorra US$ 1.000 millones y logra oxígeno para mantener superávit en 2026",
-          "link": "https://www.clarin.com/economia/cambio-subsidios-gobierno-ahorra-us-1000-millones-logra-oxigeno-mantener-superavit-2026_0_gWb4hJLpiW.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 07:31:39"
-        },
-        {
-          "titulo": "La construcción, el sector más golpeado por la motosierra de Milei",
-          "link": "https://www.clarin.com/economia/construccion-sector-golpeado-motosierra-milei_0_EbXgWGEKU1.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 06:01:42"
-        },
-        {
-          "titulo": "Depósitos clandestinos y garrafas vencidas: la desregulación del gas desató el descontrol",
-          "link": "https://www.perfil.com/noticias/politica/depositos-clandestinos-y-garrafas-vencidas-la-desregulacion-del-gas-desato-el-descontrol.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 04:26:31"
-        },
-        {
-          "titulo": "Motosierra profunda: planean echar a 30 mil empleados públicos más en 2026",
-          "link": "https://www.perfil.com/noticias/politica/motosierra-profunda-planean-echar-a-30-mil-empleados-publicos-mas-en-2026.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 03:43:39"
-        },
-        {
-          "titulo": "La Defensa que Petri le deja a Presti: récord de bajas, salarios deprimidos y vaciamiento",
-          "link": "https://www.perfil.com/noticias/politica/la-defensa-que-petri-le-deja-a-presti-record-de-bajas-salarios-deprimidos-y-vaciamiento.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 03:39:56"
-        },
-        {
-          "titulo": "El Gobierno prepara un nuevo 'plan motosierra' y proyecta reducir un 10% de la planta estatal para 2026",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-prepara-un-nuevo-plan-motosierra-y-proyecta-reducir-un-10-de-la-planta-estatal-para-2026.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-29 19:43:00"
-        },
-        {
-          "titulo": "El Gobierno avanza con un nuevo achique del Estado y quiere reducir un 10% el personal",
-          "link": "https://www.clarin.com/politica/gobierno-avanza-nuevo-achique-estado-quiere-reducir-10-personal_0_tpP1IFUlsM.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 18:09:21"
-        },
-        {
-          "titulo": "Aseguran que el Gobierno reducirá la planta del Estado \"otro diez por ciento\" en 2026",
-          "link": "https://www.minutouno.com/politica/aseguran-que-el-gobierno-reducira-la-planta-del-estado-otro-diez-ciento-2026-n6219052",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 13:30:00"
-        },
-        {
-          "titulo": "Javier Milei dijo que la Boleta Única Papel era un \"shock de productividad\" para \"bajar el riesgo kuka\"",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-incorporacion-exdiputados-pro-gobierno-busca-tratar-reformas-diciembre_0_H7lPay5M1m.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 08:19:10"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Perfil",
-        "Clarín",
-        "Minuto1",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina_-_dolar_20251130",
-      "tema": "Argentina - Dólar y Cotizaciones Financieras",
-      "tema_normalizado": "argentina - dolar y cotizaciones financieras",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina atraviesa una situación cambiaria compleja con múltiples cotizaciones del dólar y el euro.\n• Los valores del dólar oficial, blue, tarjeta, MEP y CCL presentan diferencias significativas, afectando el ahorro y las transacciones.\n• La demanda de divisas por parte de individuos y empresas se mantiene elevada tras la flexibilización de los controles en 2025.\n\n🔍 **Datos clave:**\n• **Dólar Blue (Nov 30, 2025):** Compra $1.415 / Venta $1.435.\n• **Dólar Oficial (Dic 1, 2025 - BNA):** Venta $1.475.\n• **Dólar Tarjeta (Nov 30, 2025):** $1917,50 (incluye un 60% de impuestos).\n• **Dólar CCL (Nov 30, 2025):** Compra $1514,30 / Venta $1515,10.\n• **Dólar MEP (Nov 30, 2025):** Compra $1474,40 / Venta $1476,90.\n• **Euro Oficial (Nov 30, 2025):** Compra $1.684,29 / Venta $1.688,03.\n• **Adquisición de Dólares (desde abril 2025):** +u$s20.000 millones (personas humanas, neto).\n\n⚡ **Desarrollo:**\n• El \"Dólar Tarjeta\" para consumos en el exterior y pasajes incluye un 60% de impuestos, superando al dólar blue en su cotización.\n• Los dólares financieros, MEP (para ahorro local) y CCL (para transferencia al exterior), se operan mediante la compra-venta de bonos en el mercado, de lunes a viernes hasta las 16:30 hs.\n• El \"Dólar Blue\" y \"Euro Blue\" son cotizaciones del mercado informal, con valores que suelen diferir del oficial debido a las restricciones cambiarias históricas.\n• Billeteras virtuales como DolarApp se consolidan para recibir, guardar y usar dólares digitales, ofreciendo un tipo de cambio competitivo (dólar cripto) con tarifas específicas para operaciones internacionales.\n• Desde la quita del cepo en abril de 2025, la demanda acumulada de divisas por parte de personas y empresas superó los u$s20.000 millones, impulsando un proceso de dolarización minorista.\n• La situación de las reservas del Banco Central y los vencimientos de deuda en pesos exigen un alto nivel de refinanciación, mientras el financiamiento externo muestra cierto dinamismo con emisiones de deuda.\n\n💡 **¿Por qué importa?**\n• La multiplicidad de cotizaciones y las brechas cambiarias generan incertidumbre económica, afectando las decisiones de ahorro, inversión y consumo de los argentinos.\n• La persistente demanda de dólares refleja la búsqueda de estabilidad y resguardo de valor en un contexto de inflación y fragilidad monetaria, impactando directamente la economía del país.",
+      "tema_id": "dolar_argentina:_cotizaciones_20251130",
+      "tema": "Dólar Argentina: Cotizaciones y proyecciones",
+      "tema_normalizado": "dolar argentina: cotizaciones y proyecciones",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Banco Central de Argentina enfrenta el desafío de levantar el cepo cambiario para empresas, en un contexto de importantes compras de dólares por parte de los argentinos.\n• Diversas cotizaciones del dólar, como el oficial, blue, MEP, CCL, tarjeta y cripto, marcaron el mercado el 30 de noviembre de 2025.\n• La Comisión Nacional de Valores (CNV) ha flexibilizado restricciones cambiarias para inversores extranjeros, buscando fortalecer la confianza en el mercado de capitales.\n\n🔍 **Datos clave:**\n• **Fecha de referencia:** Domingo 30 de noviembre de 2025 (valores de cierre del último día hábil).\n• **Dólar Oficial (Banco Nación):** $1425 (compra) / $1475 (venta).\n• **Dólar Blue:** $1415 (compra) / $1435 (venta).\n• **Dólar MEP:** $1474.82.\n• **Dólar CCL:** $1518.05.\n• **Dólar Tarjeta:** $1917.50 (incluye 60% de impuestos).\n• **Dólar Oficial Mayorista:** $1451.50.\n• **Dólar Cripto:** $1508.03.\n• **Compras de dólares por argentinos:** $29,000 millones (acumulados), $4,000 millones más que lo comprado por el BCRA bajo la actual gestión.\n• **Reservas BCRA (al 28 de nov):** $40,314 millones, con una mejora mensual de $932 millones.\n• **Inflación de octubre:** 2.3% (INDEC).\n\n⚡ **Desarrollo:**\n• El gobierno busca eliminar restricciones cambiarias, ejemplificado por la Resolución General 1093 de la CNV, que flexibiliza límites diarios de $200 millones para no residentes que transfieren títulos públicos.\n• A pesar de la compra de $25,000 millones de dólares por el BCRA, las adquisiciones totales de los argentinos generan incertidumbre sobre la posibilidad de levantar el cepo para empresas en 2026 o 2027.\n• El dólar blue, que opera en el mercado informal sin límites, cerró noviembre a la baja, pero históricamente tuvo saltos importantes, como un 111% en 2020 y un 16.7% en 2024.\n• El dólar MEP y el CCL son tipos de cambio financieros que permiten la adquisición de divisas mediante la compra y venta de bonos, con horarios de operación hasta las 16:30 de lunes a viernes.\n• Existe una prohibición de 90 días para operar dólares financieros (MEP/CCL) si se adquiere dólar oficial.\n• El dólar tarjeta se compone del valor oficial más un 30% del Impuesto País y un 30% del Impuesto a las Ganancias, sumando un total del 60% de carga impositiva.\n\n💡 **¿Por qué importa?**\n• La evolución de las cotizaciones y las decisiones sobre el cepo cambiario impactan directamente en la economía nacional, la estabilidad de precios y la confianza de inversores.\n• La brecha entre los distintos tipos de dólar genera distorsiones en el mercado, afectando los costos de importación, exportación y el poder adquisitivo de los ciudadanos.",
       "cantidad_noticias": 8,
       "noticias": [
+        {
+          "titulo": "El dólar y el cepo: las dificultades que tendrá el Banco Central en el 2026",
+          "link": "https://www.iprofesional.com/economia/442995-el-dolar-y-el-cepo-las-dificultades-que-tendra-el-banco-central-en-el-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-30 11:46:00"
+        },
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este domingo 30 de noviembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-30-de-noviembre-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 09:31:13"
+        },
         {
           "titulo": "Dólar tarjeta hoy: a cuánto cotiza este domingo 30 de noviembre",
           "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-domingo-30-noviembre_0_g8FXz4U0bR.html",
@@ -116,43 +41,32 @@
           "fecha": "2025-11-30 07:05:01"
         },
         {
-          "titulo": "Euro hoy: a cuánto cotiza este domingo 30 de noviembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-domingo-30-noviembre_0_HGPL8HqKmN.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 07:00:01"
+          "titulo": "Dólar blue hoy: a cuánto opera este domingo 30 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-domingo-30-noviembre-n6218960",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 00:00:00"
         },
         {
-          "titulo": "DolarApp, el costo de recibir y usar dólares en Argentina",
-          "link": "https://www.iprofesional.com/finanzas/442263-dolarapp-cuanto-cuesta-recibir-y-usar-dolares-en-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-30 06:02:00"
+          "titulo": "Dólar hoy: a cuánto cotiza este domingo 30 de noviembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-domingo-30-noviembre-n6218956",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 00:00:00"
         },
         {
           "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este domingo 30 de noviembre",
           "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-domingo-30-noviembre-n6218896",
           "fuente": "Minuto1",
           "fecha": "2025-11-30 00:00:00"
-        },
-        {
-          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 1° de diciembre",
-          "link": "https://www.iprofesional.com/economia/442976-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-lunes-1-de-diciembre",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-29 17:57:00"
-        },
-        {
-          "titulo": "Los argentinos adquirieron más de u$s20.000 millones desde la quita del cepo",
-          "link": "https://www.ambito.com/economia/los-argentinos-adquirieron-mas-us20000-millones-la-quita-del-cepo-n6219026",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 11:47:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
-        "Ámbito Financiero",
+        "La Nación",
         "Clarín",
         "iProfesional",
-        "Minuto1"
+        "Minuto1",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -160,29 +74,17 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina_-_interna_20251130",
-      "tema": "Argentina - Interna y Estrategia LLA",
-      "tema_normalizado": "argentina - interna y estrategia lla",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Libertad Avanza (LLA) está llevando a cabo un congreso en Mar del Plata para ordenar su interna partidaria en la provincia de Buenos Aires, unificar estrategias y consolidar su estructura.\n• Simultáneamente, el oficialismo se encuentra en una carrera intensa por obtener la primera minoría en la Cámara de Diputados, una posición clave para su agenda legislativa.\n\n🔍 **Datos clave:**\n• **700 a 1000 dirigentes:** Cantidad de asistentes al congreso de LLA en Mar del Plata, liderado por Karina Milei.\n• **94 vs 97-96 bancas:** Número actual de legisladores de LLA y Unión por la Patria (UP), respectivamente, en la disputa por la primera minoría en Diputados.\n• **4 diputados de Catamarca:** Legisladores peronistas clave, ligados al gobernador Raúl Jalil, cuya decisión de abandonar UP inclinaría la balanza a favor de LLA.\n• **3 de diciembre:** Fecha de la jura de los diputados electos y la designación de autoridades de la Cámara.\n• **Octubre de 2024:** Mes de la sanción de la Boleta Única de Papel (BUP), reforma que Javier Milei destaca como fundamental para el crecimiento de LLA.\n\n⚡ **Desarrollo:**\n• El congreso de LLA en Mar del Plata, encabezado por Karina Milei, busca profesionalizar a la dirigencia, bajar una línea partidaria unificada y resolver fricciones internas, como la tregua entre Sebastián Pareja y \"Las Fuerzas del Cielo\".\n• Uno de los objetivos principales del encuentro es encolumnar a la tropa para la \"madre de todas las batallas\" contra el gobernador bonaerense Axel Kicillof y el peronismo en la provincia.\n• LLA ha experimentado un crecimiento significativo en la Cámara de Diputados, pasando de 2 bancas en 2021 a 94, sumando legisladores de otros bloques como el PRO y ex-UCR (Alejandro Bongiovanni, Verónica Razzini, Mariano Campero).\n• La obtención de la primera minoría en Diputados depende en gran medida de la decisión del gobernador de Catamarca, Raúl Jalil, sobre la permanencia de cuatro legisladores de su provincia en el bloque de UP.\n• El presidente Javier Milei atribuye este crecimiento legislativo a la reforma de la Boleta Única de Papel, considerándola un \"shock de productividad\" que bajó el \"riesgo kuka\".\n• Karina Milei consolida su poder, influenciando en nombramientos clave del Gabinete y dedicándose a construir una sólida base partidaria en las provincias, con miras a la reelección de su hermano en 2025.\n\n💡 **¿Por qué importa?**\n• La consolidación interna de LLA y su éxito en la búsqueda de la primera minoría en Diputados son vitales para el Gobierno, ya que determinarán su capacidad para aprobar leyes clave y controlar la agenda legislativa.\n• Estos movimientos estratégicos influirán directamente en la gobernabilidad y en el panorama político futuro, impactando las próximas elecciones de 2025 y la proyección hacia 2027.",
-      "cantidad_noticias": 8,
+      "tema_id": "karina_milei_organiza_20251130",
+      "tema": "Karina Milei organiza La Libertad Avanza",
+      "tema_normalizado": "karina milei organiza libertad avanza",
+      "resumen": "📌 **¿Qué está pasando?**\n• Karina Milei, secretaria general de la Presidencia y figura central de La Libertad Avanza (LLA), encabezó un importante congreso provincial del partido en Mar del Plata.\n• El evento tuvo como propósito principal organizar y disciplinar la estructura interna de LLA en la estratégica provincia de Buenos Aires.\n• También se buscó unificar la visión partidaria y trazar estrategias claras frente al gobierno provincial de Axel Kicillof y las futuras batallas electorales.\n\n🔍 **Datos clave:**\n• **Evento:** Congreso Provincial de La Libertad Avanza (LLA).\n• **Fecha:** Se realizó este domingo, con una jornada de ocho horas de duración.\n• **Lugar:** El encuentro tuvo lugar en el Hotel Provincial (también conocido como NH Provincial) de Mar del Plata.\n• **Asistentes:** Convocó a cientos de referentes y dirigentes de LLA de diversos municipios bonaerenses, con estimaciones entre 700 y más de 1000 participantes.\n• **Figuras clave:** Contó con la presencia de Karina Milei, Sebastián Pareja (principal operador bonaerense), y Martín Menem (presidente de la Cámara de Diputados).\n• **Objetivo provincial:** Consolidar la presencia de LLA en la provincia de Buenos Aires, históricamente fuerte del kirchnerismo.\n\n⚡ **Desarrollo:**\n• El congreso buscó consolidar la organización partidaria, sellar fisuras internas y unificar a la \"tropa libertaria\" para enfrentar al peronismo en general y a Axel Kicillof en particular.\n• Se realizaron diversos talleres y paneles temáticos, abordando cuestiones como técnica legislativa, educación y gestión de consejos escolares, reforma electoral y discusión de presupuestos públicos.\n• Martín Menem y Eduardo “Lule” Menem estuvieron a cargo de un módulo especial sobre técnica parlamentaria y negociación para profesionalizar a los dirigentes.\n• La conducción de LLA enfatizó la necesidad de homogeneizar la acción política y alinear las decisiones provinciales con la estrategia presidencial, controlando la autonomía local.\n• Se observó una \"tregua\" entre facciones internas bonaerenses, como el sector de Sebastián Pareja y \"Las Fuerzas del Cielo\" de Santiago Caputo, en pos de la unidad.\n• Este encuentro marca una nueva fase de madurez para LLA, que opera como partido nacional desde fines de 2024, exigiendo mayor disciplina y articulación entre las 24 presidencias provinciales.\n• El cierre del evento estuvo a cargo de Pareja, Martín Menem y Karina Milei, quien tiene en la mira a Axel Kicillof como potencial competidor para 2027.\n\n💡 **¿Por qué importa?**\n• Este congreso consolida el rol de Karina Milei como la principal articuladora política y organizadora del partido, buscando profesionalizar y disciplinar a LLA en todo el país.\n• Es crucial para la estrategia de La Libertad Avanza de establecer una base partidaria sólida en las provincias, fundamental para la gobernabilidad actual y con miras a las próximas elecciones, incluyendo las presidenciales de 2027.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Karina Milei en Mar del Plata: más de 700 dirigentes, tregua con Las Fuerzas del Cielo y énfasis en la línea partidaria",
-          "link": "https://www.lanacion.com.ar/politica/karina-milei-en-mar-del-plata-mas-de-700-dirigentes-tregua-con-las-fuerzas-del-cielo-y-enfasis-en-la-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 03:16:09"
-        },
-        {
-          "titulo": "Agónica carrera entre LLA y UP por la primera minoría en la Cámara de Diputados: los siete legisladores claves que inclinarán la balanza",
-          "link": "https://www.lanacion.com.ar/politica/agonica-carrera-entre-lla-y-up-por-la-primera-minoria-en-la-camara-de-diputados-los-siete-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 03:15:51"
-        },
-        {
-          "titulo": "Javier Milei destacó el crecimiento libertario en el Congreso y se lo atribuyó a una reforma clave",
-          "link": "https://www.ambito.com/politica/javier-milei-destaco-el-crecimiento-libertario-el-congreso-y-se-lo-atribuyo-una-reforma-clave-n6219149",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 22:00:00"
+          "titulo": "Javier Milei y sus medidas, EN VIVO: Karina Milei encabeza una cumbre libertaria en Mar del Plata con los principales referentes bonaerenses",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-karina-milei-encabeza-cumbre-libertaria-mar-plata-principales-referentes-bonaerenses_0_WSwm3074ru.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-30 09:46:51"
         },
         {
           "titulo": "Congreso de LLA: Karina Milei reúne a la tropa libertaria en Mar del Plata",
@@ -201,28 +103,111 @@
           "link": "https://www.ambito.com/politica/karina-milei-llega-mar-del-plata-unificar-la-libertad-avanza-pba-n6219120",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-11-29 18:48:00"
-        },
-        {
-          "titulo": "Pelea por el dominio en Diputados: LLA ya tiene 94 legisladores y el PJ queda a punto de perder la primera minoría",
-          "link": "https://www.clarin.com/politica/pelea-dominio-diputados-lla-94-legisladores-pj-queda-punto-perder-primera-minoria_0_49guyhfKpY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 18:39:26"
-        },
-        {
-          "titulo": "LLA sumó a otro diputado del PRO a su bloque: de quién se trata",
-          "link": "https://www.minutouno.com/politica/lla-sumo-otro-diputado-del-pro-su-bloque-quien-se-trata-n6218997",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 09:05:00"
         }
       ],
       "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "papa_leon_xiv:_20251130",
+      "tema": "Papa León XIV: gira Turquía-Líbano",
+      "tema_normalizado": "papa leon xiv: gira turquia-libano",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Papa León XIV completó su primera gira internacional, visitando Turquía y luego Líbano, con mensajes de unidad, diálogo interreligioso y paz.\n• La visita buscó apoyar a las comunidades cristianas y fomentar la coexistencia en una región afectada por múltiples conflictos y crisis.\n\n🔍 **Datos clave:**\n• **Pontífice:** León XIV, el primer papa estadounidense.\n• **Destinos y fechas:** Turquía (3.5 días), Líbano (llegada el domingo, poco antes de las 15:40 hora local / 13:40 GMT).\n• **Población:** Turquía (86M hab., <100K cristianos); Líbano (6M hab., ~30% cristianos).\n• **Líderes religiosos:** Patriarca Ecuménico Bartolomé I (ortodoxo), Patriarca Sahak II (armenio).\n• **Autoridades políticas:** Presidente turco Recep Tayyip Erdogan; Presidente libanés Joseph Aoun, Primer Ministro Nawaf Salam, Jefe del Parlamento Nabih Berri.\n• **Contexto Líbano:** Profunda crisis económica y social desde 2019, conflicto palestino-israelí, alto el fuego (27 nov. 2024).\n• **Evento histórico:** Conmemoración de los 1.700 años del Primer Concilio Ecuménico de Nicea en Turquía.\n\n⚡ **Desarrollo:**\n• En Turquía, el Papa León XIV centró su agenda en el diálogo interreligioso y la unidad cristiana, firmando una declaración conjunta de paz con el Patriarca Bartolomé I.\n• Se comprometió a fortalecer los lazos católico-ortodoxos y avanzar hacia una fecha común para la celebración de la Pascua.\n• Visitó la Catedral Armenia Apostólica y la Mezquita Azul, donde, a diferencia de sus predecesores, no realizó una oración silenciosa, marcando un estilo propio.\n• Mencionó el \"valiente testimonio cristiano\" de los armenios en alusión a la masacre, manteniendo un tono diplomático en suelo turco.\n• En Líbano, fue recibido con honores militares y un masivo apoyo popular, siendo aclamado como \"mensajero de la paz\" pese a la inestabilidad.\n• Se reunió con las principales autoridades políticas del Líbano en el Palacio Presidencial.\n• Su itinerario libanés incluye una visita a la tumba de San Charbel, un encuentro ecuménico interreligioso y una misa multitudinaria para más de 100.000 fieles.\n• La visita ocurre en un Líbano profundamente afectado por la violencia y crisis encadenadas, incluyendo un reciente alto el fuego tras ataques israelíes.\n\n💡 **¿Por qué importa?**\n• La gira reafirma el compromiso del Vaticano con la paz y el diálogo en una región volátil.\n• La visita a Líbano, descrito como \"mensaje de fraternidad\", busca inspirar esperanza y unidad en sus profundas crisis.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "El papa León XIV llegó al Líbano para la segunda parte de su primera gira internacional",
+          "link": "https://www.infobae.com/america/mundo/2025/11/30/el-papa-leon-xiv-llego-al-libano-para-la-segunda-parte-de-su-primera-gira-internacional/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-30 11:23:24"
+        },
+        {
+          "titulo": "León XIV llegó al Líbano, zona de riesgo y segunda etapa de su primer viaje",
+          "link": "https://www.lanacion.com.ar/el-mundo/leon-xiv-llego-al-libano-zona-de-riesgo-y-segunda-etapa-de-su-primer-viaje-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 10:47:49"
+        },
+        {
+          "titulo": "El papa León XIV cerró su histórica visita a Turquía y partió hacia el Líbano con un fuerte mensaje de unidad y paz",
+          "link": "https://www.ambito.com/mundo/leon-xiv-cerro-su-historica-visita-turquia-y-partio-el-libano-un-fuerte-mensaje-unidad-y-paz-n6219183",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 09:56:00"
+        },
+        {
+          "titulo": "El Papa concluyó su visita a Turquía con otra visita al Patriarca Ortodoxo  y viajó a Beirut, capital del atormentado Líbano",
+          "link": "https://www.clarin.com/mundo/papa-concluyo-visita-turquia-visita-patriarca-constantino-viajo-beirut-capital-atormentado-libano_0_5Y63Fuk5c8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-30 09:02:24"
+        },
+        {
+          "titulo": "Con un gesto rebelde, León XIV marca diferencias con Francisco en su visita a la Mezquita Azul",
+          "link": "https://www.lanacion.com.ar/el-mundo/con-un-gesto-rebelde-leon-xiv-marca-diferencias-con-francisco-en-su-visita-a-la-mezquita-azul-nid29112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:38:07"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Infobae",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tiroteos_masivos_en_20251130",
+      "tema": "Tiroteos masivos en fiestas California",
+      "tema_normalizado": "tiroteos masivos en fiestas california",
+      "resumen": "📌 **¿Qué está pasando?**\n• Un tiroteo masivo y trágico ocurrió en Stockton, California, durante una reunión familiar que se celebraba en un salón de eventos.\n• El ataque resultó en la muerte de cuatro personas y dejó a entre diez y catorce heridas, incluyendo niños y adultos.\n• Las autoridades han iniciado una investigación exhaustiva, señalando que los indicios preliminares sugieren que podría haberse tratado de un ataque dirigido.\n\n🔍 **Datos clave:**\n• **Víctimas mortales:** 4 personas perdieron la vida a causa de las heridas de bala.\n• **Heridos:** Aproximadamente 10 a 14 individuos recibieron disparos y fueron trasladados a hospitales cercanos.\n• **Ubicación exacta:** Un salón de fiestas en la cuadra 1900 de Lucile Avenue, Stockton, que comparte estacionamiento con otros negocios.\n• **Momento del incidente:** Ocurrió un sábado por la noche, poco antes de las 6:00 p.m. hora local, en pleno fin de semana de Acción de Gracias.\n• **Autoridad investigadora principal:** La Oficina del Sheriff del Condado de San Joaquín lidera la investigación.\n• **Portavoz clave:** Heather Brent, vocera de la Oficina del Sheriff, brindó la información inicial a los medios.\n• **Funcionario lamentando el hecho:** Jason Lee, vicealcalde de Stockton, expresó su consternación por la tragedia.\n\n⚡ **Desarrollo:**\n• La celebración familiar, descrita en algunas noticias como una fiesta de cumpleaños infantil, se vio abruptamente interrumpida por los disparos.\n• Desde un principio, la policía del condado de San Joaquín indicó que los primeros indicios sugerían un \"incidente selectivo\" o \"ataque dirigido\", pero el motivo específico del ataque aún se desconoce.\n• El presunto atacante logró huir de la escena del crimen, y hasta la fecha de las noticias, no se había informado de personas detenidas ni de sospechosos identificados.\n• Varias agencias federales, incluyendo el FBI y la Oficina de Alcohol, Tabaco, Armas de Fuego y Explosivos (ATF), se sumaron para apoyar la investigación local.\n• Las autoridades hicieron un llamado urgente a la comunidad para que cualquier persona con información, grabaciones de video o testimonios contacte de inmediato a la oficina del sheriff.\n• El gobernador de California, Gavin Newsom, fue informado sobre el tiroteo y su oficina aseguró que el estado monitorea la situación y coordina con las fuerzas del orden locales.\n• Este suceso se enmarca en un contexto de alta sensibilidad en Estados Unidos por la recurrencia de hechos de violencia armada, lo que intensifica los llamados a la prevención y al control de armas.\n\n💡 **¿Por qué importa?**\n• Este trágico evento resalta la grave problemática de la violencia armada en Estados Unidos, afectando directamente a eventos familiares y comunidades.\n• Subraya la urgencia de medidas de seguridad y la colaboración ciudadana para esclarecer estos crímenes y buscar justicia para las víctimas.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Una reunión familiar terminó en tragedia: cuatro muertos y diez heridos en un tiroteo en California",
+          "link": "https://www.ambito.com/mundo/una-reunion-familiar-termino-tragedia-cuatro-muertos-y-diez-heridos-un-tiroteo-california-n6219184",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 10:03:00"
+        },
+        {
+          "titulo": "Masacre en una fiesta de cumpleaños infantil en California: al menos 4 muertos y 14 heridos",
+          "link": "https://www.minutouno.com/mundo/masacre-una-fiesta-cumpleanos-infantil-california-al-menos-4-muertos-y-14-heridos-n6219170",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-30 08:38:00"
+        },
+        {
+          "titulo": "Un hombre abrió fuego en un salón de fiestas en California: cuatro muertos y diez heridos",
+          "link": "https://www.clarin.com/mundo/hombre-abrio-fuego-salon-fiestas-california-muertos-heridos_0_bumUyGkEwL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-30 04:07:49"
+        },
+        {
+          "titulo": "Tiroteo en Estados Unidos: murieron cuatro personas y 10 resultaron heridas por un tiroteo en un evento familiar",
+          "link": "https://www.lanacion.com.ar/el-mundo/tiroteo-en-estados-unidos-murieron-cuatro-personas-y-10-resultaron-heridas-por-un-tiroteo-en-un-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:37:07"
+        }
+      ],
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
         "Minuto1",
-        "Perfil",
         "Ámbito Financiero",
-        "Clarín",
-        "La Nación"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -230,155 +215,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "internacional_-_presion_20251130",
-      "tema": "Internacional - Presión de Trump a Venezuela",
-      "tema_normalizado": "internacional - presion de trump a venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump, durante su presidencia, intensificó la presión sobre Venezuela, declarando unilateralmente el cierre de su espacio aéreo para aerolíneas, pilotos y narcotraficantes.\n• Esta acción se enmarcó en un despliegue militar estadounidense en el Caribe y ocurrió tras una conversación telefónica entre Trump y Nicolás Maduro.\n• El Gobierno de Venezuela, a través de su canciller, calificó la advertencia de \"hostil, unilateral y arbitraria\", exigiendo respeto a su soberanía.\n\n🔍 **Datos clave:**\n• **Juan Orlando Hernández:** Expresidente de Honduras, indultado por Trump tras ser condenado por narcotráfico en EE.UU., lo que generó controversia.\n• **24 de noviembre:** Fecha en que entró en vigencia la designación por EE.UU. del Cartel de los Soles como Organización Terrorista Extranjera (OTE).\n• **USS Gerald R. Ford:** Portaaviones nuclear insignia de EE.UU. enviado al Mar Caribe, frente a las costas de Venezuela.\n• **Yván Gil Pinto:** Canciller venezolano, vocero de la postura de Venezuela que condena las declaraciones de Trump.\n• **13.956 migrantes:** Venezolanos repatriados en 75 vuelos en el marco de acuerdos bilaterales, suspendidos unilateralmente por EE.UU.\n\n⚡ **Desarrollo:**\n• Trump justificó sus acciones como parte de una campaña contra los cárteles de la droga, a pesar de la aparente contradicción de indultar a Juan Orlando Hernández.\n• En una conversación telefónica con Nicolás Maduro, Trump amenazó con incrementar las acciones militares si el líder venezolano no se retiraba del poder en el corto plazo.\n• El objetivo político declarado de Trump era \"terminar con los carteles de la droga\" que, según EE.UU., operan bajo la protección del Palacio de Miraflores.\n• La conversación entre Trump y Maduro, que incluyó al secretario de Estado Marco Rubio, descartó otras vías de negociación como el uso de contratos petroleros para una transición política.\n• Venezuela rechazó las declaraciones de Trump como una \"amenaza explícita de uso de fuerza\", incompatible con el Derecho Internacional y la Carta de las Naciones Unidas.\n• EE.UU. acusó al Cartel de los Soles, supuestamente liderado por Maduro y otros altos cargos, de tráfico de drogas hacia EE.UU. y Europa, así como de violencia terrorista.\n• Trump anunció planes para que las Fuerzas Armadas de EE.UU. comenzaran a \"detener\" a narcotraficantes en Venezuela también por tierra.\n\n💡 **¿Por qué importa?**\n• La escalada de presión militar y diplomática de EE.UU. sobre Venezuela aumentó la tensión geopolítica en la región del Caribe durante la presidencia de Trump.\n• Las acciones y contradicciones en la política antidrogas de EE.UU. generaron un debate sobre los verdaderos motivos e implicaciones de la presión ejercida sobre Venezuela.",
-      "cantidad_noticias": 5,
+      "tema_id": "elecciones_presidenciales_en_20251130",
+      "tema": "Elecciones presidenciales en Honduras: contexto y desarrollo",
+      "tema_normalizado": "elecciones presidenciales en honduras: contexto y desarrollo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Honduras celebró recientes elecciones presidenciales con gran expectación y tensión.\n• Tres candidatos principales se encontraban en un virtual \"empate técnico\", lo que generó alta incertidumbre.\n• La jornada estuvo marcada por denuncias de posible fraude y una notoria injerencia política externa.\n\n🔍 **Datos clave:**\n• **6 millones** de hondureños habilitados para votar.\n• **3 principales candidatos:** Nasry Asfura (Partido Nacional), Rixi Moncada (Partido Libre, oficialista) y Salvador Nasralla (Partido Liberal).\n• **Presidenta saliente:** Xiomara Castro (progresista).\n• **Juan Orlando Hernández (JOH):** Expresidente hondureño, condenado por narcotráfismo en EE.UU., y foco de un polémico \"indulto\" de Donald Trump.\n• **Cargos a elegir:** Presidente y 3 vicepresidentes, 128 diputados y 298 alcaldes.\n• **Consejo Nacional Electoral (CNE):** Órgano encargado de supervisar y validar los resultados.\n\n⚡ **Desarrollo:**\n• Las elecciones se desarrollaron en un contexto de polarización política y bajo la sombra de la administración saliente.\n• La candidata oficialista, Rixi Moncada, representaba la continuidad del progresismo de Xiomara Castro, enfocándose en políticas sociales.\n• Nasry Asfura, del partido conservador, basó su campaña en la seguridad y la inversión en infraestructura.\n• Salvador Nasralla, del Partido Liberal, centró su discurso en la lucha contra la corrupción y el apoyo a las pymes.\n• La campaña recibió una inusual injerencia externa con los apoyos de Donald Trump y Javier Milei a Nasry Asfura.\n• Trump también generó controversia al anunciar un supuesto indulto para el expresidente Juan Orlando Hernández, lo que sacudió el panorama político.\n• El Consejo Nacional Electoral (CNE) instó a los candidatos y partidos a respetar los resultados preliminares y definitivos.\n• Observadores nacionales e internacionales (como la UE y la OEA) monitorearon el proceso electoral.\n\n💡 **¿Por qué importa?**\n• Estas elecciones son cruciales para definir el rumbo político y la estabilidad democrática de Honduras.\n• La marcada injerencia política externa y las denuncias de fraude generaron preocupación a nivel regional e internacional.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Donald Trump muestra contradicciones al anunciar el indulto de un narcotraficante y amenazar a Venezuela",
-          "link": "https://www.clarin.com/mundo/donald-trump-muestra-contradicciones-anunciar-indulto-narcotraficante-amenazar-venezuela_0_lwKk5nqlNd.html",
+          "titulo": "Elecciones en Honduras: se elige nuevo Presidente con tres candidatos en un \"empate técnico\" y denuncias de fraude",
+          "link": "https://www.clarin.com/mundo/elecciones-honduras-elige-nuevo-presidente-candidatos-empate-tecnico-denuncias-fraude_0_HxGgSBgbQU.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-29 20:05:43"
+          "fecha": "2025-11-30 11:07:16"
         },
         {
-          "titulo": "Venezuela califica de \"hostil e inmoral\" la advertencia de Trump sobre su espacio aéreo",
-          "link": "https://www.clarin.com/mundo/venezuela-califica-hostil-inmoral-advertencia-trump-espacio-aereo_0_ZoojV67pvO.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 17:41:22"
+          "titulo": "Incertidumbre, acusaciones cruzadas y la irrupción de Trump y Milei: Honduras va a las urnas bajo la lupa regional",
+          "link": "https://www.lanacion.com.ar/el-mundo/incertidumbre-acusaciones-cruzadas-y-la-irrupcion-de-trump-y-milei-honduras-va-a-las-urnas-bajo-la-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:33:46"
         },
         {
-          "titulo": "Donald Trump reclamó cerrar completamente el espacio aéreo de Venezuela y endureció la presión sobre Nicolás Maduro",
-          "link": "https://www.ambito.com/mundo/donald-trump-reclamo-cerrar-completamente-el-espacio-aereo-venezuela-y-endurecio-la-presion-nicolas-maduro-n6219038",
+          "titulo": "Elecciones en Honduras: la continuidad del progresismo o el recambio liberal",
+          "link": "https://www.ambito.com/mundo/elecciones-honduras-la-continuidad-del-progresismo-o-el-recambio-liberal-n6219135",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 12:13:00"
-        },
-        {
-          "titulo": "Trump redobla su presión contra Maduro y advierte: \"El espacio aéreo de Venezuela debe considerarse cerrado totalmente\"",
-          "link": "https://www.clarin.com/mundo/trump-redobla-presion-maduro-advierte-espacio-aereo-venezuela-debe-considerarse-cerrado-totalmente_0_WNyhVhcPT9.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 10:31:55"
-        },
-        {
-          "titulo": "Donald Trump amenazó por teléfono a Nicolás Maduro con más acciones militares cerca de Venezuela",
-          "link": "https://www.minutouno.com/mundo/donald-trump-amenazo-telefono-nicolas-maduro-mas-acciones-militares-cerca-venezuela-n6219005",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 09:25:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina_-_billeteras_20251130",
-      "tema": "Argentina - Billeteras y Pagos Digitales",
-      "tema_normalizado": "argentina - billeteras y pagos digitales",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las billeteras y pagos digitales en Argentina están en auge, ofreciendo nuevas herramientas como tarjetas de crédito y métodos de pago internacionales, pero también bajo la lupa de los organismos de control.\n• Entidades como ARCA (Agencia de Recaudación y Control Aduanero) fiscalizan los movimientos para prevenir la evasión fiscal y el lavado de dinero, estableciendo límites claros para las transferencias.\n• Al mismo tiempo, se incentiva el uso de estas plataformas con beneficios y se amplía su utilidad para viajes internacionales y pagos de servicios.\n\n🔍 **Datos clave:**\n• **$50.000.000:** Límite mensual de transferencia sin declaración obligatoria a ARCA para personas físicas (diciembre 2025).\n• **Mercado Pago:** Lanzó su primera tarjeta de crédito Mastercard sin costos de emisión ni mantenimiento.\n• **Pix:** Sistema de pagos instantáneos de Brasil, usado por argentinos para más de 5 millones de transacciones en 2025, moviendo u$s8 millones diarios.\n• **Buepp:** Ofrece 20% de reintegro (tope $10.000/mes) para pagar patentes en CABA con dinero en cuenta.\n• **PayPal:** Billetera no controlada directamente por ARCA si no tiene sede en Argentina, aunque sí las transferencias a cuentas locales.\n\n⚡ **Desarrollo:**\n• La Agencia ARCA monitorea transferencias bancarias y de billeteras virtuales para asegurar el cumplimiento fiscal, pudiendo solicitar justificación de fondos si se superan los límites establecidos.\n• Mercado Pago refuerza su ecosistema financiero con una tarjeta de crédito física y virtual, permitiendo compras en cuotas sin interés en Mercado Libre y pagos con QR.\n• Los argentinos utilizan billeteras digitales (ej. Lemon, Takenos) para pagar en Brasil con Pix, convirtiendo pesos a reales y evitando recargos del \"dólar tarjeta\".\n• Los límites de transferencia de Mercado Pago varían según el perfil; para aumentarlos, se recomienda compartir comprobantes de ingresos y usar la cuenta con frecuencia.\n• ARCA ha actualizado varios umbrales informables en diciembre 2025, como el saldo mensual ($50.000.000) y plazos fijos ($100.000.000), reduciendo la cantidad de reportes automáticos.\n• La billetera virtual Buepp del Banco Ciudad impulsa el pago digital de servicios con reintegros en patentes de autos, fomentando el uso de estas herramientas.\n\n💡 **¿Por qué importa?**\n• Los usuarios deben conocer los límites de transferencia y las regulaciones de ARCA para evitar inconvenientes, justificar sus fondos y conservar comprobantes ante posibles requerimientos.\n• La expansión de billeteras y pagos digitales facilita transacciones nacionales e internacionales, ofreciendo alternativas a la banca tradicional y fomentando la inclusión financiera en el país.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "ARCA: la billetera virtual que el organismo no investigará en diciembre",
-          "link": "https://www.minutouno.com/economia/arca-la-billetera-virtual-que-el-organismo-no-investigara-diciembre-n6218781",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 08:52:00"
-        },
-        {
-          "titulo": "¿Cómo funciona la tarjeta de crédito de Mercado Pago?",
-          "link": "https://www.iprofesional.com/finanzas/442199-como-funciona-la-tarjeta-de-credito-de-mercado-pago",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-30 06:58:00"
-        },
-        {
-          "titulo": "Lo que debés saber para usar Pix desde Argentina y pagar sin usar tarjeta",
-          "link": "https://www.iprofesional.com/finanzas/442483-viajar-a-brasil-2026-como-usar-pix-desde-argentina-para-pagar-sin-tarjeta",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-29 18:05:00"
-        },
-        {
-          "titulo": "Mercado Pago: estos son los límites de transferencia y cómo aumentarlos",
-          "link": "https://www.iprofesional.com/impuestos/442365-mercado-pago-estos-son-los-limites-de-transferencia-y-como-aumentarlos",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-29 18:05:00"
-        },
-        {
-          "titulo": "Cómo acceder al descuento para pagar la patente del auto usando una billetera virtual",
-          "link": "https://www.ambito.com/economia/como-acceder-al-descuento-pagar-la-patente-del-auto-usando-una-billetera-virtual-n6218260",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 15:00:00"
-        },
-        {
-          "titulo": "ARCA: lo que se podrá transferir sin declarar en diciembre 2025",
-          "link": "https://www.minutouno.com/economia/arca-lo-que-se-podra-transferir-declarar-diciembre-2025-n6218987",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 08:20:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina_-_campana_20251130",
-      "tema": "Argentina - Campaña a Favor de Vacunas",
-      "tema_normalizado": "argentina - campana a favor de vacunas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Un acto antivacunas, titulado \"¿Qué tienen realmente las vacunas?\", se realizó en la Cámara de Diputados de la Nación, organizado por la diputada Marilú Quiroz y autorizado por Martín Menem.\n*   Este evento generó un amplio rechazo al poner en duda la seguridad y eficacia de las vacunas, promoviendo afirmaciones sin sustento científico que ponen en riesgo la salud pública.\n*   Durante la jornada, se presentaron supuestos \"efectos colaterales\" como \"magnetismo\" por las vacunas COVID-19, cuya veracidad fue desmentida rápidamente al identificarse al \"hombre imán\" como una persona con esa habilidad desde 2013.\n\n🔍 **Datos clave:**\n*   **27 de noviembre:** Fecha de realización del polémico acto en el Congreso.\n*   **Marilú Quiroz (PRO, Chaco):** Diputada organizadora del evento.\n*   **Martín Menem:** Presidente de la Cámara de Diputados que autorizó la jornada.\n*   **22 de 24:** Número de distritos provinciales que firmaron un comunicado conjunto a favor de las vacunas.\n*   **Ley 27.491:** Ley de Control de Enfermedades Prevenibles por Vacunación, cuya obligatoriedad la diputada Quiroz propuso revisar.\n*   **Ángel Argentino Cabral:** Identificado como el \"hombre imán\" presentado en el acto, cuya habilidad no estaba relacionada con las vacunas.\n\n⚡ **Desarrollo:**\n*   La comunidad científica, a través de la Sociedad Argentina de Inmunología (SAI), expresó su \"profunda preocupación\" y calificó el hecho como de \"extrema gravedad\", alertando sobre el riesgo para la salud colectiva.\n*   El Ministerio de Salud de la Nación, encabezado por Mario Lugones, junto a ministros de salud de 22 provincias, emitieron un comunicado conjunto para reafirmar la seguridad y efectividad de las vacunas.\n*   El comunicado destacó que las vacunas del Calendario Nacional son \"herramientas fundamentales de la salud\", respaldadas por evidencia científica sólida y que salvan millones de vidas.\n*   Se advirtió sobre el \"descenso abrupto\" en las coberturas de vacunación en el país, lo que puede provocar la reemergencia de enfermedades como sarampión, tos convulsa o poliomielitis.\n*   Los Ministerios de Salud de la Provincia de Buenos Aires (a cargo de Nicolás Kreplak) y Formosa fueron los únicos que no adhirieron al comunicado conjunto, alegando razones políticas y criticando que se permitieran estos actos.\n\n💡 **¿Por qué importa?**\n*   La promoción de desinformación sobre vacunas en un foro institucional socava la confianza pública en la ciencia y las políticas sanitarias, poniendo en riesgo la inmunidad comunitaria.\n*   Esto compromete los esfuerzos para controlar y eliminar enfermedades prevenibles, con potenciales consecuencias graves para la salud de toda la población argentina, especialmente de niños y grupos vulnerables.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "La comunidad científica rechazó el acto antivacunas en Diputados: \"Extrema gravedad\"",
-          "link": "https://www.minutouno.com/politica/la-comunidad-cientifica-rechazo-el-acto-antivacunas-diputados-extrema-gravedad-n6219107",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 18:22:00"
-        },
-        {
-          "titulo": "Mario Lugones y ministros de salud provinciales aseguraron que \"las vacunas son seguras y salvan vidas\"",
-          "link": "https://www.ambito.com/politica/mario-lugones-y-ministros-salud-provinciales-aseguraron-que-las-vacunas-son-seguras-y-salvan-vidas-n6219080",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 14:59:00"
-        },
-        {
-          "titulo": "Comunicado conjunto del ministerio de Salud de la Nación y de las provincias por las vacunas: \"Salvan vidas\"",
-          "link": "https://www.minutouno.com/politica/comunicado-conjunto-del-ministerio-salud-la-nacion-y-las-provincias-las-vacunas-salvan-vidas-n6219068",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 14:00:00"
-        },
-        {
-          "titulo": "El Ministerio de Salud sacó un comunicado a favor de las vacunas tras el polémico acto en el Congreso y sólo dos provincias no lo firmaron",
-          "link": "https://www.clarin.com/politica/insolita-exposicion-antivacunas-congreso-ministerio-salud-respaldo-plan-oficial-inmunizacion-seguro-salva-vidas_0_ESHoGKQIUL.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 13:14:54"
-        },
-        {
-          "titulo": "Se presentó como víctima de vacunas contra el Covid en el Congreso, pero fue entrevistado en 2013 como \"récord Guinnes\"",
-          "link": "https://www.minutouno.com/politica/se-presento-como-victima-vacunas-contra-el-covid-el-congreso-pero-fue-entrevistado-2013-como-record-guinnes-n6219039",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 12:25:00"
+          "fecha": "2025-11-29 21:15:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
         "Ámbito Financiero",
-        "Clarín",
-        "Minuto1"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -386,60 +253,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "internacional_-_conflictos_20251130",
-      "tema": "Internacional - Conflictos Geopolíticos y Armados",
-      "tema_normalizado": "internacional - conflictos geopoliticos y armados",
-      "resumen": "📌 **¿Qué está pasando?**\n• Israel reporta la eliminación de terroristas y la frustración de un contrabando de armas en la Franja de Gaza.\n• China condena un ataque con dron desde Afganistán que causó la muerte de tres de sus ciudadanos en Tayikistán.\n• Ucrania sufre un ataque masivo ruso con drones y misiles, dejando muertos y a medio Kiev sin electricidad.\n• Activistas pro Palestina asaltaron y destrozaron la redacción del diario La Stampa en Turín, Italia.\n• El Secretario de Defensa de EE.UU. es acusado de \"crimen de guerra\" por un ataque letal a una embarcación en el Caribe.\n\n🔍 **Datos clave:**\n• **Gaza:** 4 terroristas abatidos; más de 20 eliminados y 8 arrestados la semana pasada en Rafah.\n• **Tayikistán:** 3 ciudadanos chinos muertos; ataque con dron el miércoles en Shamsiddin-Shohin.\n• **Ucrania:** Más de 600 drones y 36 misiles rusos; 3 muertos, 37 heridos; más de 500.000 sin electricidad en Kiev el sábado.\n• **Italia:** Más de cien asaltantes; 34 identificados en el ataque del viernes a La Stampa.\n• **Caribe:** 11 muertes tras ataque del 2 de septiembre en la \"Operación Lanza del Sur\".\n\n⚡ **Desarrollo:**\n• Las Fuerzas de Defensa de Israel (FDI) operan en Rafah oriental, destruyendo infraestructura subterránea de Hamas y controlando la \"franja amarilla\", una zona de seguridad.\n• La Embajada china en Tayikistán aconsejó a sus ciudadanos abandonar la frontera con Afganistán tras el ataque a la empresa LLC Shohin SM, pidiendo una investigación a Tayikistán.\n• El gobierno talibán de Afganistán lamentó el incidente y ofreció colaboración para esclarecer el ataque con dron en Tayikistán.\n• Rusia lanzó misiles y drones contra infraestructura energética y edificios civiles ucranianos, dejando a casi la mitad de Kiev sin luz y profundizando la crisis energética.\n• En Ucrania, el jefe de Gabinete Andriy Yermak renunció tras una investigación anticorrupción, en un momento clave de la guerra y negociaciones de paz.\n• En Italia, un grupo de manifestantes pro Palestina vandalizó la redacción del diario La Stampa, con pintadas amenazantes a periodistas, sin heridos por paro nacional.\n• Congresistas estadounidenses cuestionaron la legalidad del ataque de la \"Operación Lanza del Sur\", mientras el Secretario de Defensa Pete Hegseth defendió la acción contra el narcotráfico.\n\n💡 **¿Por qué importa?**\n• Estos conflictos evidencian una escalada global de tensiones, afectando la seguridad regional, la infraestructura civil y la estabilidad política.\n• Reflejan desafíos complejos como el terrorismo, la inestabilidad fronteriza, las crisis energéticas y la polarización social, con un impacto directo en civiles y en la libertad de prensa.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Israel abatió a cuatro terroristas en una zona de infraestructura subterránea en la Franja de Gaza",
-          "link": "https://www.infobae.com/america/mundo/2025/11/30/israel-abatio-a-cuatro-terroristas-en-una-zona-de-infraestructura-subterranea-en-la-franja-de-gaza/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 08:36:47"
-        },
-        {
-          "titulo": "China condena la muerte de tres chinos en Tayikistán en un ataque con dron desde Afganistán",
-          "link": "https://www.infobae.com/america/agencias/2025/11/28/china-condena-la-muerte-de-tres-chinos-en-tayikistan-en-un-ataque-con-dron-desde-afganistan/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 08:01:49"
-        },
-        {
-          "titulo": "Ucrania: un masivo ataque ruso con drones y misiles deja sin luz a medio Kiev y profundiza la crisis energética",
-          "link": "https://www.ambito.com/mundo/ucrania-un-masivo-ataque-ruso-drones-y-misiles-deja-luz-medio-kiev-y-profundiza-la-crisis-energetica-n6219151",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 22:29:00"
-        },
-        {
-          "titulo": "Activistas pro Palestina asaltaron y destrozaron la redacción de un diario en Italia",
-          "link": "https://www.clarin.com/mundo/manifestantes-pro-palestina-asaltaron-destrozaron-redaccion-diario-italia_0_jYd5ycISjv.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 21:24:47"
-        },
-        {
-          "titulo": "Acusan al secretario de Defensa de EEUU por \"crimen de guerra\" tras conocerse ataque a embarcación en el Caribe",
-          "link": "https://www.ambito.com/mundo/acusan-al-secretario-defensa-eeuu-crimen-guerra-conocerse-ataque-embarcacion-el-caribe-n6219112",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 18:29:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina_-_cuestionamientos_20251130",
-      "tema": "Argentina - Cuestionamientos Derechos Humanos",
-      "tema_normalizado": "argentina - cuestionamientos derechos humanos",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Comité contra la Tortura de la Organización de las Naciones Unidas (ONU) ha advertido a Argentina sobre una \"situación grave\" en materia de derechos humanos, señalando detenciones arbitrarias, torturas y represión de protestas.\n• Estas advertencias llegan luego de que el gobierno argentino votara en contra de una resolución de la ONU para erradicar la tortura, rompiendo con la postura histórica del país.\n\n🔍 **Datos clave:**\n• **Organismo principal:** Comité contra la Tortura (CAT) de la ONU.\n• **Informe:** Observaciones Finales sobre el séptimo informe periódico de Argentina, aprobado durante el 83° período de sesiones en Ginebra.\n• **Votación anti-tortura:** Argentina votó en contra de la resolución en la 51ª sesión de la Tercera Comisión de la Asamblea General de la ONU, junto a Estados Unidos e Israel (169 naciones respaldaron la resolución).\n• **Subsecretario de DDHH:** Alberto Baños, quien representó a Argentina en la ONU y cuestionó la cifra de 30 mil desaparecidos.\n• **Cifra controversial:** 30 mil desaparecidos (víctimas de la última dictadura cívico-militar).\n• **Organismo interno destacado por ONU:** Comité Nacional para la Prevención de la Tortura (CNPT), creado en 2017.\n• **Protocolo cuestionado:** \"Protocolo Antipiquetes\" del Ministerio de Seguridad.\n• **Ejemplos de represión citados:** Ciudad de Buenos Aires (2024) y provincia de Jujuy (2023).\n\n⚡ **Desarrollo:**\n• El gobierno de Javier Milei ha sido cuestionado por su postura en derechos humanos, al votar en contra de la resolución de la ONU contra la tortura, lo que representa un \"fuerte retroceso\" para el país.\n• La ONU expresó preocupación por el uso de comisarías para alojamientos prolongados, las severas condiciones en regímenes de \"alto perfil\" carcelarios y las requisas invasivas a familiares de detenidos.\n• También se pidió la revisión del \"Protocolo Antipiquetes\" y se advirtió sobre el uso indiscriminado de la fuerza en manifestaciones, así como las detenciones arbitrarias.\n• Internamente, funcionarios del gobierno han puesto en duda la cifra de 30 mil desaparecidos y han denostado a organismos de derechos humanos.\n• Una marcha reciente solicitó el indulto para represores condenados por delitos de lesa humanidad, organizada por \"Pañuelos Negros\" y con apoyo de referentes cercanos al oficialismo.\n\n💡 **¿Por qué importa?**\n• Estas acciones marcan un cambio significativo en la política de Derechos Humanos de Argentina, tradicionalmente un referente en la condena a la tortura y la búsqueda de Memoria, Verdad y Justicia.\n• Las advertencias de la ONU ponen en foco la necesidad de respetar la dignidad humana y los estándares internacionales, generando preocupación sobre el impacto en las libertades y garantías de la población.",
+      "tema_id": "argentina:_advertencias_onu_20251130",
+      "tema": "Argentina: Advertencias ONU por DDHH",
+      "tema_normalizado": "argentina: advertencias onu por ddhh",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Organización de las Naciones Unidas (ONU), a través de su Comité contra la Tortura, ha emitido una serie de advertencias a Argentina por un \"fuerte retroceso\" en materia de derechos humanos.\n• Las intimaciones de la ONU señalan una \"situación grave\" en el país debido a políticas represivas, detenciones arbitrarias, torturas y el accionar de fuerzas de seguridad en protestas.\n• Estas advertencias surgen en un contexto donde el gobierno actual ha votado en contra de resoluciones para erradicar la tortura y ha puesto en cuestión cifras históricas de desaparecidos.\n\n🔍 **Datos clave:**\n• **Comité contra la Tortura (CAT) de la ONU:** Organismo que emitió las Observaciones Finales sobre Argentina.\n• **51ª sesión plenaria de la Tercera Comisión de la Asamblea General de la ONU:** Argentina votó en contra de una resolución internacional contra la tortura.\n• **169 naciones:** Respaldo internacional a la resolución contra la tortura, a la que Argentina se opuso junto a Estados Unidos e Israel.\n• **Alberto Baños:** Subsecretario de Derechos Humanos de la Nación, quien cuestionó la cifra de 30 mil desaparecidos y representó al gobierno ante la ONU.\n• **2017:** Creación del Comité Nacional para la Prevención de la Tortura (CNPT), un aspecto positivo destacado por la ONU.\n• **83° período de sesiones:** Instancia en Ginebra donde el CAT aprobó sus Observaciones Finales sobre Argentina.\n• **Jujuy (2023) y CABA (2024, 2025):** Ejemplos de represiones a movilizaciones sociales mencionadas en el informe de la ONU.\n\n⚡ **Desarrollo:**\n• La ONU expresó preocupación por el \"Protocolo Antipiquetes\" y el uso excesivo de la fuerza en manifestaciones, solicitando que las resoluciones del Ministerio de Seguridad se adecúen a estándares internacionales.\n• Se advirtió sobre el uso de comisarías para alojamientos prolongados, así como las condiciones severas en cárceles, incluyendo aislamientos superiores a 20 horas y restricciones de visitas familiares.\n• El gobierno de Javier Milei votó en contra de una resolución clave de la ONU sobre la erradicación de la tortura y los malos tratos, lo que fue calificado como un \"fuerte retroceso\" respecto al compromiso histórico del país.\n• El subsecretario Alberto Baños fue criticado por cuestionar la cifra de desaparecidos de la última dictadura y por su alineamiento internacional con Estados Unidos e Israel en temas de derechos humanos.\n• Una reciente manifestación en Casa Rosada, organizada por Asunción Benedict (hermana de un diputado oficialista), pidió el indulto para represores condenados por delitos de lesa humanidad.\n• La ONU también solicitó a Argentina poner fin a la detención de niñas, niños y adolescentes en comisarías y no reducir la edad mínima de responsabilidad penal.\n\n💡 **¿Por qué importa?**\n• Las advertencias de la ONU marcan un \"fuerte retroceso\" en el compromiso histórico de Argentina con los derechos humanos, lo que puede impactar su imagen internacional y el cumplimiento de obligaciones en esta materia.\n• Las políticas y declaraciones actuales del gobierno generan gran preocupación sobre la protección de la dignidad humana, la prevención de la tortura y el derecho a la protesta social.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -470,9 +287,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
+        "Minuto1",
         "Perfil",
-        "Ámbito Financiero",
-        "Minuto1"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -480,37 +297,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "internacional_-_tiroteo_20251130",
-      "tema": "Internacional - Tiroteo Masivo en California",
-      "tema_normalizado": "internacional - tiroteo masivo en california",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Un tiroteo masivo sacudió la ciudad de Stockton, California, durante una reunión familiar en un salón de fiestas.\n*   El trágico incidente resultó en la muerte de cuatro personas y dejó a diez más heridas, incluyendo niños y adultos.\n*   Las autoridades consideran que pudo ser un ataque \"dirigido\" y continúan buscando al responsable, quien se dio a la fuga.\n\n🔍 **Datos clave:**\n*   **Víctimas:** 4 fallecidos y 10 heridos (un total de 14 individuos recibieron disparos).\n*   **Lugar:** Un salón de fiestas en la cuadra 1900 de Lucile Avenue, Stockton, California.\n*   **Momento:** Sábado por la noche, poco antes de las 6:00 p.m. hora local, durante un fin de semana festivo (Acción de Gracias).\n*   **Investigación:** Liderada por la Oficina del Sheriff del Condado de San Joaquín, con apoyo del FBI y ATF.\n*   **Portavoz:** Heather Brent, de la Oficina del Sheriff.\n\n⚡ **Desarrollo:**\n*   El ataque ocurrió en un local que compartía estacionamiento con varios negocios, y se reportó que fue durante la celebración de cumpleaños de un niño.\n*   La portavoz Heather Brent declaró que los primeros indicios sugieren que el ataque pudo haber sido \"selectivo\" o \"dirigido\", aunque el motivo exacto aún se investiga.\n*   El sospechoso o los sospechosos lograron escapar del lugar y hasta el momento de las noticias, no se habían realizado arrestos ni se habían identificado.\n*   Varios de los heridos fueron trasladados a hospitales cercanos, y no se ha difundido información sobre su estado de salud actual.\n*   El Gobernador de California, Gavin Newsom, fue informado del episodio, y su oficina monitorea la situación, coordinando con las autoridades locales.\n*   El Vicealcalde de Stockton, Jason Lee, manifestó su indignación, señalando que \"una heladería nunca debería ser un lugar donde las familias teman por sus vidas\".\n*   Las autoridades hacen un llamado urgente a la comunidad para que cualquier persona con información, grabaciones de video o que haya presenciado el incidente, se ponga en contacto con la Oficina del Sheriff.\n\n💡 **¿Por qué importa?**\n*   Este tiroteo resalta la alarmante frecuencia de la violencia armada masiva en Estados Unidos, afectando directamente a comunidades y familias.\n*   La resolución del caso, incluyendo la captura del atacante y la determinación del motivo, es vital para la justicia de las víctimas y la seguridad de Stockton.",
+      "tema_id": "impacto_economico_en_20251130",
+      "tema": "Impacto económico en industria y empleo",
+      "tema_normalizado": "impacto economico en industria y empleo",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La industria argentina, especialmente la manufacturera y metalúrgica, atraviesa un momento crítico debido a la combinación de una fuerte caída de la demanda interna y un significativo aumento de las importaciones.\n*   Esta situación está forzando el cierre de plantas productivas, la reducción de personal y una considerable pérdida de puestos de trabajo en sectores que históricamente fueron pilares de la economía.\n\n🔍 **Datos clave:**\n*   **40 empleados:** Despedidos por el cierre de la planta de la fábrica de muebles Color Living en Pacheco (Tigre), que argumentó caída de demanda y apertura de importaciones.\n*   **220 trabajadores:** Desvinculados por el cierre de la planta de electrodomésticos Whirlpool en Pilar, un caso que marcó un precedente en el sector.\n*   **10% de empleos:** Riesgo de pérdida para los aproximadamente 15.000 trabajadores del segmento de \"línea blanca\" (heladeras, lavarropas, etc.) si la actual tendencia importadora persiste hasta mediados de 2026.\n*   **15.000 puestos de trabajo:** Cantidad de empleos perdidos en la industria metalúrgica en los últimos 20 meses, según ADIMRA.\n*   **70% de aumento:** Crecimiento de las importaciones de productos metalúrgicos, lo que desplaza la fabricación nacional y presiona sobre las empresas locales.\n*   **4.7% de contracción:** Caída interanual promedio de la producción en el sector metalúrgico, con retrocesos que alcanzan el 15% en rubros como laminación y fundición.\n\n⚡ **Desarrollo:**\n*   El cierre de empresas como Color Living y Whirlpool se atribuye directamente a la caída del consumo masivo y la imposibilidad de las industrias locales de competir con productos importados más económicos.\n*   Los fabricantes de \"línea blanca\" señalan el \"costo argentino\" como un factor clave, haciendo que, por ejemplo, una heladera nacional sea hasta un 40% más cara que una importada, principalmente de China.\n*   La industria metalúrgica, que en un 98% está compuesta por PyMEs intensivas en empleo, sufre un deterioro visible, especialmente en Buenos Aires donde la caída de la actividad alcanza el 7.7%.\n*   El presidente de ADIMRA, Elio Del Re, alertó sobre el aluvión de productos extranjeros que está desplazando la fabricación nacional y empujando al cierre de varias empresas del rubro.\n*   Las compañías están buscando alternativas de reconversión, pero la opción más frecuente termina siendo el achique de personal, la reducción de líneas de producción o, en el peor de los casos, el cierre definitivo de plantas.\n\n💡 **¿Por qué importa?**\n*   La situación genera una profunda incertidumbre laboral para miles de familias y pone en riesgo la sostenibilidad del tejido productivo nacional, afectando especialmente a las PyMEs que son fuente de empleo calificado.\n*   Subraya la urgencia de establecer una política industrial sostenida que proteja y fortalezca la producción local, evitando la sustitución de bienes nacionales por importados y la consecuente desindustrialización.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Tiroteo en California: al menos 4 muertos y 10 heridos",
-          "link": "https://www.minutouno.com/mundo/tiroteo-california-al-menos-4-muertos-y-10-heridos-n6219170",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 08:38:38"
+          "titulo": "Cierra una conocida fábrica de muebles: 40 empleados fueron despedidos",
+          "link": "https://www.iprofesional.com/economia/442993-cierra-una-conocida-fabrica-de-muebles-40-empleados-fueron-despedidos",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-30 11:16:00"
         },
         {
-          "titulo": "Un hombre abrió fuego en un salón de fiestas en California: cuatro muertos y diez heridos",
-          "link": "https://www.clarin.com/mundo/hombre-abrio-fuego-salon-fiestas-california-muertos-heridos_0_bumUyGkEwL.html",
+          "titulo": "Efecto China: fabricantes de lavarropas y heladeras dicen que \"si nada cambia\" se perdería el 10% de los puestos laborales",
+          "link": "https://www.clarin.com/economia/efecto-china-fabricantes-lavarropas-heladeras-dicen-cambia-perderia-10-puestos-laborales_0_VlFavDMVx8.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-30 04:07:49"
+          "fecha": "2025-11-30 06:21:38"
         },
         {
-          "titulo": "Tiroteo en Estados Unidos: murieron cuatro personas y 10 resultaron heridas por un tiroteo en un evento familiar",
-          "link": "https://www.lanacion.com.ar/el-mundo/tiroteo-en-estados-unidos-murieron-cuatro-personas-y-10-resultaron-heridas-por-un-tiroteo-en-un-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 03:37:07"
+          "titulo": "Metalúrgicos alertan por desplome de la producción, pérdida de empleo y avance importador",
+          "link": "https://www.ambito.com/economia/metalurgicos-alertan-desplome-la-produccion-perdida-empleo-y-avance-importador-n6219133",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 20:42:00"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
-        "La Nación",
         "Clarín",
-        "Minuto1"
+        "Ámbito Financiero",
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -518,36 +335,111 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "internacional_-_fallas_20251130",
-      "tema": "Internacional - Fallas Técnicas de Aviones Airbus",
-      "tema_normalizado": "internacional - fallas tecnicas de aviones airbus",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Airbus ha emitido una alerta urgente y recomendado la suspensión de vuelos para aproximadamente 6.000 de sus aviones de la familia A320.\n*   La medida se debe a fallas técnicas detectadas en un sistema de control clave, el ELAC, que es vulnerable a la radiación solar.\n*   Esto ha causado interrupciones masivas en la aviación comercial global, afectando miles de vuelos y aerolíneas a nivel internacional.\n\n🔍 **Datos clave:**\n*   **Aviones afectados:** Aproximadamente 6.000 aeronaves de la familia A320 (incluye modelos A318, A319, A320 y A321).\n*   **Componente crítico:** Sistema ELAC (Elevator and Aileron Computer), encargado de controlar elevadores y alerones.\n*   **Fecha de la directiva:** Viernes, 28 de noviembre de 2025, cuando Airbus instó a detener inmediatamente los vuelos.\n*   **Incidente previo:** Un A320 de JetBlue sufrió una pérdida repentina de altitud el 30 de octubre de 2025, con aterrizaje de emergencia e heridos.\n\n⚡ **Desarrollo:**\n*   La Agencia de Seguridad Aérea de la Unión Europea (EASA) y Airbus emitieron una Directiva de Aeronavegabilidad de Emergencia (AD) por el riesgo de la radiación solar.\n*   Este fenómeno puede interferir con las computadoras de control de vuelo, afectando la maniobrabilidad del avión, especialmente en cambios de altitud o rumbo.\n*   Para el 85% de los aviones afectados (unos 5.100), la solución es una actualización de software que toma pocas horas.\n*   El 15% restante (aproximadamente 900-1.000 aviones) requiere un cambio de hardware, lo que implicará semanas de inmovilización y mayores trastornos.\n*   El Papa León XIV fue afectado durante su gira por Turquía y Líbano, ya que su avión A320 de Ita Airways necesitaba la actualización correspondiente.\n*   Aerolíneas como Avianca, American Airlines, Air France, Iberia y British Airways han reportado interrupciones y retrasos significativos.\n*   Avianca, por ejemplo, advirtió sobre afectaciones \"significativas\" y suspendió la venta de pasajes hasta el 8 de diciembre.\n*   El modelo A320 es el avión de pasillo único más vendido del mundo, habiendo superado al Boeing 737 en unidades entregadas para septiembre de 2025.\n\n💡 **¿Por qué importa?**\n*   Esta situación pone de manifiesto la vulnerabilidad de sistemas críticos de aviación a factores ambientales como la radiación solar, impactando directamente la seguridad de los vuelos y la logística global.\n*   Genera un precedente importante para la industria aeronáutica, impulsando la mejora continua en el mantenimiento y diseño de aeronaves para garantizar la seguridad de miles de pasajeros y la eficiencia del transporte aéreo.",
+      "tema_id": "ataque_propalestino_a_20251130",
+      "tema": "Ataque propalestino a diario italiano",
+      "tema_normalizado": "ataque propalestino a diario italiano",
+      "resumen": "📌 **¿Qué está pasando?**\n• Activistas propalestinos asaltaron y vandalizaron la redacción del diario italiano 'La Stampa' en Turín el viernes, causando daños materiales significativos.\n• El ataque ocurrió mientras las oficinas estaban vacías debido a una huelga nacional de periodistas, por lo que no se reportaron heridos.\n• Las autoridades italianas han condenado enérgicamente el incidente, el cual se enmarca en un contexto de protestas propalestinas en el país.\n\n🔍 **Datos clave:**\n• **Diario afectado:** 'La Stampa', un periódico con sede en Turín, Italia.\n• **Fecha del ataque:** Viernes, coincidiendo con una huelga general en apoyo a Palestina.\n• **Número de implicados:** La Policía ha identificado hasta el momento a 34 personas de los más de cien asaltantes.\n• **Personalidades que condenaron:** La Primera Ministra Giorgia Meloni, el Presidente Sergio Mattarella y la secretaria del Partido Democrático, Elly Schlein.\n• **Figura clave mencionada:** Mohamed Shahin, imán de 47 años de la mezquita de Turín, con una orden de expulsión.\n\n⚡ **Desarrollo:**\n• El asalto a 'La Stampa' se originó de una manifestación propalestina que discurría pacíficamente en Turín, hasta que un grupo se desvió para irrumpir violentamente en el edificio del diario.\n• Los activistas causaron destrozos, forzaron puertas, rompieron mobiliario, arrojaron libros y documentos, y realizaron grafitis amenazantes como \"Periodistas terroristas. Sois los primeros de la lista\" y \"La prensa es cómplice del genocidio\".\n• La redacción se encontraba sin personal porque los periodistas habían secundado una huelga nacional convocada por la Federación Nacional de la Prensa Italiana (FNSI), exigiendo la renovación de un convenio colectivo vencido desde 2016.\n• La Primera Ministra Giorgia Meloni condenó el ataque como un acto \"muy grave\", enfatizando que \"la libertad de prensa es un pilar fundamental de nuestra democracia y debe defenderse en todo momento, sin ambigüedades\".\n• La Policía de Turín, junto con las fiscalías de Turín e Ivrea, está a cargo de la investigación, vinculando a los implicados identificados con activistas de centros sociales y grupos estudiantiles.\n• Una de las consignas de los asaltantes fue \"Shahin libre\", pidiendo la liberación del imán Mohamed Shahin, quien enfrenta una orden de expulsión.\n• El ataque se dio en un clima de movilizaciones en Italia; el sábado, una gran manifestación en Roma, con la participación de figuras como Greta Thunberg, exigió el cese de los suministros militares a Israel y denunció un \"genocidio en Palestina\".\n\n💡 **¿Por qué importa?**\n• Este incidente representa un ataque directo a la libertad de prensa en Italia, un derecho fundamental y pilar esencial de cualquier sociedad democrática.\n• Refleja la escalada de tensiones y la polarización en torno al conflicto palestino-israelí, mostrando cómo las protestas pueden derivar en actos de violencia contra instituciones de comunicación.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Giorgia Meloni condenó el ataque de manifestantes propalestinos contra la redacción del diario italiano ‘La Stampa’",
+          "link": "https://www.infobae.com/america/mundo/2025/11/30/giorgia-meloni-condeno-el-ataque-de-manifestantes-propalestinos-contra-la-redaccion-del-diario-italiano-la-stampa/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-30 11:42:19"
+        },
+        {
+          "titulo": "Activistas pro Palestina asaltaron y destrozaron la redacción de un diario en Italia",
+          "link": "https://www.clarin.com/mundo/manifestantes-pro-palestina-asaltaron-destrozaron-redaccion-diario-italia_0_jYd5ycISjv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 21:24:47"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Infobae",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "billeteras_digitales_y_20251130",
+      "tema": "Billeteras digitales y normas financieras",
+      "tema_normalizado": "billeteras digitales y normas financieras",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las billeteras digitales están experimentando cambios importantes debido a nuevas regulaciones que afectan tanto sus rendimientos como la forma en que se supervisan sus transacciones.\n• Al mismo tiempo, el sector sigue expandiéndose con el lanzamiento de tarjetas de crédito propias y soluciones para la gestión de divisas internacionales.\n\n**🔍 Datos clave:**\n• **Resolución General N° 1092 de CNV:** Nueva normativa de la Comisión Nacional de Valores que impacta a los Fondos Comunes de Inversión (FCI) money market.\n• **1° de diciembre de 2025:** Fecha de entrada en vigencia de la nueva regulación de la CNV que afectará los rendimientos.\n• **20%:** Nuevo tope máximo para la inversión de FCI money market en cauciones bursátiles, bajando del 26% anterior.\n• **$2,4 billones:** Monto estimado de liquidez que deberá ser reasignado por la medida de la CNV.\n• **ARCA:** Agencia de Recaudación y Control Aduanero, encargada de fiscalizar las transferencias para evitar la evasión fiscal.\n• **Mercado Pago Mastercard:** Nueva tarjeta de crédito sin cargos de emisión, mantenimiento ni renovación anual.\n• **3 USDC/EURC:** Comisión por operaciones internacionales o depósitos en dólares/euros en DolarApp.\n\n**⚡ Desarrollo:**\n• La Comisión Nacional de Valores (CNV), a pedido del Banco Central (BCRA), ha limitado al 20% la inversión de los Fondos Comunes de Inversión (FCI) money market en cauciones bursátiles.\n• Esta medida implica que los gestores de fondos deberán reubicar $2,4 billones, lo que se espera que reduzca los rendimientos diarios que ofrecen las billeteras digitales a sus usuarios.\n• Por otro lado, la Agencia de Recaudación y Control Aduanero (ARCA) continúa fiscalizando transferencias en billeteras virtuales para prevenir la evasión fiscal y el lavado de dinero.\n• La ARCA solo puede supervisar plataformas con presencia física o acuerdos de intercambio de información en Argentina, dejando fuera a algunas como PayPal si no cumplen estos requisitos.\n• En el ámbito de servicios, Mercado Pago lanzó su tarjeta de crédito Mastercard, ofreciendo facilidades como cero costos de emisión o mantenimiento y cuotas sin interés en Mercado Libre.\n• DolarApp se consolidó como una opción para cobrar, guardar y usar dólares digitales, especialmente para trabajadores remotos, con comisiones por movimientos internacionales pero operaciones locales sin costo.\n• Estos desarrollos resaltan la importancia de que los usuarios estén informados sobre los límites, comisiones y normativas fiscales que rigen el uso de sus billeteras digitales y servicios financieros.\n\n**💡 ¿Por qué importa?**\n• Las nuevas regulaciones cambian las reglas del juego para las billeteras digitales, afectando directamente la rentabilidad que ofrecen a los usuarios y aumentando la supervisión estatal sobre los movimientos de dinero.\n• La aparición de nuevos productos como tarjetas de crédito y plataformas para divisas demuestra la evolución del sector, ofreciendo más opciones financieras, pero también la necesidad de entender bien cada norma y sus implicaciones.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Las billeteras digitales pagarán menos en diciembre: qué cambia con las tasas tras nueva norma de la CNV",
+          "link": "https://www.ambito.com/finanzas/las-billeteras-digitales-pagaran-menos-diciembre-que-cambia-las-tasas-nueva-norma-la-cnv-n6219204",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 11:36:00"
+        },
+        {
+          "titulo": "ARCA: la billetera virtual que el organismo no investigará en diciembre",
+          "link": "https://www.minutouno.com/economia/arca-la-billetera-virtual-que-el-organismo-no-investigara-diciembre-n6218781",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-30 08:52:00"
+        },
+        {
+          "titulo": "¿Cómo funciona la tarjeta de crédito de Mercado Pago?",
+          "link": "https://www.iprofesional.com/finanzas/442199-como-funciona-la-tarjeta-de-credito-de-mercado-pago",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-30 06:58:00"
+        },
+        {
+          "titulo": "DolarApp, el costo de recibir y usar dólares en Argentina",
+          "link": "https://www.iprofesional.com/finanzas/442263-dolarapp-cuanto-cuesta-recibir-y-usar-dolares-en-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-11-30 06:02:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "venezuela:_repatriacion_y_20251130",
+      "tema": "Venezuela: Repatriación y tensiones con EE.UU.",
+      "tema_normalizado": "venezuela: repatriacion y tensiones con ee.uu.",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno de Venezuela lanzó un \"plan especial\" para la repatriación de sus ciudadanos varados en el exterior.\n*   Esta medida surge en medio de una escalada de tensiones con Estados Unidos, tras la declaración del presidente Donald Trump de considerar el espacio aéreo venezolano como \"cerrado en su totalidad\".\n\n🔍 **Datos clave:**\n*   **Aerolíneas afectadas:** Iberia, Air Europa, Avianca, Turkish Airlines, Plus Ultra, Gol, TAP y Latam Colombia suspendieron operaciones o vieron sus permisos revocados.\n*   **Aerolíneas operativas:** Copa, Wingo, Boliviana de Aviación, Satena, Avior y Conviasa continuaban volando a Venezuela.\n*   **Buque militar:** El portaaviones nuclear USS Gerald R. Ford, nave insignia de EE.UU., fue desplegado en el Mar Caribe.\n*   **Dirigente opositora:** María Corina Machado, recientemente distinguida con el Premio Nobel de la Paz 2025, fue acusada por el gobierno venezolano de solicitar el bloqueo aéreo.\n\n⚡ **Desarrollo:**\n*   El gobierno de Nicolás Maduro calificó la advertencia de Trump como una \"amenaza explícita de uso de la fuerza\" y un \"acto hostil, unilateral y arbitrario\", e instó a la comunidad internacional a rechazarlo.\n*   La vicepresidenta Delcy Rodríguez afirmó que se activaron mecanismos multilaterales para exigir el cese inmediato de lo que consideró una \"acción ilegítima e ilícita\".\n*   La Administración Federal de Aviación de EE.UU. recomendó \"extremar la precaución\" al sobrevolar Venezuela, lo que provocó la cancelación masiva de vuelos internacionales.\n*   El \"plan especial\" busca tanto el regreso de venezolanos como la facilitación de itinerarios de salida, aunque sin precisiones sobre su implementación.\n*   Operadores turísticos, como Pegas Touristik de Rusia, redirigieron vuelos que iban a Isla Margarita (Venezuela) hacia Varadero (Cuba) debido a la \"potencial amenaza a la seguridad de vuelos civiles\".\n*   Las acciones de Trump fueron criticadas por contradicción, ya que su amenaza a Venezuela por narcotráfico coincidió con el anuncio de un indulto para Juan Orlando Hernández, ex presidente de Honduras condenado por este delito.\n*   Hernández fue acusado por la fiscalía de permitir el flujo de cocaína desde Venezuela a través de Honduras, utilizando el poder estatal para proteger el tráfico.\n*   Se reportó un vuelo inusual de un Airbus A319 (matrícula YV2984) de la aerolínea estatal Conviasa hacia la frontera con Brasil, aterrizando en Santa Elena de Uairén.\n\n💡 **¿Por qué importa?**\n*   La situación agudiza la crisis migratoria y humanitaria en Venezuela, impactando la vida de miles de ciudadanos que buscan regresar o salir del país.\n*   Incrementa la tensión geopolítica entre Venezuela y EE.UU., afectando la estabilidad regional y la seguridad del espacio aéreo en el Caribe.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Cómo afectan las fallas técnicas de Airbus al papa León XIV en su gira por Turquía y Líbano",
-          "link": "https://www.ambito.com/mundo/como-afectan-las-fallas-tecnicas-airbus-al-papa-leon-xiv-su-gira-turquia-y-libano-n6219033",
+          "titulo": "Nicolás Maduro lanza un plan de repatriación en medio del cierre aéreo y la máxima tensión con EEUU",
+          "link": "https://www.ambito.com/mundo/nicolas-maduro-lanza-un-plan-repatriacion-medio-del-cierre-aereo-y-la-maxima-tension-eeuu-n6219199",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 12:16:00"
+          "fecha": "2025-11-30 11:24:00"
         },
         {
-          "titulo": "Airbus instó a \"detener inmediatamente los vuelos\" de 6.000 de sus aviones por fallas en una computadora",
-          "link": "https://www.minutouno.com/mundo/airbus-insto-detener-inmediatamente-los-vuelos-6000-sus-aviones-fallas-una-computadora-n6219028",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 10:25:00"
+          "titulo": "Bloqueo de Trump al espacio aéreo: Venezuela anuncia un \"plan especial\" para el regreso de sus ciudadanos y ya desvían vuelos",
+          "link": "https://www.clarin.com/mundo/bloqueo-trump-espacio-aereo-venezuela-anuncia-plan-especial-regreso-ciudadanos-desvian-vuelos_0_ngv4udBjHb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-30 10:26:04"
         },
         {
-          "titulo": "Airbus suspendió vuelos de 6.000 aviones tras reconocer fallas de control por la radiación solar",
-          "link": "https://www.ambito.com/mundo/airbus-suspendio-vuelos-6000-aviones-reconocer-fallas-control-la-radiacion-solar-n6218995",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 10:08:00"
+          "titulo": "Donald Trump muestra contradicciones al anunciar el indulto de un narcotraficante y amenazar a Venezuela",
+          "link": "https://www.clarin.com/mundo/donald-trump-muestra-contradicciones-anunciar-indulto-narcotraficante-amenazar-venezuela_0_lwKk5nqlNd.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 20:05:43"
         }
       ],
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
         "Ámbito Financiero",
-        "Minuto1"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
