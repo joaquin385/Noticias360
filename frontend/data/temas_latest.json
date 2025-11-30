@@ -1,65 +1,102 @@
 {
   "fecha": "2025-11-30",
-  "fecha_generacion": "2025-11-30T06:26:30.546836",
+  "fecha_generacion": "2025-11-30T09:20:01.700302",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "reconfiguracion_bloques_en_20251130",
-      "tema": "Reconfiguración bloques en el Congreso",
-      "tema_normalizado": "reconfiguracion bloques en congreso",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Congreso argentino vive una reconfiguración de sus bloques, especialmente en la Cámara de Diputados, donde La Libertad Avanza (LLA) y Unión por la Patria (UP) compiten por la primera minoría.\n*   Este liderazgo es clave para controlar las comisiones, ocupar los principales espacios de poder y definir la suerte de las leyes.\n*   También hay movimientos en el Senado, con gobernadores peronistas buscando autonomía de la conducción tradicional.\n\n🔍 **Datos clave:**\n*   **Diputados:** LLA ha crecido a 94 miembros; UP cuenta con 97, pero enfrenta posibles deserciones.\n*   **Senado:** Unión por la Patria (Fuerza Patria) queda con 22 miembros tras la salida de Zamora; La Libertad Avanza tiene 20.\n*   **Gobernadores cruciales:** Raúl Jalil (Catamarca, con 4 diputados); Gerardo Zamora (Santiago del Estero, con 2 senadores y 7 diputados); Gustavo Sáenz (Salta) y Osvaldo Jaldo (Tucumán).\n*   **Legisladores que cambiaron/analizan:** Alejandro Bongiovanni, Verónica Razzini (PRO a LLA); Mariano Campero, Luis Picat, José Federico Tournier (UCR a LLA); Jorge \"Gato\" Fernández (amenaza salida de UP).\n*   **Fecha clave:** El próximo miércoles juran los diputados electos y se designan las autoridades de la Cámara.\n\n⚡ **Desarrollo:**\n*   LLA ha achicado la distancia para la primera minoría en Diputados atrayendo a legisladores de PRO y ex-UCR, buscando consolidar su fuerza antes de la jura de los nuevos miembros.\n*   Gobernadores peronistas como Raúl Jalil (Catamarca), Gustavo Sáenz (Salta), Osvaldo Jaldo (Tucumán) y Rolando Figueroa (Neuquén) coquetean con la idea de romper con el bloque de Unión por la Patria para formar un interbloque federal.\n*   Estos gobernadores buscan mayor flexibilidad para negociar con el gobierno de Javier Milei, exigiendo la devolución de recursos por coparticipación, deudas previsionales y otros fondos provinciales.\n*   En el Senado, Gerardo Zamora (Santiago del Estero) ya confirmó la creación de su propio bloque, \"Frente Cívico por Santiago\", junto a Elia Moreno, distanciándose del peronismo.\n*   El bloque \"Convicción Federal\", compuesto por 4 senadores peronistas (Guillermo Andrada, Carolina Moíses, Jesús Rejal, Fernando Salino), también se resiste a la unificación propuesta por José Mayans, buscando mantener su independencia.\n*   La pérdida de la primera minoría para UP en Diputados reflejaría una preocupación por la \"voluntad popular\" y los métodos empleados por LLA para sumar voluntades.\n\n💡 **¿Por qué importa?**\n*   La obtención de la primera minoría en la Cámara de Diputados es fundamental para el oficialismo, ya que le permitiría presidir comisiones estratégicas como Presupuesto y tener mayor control sobre la aprobación de leyes clave.\n*   La fragmentación del peronismo y la mayor autonomía de los bloques provinciales obligan al Gobierno a negociar permanentemente, complejizando el camino legislativo para proyectos como el Presupuesto 2026 y la Ley Bases.",
-      "cantidad_noticias": 7,
+      "tema_id": "gobierno_milei:_recorte_20251130",
+      "tema": "Gobierno Milei: Recorte Empleados Públicos",
+      "tema_normalizado": "gobierno milei: recorte empleados publicos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei planea una nueva y significativa reducción de empleados públicos, profundizando su \"plan motosierra\".\n• Se proyecta un recorte adicional del 10% de la plantilla estatal actual, lo que implicaría la desvinculación de aproximadamente 28.000 trabajadores.\n• Esta iniciativa, coordinada por Manuel Adorni y Federico Sturzenegger, se extenderá durante 2026 y afectará principalmente a organismos descentralizados.\n\n🔍 **Datos clave:**\n• Más de 58.000 despidos se registraron desde diciembre de 2023 hasta la fecha en el sector público.\n• La cantidad actual de empleados públicos en el país asciende a aproximadamente 282.570 (o 285.570 según INDEC a octubre).\n• El recorte del 10% adicional proyectado sumaría alrededor de 28.000 puestos más a los ya eliminados.\n• Organismos en la mira incluyen AFIP, ANMAT, CONICET, INTA, INTI, ENACOM, INDEC, ANSES, ENARGAS, y Medios Públicos (Televisión Pública, Radio Nacional).\n• Los contratos que vencen en diciembre y el primer trimestre de 2026 son un punto clave para la discontinuidad de personal.\n\n⚡ **Desarrollo:**\n• El plan busca \"optimizar\" áreas de la administración pública, reducir gastos y lograr un Estado más \"eficiente\", en línea con la política de ajuste del gobierno.\n• Mientras que los ajustes iniciales se concentraron en la administración centralizada, esta nueva etapa prioriza los organismos que funcionan de manera más independiente.\n• Las estrategias de reducción incluyen la no renovación de contratos, la eliminación de funciones duplicadas, fusiones y cierres de organismos, y planes de retiros voluntarios.\n• Algunos organismos como INTA e INTI han tenido intentos de cierre o recortes que fueron revertidos por resoluciones judiciales, como también sucedió con Vialidad Nacional.\n• La Jefatura de Gabinete controlará la cobertura de cargos vacantes a partir del Presupuesto 2026, buscando consolidar la reducción de personal.\n• La medida se da en un contexto de tensión con los sindicatos, que anticipan resistencia ante los ajustes implementados.\n\n💡 **¿Por qué importa?**\n• Representa un cambio estructural profundo en el tamaño y la organización del Estado argentino, buscando una significativa reducción del gasto público.\n• Genera incertidumbre y debate sobre la continuidad y calidad de servicios esenciales y el impacto social de la pérdida de miles de puestos de trabajo.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Agónica carrera entre LLA y UP por la primera minoría en la Cámara de Diputados: los siete legisladores claves que inclinarán la balanza",
-          "link": "https://www.lanacion.com.ar/politica/agonica-carrera-entre-lla-y-up-por-la-primera-minoria-en-la-camara-de-diputados-los-siete-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 03:15:51"
+          "titulo": "Motosierra profunda: planean echar a 30 mil empleados públicos más en 2026",
+          "link": "https://www.perfil.com/noticias/politica/motosierra-profunda-planean-echar-a-30-mil-empleados-publicos-mas-en-2026.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-30 03:43:39"
         },
         {
-          "titulo": "Los gobernadores no kirchneristas pierden peso en el Senado y no logran quebrar al bloque del peronismo",
-          "link": "https://www.infobae.com/politica/2025/11/30/los-gobernadores-no-kirchneristas-pierden-peso-en-el-senado-y-no-logran-quebrar-al-bloque-del-peronismo/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 01:03:28"
+          "titulo": "El Gobierno prepara un nuevo 'plan motosierra' y proyecta reducir un 10% de la planta estatal para 2026",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-prepara-un-nuevo-plan-motosierra-y-proyecta-reducir-un-10-de-la-planta-estatal-para-2026.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-29 19:43:00"
         },
         {
-          "titulo": "Los gobernadores peronistas se desmarcan de Cristina Kirchner: qué condiciones ponen para no romper los bloques en el Congreso",
-          "link": "https://www.clarin.com/politica/gobernadores-peronistas-desmarcan-cristina-kirchner-condiciones-ponen-romper-bloques-congreso_0_woNutVKmFP.html",
+          "titulo": "El Gobierno avanza con un nuevo achique del Estado y quiere reducir un 10% el personal",
+          "link": "https://www.clarin.com/politica/gobierno-avanza-nuevo-achique-estado-quiere-reducir-10-personal_0_tpP1IFUlsM.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-29 18:39:39"
+          "fecha": "2025-11-29 18:09:21"
         },
         {
-          "titulo": "Pelea por el dominio en Diputados: LLA ya tiene 94 legisladores y el PJ queda a punto de perder la primera minoría",
-          "link": "https://www.clarin.com/politica/pelea-dominio-diputados-lla-94-legisladores-pj-queda-punto-perder-primera-minoria_0_49guyhfKpY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 18:39:26"
-        },
-        {
-          "titulo": "Gerardo Zamora no se sumará al bloque peronista en el Senado y ahora las miradas apuntan a Diputados",
-          "link": "https://www.ambito.com/politica/gerardo-zamora-no-se-sumara-al-bloque-peronista-el-senado-y-ahora-las-miradas-apuntan-diputados-n6219098",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 17:22:00"
-        },
-        {
-          "titulo": "Otro golpe para los K, Zamora tendrá su propio bloque en el Senado y jugaría por fuera del peronismo",
-          "link": "https://www.clarin.com/politica/golpe-k-zamora-propio-bloque-senado-jugaria-peronismo_0_v5aEMqcDlv.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 15:14:26"
-        },
-        {
-          "titulo": "LLA sumó a otro diputado del PRO a su bloque: de quién se trata",
-          "link": "https://www.minutouno.com/politica/lla-sumo-otro-diputado-del-pro-su-bloque-quien-se-trata-n6218997",
+          "titulo": "Aseguran que el Gobierno reducirá la planta del Estado \"otro diez por ciento\" en 2026",
+          "link": "https://www.minutouno.com/politica/aseguran-que-el-gobierno-reducira-la-planta-del-estado-otro-diez-ciento-2026-n6219052",
           "fuente": "Minuto1",
-          "fecha": "2025-11-29 09:05:00"
+          "fecha": "2025-11-29 13:30:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
-        "Infobae",
-        "La Nación",
-        "Clarín",
         "Minuto1",
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "trump_endurece_presion_20251130",
+      "tema": "Trump endurece presión sobre Venezuela",
+      "tema_normalizado": "trump endurece presion sobre venezuela",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente de Estados Unidos, Donald Trump, anunció el cierre total del espacio aéreo sobre Venezuela, endureciendo su postura contra el régimen de Nicolás Maduro.\n• Esta medida, justificada como parte de operaciones contra el narcotráfico, generó una fuerte condena internacional y por parte del gobierno venezolano.\n\n🔍 **Datos clave:**\n• **Anuncio:** Sábado, 29 de noviembre (publicado por Trump en su red social Truth).\n• **Actores principales:** Donald Trump (EE.UU.), Nicolás Maduro (Venezuela), Gustavo Petro (Presidente de Colombia y Celac), Yván Gil Pinto (Canciller de Venezuela), Marco Rubio (Secretario de Estado de EE.UU.).\n• **Organizaciones/conceptos:** OACI (Organización de Aviación Civil Internacional), Celac, Carta de las Naciones Unidas, Cartel de los Soles (designado como Organización Terrorista Extranjera el 24 de noviembre).\n• **Despliegue militar:** El portaaviones nuclear USS Gerald R. Ford, nave insignia de la flota de EE.UU., fue enviado al Mar Caribe, frente a Venezuela.\n• **Contradicción:** Trump anunció un indulto total para Juan Orlando Hernández, expresidente de Honduras, condenado en EE.UU. por narcotráfico.\n\n⚡ **Desarrollo:**\n• Trump afirmó que el cierre del espacio aéreo es parte de una campaña para \"terminar con los carteles de la droga que actúan bajo la protección del Palacio de Miraflores\".\n• El presidente Gustavo Petro cuestionó la legalidad de la acción, señalando que \"un espacio aéreo nacional no lo puede cerrar un presidente extranjero\" y que viola la soberanía y el derecho internacional.\n• El canciller venezolano, Yván Gil Pinto, calificó la advertencia de Trump como \"un acto hostil, unilateral y arbitrario\", una \"amenaza explícita de uso de fuerza\" y una \"agresión con pretensiones coloniales\".\n• Previo al anuncio, Trump había sostenido una conversación telefónica con Maduro, en la que, según informes, lo amenazó con aumentar las acciones militares si no abandonaba el poder.\n• La decisión de Trump se enmarca en la designación del Cartel de los Soles, presuntamente liderado por Maduro y otros altos cargos, como organización terrorista extranjera por parte de EE.UU.\n• La política de Trump es vista como contradictoria, al combatir el narcotráfico en Venezuela mientras indulta a un ex-presidente condenado por facilitar el tráfico de cocaína, incluyendo la procedente de Venezuela.\n• Venezuela ha repatriado a 13.956 migrantes venezolanos en 75 vuelos, un acuerdo bilateral que EE.UU. suspendió unilateralmente tras la decisión de Trump.\n\n💡 **¿Por qué importa?**\n• Esta escalada de presión agrava la ya tensa relación entre Estados Unidos y Venezuela, elevando el riesgo de conflicto y la inestabilidad en la región latinoamericana.\n• La medida plantea serias interrogantes sobre el respeto a la soberanía nacional y el derecho internacional, mientras que las contradicciones en la política de Trump generan debate sobre la coherencia en la lucha contra el narcotráfico.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Petro cuestiona decisión de Trump sobre Venezuela: “Un espacio aéreo nacional no lo puede cerrar un presidente extranjero”",
+          "link": "https://www.infobae.com/colombia/2025/11/30/petro-cuestiona-decision-de-trump-sobre-venezuela-un-espacio-aereo-nacional-no-lo-puede-cerrar-un-presidente-extranjero/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-30 05:32:49"
+        },
+        {
+          "titulo": "Donald Trump muestra contradicciones al anunciar el indulto de un narcotraficante y amenazar a Venezuela",
+          "link": "https://www.clarin.com/mundo/donald-trump-muestra-contradicciones-anunciar-indulto-narcotraficante-amenazar-venezuela_0_lwKk5nqlNd.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 20:05:43"
+        },
+        {
+          "titulo": "Venezuela califica de \"hostil e inmoral\" la advertencia de Trump sobre su espacio aéreo",
+          "link": "https://www.clarin.com/mundo/venezuela-califica-hostil-inmoral-advertencia-trump-espacio-aereo_0_ZoojV67pvO.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 17:41:22"
+        },
+        {
+          "titulo": "Donald Trump reclamó cerrar completamente el espacio aéreo de Venezuela y endureció la presión sobre Nicolás Maduro",
+          "link": "https://www.ambito.com/mundo/donald-trump-reclamo-cerrar-completamente-el-espacio-aereo-venezuela-y-endurecio-la-presion-nicolas-maduro-n6219038",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 12:13:00"
+        },
+        {
+          "titulo": "Trump redobla su presión contra Maduro y advierte: \"El espacio aéreo de Venezuela debe considerarse cerrado totalmente\"",
+          "link": "https://www.clarin.com/mundo/trump-redobla-presion-maduro-advierte-espacio-aereo-venezuela-debe-considerarse-cerrado-totalmente_0_WNyhVhcPT9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 10:31:55"
+        },
+        {
+          "titulo": "Donald Trump amenazó por teléfono a Nicolás Maduro con más acciones militares cerca de Venezuela",
+          "link": "https://www.minutouno.com/mundo/donald-trump-amenazo-telefono-nicolas-maduro-mas-acciones-militares-cerca-venezuela-n6219005",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-29 09:25:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Infobae",
+        "Minuto1",
+        "Clarín",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -68,67 +105,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_gobierno-afa_por_20251130",
-      "tema": "Conflicto Gobierno-AFA por Chiqui Tapia",
-      "tema_normalizado": "conflicto gobierno-afa por chiqui tapia",
-      "resumen": "📌 **¿Qué está pasando?**\n• Existe un fuerte conflicto entre el Gobierno argentino y la Asociación del Fútbol Argentino (AFA), presidida por Claudio “Chiqui” Tapia.\n• La tensión se desató por la polémica entrega de una \"copa inventada\" a Rosario Central y la posterior sanción a Estudiantes de La Plata por protestar.\n• El Gobierno busca \"acorralar\" y \"desgastar\" a Tapia, exponiendo irregularidades, pero evita una confrontación directa para no afectar a la Selección ni a la FIFA.\n\n🔍 **Datos clave:**\n• Claudio “Chiqui” Tapia (Presidente de AFA)\n• Javier Milei (Presidente de la Nación)\n• Patricia Bullrich (Senadora, impulsa investigación)\n• Mauricio Macri (Expresidente, crítico de AFA)\n• Rosario Central (club al que AFA otorgó la copa)\n• Estudiantes de La Plata (club sancionado, preside Juan S. Verón)\n• 55% (Porcentaje de encuestados que ven a Tapia como \"corrupto\")\n• Mundial 2026 (Referencia para decisiones gubernamentales sobre SADs)\n\n⚡ **Desarrollo:**\n• El Gobierno implementa una \"guerra mediática de baja intensidad\" para desgastar la imagen de Tapia y mostrar \"desmanejos\".\n• Javier Milei canceló su viaje a EE.UU. para el sorteo del Mundial 2026, evitando cruzarse con Tapia, y mostró apoyo público a Estudiantes.\n• Patricia Bullrich anunció que investigará la transparencia y posibles irregularidades de la AFA desde su rol como senadora.\n• Mauricio Macri, ex presidente, criticó duramente la \"decadencia del fútbol argentino\" y la \"falta de organización\" bajo la conducción de Tapia.\n• Temas clave de disputa incluyen la intención del Gobierno de impulsar las Sociedades Anónimas Deportivas (SADs) y eliminar el Decreto 1212, resistidos por la AFA.\n• El Gobierno pospuso el tratamiento de las SADs hasta después del Mundial 2026 para evitar una confrontación directa con la FIFA y la Selección.\n• El tesorero de AFA, Pablo Toviggino, y el financista Ariel Vallejo (Sur Finanzas), vinculado a Tapia, también están en la mira por presuntas irregularidades.\n• Encuestas internas del Gobierno reflejan una alta imagen negativa de Tapia, con un 55% de la opinión pública considerándolo corrupto.\n\n💡 **¿Por qué importa?**\n• El conflicto genera incertidumbre sobre la transparencia y la dirección futura del fútbol argentino, un deporte central en la identidad del país.\n• La disputa podría tener repercusiones políticas y deportivas, aunque el Gobierno busca evitar un impacto directo en la Selección Nacional o sanciones de FIFA.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "El Gobierno busca arrinconar a Chiqui Tapia, pero evita ir a una confrontación directa",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-busca-arrinconar-a-chiqui-tapia-pero-evita-ir-a-una-confrontacion-directa-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 03:03:33"
-        },
-        {
-          "titulo": "Mauricio Macri opinó de la AFA y apuntó a “Chiqui” Tapia: “La decadencia del fútbol argentino es terrible”",
-          "link": "https://www.infobae.com/politica/2025/11/30/mauricio-macri-opino-de-la-afa-y-apunto-a-chiqui-tapia-la-decadencia-del-futbol-argentino-es-terrible/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 00:57:09"
-        },
-        {
-          "titulo": "Círculo rojo: secretos de la guerra en la AFA, confesiones y disputas en la calle San José",
-          "link": "https://www.infobae.com/politica/2025/11/30/circulo-rojo-secretos-de-la-guerra-en-la-afa-confesiones-y-disputas-en-la-calle-san-jose/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 00:55:11"
-        },
-        {
-          "titulo": "Un quiebre en la pasión más argentina",
-          "link": "https://www.lanacion.com.ar/politica/un-quiebre-en-la-pasion-mas-argentina-nid29112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-29 22:58:00"
-        },
-        {
-          "titulo": "En medio de la tensión con Chiqui Tapia, el Gobierno retrasa el impulso a las SAD: \"No es prioridad\"",
-          "link": "https://www.minutouno.com/politica/en-medio-la-tension-chiqui-tapia-el-gobierno-retrasa-el-impulso-las-sad-no-es-prioridad-n6219128",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 19:54:00"
-        },
-        {
-          "titulo": "Milei habilita una guerra mediática de baja intensidad para condicionar al Chiqui Tapia",
-          "link": "https://www.perfil.com/noticias/politica/milei-habilita-una-guerra-mediatica-de-baja-intensidad-para-condicionar-al-chiqui-tapia.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-29 04:09:32"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Infobae",
-        "La Nación",
-        "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "actividad_politica_de_20251130",
-      "tema": "Actividad política de Karina Milei",
-      "tema_normalizado": "actividad politica de karina milei",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Karina Milei, secretaria general de la Presidencia y figura clave de La Libertad Avanza (LLA), organizó un congreso provincial del partido en Mar del Plata.\n*   El objetivo principal fue ordenar la interna partidaria en la provincia de Buenos Aires, unificar la tropa libertaria y definir estrategias políticas futuras.\n\n🔍 **Datos clave:**\n*   **Asistentes:** Más de 700 dirigentes libertarios de todos los municipios de la provincia de Buenos Aires.\n*   **Organizadores principales:** Karina Milei, Sebastián Pareja (principal operador bonaerense de LLA), Martín Menem y \"Lule\" Menem.\n*   **Duración del evento:** Jornada de 8 horas con talleres y ponencias.\n*   **Ubicación:** Hotel NH (también mencionado como Hotel Provincial) en Mar del Plata.\n\n⚡ **Desarrollo:**\n*   El congreso fue convocado para aprovechar el impulso del reciente triunfo electoral y encolumnar a la \"tropa\" libertaria con el objetivo de enfrentar al peronismo y al gobernador bonaerense Axel Kicillof.\n*   Se llevaron a cabo paneles instructivos sobre técnica legislativa, negociación, educación y gestión de consejos escolares, regionalización y reforma electoral.\n*   Martín y \"Lule\" Menem impartieron un taller especial sobre técnica parlamentaria y negociación, buscando profesionalizar y homogeneizar la acción política de los dirigentes.\n*   Un aspecto clave fue la búsqueda de una \"tregua\" y unidad entre facciones internas del partido, como el sector de Sebastián Pareja y \"Las Fuerzas del Cielo\", afín a Santiago Caputo.\n*   Al cierre, Karina Milei, Martín Menem y Sebastián Pareja bajaron la \"línea partidaria\" y detallaron las condiciones para mantener la pertenencia orgánica a LLA, promoviendo la disciplina.\n*   Este despliegue territorial de Karina Milei es fundamental para construir una base sólida y consolidar la posición del partido, con la mira puesta en las elecciones de 2025 y 2027.\n*   El evento simboliza una fase de \"maduración\" de LLA, que ahora opera como partido nacional, requiriendo redefinir conductas y responsabilidades políticas en todas las escalas.\n\n💡 **¿Por qué importa?**\n*   Este congreso subraya el creciente protagonismo de Karina Milei en la construcción política y territorial de La Libertad Avanza a nivel nacional.\n*   Es un paso estratégico para unificar la interna del partido en la clave provincia de Buenos Aires y fortalecer su proyección frente a futuros desafíos electorales.",
+      "tema_id": "karina_milei_ordena_20251130",
+      "tema": "Karina Milei ordena LLA Mar del Plata",
+      "tema_normalizado": "karina milei ordena lla mar del plata",
+      "resumen": "📌 **¿Qué está pasando?**\n• Karina Milei, secretaria general de la Presidencia y titular del partido La Libertad Avanza (LLA), lideró un congreso provincial en Mar del Plata.\n• El encuentro tuvo como objetivo principal ordenar la estructura partidaria en la provincia de Buenos Aires y unificar la estrategia política.\n• Busca consolidar la organización de LLA en la provincia y prepararla para futuros desafíos electorales y legislativos.\n\n🔍 **Datos clave:**\n• **Fecha del evento:** Un domingo de noviembre, mencionado como \"30 de noviembre\" en una de las fuentes (pese a que la fecha no coincide con el día de la semana).\n• **Participantes:** Más de 700 dirigentes de LLA de toda la provincia de Buenos Aires.\n• **Lugar:** Hotel NH Provincial en Mar del Plata.\n• **Figuras clave:** Karina Milei, Sebastián Pareja (operador bonaerense), Martín Menem y \"Lule\" Menem.\n• **Duración:** Una jornada de ocho horas de talleres y discursos.\n• **Enfoque político:** Fortalecer la oposición al gobernador bonaerense Axel Kicillof.\n\n⚡ **Desarrollo:**\n• El congreso marca una etapa de \"maduración partidaria\" para LLA, buscando profesionalizar y homogeneizar la acción política en todas las escalas.\n• Uno de los objetivos principales fue establecer disciplina y alinear a la dirigencia bonaerense, que, según la cúpula, operó con \"márgenes de autonomía excesivos\".\n• Se impartieron talleres sobre técnica parlamentaria, negociación, confección presupuestaria, Boleta Única de Papel y reorganización administrativa.\n• La idea central fue \"bajar la línea partidaria\" y definir las condiciones para que los dirigentes locales mantengan su pertenencia orgánica a LLA.\n• Se buscó una tregua entre el sector de Sebastián Pareja y \"Las Fuerzas del Cielo\" (ligado a Santiago Caputo), logrando la participación de referentes de ambos grupos como Santiago Santurio.\n• El intendente de General Pueyrredón, Guillermo Montenegro (PRO), asistió como anfitrión, aunque la dirigencia de su partido que se sumó a las listas de LLA no participó de la totalidad del encuentro.\n\n💡 **¿Por qué importa?**\n• El congreso consolida el poder de Karina Milei en la construcción partidaria de LLA a nivel nacional y provincial, fortaleciendo la estructura interna.\n• La \"ordenación\" de la base libertaria en la provincia de Buenos Aires es crucial para los planes políticos del gobierno, preparando al partido para futuros enfrentamientos electorales y legislativos contra el peronismo y Axel Kicillof.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -159,10 +139,10 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
-        "Minuto1",
         "La Nación",
-        "Ámbito Financiero",
-        "Perfil"
+        "Minuto1",
+        "Perfil",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -170,10 +150,155 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "polemica_por_acto_20251130",
-      "tema": "Polémica por acto antivacunas",
-      "tema_normalizado": "polemica por acto antivacunas",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se realizó un polémico acto antivacunas en la Cámara de Diputados de Argentina, organizado por la diputada Marilú Quiroz, que cuestionó la seguridad y eficacia de las vacunas.\n• Este evento, autorizado por Martín Menem, desató una ola de indignación y un fuerte rechazo de la comunidad científica y de las autoridades sanitarias.\n• Durante la jornada, se promovieron afirmaciones sin sustento científico que la comunidad médica considera de \"extrema gravedad\" por poner en riesgo la salud pública.\n\n🔍 **Datos clave:**\n• **Fecha del acto:** 27 de noviembre.\n• **Organizadora:** Diputada Marilú Quiroz (PRO por Chaco).\n• **Autorización:** Martín Menem, Presidente de la Cámara de Diputados.\n• **Título del acto:** \"¿Qué tienen realmente las vacunas?\".\n• **Ministro de Salud de la Nación:** Mario Lugones.\n• **Entidad científica:** Sociedad Argentina de Inmunología (SAI).\n• **Provincias que firmaron comunicado:** 22 de 24 distritos del país.\n• **Provincias que no firmaron:** Buenos Aires y Formosa.\n• **\"Hombre imán\" en el acto:** José Daniel Fabián (identificado luego como Ángel Argentino Cabral, entrevistado en 2013).\n• **Ley cuestionada por Quiroz:** Ley 27.491 de Control de Enfermedades Prevenibles por Vacunación.\n\n⚡ **Desarrollo:**\n• La diputada Marilú Quiroz, quien ya había presentado un proyecto para revisar la obligatoriedad de la vacunación, promovió este evento centrado en supuestos \"efectos colaterales\" de las vacunas, especialmente las de COVID-19.\n• El acto presentó testimonios como el de un \"hombre imán\", quien aseguró haber desarrollado magnetismo por la vacuna AstraZeneca; esta afirmación fue rápidamente desmentida al revelarse su historial como \"récord Guinness\" por dicha habilidad desde 2013.\n• La Sociedad Argentina de Inmunología (SAI) emitió un comunicado expresando \"profunda preocupación\" y calificando el hecho de \"extrema gravedad\", subrayando que las vacunas son seguras, efectivas y una herramienta central de salud pública.\n• El Ministerio de Salud de la Nación, liderado por Mario Lugones, junto a 22 ministros de salud provinciales, publicó un comunicado conjunto ratificando que \"las vacunas son seguras y salvan vidas\", con décadas de uso y sólida evidencia científica.\n• El comunicado de salud enfatizó que la vacunación es una política de Estado indispensable y una responsabilidad compartida entre Nación y provincias, advirtiendo sobre el descenso en las coberturas de vacunación y el riesgo de reemergencia de enfermedades como sarampión o tos convulsa.\n• Las ausencias de las provincias de Buenos Aires y Formosa en el comunicado conjunto generaron controversia, aunque el ministro bonaerense, Nicolás Kreplak, afirmó apoyar la vacunación, pero criticó que se permitan eventos de desinformación.\n\n💡 **¿Por qué importa?**\n• La promoción de desinformación sobre vacunas en una institución como el Congreso Nacional es un hecho grave que socava la confianza pública en la ciencia y en políticas sanitarias esenciales.\n• La contundente respuesta de la comunidad científica y de las autoridades sanitarias nacionales y provinciales reafirma el consenso sobre la seguridad y eficacia de las vacunas como pilar fundamental de la salud pública, vital para proteger a toda la población.",
+      "tema_id": "onu_advierte_argentina_20251130",
+      "tema": "ONU advierte Argentina derechos humanos",
+      "tema_normalizado": "onu advierte argentina derechos humanos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Organización de las Naciones Unidas (ONU), a través de su Comité contra la Tortura (CAT), intimó a Argentina por una \"situación grave\" en materia de derechos humanos.\n*   Las advertencias se centran en detenciones arbitrarias, torturas y la represión de protestas sociales, entre otras problemáticas.\n*   El Comité publicó sus Observaciones Finales, reclamando medidas urgentes y la adecuación a estándares internacionales.\n\n🔍 **Datos clave:**\n*   **Organismo:** Comité contra la Tortura (CAT) de la ONU.\n*   **Documento:** Observaciones Finales sobre el séptimo informe periódico de Argentina.\n*   **Sesión:** Aprobado durante el 83° período de sesiones en Ginebra.\n*   **Voto de Argentina:** En contra de la resolución \"La tortura y otros tratos o penas crueles...\" en la 51ª sesión plenaria de la Asamblea General de la ONU.\n*   **Países acompañantes en el voto:** Estados Unidos e Israel.\n*   **Respaldo internacional a resolución:** 169 naciones.\n*   **Ejemplos de represión citados:** Ciudad de Buenos Aires (2024/2025) y Jujuy (2023).\n*   **Menciona cárceles de:** Santa Fe (2024) por torturas.\n*   **CNPT:** Comité Nacional para la Prevención de la Tortura, constituido en 2017.\n\n⚡ **Desarrollo:**\n*   El CAT expresó preocupación por el uso prolongado de comisarías para alojar detenidos, recordando que no están diseñadas para ese fin. También instó a cesar la detención de niños, niñas y adolescentes en estos lugares.\n*   Se advirtió sobre las condiciones de vida severas en \"regímenes de alto perfil\" en cárceles, con aislamientos superiores a 20 horas diarias y restricciones de visitas. Se mencionaron hechos de torturas y malos tratos en cárceles de Santa Fe en 2024.\n*   La ONU solicitó la revisión del \"Protocolo Antipiquetes\" y otras resoluciones del Ministerio de Seguridad sobre el uso de la fuerza. Se pide adecuarlas a estándares internacionales, priorizando la necesidad y proporcionalidad.\n*   Se registraron operativos abusivos y represión en manifestaciones en CABA y Jujuy, incluyendo el uso indiscriminado de balas de goma, gases lacrimógenos y camiones hidrantes. También se denunciaron detenciones arbitrarias y requisas invasivas a familiares.\n*   El Comité criticó el voto de Argentina en contra de una resolución global contra la tortura, lo que marcó un retroceso respecto a su tradicional compromiso internacional.\n*   Como punto positivo, el CAT reconoció la constitución del CNPT en 2017 y la creación de 15 Mecanismos Locales de Prevención.\n*   Finalmente, la ONU exhortó al Estado a no reducir la edad mínima de responsabilidad penal y a garantizar que la privación de libertad sea una medida excepcional.\n\n💡 **¿Por qué importa?**\n*   Esta advertencia del máximo organismo de derechos humanos global señala una \"situación grave\" en el país, lo que demanda una respuesta urgente de los tres poderes del Estado para asegurar el respeto a la dignidad humana.\n*   El incumplimiento de estas recomendaciones puede afectar la imagen internacional de Argentina y su reputación en materia de derechos humanos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La ONU intimó a la Argentina por detenciones arbitrarias, torturas y represión de protestas",
+          "link": "https://www.minutouno.com/politica/la-onu-intimo-la-argentina-detenciones-arbitrarias-torturas-y-represion-protestas-n6219140",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-29 22:05:00"
+        },
+        {
+          "titulo": "Detenciones irregulares, operativos abusivos y represión a movilizaciones: las advertencias de la ONU a la Argentina",
+          "link": "https://www.ambito.com/politica/detenciones-irregulares-operativos-abusivos-y-represion-movilizaciones-las-advertencias-la-onu-la-argentina-n6219121",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 19:34:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gira_internacional_papa_20251130",
+      "tema": "Gira internacional Papa León XIV",
+      "tema_normalizado": "gira internacional papa leon xiv",
+      "resumen": "📌 **¿Qué está pasando?**\n• El papa León XIV concluyó su visita de cuatro días a Turquía y se dirige a Líbano, en su primer viaje apostólico internacional.\n• La gira busca promover mensajes de paz y unidad, especialmente entre católicos y ortodoxos, en una región geopolíticamente compleja.\n• Durante su visita a Turquía, el pontífice también marcó una diferencia notable con sus predecesores al no realizar una oración silenciosa en la Mezquita Azul.\n\n🔍 **Datos clave:**\n• **Pontífice:** León XIV, el primer Papa de origen estadounidense y peruano.\n• **Asunción:** Mayo (del año en curso, siendo este su primer viaje internacional).\n• **Duración Turquía:** 4 días.\n• **Concilio de Nicea:** Conmemoración de 1.700 años del Primer Concilio.\n• **Avión:** Modelo Airbus A320, parte de una flota afectada por fallas técnicas que requirieron actualizaciones.\n• **Cristianos en Turquía:** Aproximadamente 100.000 fieles en una nación de mayoría musulmana.\n• **Gran Cisma:** Año 1054, evento que marcó la división entre las ramas católica y ortodoxa.\n\n⚡ **Desarrollo:**\n• En Turquía, el Papa se reunió con el presidente Recep Tayyip Erdogan y el patriarca Bartolomé I, líder global de la Iglesia ortodoxa, en Estambul.\n• Junto a Bartolomé I, firmaron una declaración conjunta comprometiéndose a buscar \"pasos nuevos y valientes en el camino a la unidad\" y una fecha común para la celebración de la Pascua.\n• Visitó la emblemática Mezquita Azul, donde, a diferencia de los Papas Benedicto XVI y Francisco, optó por no detenerse a rezar, un gesto que resalta su estilo personal.\n• Su vuelo en un Airbus A320 de Ita Airways coincidió con la cancelación de miles de vuelos por fallas en el sistema ELAC debido a radiación solar, aunque su aeronave fue actualizada para continuar el viaje.\n• En Líbano, un país que enfrenta graves crisis económicas y tensiones regionales, se espera que el Papa transmita un mensaje enfocado en la esperanza y la convivencia.\n\n💡 **¿Por qué importa?**\n• Este viaje marca el debut internacional del Papa León XIV, con un fuerte énfasis en la unidad cristiana, lo cual es fundamental en un contexto de nuevas divisiones ortodoxas y conflictos en la región.\n• Su estilo distintivo, evidenciado en la Mezquita Azul, y los mensajes de diálogo y paz son significativos para las relaciones interreligiosas y la estabilidad en el Medio Oriente.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "El papa León XIV concluyó su visita a Turquía y continuará  su gira internacional en Líbano con un mensaje de paz",
+          "link": "https://www.infobae.com/america/mundo/2025/11/30/el-papa-leon-xiv-concluyo-su-visita-a-turquia-y-continuara-su-gira-internacional-en-libano-con-un-mensaje-de-paz/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-30 04:37:58"
+        },
+        {
+          "titulo": "Con un gesto rebelde, León XIV marca diferencias con Francisco en su visita a la Mezquita Azul",
+          "link": "https://www.lanacion.com.ar/el-mundo/con-un-gesto-rebelde-leon-xiv-marca-diferencias-con-francisco-en-su-visita-a-la-mezquita-azul-nid29112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:38:07"
+        },
+        {
+          "titulo": "Cómo afectan las fallas técnicas de Airbus al papa León XIV en su gira por Turquía y Líbano",
+          "link": "https://www.ambito.com/mundo/como-afectan-las-fallas-tecnicas-airbus-al-papa-leon-xiv-su-gira-turquia-y-libano-n6219033",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 12:16:00"
+        },
+        {
+          "titulo": "El papa León XIV visitó la emblemática Mezquita Azul de Estambul, pero no se detuvo a rezar",
+          "link": "https://www.clarin.com/mundo/papa-leon-xiv-visito-emblematica-mezquita-azul-estambul-detuvo-rezar_0_LvtToK1uZG.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 09:29:27"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Infobae",
+        "Clarín",
+        "Ámbito Financiero",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "airbus_suspende_vuelos_20251130",
+      "tema": "Airbus suspende vuelos por fallas técnicas",
+      "tema_normalizado": "airbus suspende vuelos por fallas tecnicas",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Airbus ha instado a \"detener inmediatamente los vuelos\" de 6.000 de sus aviones de la familia A320 debido a fallas en una computadora de control de vuelo.\n*   La medida surge por una vulnerabilidad del sistema ELAC (Elevator and Aileron Computer) a la radiación solar, que puede interferir con su funcionamiento.\n*   Se ha emitido una Directiva de Aeronavegabilidad de Emergencia que exige una actualización urgente del software o dejar los aviones en tierra antes del domingo siguiente a la directiva.\n\n🔍 **Datos clave:**\n*   **Fecha de la directiva:** Viernes 28 de noviembre de 2025.\n*   **Aviones afectados:** Aproximadamente 6.000 unidades de la familia A320 (incluye modelos A318, A319, A320 y A321, tanto ceo como neo).\n*   **Sistema comprometido:** ELAC (Elevator and Aileron Computer), vital para el control de elevadores y alerones.\n*   **Solución:** Para el 85% de los aviones (unos 5.100), se requiere una actualización de software de pocas horas; para el 15% restante (unos 900-1.000), implica un cambio de hardware que tomará semanas.\n*   **Incidente revelador:** El 30 de octubre, un Airbus A320 de JetBlue sufrió una pérdida repentina de altitud entre Cancún y Newark, aterrizando de emergencia en Florida con pasajeros heridos.\n*   **Aeronavegación mundial:** El Airbus A320 es el avión de pasillo único más vendido del mundo, superando al Boeing 737 con 12.257 unidades entregadas hasta septiembre.\n\n⚡ **Desarrollo:**\n*   La falla fue descubierta tras una investigación exhaustiva del incidente de JetBlue, que mostró que el fallo informático afectó el control de vuelo en fase de crucero.\n*   La Directiva de Aeronavegabilidad de Emergencia (AD) fue emitida conjuntamente por Airbus y la Agencia de Seguridad Aérea de la Unión Europea (EASA) para garantizar la seguridad.\n*   La vulnerabilidad se atribuye a tormentas o radiaciones solares que pueden alterar sistemas electrónicos sensibles, comprometiendo las señales digitales de alta precisión.\n*   Airbus ha pedido disculpas por los \"trastornos operativos\" que estas recomendaciones provocarán a aerolíneas y pasajeros, priorizando la seguridad.\n*   Varias aerolíneas han reportado afectaciones: Avianca advirtió interrupciones significativas en más del 70% de su flota, suspendiendo la venta de pasajes hasta el 8 de diciembre.\n*   Otras, como Iberia y British Airways (solo 3 aviones afectados), están gestionando los cambios con menor impacto; American Airlines previó retrasos en 340 de sus aviones.\n\n💡 **¿Por qué importa?**\n*   Esta suspensión masiva pone de manifiesto la crítica dependencia de la aviación moderna de sistemas electrónicos sensibles y la importancia de su resiliencia ante fenómenos naturales como la radiación solar.\n*   Subraya el compromiso de la industria aeronáutica con la seguridad, aunque genere interrupciones operativas significativas y afecte a miles de vuelos y pasajeros a nivel global.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Airbus instó a \"detener inmediatamente los vuelos\" de 6.000 de sus aviones por fallas en una computadora",
+          "link": "https://www.minutouno.com/mundo/airbus-insto-detener-inmediatamente-los-vuelos-6000-sus-aviones-fallas-una-computadora-n6219028",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-29 10:25:00"
+        },
+        {
+          "titulo": "Airbus suspendió vuelos de 6.000 aviones tras reconocer fallas de control por la radiación solar",
+          "link": "https://www.ambito.com/mundo/airbus-suspendio-vuelos-6000-aviones-reconocer-fallas-control-la-radiacion-solar-n6218995",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 10:08:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tiroteos_masivos_california,_20251130",
+      "tema": "Tiroteos masivos California, Estados Unidos",
+      "tema_normalizado": "tiroteos masivos california, estados unidos",
+      "resumen": "📌 **¿Qué está pasando?**\n• Un violento tiroteo masivo interrumpió una celebración familiar en un salón de fiestas en Stockton, California, durante el fin de semana de Acción de Gracias.\n• Al menos cuatro personas perdieron la vida y diez resultaron heridas, entre ellas adultos y niños pequeños.\n• El atacante se dio a la fuga y las autoridades están investigando la posibilidad de que el ataque fuera \"dirigido\", sin un sospechoso identificado hasta el momento.\n\n🔍 **Datos clave:**\n• **Fecha del incidente:** Noche del sábado, poco antes de las 18:00, durante el fin de semana festivo de Acción de Gracias.\n• **Lugar:** Un salón de fiestas ubicado en la cuadra 1900 de Lucile Avenue, Stockton, que comparte estacionamiento con otros comercios.\n• **Víctimas:** 4 muertos y 10 heridos, sumando un total aproximado de 14 personas impactadas por disparos. Entre ellos había tanto adultos como menores.\n• **Investigación:** Agentes de la Oficina del Sheriff del Condado de San Joaquín, el FBI y la Oficina de Alcohol, Tabaco, Armas de Fuego y Explosivos colaboran en el caso.\n• **Vocera policial:** Heather Brent, quien informó sobre los primeros indicios de un posible ataque \"dirigido\" y la prioridad de identificar al sospechoso.\n\n⚡ **Desarrollo:**\n• El tiroteo se produjo en medio de una fiesta de cumpleaños infantil, lo que ha generado una profunda indignación y tristeza en la comunidad.\n• Las autoridades trabajan intensamente para determinar el motivo detrás de esta tragedia y ubicar al responsable, sin que se hayan efectuado arrestos hasta ahora.\n• El gobernador de California, Gavin Newsom, fue notificado del suceso y su oficina de servicios de emergencia monitorea y coordina con las fuerzas del orden locales.\n• Jason Lee, vicealcalde de Stockton, manifestó su devastación y enojo por lo sucedido, especialmente al ver a niños afectados por la violencia.\n• Este incidente se suma a otros tiroteos recientes en Estados Unidos, generando un debate continuo sobre la seguridad y el control de armas.\n• La policía ha pedido la colaboración ciudadana para obtener información, videos o testimonios que ayuden a la investigación.\n\n💡 **¿Por qué importa?**\n• Este trágico evento resalta la recurrente problemática de la violencia armada en Estados Unidos, impactando gravemente la seguridad y la tranquilidad de sus comunidades.\n• Subraya la necesidad urgente de justicia para las víctimas y sus familias, así como de medidas para prevenir futuros ataques, especialmente en espacios públicos y reuniones familiares.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Un hombre abrió fuego en un salón de fiestas en California: cuatro muertos y diez heridos",
+          "link": "https://www.clarin.com/mundo/hombre-abrio-fuego-salon-fiestas-california-muertos-heridos_0_bumUyGkEwL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-30 04:07:49"
+        },
+        {
+          "titulo": "Tiroteo en Estados Unidos: murieron cuatro personas y 10 resultaron heridas por un tiroteo en un evento familiar",
+          "link": "https://www.lanacion.com.ar/el-mundo/tiroteo-en-estados-unidos-murieron-cuatro-personas-y-10-resultaron-heridas-por-un-tiroteo-en-un-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:37:07"
+        },
+        {
+          "titulo": "Un nuevo tiroteo en California dejó un saldo de 4 muertos y 10 heridos: agentes del FBI y la policía de Stockton investigan el caso",
+          "link": "https://www.infobae.com/estados-unidos/2025/11/30/un-nuevo-tiroteo-en-california-dejo-un-saldo-de-4-muertos-y-10-heridos-agentes-del-fbi-y-la-policia-de-stockton-investigan-el-caso/",
+          "fuente": "Infobae",
+          "fecha": "2025-11-30 03:26:02"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-11-30",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "debate_vacunas:_apoyo_20251130",
+      "tema": "Debate vacunas: apoyo oficial de Salud",
+      "tema_normalizado": "debate vacunas: apoyo oficial de salud",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Un acto antivacunas se realizó en la Cámara de Diputados, organizado por la diputada chaqueña Marilú Quiroz (PRO), generando una fuerte condena de la comunidad científica y del Ministerio de Salud.\n*   En respuesta, el Ministerio de Salud de la Nación y 22 ministros provinciales emitieron un comunicado conjunto, reafirmando la seguridad y eficacia de las vacunas.\n\n🔍 **Datos clave:**\n*   **Fecha del acto:** 27 de noviembre en la Honorable Cámara de Diputados de la Nación.\n*   **Organizadora:** Diputada Marilú Quiroz (PRO, Chaco).\n*   **Apoyo oficial:** Mario Lugones (Ministro de Salud de la Nación) y ministros de Salud de 22 de las 24 provincias.\n*   **Ausencias en comunicado:** Ministros de Salud de la Provincia de Buenos Aires (Nicolás Kreplak) y Formosa.\n*   **Ley en cuestión:** Ley N.º 27.491 sobre el carácter obligatorio de la vacunación.\n*   **Falso testimonio:** Un hombre presentado como víctima de vacunas COVID-19 resultó ser Ángel Argentino Cabral, conocido como \"el hombre imán\" desde 2013.\n\n⚡ **Desarrollo:**\n*   El evento, titulado \"¿Qué tienen realmente las vacunas?\", cuestionó su seguridad y promovió afirmaciones sin sustento científico.\n*   La Sociedad Argentina de Inmunología (SAI) expresó su \"profunda preocupación\", calificando el hecho de \"extrema gravedad\" y enfatizando que las vacunas son seguras y efectivas herramientas de salud pública.\n*   La SAI advirtió sobre un \"descenso abrupto\" en las coberturas del Calendario Nacional de Vacunación, comprometiendo la inmunidad comunitaria y favoreciendo la reemergencia de enfermedades como sarampión o tos convulsa.\n*   El comunicado del Ministerio de Salud y las provincias ratificó que las vacunas del Calendario Nacional son \"herramientas fundamentales\", respaldadas por décadas de uso seguro y evidencia científica sólida.\n*   Se destacó que todas las vacunas pasan por \"evaluaciones rigurosas\" antes de su incorporación y mantienen procesos permanentes de control y seguimiento.\n*   La aplicación efectiva de las vacunas es una \"responsabilidad compartida\" entre el Ministerio de Salud de la Nación (adquisición y distribución) y las provincias/municipios (vacunación).\n*   La ausencia de Buenos Aires y Formosa en el comunicado conjunto se atribuyó a razones políticas o falta de comunicación, aunque el ministro Kreplak (BA) igualmente apoyó la vacunación.\n\n💡 **¿Por qué importa?**\n*   El apoyo oficial y científico unánime subraya la importancia de la vacunación como política de Estado, esencial para la salud pública y la prevención de enfermedades graves.\n*   La difusión de información no científica en el Congreso pone en riesgo la salud colectiva y la confianza en programas de vacunación fundamentales para la comunidad.",
       "cantidad_noticias": 5,
       "noticias": [
         {
@@ -211,8 +336,8 @@
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
         "Minuto1",
-        "Ámbito Financiero",
-        "Clarín"
+        "Clarín",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -220,37 +345,56 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "plan_achique_estatal_20251130",
-      "tema": "Plan achique estatal y empleo público",
-      "tema_normalizado": "plan achique estatal y empleo publico",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional avanza con un nuevo y profundo \"plan motosierra\" para achicar el tamaño del Estado.\n• El objetivo es reducir un 10% adicional la planta de empleados públicos para el año 2026.\n• Esta medida busca optimizar la administración pública, reducir gastos y lograr un Estado más eficiente, sumándose a recortes ya implementados.\n\n🔍 **Datos clave:**\n• **Reducción proyectada:** Otro 10% de la planta estatal, lo que implicaría la desvinculación de unos 28.000 puestos.\n• **Personal actual (base):** Aproximadamente 282.570 empleados públicos, según datos oficiales.\n• **Despidos ya realizados:** Desde diciembre de 2023, se eliminaron 58.797 puestos en diversos organismos centralizados y descentralizados.\n• **Período de implementación:** Los recortes se extenderían hasta el primer semestre de 2026 y durante todo ese año.\n• **Responsables:** Manuel Adorni (Jefe de Gabinete) y Federico Sturzenegger (Ministro de Desregulación y Transformación del Estado).\n• **Entidades afectadas:** Unas 101 entidades ya fueron cerradas o modificadas hasta julio de 2025.\n\n⚡ **Desarrollo:**\n• El plan inicial se concentró en la administración centralizada, pero ahora el foco se traslada a organismos descentralizados.\n• Entre los entes bajo revisión profunda figuran la AFIP, ANMAT, CONICET, INDEC, ANSES, INTA, INTI, ENACOM y Medios Públicos.\n• La estrategia incluye no renovar contratos que vencen (especialmente en diciembre) y eliminar duplicaciones funcionales.\n• También se evalúa la fusión o cierre de organismos y el avance hacia posibles privatizaciones, como registros o empresas estatales.\n• El presidente Javier Milei impulsa la política de ajuste, manteniendo una réplica de la \"motosierra\" como símbolo de eficiencia estatal.\n• El presupuesto de 2026 establecerá un régimen estricto: ninguna jurisdicción podrá cubrir vacantes sin autorización de Jefatura de Gabinete.\n• Estas acciones ya generan tensión con los sindicatos y anticipan resistencia gremial ante los inminentes despidos.\n\n💡 **¿Por qué importa?**\n• Implica un reordenamiento masivo del empleo público, afectando a miles de familias y generando incertidumbre laboral en todo el país.\n• Modifica sustancialmente el rol y tamaño del Estado argentino, buscando una reducción del gasto público y una mayor eficiencia en la provisión de servicios.",
-      "cantidad_noticias": 3,
+      "tema_id": "congreso:_pugna_por_20251130",
+      "tema": "Congreso: pugna por primera minoría",
+      "tema_normalizado": "congreso: pugna por primera minoria",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Libertad Avanza (LLA) y Unión por la Patria (UP) están en una reñida disputa por la primera minoría en la Cámara de Diputados de Argentina.\n• El bloque que logre este puesto clave obtendrá más poder en la Cámara, controlando espacios estratégicos y comisiones legislativas.\n• El oficialismo ha reducido drásticamente la ventaja inicial de UP atrayendo a legisladores de otros partidos, generando suspenso hasta último minuto.\n\n🔍 **Datos clave:**\n• **LLA actual:** 94 diputados.\n• **UP actual:** 97 diputados (con riesgo de perder más bancas).\n• **Diputados clave:** Los 4 legisladores del PJ de Catamarca, que responden al gobernador Raúl Jalil, y el puntano Jorge “Gato” Fernández.\n• **Fecha clave:** El próximo miércoles, jura de los diputados electos y designación de autoridades de la Cámara.\n• **Comisión estratégica:** Comisión de Presupuesto, vital para la aprobación del Presupuesto 2026, primera ley en la agenda libertaria.\n• **Pases recientes a LLA:** Alejandro Bongiovanni y Verónica Razzini (ambos ex PRO).\n• **Bloque propio en Senado:** Gerardo Zamora (Santiago del Estero) confirmó su propio bloque (\"Frente Cívico por Santiago\") con Elia Moreno.\n• **Pérdida UP:** El tucumano Javier Noguera ya se desprendió de UP.\n\n⚡ **Desarrollo:**\n• Inicialmente, UP tenía una ventaja de casi 20 escaños (98 a 80) sobre LLA en Diputados tras las elecciones legislativas.\n• LLA achicó la distancia a 94 miembros, sumando pases del PRO y la UCR, mientras UP perdió al menos uno y teme mayores deserciones.\n• La definición de la primera minoría depende de un puñado de legisladores, principalmente los cuatro de Catamarca que responden al gobernador Raúl Jalil, quien evalúa formar un bloque propio.\n• Gobernadores peronistas, como Jalil, buscan una mayor flexibilidad para negociar con el Gobierno, desmarcándose de la conducción del PJ y planteando condiciones para evitar rupturas de bloques.\n• La decisión de Gerardo Zamora de formar un bloque propio en el Senado (\"Frente Cívico por Santiago\") genera incertidumbre sobre si sus 7 diputados en la Cámara baja replicarán esta medida.\n• Ser la primera minoría permite designar el vicepresidente primero de la Cámara y obtener la mayoría en las comisiones, instrumentos esenciales para la gobernabilidad y la aprobación de reformas.\n\n💡 **¿Por qué importa?**\n• Esta pugna define el equilibrio de poder en el Congreso, impactando directamente la capacidad del gobierno de Javier Milei para negociar y aprobar sus leyes clave, como el Presupuesto 2026.\n• Refleja una reconfiguración de las fuerzas políticas en el parlamento y dentro del propio peronismo, que busca mayor autonomía provincial y una postura más dialoguista.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "El Gobierno prepara un nuevo 'plan motosierra' y proyecta reducir un 10% de la planta estatal para 2026",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-prepara-un-nuevo-plan-motosierra-y-proyecta-reducir-un-10-de-la-planta-estatal-para-2026.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-29 19:43:00"
+          "titulo": "Agónica carrera entre LLA y UP por la primera minoría en la Cámara de Diputados: los siete legisladores claves que inclinarán la balanza",
+          "link": "https://www.lanacion.com.ar/politica/agonica-carrera-entre-lla-y-up-por-la-primera-minoria-en-la-camara-de-diputados-los-siete-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 03:15:51"
         },
         {
-          "titulo": "El Gobierno avanza con un nuevo achique del Estado y quiere reducir un 10% el personal",
-          "link": "https://www.clarin.com/politica/gobierno-avanza-nuevo-achique-estado-quiere-reducir-10-personal_0_tpP1IFUlsM.html",
+          "titulo": "Los gobernadores peronistas se desmarcan de Cristina Kirchner: qué condiciones ponen para no romper los bloques en el Congreso",
+          "link": "https://www.clarin.com/politica/gobernadores-peronistas-desmarcan-cristina-kirchner-condiciones-ponen-romper-bloques-congreso_0_woNutVKmFP.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-29 18:09:21"
+          "fecha": "2025-11-29 18:39:39"
         },
         {
-          "titulo": "Aseguran que el Gobierno reducirá la planta del Estado \"otro diez por ciento\" en 2026",
-          "link": "https://www.minutouno.com/politica/aseguran-que-el-gobierno-reducira-la-planta-del-estado-otro-diez-ciento-2026-n6219052",
+          "titulo": "Pelea por el dominio en Diputados: LLA ya tiene 94 legisladores y el PJ queda a punto de perder la primera minoría",
+          "link": "https://www.clarin.com/politica/pelea-dominio-diputados-lla-94-legisladores-pj-queda-punto-perder-primera-minoria_0_49guyhfKpY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 18:39:26"
+        },
+        {
+          "titulo": "Gerardo Zamora no se sumará al bloque peronista en el Senado y ahora las miradas apuntan a Diputados",
+          "link": "https://www.ambito.com/politica/gerardo-zamora-no-se-sumara-al-bloque-peronista-el-senado-y-ahora-las-miradas-apuntan-diputados-n6219098",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-29 17:22:00"
+        },
+        {
+          "titulo": "Otro golpe para los K, Zamora tendrá su propio bloque en el Senado y jugaría por fuera del peronismo",
+          "link": "https://www.clarin.com/politica/golpe-k-zamora-propio-bloque-senado-jugaria-peronismo_0_v5aEMqcDlv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-11-29 15:14:26"
+        },
+        {
+          "titulo": "LLA sumó a otro diputado del PRO a su bloque: de quién se trata",
+          "link": "https://www.minutouno.com/politica/lla-sumo-otro-diputado-del-pro-su-bloque-quien-se-trata-n6218997",
           "fuente": "Minuto1",
-          "fecha": "2025-11-29 13:30:00"
+          "fecha": "2025-11-29 09:05:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-11-30",
       "fuentes": [
+        "La Nación",
         "Minuto1",
         "Clarín",
-        "Perfil"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -258,61 +402,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "presion_de_trump_20251130",
-      "tema": "Presión de Trump sobre Venezuela",
-      "tema_normalizado": "presion de trump sobre venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El expresidente de Estados Unidos, Donald Trump, intensificó la presión sobre Venezuela, declarando que el espacio aéreo del país caribeño debía considerarse \"cerrado en su totalidad\".\n*   Esta advertencia, dirigida a aerolíneas, pilotos y traficantes, formó parte de una campaña de Trump para combatir el narcotráfico y forzar un cambio de régimen en Venezuela.\n*   El gobierno de Nicolás Maduro rechazó enérgicamente la declaración, calificándola de \"acto hostil, unilateral y arbitrario\", y una amenaza directa a su soberanía.\n\n🔍 **Datos clave:**\n*   **Declaración clave:** Trump avisó que el espacio aéreo venezolano \"permanecerá cerrado en su totalidad\" en su red social Truth.\n*   **Portavoz venezolano:** El canciller Yván Gil Pinto condenó la medida y exigió respeto irrestricto del espacio aéreo bajo normas de la OACI.\n*   **Despliegue militar:** El portaaviones nuclear USS Gerald R. Ford fue enviado al Mar Caribe, frente a Venezuela.\n*   **Designación:** El \"Cartel de los Soles\", supuestamente liderado por Maduro, fue designado por EE.UU. como Organización Terrorista Extranjera (OTE) antes del 24 de noviembre.\n*   **Contradicción:** Trump anunció el indulto total para Juan Orlando Hernández, expresidente de Honduras, condenado en EE.UU. por narcotráfico.\n\n⚡ **Desarrollo:**\n*   Donald Trump mantuvo una conversación telefónica con Nicolás Maduro, advirtiéndole sobre el aumento de acciones militares si no abandonaba Caracas en el corto plazo; Marco Rubio también participó en la llamada.\n*   El objetivo declarado por Trump era \"terminar con los carteles de la droga\" que, según EE.UU., operaban bajo protección del Palacio de Miraflores, pidiendo la salida de Maduro y figuras como Diosdado Cabello y Delcy Rodríguez.\n*   Venezuela exigió respeto de su espacio aéreo, señalando que la declaración de Trump constituía una \"amenaza explícita de uso de fuerza\" prohibida por la Carta de las Naciones Unidas.\n*   El gobierno venezolano también repudió la suspensión unilateral de vuelos de migrantes venezolanos por parte de EE.UU. y recordó la repatriación de 13.956 migrantes en 75 vuelos.\n*   Se conoció que Maduro había ofrecido a EE.UU. participación en campos petroleros buscando permanecer en el poder, pero estas negociaciones se rompieron.\n*   La intención de Trump de indultar a Juan Orlando Hernández, acusado de permitir el flujo de cocaína desde Venezuela, generó críticas por la disonancia en la estrategia antidrogas de su administración.\n\n💡 **¿Por qué importa?**\n*   Las acciones de Trump intensificaron drásticamente la tensión geopolítica entre EE.UU. y Venezuela, elevando la posibilidad de nuevas escaladas militares y sanciones.\n*   La contradictoria política de Trump, al combinar amenazas con el indulto a un narcotraficante, generó dudas sobre la coherencia y los verdaderos motivos detrás de su estrategia en la lucha contra el narcotráfico en la región.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Donald Trump muestra contradicciones al anunciar el indulto de un narcotraficante y amenazar a Venezuela",
-          "link": "https://www.clarin.com/mundo/donald-trump-muestra-contradicciones-anunciar-indulto-narcotraficante-amenazar-venezuela_0_lwKk5nqlNd.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 20:05:43"
-        },
-        {
-          "titulo": "Venezuela califica de \"hostil e inmoral\" la advertencia de Trump sobre su espacio aéreo",
-          "link": "https://www.clarin.com/mundo/venezuela-califica-hostil-inmoral-advertencia-trump-espacio-aereo_0_ZoojV67pvO.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 17:41:22"
-        },
-        {
-          "titulo": "Donald Trump reclamó cerrar completamente el espacio aéreo de Venezuela y endureció la presión sobre Nicolás Maduro",
-          "link": "https://www.ambito.com/mundo/donald-trump-reclamo-cerrar-completamente-el-espacio-aereo-venezuela-y-endurecio-la-presion-nicolas-maduro-n6219038",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 12:13:00"
-        },
-        {
-          "titulo": "Trump redobla su presión contra Maduro y advierte: \"El espacio aéreo de Venezuela debe considerarse cerrado totalmente\"",
-          "link": "https://www.clarin.com/mundo/trump-redobla-presion-maduro-advierte-espacio-aereo-venezuela-debe-considerarse-cerrado-totalmente_0_WNyhVhcPT9.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 10:31:55"
-        },
-        {
-          "titulo": "Donald Trump amenazó por teléfono a Nicolás Maduro con más acciones militares cerca de Venezuela",
-          "link": "https://www.minutouno.com/mundo/donald-trump-amenazo-telefono-nicolas-maduro-mas-acciones-militares-cerca-venezuela-n6219005",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-29 09:25:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Minuto1",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cotizacion_diaria_dolar_20251130",
-      "tema": "Cotización diaria dólar y euro",
-      "tema_normalizado": "cotizacion diaria dolar y euro",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina se prepara para el lunes 1° de diciembre de 2025 con cotizaciones actualizadas del dólar en sus diversas modalidades y del euro, tras movimientos registrados en la última semana y mes de noviembre.\n• El dólar oficial del Banco Nación se fija en $1.475, mientras que el dólar tarjeta, el Contado Con Liquidación (CCL), el Mercado Electrónico de Pagos (MEP) y el blue presentan valores distintos.\n• Los dólares financieros (CCL y MEP) y el dólar tarjeta han mostrado aumentos semanales y mensuales, en un contexto de situación de reservas y vencimientos de deuda.\n\n🔍 **Datos clave:**\n• **Dólar Banco Nación (venta 1° dic):** $1.475 (suba de $25 semanal, $50 desde mediados de noviembre).\n• **Dólar Blue (1° dic):** $1.435.\n• **Dólar Tarjeta (29 nov):** $1.917,50 (suba 2% semanal, 1% mensual).\n• **Dólar CCL (29 nov):** Compra $1.514,30 / Venta $1.515,10 (suba 2% semanal, 2% mensual).\n• **Dólar MEP (29 nov):** Compra $1.474,40 / Venta $1.476,90 (suba 1% semanal, 1% mensual).\n• **Euro Oficial (29 nov):** Compra $1.684,29 / Venta $1.688,03 (se mantiene estable).\n• **Euro Blue (29 nov):** Compra $1.636,59 / Venta $1.659,72 (sube respecto al último informado).\n• **Reservas BCRA (mediados nov):** u$s41.901 millones.\n• **Vencimientos de Tesoro (diciembre):** Más de $40 billones.\n\n⚡ **Desarrollo:**\n• El dólar oficial en el Banco Nación es una referencia clave y mostró una tendencia alcista previo al inicio de diciembre.\n• Existen múltiples cotizaciones del dólar: el oficial (bancos), el blue (mercado paralelo), el tarjeta (para consumos en el exterior con un 60% de impuestos), y los financieros como el CCL y el MEP.\n• El dólar Tarjeta es el valor más alto debido a una carga impositiva del 60%, compuesta por el 30% del Impuesto PAÍS y el 30% de Ganancias.\n• Los dólares financieros (CCL y MEP) son herramientas para adquirir divisas a través de la compra y venta de bonos, siendo el CCL un método utilizado para sacar dólares del país legalmente.\n• La situación cambiaria se enmarca en un contexto de reservas del Banco Central que alcanzaron u$s41.901 millones y grandes vencimientos de deuda del Tesoro en pesos ($40 billones en diciembre).\n• El euro presenta una cotización oficial y una versión \"blue\" que opera en el mercado informal; esta última, al igual que el dólar blue, suele tener un valor más alto que el oficial y surgió por restricciones cambiarias desde 2011.\n\n💡 **¿Por qué importa?**\n• La diversidad de cotizaciones del dólar y el euro afecta directamente la economía diaria, incidiendo en el costo de bienes, servicios, viajes al exterior y la capacidad de ahorro de los ciudadanos.\n• El comportamiento de estas divisas es un indicador clave de la estabilidad económica del país, la presión sobre las reservas internacionales y las expectativas inflacionarias, especialmente ante los desafíos de vencimientos de deuda.",
-      "cantidad_noticias": 5,
+      "tema_id": "cotizacion_dolar_distintos_20251130",
+      "tema": "Cotización Dólar distintos tipos",
+      "tema_normalizado": "cotizacion dolar distintos tipos",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se han confirmado las cotizaciones de distintos tipos de dólar para el inicio de diciembre de 2025 y el final de noviembre, mostrando una diversidad de valores.\n• El dólar oficial en Banco Nación se establece en $1.475 para la venta, mientras que otras variantes como el blue, tarjeta, CCL y MEP presentan sus propias cifras.\n• Estas cotizaciones reflejan movimientos recientes y diferencias significativas entre sí, impactando diversas operaciones económicas y financieras.\n\n🔍 **Datos clave:**\n• **Dólar Oficial Banco Nación:** $1.475 para la venta (1° de diciembre de 2025).\n• **Dólar Blue:** $1.435 (1° de diciembre de 2025).\n• **Dólar Tarjeta:** $1917,50 (29 de noviembre de 2025).\n• **Dólar CCL (Contado con Liquidación):** $1515,10 para la venta (29 de noviembre de 2025).\n• **Dólar MEP (Bolsa):** $1476,90 para la venta (29 de noviembre de 2025).\n\n⚡ **Desarrollo:**\n• El **Dólar Oficial** es la cotización de referencia en los bancos para transacciones reguladas, como la mostrada por el Banco Nación.\n• El **Dólar Blue** es el valor de la divisa en el mercado informal, operando fuera de las regulaciones bancarias y cambiarias.\n• El **Dólar Tarjeta** se aplica a los consumos y compras en el exterior con tarjetas de débito o crédito, así como a la adquisición de pasajes y paquetes turísticos fuera de Argentina. Se compone del dólar oficial más un 30% de Impuesto País y un 30% de Impuesto a las Ganancias (un recargo total del 60%).\n• El **Dólar MEP** (Mercado Electrónico de Pagos o Dólar Bolsa) es una opción legal para comprar dólares mediante la adquisición de un bono en pesos y su posterior venta en dólares en el mercado local.\n• El **Dólar CCL** (Contado con Liquidación) es similar al MEP, pero permite convertir pesos a dólares para transferirlos a una cuenta en el exterior, comprando un bono en pesos y vendiéndolo en su especie en el extranjero.\n• Las cotizaciones del dólar tarjeta, CCL y MEP han mostrado incrementos en noviembre de 2025 en comparación con el mes anterior y el año pasado.\n• Existen brechas notables entre los distintos tipos de cambio, como la del dólar tarjeta con el blue (36%) o la del CCL con el MEP (7%).\n\n💡 **¿Por qué importa?**\n• La existencia de múltiples cotizaciones del dólar impacta directamente el poder adquisitivo, las decisiones de consumo y las estrategias financieras de individuos y empresas en Argentina.\n• Conocer las diferencias y los mecanismos de cada tipo de dólar es crucial para comprender la economía local, planificar gastos en moneda extranjera y ejecutar operaciones financieras eficientemente.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
           "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este lunes 1° de diciembre",
@@ -337,12 +431,6 @@
           "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-sabado-29-noviembre_0_lZVSnuv7eb.html",
           "fuente": "Clarín",
           "fecha": "2025-11-29 07:05:01"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este sábado 29 de noviembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-sabado-29-noviembre_0_XFCtyau52D.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-29 07:00:01"
         }
       ],
       "categoria_principal": "economia",
@@ -350,99 +438,6 @@
       "fuentes": [
         "iProfesional",
         "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_y_20251130",
-      "tema": "Reforma laboral y paro gremial",
-      "tema_normalizado": "reforma laboral y paro gremial",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino impulsa una reforma laboral clave para reducir la informalidad y mejorar la competitividad del país.\n• Esta iniciativa genera fuerte rechazo en gremios como ATE, que anunciaron un paro nacional y movilización al Congreso.\n• Por otro lado, grandes empresas apoyan los cambios propuestos, buscando reducir costos y aumentar la productividad.\n\n🔍 **Datos clave:**\n• **43.2%**: Porcentaje de trabajadores argentinos en la informalidad (\"en negro\"), según los últimos datos del Indec.\n• **150.000**: Número aproximado de empleados que representan las grandes empresas (ej. Coto, Techint, Mercado Libre) que opinaron sobre la reforma.\n• **Rodolfo Aguiar**: Secretario General de ATE, quien anunció la huelga nacional y advirtió sobre un \"diciembre muy caliente\".\n• **Martín Rappallini**: Presidente de la UIA, que espera mejoras en la competitividad y reducción de la litigiosidad laboral.\n• **13.6% vs. 24.8%**: Aumento salarial promedio de estatales de enero a octubre vs. la inflación en el mismo período, según ATE.\n\n⚡ **Desarrollo:**\n• La reforma laboral busca ser tratada en sesiones extraordinarias del Congreso, tras su discusión en el \"Consejo de Mayo\" con representantes empresariales, gremiales y legislativos.\n• Las grandes empresas, agrupadas en la UIA, enfatizan la necesidad de reducir la alta litigiosidad, disminuir los costos laborales y obtener mayor facultad para administrar la productividad interna.\n• ATE rechaza la reforma, considerándola escrita en \"oficinas de Techint\" y un intento del Gobierno de imponer cambios sin consenso.\n• El sindicato estatal decretó un paro nacional con movilización al Congreso para el día en que se trate el proyecto, sumado a posibles protestas sorpresivas en diciembre.\n• ATE también denuncia la falta de una oferta salarial concreta para el personal estatal, lo que, combinado con la inflación, genera un deterioro del poder adquisitivo.\n• El contexto incluye una crisis industrial con despidos en empresas como Whirlpool o Essen, que los gremios utilizan para criticar el modelo económico.\n\n💡 **¿Por qué importa?**\n• La reforma podría transformar significativamente el mercado laboral, impactando la formalidad, los costos empresariales y los derechos de los trabajadores.\n• El conflicto abierto entre el Gobierno, el sector empresarial y los sindicatos augura un escenario de alta conflictividad social y política, con repercusiones en la actividad económica.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Clima de negocios: Qué opinan las empresas argentinas que más empleados contratan de la reforma laboral de Milei",
-          "link": "https://www.infobae.com/economia/2025/11/30/clima-de-negocios-que-opinan-las-empresas-argentinas-que-mas-empleados-contratan-de-la-reforma-laboral-de-milei/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 00:38:23"
-        },
-        {
-          "titulo": "Gremio clave anunció paro con movilización al Congreso cuando se trate la reforma laboral",
-          "link": "https://www.iprofesional.com/economia/442966-ate-dispuso-un-paro-con-movilizacion-al-congreso-cuando-se-trate-la-reforma-laboral",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-29 13:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Infobae",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "retorno_argentina_a_20251130",
-      "tema": "Retorno Argentina a mercados deuda",
-      "tema_normalizado": "retorno argentina a mercados deuda",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Ministerio de Economía de Argentina, liderado por Luis Caputo, evalúa volver a los mercados internacionales de deuda por primera vez desde 2018.\n• Esto busca obtener los dólares necesarios para afrontar vencimientos de deuda en enero por USD 4.200 millones, ante la escasez de reservas en el Banco Central.\n\n🔍 **Datos clave:**\n• **USD 4.200 millones:** Monto de vencimientos de deuda a afrontar en enero.\n• **2018:** Último año de emisión internacional de deuda de Argentina.\n• **185 puntos básicos (pb):** Mínimo histórico del riesgo país (EMBI) alcanzado en 2006.\n• **650 puntos básicos (pb):** Nivel actual aproximado del riesgo país tras las elecciones.\n• **96,3%:** Tasa de rollover obtenida por el Tesoro en una reciente licitación de deuda en pesos.\n• **USD 8.000 millones:** Cobertura cambiaria del sector privado actual, en descenso desde USD 15.287 millones pre-elecciones.\n\n⚡ **Desarrollo:**\n• Argentina ha tenido un acceso esporádico a los mercados internacionales; un período destacado fue entre 2016 y 2018 bajo Mauricio Macri y Luis Caputo, que incluyó el \"Bono Centenario\" de 2017.\n• En 2005, el país reestructuró el 76% de sus USD 82.000 millones en deuda en default de la crisis de 2001, lo que permitió una baja del riesgo país de más de 7.000 pb a un mínimo de 185 pb en 2006.\n• Sin embargo, desde 2007, el acceso se complicó por el aumento del gasto público (55% en 2008) y las crisis globales, haciendo que el riesgo país escalara nuevamente, superando los 2.000 pb.\n• Actualmente, el riesgo país descendió de 1.100 pb a unos 650 pb tras las recientes elecciones, creando un ambiente más propicio para la deuda.\n• La posible reapertura del mercado dependerá de factores como la presentación de reformas en el Congreso, novedades sobre un acuerdo de repo con bancos para el pago de enero y un potencial aumento en la compra de reservas del Tesoro.\n• Adicionalmente, el Tesoro logró un exitoso rollover del 96,3% en una licitación de $14,5 billones de deuda en pesos, extendiendo plazos y suavizando el perfil de vencimientos.\n\n💡 **¿Por qué importa?**\n• Volver a los mercados internacionales es crucial para Argentina, ya que le permitiría obtener fondos frescos para cumplir con sus obligaciones de deuda, especialmente ante la escasez de reservas.\n• Una vuelta exitosa podría mejorar la confianza de los inversores, reducir el costo de endeudamiento a largo plazo y normalizar la relación del país con el sistema financiero global.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Argentina cerca de volver a los mercados para pagar deuda: antecedentes, desafíos y riesgo del retorno al crédito internacional",
-          "link": "https://www.infobae.com/economia/2025/11/30/argentina-cerca-de-volver-a-los-mercados-para-pagar-deuda-antecedentes-desafios-y-riesgo-del-retorno-al-credito-internacional/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 01:11:52"
-        },
-        {
-          "titulo": "A la espera de razones para un retorno a los mercados",
-          "link": "https://www.lanacion.com.ar/economia/a-la-espera-de-razones-para-un-retorno-a-los-mercados-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 00:01:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Infobae",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "aumento_tarifas_servicios_20251130",
-      "tema": "Aumento tarifas servicios públicos",
-      "tema_normalizado": "aumento tarifas servicios publicos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se implementan y anuncian nuevos aumentos en las tarifas de servicios públicos esenciales como el transporte, los peajes, la electricidad y el gas.\n• Estas medidas buscan \"recomponer el atraso\" tarifario y modificar el sistema de subsidios estatales.\n\n🔍 **Datos clave:**\n• **Transporte y Peajes (AMBA):** Aumento del 4,3% para Ciudad y 10% adicional para provincia a partir de diciembre.\n• **Boleto mínimo colectivos:** $593,52 (Ciudad), $658 (Gran Buenos Aires), $494,83 (jurisdicción nacional).\n• **Subte:** Costo de $1.206 por viaje en la Ciudad.\n• **Peajes porteños (hora pico):** Hasta $4.912,67 en autopistas como Perito Moreno y 25 de Mayo.\n• **Subsidios de luz y gas:** Nuevo esquema de Subsidios Energéticos Focalizados (SEF) regirá desde el 1° de enero de 2026.\n• **Hogares sin subsidios:** 7,5 millones de familias (aproximadamente el 45% de la población) dejarán de recibirlos a partir de 2026.\n• **Ahorro fiscal:** El Gobierno proyecta un ahorro de U$S 1.000 millones en subsidios energéticos para 2026.\n\n⚡ **Desarrollo:**\n• Los incrementos en el transporte y peajes del AMBA se justifican en la necesidad de equiparar los costos reales y la alta cobertura de subsidios actuales.\n• El Gobierno de la Ciudad también promueve la modernización de las flotas de colectivos, incluyendo la migración a energías limpias, con obligatoriedad para nuevas unidades desde enero de 2027.\n• En el sector energético, el Ministerio de Economía lanzó una consulta pública para definir el nuevo régimen de subsidios, que busca asistir \"solamente a quienes lo necesitan\".\n• Este nuevo esquema eliminará las categorías de ingresos (N1, N2, N3) y establecerá un sistema binario de hogares con y sin subsidios.\n• Se excluirán de los subsidios energéticos a quienes superen tres canastas básicas de ingresos ($3.641.397 mensuales), posean tres o más vehículos o inmuebles, o bienes de lujo.\n\n💡 **¿Por qué importa?**\n• El aumento generalizado de tarifas impacta directamente el bolsillo de la ciudadanía, afectando el costo de vida y el presupuesto familiar.\n• La redefinición de los subsidios energéticos representa un cambio estructural en la política económica, con el objetivo de reducir el gasto público y focalizar la asistencia estatal.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Nuevo aumento para transportes y peajes: qué tarifas regirán en el AMBA",
-          "link": "https://www.ambito.com/economia/nuevo-aumento-transportes-y-peajes-que-tarifas-regiran-el-amba-n6219016",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-29 11:08:00"
-        },
-        {
-          "titulo": "Tarifas: el Gobierno implementará un nuevo régimen de subsidios y subirán los precios para luz y gas",
-          "link": "https://www.iprofesional.com/economia/442873-tarifas-como-sera-el-nuevo-regimen-de-subsidios-para-luz-y-gas-desde-enero-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-29 07:44:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-11-30",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
