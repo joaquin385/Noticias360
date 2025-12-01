@@ -1,58 +1,13 @@
 {
   "fecha": "2025-12-01",
-  "fecha_generacion": "2025-12-01T04:16:43.875879",
+  "fecha_generacion": "2025-12-01T06:29:03.323591",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "politica_argentina:_renuncia_20251201",
-      "tema": "Política Argentina: Renuncia Bullrich Seguridad",
-      "tema_normalizado": "politica argentina: renuncia bullrich seguridad",
-      "resumen": "📌 **¿Qué está pasando?**\n* Patricia Bullrich formalizó su renuncia al cargo de Ministra de Seguridad de la Nación.\n* Su salida, comunicada mediante una carta al presidente Javier Milei, se hará efectiva a partir del 1° de diciembre de 2025.\n* La exministra asume su banca como senadora nacional, y será reemplazada por Alejandra Monteoliva en la cartera de Seguridad.\n\n🔍 **Datos clave:**\n* **Fecha de renuncia efectiva:** 1° de diciembre de 2025.\n* **Fecha de asunción como senadora:** 10 de diciembre (las noticias indican que ya juró como legisladora).\n* **Nueva Ministra de Seguridad:** Alejandra Monteoliva, quien era la segunda al mando en la cartera.\n* **Nuevo rol de Bullrich:** Jefa del bloque de senadores de La Libertad Avanza.\n* **Doctrina de gestión:** Denominada \"de seguridad y orden\", destacada por el gobierno y la propia Bullrich.\n\n⚡ **Desarrollo:**\n* Bullrich expresó su profundo agradecimiento al presidente Milei por la confianza y el respaldo para ejecutar la doctrina de seguridad que \"hoy prevalece en el país\".\n* En su carta y mensajes, reafirmó que desde el Congreso continuará defendiendo \"las reformas que el país necesita\" y valores fundamentales como \"instituciones fuertes, ley, orden y libertad\".\n* Elogió públicamente a su sucesora, Alejandra Monteoliva, destacando su \"capacidad, experiencia y compromiso\" para profundizar el camino iniciado en seguridad.\n* La gestión de Bullrich en Seguridad fue central para el gobierno, aplicando el Protocolo de Orden Público, desplegando operativos federales y acciones contra el narcotráfico.\n* Tras jurar como legisladora, tuvo un \"cortocircuito\" con la vicepresidenta Victoria Villarruel en el Senado, cuando se le negó la palabra en la sesión especial.\n* El asesor presidencial Santiago Caputo celebró la gestión de Bullrich, afirmando que su legado será recordado como la \"Doctrina Bullrich\", un cambio de paradigma en la seguridad argentina.\n\n💡 **¿Por qué importa?**\n* Este movimiento busca asegurar la continuidad de la \"doctrina de seguridad y orden\" del gobierno de Javier Milei en una de sus áreas más sensibles.\n* Patricia Bullrich se consolida como una figura política clave, ahora desde el Poder Legislativo, liderando la bancada oficialista en un período de profundas reformas.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Patricia Bullrich formalizó su renuncia en Seguridad para defender \"las reformas que el país necesita\"",
-          "link": "https://www.minutouno.com/politica/patricia-bullrich-formalizo-su-renuncia-seguridad-defender-las-reformas-que-el-pais-necesita-n6219319",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:46:00"
-        },
-        {
-          "titulo": "Patricia Bullrich formalizó su salida del Ministerio de Seguridad ante Javier Milei",
-          "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-dejo-el-ministerio-de-seguridad-y-formalizo-su-salida-ante-milei.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 22:30:00"
-        },
-        {
-          "titulo": "Bullrich oficializó su renuncia y le mandó un mensaje a Milei",
-          "link": "https://www.lanacion.com.ar/politica/bullrich-oficializo-su-renuncia-y-le-mando-un-mensaje-a-milei-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 21:42:17"
-        },
-        {
-          "titulo": "Patricia Bullrich presentó su renuncia como ministra de Seguridad",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-presento-su-renuncia-como-ministra-seguridad-n6219318",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 20:29:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "diplomacia_eeuu-venezuela:_tension_20251201",
-      "tema": "Diplomacia EEUU-Venezuela: Tensión Trump-Maduro",
-      "tema_normalizado": "diplomacia eeuu-venezuela: tension trump-maduro",
-      "resumen": "📌 **¿Qué está pasando?**\n• La relación entre Estados Unidos (bajo Donald Trump) y Venezuela (bajo Nicolás Maduro) se caracterizó por una alta tensión diplomática y militar.\n• Trump desplegó fuerzas militares en el Caribe, anunciando un \"cierre total\" del espacio aéreo venezolano, bajo el pretexto de combatir el narcotráfico.\n• Simultáneamente, se reveló que EE.UU. ofreció a Maduro exiliarse en otros países y que los dos presidentes mantuvieron una conversación telefónica directa.\n\n🔍 **Datos clave:**\n• **Actores principales:** Donald Trump (EE.UU.) y Nicolás Maduro (Venezuela).\n• **Funcionarios clave:** Senadores Markwayne Mullin y Lindsey Graham, Secretario de Estado Marco Rubio.\n• **Elecciones venezolanas:** Disputadas en 2024, según la oposición.\n• **Operaciones antidrogas:** Más de 83 muertos en el Caribe y Pacífico oriental.\n• **Acusación de EE.UU.:** Maduro y el \"Cartel de los Soles\" designados como organización terrorista.\n• **Ofertas de exilio:** Rusia, Turquía, Irán.\n\n⚡ **Desarrollo:**\n• Estados Unidos intensificó su \"política de máxima presión\" contra el gobierno de Maduro, incluyendo un amplio despliegue militar en el Mar Caribe con destructores y aviones de combate. Esta acción fue justificada como una ofensiva contra el narcotráfico.\n• Pese a la escalada, el senador republicano Markwayne Mullin afirmó que EE.UU. ofreció a Maduro la posibilidad de exiliarse en \"Rusia u otro país\" como parte de una salida negociada.\n• Se confirmó que Donald Trump y Nicolás Maduro conversaron por teléfono, aunque no se hicieron públicos los detalles. Este contacto directo sugirió la posibilidad de negociaciones en curso.\n• Trump anunció un \"cierre total\" del espacio aéreo sobre Venezuela y sus alrededores, medida que el gobierno de Maduro calificó de \"hostil\" y \"colonial\", y a la que respondió con ejercicios militares en la costa.\n• El gobierno de Colombia desmintió las alertas externas sobre el espacio aéreo venezolano, defendiendo el derecho internacional y la soberanía aérea de Venezuela, y asegurando que su espacio aéreo permanece abierto.\n• Venezuela acusó a EE.UU. de utilizar la lucha antidrogas como pretexto para buscar un cambio de régimen y controlar sus vastas reservas petroleras, buscando apoyo en foros como la OPEP+.\n• Internamente, Maduro ha logrado mantener la lealtad militar, en parte, a través de redes de corrupción y un sistema de castigo para los desleales, dificultando los intentos de derrocarlo.\n• Críticos señalaron una \"doble vara\" en la política de Trump, al comparar la presión sobre Venezuela con el indulto a un expresidente hondureño previamente condenado por narcotráfico en EE.UU.\n\n💡 **¿Por qué importa?**\n• Esta situación aumenta la inestabilidad en la región, impactando la seguridad aérea internacional y generando incertidumbre sobre el cumplimiento del derecho internacional.\n• Refleja la complejidad de las relaciones internacionales, donde la presión militar y las negociaciones diplomáticas directas coexisten, afectando la política y economía de Venezuela.",
+      "tema_id": "trump-maduro_talks_venezuela_20251201",
+      "tema": "Trump-Maduro Talks Venezuela Tensions",
+      "tema_normalizado": "trump-maduro talks venezuela tensions",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Donald Trump y Nicolás Maduro confirmaron haber sostenido una conversación telefónica reciente en medio de una intensa escalada de tensiones entre Estados Unidos y Venezuela.\n*   La administración Trump ha ejercido máxima presión, ofreciendo a Maduro la opción de exiliarse y advirtiendo sobre el \"cierre total\" del espacio aéreo venezolano.\n*   Venezuela, por su parte, ha rechazado las acciones de EE. UU., calificándolas de hostiles, y ha denunciado un intento de cambio de régimen y apropiación de sus recursos petroleros.\n\n🔍 **Datos clave:**\n*   **Actores principales:** Donald Trump (expresidente de EE. UU.) y Nicolás Maduro (presidente de Venezuela).\n*   **Oferta de exilio:** El senador republicano Markwayne Mullin afirmó que EE. UU. ofreció a Maduro \"irse a Rusia u otro país\". Otros senadores sugirieron Turquía o Irán.\n*   **Conversación telefónica:** Ocurrió en la última semana de noviembre de 2024, días antes de las advertencias públicas de Trump sobre el espacio aéreo venezolano.\n*   **Operaciones militares:** EE. UU. ha lanzado bombardeos y ataques contra embarcaciones cargadas con droga en el Caribe y Pacífico oriental, con un saldo de más de 83 muertos.\n*   **Elecciones 2024:** Maduro fue reelegido en unas elecciones calificadas de \"robadas\" por la oposición.\n*   **Sueldo militar:** Soldados rasos venezolanos ganan aproximadamente $100 al mes.\n\n⚡ **Desarrollo:**\n*   Trump anunció en Truth Social el \"cierre total\" del espacio aéreo \"sobre y alrededor de Venezuela\" para \"aerolíneas, pilotos, narcotraficantes y traficantes de personas\".\n*   Venezuela, a través del canciller Yván Gil y la vicepresidenta Delcy Rodríguez, calificó la medida de \"ilegal, arbitraria y colonial\", y activó un plan especial para vuelos y ciudadanos varados.\n*   Colombia, mediante su Ministerio de Transporte y Aeronáutica Civil, desmintió las alertas de cierre, afirmando que el espacio aéreo venezolano permanece abierto y operativo, y que las advertencias externas carecen de validez.\n*   Estados Unidos mantiene un importante despliegue militar en el Caribe, justificándolo como lucha antidrogas y acusando a Maduro de liderar un \"estado narcoterrorista\".\n*   Maduro ha negado las acusaciones, afirmando que Washington usa el pretexto antidrogas para provocar un cambio de régimen, controlar el petróleo y usar \"fuerza militar letal\".\n*   Aerolíneas como Air Europa e Iberia han cancelado o flexibilizado sus vuelos hacia y desde Venezuela debido a la incertidumbre y avisos de seguridad aérea de sus respectivos gobiernos.\n*   Venezuela ha respondido con nuevos ejercicios militares en la costa y la movilización de unidades armadas, además de buscar apoyo en la OPEP+ para \"detener la agresión\".\n*   Críticos señalaron una \"doble vara\" en la política de Trump, al amenazar a Maduro mientras anunciaba un indulto para un expresidente hondureño condenado por narcotráfico.\n\n💡 **¿Por qué importa?**\n*   La escalada de tensiones pone en riesgo la estabilidad regional, desafía el derecho internacional sobre soberanía aérea y podría tener graves implicaciones geopolíticas.\n*   Afecta la conectividad aérea, genera incertidumbre para viajeros y aerolíneas, y exacerba la crisis humanitaria al dificultar la asistencia a ciudadanos venezolanos.",
       "cantidad_noticias": 10,
       "noticias": [
         {
@@ -120,9 +75,9 @@
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
         "Infobae",
+        "Minuto1",
         "La Nación",
-        "Clarín",
-        "Minuto1"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -130,11 +85,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politica_argentina:_lla_20251201",
-      "tema": "Política Argentina: LLA Impulsa Reelección Milei",
-      "tema_normalizado": "politica argentina: lla impulsa reeleccion milei",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Libertad Avanza (LLA) realizó un congreso en Mar del Plata, encabezado por Karina Milei, donde se lanzó oficialmente la consigna para trabajar por la reelección del Presidente Javier Milei en 2027.\n*   El encuentro reunió a dirigentes bonaerenses para organizar la estrategia legislativa del partido, unificar criterios y abordar tensiones internas.\n\n🔍 **Datos clave:**\n*   **700+ dirigentes:** Participaron del congreso en Mar del Plata.\n*   **2027:** Año para el que se impulsa la reelección de Javier Milei.\n*   **Karina Milei:** Secretaria General de la Presidencia y titular de LLA, lideró el evento y pidió la reelección.\n*   **Martín Menem:** Presidente de la Cámara de Diputados, fue uno de los principales oradores.\n*   **Sebastián Pareja:** Armador provincial de LLA en Buenos Aires, fue el organizador del congreso.\n*   **Mar del Plata:** Ciudad con valor simbólico para LLA, elegida para el evento.\n\n⚡ **Desarrollo:**\n*   El congreso, denominado \"Seminario de Políticas Legislativas\", buscó trabajar la agenda legislativa de LLA para 2026 y coordinar acciones entre el Congreso, la Legislatura bonaerense y los concejos deliberantes.\n*   Entre los temas centrales abordados estuvieron las técnicas legislativas, herramientas para Consejos Escolares, análisis del Presupuesto y el debate sobre la Boleta Única de Papel.\n*   Karina Milei agradeció el \"crecimiento territorial\" del espacio y exhortó a seguir \"trabajando con fuerza para lograr las reformas que la Argentina necesita\".\n*   Martín Menem destacó el rápido armado del partido a nivel nacional en un año y el logro de \"una de las mejores elecciones desde el regreso de la democracia\".\n*   El evento también sirvió para intentar ordenar la interna de LLA en la provincia de Buenos Aires, con roces entre el sector de Sebastián Pareja y el grupo \"Las Fuerzas del Cielo\", cercano a Santiago Caputo.\n*   La iniciativa de Karina Milei busca consolidar el control sobre los bloques legislativos provinciales, implicando la posible remoción de figuras como Agustín Romo, vinculado a Caputo, de la jefatura de bancada.\n*   Pese a su rol protagónico, un relevamiento reciente de la Universidad de San Andrés arrojó que Karina Milei tiene un diferencial de imagen negativo de 45 puntos (65% negativa, 20% positiva).\n*   La elección de Mar del Plata recordó el sorteo del primer sueldo de Javier Milei como diputado en 2021, un hito que Karina Milei citó como el momento en que el proyecto libertario tomó fuerza.\n\n💡 **¿Por qué importa?**\n*   Este congreso marca el lanzamiento oficial de la estrategia de LLA para asegurar la continuidad de Javier Milei en la presidencia más allá de 2027, delineando el horizonte político del partido.\n*   Refuerza el rol central de Karina Milei en la consolidación interna de LLA y en el control de sus estructuras legislativas, particularmente en la estratégica provincia de Buenos Aires.",
-      "cantidad_noticias": 7,
+      "tema_id": "karina_milei_lla_20251201",
+      "tema": "Karina Milei LLA Reelection Push",
+      "tema_normalizado": "karina milei lla reelection push",
+      "resumen": "📌 **¿Qué está pasando?**\n• Karina Milei, Secretaria General de la Presidencia y titular de La Libertad Avanza (LLA), encabezó un congreso partidario en Mar del Plata.\n• Durante el encuentro, lanzó un pedido oficial para trabajar activamente por la reelección del presidente Javier Milei en 2027.\n• El evento también buscó unificar la estrategia legislativa del partido y consolidar su estructura territorial, especialmente en la provincia de Buenos Aires.\n\n🔍 **Datos clave:**\n• **Fecha del congreso:** Domingo [reciente, aunque no se especifica un día exacto, las noticias son recientes].\n• **Lugar:** Hotel Provincial de Mar del Plata.\n• **Asistentes:** Más de 700 o 750 dirigentes bonaerenses (legisladores, concejales, consejeros escolares y referentes distritales).\n• **Líderes presentes:** Karina Milei, Martín Menem (Presidente de la Cámara de Diputados), Sebastián Pareja (armador provincial de LLA).\n• **Consigna central:** \"Hay que ir por la reelección de Javier Milei\" en 2027.\n\n⚡ **Desarrollo:**\n• El congreso se presentó como un \"Seminario de Políticas Legislativas\", centrado en fortalecer a los dirigentes con responsabilidad legislativa y establecer una agenda de prioridades para el 2026. Se abordaron temas como técnicas legislativas, presupuesto y Boleta Única de Papel.\n• Karina Milei agradeció el crecimiento territorial de LLA y llamó a seguir trabajando con fuerza para lograr las reformas que Argentina necesita, buscando extender el gobierno nacional.\n• Mar del Plata fue elegida por su vínculo con Javier Milei, donde realizó el sorteo de su primer sueldo como diputado en 2021, un evento que ella recordó como fundacional para el proyecto libertario.\n• El encuentro también sirvió para consolidar el control de los bloques legislativos bonaerenses y ordenar la interna partidaria, en particular frente al sector de Santiago Caputo (\"Las Fuerzas del Cielo\"). Se notaron ausencias de diputados provinciales cercanos a Caputo.\n• Martín Menem destacó el rol de Karina Milei, atribuyéndole la sabiduría para \"ir a fondo\" y acelerar las reformas en un Congreso que calificó como \"muy duro\" en 2025.\n• Sebastián Pareja enfatizó la importancia de que LLA marque la agenda de cambios en la provincia de Buenos Aires, con miras a un futuro \"gobierno violeta\" en 2027.\n\n💡 **¿Por qué importa?**\n• Este evento marca el inicio formal de la campaña por la reelección de Javier Milei para 2027, con un liderazgo activo de su hermana Karina en la articulación política y partidaria.\n• Refleja un esfuerzo por consolidar y unificar la estructura de La Libertad Avanza en una provincia electoral clave como Buenos Aires, mientras se gestionan las tensiones internas del espacio.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
           "titulo": "Karina Milei encabezó un congreso de La Libertad Avanza en Mar del Plata",
@@ -167,12 +122,6 @@
           "fecha": "2025-11-30 17:15:31"
         },
         {
-          "titulo": "Karina Milei viajó a Mar del Plata y en Aeroparque se cansó de hacer selfies",
-          "link": "https://www.perfil.com/noticias/politica/karina-viajo-a-mar-del-plata-y-en-aeroparque-se-canso-de-hacer-selfies.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 14:24:49"
-        },
-        {
           "titulo": "Arde la interna en La Libertad Avanza: Karina Milei blinda bloques de la Legislatura bonaerense",
           "link": "https://www.ambito.com/politica/arde-la-interna-la-libertad-avanza-karina-milei-blinda-bloques-la-legislatura-bonaerense-n6219196",
           "fuente": "Ámbito Financiero",
@@ -182,11 +131,11 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "Perfil",
-        "La Nación",
         "Minuto1",
+        "Ámbito Financiero",
         "Clarín",
-        "Ámbito Financiero"
+        "La Nación",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -194,75 +143,62 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "economia_argentina:_aumentos_20251201",
-      "tema": "Economía Argentina: Aumentos y Bonos Diciembre",
-      "tema_normalizado": "economia argentina: aumentos y bonos diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre en Argentina se caracteriza por una combinación de importantes aumentos en servicios y productos, junto con la implementación de bonos y ajustes para ciertos sectores.\n• El Gobierno oficializó el pago de un bono extraordinario para jubilados y pensionados, además de aumentos en haberes y asignaciones familiares.\n• Paralelamente, se registrarán incrementos en tarifas de transporte, alquileres, prepagas y otros servicios esenciales.\n\n🔍 **Datos clave:**\n• Bono para jubilados y pensionados: hasta $70.000 (congelado desde marzo de 2024).\n• Aumento de jubilaciones, pensiones y Asignaciones Familiares: 2,34% o 2,3% (vinculado a la inflación de octubre).\n• Aguinaldo de diciembre: lo perciben jubilados, Pensiones No Contributivas (PNC) y la Pensión Universal para el Adulto Mayor (PUAM).\n• Aumento de Alquileres (bajo Ley derogada): 28,67%.\n• Aumento de Colectivos CABA: 4,3%, alcanzando $593,27 el boleto mínimo.\n• Aumento de Subte CABA: el pasaje subirá a $1.207.\n• Aumento de Colectivos PBA (líneas 200+): 14,4%, con el mínimo a $655,61.\n• Aumento de Prepagas: entre 2,3% y 2,4%.\n• Nuevo tope de ingresos familiar para Asignaciones Familiares: $2.511.024.\n\n⚡ **Desarrollo:**\n• El Gobierno, a través del Decreto 848/2025, oficializó el bono extraordinario para jubilados y pensionados, argumentando que la Ley de Movilidad Jubilatoria no resguardaba el poder adquisitivo frente a la inflación.\n• La Administración Nacional de la Seguridad Social (ANSES) será la encargada de acreditar automáticamente estos bonos y los aumentos en las prestaciones, que incluyen también a la Asignación Universal por Hijo (AUH) y por Embarazo (AUE).\n• Además de los jubilados, los trabajadores registrados de algunos sectores como carne (2,5%) y empleadas domésticas (1,3% más bonos no remunerativos) también verán incrementos salariales.\n• Servicios como telefonía (hasta 4%), luz y gas (cerca del 3%) y agua (1% por AYSA) también aplicarán nuevos ajustes.\n• El aguinaldo se calcula como el 50% de la remuneración mensual más alta del semestre y se acredita junto a los haberes de diciembre para quienes corresponde.\n\n💡 **¿Por qué importa?**\n• La constante ola de aumentos en servicios básicos ejerce una presión significativa sobre el poder adquisitivo de los argentinos, especialmente en un contexto de inflación.\n• Los bonos y ajustes en jubilaciones y asignaciones buscan ofrecer un paliativo parcial, pero evidencian la dificultad de los ingresos para seguir el ritmo de la suba de precios en la economía.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Jubilados y pensionados: el Gobierno oficializó el pago del bono de hasta $70 mil para diciembre",
-          "link": "https://www.clarin.com/economia/jubilados-pensionados-gobierno-oficializo-pago-bono-70-mil-diciembre_0_CHOY6Y6ti0.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 00:43:57"
-        },
-        {
-          "titulo": "Uno por uno, todos los aumentos que llegan en diciembre",
-          "link": "https://www.minutouno.com/economia/uno-uno-todos-los-aumentos-que-llegan-diciembre-n6219360",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:33:00"
-        },
-        {
-          "titulo": "ANSES: el aumento confirmado para las Asignaciones Familiares en diciembre",
-          "link": "https://www.minutouno.com/economia/anses-el-aumento-confirmado-las-asignaciones-familiares-diciembre-n6219029",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:28:00"
-        },
-        {
-          "titulo": "Diciembre recargado: cuánto subirán los colectivos en la provincia y qué otros aumentos se esperan",
-          "link": "https://www.lanacion.com.ar/economia/diciembre-recargado-cuanto-subiran-los-colectivos-en-la-provincia-y-que-otros-aumentos-se-esperan-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 18:55:34"
-        },
-        {
-          "titulo": "Uno por uno: todos los trabajadores que cobran aumento de salarios, más el aguinaldo en diciembre",
-          "link": "https://www.ambito.com/economia/uno-uno-todos-los-trabajadores-que-cobran-aumento-salarios-mas-el-aguinaldo-diciembre-n6218185",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 18:46:28"
-        },
-        {
-          "titulo": "Qué prestaciones de ANSES cobran el aguinaldo de diciembre 2025",
-          "link": "https://www.perfil.com/noticias/economia/que-prestaciones-de-anses-cobran-el-aguinaldo-de-diciembre-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 12:50:51"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Perfil",
-        "La Nación",
-        "Minuto1",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_honduras:_elecciones_20251201",
-      "tema": "Política Honduras: Elecciones Presidenciales 2025",
-      "tema_normalizado": "politica honduras: elecciones presidenciales 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• Honduras se prepara para las Elecciones Presidenciales de 2025, una contienda que definirá el futuro político del país.\n• Los recientes comicios sirvieron como antesala, mostrando una fuerte polarización ideológica y la posible continuidad de los principales actores políticos.\n• La jornada electoral previa se caracterizó por una masiva participación ciudadana, denuncias de irregularidades y una notable influencia externa.\n\n🔍 **Datos clave:**\n• **Elección en juego:** Presidencia de Honduras para el período 2026-2030 (próxima elección en 2025).\n• **Cargos adicionales:** 128 diputados al Parlamento nacional, 20 al Congreso Centroamericano y 298 alcaldías.\n• **Votantes (en comicios recientes):** Más de 6.3 millones de ciudadanos habilitados.\n• **Presidenta actual:** Xiomara Castro (Partido Libertad y Refundación - Libre).\n• **Candidatos clave:** Nasry Asfura (Partido Nacional), Rixi Moncada (Libre) y Salvador Nasralla (Partido Liberal).\n\n⚡ **Desarrollo:**\n• Las elecciones previas registraron una gran afluencia a las urnas, extendiéndose el horario de votación por una hora debido al masivo caudal de votantes.\n• Los tres candidatos principales se autoproclamaron ganadores prematuramente, basándose en encuestas a pie de urna, lo que generó tensión y expectativas sobre los resultados.\n• Rixi Moncada, la candidata oficialista del partido Libre, promueve la continuidad del proyecto de Xiomara Castro, con énfasis en políticas sociales y reformas económicas para democratizar la economía.\n• Nasry Asfura, del Partido Nacional, es un empresario conservador enfocado en la seguridad, el combate al narcotráfico y la inversión en infraestructura.\n• Salvador Nasralla, del Partido Liberal, centra su propuesta en la lucha contra la corrupción, la reducción de la burocracia estatal y la atracción de inversión extranjera.\n• La influencia internacional fue notable, con Donald Trump apoyando públicamente a Asfura y advirtiendo sobre la ayuda de Estados Unidos a Honduras.\n• Se reportaron irregularidades y agresiones a misiones de observadores internacionales por parte de simpatizantes del partido oficialista durante la jornada electoral.\n\n💡 **¿Por qué importa?**\n• Las Elecciones Presidenciales de 2025 son cruciales para el rumbo institucional, económico y social de Honduras, enfrentando modelos políticos y económicos divergentes.\n• La contienda estará marcada por una intensa competencia entre las principales fuerzas políticas, la relevancia de la participación ciudadana y las preocupaciones sobre la transparencia electoral.",
+      "tema_id": "patricia_bullrich_security_20251201",
+      "tema": "Patricia Bullrich Security Ministry Resignation",
+      "tema_normalizado": "patricia bullrich security ministry resignation",
+      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich formalizó su renuncia al cargo de Ministra de Seguridad de la Nación.\n• Su salida del Poder Ejecutivo será efectiva a partir del 1° de diciembre de 2025, para asumir como senadora nacional.\n• Alejandra Monteoliva, actual secretaria de la cartera, asumirá en su lugar para dar continuidad a la gestión.\n\n🔍 **Datos clave:**\n• **Fecha de renuncia efectiva:** 1° de diciembre de 2025.\n• **Fecha de asunción como senadora:** 10 de diciembre.\n• **Sucesora:** Alejandra Monteoliva (Secretaria de Seguridad saliente).\n• **Presidente:** Javier Milei.\n• **Nuevo rol de Bullrich:** Jefa del bloque de La Libertad Avanza en el Senado.\n\n⚡ **Desarrollo:**\n• Bullrich agradeció a Milei la \"confianza y el respaldo\" durante sus dos años de gestión para ejecutar la \"doctrina de seguridad y orden\" que, según ella, prevalece en el país.\n• La dimisión se debe a que Bullrich debía dejar el Poder Ejecutivo para ocupar la banca de senadora nacional obtenida en las últimas elecciones.\n• Desde el Congreso, Bullrich se comprometió a seguir defendiendo \"instituciones fuertes, ley, orden y un país donde los argentinos de bien puedan vivir y progresar en libertad\".\n• Su gestión se caracterizó por la aplicación del Protocolo de Orden Público, operativos contra el narcotráfico y una profundización del control territorial.\n• La ministra saliente elogió a Monteoliva, destacando su \"capacidad, experiencia y compromiso\" para continuar y profundizar la política de seguridad iniciada.\n• Durante la jura de senadores, Bullrich tuvo un breve cruce con la vicepresidenta Victoria Villarruel, quien le negó la palabra en el recinto.\n• El asesor presidencial Santiago Caputo celebró la gestión de Bullrich, anticipando que se hablará de la \"Doctrina Bullrich\" como un punto de inflexión en la seguridad argentina.\n\n💡 **¿Por qué importa?**\n• La designación de una sucesora de su confianza asegura la continuidad de la \"doctrina de seguridad\" impulsada por el gobierno de Javier Milei.\n• Patricia Bullrich asume un papel estratégico como líder del bloque oficialista en el Senado, siendo clave para el impulso de las reformas legislativas.",
       "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "El voto masivo en Honduras amenazaba la continuidad en el poder de la izquierda",
+          "titulo": "Patricia Bullrich formalizó su renuncia en Seguridad para defender \"las reformas que el país necesita\"",
+          "link": "https://www.minutouno.com/politica/patricia-bullrich-formalizo-su-renuncia-seguridad-defender-las-reformas-que-el-pais-necesita-n6219319",
+          "fuente": "Minuto1",
+          "fecha": "2025-11-30 23:46:00"
+        },
+        {
+          "titulo": "Patricia Bullrich formalizó su salida del Ministerio de Seguridad ante Javier Milei",
+          "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-dejo-el-ministerio-de-seguridad-y-formalizo-su-salida-ante-milei.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-11-30 22:30:00"
+        },
+        {
+          "titulo": "Bullrich oficializó su renuncia y le mandó un mensaje a Milei",
+          "link": "https://www.lanacion.com.ar/politica/bullrich-oficializo-su-renuncia-y-le-mando-un-mensaje-a-milei-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 21:42:17"
+        },
+        {
+          "titulo": "Patricia Bullrich presentó su renuncia como ministra de Seguridad",
+          "link": "https://www.ambito.com/politica/patricia-bullrich-presento-su-renuncia-como-ministra-seguridad-n6219318",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-11-30 20:29:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "Minuto1",
+        "La Nación",
+        "Perfil",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "honduras_elections_2025_20251201",
+      "tema": "Honduras Elections 2025",
+      "tema_normalizado": "honduras elections 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n• Honduras celebró recientemente importantes elecciones presidenciales, legislativas y municipales con una gran afluencia de votantes.\n• Estos comicios son clave para entender el panorama político y las fuerzas en juego de cara a las próximas Elecciones de 2025.\n• La jornada estuvo marcada por una contienda reñida entre candidatos opositores y oficialistas, junto con denuncias de irregularidades e influencia externa.\n\n🔍 **Datos clave:**\n• **Fecha de la elección reportada:** Un domingo reciente (las noticias cubren un evento ya pasado, relevante para el contexto de 2025).\n• **Cargos en disputa:** Presidente, 128 diputados al Parlamento nacional, 298 alcaldes y 20 diputados al Congreso Centroamericano.\n• **Votantes habilitados:** Más de 6.3 millones de ciudadanos.\n• **Candidatos presidenciales principales:** Rixi Moncada (oficialista, Partido Libre), Nasry Asfura (opositor, Partido Nacional) y Salvador Nasralla (opositor, Partido Liberal).\n• **Resultados preliminares (presidenciales):** Nasry Asfura (40.62%) y Salvador Nasralla (38.78%) lideraban, con Rixi Moncada en tercer lugar.\n• **Presidenta saliente:** Xiomara Castro (Partido Libertad y Refundación - Libre).\n\n⚡ **Desarrollo:**\n• La elección buscó al sucesor de Xiomara Castro, mostrando una clara polarización entre la continuidad de la izquierda y un posible giro hacia la derecha.\n• Rixi Moncada, la candidata oficialista, defendió el modelo actual, proponiendo políticas sociales, creación de empresas públicas y una reforma judicial.\n• Nasry Asfura, exalcalde de Tegucigalpa, centró su campaña en seguridad, el combate al narcotráfico e inversión en infraestructura, contando con el apoyo de Donald Trump.\n• Salvador Nasralla, ingeniero y presentador de televisión, enfocó su discurso en la lucha contra la corrupción, la reducción de la burocracia y el apoyo a las pymes.\n• Se reportaron denuncias de irregularidades y agresiones a observadores internacionales, y los principales candidatos se proclamaron ganadores antes de los resultados oficiales.\n• La jornada electoral se extendió una hora debido a la masiva participación de votantes, reflejando el alto interés ciudadano.\n• Hubo una notable injerencia internacional, con el apoyo explícito de Donald Trump a Asfura y advertencias sobre la ayuda de Estados Unidos, un país clave por las remesas.\n\n💡 **¿Por qué importa?**\n• Los resultados y la dinámica de esta elección son un indicador esencial para comprender las fuerzas políticas y las tendencias que influirán en las futuras elecciones presidenciales de 2025.\n• Estos comicios reflejan la profunda división ideológica en Honduras y la significativa influencia de actores externos, como Estados Unidos, debido a la dependencia de las remesas y la ayuda.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "El voto masivo en Honduras amenaza la continuidad en el poder de la izquierda",
           "link": "https://www.lanacion.com.ar/el-mundo/el-voto-masivo-en-honduras-amenazaba-la-continuidad-en-el-poder-de-la-izquierda-nid30112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-30 22:58:15"
+          "fecha": "2025-12-01 03:07:57"
         },
         {
           "titulo": "Elecciones en Honduras: tras una hora de prórroga, cerraron los comicios",
@@ -286,8 +222,8 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "La Nación",
         "Clarín",
+        "La Nación",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -296,141 +232,23 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "narcotrafico_internacional:_operativos_20251201",
-      "tema": "Narcotráfico Internacional: Operativos y Redes",
-      "tema_normalizado": "narcotrafico internacional: operativos y redes",
-      "resumen": "📌 **¿Qué está pasando?**\n• Operativos de seguridad en México y España han desarticulado redes clave del narcotráfico internacional, impactando la producción y distribución de drogas sintéticas y tradicionales.\n• Recientemente, fue neutralizado un líder del Cártel de Sinaloa en México y detenido un presunto proveedor de precursores químicos para el CJNG en Europa.\n• Estos eventos se suman a la lucha contra la corrupción a nivel transnacional, ejemplificada por la condena de un expresidente por narcotráfico.\n\n🔍 **Datos clave:**\n• **Pedro Inzunza Coronel (\"El Pichón\"):** Líder de segundo nivel del Cártel de Sinaloa (facción Beltrán Leyva), abatido en Choix, Sinaloa.\n• **Pedro Inzunza Noriega (\"Sagitario\"):** Padre de \"El Pichón\", señalado por EE. UU. como líder de una de las redes de fentanilo más sofisticadas del mundo.\n• **1,500 kg de Fentanilo:** Cantidad asegurada en Sinaloa en operativos relacionados con los Inzunza.\n• **Alejandro “N”:** Presunto proveedor de precursores químicos ligado al CJNG, detenido en Madrid, España.\n• **Juan Orlando Hernández (JOH):** Expresidente de Honduras, condenado a 45 años en EE. UU. por traficar unas 500 toneladas de cocaína.\n\n⚡ **Desarrollo:**\n• La neutralización de \"El Pichón\" fue resultado de una operación a gran escala de la Secretaría de Marina en Choix, Sinaloa, que derivó en la detención de otros dos implicados.\n• Pedro Inzunza Coronel y su padre, \"Sagitario\", fueron acusados por EE. UU. de narcoterrorismo, lavado de dinero y de liderar la producción y tráfico de fentanilo.\n• Las redes de \"Sagitario\" incluían operaciones en Colombia, Costa Rica, Guatemala, Panamá y Estados Unidos, demostrando la extensión transnacional de sus actividades delictivas.\n• \"El Pichón\" y \"Sagitario\" fueron sancionados por la Oficina de Control de Activos Extranjeros (OFAC) en diciembre de 2023 por sus vínculos con el Cártel de los Beltrán Leyva.\n• La detención de Alejandro “N” en Madrid se logró mediante el intercambio de información y acciones de inteligencia entre autoridades mexicanas y la Policía Nacional de España.\n• Tras la captura de Alejandro “N”, se cateó un laboratorio clandestino en Guadalajara, México, donde se aseguraron precursores químicos y equipos para fabricar fentanilo y éxtasis.\n• El caso de Juan Orlando Hernández reveló cómo aceptó sobornos del \"Chapo\" Guzmán y orquestó una conspiración de tráfico por más de 20 años, convirtiendo a Honduras en un punto clave para el trasiego de cocaína.\n\n💡 **¿Por qué importa?**\n• Estos operativos demuestran la creciente cooperación internacional para desmantelar redes complejas del narcotráfico, desde líderes hasta proveedores de precursores químicos.\n• El enfoque en el tráfico de fentanilo y precursores sintéticos es crucial, dado el impacto devastador de estas sustancias en la salud pública y la seguridad global.\n• La infiltración del narcotráfico en altos niveles políticos, como el caso del expresidente de Honduras, subraya la necesidad de fortalecer las instituciones y la lucha contra la corrupción transnacional.",
-      "cantidad_noticias": 5,
+      "tema_id": "chiqui_tapia_afa_20251201",
+      "tema": "Chiqui Tapia AFA Finance Controversy",
+      "tema_normalizado": "chiqui tapia afa finance controversy",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga a la financiera Sur Finanzas, de Ariel Vallejo, por operaciones sospechosas y presunto lavado de dinero, con un billón de pesos movilizados.\n• Esta firma, vinculada a Claudio \"Chiqui\" Tapia (presidente de la AFA), ha realizado transferencias millonarias con varios clubes de fútbol argentinos.\n• El Gobierno evalúa acciones legales contra Tapia y la AFA, mientras la Justicia profundiza la investigación sobre el origen de los fondos de la financiera.\n\n🔍 **Datos clave:**\n• **Ariel Vallejo:** Dueño de Sur Finanzas y aliado de Chiqui Tapia.\n• **$1 Billón de Pesos:** Estimación total de operaciones bajo sospecha de Sur Finanzas.\n• **San Lorenzo:** Club con $660 millones en transferencias sospechosas y préstamos por más de $1900 millones.\n• **2020:** Año en que Vallejo fundó Sur Finanzas.\n• **DGI:** Dirección General Impositiva, organismo que presentó la denuncia global.\n• **74:** Cantidad de cuentas bancarias que Sur Finanzas utilizó para operar.\n\n⚡ **Desarrollo:**\n• La DGI denunció que Sur Finanzas utilizó una plataforma para mover fondos de origen desconocido, sospechando que provienen de delitos como el juego ilegal.\n• Clubes como San Lorenzo, Racing y Argentinos Juniors figuran en un listado de entidades con transferencias sospechosas a través de esta financiera.\n• San Lorenzo recibió préstamos millonarios de Sur Finanzas, generando $110 millones en intereses, tras un vínculo iniciado a mediados del año pasado.\n• Racing Club, que tuvo a Sur Finanzas como sponsor por US$1 millón, ya consideraba interrumpir el vínculo por falta de pagos antes del escándalo.\n• La Justicia, a través de la fiscal Cecilia Incardona, investiga la compleja trama que conecta a la financiera con figuras del fútbol y el poder político.\n• El Gobierno, con el apoyo de Patricia Bullrich, planea una auditoría sobre la AFA y no descarta denunciar directamente a Tapia por presuntos ilícitos.\n• Existe preocupación por posibles sanciones de la FIFA a la AFA, que podrían afectar a la Selección Argentina, si se interpreta que hay injerencia política.\n\n💡 **¿Por qué importa?**\n• El escándalo podría exponer una vasta red de lavado de dinero y corrupción en el fútbol argentino, cuestionando la transparencia en la gestión de la AFA.\n• Las acciones del Gobierno y la Justicia podrían generar sanciones de la FIFA, afectando directamente al fútbol argentino y a la Selección Nacional en un año de Mundial.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Cuáles eran los delitos por los que EEUU buscaba a “El Pichón”, líder del Cártel de Sinaloa asesinado",
-          "link": "https://www.infobae.com/mexico/2025/12/01/cuales-eran-los-delitos-por-los-que-eeuu-buscaba-a-el-pichon-lider-del-cartel-de-sinaloa-asesinado/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-01 01:02:09"
-        },
-        {
-          "titulo": "Ronald Johnson, embajador de EEUU en México, felicitó al Gabinete de Seguridad por la operación donde cayó “El Pichón”",
-          "link": "https://www.infobae.com/mexico/2025/12/01/ronald-johnson-embajador-de-eeuu-en-mexico-felicito-al-gabinete-de-seguridad-por-la-operacion-donde-cayo-el-pichon/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-01 01:02:06"
-        },
-        {
-          "titulo": "Detuvieron en Madrid a Alejandro “N”, presunto proveedor de precursores químicos ligado al CJNG",
-          "link": "https://www.infobae.com/mexico/2025/11/30/detuvieron-en-madrid-a-alejandro-n-presunto-proveedor-de-precursores-quimicos-ligado-al-cjng/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-01 00:56:50"
-        },
-        {
-          "titulo": "Caen tres presuntos miembros del Cártel de Sinaloa Chiapas que llevaban chocolates con hongos alucinógenos",
-          "link": "https://www.infobae.com/mexico/2025/12/01/caen-tres-presuntos-miembros-del-cartel-de-sinaloa-chiapas-que-llevaban-chocolates-con-hongos-alucinogenos/",
-          "fuente": "Infobae",
-          "fecha": "2025-11-30 23:35:56"
-        },
-        {
-          "titulo": "El expresidente de Honduras al que Trump pretende indultar inundó EE.UU. de cocaína",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-expresidente-de-honduras-al-que-trump-pretende-indultar-e-inundo-eeuu-de-cocaina-nid30112025/",
+          "titulo": "Los millones que transfirieron los clubes a través del financista cercano a Chiqui Tapia: San Lorenzo encabeza y se sumó Argentinos",
+          "link": "https://www.lanacion.com.ar/politica/los-millones-que-transfirieron-los-clubes-a-traves-del-financista-cercano-a-chiqui-tapia-san-lorenzo-nid30112025/",
           "fuente": "La Nación",
-          "fecha": "2025-11-30 17:27:57"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Infobae",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "economia_argentina:_dolar_20251201",
-      "tema": "Economía Argentina: Dólar y Finanzas Digitales",
-      "tema_normalizado": "economia argentina: dolar y finanzas digitales",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado argentino muestra una relativa calma post-electoral, con el dólar estable y una baja del riesgo país, mientras inversores esperan definiciones sobre la estrategia financiera del gobierno.\n• A partir del 1 de diciembre, las billeteras digitales pagarán menores rendimientos diarios debido a una nueva regulación de la CNV que afecta a los fondos money market.\n• El gobierno interpreta la apreciación del peso como un síntoma positivo de su plan de estabilización, aunque persiste la incertidumbre sobre la acumulación de reservas y el futuro del cepo cambiario.\n\n🔍 **Datos clave:**\n• **RG Nº1092 (CNV):** Establece un límite del 20% para la inversión de Fondos Money Market en cauciones bursátiles (antes 26%).\n• **$2,4 billones:** Monto estimado que los fondos deberán reasignar de cauciones a otros instrumentos por la nueva normativa.\n• **RG Nº1093 (CNV):** Flexibiliza restricciones cambiarias para no residentes en la transferencia de títulos públicos argentinos.\n• **Compras de dólares:** Los argentinos adquirieron ~$29.000 millones, superando en ~$4.000 millones las compras del BCRA (~$25.000 millones) en el mandato de Milei.\n• **Fechas relevantes:** 1 de diciembre (entrada en vigencia de la norma de billeteras digitales); post-elecciones (calma del mercado).\n\n⚡ **Desarrollo:**\n• La estabilidad de noviembre, con acciones subiendo un 74% en dólares y bonos un 18%, se atribuye al resultado electoral y a una exitosa renovación de más del 97% de la deuda del Tesoro.\n• La medida sobre las billeteras digitales, solicitada por el Banco Central, busca preservar la política monetaria y redirigir la liquidez hacia instrumentos de tasa fija de corto plazo y el sistema bancario.\n• El ideólogo del plan monetario, Federico Furiase, defiende la apreciación del peso citando un estudio de Oxford sobre programas de estabilización exitosos en América Latina.\n• Sin embargo, los propios autores del estudio, Gabriel Palazzo, Martín Rapetti y Joaquín Waldman, advierten que la sobreapreciación cambiaria es el \"talón de Aquiles\" de estos planes y critican la lenta acumulación de reservas.\n• La Comisión Nacional de Valores (CNV), bajo la gestión de Roberto Silva, busca normalizar el mercado de capitales eliminando trabas para inversores extranjeros, aunque el levantamiento total del cepo para empresas sigue siendo un desafío.\n\n💡 **¿Por qué importa?**\n• Las decisiones sobre el dólar y las finanzas digitales impactan directamente en la rentabilidad de los ahorros y la estabilidad económica diaria de los ciudadanos.\n• El equilibrio entre la política monetaria, la acumulación de reservas y la estrategia para eliminar las restricciones cambiarias es fundamental para la confianza de los inversores y el desarrollo económico a largo plazo.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "¿Seguirá la calma del dólar en el último mes del año?",
-          "link": "https://www.clarin.com/economia/seguira-calma-dolar-ultimo-mes-ano_0_ClAfM7bGJI.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 21:11:23"
-        },
-        {
-          "titulo": "Las billeteras digitales pagarán menos: limitaron a los fondos money market y caen las tasas",
-          "link": "https://www.minutouno.com/economia/las-billeteras-digitales-pagaran-menos-limitaron-los-fondos-money-market-y-caen-las-tasas-n6219256",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 18:18:00"
-        },
-        {
-          "titulo": "Dólar, más barato: el Gobierno anticipa que el peso se seguirá apreciando en los próximos meses",
-          "link": "https://www.iprofesional.com/economia/442685-dolar-mas-barato-gobierno-anticipa-que-peso-argentino-se-seguira-apreciando",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-30 12:44:00"
-        },
-        {
-          "titulo": "El dólar y el cepo: las dificultades que tendrá el Banco Central en el 2026",
-          "link": "https://www.iprofesional.com/economia/442995-el-dolar-y-el-cepo-las-dificultades-que-tendra-el-banco-central-en-el-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-11-30 11:46:00"
-        },
-        {
-          "titulo": "Las billeteras digitales pagarán menos en diciembre: qué cambia con las tasas tras nueva norma de la CNV",
-          "link": "https://www.ambito.com/finanzas/las-billeteras-digitales-pagaran-menos-diciembre-que-cambia-las-tasas-nueva-norma-la-cnv-n6219204",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 11:36:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "iProfesional",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "politica_argentina:_investigacion_20251201",
-      "tema": "Política Argentina: Investigación Corrupción Pública",
-      "tema_normalizado": "politica argentina: investigacion corrupcion publica",
-      "resumen": "📌 **¿Qué está pasando?**\n* El Gobierno de Javier Milei busca declarar la imprescriptibilidad de los delitos de corrupción e impulsa un nuevo Código Penal con penas más duras.\n* Al mismo tiempo, se desarrolla una investigación judicial sobre una financiera vinculada al presidente de la AFA, Carlos \"Chiqui\" Tapia, por presunto lavado de dinero.\n* La \"Causa Cuadernos\", una de las mayores investigaciones de corrupción, enfrenta demoras en su juicio oral debido a la modalidad virtual.\n\n🔍 **Datos clave:**\n* **Imprescriptibilidad:** Los delitos de corrupción en Argentina prescriben actualmente entre 2 y 20 años. La reforma busca eliminarlos para ciertos delitos.\n* **Penas propuestas:** El nuevo Código Penal elevaría las penas hasta 15 años para enriquecimiento ilícito y 10 años para coimas, frente al máximo actual de 6 años.\n* **Proyectos estancados:** Entre 2022 y 2024, tres proyectos similares de la Coalición Cívica, la UCR y Pro perdieron estado parlamentario al no ser tratados.\n* **Sur Finanzas SP:** Empresa de Ariel Vallejo, vinculada a \"Chiqui\" Tapia, investigada por el origen no justificado de un billón de pesos y uso de 74 cuentas bancarias.\n* **Causa Cuadernos:** Involucra a 86 imputados (25 colaboradores) y 630 testigos aprobados; su desarrollo virtual podría extender el juicio más de 3 años.\n* **Clubes mencionados:** San Lorenzo ($660 millones), Racing Club ($100 millones), Argentinos Juniors, Temperley, Los Andes, Excursionistas, Deportivo Morón y Defensores de Glew.\n\n⚡ **Desarrollo:**\n* El gobierno actual, a través del Ministro de Justicia Mariano Cúneo Libarona y la Ministra de Seguridad Patricia Bullrich, prepara su propia reforma del Código Penal, que no tendrá efecto retroactivo.\n* La investigación de Sur Finanzas SP, iniciada por la DGI y a cargo de la fiscal Cecilia Incardona, apunta a un posible lavado de dinero del juego ilegal y otros delitos.\n* San Lorenzo recibió más de $1900 millones en préstamos de Sur Finanzas entre septiembre de 2024 y abril de 2025, mientras que Racing Club tuvo un contrato de sponsor por US$1 millón.\n* El Gobierno analiza estrategias judiciales contra \"Chiqui\" Tapia y la AFA, consciente de que la FIFA podría sancionar a la Selección Argentina por injerencia política.\n* La Fiscalía de la Causa Cuadernos (Fabiana León) critica la lentitud del Tribunal Oral Federal 7 (TOF 7) y exige audiencias presenciales y más frecuentes, comparando el ritmo con el Juicio a las Juntas.\n\n💡 **¿Por qué importa?**\n* La imprescriptibilidad de los delitos de corrupción busca asegurar que estos crímenes, que afectan directamente a la ciudadanía y el funcionamiento del Estado, puedan ser juzgados sin límites temporales.\n* Las investigaciones en curso y la lentitud judicial de casos como la Causa Cuadernos resaltan los desafíos de combatir la corrupción en Argentina y la necesidad de mecanismos legales más ágiles y efectivos.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Congreso: los proyectos para declarar imprescriptible la corrupción no avanzaron desde que llegó Milei al poder",
-          "link": "https://www.lanacion.com.ar/politica/los-proyectos-para-declarar-imprescriptible-la-corrupcion-no-avanzaron-desde-que-llego-milei-al-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 21:45:19"
-        },
-        {
-          "titulo": "El Gobierno quiere declarar imprescriptible la corrupción",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-quiere-declarar-imprescriptible-la-corrupcion-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 21:28:10"
+          "fecha": "2025-12-01 02:48:22"
         },
         {
           "titulo": "Financiera ligada al Chiqui Tapia: apuntan al lavado de dinero del juego ilegal",
           "link": "https://www.clarin.com/politica/revelaciones-maniobras-lavado-dinero-vinculadas-financiera-cercana-chiqui-tapia_0_RQaKiTTnNq.html",
           "fuente": "Clarín",
           "fecha": "2025-11-30 20:30:09"
-        },
-        {
-          "titulo": "Los millones que transfirieron los clubes a través del financista cercano a Chiqui Tapia: San Lorenzo encabeza y se sumó Argentinos",
-          "link": "https://www.lanacion.com.ar/politica/los-millones-que-transfirieron-los-clubes-a-traves-del-financista-cercano-a-chiqui-tapia-san-lorenzo-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-11-30 19:34:58"
-        },
-        {
-          "titulo": "Causa Cuadernos: la Fiscalía presiona por más audiencias y el Juicio a las Juntas confirma que podría hacerse más rápido",
-          "link": "https://www.clarin.com/politica/causa-cuadernos-fiscalia-presiona-audiencias-juicio-juntas-confirma-podria-hacerse-rapido_0_q2cI5MH6oa.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 18:08:10"
         },
         {
           "titulo": "El Gobierno diseña la estrategia judicial contra \"Chiqui\" Tapia, con un ojo en la FIFA y la Selección",
@@ -442,8 +260,8 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "La Nación",
-        "Clarín"
+        "Clarín",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -451,10 +269,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politica_israel:_corrupcion_20251201",
-      "tema": "Política Israel: Corrupción Netanyahu Indulto",
-      "tema_normalizado": "politica israel: corrupcion netanyahu indulto",
-      "resumen": "📌 **¿Qué está pasando?**\n• El primer ministro de Israel, Benjamin Netanyahu, solicitó formalmente un indulto al presidente Isaac Herzog por los juicios de corrupción que enfrenta.\n• Netanyahu argumenta que el prolongado proceso judicial está dividiendo al país, afecta su capacidad para gobernar y su finalización inmediata calmaría las tensiones nacionales.\n\n🔍 **Datos clave:**\n• **Acusaciones:** Soborno y tres cargos de fraude y abuso de confianza.\n• **Inicio del juicio:** 2020.\n• **Presidente de Israel:** Isaac Herzog.\n• **Abogado principal:** Amit Hadad.\n• **Apoyo internacional:** Ex presidente de EE.UU., Donald Trump.\n• **Partido político:** Likud.\n\n⚡ **Desarrollo:**\n• Benjamin Netanyahu, el primer ministro más longevo de Israel, ha negado consistentemente todas las acusaciones y sostiene que el juicio concluirá con su absolución.\n• Entre sus argumentos para el indulto, Netanyahu señaló que testificar tres veces por semana era \"una exigencia imposible de cumplir\".\n• La solicitud de indulto, compuesta por una petición detallada de 111 páginas y una carta personal, fue enviada al Departamento Legal de la Residencia Presidencial.\n• El proceso de evaluación implica recabar opiniones del Ministerio de Justicia y del asesor legal del presidente Herzog antes de que se tome una decisión final.\n• El ex presidente de EE.UU., Donald Trump, previamente instó a Herzog a conceder el indulto, calificando el juicio como \"político\" e \"injustificado\" y preguntando: \"¿a quién le importan unos cigarros y champán?\".\n• La oficina de Herzog calificó la petición como \"extraordinaria\" y con \"importantes implicaciones\", asegurando que será considerada \"responsable y sinceramente\".\n• La solicitud provocó protestas en Tel Aviv y la oposición, liderada por Yair Lapid, exigió que no se otorgue el indulto sin una admisión de culpa y el retiro de Netanyahu de la política.\n• Expertos legales concuerdan en que un indulto no puede detener un juicio en curso si el acusado no admite su culpabilidad.\n\n💡 **¿Por qué importa?**\n• Esta controversial solicitud ha desatado un intenso debate institucional y social en Israel, con implicaciones significativas para la estabilidad política y la confianza en la justicia.\n• La decisión presidencial podría sentar un precedente clave sobre cómo se manejan los casos de corrupción de altos funcionarios, especialmente cuando no hay admisión de responsabilidad.",
+      "tema_id": "netanyahu_corruption_trial_20251201",
+      "tema": "Netanyahu Corruption Trial Pardon Request",
+      "tema_normalizado": "netanyahu corruption trial pardon request",
+      "resumen": "📌 **¿Qué está pasando?**\n• El primer ministro de Israel, Benjamin Netanyahu, ha solicitado formalmente un indulto al presidente Isaac Herzog en medio de su juicio por corrupción.\n• Netanyahu argumenta que los prolongados procesos judiciales están dividiendo al país e impiden su capacidad para gobernar plenamente.\n• Esta petición ha provocado fuertes reacciones, incluyendo protestas en Tel Aviv y un intenso debate político e institucional.\n\n🔍 **Datos clave:**\n• **Solicitante:** Benjamin Netanyahu, Primer Ministro de Israel.\n• **Destinatario:** Isaac Herzog, Presidente de Israel.\n• **Acusaciones:** Soborno, fraude y abuso de confianza en tres expedientes.\n• **Inicio del juicio:** El proceso judicial comenzó en 2020.\n• **Documentos:** Petición de 111 páginas firmada por su abogado, Amit Hadad, y una carta personal de Netanyahu.\n• **Apoyo internacional:** El expresidente de EE. UU., Donald Trump, escribió a Herzog pidiendo el indulto para Netanyahu.\n\n⚡ **Desarrollo:**\n• Netanyahu justifica su solicitud en nombre del \"interés público\", afirmando que la continuación del juicio \"nos está desgarrando por dentro\" y provoca profundas divisiones.\n• Sostiene que finalizar el juicio contribuiría a calmar las tensiones y promover la reconciliación que el país necesita frente a \"enormes retos\".\n• La oficina del presidente Herzog calificó la solicitud como \"extraordinaria\" y seguirá un procedimiento formal de recopilación de opiniones de distintas autoridades legales.\n• Expertos legales señalan que un indulto no puede detener el juicio si el acusado no admite su culpa; la única vía sería que el fiscal general suspenda el proceso.\n• La oposición, liderada por Yair Lapid, ha exigido que no se conceda un indulto sin una admisión de culpa, remordimiento y la retirada de Netanyahu de la vida política.\n• Ministros del partido Likud de Netanyahu han solicitado al presidente considerar las \"circunstancias nacionales más amplias\" para fomentar la unidad social.\n\n💡 **¿Por qué importa?**\n• La solicitud de indulto de un primer ministro en funciones bajo juicio por corrupción tiene profundas implicaciones para la gobernabilidad y la cohesión social de Israel.\n• Este caso sentaría un precedente sobre la separación de poderes, la independencia judicial y el manejo de acusaciones contra altos cargos políticos.",
       "cantidad_noticias": 3,
       "noticias": [
         {
@@ -479,8 +297,8 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "La Nación",
         "Clarín",
+        "La Nación",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -489,10 +307,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "politica_argentina:_salud_20251201",
-      "tema": "Política Argentina: Salud José Alperovich",
-      "tema_normalizado": "politica argentina: salud jose alperovich",
-      "resumen": "📌 **¿Qué está pasando?**\n• El exgobernador de Tucumán, José Alperovich, quien cumple prisión domiciliaria, fue internado de urgencia y operado de apendicitis en el Hospital Italiano.\n• Este episodio de salud ocurrió a pocos días de su casamiento íntimo con Marianela Mirra en su departamento de Puerto Madero.\n• Fue trasladado al centro médico por fuertes dolores abdominales, requiriendo una intervención quirúrgica no programada.\n\n🔍 **Datos clave:**\n• **Nombre:** José Alperovich (70 años), exgobernador de Tucumán.\n• **Condena:** 16 años de prisión por abuso sexual contra su sobrina.\n• **Situación:** Cumple prisión domiciliaria en Puerto Madero desde junio de 2024.\n• **Lugar de internación:** Hospital Italiano (barrio de Almagro).\n• **Diagnóstico:** Apendicitis o complicación gastrointestinal compatible.\n• **Casamiento:** Jueves 27 de noviembre con Marianela Mirra.\n• **Acompañamiento:** Marianela Mirra estuvo presente en el hospital.\n\n⚡ **Desarrollo:**\n• Alperovich fue llevado al hospital desde su residencia en Puerto Madero debido a un cuadro de intensos dolores en el abdomen.\n• La operación fue de urgencia y estuvo relacionada con síntomas compatibles con apendicitis, aunque su entorno inicialmente lo atribuyó a estrés o nervios.\n• La noticia de su internación y cirugía trascendió luego de que se difundieran fotografías de su flamante esposa, Marianela Mirra, en la sala de espera del Hospital Italiano.\n• Previo a esta emergencia médica, Alperovich había contraído matrimonio con Mirra en una ceremonia privada en el mismo departamento donde cumple su condena.\n• El exmandatario recibió el beneficio de la prisión domiciliaria por su edad, a los 70 años, tras iniciar su pena en el penal de Ezeiza.\n• Su condena fue por nueve hechos de agresión sexual, incluyendo abuso sexual simple reiterado y episodios con acceso carnal, mediando intimidación y abuso de poder.\n\n💡 **¿Por qué importa?**\n• La internación de Alperovich mantiene la atención mediática sobre la situación de un exfuncionario público condenado, mientras cumple su pena con beneficios de prisión domiciliaria.\n• Este suceso destaca las circunstancias excepcionales de su cumplimiento de condena, que le permiten acceder a servicios de salud privados y mantener una vida personal visible.",
+      "tema_id": "jose_alperovich_health_20251201",
+      "tema": "José Alperovich Health Status",
+      "tema_normalizado": "jose alperovich health status",
+      "resumen": "📌 **¿Qué está pasando?**\n• José Alperovich, exgobernador de Tucumán y bajo prisión domiciliaria, fue internado de urgencia y operado de apendicitis.\n• El traslado al Hospital Italiano ocurrió por fuertes dolores abdominales, días después de su casamiento con Marianela Mirra.\n• Su estado de salud y la intervención generaron un significativo interés mediático.\n\n🔍 **Datos clave:**\n• **Paciente:** José Alperovich, 70 años.\n• **Condena:** 16 años de prisión domiciliaria por abuso sexual.\n• **Causa de internación:** Apendicitis (o cuadro gastrointestinal compatible).\n• **Lugar de atención:** Hospital Italiano, barrio de Almagro.\n• **Fecha de casamiento:** Jueves 27 de noviembre (noticia de internación el domingo siguiente).\n• **Esposa:** Marianela Mirra, ex participante de Gran Hermano.\n• **Ubicación prisión domiciliaria:** Departamento en Puerto Madero.\n\n⚡ **Desarrollo:**\n• Alperovich fue trasladado al centro médico desde su residencia en Puerto Madero, donde cumple su condena con tobillera electrónica, debido a dolores intensos.\n• La noticia de su operación trascendió por fotografías de su esposa, Marianela Mirra, en la sala de espera del Hospital Italiano.\n• La intervención quirúrgica no estaba programada, y aunque en un principio se habló de estrés, los síntomas derivaron en la necesidad de la cirugía.\n• La internación y operación ocurrieron a pocos días de que Alperovich contrajera matrimonio con Marianela Mirra en una ceremonia íntima en su domicilio.\n• Alperovich obtuvo el beneficio de prisión domiciliaria en junio de este año, tras iniciar su condena en Ezeiza, debido a su edad.\n• La condena de 16 años fue dictada por nueve hechos de agresión sexual cometidos entre 2017 y 2018 contra su sobrina, con abuso de poder.\n• Marianela Mirra ha manifestado que su unión con Alperovich es por amor, negando rumores de embarazo y destacando que lo acompañará en su situación.\n\n💡 **¿Por qué importa?**\n• La salud de José Alperovich es relevante debido a su estatus de figura política condenada, y su internación ocurre en un momento de alta exposición mediática por su reciente casamiento.\n• Este evento médico mantiene el escrutinio público sobre su cumplimiento de condena y su vida personal, generando interés sobre la evolución de su salud y las circunstancias que lo rodean.",
       "cantidad_noticias": 3,
       "noticias": [
         {
@@ -517,9 +335,102 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
+        "Minuto1",
         "Clarín",
-        "Perfil",
-        "Minuto1"
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina_utility_rate_20251201",
+      "tema": "Argentina Utility Rate Hikes December",
+      "tema_normalizado": "argentina utility rate hikes december",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno argentino oficializó aumentos en las tarifas de luz y gas, que rigen desde el 1° de diciembre de 2025.\n*   Estos ajustes se aplicarán a usuarios residenciales, comerciales e industriales en el Área Metropolitana de Buenos Aires (AMBA) y otras regiones.\n*   Las medidas responden a la necesidad de corregir precios relativos del sector energético y actualizar tarifas.\n\n🔍 **Datos clave:**\n*   **Fecha de vigencia:** 1° de diciembre de 2025.\n*   **Aumento CPD Edesur:** 1,86% (Costo Propio de Distribución).\n*   **Aumento CPD Edenor:** 1,93% (Costo Propio de Distribución).\n*   **Aumento PEE (luz):** 3,27% (Precio Estabilizado de la Energía).\n*   **Aumento PET (luz):** 5,87% (Precio Estacional del Transporte).\n*   **MEM Edenor:** Ajuste ex post de 0,200 $/kWh.\n*   **Resoluciones clave:** 797/2025, 798/2025 (luz); 917/2025, 919/2025 (gas).\n*   **Subsidios luz:** Se mantienen topes de consumo para Nivel 2 (350 kWh/mes) y Nivel 3 (250 kWh/mes).\n*   **Cargo fijo Metrogas R1 (gas):** $3.419,35.\n*   **Precio PIST (gas):** $154,96/m3 (Punto de Ingreso al Sistema de Transporte).\n\n⚡ **Desarrollo:**\n*   Los aumentos fueron formalizados a través de resoluciones del ENRE para la electricidad (Edenor, Edesur) y del ENARGAS para el gas natural (Metrogas, Naturgy BAN).\n*   Las nuevas tarifas de luz incorporan ajustes en generación, transporte, distribución y costos mayoristas, con un mecanismo de actualización mensual por inflación.\n*   Para el gas, la actualización combina los precios del gas en PIST, el siguiente tramo de la Revisión Quinquenal de Tarifas (RQT) y un mecanismo de actualización mensual.\n*   La RQT para las distribuidoras de gas fue aprobada y sus incrementos se implementarán en 31 aumentos mensuales y consecutivos.\n*   Las medidas fueron impulsadas por el Ministerio de Economía y la Secretaría de Energía, en el marco de la continuidad de la emergencia energética.\n*   Las tarifas de electricidad para usuarios residenciales N1, N2 y N3 fueron recalculadas, manteniendo los topes de consumo subsidiado para los niveles de menores ingresos.\n*   En gas, se actualizaron los cargos fijos y variables para categorías residenciales (R1 a R4) y comerciales, e incorporan valores de gas, transporte y distribución.\n*   Se mantienen las bonificaciones para los usuarios residenciales de gas niveles 2 y 3, calculadas sobre el valor mayorista del Nivel 1.\n\n💡 **¿Por qué importa?**\n*   Estos aumentos impactan directamente en el presupuesto familiar y empresarial, al encarecer servicios esenciales como la luz y el gas.\n*   Reflejan una política gubernamental de readecuación tarifaria que busca reducir subsidios y acercar los precios de la energía a sus costos reales.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El Gobierno oficializó los aumentos en luz y gas que rigen desde diciembre",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-los-aumentos-en-luz-y-gas-que-rigen-desde-diciembre-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 02:00:56"
+        },
+        {
+          "titulo": "Boletas de luz y gas: aprobaron los nuevos cuadros tarifarios que regirán este mes",
+          "link": "https://www.infobae.com/economia/2025/12/01/boletas-de-luz-y-gas-aprobaron-los-nuevos-cuadros-tarifarios-que-regiran-este-mes/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-01 01:34:09"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentine_jubilee/pensioner_bonus_20251201",
+      "tema": "Argentine Jubilee/Pensioner Bonus December",
+      "tema_normalizado": "argentine jubilee/pensioner bonus december",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino confirmó el pago de un bono extraordinario de hasta $70.000 para jubilados y pensionados durante el mes de diciembre.\n• Este refuerzo económico se oficializó mediante un decreto y busca compensar la pérdida del poder adquisitivo de los haberes mínimos, sumándose al aguinaldo y a un incremento por movilidad.\n\n🔍 **Datos clave:**\n• **Monto máximo del bono**: $70.000.\n• **Decreto oficializador**: N° 848/2025.\n• **Período de pago**: Diciembre.\n• **Aumento por movilidad**: 2,34% (refleja la inflación de octubre).\n• **Haber mínimo previsional garantizado**: $340.879,59.\n• **Vigencia del bono**: Congelado en $70.000 desde marzo de 2024.\n\n⚡ **Desarrollo:**\n• La medida fue publicada en el Boletín Oficial, firmada por el Presidente Javier Milei, el Jefe de Gabinete Manuel Adorni y la Ministra de Desarrollo Humano Santa Pettovello.\n• El bono está dirigido a titulares de prestaciones contributivas previsionales de ANSES, beneficiarios de la Pensión Universal para el Adulto Mayor (PUAM) y pensiones no contributivas (por vejez, invalidez o madres de siete hijos).\n• Se implementa con el objetivo de compensar los \"efectos perjudiciales\" de la Ley N° 27.609 de Movilidad Jubilatoria, que no resguardaba adecuadamente el poder de compra frente a la inflación.\n• Los beneficiarios deben estar activos en el mes de diciembre para percibir el bono, el cual no sufrirá descuentos ni se computará para otros conceptos.\n• Quienes perciben un haber igual o inferior al mínimo garantizado recibirán el monto total del bono; quienes superen ese umbral, recibirán un monto ajustado para alcanzar un tope establecido.\n• En casos de pensiones compartidas, se considera un único titular a los fines de la percepción del bono.\n• La Administración Nacional de la Seguridad Social (ANSES) es la responsable de dictar las normas complementarias y realizar el pago automático junto a los haberes y el aguinaldo.\n• La continuidad de este tipo de ayudas económicas está prevista desde enero de 2024 hasta noviembre de 2025, para sostener a los jubilados con menores ingresos.\n\n💡 **¿Por qué importa?**\n• Constituye un apoyo económico fundamental para la población jubilada y pensionada, ayudándolos a enfrentar el impacto de la inflación en sus ingresos.\n• Refleja la estrategia gubernamental de recurrir a bonos extraordinarios para complementar la movilidad previsional y garantizar un piso de ingresos dignos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Confirmaron el pago del bono de $70 mil para jubilados y pensionados: cómo quedan los haberes de diciembre",
+          "link": "https://www.infobae.com/economia/2025/12/01/confirmaron-el-pago-del-bono-de-70-mil-para-jubilados-y-pensionados-como-quedan-los-haberes-de-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-01 01:12:04"
+        },
+        {
+          "titulo": "Jubilados y pensionados: el Gobierno oficializó el pago del bono de hasta $70 mil para diciembre",
+          "link": "https://www.clarin.com/economia/jubilados-pensionados-gobierno-oficializo-pago-bono-70-mil-diciembre_0_CHOY6Y6ti0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 00:43:57"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "Infobae",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cow_emissions_tax_20251201",
+      "tema": "Cow Emissions Tax Proposal Argentina",
+      "tema_normalizado": "cow emissions tax proposal argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se propuso un proyecto de ley en la provincia de Buenos Aires, Argentina, para crear un impuesto ambiental.\n• La iniciativa busca gravar las emisiones de gas metano de la industria ganadera, principalmente de las vacas.\n• Los fondos recaudados se destinarían a financiar mejoras en la gestión de residuos sólidos urbanos para reducir otras fuentes de metano.\n\n🔍 **Datos clave:**\n• **Nombre del Proyecto:** Tasa Ambiental sobre el Metano en Buenos Aires (TAMBA).\n• **Proponente:** Legisladora bonaerense Lucía Klug (Unión por la Patria, vinculada a Juan Grabois). Su mandato finaliza pronto.\n• **Emisiones de Metano (vacas):** Se producen por fermentación entérica y manejo de estiércol.\n• **Contribución Global:** El metano (CH4) representa el 14,5% de los gases de efecto invernadero a nivel mundial.\n• **Emisiones en Buenos Aires:** La ganadería es responsable del 19% del metano provincial, y los residuos urbanos del 6%.\n• **Medición del Impuesto:** Se aplicaría en función de los kilogramos de CO2 equivalente (CO2e) emitidos por establecimiento, según la cantidad de cabezas de ganado.\n• **Oposición Principal:** Confederación de Asociaciones Rurales de Buenos Aires y La Pampa (CARBAP).\n\n⚡ **Desarrollo:**\n• El proyecto TAMBA se fundamenta en la \"imperiosa necesidad de enfrentar los desafíos del cambio climático\" y reducir las emisiones de gases de efecto invernadero.\n• Propone que las empresas ganaderas asentadas en la provincia de Buenos Aires sean los sujetos obligados a pagar esta tasa.\n• El mecanismo se basa en el principio de Responsabilidad Extendida del Productor para el sector ganadero.\n• Los fondos recaudados por la TAMBA crearían un fondo fiduciario para mejorar la gestión de residuos urbanos, una de las principales fuentes de metano, según la Ley N° 13.592 (GIRSU).\n• La provincia de Buenos Aires genera un cuarto del total de gases de efecto invernadero de Argentina.\n• Organizaciones del sector ganadero, como CARBAP, han rechazado enérgicamente la propuesta.\n• Argumentan que la ganadería ya soporta una alta presión impositiva y que sumar esta tasa reduciría producción, competitividad y empleo, en lugar de emisiones.\n\n💡 **¿Por qué importa?**\n• El debate resalta la tensión entre la necesidad de combatir el cambio climático y la protección de un sector económico clave en Argentina.\n• Podría sentar un precedente para futuras políticas ambientales que graven actividades productivas con impacto en las emisiones de gases contaminantes.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Una diputada aliada de Juan Grabois propone un impuesto a los gases de las vacas por su contribución al calentamiento global",
+          "link": "https://www.perfil.com/noticias/politica/una-diputada-aliada-de-juan-grabois-propone-un-impuesto-a-los-gases-de-las-vacas-por-su-contribucion-al-calentamiento-global.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 01:40:00"
+        },
+        {
+          "titulo": "“Cobrar por respirar”: revuelo porque una diputada kirchnerista quiere que las vacas paguen por un gas que emiten",
+          "link": "https://www.lanacion.com.ar/economia/campo/cobrar-por-respirar-revuelo-porque-una-diputada-kirchnerista-quiere-que-las-vacas-paguen-por-un-gas-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-11-30 19:48:01"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "La Nación",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
