@@ -1,108 +1,70 @@
 {
   "fecha": "2025-12-01",
-  "fecha_generacion": "2025-12-01T12:32:52.442869",
+  "fecha_generacion": "2025-12-01T15:22:20.412560",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "cotizaciones_dolar_y_20251201",
-      "tema": "Cotizaciones Dólar y Euro 1 Diciembre",
-      "tema_normalizado": "cotizaciones dolar y euro 1 diciembre",
-      "resumen": "Aquí tienes un resumen SIMPLE y DIDÁCTICO sobre las cotizaciones del Dólar y Euro para el 1 de diciembre:\n\n📌 **¿Qué está pasando?**\n• El 1 de diciembre de 2025, el mercado cambiario argentino inició el mes con una relativa estabilidad en las cotizaciones del dólar oficial.\n• Los diferentes tipos de cambio del dólar (blue, MEP, CCL, tarjeta y cripto) mostraron valores variados, con tendencias al alza o estables en el mes y la semana.\n• El euro, tanto en su versión oficial como blue, también registró sus propias cotizaciones, con el euro blue evidenciando una suba.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (minorista BNA):** Compra $1.425 / Venta $1.475\n• **Dólar Mayorista:** Cerró en $1.451,50\n• **Dólar Blue:** Compra $1.415 / Venta $1.435\n• **Dólar MEP (Bolsa):** Compra $1.474,40 / Venta $1.476,90\n• **Dólar CCL (Contado con Liquidación):** Compra $1.514,30 / Venta $1.515,10\n• **Dólar Tarjeta:** $1.917,50\n• **Dólar Cripto:** Compra $1.496,27 / Venta $1.514,09\n• **Euro Oficial (BCRA promedio):** Compra $1.622,43 / Venta $1.715,04\n• **Euro Blue:** Compra $1.717,75 / Venta $1.749,75\n\n⚡ **Desarrollo:**\n• El dólar oficial, bajo el control del Banco Central (BCRA), mostró estabilidad, cerrando noviembre de 2025 con un avance moderado del 0,5%.\n• El dólar blue, que es la divisa en el mercado informal o \"negro\", es el que se negocia por fuera del circuito bancario.\n• Los dólares financieros, como el MEP (dólar bolsa) y el CCL (contado con liquidación), son mecanismos legales para adquirir divisas. El MEP es una opción para atesoramiento, mientras que el CCL permite mover fondos al exterior.\n• El dólar tarjeta, el más costoso, incluye al dólar oficial minorista más un 30% del Impuesto País y un 30% de Ganancias, sumando un recargo total del 60%. Se utiliza para consumos y viajes en el exterior.\n• El dólar cripto, que se basa en \"stablecoins\" atadas al dólar, mostró una suba del 2% en lo que va de diciembre de 2025 respecto al mes anterior.\n• El euro blue, al igual que el dólar blue, circula en el mercado informal y cotiza con una brecha sustancial respecto al euro oficial.\n• Los mercados se encuentran expectantes a las definiciones políticas del Congreso y la estrategia económica para afrontar los compromisos de deuda en 2026.\n• Las reservas brutas internacionales del BCRA cerraron noviembre con una mejora de u$s932 millones, pese a movimientos habituales de fin de mes.\n\n💡 **¿Por qué importa?**\n• Las distintas cotizaciones del dólar y el euro afectan directamente la economía cotidiana de las personas y las empresas, desde el valor de los productos importados hasta el costo de los viajes.\n• La estabilidad o las fluctuaciones de estas divisas son indicadores clave de la situación económica general del país, impactando en la inflación y la confianza de los inversores.",
-      "cantidad_noticias": 14,
+      "tema_id": "dolar_en_argentina:_20251201",
+      "tema": "Dólar en Argentina: Cotización Diaria",
+      "tema_normalizado": "dolar en argentina: cotizacion diaria",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado del dólar en Argentina comenzó diciembre con una relativa estabilidad en sus cotizaciones oficiales, manteniendo lo que se denomina \"pax cambiaria\".\n*   Sin embargo, las distintas versiones del dólar (oficial, blue, MEP, CCL, etc.) muestran valores y movimientos variados, reflejando la complejidad del sistema cambiario argentino.\n*   Este lunes 1 de diciembre, la atención se centró en la publicación de las diferentes cotizaciones y en el balance del comportamiento de la moneda durante noviembre.\n\n🔍 **Datos clave:**\n*   **Dólar Blue (1 de Dic):** Compra $1.415 - Venta $1.435\n*   **Dólar Oficial Minorista (Banco Nación):** Compra $1.425 - Venta $1.475\n*   **Dólar Mayorista:** $1.449 (referencia del mercado)\n*   **Dólar MEP:** Opera a $1.475,50 (brecha con oficial 1,8%)\n*   **Dólar CCL:** Cotiza a $1.509,85 (brecha con oficial 4,2%)\n*   **Dólar Tarjeta/Turista:** $1.917,50 (oficial minorista + 30%)\n*   **Dólar Cripto:** $1.500 (según Bitso)\n*   **Avance Dólar Oficial (Noviembre):** $6,5 o 0,5% (mayorista)\n*   **Riesgo País (J.P. Morgan):** 649 puntos básicos\n\n⚡ **Desarrollo:**\n*   Noviembre cerró con una suba muy moderada del dólar mayorista de solo 0,5% ($6,5), lo que implicó una \"pax cambiaria\" sostenida por compras del Tesoro en el Mercado Libre de Cambios (MLC).\n*   Esta calma se vio reforzada por un menor apetito de la demanda para dolarizarse, especialmente tras las elecciones, lo que redujo la presión sobre el tipo de cambio.\n*   En el mercado argentino coexisten diversos tipos de dólar, cada uno con un valor y uso específico: el oficial (minorista y mayorista), el blue (informal), el MEP (Bolsa), el CCL (Contado con Liquidación para girar divisas), el tarjeta (para consumos en el exterior) y el cripto.\n*   La Comisión Nacional de Valores (CNV) implementó una excepción al límite de $200 millones diarios para operaciones de dólar CCL de no residentes, permitiendo reinvertir servicios de deuda en pesos en nuevos bonos del Tesoro.\n*   El S&P Merval en dólares, un índice bursátil, mostró un buen desempeño al subir por quinta jornada consecutiva y superar los 2.000 puntos, aunque los bonos soberanos cerraron a la baja.\n*   Las reservas brutas internacionales del Banco Central (BCRA) cayeron u$s1.645 millones el viernes, aunque acumularon una mejora de u$s932 millones en el balance de noviembre.\n\n💡 **¿Por qué importa?**\n*   La estabilidad en el dólar oficial es crucial para la economía, ya que puede influir en la contención de la inflación y en la percepción de confianza en el rumbo económico.\n*   La brecha entre las distintas cotizaciones del dólar afecta el bolsillo de los ciudadanos y las decisiones de empresas, impactando en precios, inversiones y acceso a divisas.",
+      "cantidad_noticias": 8,
       "noticias": [
-        {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este lunes 1° de diciembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-1-de-diciembre-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 09:20:00"
-        },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 1 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-1-diciembre-n6219376",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 08:58:00"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este lunes 01 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-lunes-01-diciembre_0_HU3BVD1jAe.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:08:00"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este lunes 01 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-lunes-01-diciembre_0_wT970JIHqM.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:08:00"
-        },
-        {
-          "titulo": "Dólar cripto hoy: a cuánto cotiza este lunes 01 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-lunes-01-diciembre_0_hvxJbZhlHs.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:05:02"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este lunes 01 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-lunes-01-diciembre_0_bG2s5sgmZE.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:05:02"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este lunes 1 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-lunes-1-diciembre-n6218900",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 07:05:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este lunes 1° de diciembre, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-lunes-1-diciembre-minuto-minuto_0_q6JuaOdPNb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:01:50"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este lunes 01 de diciembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-lunes-01-diciembre_0_zxDJz4LVml.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:00:01"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este lunes 1 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-lunes-1-diciembre-n6219303",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 00:00:00"
+          "fecha": "2025-12-01 12:07:00"
         },
         {
           "titulo": "Dólar blue hoy: a cuánto opera este lunes 1 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-1-diciembre-n6219290",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 00:00:00"
+          "fecha": "2025-12-01 11:58:00"
+        },
+        {
+          "titulo": "El dólar mantiene la pax cambiaria y arranca diciembre con una leve baja",
+          "link": "https://www.ambito.com/finanzas/el-dolar-mantiene-la-pax-cambiaria-y-la-atencion-la-city-sigue-puesta-la-acumulacion-reservas-n6219381",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 11:57:00"
         },
         {
           "titulo": "Dólar hoy: a cuánto cotiza este lunes 1 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-lunes-1-diciembre-n6219287",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 00:00:00"
+          "fecha": "2025-12-01 11:57:00"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este lunes 1 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-lunes-1-de-diciembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 19:52:14"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este lunes 1° de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-1-de-diciembre-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 11:40:00"
         },
         {
-          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este lunes 1 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-lunes-1-de-diciembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 19:46:02"
+          "titulo": "Real blue: a cuánto opera este lunes 1 de diciembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-lunes-1-diciembre-n6219429",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 10:57:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este lunes 1 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-lunes-1-diciembre-n6219303",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 10:56:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este lunes 01 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-lunes-01-diciembre_0_ZES1eQ3TSs.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 09:00:02"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "Perfil",
+        "Ámbito Financiero",
         "La Nación",
-        "Clarín",
-        "Minuto1",
-        "Ámbito Financiero"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -110,15 +72,69 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "pagos_anses_y_20251201",
-      "tema": "Pagos ANSES y Aguinaldo Diciembre 2025",
-      "tema_normalizado": "pagos anses y aguinaldo diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre de 2025 marca el pago del aguinaldo para trabajadores, jubilados y pensionados, junto con importantes actualizaciones en diversas prestaciones de ANSES.\n• Se aplican aumentos mensuales por inflación, bonos extraordinarios y vencimientos de trámites clave como la Libreta AUH.\n\n🔍 **Datos clave:**\n• **Aguinaldo:** 50% del mayor sueldo del semestre (julio-diciembre).\n• **Fecha límite aguinaldo:** 18 de diciembre para trabajadores, con extensión hasta el 24/12. Jubilados: con haber principal.\n• **Aumento general ANSES:** 2.34% (según Índice de Precios al Consumidor de octubre).\n• **Bono jubilados/pensionados:** $70.000 (para haberes mínimos, Pensión Universal para el Adulto Mayor - PUAM, Pensiones No Contributivas - PNC).\n• **Jubilación mínima (total con bono y aguinaldo):** $581.319,38.\n• **Libreta AUH:** Plazo máximo para presentar: 31 de diciembre de 2025.\n• **Volver al Trabajo / Acompañamiento Social:** $78.000 (cobro el 5 de diciembre).\n• **Tarjeta Alimentar:** Sin cambios, montos entre $52.250 (1 hijo/embarazo) y $108.062 (3 o más hijos).\n\n⚡ **Desarrollo:**\n• **Aguinaldo (SAC):**\n    • Lo perciben: Trabajadores en relación de dependencia, jubilados y pensionados (SIPA, PUAM, PNC).\n    • No lo cobran: Titulares de Asignación Universal por Hijo (AUH), Asignación Universal por Embarazo (AUE), Sistema Único de Asignaciones Familiares (SUAF) y otros programas sociales sin carácter previsional.\n    • Cálculo: Corresponde al 50% de la mayor remuneración mensual bruta percibida en el semestre (julio-diciembre). Se liquida proporcional si se trabajó menos de 6 meses.\n• **Aumentos y Bonos ANSES:**\n    • La mayoría de las prestaciones (jubilaciones, pensiones, AUH, AUE, Asignaciones Familiares) se ajustan un 2.34% por la inflación de octubre.\n    • El bono extraordinario de $70.000 para jubilados/pensionados con haberes mínimos, PUAM y PNC, se mantiene sin actualización y se suma al haber y aguinaldo.\n• **Programas Específicos ANSES:**\n    • **Libreta AUH:** Es obligatoria hasta el 31/12 para cobrar el 20% retenido de la prestación y asegurar la Ayuda Escolar 2026. Puede realizarse de forma digital o presencial. Monto AUH: $97.993,42.\n    • **Volver al Trabajo / Acompañamiento Social:** Mantienen un monto fijo de $78.000, sin actualizaciones este mes.\n    • **Tarjeta Alimentar:** No presenta aumentos, con montos fijos según la cantidad de hijos o situación familiar.\n    • **Asignaciones Familiares (SUAF):** Aumentan un 2.34%, ajustando los tramos y topes de ingresos familiares que permiten acceder al beneficio.\n• **Otros Sectores con Aguinaldo y Ajustes:**\n    • **Niñeras/Servicio Doméstico:** Reciben un 1.3% de aumento, un bono extraordinario (entre $6.000 y $14.000 según horas) y aguinaldo.\n    • **Empleados Bancarios:** Tienen un incremento salarial del 2.3% más el aguinaldo. Salario inicial: $1.959.956,26.\n    • **Empleados de Comercio:** Aumento del 1% más una suma fija de $40.000 (no remunerativa), además del aguinaldo. No se acordó bono adicional.\n• **PAMI:** Implementa requisitos y controles más estrictos para acceder a reintegros del 100% de medicamentos, priorizando condiciones socioeconómicas específicas.\n\n💡 **¿Por qué importa?**\n• Brinda información esencial y estructurada para la planificación económica de millones de argentinos en el cierre del año.\n• Refleja la estrategia de ANSES y los convenios laborales para mitigar el impacto de la inflación a través de ajustes y bonificaciones.",
-      "cantidad_noticias": 32,
+      "tema_id": "sueldos_y_aguinaldo_20251201",
+      "tema": "Sueldos y Aguinaldo Diciembre 2025",
+      "tema_normalizado": "sueldos y aguinaldo diciembre 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre de 2025 trae importantes novedades en sueldos, aguinaldos y beneficios sociales para diversos sectores en Argentina.\n• Se aplican aumentos salariales, pagos de la segunda cuota del aguinaldo y bonos adicionales, buscando ajustar los ingresos en un contexto inflacionario.\n• También se actualizan las bases del Impuesto a las Ganancias, impactando directamente en el monto neto percibido por los trabajadores.\n\n🔍 **Datos clave:**\n• **Aguinaldo:** Fecha límite de pago el 18 de diciembre (con extensión hasta el 24 de diciembre). Se calcula como el 50% del mejor sueldo bruto del segundo semestre.\n• **Impuesto a las Ganancias:** Deducciones personales y escalas elevadas un 15,10% para julio-diciembre 2025. El piso salarial para empezar a tributar para un soltero sin hijos es de $2.360.180 neto en noviembre.\n• **Jubilados y Pensionados (ANSES):** Aumento del 2,34% en diciembre, más un bono extraordinario de $70.000 para haberes mínimos. La jubilación mínima total, con aguinaldo, alcanza los $581.319,39.\n• **Personal Doméstico:** Aumento del 1,3% en diciembre y bonos no remunerativos de entre $6.000 y $14.000, según la carga horaria semanal.\n• **Encargados de Edificios:** Incorporación de $50.000 al salario básico de diciembre, además de un adicional del 7% en concepto de viáticos remunerativos.\n• **Salario Mínimo Vital y Móvil (SMVM):** En noviembre fue de $322.200; el valor de diciembre aún no fue oficializado y se definirá por decreto.\n\n⚡ **Desarrollo:**\n• El aguinaldo de diciembre corresponde a trabajadores registrados del sector público y privado, personal doméstico formalizado, y beneficiarios de jubilaciones, Pensiones No Contributivas (PNC) y PUAM de ANSES.\n• Programas como la Asignación Universal por Hijo (AUH), Asignación Universal por Embarazo (AUE) y el Sistema Único de Asignaciones Familiares (SUAF) quedan excluidos del cobro del aguinaldo.\n• Las actualizaciones en el Impuesto a las Ganancias para el segundo semestre reducen la carga tributaria para muchos empleados, especialmente aquellos con aumentos salariales moderados, elevando los pisos salariales de exención.\n• Los jubilados y pensionados de ANSES recibirán en diciembre el haber actualizado, el bono de $70.000 y el medio aguinaldo, constituyendo su ingreso más alto del año.\n• El personal doméstico percibe un incremento salarial del 1,3% acumulado en diciembre, sumado a un bono extraordinario no remunerativo que varía según las horas trabajadas, además de los adicionales correspondientes.\n• Los encargados de edificios, tras un aumento del 1,6% en noviembre, incorporan $50.000 al básico en diciembre, con un adicional del 7% por viáticos remunerativos, lo que impacta también en las expensas.\n• La definición del Salario Mínimo Vital y Móvil para diciembre, pendiente de decreto gubernamental tras no lograrse un acuerdo, es crucial ya que este valor impacta en numerosas prestaciones sociales y el piso salarial general.\n\n💡 **¿Por qué importa?**\n• Estas medidas son fundamentales para el poder adquisitivo de millones de personas, ofreciendo un alivio económico en el cierre del año 2025 ante la persistente inflación.\n• La combinación de aumentos salariales, bonos y el aguinaldo busca mitigar el impacto del costo de vida y mejorar el bienestar financiero de diversos sectores de la población argentina.",
+      "cantidad_noticias": 12,
       "noticias": [
+        {
+          "titulo": "Impuesto a las Ganancias noviembre y diciembre 2025: deducciones, escalas y el piso salarial",
+          "link": "https://www.iprofesional.com/impuestos/443049-impuesto-a-las-ganancias-noviembre-y-diciembre-2025-deducciones-escalas-y-piso-salarial",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 11:29:00"
+        },
+        {
+          "titulo": "ANSES confirmó aumento del 2,34%, bono de $70.000 y aguinaldo: cómo quedan las jubilaciones mínimas en diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/anses-confirmo-aumento-del-234-bono-de-70000-y-aguinaldo-como-quedan-las-jubilaciones-minimas-en-diciembre-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 10:33:48"
+        },
+        {
+          "titulo": "Empleo doméstico: cómo impacta el nuevo bono en el sueldo de diciembre 2025",
+          "link": "https://www.iprofesional.com/impuestos/443033-empleo-domestico-como-impacta-el-nuevo-bono-en-el-sueldo-de-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 10:24:00"
+        },
+        {
+          "titulo": "Encargados de Edificios: Cómo quedó la escala salarial de diciembre con adicionales y aguinaldo",
+          "link": "https://www.iprofesional.com/economia/443028-aumento-para-encargados-de-edificios-como-escala-salarial-de-diciembre-con-el-aguinaldo",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 10:22:00"
+        },
+        {
+          "titulo": "Sueldo empleada doméstica en noviembre y diciembre: cuánto sube y qué pasa con el bono",
+          "link": "https://www.iprofesional.com/economia/443031-sueldo-empleada-domestica-en-noviembre-y-diciembre-cuanto-sube-y-que-pasa-con-el-bono",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 09:55:00"
+        },
+        {
+          "titulo": "Hasta qué día me pueden pagar el aguinaldo en diciembre 2025, según la ley",
+          "link": "https://www.ambito.com/economia/hasta-que-dia-me-pueden-pagar-el-aguinaldo-diciembre-2025-segun-la-ley-n6219405",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 09:30:00"
+        },
+        {
+          "titulo": "Qué prestaciones de ANSES cobran el aguinaldo de diciembre 2025",
+          "link": "https://www.perfil.com/noticias/economia/que-prestaciones-de-anses-cobran-el-aguinaldo-de-diciembre-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 09:15:00"
+        },
+        {
+          "titulo": "Salario Mínimo Vital y Móvil de diciembre 2025: en cuánto queda este mes",
+          "link": "https://www.clarin.com/economia/salario-minimo-vital-movil-diciembre-2025-queda-mes_0_Sb5cAbi1e8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 09:11:17"
+        },
         {
           "titulo": "ANSES: quiénes quedan exentos del cobro de aguinaldo en diciembre 2025",
           "link": "https://www.iprofesional.com/impuestos/443017-anses-quienes-quedan-exentos-del-cobro-de-aguinaldo-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 09:00:00"
+        },
+        {
+          "titulo": "Cómo se calcula el aguinaldo 2025: guía paso a paso",
+          "link": "https://www.iprofesional.com/impuestos/442986-como-se-calcula-el-aguinaldo-2025-guia-paso-a-paso-con-ejemplos-practicos",
           "fuente": "iProfesional",
           "fecha": "2025-12-01 09:00:00"
         },
@@ -129,195 +145,21 @@
           "fecha": "2025-12-01 08:52:46"
         },
         {
-          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:25:19"
-        },
-        {
-          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:25:16"
-        },
-        {
-          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:25:13"
-        },
-        {
-          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
-          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:25:00"
-        },
-        {
-          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:56"
-        },
-        {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:54"
-        },
-        {
-          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:51"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:49"
-        },
-        {
-          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:46"
-        },
-        {
-          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:43"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:41"
-        },
-        {
-          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:24:38"
-        },
-        {
-          "titulo": "Calculadora de aguinaldo 2025: cómo saber cuánto voy a cobrar en diciembre",
-          "link": "https://www.lanacion.com.ar/economia/calculadora-de-aguinaldo-2025-como-saber-cuanto-voy-a-cobrar-en-diciembre-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:22:27"
-        },
-        {
-          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:22:25"
-        },
-        {
-          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:22:22"
-        },
-        {
-          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:22:19"
-        },
-        {
-          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:21:44"
-        },
-        {
           "titulo": "ANSES: quiénes no podrán cobrar el aguinaldo de diciembre",
           "link": "https://www.minutouno.com/economia/anses-quienes-no-podran-cobrar-el-aguinaldo-diciembre-n6219331",
           "fuente": "Minuto1",
           "fecha": "2025-12-01 08:20:00"
-        },
-        {
-          "titulo": "Sin acuerdo en la revisión salarial de empleados de comercio: ¿habrá bono en diciembre 2025?",
-          "link": "https://www.iprofesional.com/impuestos/443021-revision-salarial-de-empleados-de-comercio-habra-bono-en-diciembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 08:10:00"
-        },
-        {
-          "titulo": "PAMI medicamentos gratis: qué cubre y cómo acceder en  diciembre 2025",
-          "link": "https://www.iprofesional.com/impuestos/443016-pami-medicamentos-gratis-que-cubre-y-como-acceder-en-diciembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 08:09:00"
-        },
-        {
-          "titulo": "Oficializaron bono ANSES de $70 mil para jubilados: cómo quedan los haberes de diciembre",
-          "link": "https://www.iprofesional.com/impuestos/443015-oficializaron-el-bono-de-70-mil-para-jubilados-como-quedan-los-haberes-de-diciembre",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 08:08:00"
-        },
-        {
-          "titulo": "Sigue congelado: el Gobierno oficializó el pago del bono de 70 mil pesos a jubilados",
-          "link": "https://www.minutouno.com/economia/sigue-congelado-el-gobierno-oficializo-el-pago-del-bono-70-mil-pesos-jubilados-n6219373",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 07:40:00"
-        },
-        {
-          "titulo": "Últimos días para presentar la Libreta AUH: ANSES fija el 31 de diciembre como plazo definitivo",
-          "link": "https://www.perfil.com/noticias/economia/ultimos-dias-para-presentar-la-libreta-auh-anses-fija-el-31-de-diciembre-como-plazo-definitivo.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 07:29:00"
-        },
-        {
-          "titulo": "Empleados de comercio: negocian salarios y un bono de fin de año en 2025",
-          "link": "https://www.iprofesional.com/impuestos/443000-empleados-comercio-negocian-salarios-y-bono-fin-de-ano-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 07:24:00"
-        },
-        {
-          "titulo": "PAMI ajusta los requisitos para reintegros de medicamentos y refuerza controles en recetas",
-          "link": "https://www.perfil.com/noticias/economia/pami-ajusta-los-requisitos-para-reintegros-de-medicamentos-y-refuerza-controles-en-recetas.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 07:19:00"
-        },
-        {
-          "titulo": "ANSES: el trámite que deben hacer los desempleados para recibir un bono",
-          "link": "https://www.minutouno.com/economia/anses-el-tramite-que-deben-hacer-los-desempleados-recibir-un-bono-n6219327",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 07:15:00"
-        },
-        {
-          "titulo": "Libreta AUH 2025: el paso a paso para la presentación digital",
-          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-el-paso-a-paso-para-la-presentacion-digital-nid28112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 07:10:18"
-        },
-        {
-          "titulo": "ANSeS cuándo cobro: el calendario de pagos completo de diciembre de 2025",
-          "link": "https://www.clarin.com/economia/anses-cobro-calendario-pagos-completo-diciembre-2025_0_8y8eAaF1vR.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 06:01:52"
-        },
-        {
-          "titulo": "ANSES: el aumento confirmado para las Asignaciones Familiares en diciembre",
-          "link": "https://www.minutouno.com/economia/anses-el-aumento-confirmado-las-asignaciones-familiares-diciembre-n6219029",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:28:00"
-        },
-        {
-          "titulo": "Uno a uno, todos los trabajadores que cobran aumento de salarios, más el aguinaldo en diciembre",
-          "link": "https://www.ambito.com/economia/uno-uno-todos-los-trabajadores-que-cobran-aumento-salarios-mas-el-aguinaldo-diciembre-n6218185",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 18:46:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "Perfil",
         "La Nación",
-        "Clarín",
         "Minuto1",
-        "iProfesional",
-        "Ámbito Financiero"
+        "Clarín",
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -325,12 +167,24 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "aumentos_de_tarifas_20251201",
-      "tema": "Aumentos de Tarifas y Combustibles Diciembre 2025",
-      "tema_normalizado": "aumentos de tarifas y combustibles diciembre 2025",
-      "resumen": "📌 **¿Qué está pasando?**\n• A partir del 1° de diciembre de 2025, el Gobierno oficializó nuevos aumentos en las tarifas de servicios esenciales como luz, gas, transporte público y peajes en el Área Metropolitana de Buenos Aires (AMBA).\n• También se registran subas en los precios de los combustibles debido a la actualización de impuestos y el incremento en los valores de los biocombustibles.\n• Estos ajustes buscan corregir precios relativos y reducir subsidios, impactando directamente en el gasto de hogares, comercios e industrias.\n\n🔍 **Datos clave:**\n• **Luz y Gas:** Incremento promedio del 2,8%. Desde enero 2026, más de 140 mil familias de ingresos medios (N1, N2, N3) perderán subsidios.\n• **Transporte AMBA:** Colectivos CABA suben 4,3% (mínimo $593,52); PBA hasta 14,8% (mínimo $658,44); Subte $1.206; Peajes (ej. Perito Moreno) $4.912,67.\n• **Combustibles:** Aumento impositivo de $17,38/litro para nafta y $13,546 más otros gravámenes para gasoil. Se fijaron nuevos precios para biodiesel ($1.775.230/tonelada) y bioetanol (caña $963,926/litro, maíz $883,464/litro).\n• **Otros aumentos:** Alquileres (28,67%), Telefonía (hasta 4%), Prepagas (entre 2,3% y 2,4%).\n• **Organismos involucrados:** ENRE, ENARGAS, Secretaría de Energía (María Carmen Tettamanti), Gobierno porteño.\n\n⚡ **Desarrollo:**\n• Las tarifas de luz y gas se ajustan por componentes de generación, transporte, distribución y costos mayoristas, aplicando mecanismos de actualización mensual y una revisión quinquenal.\n• Los cambios en subsidios eliminarán los niveles N1, N2 y N3 para clasificar a los hogares en \"con subsidios\" y \"sin subsidios\" desde enero 2026, con topes de consumo subsidiado aún vigentes para Nivel 2 (350 kWh) y Nivel 3 (250 kWh).\n• Los aumentos en transporte reflejan la \"recomposición del atraso tarifario\", generando tres esquemas distintos para colectivos en el AMBA y progresivos ajustes en subtes y peajes de la Ciudad.\n• La suba en combustibles se debe a la actualización parcial del Impuesto sobre los Combustibles Líquidos (ICL) y al Dióxido de Carbono (IDC) postergada previamente, con un incremento más significativo previsto para enero de 2026.\n• Adicionalmente, el Gobierno ajustó los precios del bioetanol y biodiesel, componentes obligatorios en la mezcla de naftas y gasoil, lo que ejerce una presión adicional en los precios de surtidor.\n\n💡 **¿Por qué importa?**\n• Estos aumentos impactan el poder adquisitivo de los ciudadanos, encareciendo el costo de vida y la operatoria de comercios e industrias.\n• Son parte de una política más amplia de reducción de subsidios y corrección de precios relativos, con proyecciones de mayores ajustes para principios de 2026, especialmente en combustibles.",
-      "cantidad_noticias": 7,
+      "tema_id": "tarifas_servicios_publicos:_20251201",
+      "tema": "Tarifas Servicios Públicos: Aumentos Diciembre",
+      "tema_normalizado": "tarifas servicios publicos: aumentos diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Desde el 1 de diciembre de 2025, se implementan nuevos aumentos en las tarifas de servicios públicos esenciales como el transporte, la electricidad y el gas.\n• Estas subas afectan a usuarios residenciales, comerciales e industriales en la Ciudad Autónoma de Buenos Aires (CABA), el Área Metropolitana de Buenos Aires (AMBA) y a nivel nacional.\n• Los incrementos se justifican por ajustes inflacionarios, mecanismos de actualización mensual y una política gubernamental de reducción de subsidios.\n\n🔍 **Datos clave:**\n• **Fecha de inicio:** 1 de diciembre de 2025.\n• **Aumento promedio luz y gas:** 2,8%.\n• **Aumento colectivos CABA:** 4,3%.\n• **Aumento colectivos Provincia de Buenos Aires:** 14,8% (incluye un 10% adicional y actualización).\n• **Tarifa mínima colectivo CABA (0-3km):** $593,52.\n• **Tarifa mínima colectivo Provincia (0-3km, SUBE registrada):** $658,44.\n• **Tarifa Subte CABA:** $1.206 por viaje.\n• **Peaje Autopista Perito Moreno/25 de Mayo (hora pico):** $4.912,67.\n• **Familias de ingresos medios sin subsidios (desde enero 2026):** Más de 140.000.\n\n⚡ **Desarrollo:**\n• Los aumentos en el transporte público incluyen colectivos, subtes y peajes, con tarifas diferenciadas por jurisdicción (CABA vs. Provincia de Buenos Aires) y por tramos de distancia.\n• La suba de colectivos en CABA (4,3%) se calcula con base en un 2% más el índice de inflación de octubre (2,3%).\n• Las tarifas de electricidad y gas se actualizan en un 2,8% en promedio, según resoluciones del ENRE (Ente Nacional Regulador de la Electricidad) y ENARGAS (Ente Nacional Regulador del Gas), como las 797/2025 y 798/2025.\n• Para la electricidad, se ajustan componentes como el Costo Propio de Distribución (CPD) para distribuidoras como Edesur (1,86%) y Edenor (1,93%), además del Precio Estabilizado de la Energía (PEE) y el Precio Estacional del Transporte (PET).\n• En el gas natural, la actualización considera el precio en el punto de ingreso al sistema de transporte (PIST), la Revisión Quinquenal de Tarifas (RQT) y los mecanismos de ajuste mensual.\n• El Gobierno también oficializó la quita de subsidios para más de 140.000 familias de ingresos medios a partir del 1 de enero de 2026, quienes comenzarán a abonar las tarifas plenas de luz y gas.\n• Se mantienen topes de consumo subsidiado para usuarios de menores ingresos (Nivel 2 y Nivel 3) en electricidad, con 350 kWh y 250 kWh mensuales respectivamente, para consumos excedentes se aplican tarifas superiores.\n• Estas medidas buscan avanzar en la eliminación de subsidios y la corrección de precios relativos en los servicios públicos, siguiendo directrices del Ministerio de Economía y la Secretaría de Energía.\n\n💡 **¿Por qué importa?**\n• Los nuevos incrementos tienen un impacto directo en el presupuesto familiar y empresarial, aumentando el costo de vida y la presión inflacionaria.\n• La política de reducción de subsidios representa un cambio significativo en el esquema tarifario nacional, trasladando una mayor carga económica directamente a los consumidores.",
+      "cantidad_noticias": 6,
       "noticias": [
+        {
+          "titulo": "Aumentos en los transportes públicos: cuánto cuesta viajar en diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/aumentos-en-los-transportes-publicos-cuanto-cuesta-viajar-en-diciembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 10:20:00"
+        },
+        {
+          "titulo": "Confirman el aumento de la luz y el gas en diciembre: de cuánto será la suba",
+          "link": "https://www.clarin.com/economia/aumento-luz-gas-diciembre-suba_0_bw9cMwfFa5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 10:04:15"
+        },
         {
           "titulo": "El Gobierno oficializó los nuevos aumentos en las tarifas de luz y gas: de cuánto son",
           "link": "https://www.minutouno.com/economia/el-gobierno-oficializo-los-nuevos-aumentos-las-tarifas-luz-y-gas-cuanto-son-n6219387",
@@ -344,88 +198,25 @@
           "fecha": "2025-12-01 09:05:00"
         },
         {
+          "titulo": "Alquileres, prepagas y transporte y otros servicios: cuáles son los aumentos de diciembre 2025",
+          "link": "https://www.iprofesional.com/economia/442720-alquileres-prepagas-y-transporte-y-mas-que-servicios-aumentan-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 08:48:00"
+        },
+        {
           "titulo": "La luz y el gas suben 2,8% en promedio en diciembre de 2025",
           "link": "https://www.perfil.com/noticias/economia/luz-y-gas-con-aumento-confirmado-en-diciembre-2025-sube-28-promedio-la-tarifa-de-ambos-servicios.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-01 08:35:13"
-        },
-        {
-          "titulo": "Más presión para los precios de los combustibles: el Gobierno subió el bioetanol y el biodiesel",
-          "link": "https://www.minutouno.com/economia/mas-presion-los-precios-los-combustibles-el-gobierno-subio-el-bioetanol-y-el-biodiesel-n6219380",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 08:25:00"
-        },
-        {
-          "titulo": "Nuevo aumento para transportes y peajes: qué tarifas regirán en el AMBA",
-          "link": "https://www.ambito.com/economia/nuevo-aumento-transportes-y-peajes-que-tarifas-regiran-el-amba-n6219016",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 07:34:00"
-        },
-        {
-          "titulo": "El aumento de la nafta y el gasoil este 1 de diciembre por Impuesto a los Combustibles",
-          "link": "https://www.iprofesional.com/impuestos/443018-cuanto-aumenta-nafta-1-de-diciembre-por-impuesto-combustibles",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 05:52:00"
-        },
-        {
-          "titulo": "Uno por uno, todos los aumentos que llegan en diciembre",
-          "link": "https://www.minutouno.com/economia/uno-uno-todos-los-aumentos-que-llegan-diciembre-n6219360",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:33:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
+        "Minuto1",
         "iProfesional",
-        "Perfil",
-        "Ámbito Financiero",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "renuncia_patricia_bullrich_20251201",
-      "tema": "Renuncia Patricia Bullrich Seguridad",
-      "tema_normalizado": "renuncia patricia bullrich seguridad",
-      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich presentó su renuncia al cargo de Ministra de Seguridad de la Nación, formalizando su salida del Poder Ejecutivo.\n• Esta dimisión se hizo efectiva para que ella asuma su banca como Senadora Nacional, un cargo que obtuvo en las elecciones legislativas.\n• Alejandra Monteoliva, quien se desempeñaba como secretaria de la cartera, será su reemplazante designada en el Ministerio de Seguridad.\n\n🔍 **Datos clave:**\n• **Renuncia efectiva:** 1° de diciembre de 2025.\n• **Asunción como Senadora:** 10 de diciembre de 2025.\n• **Reemplazante:** Alejandra Monteoliva.\n• **Nuevo rol de Bullrich:** Liderará el bloque de senadores de La Libertad Avanza en la Cámara Alta.\n\n⚡ **Desarrollo:**\n• Bullrich difundió una carta oficial donde agradeció al Presidente Javier Milei la \"confianza y el respaldo\" para ejecutar la \"doctrina de seguridad y orden que hoy prevalece en el país\".\n• En su nuevo rol legislativo, aseguró que continuará defendiendo \"las reformas que el país necesita\", así como los valores de \"instituciones fuertes, ley y orden\".\n• La funcionaria —que ya había ocupado ese cargo entre 2015 y 2019— se convirtió en una figura clave del Gabinete libertario, especialmente en la aplicación del Protocolo de Orden Público.\n• Ministros como Luis Caputo y Federico Sturzenegger despidieron a Bullrich con honores, destacándola públicamente como \"la mejor Ministra de Seguridad de la historia\".\n• Bullrich expresó su apoyo a Alejandra Monteoliva, señalándola como la persona \"capaz de continuar con la doctrina que hoy logró el orden en el país\" por su capacidad, experiencia y compromiso.\n• Un incidente notable ocurrió en el Senado, donde la Vicepresidenta Victoria Villarruel le negó la palabra a Bullrich durante la jura de los nuevos senadores.\n\n💡 **¿Por qué importa?**\n• La designación de Monteoliva busca garantizar la continuidad de las políticas de seguridad y la \"doctrina de orden\" implementada por Bullrich, manteniendo la coherencia en un área clave.\n• La llegada de Bullrich al Senado como jefa de bloque de LLA fortalece al oficialismo en el Poder Legislativo, siendo crucial para impulsar sus reformas y el Presupuesto 2026.\n• Su experiencia y perfil confrontativo podrían generar nuevos debates y tensiones en el Congreso, influyendo en la dinámica política nacional.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "\"La mejor Ministra de Seguridad de la historia\", la despedida del Gobierno de Patricia Bullrich, quien presentó su renuncia para asumir su banca en el Senado",
-          "link": "https://www.clarin.com/politica/mejor-ministra-seguridad-historia-despedida-gobierno-patricia-bullrich-presento-renuncia-asumir-banca-senado_0_XBCtx6kpxB.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 07:50:58"
-        },
-        {
-          "titulo": "Patricia Bullrich formalizó su renuncia en Seguridad para defender \"las reformas que el país necesita\"",
-          "link": "https://www.minutouno.com/politica/patricia-bullrich-formalizo-su-renuncia-seguridad-defender-las-reformas-que-el-pais-necesita-n6219319",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 23:46:00"
-        },
-        {
-          "titulo": "Patricia Bullrich formalizó su salida del Ministerio de Seguridad ante Javier Milei",
-          "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-dejo-el-ministerio-de-seguridad-y-formalizo-su-salida-ante-milei.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 22:30:00"
-        },
-        {
-          "titulo": "Patricia Bullrich presentó su renuncia como ministra de Seguridad",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-presento-su-renuncia-como-ministra-seguridad-n6219318",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 20:29:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
         "Clarín",
-        "Minuto1"
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -433,124 +224,129 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "karina_milei_y_20251201",
-      "tema": "Karina Milei y La Libertad Avanza",
-      "tema_normalizado": "karina milei y libertad avanza",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Karina Milei, secretaria general de la Presidencia y titular de La Libertad Avanza (LLA), lideró un congreso partidario en Mar del Plata.\n*   El evento reunió a más de 700 dirigentes bonaerenses para definir estrategias legislativas y fortalecer el armado político del espacio.\n*   Durante su intervención, Milei instó a los presentes a trabajar \"para la reelección de Javier Milei en 2027\".\n\n🔍 **Datos clave:**\n*   **Ubicación:** Hotel Provincial, Mar del Plata.\n*   **Asistentes:** Cerca de 750 dirigentes, legisladores, concejales y referentes de la provincia de Buenos Aires.\n*   **Propósito principal:** Ordenar la estrategia legislativa para 2026 y reducir tensiones internas en el espacio bonaerense.\n*   **Líderes presentes:** Karina Milei, Sebastián Pareja (armador provincial de LLA) y Martín Menem (Presidente de la Cámara de Diputados).\n*   **Consigna central:** Iniciar el trabajo para la reelección presidencial en 2027.\n\n⚡ **Desarrollo:**\n*   El congreso, denominado \"Seminario de Políticas Legislativas\", se organizó en paneles temáticos sobre Educación, Reforma Electoral, Presupuesto y organización política.\n*   Los temas abordados incluyeron técnicas legislativas, herramientas para Consejos Escolares, análisis del Presupuesto, y el debate sobre la Boleta Única de Papel.\n*   Karina Milei agradeció el crecimiento territorial de LLA en \"cada rincón del país\" y enfatizó la necesidad de seguir trabajando para las reformas que Argentina necesita.\n*   Recordó que Mar del Plata es un lugar significativo, siendo la ciudad natal de su madre y donde Javier Milei realizó el sorteo de su primer sueldo como diputado, marcando el inicio de su proyecto presidencial.\n*   Martín Menem destacó la rápida conformación de LLA a nivel nacional y el éxito en las elecciones, aunque señaló que \"2024 fue un año muy duro en el Congreso\" y que en \"2025 fueron víctimas de la política de siempre\".\n*   Menem elogió la \"sabiduría\" de Karina Milei al impulsar la consigna de \"ir a fondo, acelerar y jugarse\" en momentos de desafío legislativo.\n*   Sebastián Pareja consideró el congreso como un \"punto de inflexión\" para la política bonaerense, buscando que el proyecto de Javier Milei se replique en todos los niveles legislativos.\n*   El evento también buscó enviar un mensaje de orden interno en medio de cortocircuitos entre el sector de Pareja y el grupo de Santiago Caputo, con algunas ausencias de figuras cercanas a este último.\n\n💡 **¿Por qué importa?**\n*   Este encuentro consolida el rol de Karina Milei como figura clave en la estrategia política y el armado territorial de La Libertad Avanza, especialmente en la provincia de Buenos Aires.\n*   La instrucción de trabajar por la reelección en 2027 marca el inicio formal de una campaña a largo plazo y define la hoja de ruta política del oficialismo para los próximos años.",
+      "tema_id": "crisis_industria_juguetera_20251201",
+      "tema": "Crisis Industria Juguetera Argentina",
+      "tema_normalizado": "crisis industria juguetera argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La industria del juguete en Argentina atraviesa un \"escenario crítico\" y su peor crisis en décadas, con seis de cada diez máquinas productivas locales paradas.\n• Un aluvión récord de importaciones de juguetes baratos, principalmente de China, sumado a la caída del consumo y cambios demográficos, está poniendo en jaque la producción y el empleo nacional.\n\n🔍 **Datos clave:**\n• **6 de cada 10** máquinas de la industria juguetera están actualmente paradas.\n• La tasa de fecundidad en Argentina cayó un **42%** desde 2015 (de 2.4 a 1.4 hijos por mujer).\n• Se importaron **17.5 millones de kilos** de juguetes entre enero y octubre, un aumento del **94%** interanual en volumen.\n• En un año, la cantidad de importadores pasó de **199 a 530**, con muchos nuevos operadores.\n• China concentra el **94.4%** del volumen total de juguetes importados.\n• El contrabando se estima que explica cerca del **30%** del mercado total de juguetes.\n\n⚡ **Desarrollo:**\n• La crisis se debe a un \"cóctel explosivo\" que combina factores estructurales, como la disminución de la población infantil y el creciente interés por pantallas digitales.\n• Las ventas en jugueterías físicas están estancadas, y aunque el e-commerce crece (25% del mercado), presenta desafíos logísticos para las PyMEs locales.\n• El ingreso masivo de importaciones, con más del 50% de los productos valorados en menos de USD 3 por kilo, genera sospechas de subvaluación y competencia desleal.\n• El mercado también arrastra una sobreoferta de stock de 2023, de productos importados con un dólar oficial muy bajo, que ahora se liquidan a precios mínimos.\n• La Cámara Argentina de la Industria del Juguete (CAIJ) ha denunciado la presencia creciente de juguetes inseguros en plataformas digitales, muchos sin certificación o con alertas internacionales.\n• Los aranceles de importación para juguetes fueron reducidos al 20% por el Gobierno, aumentando la presión sobre la industria nacional.\n• La CAIJ reclama medidas urgentes como fortalecer controles fronterizos, exigir marcado de conformidad en ventas online y asegurar la trazabilidad para proteger a los consumidores y la producción local.\n\n💡 **¿Por qué importa?**\n• La situación actual amenaza directamente la supervivencia de la industria nacional del juguete, lo que podría resultar en la pérdida de empleos y capacidad productiva.\n• El ingreso descontrolado de juguetes, muchos de ellos sin certificación o con sustancias prohibidas, representa un riesgo significativo para la seguridad y salud de los niños en Argentina.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Karina Milei encabezó un congreso de La Libertad Avanza en Mar del Plata",
-          "link": "https://www.minutouno.com/politica/karina-milei-encabezo-un-congreso-la-libertad-avanza-mar-del-plata-n6219296",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 20:53:00"
-        },
-        {
-          "titulo": "Karina Milei reunió a La Libertad Avanza en Mar del Plata y pidió “trabajar por la reelección en 2027”",
-          "link": "https://www.perfil.com/noticias/politica/karina-milei-reunio-a-la-libertad-avanza-en-mar-del-plata-y-pidio-trabajar-por-la-reeleccion-en-2027.phtml",
+          "titulo": "Inicia el mes de la Navidad y el sector del juguete atraviesa su peor crisis",
+          "link": "https://www.perfil.com/noticias/economia/cuando-arranca-el-mes-de-la-navidad-el-sector-del-juguete-advierte-que-atraviesa-su-peor-crisis.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-11-30 19:31:24"
+          "fecha": "2025-12-01 10:46:00"
         },
         {
-          "titulo": "Karina Milei encabezó un congreso de LLA y llamó impulsar \"las reformas que la Argentina necesita\"",
-          "link": "https://www.ambito.com/politica/karina-milei-encabezo-un-congreso-lla-y-llamo-impulsar-las-reformas-que-la-argentina-necesita-n6219289",
+          "titulo": "Aluvión de importaciones de juguetes tensiona a la industria en la previa de las fiestas",
+          "link": "https://www.ambito.com/finanzas/aluvion-importaciones-juguetes-tensiona-la-industria-la-previa-las-fiestas-n6219423",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 19:10:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "deuda_kicillof_y_20251201",
-      "tema": "Deuda Kicillof y Acuerdos Provinciales",
-      "tema_normalizado": "deuda kicillof y acuerdos provinciales",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof negocia intensamente en la Legislatura bonaerense para obtener autorización de un endeudamiento por más de US$ 3.000 millones, crucial para su gestión.\n• Simultáneamente, el ministro del Interior, Diego Santilli, recorre provincias para asegurar el apoyo de gobernadores y sus legisladores a leyes nacionales impulsadas por el gobierno de Javier Milei.\n\n🔍 **Datos clave:**\n• **US$ 3.035 millones:** Monto de la deuda que busca Kicillof para la provincia de Buenos Aires.\n• **Dos tercios:** Apoyo legislativo necesario en ambas cámaras bonaerenses para aprobar el endeudamiento.\n• **10 al 31 de diciembre:** Período de sesiones extraordinarias del Congreso Nacional, marcando la urgencia de las negociaciones de Santilli.\n• **Corrientes:** Provincia clave visitada por Santilli, donde la fuerza \"Provincias Unidas\" obtuvo el 33,91% de los votos.\n• **8%:** Porcentaje del endeudamiento bonaerense que, de acordarse, se destinaría a los municipios.\n\n⚡ **Desarrollo:**\n• Kicillof ofrece cargos en organismos de control (Consejo de Educación, Tribunal Fiscal) y en el directorio del Banco Provincia para sumar el apoyo de la oposición y de sectores internos del peronismo.\n• La oposición exige que la reforma de la Carta Orgánica del Banco Provincia y los pliegos de los nuevos directores se aprueben previamente a la votación del endeudamiento, por desconfianza.\n• Dentro del peronismo, Kicillof negocia con La Cámpora y el massismo, cediendo a demandas como el financiamiento de obras para arroyos, como el de San Francisco-Las Piedras en Quilmes.\n• Santilli se reúne con gobernadores que firmaron el Pacto de Mayo, buscando garantizar el respaldo a leyes como el Presupuesto 2026 y reformas laboral, previsional y tributaria.\n• Gobernadores como Axel Kicillof, Gildo Insfrán, Gustavo Melella y Ricardo Quintela son excluidos de las conversaciones nacionales por no adherir a iniciativas clave del gobierno de Milei.\n• A nivel nacional, se intenta formar un \"bloque del medio\" en el Congreso, integrado por Radicalismo, Provincias Unidas, Encuentro Federal y Coalición Cívica, para arbitrar entre los polos políticos.\n• Este \"bloque de centro\" busca controlar unos 26 diputados nacionales, pero enfrenta desafíos sobre su liderazgo y la alineación entre proyectos presidenciales y provinciales.\n\n💡 **¿Por qué importa?**\n• La aprobación del endeudamiento es vital para la gobernabilidad y la financiación de obras en la provincia de Buenos Aires, el distrito más grande y poblado del país.\n• Los acuerdos políticos entre el gobierno nacional y las provincias son esenciales para la aprobación de leyes clave y la implementación del plan económico y de reformas de Javier Milei.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Ya nadie confía en Kicillof: la Legislatura exige primero votar otra ley antes de aprobarle la deuda",
-          "link": "https://www.clarin.com/politica/nadie-confia-kicillof-legislatura-exige-primero-votar-ley-aprobarle-deuda_0_ITLeN8T1dP.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 06:01:54"
+          "fecha": "2025-12-01 10:01:00"
         },
         {
-          "titulo": "Diego Santilli viajará a Corrientes para negociar con el gobernador Gustavo Valdés",
-          "link": "https://www.perfil.com/noticias/politica/diego-santilli-viajara-a-corrientes-para-negociar-con-el-gobernador-gustavo-valdes.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-11-30 22:16:00"
-        },
-        {
-          "titulo": "La pelea por el bloque del centro y acoso amigo en Provincia contra Kicillof",
-          "link": "https://www.clarin.com/politica/pelea-bloque-centro-acoso-amigo-provincia-kicillof_0_v2NgAn4AuL.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 19:23:28"
-        },
-        {
-          "titulo": "Kicillof hace el último intento para poder endeudarse: qué cargos y fondos le ofrecen a la oposición y a La Cámpora",
-          "link": "https://www.clarin.com/politica/kicillof-hace-ultimo-intento-poder-endeudarse-cargos-fondos-ofrecen-oposicion-campora_0_9yntEw2uFp.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 19:14:11"
-        },
-        {
-          "titulo": "Sigue girando: Diego Santilli viaja a Corrientes para reunirse con el gobernador Gustavo Valdés",
-          "link": "https://www.ambito.com/politica/sigue-girando-diego-santilli-viaja-corrientes-reunirse-el-gobernador-gustavo-valdes-n6219295",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 19:11:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-01",
-      "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "propuesta_impuesto_gases_20251201",
-      "tema": "Propuesta Impuesto Gases Bovinos",
-      "tema_normalizado": "propuesta impuesto gases bovinos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se ha propuesto un proyecto de ley para crear la \"Tasa Ambiental sobre el Metano en Buenos Aires\" (TAMBA).\n• Esta iniciativa busca gravar las emisiones de gas metano provenientes del ganado vacuno en la provincia de Buenos Aires.\n• El objetivo es mitigar el cambio climático y usar los fondos para mejorar la gestión de residuos sólidos urbanos.\n\n🔍 **Datos clave:**\n• **Proponente:** Diputada Lucía Lorena Klug (Unión por la Patria), vinculada a Juan Grabois.\n• **Nombre del proyecto:** Tasa Ambiental sobre el Metano en Buenos Aires (TAMBA).\n• **Emisiones de GEI BA:** La provincia de Buenos Aires genera el 25% del total nacional de gases de efecto invernadero.\n• **Metano en BA:** El 27% de las emisiones provinciales de Buenos Aires corresponde a metano (CH4).\n• **Fuentes de Metano BA:** La ganadería aporta el 19% del metano provincial, mientras que la gestión de residuos sólidos urbanos aporta el 6%.\n• **Marco legal:** Se relaciona con la Ley N° 13.592 (GIRSU - Gestión Integral de Residuos Sólidos Urbanos).\n• **Oposición principal:** CARBAP (Confederación de Asociaciones Rurales de Buenos Aires y La Pampa).\n• **Precedente internacional:** Dinamarca prevé gravar las emisiones de metano del ganado a partir de 2030.\n\n⚡ **Desarrollo:**\n• El proyecto surge de la necesidad de enfrentar el cambio climático, ya que el metano es un potente gas de efecto invernadero.\n• La ganadería genera metano principalmente por fermentación entérica (eructos y flatulencias) y por el manejo del estiércol.\n• La TAMBA se aplicaría a las empresas del sector ganadero asentadas en la provincia, midiéndose en kilogramos de CO2e según la cantidad de cabezas de ganado.\n• Se propone la creación de un fondo fiduciario para compensar el metano ganadero con reducciones logradas en la gestión de residuos urbanos.\n• La iniciativa se basa en el principio de Responsabilidad Extendida del Productor para el sector ganadero.\n• La CARBAP rechazó la propuesta, argumentando que la ganadería bonaerense ya soporta una de las presiones impositivas más altas del país.\n• La entidad rural sostiene que la tasa no reduciría emisiones sino que afectaría la producción, competitividad y empleo del sector.\n• El proyecto fue presentado al finalizar el mandato de la diputada Klug y no cuenta con apoyo de otros legisladores.\n\n💡 **¿Por qué importa?**\n• El proyecto abre el debate sobre la responsabilidad ambiental de la producción ganadera en el contexto del cambio climático en Argentina.\n• Genera tensión entre la búsqueda de mitigación de emisiones y el posible impacto económico en un sector clave para la provincia de Buenos Aires.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "“Cobrar por respirar”: revuelo porque una diputada kirchnerista quiere que las vacas paguen por un gas que emiten",
-          "link": "https://www.lanacion.com.ar/economia/campo/cobrar-por-respirar-revuelo-porque-una-diputada-kirchnerista-quiere-que-las-vacas-paguen-por-un-gas-nid30112025/",
+          "titulo": "La Cámara del Juguete advierte un “escenario crítico” para las fiestas y exige medidas urgentes",
+          "link": "https://www.lanacion.com.ar/economia/la-camara-del-juguete-advierte-un-escenario-critico-para-las-fiestas-y-exige-medidas-urgentes-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-01 08:25:29"
-        },
-        {
-          "titulo": "Una diputada provincial bonaerense propuso un impuesto a la emisión de gases de las vacas",
-          "link": "https://www.iprofesional.com/impuestos/443014-una-diputada-provincial-bonaerense-propuso-un-impuesto-a-la-emision-de-gases-de-las-vacas",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 08:05:00"
-        },
-        {
-          "titulo": "Una diputada aliada de Juan Grabois propone un impuesto a los gases de las vacas por su contribución al calentamiento global",
-          "link": "https://www.perfil.com/noticias/politica/una-diputada-aliada-de-juan-grabois-propone-un-impuesto-a-los-gases-de-las-vacas-por-su-contribucion-al-calentamiento-global.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 01:40:00"
+          "fecha": "2025-12-01 09:21:44"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "iProfesional",
-        "Perfil",
+        "Ámbito Financiero",
+        "La Nación",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gobierno_milei:_nombramientos_20251201",
+      "tema": "Gobierno Milei: Nombramientos y Medidas",
+      "tema_normalizado": "gobierno milei: nombramientos y medidas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei ha realizado cambios significativos en su gabinete, destacándose el nombramiento de Alejandra Monteoliva como nueva Ministra de Seguridad.\n• Este cambio se da tras la renuncia de Patricia Bullrich, quien asumirá su banca en el Senado.\n• Además, el gobierno impulsa medidas legislativas importantes como la propuesta de declarar imprescriptibles los casos de corrupción.\n\n🔍 **Datos clave:**\n• **Alejandra Monteoliva:** Nueva Ministra de Seguridad de la Nación.\n• **Patricia Bullrich:** Ministra de Seguridad saliente, asumirá como Jefa del bloque de La Libertad Avanza en el Senado el 10 de diciembre.\n• **1° de diciembre:** Fecha de efectividad de la renuncia de Patricia Bullrich.\n• **Manuel Adorni:** Jefe de Gabinete, cuyo nombramiento sorprendió a Mauricio Macri.\n• **Nuevo Código Penal:** Incluirá reforma para declarar imprescriptibles los delitos de corrupción y aumentar penas (hasta 15 años por enriquecimiento ilícito, 10 años por coimas).\n\n⚡ **Desarrollo:**\n• Alejandra Monteoliva, con 30 años de experiencia en seguridad, asume la cartera tras desempeñarse como Secretaria de Seguridad Nacional bajo Bullrich.\n• Monteoliva es reconocida por su rol en la construcción de la \"Doctrina Bullrich\" y su perfil técnico.\n• Patricia Bullrich formalizó su renuncia, agradeciendo la confianza de Milei y expresando su intención de seguir defendiendo los valores compartidos desde el Senado.\n• La salida de Bullrich y otros cambios han sido señalados como factores en el deterioro del acuerdo tácito entre Milei y Mauricio Macri.\n• Un ejemplo de esta tensión es el traslado de la Subsecretaría de Deportes de la órbita de Daniel Scioli (Turismo) al Ministerio del Interior (encabezado por Diego Santilli).\n• En el ámbito de medidas, el Gobierno trabaja en un nuevo Código Penal para penalizar más severamente la corrupción, buscando declarar estos delitos como imprescriptibles.\n• Esta reforma, impulsada por el Ministerio de Justicia y Seguridad, agravará las penas de prisión por corrupción, que hoy son de hasta 6 años.\n• Por otro lado, la Asociación de Trabajadores del Estado (ATE) ha advertido con un paro nacional ante rumores de recortes del 10% en la planta estatal y exige la renovación automática de contratos.\n\n💡 **¿Por qué importa?**\n• Los cambios de gabinete impactan la gobernabilidad y la continuidad de las políticas en áreas clave como la seguridad.\n• La propuesta de imprescriptibilidad de la corrupción representa un esfuerzo significativo para fortalecer la lucha contra este flagelo en Argentina.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 11:47:20"
+        },
+        {
+          "titulo": "Quién es Alejandra Monteoliva, la nueva ministra de Seguridad tras la salida de Patricia Bullrich",
+          "link": "https://www.lanacion.com.ar/politica/quien-es-alejandra-monteoliva-la-nueva-ministra-de-seguridad-tras-la-salida-de-patricia-bullrich-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 10:58:39"
+        },
+        {
+          "titulo": "Javier Milei encabezó la entrega de Sables a las Fuerzas de Seguridad junto a Patricia Bullrich",
+          "link": "https://www.perfil.com/noticias/politica/javier-mileiencabeza-la-entrega-de-sables-a-las-fuerzas-de-seguridad-junto-a-la-nueva-ministra-alejandra-monteoliva.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 10:16:12"
+        },
+        {
+          "titulo": "Bullrich oficializó su renuncia y le mandó un mensaje a Milei",
+          "link": "https://www.lanacion.com.ar/politica/bullrich-oficializo-su-renuncia-y-le-mando-un-mensaje-a-milei-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 10:08:45"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente encabezó el ascenso de las Fuerzas de Seguridad en la despedida de Patricia Bullrich como ministra",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-encabeza-ascenso-fuerzas-seguridad-junto-flamante-ministra-monteoliva_0_8cYq9V07f0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 09:26:30"
+        },
+        {
+          "titulo": "El Gobierno quiere declarar imprescriptible la corrupción",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-quiere-declarar-imprescriptible-la-corrupcion-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 08:54:05"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "plazo_fijo:_tasas_20251201",
+      "tema": "Plazo Fijo: Tasas de Interés Diciembre",
+      "tema_normalizado": "plazo fijo: tasas de interes diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El lunes 1° de diciembre, los bancos en Argentina actualizaron las tasas de interés para los depósitos a plazo fijo en pesos.\n• Esta información es crucial para los ahorristas que buscan opciones para resguardar el valor de su dinero.\n• El Banco Central de la República Argentina (BCRA) publica diariamente una tabla comparativa de estas tasas.\n\n🔍 **Datos clave:**\n• **Fecha de actualización:** Lunes 1° de diciembre.\n• **Organismo regulador:** Banco Central de la República Argentina (BCRA).\n• **Tasa Nominal Anual (TNA) más alta:** 29% (Banco Macro).\n• **Tasa Nominal Anual (TNA) más baja (entre los principales):** 22% (Banco Galicia).\n• **Plazo común de los depósitos:** 30 días.\n\n⚡ **Desarrollo:**\n• El BCRA desreguló el año pasado las tasas mínimas de interés para los plazos fijos, permitiendo que cada entidad bancaria defina sus propios porcentajes.\n• Las tasas para depósitos a plazo fijo a 30 días varían significativamente entre los distintos bancos.\n• Algunos bancos destacados ofrecen: Banco Nación (26%), Banco Provincia (26%), BBVA (26%), Banco Santander (25%), Banco Ciudad (24%), Banco Galicia (22%), Banco Macro (29%), Banco Credicoop (28%) e ICBC (28%).\n• Los ahorristas pueden constituir un plazo fijo de manera online a través de home banking, sin costos adicionales ni trámites complejos.\n• Es posible abrir un plazo fijo en un banco incluso si no se es cliente, lo que facilita comparar y elegir la mejor oferta.\n• La TNA indica el rendimiento anual, y para estimar la ganancia a 30 días, este porcentaje se divide por doce.\n• Quienes reinvierten los intereses mes a mes logran un mayor rendimiento acumulado, conocido como Tasa Efectiva Anual (TEA).\n\n💡 **¿Por qué importa?**\n• Permite a los ahorristas comparar las ofertas y seleccionar la entidad que proporcione el mejor rendimiento para su capital.\n• Brinda una herramienta para mitigar la pérdida del poder adquisitivo del dinero en un contexto económico desafiante.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este lunes 1° de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-lunes-1-de-diciembre-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 12:03:22"
+        },
+        {
+          "titulo": "Así amanecieron las tasas del plazo fijo en los principales bancos hoy, lunes 1 de diciembre 2025",
+          "link": "https://www.ambito.com/economia/asi-amanecieron-las-tasas-del-plazo-fijo-los-principales-bancos-hoy-lunes-1-diciembre-2025-n6219448",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 10:42:00"
+        },
+        {
+          "titulo": "Plazo fijo en diciembre 2025: se actualizaron las tasas de interés y así operan los principales bancos",
+          "link": "https://www.ambito.com/economia/plazo-fijo-diciembre-2025-se-actualizaron-las-tasas-interes-y-asi-operan-los-principales-bancos-n6219461",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 10:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "Ámbito Financiero",
         "La Nación"
       ],
       "es_tema_nuevo": true,
@@ -559,49 +355,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "dialogo_trump-maduro_y_20251201",
-      "tema": "Diálogo Trump-Maduro y Tensión EE.UU.-Venezuela",
-      "tema_normalizado": "dialogo trump-maduro y tension ee.uu.-venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente de Estados Unidos, Donald Trump, confirmó una conversación telefónica con Nicolás Maduro, líder venezolano, a principios de noviembre.\n*   Este diálogo ocurrió en un periodo de alta tensión, con EE. UU. endureciendo su postura y Maduro denunciando despliegues militares estadounidenses.\n*   La confirmación coincidió con una advertencia de Trump sobre el \"cierre total\" del espacio aéreo venezolano, lo que provocó alarma en Caracas y afectó a la aviación civil.\n\n🔍 **Datos clave:**\n*   **Principios de noviembre:** Fecha aproximada de la llamada entre Trump y Maduro, según medios.\n*   **\"Cierre total\":** Descripción de Trump sobre la medida impuesta al espacio aéreo venezolano.\n*   **OPEP+:** Alianza ante la cual Maduro acusó a EE. UU. de buscar sus reservas petroleras.\n*   **83 muertos:** Cifra de fallecidos en bombardeos estadounidenses a presuntas narcolanchas desde septiembre.\n*   **24 de noviembre:** Fecha en que la Agencia Española de Seguridad Aérea (AESA) emitió un aviso para evitar volar en la zona venezolana.\n\n⚡ **Desarrollo:**\n*   La conversación telefónica se filtró a medios como The New York Times, ocurriendo días antes de que EE. UU. designara a Maduro y al \"Cártel de los Soles\" como organización terrorista extranjera.\n*   Se barajaron escenarios como una posible salida negociada de Maduro o un cambio en la ofensiva estadounidense contra Venezuela.\n*   Trump, en su plataforma Truth Social, advirtió a aerolíneas, pilotos, narcotraficantes y traficantes de personas sobre el espacio aéreo \"cerrado\", lo que fue interpretado como un posible anticipo de acciones militares.\n*   Venezuela, a través del canciller Yván Gil, rechazó enérgicamente la medida, calificándola de \"ilegal, arbitraria, colonial\" y un \"acto de agresión\" contra su soberanía, aludiendo a las normas de la OACI.\n*   Maduro denunció que EE. UU. usa la lucha antidrogas como pretexto para desplegar fuerzas militares y apoderarse de sus reservas petroleras, aunque un senador estadounidense negó planes de enviar tropas a Venezuela.\n*   Las aerolíneas españolas, como Air Europa e Iberia, cancelaron o modificaron sus vuelos a Caracas debido a la alerta de riesgo de la autoridad de aviación española, generando incertidumbre entre los viajeros.\n*   Previamente, el gobierno venezolano había revocado licencias de varias aerolíneas internacionales (Iberia, TAP, Avianca, Latam, Turkish, Gol), limitando aún más la conectividad aérea del país.\n\n💡 **¿Por qué importa?**\n*   El diálogo entre Trump y Maduro representa un giro en la política estadounidense de \"máxima presión\", sugiriendo una posible vía diplomática en medio de una escalada de tensiones.\n*   Las acciones de EE. UU. y la respuesta de Venezuela tienen un impacto directo en la seguridad aérea, la economía y los ciudadanos, además de afectar la estabilidad regional y las relaciones internacionales.",
-      "cantidad_noticias": 5,
+      "tema_id": "exportacion_gnl_argentina_20251201",
+      "tema": "Exportación GNL Argentina y Alemania",
+      "tema_normalizado": "exportacion gnl argentina y alemania",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina ha firmado su primer contrato para exportar Gas Natural Licuado (GNL) directamente a Europa.\n• El acuerdo se estableció con SEFE, una empresa estatal alemana, por un período de ocho años.\n• Este paso es crucial para la posición de Argentina como un futuro proveedor significativo de energía para el continente europeo.\n\n🔍 **Datos clave:**\n• **Actores principales:** Consorcio argentino Southern Energy (SESA, integrado por Pan American Energy, YPF, Pampa Energía, Harbour Energy y Golar LNG) y Securing Energy for Europe (SEFE, de Alemania).\n• **Volumen comprometido:** 2 millones de toneladas anuales (MTPA) de GNL, equivalentes a 9 millones de metros cúbicos diarios (m³/d).\n• **Vigencia del contrato:** 8 años, con inicio de operaciones programado para fines de 2027.\n• **Proyección económica:** Las exportaciones podrían superar los US$7.000 millones durante el contrato, y hasta US$20.000 millones para 2035.\n• **Inversión total proyectada:** Más de US$6.000 millones para las dos fases del proyecto GNL.\n• **Ubicación estratégica:** Los buques de licuefacción se instalarán en el Golfo San Matías, en la provincia de Río Negro.\n• **Primer buque:** El \"Hilli Episeyo\" comenzará a operar en septiembre de 2027 con una capacidad de 2,45 MTPA.\n\n⚡ **Desarrollo:**\n• Este contrato marca la mayor operación de exportación de GNL de Argentina hacia el mercado internacional, tanto por volumen como por duración.\n• El gas natural provendrá principalmente de Vaca Muerta, siendo licuado en buques flotantes para su transporte marítimo.\n• El volumen acordado con SEFE cubrirá más del 80% de la capacidad del primer buque, el Hilli Episeyo.\n• Se prevé la llegada de un segundo buque, el \"MKII\", en 2028, que aumentará la capacidad total de exportación de GNL del proyecto.\n• La inversión acumulada de la cadena de valor superará los US$15.000 millones en 20 años, impulsando un mayor desarrollo de Vaca Muerta.\n• La firma fue realizada por Rodolfo Freyre, Chairman de Southern Energy, y Frédéric Barnaud, CCO de SEFE, con la presencia de directivos de las empresas involucradas.\n• Para Alemania, el acuerdo es parte de su estrategia para diversificar y asegurar su suministro energético con contratos a largo plazo desde nuevas regiones.\n\n💡 **¿Por qué importa?**\n• Para Argentina, el proyecto representa una entrada significativa de divisas y el impulso de una industria energética clave, potenciando la producción de Vaca Muerta.\n• Para Europa, y específicamente Alemania, asegura una nueva y estable fuente de energía, crucial para su seguridad energética y la diversificación de proveedores.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Trump confirmó que tuvo una conversación con Nicolás Maduro, pero no ofreció detalles",
-          "link": "https://www.lanacion.com.ar/el-mundo/trump-confirmo-que-tuvo-una-conversacion-con-nicolas-maduro-pero-no-ofrecio-detalles-nid30112025/",
+          "titulo": "La Argentina firma su primer contrato para exportar GNL a Europa",
+          "link": "https://www.lanacion.com.ar/economia/la-argentina-firma-su-primer-contrato-para-exportar-gnl-a-europa-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-01 09:19:34"
+          "fecha": "2025-12-01 11:21:39"
         },
         {
-          "titulo": "Escala la tensión: aseguran que Donald Trump y Nicolás Maduro ya hablaron por teléfono",
-          "link": "https://www.minutouno.com/mundo/escala-la-tension-aseguran-que-donald-trump-y-nicolas-maduro-ya-hablaron-telefono-n6219346",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 22:10:47"
-        },
-        {
-          "titulo": "Venezuela rechaza cierre de espacio aéreo anunciado por Donald Trump y prepara operativo especial de vuelos",
-          "link": "https://www.minutouno.com/mundo/venezuela-rechaza-cierre-espacio-aereo-anunciado-donald-trump-y-prepara-operativo-especial-vuelos-n6219245",
-          "fuente": "Minuto1",
-          "fecha": "2025-11-30 21:17:00"
-        },
-        {
-          "titulo": "Tensión entre Estados Unidos y Venezuela: Donald Trump confirmó que tuvo una conversación telefónica con Nicolás Maduro",
-          "link": "https://www.clarin.com/mundo/tension-estados-unidos-venezuela-donald-trump-confirmo-conversacion-telefonica-nicolas-maduro_0_bPIGvwwPr7.html",
+          "titulo": "Acuerdo clave para el GNL: Consorcio argentino que integran PAE, YPF y Pampa cierra con Alemania su mayor contrato de exportación",
+          "link": "https://www.clarin.com/economia/acuerdo-clave-gnl-consorcio-argentino-integran-pae-ypf-pampa-cierra-alemania-mayor-contrato-exportacion_0_SbSRIUnwb0.html",
           "fuente": "Clarín",
-          "fecha": "2025-11-30 19:56:27"
-        },
-        {
-          "titulo": "Venezuela: incertidumbre entre las aerolíneas y los viajeros tras la amenaza de Donald Trump sobre el espacio aéreo",
-          "link": "https://www.clarin.com/mundo/venezuela-incertidumbre-aerolineas-viajeros-amenaza-donald-trump-espacio-aereo_0_OPOIkx9xKl.html",
-          "fuente": "Clarín",
-          "fecha": "2025-11-30 19:21:43"
+          "fecha": "2025-12-01 10:56:27"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
         "La Nación",
-        "Clarín",
-        "Minuto1"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -609,36 +386,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "elecciones_presidenciales_honduras_20251201",
-      "tema": "Elecciones Presidenciales Honduras",
-      "tema_normalizado": "elecciones presidenciales honduras",
-      "resumen": "📌 **¿Qué está pasando?**\n• Honduras celebró elecciones presidenciales en una jornada cívica con alta participación ciudadana.\n• Los resultados preliminares muestran una contienda extremadamente ajustada entre los candidatos opositores.\n• La candidata oficialista quedó en un distante tercer lugar, amenazando la continuidad de la izquierda en el poder.\n\n🔍 **Datos clave:**\n• **Fecha de elecciones:** Domingo, con cierre de urnas tras una prórroga de una hora.\n• **Resultados preliminares (aprox.):** Nasry Asfura (40,6%), Salvador Nasralla (38,8%), Rixi Moncada (19,6%).\n• **Órgano electoral:** Consejo Nacional Electoral (CNE).\n• **Cargos a elegir:** Presidente, 128 diputados, 298 alcaldes, 20 diputados al Parlamento Centroamericano.\n• **Regla electoral:** Se gana por mayoría simple (quien obtiene más votos es electo).\n\n⚡ **Desarrollo:**\n• Las elecciones fueron vistas como un termómetro de las ideologías en la región, con la posibilidad de un cambio tras el gobierno de la presidenta Xiomara Castro (Partido Libre).\n• Los principales contendientes fueron Nasry Asfura del Partido Nacional y Salvador Nasralla del Partido Liberal.\n• Asfura, empresario conservador y exalcalde de Tegucigalpa, recibió el apoyo público de Donald Trump y Javier Milei, enfocándose en la economía y la lucha contra el narcotráfico.\n• Nasralla, expresentador de televisión, basó su campaña en la lucha contra la corrupción, el apoyo a pymes y la reducción de la burocracia estatal.\n• La candidata oficialista, Rixi Moncada, del Partido Libre, prometió reforzar políticas sociales y reformas judiciales.\n• La jornada estuvo marcada por denuncias de posibles irregularidades y un clima de desconfianza, lo que retrasó la publicación de resultados preliminares por el CNE.\n• Tanto Nasralla como Moncada y la presidenta Castro alertaron sobre un posible fraude, mencionando un \"ataque\" al sistema de transmisión de resultados.\n• La elección generó atención internacional, con menciones a la influencia de Estados Unidos y una reacción inusual de Moscú.\n\n💡 **¿Por qué importa?**\n• Estas elecciones son cruciales para definir el futuro político y económico de Honduras, con un posible giro ideológico.\n• La estrechez de los resultados y las acusaciones de irregularidades generan incertidumbre y tensión sobre la estabilidad democrática del país.",
-      "cantidad_noticias": 3,
+      "tema_id": "reforma_laboral:_debate_20251201",
+      "tema": "Reforma Laboral: Debate CGT y Gobierno",
+      "tema_normalizado": "reforma laboral: debate cgt y gobierno",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Confederación General del Trabajo (CGT) denuncia una \"falta de voluntad\" del Gobierno para negociar una reforma laboral.\n• La central obrera rechaza los puntos conocidos de esta reforma, calificándolos de \"regresivos\" para los trabajadores.\n• Exige la apertura de un \"ámbito de negociación sano y consolidado\" para debatir las propuestas.\n\n🔍 **Datos clave:**\n• **Actor principal de la CGT:** Cristian Jerónimo, cosecretario general de la CGT y titular del Sindicato del Vidrio (SEIVARA).\n• **Fuente de información de la reforma para la CGT:** \"bufetes de abogados del sector empresarial\".\n• **Concepto central:** Reforma Laboral considerada \"regresiva\" por la CGT.\n• **Otros actores mencionados:** Empresas pyme (con agenda común con CGT), Consejo de Mayo (hubo una ruptura por diferencias).\n\n⚡ **Desarrollo:**\n• Cristian Jerónimo asegura que los puntos de la reforma conocidos son totalmente regresivos y no favorecen el crecimiento del trabajo formal.\n• La CGT argumenta que las medidas del Gobierno van a contramano de la realidad económica, con cierre de empresas, pérdida de empleos y desindustrialización.\n• Atribuye la situación actual a una \"profunda recesión\" y falta de consumo, afectando especialmente a las pequeñas y medianas empresas.\n• La central sindical se muestra dispuesta a dialogar sobre nuevas formas de incorporar trabajadores a la formalidad, pero defiende la importancia de los convenios colectivos de trabajo.\n• Califica de \"falacia\" la posible eliminación de la obligatoriedad de la cuota sindical, viéndola como un intento de degradar a las organizaciones sindicales.\n• La CGT compara la política económica actual con la estadounidense, señalando que mientras EE.UU. protege su industria, Argentina promueve una apertura indiscriminada.\n\n💡 **¿Por qué importa?**\n• El debate impacta directamente en los derechos laborales, la estabilidad del empleo y el modelo productivo del país, al confrontar visiones opuestas.\n• La falta de un diálogo formal y constructivo entre el Gobierno y los sindicatos genera incertidumbre y puede derivar en mayor conflictividad social.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Elecciones en Honduras: el voto masivo amenaza la continuidad en el poder de la izquierda",
-          "link": "https://www.lanacion.com.ar/el-mundo/el-voto-masivo-en-honduras-amenazaba-la-continuidad-en-el-poder-de-la-izquierda-nid30112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:54:54"
+          "titulo": "La CGT considera que hay “falta de voluntad” del gobierno para negociar una reforma laboral",
+          "link": "https://www.perfil.com/noticias/politica/la-cgt-considera-que-hay-falta-de-voluntad-del-gobierno-para-negociar-una-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 10:42:21"
         },
         {
-          "titulo": "Elecciones en Honduras: Nasry Asfura encabeza los resultados presidenciales con un estrecho margen sobre Salvador Nasralla",
-          "link": "https://www.ambito.com/mundo/elecciones-honduras-nasry-asfura-encabeza-los-resultados-presidenciales-un-estrecho-margen-salvador-nasralla-n6219379",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 08:29:00"
-        },
-        {
-          "titulo": "Elecciones en Honduras: tras una hora de prórroga, cerraron los comicios",
-          "link": "https://www.ambito.com/mundo/elecciones-honduras-la-continuidad-del-progresismo-o-el-recambio-liberal-n6219135",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-11-30 22:45:00"
+          "titulo": "La CGT pide que el Gobierno la convoque a negociar la reforma laboral: \"Es regresiva y va a contramano de lo que hace Estados Unidos\"",
+          "link": "https://www.clarin.com/politica/cgt-pide-gobierno-convoque-negociar-reforma-laboral-regresiva-va-contramano-hace-estados-unidos_0_V4Qeq5EGUt.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 10:41:57"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "La Nación",
-        "Ámbito Financiero"
+        "Clarín",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -646,11 +417,11 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "economia_agroexportadora_y_20251201",
-      "tema": "Economía Agroexportadora y Reservas BCRA",
-      "tema_normalizado": "economia agroexportadora y reservas bcra",
-      "resumen": "📌 **¿Qué está pasando?**\n• El sector agroexportador argentino registró una marcada caída en la liquidación de dólares durante el último noviembre, alcanzando su nivel más bajo en una década para ese mes.\n• Paralelamente, el Banco Central (BCRA) enfrentó una fuerte presión sobre sus reservas internacionales al tener que cancelar un importante vencimiento de deuda.\n• Esta combinación pone en alerta la capacidad del país para acumular divisas y afrontar sus compromisos financieros externos.\n\n🔍 **Datos clave:**\n• **Liquidación agro (noviembre):** u$s759,7 millones, una caída del 32% respecto a octubre.\n• **Acumulado agro (enero-noviembre):** u$s30.323 millones, un 24% más que el período previo.\n• **Pago vencimiento Bopreal BCRA:** u$s1.000 millones (Bopreal 2026).\n• **Reservas netas FMI (fin noviembre):** Déficit de u$s16.800 millones.\n• **Decreto 682/2025:** Suspensión temporal de derechos de exportación para el agro.\n• **Proyección divisas trigo:** u$s3.500 millones por una cosecha récord de 25,5 millones de toneladas.\n\n⚡ **Desarrollo:**\n• La reducción en la liquidación de agrodólares en noviembre se debe principalmente a un adelantamiento masivo de exportaciones ocurrido en septiembre. Este impulso fue generado por el Decreto 682/2025, que suspendió temporalmente los derechos de exportación para incentivar el ingreso de divisas.\n• Las entidades del sector (CIARA y CEC) explican que las cifras mensuales no reflejan un retraso, sino que responden al ciclo comercial y a la lógica de anticipo de las operaciones. La liquidación de noviembre es en gran parte el resultado de anticipos de septiembre.\n• A pesar de la caída mensual, el balance anual del agro hasta noviembre sigue siendo positivo, con un aumento significativo de ingresos comparado con el año anterior. Esto se atribuye a mayores volúmenes procesados y precios favorables en la primera parte del año.\n• El BCRA utilizó u$s1.000 millones de sus reservas para pagar un vencimiento de Bopreal 2026, un bono entregado a importadores para saldar deudas con proveedores extranjeros. Este pago agrava el ya crítico nivel de reservas netas.\n• Adicionalmente, el gobierno enfrenta otros vencimientos en diciembre por u$s338 millones del Tesoro, y u$s4.400 millones con el FMI en enero, lo que incrementa la urgencia de acumular dólares.\n• Factores externos como precios internacionales fluctuantes, condiciones climáticas adversas (ej. la \"debacle\" de la cosecha de arveja), y cambios regulatorios influyen fuertemente en el flujo de divisas del sector agroexportador.\n\n💡 **¿Por qué importa?**\n• La escasez de dólares impacta directamente en la capacidad del BCRA para cumplir con sus obligaciones externas y estabilizar el tipo de cambio, lo cual es fundamental para la confianza económica y la lucha contra la inflación.\n• La dependencia de Argentina de los dólares generados por el agro y la vulnerabilidad de las reservas internacionales marcan un desafío clave para la sostenibilidad económica, requiriendo estrategias para fortalecer el frente externo.",
-      "cantidad_noticias": 9,
+      "tema_id": "liquidacion_dolares_del_20251201",
+      "tema": "Liquidación Dólares del Agro Noviembre",
+      "tema_normalizado": "liquidacion dolares del agro noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• La liquidación de dólares del sector agroexportador se desplomó un 32% en noviembre, alcanzando solo u$s759,7 millones.\n• Este monto representa el nivel más bajo de ingresos para un mes de noviembre en la última década.\n• La caída se debe principalmente a un adelantamiento de las liquidaciones en septiembre, impulsado por un régimen especial.\n\n🔍 **Datos clave:**\n• **Liquidación noviembre:** u$s759,7 millones.\n• **Caída mensual:** 32% (respecto a octubre).\n• **Acumulado enero-noviembre:** u$s30.323 millones.\n• **Crecimiento anual acumulado:** 24% (respecto al mismo período del año pasado).\n• **Decreto clave:** Decreto 682/2025 (suspensión temporal de derechos de exportación).\n• **Actores principales:** CIARA (Cámara de la Industria Aceitera) y CEC (Centro de Exportadores de Cereales).\n\n⚡ **Desarrollo:**\n• La baja en noviembre no indica una retracción del sector, sino que responde a la lógica de anticipos de divisas.\n• Gran parte de los dólares vinculados a embarques y molienda de noviembre ya habían ingresado anticipadamente en septiembre.\n• Este adelantamiento fue generado por el régimen especial del Decreto 682/2025, que suspendió temporalmente los derechos de exportación para estimular ingresos.\n• El sector agroindustrial suele anticipar sus liquidaciones: unos 30 días para granos y hasta 90 días para aceites y harinas.\n• Las comparaciones mensuales pueden ser imprecisas debido al ciclo comercial de los granos y factores externos como precios internacionales y condiciones climáticas.\n• A pesar de la caída mensual, el balance anual de enero a noviembre se mantiene positivo, con un crecimiento del 24% en el ingreso de divisas.\n• Se espera que próximamente comiencen a ingresar los dólares de la cosecha de trigo, proyectada en más de 25 millones de toneladas, generando unos u$s3.500 millones.\n\n💡 **¿Por qué importa?**\n• El complejo agroindustrial es un motor fundamental para la economía argentina, siendo el principal generador de divisas.\n• Comprender la dinámica cíclica de las liquidaciones es clave para interpretar los datos y evitar conclusiones erróneas sobre la salud del sector.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
           "titulo": "La liquidación de dólares del agro se desplomó 32% en noviembre y entraron solo u$s760 millones",
@@ -665,56 +436,49 @@
           "fecha": "2025-12-01 08:49:00"
         },
         {
-          "titulo": "Alerta reservas: el BCRA cancela un vencimiento de u$s1.000 millones por un Bopreal",
-          "link": "https://www.ambito.com/finanzas/alerta-reservas-el-bcra-cancela-un-vencimiento-us1000-millones-un-bopreal-n6218785",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 08:34:00"
-        },
-        {
           "titulo": "Ingreso de dólares del campo en noviembre: fue el monto más bajo para ese mes en 10 años",
           "link": "https://www.clarin.com/rural/ingreso-dolares-campo-noviembre-monto-mes-10-anos_0_yCxarPQXO2.html",
           "fuente": "Clarín",
           "fecha": "2025-12-01 08:26:34"
-        },
-        {
-          "titulo": "Combinación mortífera: las dos variables que llevaron a la “debacle” a una joya de la exportación",
-          "link": "https://www.lanacion.com.ar/economia/campo/combinacion-mortifera-las-dos-variables-que-llevaron-a-la-debacle-a-una-joya-de-la-exportacion-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:14:14"
-        },
-        {
-          "titulo": "Agroexportación. Noviembre tuvo el peor ingreso de dólares en siete años, pero en lo que va de 2025 creció un 24%: US$30.323.774.805",
-          "link": "https://www.lanacion.com.ar/economia/campo/agroexportacion-noviembre-tuvo-el-peor-ingreso-de-dolares-en-siete-anos-pero-en-lo-que-va-de-2025-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 08:10:30"
-        },
-        {
-          "titulo": "Celebra Caputo: inversores aceleran salida de dólares y se derrumba la cobertura cambiaria",
-          "link": "https://www.iprofesional.com/finanzas/442941-inversores-aceleran-desarme-dolares-y-cobertura-cambiaria-se-derrumba-mitad",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 07:00:00"
-        },
-        {
-          "titulo": "Los desafíos detrás del dólar calmo, la falta de reservas y la tasa de interés del plan Caputo a fin de año",
-          "link": "https://www.perfil.com/noticias/economia/los-desafios-detras-del-dolar-calmo-la-falta-de-reservas-y-la-tasa-de-interes-del-plan-caputo-a-fin-de-ano.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 05:30:00"
-        },
-        {
-          "titulo": "Mercados: diciembre arranca con tasas más estables y un dólar en tensa calma a 4% del techo de la banda",
-          "link": "https://www.ambito.com/finanzas/mercados-diciembre-arranca-tasas-mas-estables-y-un-dolar-tensa-calma-4-del-techo-la-banda-n6219262",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 00:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-01",
       "fuentes": [
-        "Perfil",
-        "La Nación",
+        "Ámbito Financiero",
         "Clarín",
-        "iProfesional",
-        "Ámbito Financiero"
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "presupuesto_nacional_2025:_20251201",
+      "tema": "Presupuesto Nacional 2025: Ajustes y Partidas",
+      "tema_normalizado": "presupuesto nacional 2025: ajustes y partidas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional ha modificado el Presupuesto 2025 a través del DNU 849/2025.\n• Esta medida busca redistribuir recursos y aumentar partidas específicas para enfrentar la compleja situación de \"emergencia económica\" del país.\n• El objetivo es garantizar una administración razonable de los fondos y cumplir con compromisos urgentes del Estado.\n\n🔍 **Datos clave:**\n• **DNU 849/2025:** Decreto de Necesidad y Urgencia que oficializa los ajustes presupuestarios.\n• **Manuel Adorni:** Primer DNU firmado por él como jefe de Gabinete.\n• **$406.557 millones:** Asignados específicamente para saldar deudas previsionales con personal retirado y pensionado de las Fuerzas Armadas y de Seguridad.\n• **Presupuesto 2025:** El ejercicio fiscal al que se aplican estas reasignaciones de fondos.\n• **FONDESGAS:** Fondo de Desarrollo Gasífero, cuya modificación o disolución está habilitada para el Ministerio de Economía.\n\n⚡ **Desarrollo:**\n• La modificación incluye un refuerzo general para gastos de personal, funcionamiento y equipamiento de diversos organismos.\n• Se aumentan los recursos para **Seguridad**, cubriendo subas salariales y pensiones de la Policía Federal, Fuerzas Armadas y Policía de Establecimientos Navales.\n• En **Salud**, se destina mayor financiamiento para programas sanitarios y el funcionamiento de hospitales de referencia como el Garrahan y El Cruce.\n• Para **ANSES y Discapacidad**, se otorgan fondos adicionales para pensiones no contributivas (ANDIS), jubilaciones y asignaciones familiares (Ley de Movilidad), el Programa 1000 Días, PAMI y la Prestación Mensual de Oncopediatría.\n• El **Ministerio de Capital Humano** recibe más presupuesto para ampliar la Prestación Alimentar y programas laborales como Volver al Trabajo.\n• La **Secretaría de Educación** obtiene fondos extra para salarios universitarios, Becas Progresar, comedores escolares y la Jornada Extendida en escuelas.\n• También se contemplan ajustes para el pago de deuda pública del Tesoro y compromisos con empresas y organismos públicos como YCRT, Belgrano Cargas y Radio y TV Argentina.\n• Se habilita al Ministerio de Economía a redefinir el esquema de financiamiento de obras de transporte de gas mediante la posible modificación o disolución del Fondo de Desarrollo Gasífero (FONDESGAS).\n\n💡 **¿Por qué importa?**\n• Estos ajustes permiten al Gobierno reasignar recursos hacia áreas prioritarias como la seguridad, salud, educación y programas sociales, buscando afrontar la compleja situación económica.\n• La medida impacta directamente en las prestaciones previsionales, subsidios y servicios esenciales, afectando a millones de beneficiarios y al funcionamiento de organismos clave del Estado.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El Gobierno modifica el Presupuesto 2025 y aumenta partidas para servicios estratégicos",
+          "link": "https://www.iprofesional.com/economia/443043-el-gobierno-ajusta-el-presupuesto-2025-y-destina-mas-fondos-a-areas-sensibles-que-cambia",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 10:52:00"
+        },
+        {
+          "titulo": "El Gobierno reordenó el Presupuesto 2025 y reforzó partidas para áreas clave",
+          "link": "https://www.ambito.com/politica/el-gobierno-reordeno-el-presupuesto-2025-y-reforzo-partidas-areas-clave-n6219370",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 08:17:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-01",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
