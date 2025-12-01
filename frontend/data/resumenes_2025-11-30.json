@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-11-30",
-  "fecha_generacion": "2025-11-30T21:15:05.539345",
+  "fecha_generacion": "2025-12-01T01:05:10.100506",
   "resumenes": {
     "internacional": {
-      "resumen": "La situación geopolítica global se caracteriza por una escalada de tensiones y diplomacia. Las negociaciones entre Ucrania y Estados Unidos iniciaron en Florida, centradas en un plan de Donald Trump para asegurar la soberanía y prosperidad ucraniana frente a Rusia. Simultáneamente, la administración Trump intensificó la presión sobre Venezuela con el cierre del espacio aéreo, llevando al gobierno de Nicolás Maduro a activar un plan de repatriación en medio de una visible debilidad militar. En Israel, el Primer Ministro Benjamin Netanyahu solicitó un indulto presidencial por cargos de corrupción, aduciendo que el juicio compromete la estabilidad nacional y siguiendo una sugerencia previa de Donald Trump.\n\nEl Papa León XIV concluyó su viaje a Turquía y llegó al Líbano, llevando un mensaje de unidad y paz a una región asolada por la violencia. Durante su visita, reiteró su apoyo a una solución de dos Estados para Israel y Palestina, siendo recibido con un mensaje de esperanza en Líbano.\n\nEn Estados Unidos, incidentes de violencia dominaron las noticias, incluyendo un tiroteo masivo en una fiesta infantil en Stockton, California, que dejó cuatro muertos y múltiples heridos. La agencia de Aduanas y Protección Fronteriza incautó casi 800.000 dólares en juguetes falsificados antes de la temporada navideña. En el ámbito social, nuevas reglas para el programa SNAP en 2026 podrían afectar a millones de beneficiarios, mientras que en Florida se aprobó un controvertido bono navideño de 1000 dólares. Políticamente, un escándalo que involucra a Robert F. Kennedy Jr. acaparó la atención, y el expresidente hondureño Juan Orlando Hernández, sentenciado por narcotráfico, podría ser indultado por Donald Trump.\n\nOtros eventos internacionales incluyen masivas protestas en Madrid exigiendo la renuncia de Pedro Sánchez y elecciones anticipadas. En Honduras, se preparan elecciones presidenciales en medio de acusaciones de fraude. En Asia, Hong Kong despidió a las víctimas de un incendio, mientras Pekín advirtió contra las protestas \"antichinas\". Además, activistas pro Palestina vandalizaron la redacción del diario italiano La Stampa en Turín.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-30T21:14:45.036968",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-01T01:05:10.100021"
     },
     "politica": {
-      "resumen": "La política argentina se caracteriza por una intensa reconfiguración interna y tensiones gubernamentales. Karina Milei emerge como una figura central, instando a la reelección de Javier Milei en 2027 y consolidando poder en bloques legislativos bonaerenses, lo que ha generado roces con Santiago Caputo y \"Las Fuerzas del Cielo\". Simultáneamente, el oficialismo busca ampliar su base legislativa, atrayendo diputados del PRO y negociando con gobernadores para asegurar mayorías.\n\nEn el ámbito de la gestión, el gobierno enfrenta el malestar de funcionarios por salarios deprimidos y planea una nueva ola de despidos de 30.000 empleados públicos para 2026, afectando áreas como Radio Nacional y la Televisión Pública. La desregulación del mercado del gas ha provocado descontrol y riesgos, mientras que la Defensa registra un éxodo de personal por bajos sueldos y vaciamiento.\n\nUn foco de conflicto importante es el enfrentamiento entre el Gobierno y Claudio \"Chiqui\" Tapia, presidente de la AFA. Se diseñan estrategias judiciales en su contra, aunque con cautela para evitar intromisiones políticas que puedan afectar a la Selección Nacional, mientras el presidente Milei utiliza las redes sociales para referirse a la disputa.\n\nA nivel regional, Honduras celebra elecciones presidenciales en un clima de máxima tensión, denuncias de fraude y un \"empate técnico\" entre los principales candidatos. En Perú, se realizaron las Elecciones Primarias 2025, con la difusión de resultados en tiempo real.\n\nFinalmente, se registró el fallecimiento de Ekel Meyer, presidente de la Suprema Corte de Justicia de Jujuy, y la internación de urgencia de José Alperovich, exgobernador tucumano, por una complicación gastrointestinal.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-30T21:14:55.403534",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-01T01:05:10.100189"
     },
     "economia": {
-      "resumen": "El panorama económico argentino exhibe una mezcla de ajustes macroeconómicos y desafíos sectoriales. El Gobierno proyecta una apreciación del peso y espera que los cambios en subsidios generen ahorros de US$1.000 millones, cruciales para mantener el superávit fiscal en 2026, aunque el control del dólar y el cepo presentarán dificultades para el Banco Central el próximo año. A nivel de actividad, octubre registró un crecimiento del 0.7% mensual, con un repunte interanual.\n\nEl sector financiero muestra inquietud por el aumento de la morosidad en familias y pymes, y la creciente competencia de las billeteras virtuales. Estas últimas verán una reducción en sus rendimientos diarios a partir de diciembre debido a nuevas regulaciones de la CNV que limitan inversiones en cauciones. Simultáneamente, el sector bancario explora innovaciones como el crédito hipotecario tokenizado para revitalizar el mercado de viviendas.\n\nEl impacto social es notorio, con una brecha creciente entre una clase alta que considera viajar y una clase media que lucha por sostener su poder adquisitivo. Los jubilados son particularmente afectados, habiendo perdido el 10.3% de sus haberes en los últimos dos años y, en muchos casos, abandonando tratamientos médicos por falta de recursos. La venta de autos 0 km experimentó una fuerte caída en noviembre, aunque los costos de refacción de hogares han disminuido en dólares.\n\nEn materia de regulaciones sectoriales, el Ejecutivo redujo aranceles a juguetes para aliviar precios de cara a la Navidad. Sin embargo, el sector vitivinícola solicita mantener instrumentos de trazabilidad, mientras que propuestas como un impuesto a la emisión de gases vacunos generaron un contundente rechazo del sector agropecuario. Un proyecto clave, la planta de GNL de YPF y Petronas, se detuvo debido a disputas políticas sobre su ubicación.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-11-30T21:15:05.538860",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-01T01:05:10.100337"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-11-30T21:15:05.539326"
+      "fecha_generacion": "2025-12-01T01:05:10.100492"
     }
   }
 }
