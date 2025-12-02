@@ -1,38 +1,98 @@
 {
   "fecha": "2025-12-02",
-  "fecha_generacion": "2025-12-02T18:28:10.191757",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-02T21:21:58.587993",
+  "total_temas": 9,
   "temas": [
     {
-      "tema_id": "cotizaciones_y_mercado_20251202",
-      "tema": "Cotizaciones y Mercado Cambiario",
-      "tema_normalizado": "cotizaciones y mercado cambiario",
-      "resumen": "📌 **¿Qué está pasando?**\n• El martes 2 de diciembre de 2025, el mercado cambiario argentino exhibió movimientos diferenciados en las cotizaciones del dólar y el euro.\n• Se observó una relativa \"pax cambiaria\" en el dólar oficial, mientras que las cotizaciones de los dólares paralelos y financieros registraron variaciones.\n• El dólar blue cerró con una ligera suba, reflejando la persistente demanda de activos de refugio por parte de los ahorristas.\n\n🔍 **Datos clave:**\n• **Fecha:** Martes 2 de diciembre de 2025.\n• **Dólar Blue (venta):** $1.445,00, operando en el mercado informal.\n• **Dólar Oficial (venta BNA):** $1.480,00, tipo de cambio con control estatal.\n• **Dólar MEP (venta):** $1.480,60, resultado de la compra-venta de bonos en el mercado local.\n• **Dólar Contado con Liquidación (CCL) (venta):** $1.496,85, usado para transferir divisas al exterior.\n• **Dólar Tarjeta (venta):** $1.924,00, incluye impuestos adicionales para gastos en el extranjero.\n• **Dólar Cripto (USDT venta):** $1.515,54, valor de stablecoins atadas al dólar.\n• **Euro Oficial (venta BNA):** $1.730,00.\n• **Euro Blue (venta):** $1.723,75, cotización en el mercado paralelo.\n\n⚡ **Desarrollo:**\n• El mercado cambiario argentino presenta múltiples cotizaciones de divisas, como el dólar blue (ilegal y sin regulación) y el oficial (regulado por el Banco Central para operaciones específicas).\n• Los tipos de cambio financieros como el Dólar MEP y el CCL son relevantes para la inversión y el movimiento de capitales, obtenidos mediante operaciones con bonos.\n• Diciembre es un mes estacionalmente particular, marcado por el pago de aguinaldos y una mayor demanda de pesos, lo que suele moderar transitoriamente la demanda de dólares para atesoramiento.\n• Analistas del mercado monitorean la baja de las tasas de interés en pesos y la situación de las reservas netas del Banco Central, que se mantienen en niveles críticos.\n• La Organización para la Cooperación y el Desarrollo Económico (OCDE) proyectó menor crecimiento y más inflación para Argentina, alertando sobre presiones cambiarias y vulnerabilidades macroeconómicas.\n• A pesar de la \"pax cambiaria\" en el dólar oficial, las brechas con los dólares financieros y el blue pueden fluctuar, indicando la complejidad y volatilidad subyacente del mercado.\n\n💡 **¿Por qué importa?**\n• Las distintas cotizaciones de las divisas son un indicador clave de la salud económica del país, la confianza de los inversores y las expectativas de devaluación.\n• Estos valores afectan directamente el costo de vida, la capacidad de ahorro, el comercio exterior y las decisiones financieras de ciudadanos y empresas.",
-      "cantidad_noticias": 10,
+      "tema_id": "dolar_y_mercados_20251202",
+      "tema": "Dólar y Mercados Financieros Argentinos",
+      "tema_normalizado": "dolar y mercados financieros argentinos",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial minorista en Argentina experimentó una leve suba, alcanzando los $1.480 en el Banco Nación el martes 2 de diciembre de 2025, tras varias ruedas de estabilidad.\n• Los dólares financieros (MEP y Contado Con Liquidación) también mostraron incrementos, mientras que el dólar blue se mantuvo estable en $1.445, siendo momentáneamente la cotización más barata.\n• El mercado reacciona a la reciente baja de las tasas de interés en pesos y la persistente preocupación por el estado crítico de las reservas del Banco Central.\n\n🔍 **Datos clave (al martes 2 de diciembre de 2025):**\n• **Dólar Oficial (venta BNA):** $1.480.\n• **Dólar Blue (venta):** $1.445.\n• **Dólar MEP (venta):** $1.478,59.\n• **Dólar Contado con Liquidación (CCL venta):** $1.522,86.\n• **Euro Blue (venta):** $1.688,03.\n• **Riesgo País (J.P. Morgan):** En torno a 647 puntos básicos.\n• **Reservas Netas del BCRA:** Estimadas en -$17.000 millones negativos a fin de año, según metodología del FMI.\n• **TNA Plazo Fijo:** Por debajo del 30% (ej. 26% en canales digitales del BNA).\n• **Bitcoin:** Repuntó a u$s91.000.\n\n⚡ **Desarrollo:**\n• El inicio de diciembre mostró una \"pax cambiaria\" para el dólar oficial, influenciada por factores estacionales como los gastos de fin de año y la liquidación de la cosecha de trigo, aunque la baja de tasas de interés impulsó las cotizaciones.\n• La situación de las reservas del Banco Central es crítica, con cifras netas negativas que limitan su capacidad para intervenir y acumular divisas, manteniendo al tipo de cambio oficial \"incómodamente cerca\" de su techo.\n• Los Fondos Comunes de Inversión Money Market en pesos lideraron las suscripciones en noviembre, demostrando su rol como refugio de liquidez ante la volatilidad económica.\n• El S&P Merval, el principal índice bursátil, retrocedió tras haber escalado un 11% en dólares la semana anterior, mientras los bonos soberanos anotaron subas generalizadas.\n• El BCRA implementó una medida para que adolescentes puedan abrir cajas de ahorro en dólares, buscando fomentar el hábito del ahorro en moneda extranjera desde temprana edad y simplificar la bancarización.\n• Diciembre es un mes clave por elevados vencimientos y metas con el FMI; la estacionalidad de fin de año con aguinaldos y mayor demanda de pesos podría generar una calma transitoria en el dólar.\n\n💡 **¿Por qué importa?**\n• El dólar es el principal refugio de valor para los argentinos frente a la inflación y la inestabilidad, por lo que sus movimientos y las políticas cambiarias tienen un impacto directo en el poder adquisitivo y las decisiones financieras.\n• La capacidad del Gobierno para acumular reservas, manejar los vencimientos de deuda y sostener un equilibrio monetario sin generar tensiones cambiarias es fundamental para la estabilidad económica y la confianza de los inversores.",
+      "cantidad_noticias": 18,
       "noticias": [
         {
-          "titulo": "A cuánto cerró el dólar blue hoy este martes 2 de diciembre del 2025",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-este-martes-2-de-diciembre-del-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 15:00:00"
+          "titulo": "Dólar hoy en vivo: en el Banco Nación subió a $1.480 después de cuatro ruedas de estabilidad",
+          "link": "https://www.infobae.com/economia/2025/12/02/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-martes-2-de-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 18:02:23"
         },
         {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 2 de diciembre",
+          "titulo": "El S&P Merval cayó tras escalar 11% en dólares en una semana, mientras los bonos anotan subas generalizadas",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-mayoria-caidas-y-el-riesgo-pais-se-sostiene-arriba-los-600-puntos-n6219874",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:58:00"
+        },
+        {
+          "titulo": "A cuánto cotizó el dólar este martes 2 de diciembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-2-de-diciembre-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 14:56:24"
+          "fecha": "2025-12-02 17:56:24"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 2 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-2-diciembre-n6219713",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:47:00"
+        },
+        {
+          "titulo": "Ahorrar en dólares con más anticipación: la medida que sorprendió a los argentinos",
+          "link": "https://www.ambito.com/economia/ahorrar-dolares-mas-anticipacion-la-medida-que-sorprendio-los-argentinos-n6219592",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:30:00"
         },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 2 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-2-diciembre-n6219781",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 14:52:00"
+          "fecha": "2025-12-02 17:16:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy martes 2 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-martes-2-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:58:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue hoy este martes 2 de diciembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-este-martes-2-de-diciembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:42:00"
+        },
+        {
+          "titulo": "El dólar oficial aumentó, tocó máximos en un mes y quedó a $10 del blue",
+          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-las-brechas-tocan-minimos-un-mes-que-factores-mira-el-mercado-n6219785",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 16:16:00"
+        },
+        {
+          "titulo": "El dólar oficial tuvo una leve suba tras la baja de tasas de interés",
+          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-anota-una-semana-completa-de-calma-aunque-analistas-ponen-el-foco-en-un-movimiento-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:08:32"
         },
         {
           "titulo": "Dólar hoy: a cuánto cotiza este martes 2 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-2-diciembre-n6219714",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 13:51:00"
+          "fecha": "2025-12-02 15:58:00"
+        },
+        {
+          "titulo": "El dato que nadie esperaba: por qué el dólar podría volver a chocar contra el techo de la banda",
+          "link": "https://www.iprofesional.com/finanzas/443143-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 15:15:00"
+        },
+        {
+          "titulo": "Fondos Comunes de Inversión: los Money Market en pesos fueron los líderes durante noviembre",
+          "link": "https://www.ambito.com/finanzas/fondos-comunes-inversion-los-money-market-pesos-fueron-los-lideres-noviembre-n6219972",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:56:00"
+        },
+        {
+          "titulo": "Bitcoin repunta a u$s91.000 y las altcoins anotan rebotes en una jornada alcista",
+          "link": "https://www.ambito.com/finanzas/bitcoin-repunta-us87000-y-las-altcoins-anotan-timidos-rebotes-n6219787",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:54:00"
         },
         {
           "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este martes 2 de diciembre de 2025",
@@ -41,16 +101,10 @@
           "fecha": "2025-12-02 13:15:00"
         },
         {
-          "titulo": "Dólar blue hoy: a cuánto opera este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-2-diciembre-n6219713",
+          "titulo": "Plazo fijo con tasas bajas: cuánto gano si deposito $700.000 a 30 días",
+          "link": "https://www.ambito.com/economia/plazo-fijo-tasas-bajas-cuanto-gano-si-deposito-700000-30-dias-n6219953",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-02 13:15:00"
-        },
-        {
-          "titulo": "El dólar oficial anota una semana completa de calma, aunque analistas ponen el foco en un movimiento del mercado",
-          "link": "https://www.lanacion.com.ar/economia/dolar/el-dolar-oficial-anota-una-semana-completa-de-calma-aunque-analistas-ponen-el-foco-en-un-movimiento-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 13:02:00"
         },
         {
           "titulo": "Qué se espera del dólar en diciembre de 2025: Fin de año con aguinaldo y mayor demanda de pesos",
@@ -63,21 +117,17 @@
           "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-martes-2-diciembre-n6219704",
           "fuente": "Minuto1",
           "fecha": "2025-12-02 12:55:00"
-        },
-        {
-          "titulo": "¿Se despierta el dólar oficial?: toca máximos en un mes y le saca una diferencia de más de $10 al blue",
-          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-las-brechas-tocan-minimos-un-mes-que-factores-mira-el-mercado-n6219785",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 12:37:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Ámbito Financiero",
+        "iProfesional",
         "Perfil",
-        "La Nación",
-        "Minuto1"
+        "Minuto1",
+        "Ámbito Financiero",
+        "Infobae",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -85,23 +135,287 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "asuncion_monteoliva_ministerio_20251202",
-      "tema": "Asunción Monteoliva Ministerio Seguridad",
-      "tema_normalizado": "asuncion monteoliva ministerio seguridad",
-      "resumen": "📌 **¿Qué está pasando?**\n• Alejandra Monteoliva juró como nueva ministra de Seguridad de Argentina ante el presidente Javier Milei.\n• Reemplaza a Patricia Bullrich, quien deja el cargo para asumir como senadora nacional.\n• La asunción ratifica la continuidad de la política de seguridad conocida como la \"Doctrina Bullrich\".\n\n🔍 **Datos clave:**\n• **Ministra saliente:** Patricia Bullrich.\n• **Ministra entrante:** Alejandra Monteoliva (ex Secretaria de Seguridad Nacional).\n• **Fecha de jura:** Martes, al mediodía.\n• **Lugar:** Salón Blanco de la Casa Rosada.\n• **Decreto de designación:** 851/2025.\n• **Embajador presente:** Peter Lamelas (Embajador de Estados Unidos).\n• **N° 2 del Ministerio:** Martín Ferlauto (confirmado por Monteoliva).\n\n⚡ **Desarrollo:**\n• Patricia Bullrich deja el Ministerio de Seguridad para liderar el bloque de La Libertad Avanza en el Senado.\n• Monteoliva ratificó que continuará con la \"doctrina Bullrich\", manteniendo la política de \"mano dura\", lucha contra el narcotráfico y despliegue territorial.\n• La nueva ministra confirmó que mantendrá la mayor parte del equipo de su antecesora, con cambios mínimos por otras designaciones.\n• Entre los presentes en la jura se destacaron el embajador de Estados Unidos, Peter Lamelas, junto a ministros del gabinete y Karina Milei.\n• Lamelas, quien tuvo reuniones previas con el ministro Diego Santilli, expresó su interés en la relación bilateral y la lucha contra la corrupción.\n• Alejandra Monteoliva es politóloga con maestría en Colombia, con experiencia en seguridad en países como Honduras y El Salvador.\n• Fue ministra de Seguridad en Córdoba en 2013 y colaboradora cercana de Bullrich desde 2015.\n• Anunció un viaje a Rosario para continuar con el \"Plan Bandera\" y subrayó la importancia de la colaboración con la provincia de Buenos Aires.\n\n💡 **¿Por qué importa?**\n• Asegura la continuidad de una política de seguridad con enfoque de \"mano dura\" y tolerancia cero, considerada central por el gobierno actual.\n• Refuerza la señal de alineamiento y cooperación con Estados Unidos en temas de seguridad y lucha contra el crimen organizado.",
-      "cantidad_noticias": 6,
+      "tema_id": "economia_argentina:_proyecciones_20251202",
+      "tema": "Economía Argentina: Proyecciones y Medidas",
+      "tema_normalizado": "economia argentina: proyecciones y medidas",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La economía argentina atraviesa un período de ajuste con proyecciones internacionales que anticipan un crecimiento moderado y una inflación aún elevada para 2026.\n*   Se observan medidas de gobierno para reducir subsidios y mejorar la recaudación fiscal, mientras diversos sectores enfrentan desafíos por la caída del consumo y cambios regulatorios.\n\n🔍 **Datos clave:**\n*   **OCDE:** Proyecta un PBI del 3% y una inflación del 17.6% para 2026.\n*   **Mercado Juguetero:** Más de 300 locales cerrados en el sector, con ventas que cayeron un 30% en noviembre, por importaciones y falta de consumo.\n*   **Subsidios Energéticos:** Desde enero de 2026, 140.000 familias de ingresos medios perderán el 50% de su subsidio en electricidad (de 100% a 50% sobre 250 kWh).\n*   **Deuda Provincial:** Santa Fe buscará u$s500-1.000 millones en Nueva York con bonos a 7.5-9 años, con una TEA proyectada del 8.5%.\n*   **Tributación:** AGIP extendió hasta el 9 de enero de 2026 la condonación del 100% de intereses en la moratoria de CABA; ARCA actualizó los parámetros de IVA para vendedores habituales en plataformas digitales (operaciones + de $750.000 mensuales o cuatrimestrales).\n*   **Salario/Jubilaciones:** El Salario Mínimo se definirá por decreto; jubilaciones docentes no universitarios suben 7.5%, superando la inflación, mientras las universitarias (3.85%) pierden poder adquisitivo.\n\n⚡ **Desarrollo:**\n*   **Desafíos Macroeconómicos:** Las proyecciones de la OCDE muestran un ajuste a la baja en el crecimiento y al alza en la inflación, evidenciando vulnerabilidades persistentes y la necesidad de nuevas reformas.\n*   **Ajuste y Consumo Interno:** La quita de subsidios energéticos busca equilibrar las cuentas públicas, pero impactará en el bolsillo de los consumidores, sumándose a la fuerte caída del consumo que afecta a sectores como el juguetero.\n*   **Inversión y Mercados:** El interés en deuda subsoberana (ej. Santa Fe) y la inversión en aerocomercial (Flybondi, US$1.700 millones) contrastan con la cautela del agro, que muestra confianza a futuro pero poca inversión, afectado también por anegamientos.\n*   **Políticas Tributarias y Comerciales:** La redefinición de impuestos para el e-commerce y las moratorias buscan ordenar la recaudación, mientras que la apertura de importaciones genera tensiones en la industria local.\n*   **Impacto en el Ciudadano:** La inflación sigue erosionando el poder adquisitivo, reflejado en el aumento de la canasta navideña y la redefinición de \"clase alta\" (ingreso mensual de $7.000.000 por hogar).\n*   **Conflictos Locales:** Municipios como Coronel Suárez generan tensión al proponer aumentos de tasas viales sin, según productores, la contraprestación de servicios adecuada.\n\n💡 **¿Por qué importa?**\n*   Estas proyecciones y medidas dibujan un escenario de transición económica en Argentina, donde el gobierno busca la estabilización macroeconómica a través de ajustes y reformas.\n*   El impacto directo se siente en el poder adquisitivo de las familias, la viabilidad de diversas industrias y la capacidad de inversión, delineando los desafíos y oportunidades para 2026.",
+      "cantidad_noticias": 34,
       "noticias": [
         {
-          "titulo": "Juró Alejandra Monteoliva como ministra de Seguridad, con el embajador de Trump en primera fila",
-          "link": "https://www.lanacion.com.ar/politica/juro-alejandra-monteoliva-como-ministra-de-seguridad-con-el-embajador-de-trump-en-primera-fila-nid02122025/",
+          "titulo": "“Se ha mezclado la ignorancia y la ideología”: expertos cuestionan el proyecto de la diputada K que impulsa un impuesto a los gases de las vacas",
+          "link": "https://www.lanacion.com.ar/economia/campo/se-ha-mezclado-la-ignorancia-y-la-ideologia-expertos-cuestionan-el-proyecto-de-la-diputada-k-que-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 14:58:46"
+          "fecha": "2025-12-02 17:51:09"
         },
         {
-          "titulo": "El asistente inesperado, el funcionario más saludado y la ratificación de la “doctrina Bullrich”: la trastienda de la jura de Monteoliva en Seguridad",
-          "link": "https://www.infobae.com/politica/2025/12/02/el-asistente-inesperado-el-funcionario-mas-saludado-y-la-ratificacion-de-la-doctrina-bullrich-la-trastienda-de-la-jura-de-monteoliva-en-seguridad/",
+          "titulo": "Santa Fe se sube a la ola de colocaciones de deuda en dólares: sale a buscar hasta u$s1.000 millones en Nueva York",
+          "link": "https://www.ambito.com/economia/santa-fe-se-sube-la-ola-colocaciones-deuda-dolares-sale-buscar-us1000-millones-nueva-york-n6220071",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:48:00"
+        },
+        {
+          "titulo": "Los alquileres porteños desaceleraron, pero se mantienen los precios de venta y los costos de construcción siguen en alza",
+          "link": "https://www.infobae.com/economia/2025/12/02/los-alquileres-portenos-desaceleraron-pero-mantiene-precios-de-venta-y-costos-de-construccion-al-alza/",
           "fuente": "Infobae",
-          "fecha": "2025-12-02 14:46:31"
+          "fecha": "2025-12-02 17:25:32"
+        },
+        {
+          "titulo": "Colapsan las jugueterías y no todo es culpa de importaciones: ya cerraron más de 300 locales",
+          "link": "https://www.iprofesional.com/economia/443186-colapsan-jugueterias-y-no-todo-culpa-de-importaciones-cerraron-mas-300",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 17:24:00"
+        },
+        {
+          "titulo": "ARCA modificó el régimen del IVA para los que venden en plataformas digitales: quiénes deberán pagar a partir de ahora",
+          "link": "https://www.infobae.com/economia/2025/12/02/arca-modifico-el-regimen-del-iva-para-los-venden-en-plataformas-digitales-quienes-deberan-pagar-a-partir-de-ahora/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 17:19:02"
+        },
+        {
+          "titulo": "¿Si soy monotributista cobro el aguinaldo en diciembre 2025?",
+          "link": "https://www.lanacion.com.ar/economia/si-soy-monotributista-cobro-el-aguinaldo-en-diciembre-2025-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:16:02"
+        },
+        {
+          "titulo": "Jubilaciones docentes: este mes habrá reajustes de 3,85% o de 7,5%, según el régimen al que correspondan los ingresos",
+          "link": "https://www.lanacion.com.ar/economia/jubilaciones-docentes-este-mes-habra-reajustes-de-385-o-de-75-segun-el-regimen-al-que-correspondan-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:11:28"
+        },
+        {
+          "titulo": "Billeteras virtuales: cómo afectó a los rendimientos la nueva normativa que modifica cartera de FCI Money Market",
+          "link": "https://www.ambito.com/finanzas/billeteras-virtuales-como-afecto-los-rendimientos-el-ajuste-los-encajes-los-fci-money-market-n6219959",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:01:00"
+        },
+        {
+          "titulo": "Por importaciones récord, cerraron 300 jugueterías en dos años",
+          "link": "https://www.perfil.com/noticias/economia/por-importaciones-record-se-cerraron-300-jugueterias-en-dos-anos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 17:00:05"
+        },
+        {
+          "titulo": "Cuenta DNI lanza un \"regalo\" navideño: el descuentazo para aprovechar durante las Fiestas",
+          "link": "https://www.minutouno.com/economia/cuenta-dni-lanza-un-regalo-navideno-el-descuentazo-aprovechar-las-fiestas-n6220085",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 17:00:00"
+        },
+        {
+          "titulo": "La confianza del agro: se recuperó un indicador que miran los productores, pero sigue muy bajo el interés por invertir",
+          "link": "https://www.lanacion.com.ar/economia/campo/la-confianza-del-agro-se-recupero-un-indicador-que-miran-los-productores-pero-sigue-muy-bajo-el-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:34:17"
+        },
+        {
+          "titulo": "ARCA simplifica la carga de información y corrige errores en el IVA Simple: cuáles son las novedades",
+          "link": "https://www.iprofesional.com/impuestos/443176-arca-simplifica-la-carga-de-informacion-y-corrige-errores-en-el-iva-simple",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 16:29:00"
+        },
+        {
+          "titulo": "Ajuste energético nacional: aumentos de tarifas y recorte de subsidios para 140.000 familias",
+          "link": "https://www.perfil.com/noticias/politica/ajuste-energetico-nacional-aumentos-de-tarifas-y-recorte-de-subsidios-para-140000-familias.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:14:11"
+        },
+        {
+          "titulo": "Habló Lucila Klug, la diputada que le quiere poner un impuesto a los gases de las vacas",
+          "link": "https://www.lanacion.com.ar/economia/campo/hablo-lucila-klug-la-diputada-que-le-quiere-poner-un-impuesto-a-los-gases-de-las-vacas-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:04:51"
+        },
+        {
+          "titulo": "“Al campo le está yendo bien”: tensión en un municipio bonaerense por el aumento de una tasa vial y un recargo a los combustibles",
+          "link": "https://www.lanacion.com.ar/economia/campo/al-campo-le-esta-yendo-bien-tension-en-un-municipio-bonaerense-por-el-aumento-de-una-tasa-vial-y-un-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:02:21"
+        },
+        {
+          "titulo": "Presupuesto 2026: qué piden los gobernadores para apoyar el proyecto de Javier Milei en el Congreso",
+          "link": "https://www.ambito.com/ambito-nacional/presupuesto-2026-que-piden-los-gobernadores-apoyar-el-proyecto-javier-milei-el-congreso-n6220027",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 16:01:00"
+        },
+        {
+          "titulo": "Canasta navideña 2025: cuánto cuesta armar el arbolito y la cena familiar",
+          "link": "https://www.perfil.com/noticias/economia/canasta-navideña-con-un-valor-de-95.401-en-diciembre-del-2025-registro-un-aumento-por-debajo-de-la-inflacion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:00:00"
+        },
+        {
+          "titulo": "Oportunidad: empresarios argentinos de lácteos fueron a China y encontraron maquinaria hasta un 50% más barata",
+          "link": "https://www.lanacion.com.ar/economia/campo/oportunidad-empresarios-argentinos-de-lacteos-fueron-a-china-y-encontraron-maquinaria-hasta-un-50-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:57:38"
+        },
+        {
+          "titulo": "Una fastuosa casa en Pilar se cuela en la polémica alrededor de la AFA",
+          "link": "https://www.lanacion.com.ar/economia/una-fastuosa-casa-en-pilar-se-cuela-en-la-polemica-alrededor-de-la-afa-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:50:37"
+        },
+        {
+          "titulo": "Qué sucursales de Coto venden ropa de H&M y a qué precio",
+          "link": "https://www.lanacion.com.ar/economia/que-sucursales-de-coto-venden-ropa-de-hm-y-a-que-precio-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:44:14"
+        },
+        {
+          "titulo": "El presidente del Banco Central de Perú dijo que la Argentina \"se encamina\" a bajar la inflación",
+          "link": "https://www.ambito.com/finanzas/el-presidente-del-banco-central-peru-dijo-que-la-argentina-se-encamina-bajar-la-inflacion-n6220005",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 15:13:00"
+        },
+        {
+          "titulo": "\"Es una noticia extraordinaria\": por qué para el Gobierno no es malo que la petrolera Exxon se haya ido de la Argentina",
+          "link": "https://www.clarin.com/economia/noticia-extraordinaria-gobierno-malo-petrolera-exxon-ido-argentina_0_8pDyROgIla.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 15:09:33"
+        },
+        {
+          "titulo": "La OCDE redujo las proyecciones de crecimiento y aumentó las de inflación",
+          "link": "https://www.minutouno.com/economia/la-ocde-redujo-las-proyecciones-crecimiento-y-aumento-las-inflacion-n6220023",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 14:45:00"
+        },
+        {
+          "titulo": "Cuánto dinero hay que ganar por mes para ser millonario en Argentina",
+          "link": "https://www.iprofesional.com/finanzas/443157-cuanto-dinero-hay-que-ganar-por-mes-para-ser-millonario-en-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 14:30:00"
+        },
+        {
+          "titulo": "La OCDE proyecta menos crecimiento y más inflación para la Argentina este año y en 2026",
+          "link": "https://www.ambito.com/economia/la-ocde-proyecta-menos-crecimiento-y-mas-inflacion-la-argentina-este-ano-y-2026-n6219960",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:25:00"
+        },
+        {
+          "titulo": "Flybondi invertirá US$ 1.700 millones para sumar 35 aviones en cuatro años y crecer en la región",
+          "link": "https://www.clarin.com/economia/flybondi-invertira-us-1700-millones-sumar-35-aviones-anos-crecer-region_0_JIhnLIQClW.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 14:18:11"
+        },
+        {
+          "titulo": "Cuenta DNI lanza una serie de beneficios exclusivos para la temporada de verano 2026 en la Provincia",
+          "link": "https://www.ambito.com/economia/cuenta-dni-lanza-una-serie-beneficios-exclusivos-la-temporada-verano-2026-la-provincia-n6219474",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:00:00"
+        },
+        {
+          "titulo": "Impuestos: AGIP extendió el plazo para la condonación del 100% de intereses en la moratoria de CABA",
+          "link": "https://www.ambito.com/economia/impuestos-agip-extendio-el-plazo-la-condonacion-del-100-intereses-la-moratoria-caba-n6219935",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 13:49:00"
+        },
+        {
+          "titulo": "8 de diciembre: cuánto cuesta armar el árbol para la Navidad 2025",
+          "link": "https://www.perfil.com/noticias/economia/8-de-diciembre-cuanto-cuesta-armar-el-arbol-para-la-a30-navidad-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 13:48:00"
+        },
+        {
+          "titulo": "ARCA: ya están confirmados los topes de facturación del monotributo para diciembre",
+          "link": "https://www.minutouno.com/economia/arca-ya-estan-confirmados-los-topes-facturacion-del-monotributo-diciembre-n6219979",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 13:25:00"
+        },
+        {
+          "titulo": "Salario Mínimo, Vital y Móvil: cuál es su monto en diciembre 2025 y cómo impacta en las prestaciones",
+          "link": "https://www.iprofesional.com/economia/443166-aumenta-el-salario-minimo-vital-y-movil-cual-es-su-monto-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 13:10:00"
+        },
+        {
+          "titulo": "Derrumbe de bancos cambió el mapa de inversión: qué acciones argentinas recomienda Wall Street",
+          "link": "https://www.iprofesional.com/finanzas/443103-que-acciones-argentinas-recomienda-ahora-wall-street-tras-derrumbe-bancos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 13:00:00"
+        },
+        {
+          "titulo": "¡Oferta imperdible para el verano! Descuentos y cuotas sin interés en aires acondicionados",
+          "link": "https://www.ambito.com/economia/oferta-imperdible-el-verano-descuentos-y-cuotas-interes-aires-acondicionados-n6219664",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 13:00:00"
+        },
+        {
+          "titulo": "La OCDE empeoró sus proyecciones para Argentina: menos crecimiento y más inflación en 2026",
+          "link": "https://www.perfil.com/noticias/economia/recalculando-la-ocde-proyecta-menor-crecimiento-y-mayor-inflacion-para-2026-en-argentina.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 12:52:52"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "iProfesional",
+        "Perfil",
+        "Minuto1",
+        "Clarín",
+        "Ámbito Financiero",
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gabinete_milei:_cambios_20251202",
+      "tema": "Gabinete Milei: Cambios y Seguridad",
+      "tema_normalizado": "gabinete milei: cambios y seguridad",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gabinete del presidente Javier Milei atraviesa una serie de reestructuraciones importantes en áreas clave como la Jefatura de Gabinete y el Ministerio de Seguridad.\n*   Estos movimientos incluyen el desplazamiento de funcionarios, la incorporación de nuevas figuras y la confirmación de líneas políticas, junto con medidas de desregulación estatal.\n\n🔍 **Datos clave:**\n*   **Manuel Adorni:** Actual Jefe de Gabinete, a cargo de la reorganización.\n*   **José \"Cochi\" Rolandi:** Desplazado vicejefe de Gabinete Ejecutivo.\n*   **Aimé “Meme” Vázquez:** Designada nueva Jefa de Gabinete del área de Adorni.\n*   **Alejandra Monteoliva:** Nueva Ministra de Seguridad, juró el pasado martes.\n*   **Patricia Bullrich:** Ex Ministra de Seguridad, asume su banca en el Senado.\n*   **$26.117.900.000:** Monto extra por DNU para la Secretaría de Inteligencia (SIDE).\n*   **24 F-16:** Aviones de combate adquiridos que se esperan para diciembre.\n*   **28 de noviembre:** Fecha de la Resolución 198/2025 que disolvió el SAC.\n\n⚡ **Desarrollo:**\n*   Manuel Adorni reestructuró la Jefatura de Gabinete, eliminando la vicejefatura y desplazando a José Rolandi y a su segundo, Nicolás Germán, quienes habían mantenido vínculos con el exjefe de Gabinete Nicolás Posse.\n*   Adorni designará a Aimé \"Meme\" Vázquez, politóloga y consultora, como su jefa de Gabinete, quien coordinará seis secretarías.\n*   Alejandra Monteoliva asumió como Ministra de Seguridad el pasado martes, reemplazando a Patricia Bullrich, y ratificó la continuidad de la \"Doctrina Bullrich\" en políticas de orden público y combate al narcotráfico.\n*   Patricia Bullrich, tras su despedida, asumió como senadora nacional por la Ciudad de Buenos Aires y jefa del bloque de La Libertad Avanza en la Cámara Alta.\n*   El Gobierno amplió el presupuesto de la Secretaría de Inteligencia (SIDE) en más de $26.000 millones mediante un DNU, siendo casi $20.000 millones destinados a salarios, debido al presupuesto prorrogado desde 2022.\n*   El Ministerio de Defensa lanzó licitaciones urgentes para el mantenimiento de la flota de aviones Pampa y Hércules, mientras se anunció la próxima llegada de los 24 aviones F-16 adquiridos a Dinamarca.\n*   Se disolvió el Servicio Argentino de Calibración y Medición (SAC), dependiente del INTI, para evitar duplicación de funciones con el Organismo Argentino de Acreditación (OAA) y promover la desregulación.\n*   Pilar Ramírez, legisladora porteña, se consolidó como una figura clave en el círculo de Karina Milei y en el armado político de La Libertad Avanza en CABA.\n\n💡 **¿Por qué importa?**\n*   Estos cambios evidencian una consolidación de la estructura de poder y la implementación de un organigrama más alineado con la visión del presidente Javier Milei, priorizando figuras de su máxima confianza.\n*   Las decisiones en seguridad y defensa refuerzan una postura de \"mano dura\" y un claro alineamiento internacional con Estados Unidos, mientras que las reestructuraciones administrativas buscan una mayor eficiencia y desregulación estatal.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Manuel Adorni desplazó a José Rolandi y reorganiza el organigrama de la Jefatura de Gabinete",
+          "link": "https://www.infobae.com/politica/2025/12/02/manuel-adorni-desplazo-a-jose-rolandi-y-reorganiza-el-organigrama-interno-de-la-jefatura-de-gabinete/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 17:43:37"
+        },
+        {
+          "titulo": "Quién reemplazará a Patricia Bullrich en el Ministerio de Seguridad",
+          "link": "https://www.lanacion.com.ar/politica/quien-reemplazara-a-patricia-bullrich-en-el-ministerio-de-seguridad-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:32:03"
+        },
+        {
+          "titulo": "Manuel Adorni echó a José Rolandi de la vicejefatura de Gabinete",
+          "link": "https://www.lanacion.com.ar/politica/manuel-adorni-echo-a-jose-rolandi-de-la-vicejefatura-de-gabinete-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:27:00"
+        },
+        {
+          "titulo": "Quién es Pilar Ramírez, la mano derecha de Karina Milei: \"Jamás milité en La Cámpora\"",
+          "link": "https://www.perfil.com/noticias/politica/quien-es-pilar-ramirez-la-mano-derecha-de-karina-milei-jamas-milite-en-la-campora.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 17:25:24"
+        },
+        {
+          "titulo": "El Gobierno amplió por DNU el presupuesto de la SIDE en más de $26.000 millones: aseguran que la mayor parte es para sueldos",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-amplio-por-dnu-el-presupuesto-de-la-side-en-mas-de-26000-millones-aseguran-que-la-mayor-parte-es-para-sueldos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:52:00"
+        },
+        {
+          "titulo": "Licitación urgente de Defensa para el mantenimiento de la flota Pampa y Hércules",
+          "link": "https://www.ambito.com/politica/licitacion-urgente-defensa-el-mantenimiento-la-flota-pampa-y-hercules-n6220048",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 15:52:00"
+        },
+        {
+          "titulo": "Luis Petri, textual: \"Argentinos, los F-16 vienen a velocidad supersónica y cada vez falta menos para recibirlos\"",
+          "link": "https://noticias.perfil.com/noticias/politica/luis-petri-textual-argentinos-los-f-16-vienen-a-velocidad-supersonica-y-cada-vez-falta-menos-para-recibirlos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 15:51:35"
+        },
+        {
+          "titulo": "El Gobierno desmanteló un organismo dependiente del INTI dedicado a la certificación de calibración para laboratorios",
+          "link": "https://www.ambito.com/politica/el-gobierno-desmantelo-un-organismo-dependiente-del-inti-dedicado-la-certificacion-laboratorios-n6219999",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 13:55:00"
         },
         {
           "titulo": "Monteoliva juró como ministra de Seguridad: a un dirigente no lo dejaron participar del acto",
@@ -120,117 +434,15 @@
           "link": "https://www.perfil.com/noticias/politica/milei-consagra-la-doctrina-bullrich-monteoliva-la-heredera-natural-juro-en-el-salon-blanco.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-02 13:21:00"
-        },
-        {
-          "titulo": "Alejandra Monteoliva asumió en Seguridad y promete continuidad total de la \"doctrina Bullrich\"",
-          "link": "https://www.ambito.com/politica/juro-alejandra-monteoliva-como-nueva-ministra-seguridad-n6219931",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 12:12:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Clarín",
-        "Infobae",
-        "Ámbito Financiero",
-        "La Nación",
+        "Perfil",
         "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "proyecciones_economicas_ocde_20251202",
-      "tema": "Proyecciones económicas OCDE Argentina",
-      "tema_normalizado": "proyecciones economicas ocde argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• La OCDE (Organización para la Cooperación y el Desarrollo Económicos) ha actualizado sus proyecciones económicas para Argentina en su informe más reciente.\n• Se recortaron las expectativas de crecimiento del Producto Bruto Interno (PBI) y se elevaron las estimaciones de inflación para los años 2025 y 2026.\n• El organismo advierte sobre vulnerabilidades macroeconómicas persistentes y la necesidad crucial de acumular reservas internacionales.\n\n🔍 **Datos clave:**\n• **PBI 2025:** Proyección reducida de 4.5% a 4.2%. Se espera un repunte tras una caída del 1.9% en 2024.\n• **PBI 2026:** Recorte de la proyección de 4.3% a 3%.\n• **Inflación 2025:** Estimación aumentada de 39.8% a 41.7%.\n• **Inflación 2026:** Revisión al alza de 16.5% a 17.6%.\n• **Reservas Internacionales:** Su recuperación es una prioridad clave para abordar vulnerabilidades y consolidar la estabilidad económica.\n• **PBI Global:** Se desaceleraría del 3.2% en 2025 al 2.9% en 2026, con un repunte al 3.1% en 2027.\n\n⚡ **Desarrollo:**\n• La OCDE justificó el ajuste de sus proyecciones debido a que el crecimiento económico se ha debilitado recientemente y las presiones sobre el tipo de cambio han ilustrado vulnerabilidades macroeconómicas persistentes y la incertidumbre política.\n• Se espera que el crecimiento en 2026 y 2027 esté impulsado por la inversión y las exportaciones. Esto se debe a un entorno más favorable para las empresas, regulaciones menos onerosas y un sector energético y minero dinámico.\n• El organismo subraya la necesidad de más reformas para mantener la prudencia fiscal y, al mismo tiempo, impulsar el crecimiento potencial. Esto incluye reducir la complejidad tributaria y ampliar las bases imponibles.\n• La política monetaria deberá mantenerse restrictiva para lograr una desinflación duradera y se considera que la acumulación de reservas monetarias debe ser una prioridad clave.\n• Aunque la inflación ha ido disminuyendo y los déficits fiscales se han cerrado, la baja demanda interna y la volatilidad cambiaria continúan siendo desafíos.\n• Las previsiones del gobierno para 2026 son más optimistas, con un 5% de crecimiento del PBI y un 10% de inflación.\n\n💡 **¿Por qué importa?**\n• Las proyecciones de la OCDE ofrecen una visión externa y técnica fundamental sobre el estado y las perspectivas de la economía argentina, impactando la confianza de inversores y la dirección de las políticas gubernamentales.\n• Resaltan que, a pesar de los avances, Argentina enfrenta desafíos significativos, como la inflación persistente, la baja de reservas y la necesidad de reformas estructurales profundas para lograr una estabilidad duradera y un crecimiento económico sostenido.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "La OCDE redujo las proyecciones de crecimiento y aumentó las de inflación",
-          "link": "https://www.minutouno.com/economia/la-ocde-redujo-las-proyecciones-crecimiento-y-aumento-las-inflacion-n6220023",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 14:45:00"
-        },
-        {
-          "titulo": "La OCDE proyecta menos crecimiento y más inflación para la Argentina este año y en 2026",
-          "link": "https://www.ambito.com/economia/la-ocde-proyecta-menos-crecimiento-y-mas-inflacion-la-argentina-este-ano-y-2026-n6219960",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 14:25:00"
-        },
-        {
-          "titulo": "La OCDE recortó su proyección de crecimiento para la Argentina y advirtió por las reservas",
-          "link": "https://www.lanacion.com.ar/economia/la-ocde-recorto-su-proyeccion-de-crecimiento-para-la-argentina-y-advirtio-por-las-reservas-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 13:03:22"
-        },
-        {
-          "titulo": "La OCDE empeoró sus proyecciones para Argentina: menos crecimiento y más inflación en 2026",
-          "link": "https://www.perfil.com/noticias/economia/recalculando-la-ocde-proyecta-menor-crecimiento-y-mayor-inflacion-para-2026-en-argentina.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 12:52:52"
-        },
-        {
-          "titulo": "OCDE redujo su proyección de crecimiento para Argentina en 2026 y elevó la estimación de inflación",
-          "link": "https://www.iprofesional.com/finanzas/443159-ocde-redujo-su-proyeccion-de-crecimiento-para-argentina-en-2026-que-pasa-con-la-inflacion",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 12:29:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Ámbito Financiero",
-        "La Nación",
-        "iProfesional",
-        "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "debate_reforma_laboral_20251202",
-      "tema": "Debate reforma laboral Argentina",
-      "tema_normalizado": "debate reforma laboral argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Confederación General del Trabajo (CGT) se encuentra en plena búsqueda de apoyos para negociar o frenar la reforma laboral que el gobierno de Javier Milei prevé enviar al Congreso.\n• Sergio Massa, en una reunión reciente con la cúpula sindical, les aconsejó la importancia de \"dar el debate\" sobre la reforma y no rechazarla de plano.\n• La CGT ya ha anunciado que presentará su propia propuesta de reforma laboral, que incluirá una dimensión de reforma impositiva.\n\n🔍 **Datos clave:**\n• **Actores principales:** CGT (nueva conducción: Jorge Sola, Cristian Jerónimo, Octavio Argüello; y figuras como Héctor Daer, Hugo Moyano, Gerardo Martínez), Sergio Massa (ex-ministro de Economía y candidato presidencial), Javier Milei (Presidente de la Nación), IDESA (Instituto para el Desarrollo Social Argentino).\n• **Fecha esperada de presentación:** La reforma laboral del gobierno se presentaría el 9 de diciembre, un día antes del inicio de las sesiones extraordinarias del Congreso.\n• **Informalidad laboral:** Más del 50% de la Población Económicamente Activa (PEA) se encuentra en la informalidad, cifra clave mencionada por Massa. Solo 6 millones de los 19 millones de trabajadores urbanos son asalariados registrados privados (32%), según IDESA.\n• **Asignaciones familiares (IDESA):** Un trabajador informal con un hijo menor de 3 años puede percibir hasta $217.000 mensuales (AUH + otros complementos), mientras que uno formal recibe solo $60.000 por Asignación por Hijo.\n\n⚡ **Desarrollo:**\n• El objetivo de la CGT es consolidar una red de apoyos en el Congreso y con gobernadores para resistir la ofensiva libertaria de cambios en la legislación laboral.\n• Massa argumenta que la discusión de la reforma es ineludible debido a la alta informalidad y el impacto de la robótica e Inteligencia Artificial en el mundo del trabajo.\n• Algunos dirigentes de la CGT expresaron dudas sobre la efectividad de la \"ayuda\" de Massa, aunque otros valoraron su rol en la articulación política peronista.\n• IDESA señala que la reforma laboral debe abordar factores que trascienden la legislación, como el desequilibrio en las asignaciones familiares.\n• La enorme diferencia entre los beneficios sociales para trabajadores formales e informales actúa como un poderoso factor inductor a la informalidad, especialmente en sueldos bajos.\n• Desde el año 2012, solo el 5% del aumento de los ocupados urbanos fueron asalariados registrados en empresas privadas, mientras el 50% fue crecimiento de la informalidad.\n\n💡 **¿Por qué importa?**\n• El debate de la reforma laboral es fundamental para el futuro del mercado de trabajo argentino, buscando una legislación que responda a la realidad económica y social del país.\n• La discusión involucra aspectos cruciales como la reducción de la informalidad, la sostenibilidad de los sindicatos y la adaptación a nuevas tecnologías, con impacto directo en millones de personas.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Reforma Laboral: la CGT recibió a Massa y el líder del Frente Renovador les dijo que “tienen que dar el debate”",
-          "link": "https://www.infobae.com/politica/2025/12/02/reforma-laboral-la-cgt-recibio-a-massa-y-el-lider-del-frente-renovador-les-dijo-que-tienen-que-dar-el-debate/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-02 14:57:07"
-        },
-        {
-          "titulo": "Reforma laboral: qué habría que cambiar de las asignaciones familiares, según un estudio privado",
-          "link": "https://www.infobae.com/economia/2025/12/02/reforma-laboral-que-habria-que-cambiar-de-las-asignaciones-familiares-segun-un-estudio-privado/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-02 14:37:29"
-        },
-        {
-          "titulo": "En una cena reservada, Massa le planteó a la CGT que discuta la reforma laboral y no la rechace a libro cerrado",
-          "link": "https://www.lanacion.com.ar/politica/en-una-cena-reservada-massa-le-planteo-a-la-cgt-que-discuta-la-reforma-laboral-y-no-la-rechace-a-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 13:53:55"
-        },
-        {
-          "titulo": "La CGT recibió a Massa: reunión con gusto a poco y  dudas por la \"ayuda\" para frenar la reforma laboral de Milei",
-          "link": "https://www.clarin.com/politica/cgt-recibio-massa-reunion-gusto-dudas-ayuda-frenar-reforma-laboral-milei_0_dbbXAAYIKM.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 13:47:11"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
         "Clarín",
+        "Ámbito Financiero",
         "Infobae",
         "La Nación"
       ],
@@ -240,17 +452,134 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "patrimonio_chiqui_tapia_20251202",
-      "tema": "Patrimonio Chiqui Tapia y finanzas",
-      "tema_normalizado": "patrimonio chiqui tapia y finanzas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El patrimonio y las finanzas de Claudio \"Chiqui\" Tapia, presidente de la AFA, están bajo intenso escrutinio público y judicial.\n• Esto surge a raíz de su declaración jurada oficial y de una investigación por presunto lavado de dinero que vincula a un financista cercano a él.\n• Se analizan sus múltiples fuentes de ingreso de diversos cargos y la valuación de sus propiedades, generando controversia y denuncias.\n\n🔍 **Datos clave:**\n• **Ingresos anuales netos declarados:** Más de $818 millones de pesos.\n• **Sueldo Conmebol:** Aproximadamente $60 millones de pesos mensuales ($718.5 millones anuales) como Vicepresidente Segundo (por 2 horas semanales).\n• **Sueldo Ceamse:** Cerca de $8 millones de pesos mensuales ($100.2 millones anuales) como Presidente (por 15 horas semanales).\n• **AFA:** Tapia no percibe sueldo por su rol de presidente en AFA, que es ad honorem, pero recibió $30 millones en viáticos.\n• **Patrimonio inmobiliario:** Declaró entre 6 y 7 propiedades, aunque sus valores fiscales sumados son \"irrisorios\" según una nota, y otra menciona una casa en Beccar valuada en US$15.7 millones.\n• **Investigación judicial:** Ariel Vallejo, un financista cercano, es investigado por presuntas maniobras de lavado de dinero por $818.000 millones.\n\n⚡ **Desarrollo:**\n• La declaración jurada de Tapia detalla sus haberes, destacando ingresos sustanciales de la Conmebol y del Ceamse, empresa estatal de residuos a la que fue designado por el gobernador Axel Kicillof.\n• También figura como empleado activo de Solbayres, una empresa privada de higiene urbana, lo que lo sitúa en ambos lados del negocio de los residuos.\n• Además de sus sueldos principales, Tapia declaró ingresos por $130 millones de pesos provenientes de intereses de plazos fijos y diferencias de cambio en dólares.\n• La valoración de sus propiedades genera polémica, con críticas sobre los bajos valores fiscales declarados que no reflejarían los precios reales del mercado.\n• El financista Ariel Vallejo, dueño de Sur Finanzas, se entregó a la Justicia y aportó su teléfono celular tras 19 allanamientos en una causa por lavado de dinero.\n• La investigación, a cargo del juez federal Luis Armella, incluyó el congelamiento de cuentas de Sur Finanzas y el levantamiento del secreto bancario y fiscal de Vallejo.\n• Se encontraron conversaciones con dirigentes de fútbol en el teléfono de Vallejo, quien, según fuentes, solo habla \"con el Chiqui\".\n• La causa judicial también investiga presuntas maniobras de lavado en el Club Atlético Banfield, relacionadas con un préstamo de 2 millones de euros y la transferencia de un jugador.\n• Familiares directos de Tapia, como su hijo Matías (presidente de Barracas Central) y un sobrino, también ocupan puestos en el Ceamse.\n• Anteriormente, se presentaron denuncias sobre una lujosa mansión en Pilar presuntamente no declarada y ligada a testaferros.\n\n💡 **¿Por qué importa?**\n• Las revelaciones generan dudas sobre la transparencia en la gestión de altos cargos públicos y deportivos, así como la justificación de los ingresos y la valoración del patrimonio declarado.\n• La investigación judicial por lavado de dinero y los vínculos de Tapia con actores bajo escrutinio judicial plantean serias preocupaciones sobre posibles irregularidades en el fútbol argentino y sus esferas de influencia.",
-      "cantidad_noticias": 4,
+      "tema_id": "poder_legislativo:_bloques_20251202",
+      "tema": "Poder Legislativo: Bloques y Proyectos",
+      "tema_normalizado": "poder legislativo: bloques y proyectos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Poder Legislativo, tanto a nivel nacional como provincial, está experimentando una intensa reconfiguración de bloques políticos tras las últimas elecciones.\n*   Estas reorganizaciones han provocado cambios en las mayorías y minorías, influyendo en la elección de autoridades y la distribución de poder.\n*   Se observa una fuerte puja por la influencia en las presidencias de las cámaras y la conformación de interbloques estratégicos que definen la agenda legislativa.\n\n🔍 **Datos clave:**\n*   **LLA Primera Fuerza:** La Libertad Avanza (LLA) se posicionó como la primera fuerza en la Cámara de Diputados Nacional, alcanzando 94 bancas.\n*   **UP con 93/94:** Unión por la Patria (UP) quedó con 94 diputados inicialmente, pero podría reducirse a 93 tras fugas como la de \"Elijo Catamarca\".\n*   **Presidencia Dip. PBA:** Alejandro Di Chiara (Massismo/La Cámpora) fue designado presidente de la Cámara de Diputados de la Provincia de Buenos Aires.\n*   **Presupuesto Dip. PBA:** La Cámara de Diputados bonaerense manejará un presupuesto superior a los $230.000 millones para el 2026.\n*   **PRO y UCR:** Exploraron formar un interbloque de aproximadamente 20 diputados para ser una \"tercera fuerza\" en la Cámara baja nacional.\n\n⚡ **Desarrollo:**\n*   La Libertad Avanza (LLA) logró consolidarse como primera fuerza en Diputados Nacionales, sumando legisladores del PRO y de otros espacios. Esto es crucial para la presidencia de comisiones y la capacidad de impulsar o frenar proyectos de ley.\n*   Unión por la Patria (UP) sufrió fracturas internas significativas, destacando la salida de tres diputados de Catamarca (Fernanda Ávila, Sebastián Nóblega y Fernando Monguillot) que formaron el bloque \"Elijo Catamarca\". Estos movimientos reflejan tensiones federales y cuestionamientos a la conducción.\n*   En la Cámara de Diputados bonaerense, se renovaron las autoridades mediante un acuerdo entre La Cámpora y el massismo, lo que permitió la designación de Alejandro Di Chiara como presidente y relegó la influencia del sector del gobernador Axel Kicillof.\n*   La formación de interbloques, como el que evalúan PRO y UCR (junto al MID), busca posicionarse como una \"tercera fuerza\" que actúe como bisagra entre las principales bancadas. Su objetivo es recuperar autonomía y evitar ofrecer votos sin contrapartida.\n*   Más allá de las negociaciones de poder, los legisladores presentan una diversidad de proyectos, desde iniciativas económicas como la \"Tasa Ambiental sobre el Metano\" para la ganadería, hasta propuestas culturales o conmemorativas.\n*   Las disputas por recursos y espacios físicos, como los despachos en el Senado, son recurrentes. La \"Ley del pasamanos\" (transferencia de oficinas por \"usos y costumbres\") es un ejemplo de las dinámicas internas del Congreso.\n\n💡 **¿Por qué importa?**\n*   La reconfiguración de los bloques legislativos es fundamental para la gobernabilidad, ya que determina qué fuerzas pueden aprobar leyes o ejercer control sobre el Poder Ejecutivo.\n*   La posesión de la primera minoría y la distribución de las presidencias de comisiones son estratégicas, pues otorgan el control de la agenda legislativa y la capacidad de impulsar o bloquear las políticas propuestas.",
+      "cantidad_noticias": 10,
       "noticias": [
         {
-          "titulo": "Declaración jurada de Chiqui Tapia: propiedades, vehículos, terrenos y la lista completa de su patrimonio",
-          "link": "https://www.lanacion.com.ar/politica/declaracion-jurada-de-chiqui-tapia-propiedades-vehiculos-terrenos-y-la-lista-completa-de-su-nid02122025/",
+          "titulo": "Renovaron las autoridades de Diputados en Provincia: se repite el acuerdo La Cámpora-Massa y relegan a legisladores de Kicillof",
+          "link": "https://www.clarin.com/politica/renovaron-autoridades-diputados-provincia-repite-acuerdo-campora-massa-relegan-legisladores-kicillof_0_QoHq1B4u4i.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 17:50:48"
+        },
+        {
+          "titulo": "Desde las elecciones, LLA se hizo con la primera minoría, UP se achicó y el PRO sufrió una decenas de fugas",
+          "link": "https://www.ambito.com/politica/desde-las-elecciones-lla-se-hizo-la-primera-minoria-up-se-achico-y-el-pro-sufrio-una-decenas-fugas-n6219659",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:03:00"
+        },
+        {
+          "titulo": "Verónica Magario no renuncia a su banca de diputada provincial: se toma licencia para seguir como vicegobernadora de Kicillof",
+          "link": "https://www.lanacion.com.ar/politica/veronica-magario-jura-como-diputada-provincial-pero-se-toma-licencia-para-seguir-como-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 14:58:31"
+          "fecha": "2025-12-02 16:41:22"
+        },
+        {
+          "titulo": "¿Un nuevo Cambiemos? Pro y la UCR exploran la posibilidad de unir filas en Diputados",
+          "link": "https://www.lanacion.com.ar/politica/un-nuevo-cambiemos-pro-y-la-ucr-exploran-la-posibilidad-de-unir-filas-en-diputados-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:31:47"
+        },
+        {
+          "titulo": "El bloque radical le ganó la pulseada a Provincias Unidas y se llevará a un legislador cercano a Gustavo Valdés",
+          "link": "https://www.lanacion.com.ar/politica/el-bloque-radical-le-gano-la-pulseada-a-provincias-unidas-y-se-llevara-a-un-legislador-cercano-a-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:20:19"
+        },
+        {
+          "titulo": "El PJ se fractura en Diputados y queda empatado con los libertarios en la disputa por la primera minoría",
+          "link": "https://www.lanacion.com.ar/politica/el-pj-se-fractura-en-diputados-y-queda-empatado-con-los-libertarios-en-la-disputa-por-la-primera-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:12:50"
+        },
+        {
+          "titulo": "Diputados de Catamarca dejaron el bloque peronista y La Libertad Avanza será la primera fuerza",
+          "link": "https://www.ambito.com/politica/diputados-catamarca-dejaron-el-bloque-peronista-y-la-libertad-avanza-sera-la-primera-fuerza-n6220040",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 15:19:00"
+        },
+        {
+          "titulo": "Tres diputados de Catamarca dejaron el bloque K y ahora hay empate por la primera minoría",
+          "link": "https://www.clarin.com/politica/diputados-catamarca-confirmaron-dejan-bloque-union-patria-oficialismo-conseguiria-primera-minoria_0_hfld4lrmAR.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 15:00:36"
+        },
+        {
+          "titulo": "Cuáles son, además del impuesto a los gases de vaca, los proyectos más insólitos del Congreso",
+          "link": "https://noticias.perfil.com/noticias/politica/cuales-son-ademas-del-impuesto-a-los-gases-de-vaca-los-proyectos-mas-insolitos-del-congreso.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 14:53:04"
+        },
+        {
+          "titulo": "Escándalo por despachos en el Senado: cómo funciona la tradición del \"pasamanos\" de las llaves",
+          "link": "https://www.ambito.com/politica/escandalo-despachos-el-senado-como-funciona-la-tradicion-del-pasamanos-las-llaves-n6219974",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:09:39"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causas_judiciales_y_20251202",
+      "tema": "Causas Judiciales y Polémicas Argentinas",
+      "tema_normalizado": "causas judiciales y polemicas argentinas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Múltiples causas judiciales y polémicas sacuden la escena argentina, abarcando desde acusaciones de corrupción en organismos estatales y lavado de dinero, hasta manejos patrimoniales cuestionados y litigios históricos.\n• Entre los casos más resonantes se encuentran las irregularidades en la Agencia Nacional de Discapacidad (ANDIS), investigaciones a una financiera vinculada al presidente de AFA, y la quiebra de una radio de un empresario K.\n\n🔍 **Datos clave:**\n• **Causa ANDIS:** Luciana Ferrari y Federico Santich (imputados que se negaron a declarar), Pablo Atchabahian (ex funcionario detenido), Daniel Garbellini (ex mano derecha de Spagnuolo), fiscal Franco Picardi.\n• **Claudio \"Chiqui\" Tapia:** Presidente de la AFA, declaró 7 propiedades (entre 2006 y 2020), una quinta en Exaltación de la Cruz pasó de 230 m² a 6.100 m² (según catastro).\n• **Financiera Sur Finanzas:** Ariel Vallejo (dueño), $818.000 millones (maniobras investigadas por lavado y evasión), disputa de competencia entre 5 jueces federales.\n• **Causa Cuadernos:** Ex presidenta Cristina Fernández de Kirchner y 85 imputados, ex ministro Julio De Vido (solicitó recusación de jueces), Tribunal Oral Federal N° 7.\n• **Radio del Plata:** Declaración de quiebra de la AM 1030, Ricardo Bruzzese (empresario K y dueño).\n• **Javier Milei:** Incidente con periodista en 2018 en Salta, juez Carmelo Paz (ordenó pericia psicológica).\n\n⚡ **Desarrollo:**\n• En la **Causa ANDIS**, Luciana Ferrari (vinculada al laboratorio Roche) y Federico Santich (accionista de Profarma), acusados de ser \"operadores externos\" y manipular el sistema interno SIIPFIS para beneficiar empresas con sobreprecios y sobornos, se negaron a declarar. Se los vincula a ex funcionarios como Pablo Atchabahian (detenido) y Daniel Garbellini, además del empresario Miguel Calvete.\n• El presidente de la AFA, Claudio \"Chiqui\" Tapia, está bajo la lupa por el crecimiento de su patrimonio inmobiliario y denuncias de posibles testaferros. Sus propiedades declaradas se ubican en zonas de alto valor como Exaltación de la Cruz (con una quinta que habría expandido su terreno) y Cardales.\n• Una financiera ligada a Tapia, **Sur Finanzas** (de Ariel Vallejo), es investigada por lavado de dinero y evasión fiscal, con maniobras que alcanzarían los $818.000 millones. La complejidad de la causa generó una fuerte disputa de competencia entre los jueces federales Federico Villena, Cecilia Incardona, Luis Armella, María Eugenia Capuchetti y María Servini. Vallejo entregó su celular a la Justicia voluntariamente.\n• La **Causa Cuadernos de las Coimas** avanza hacia la elevación a juicio de la ex presidenta Cristina Kirchner y otros 85 imputados por asociación ilícita y cohecho, basada en más de 300 hechos de corrupción. El ex ministro Julio De Vido solicitó la recusación de los jueces del Tribunal Oral Federal N° 7, generando una interrupción en la audiencia.\n• La Justicia declaró la quiebra de **Radiodifusora del Plata SA** (AM 1030), propiedad del empresario K Ricardo Bruzzese, por incumplimientos reiterados en sus convenios con acreedores. Se ordenó la inhibición de bienes y prohibición de salida del país para su presidente, Jorge Cerezo.\n• Se recordó un incidente de 2018 donde el actual presidente Javier Milei insultó públicamente a una periodista en Metán, Salta. Un juez ordenó una pericia psicológica y le prohibió brindar charlas en la ciudad, en el marco de una causa por violencia de género que luego fue archivada.\n\n💡 **¿Por qué importa?**\n• Estos casos demuestran la constante investigación de la corrupción y los manejos patrimoniales irregulares en Argentina, involucrando a figuras públicas de alto perfil en el ámbito estatal, deportivo y empresarial.\n• La complejidad de las causas, las disputas de competencia y las múltiples imputaciones subrayan los desafíos del sistema judicial y la necesidad de mayor transparencia en la gestión pública y privada.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "Causa ANDIS: dos imputados se negaron a declarar este martes",
+          "link": "https://www.ambito.com/politica/causa-andis-dos-imputados-se-negaron-declarar-este-martes-n6220096",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:28:00"
+        },
+        {
+          "titulo": "Causa ANDIS: dos imputados se negaron a declarar",
+          "link": "https://www.minutouno.com/politica/causa-andis-dos-imputados-se-negaron-declarar-n6220090",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 17:10:00"
+        },
+        {
+          "titulo": "Las mansiones de Chiqui Tapia en fotos satelitales: una quinta en Exaltación de la Cruz y caserones en Cardales y San Isidro",
+          "link": "https://www.lanacion.com.ar/politica/las-mansiones-de-chiqui-tapia-en-fotos-satelitales-una-quinta-en-exaltacion-de-la-cruz-y-caserones-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:07:32"
+        },
+        {
+          "titulo": "La financiera vinculada al Chiqui Tapia: se desató una pelea de competencia entre cinco jueces",
+          "link": "https://www.clarin.com/politica/financiera-vinculada-chiqui-tapia-desato-pelea-competencia-jueces_0_homR4dJQkg.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 16:19:12"
+        },
+        {
+          "titulo": "Causa Andis: dos acusados de haber manipulado ilegalmente el sistema interno de la agencia se negaron a declarar",
+          "link": "https://www.lanacion.com.ar/politica/causa-andis-indagan-a-dos-acusados-de-haber-manipulado-ilegalmente-en-el-sistema-interno-de-la-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:15:23"
+        },
+        {
+          "titulo": "Archivo: el ataque de Milei a una periodista por el que un juez ordenó una pericia psicológica",
+          "link": "https://noticias.perfil.com/noticias/politica/archivo-el-ataque-de-milei-a-una-periodista-por-el-que-un-juez-ordeno-una-pericia-psicologica.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:12:38"
+        },
+        {
+          "titulo": "Sexta audiencia en la causa Cuadernos: De Vido pidió la recusación de los tres jueces y el cuarto intermedio se extiende por casi dos horas",
+          "link": "https://www.perfil.com/noticias/politica/sexta-audiencia-en-la-causa-cuadernos-continua-la-lectura-de-la-acusacion.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 13:36:38"
         },
         {
           "titulo": "Ariel Vallejo entregó su celular y clave a la Justicia: la financiera vinculada al “Chiqui” Tapia bajo la lupa por $818.000 millones",
@@ -259,67 +588,19 @@
           "fecha": "2025-12-02 13:27:00"
         },
         {
-          "titulo": "El patrimonio de “Chiqui” Tapia: propiedades con valores fiscales irrisorios, sueldos por dos cargos y millonarios viáticos de AFA",
-          "link": "https://www.clarin.com/politica/patrimonio-chiqui-tapia-propiedades-valores-fiscales-irrisorios-sueldos-cargos-millonarios-viaticos-afa_0_5Vv9rNx6xL.html",
+          "titulo": "Un empresario K quebró Radio del Plata y la Justicia busca garantizar su continuidad",
+          "link": "https://www.clarin.com/politica/empresario-k-quebro-radio-plata-justicia-busca-garantizar-continuidad_0_8rZr5RfgDN.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 12:23:54"
-        },
-        {
-          "titulo": "Ariel Vallejo, el financista cercano a Tapia, entregó su teléfono a la Justicia luego de los allanamientos",
-          "link": "https://www.lanacion.com.ar/politica/ariel-vallejo-el-financista-cercano-a-tapia-entrego-su-telefono-a-la-justicia-luego-de-los-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 12:07:01"
+          "fecha": "2025-12-02 13:05:42"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Clarín",
         "Perfil",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "relaciones_ee.uu._-_20251202",
-      "tema": "Relaciones EE.UU. - Venezuela",
-      "tema_normalizado": "relaciones ee.uu. - venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha intensificado sus operaciones militares en aguas venezolanas, justificándolas como una estrategia contra el narcotráfico.\n• Estas acciones, lideradas por el Secretario de Defensa Pete Hegseth, han causado la muerte de decenas de personas en ataques a embarcaciones.\n• La situación ha generado una fuerte controversia internacional, llevando a investigaciones por posibles crímenes de guerra y a llamados al diálogo.\n\n🔍 **Datos clave:**\n• **Pete Hegseth:** Secretario de Defensa de EE.UU., principal figura de las operaciones.\n• **21 ataques:** Número de bombardeos realizados por fuerzas estadounidenses contra barcos de drogas desde septiembre.\n• **82 personas fallecidas:** Identificadas por el Pentágono como \"narcoterroristas\" en los ataques.\n• **11 muertos:** Resultado de un segundo ataque dirigido a sobrevivientes de un bombardeo inicial.\n• **1 de diciembre de 2025:** Fecha del polémico meme de Hegseth en redes sociales, bromeando sobre los ataques.\n• **Papa León XIV:** Pontífice que instó a EE.UU. a priorizar el diálogo y evitar el uso de la fuerza.\n\n⚡ **Desarrollo:**\n• El Pentágono reveló que cuenta con un plan de contingencia detallado para una eventual huida de Nicolás Maduro de Venezuela.\n• Las órdenes de Hegseth de \"no tomar prisioneros y no dejar sobrevivientes\" están bajo investigación por la legalidad de los ataques.\n• El presidente Donald Trump se ha distanciado públicamente de las acciones de Hegseth, afirmando que no habría querido los ataques ni el incidente con los sobrevivientes.\n• Un editorial del The Wall Street Journal pidió a Trump que remueva a Nicolás Maduro del poder \"de una forma u otra\", argumentando que responde al interés nacional de EE.UU.\n• El despliegue militar estadounidense en el Caribe incluye portaaviones, cazas F-35 y miles de infantes de marina, lo que sugiere una presión que va más allá del control de drogas.\n• La portavoz del Pentágono, Kingsley Wilson, defendió los ataques, asegurando que cada persona en un barco con narcóticos es un \"narcoterrorista\".\n• El Papa León XIV, desde el avión papal, criticó implícitamente la postura de EE.UU. y sugirió buscar vías diplomáticas o presión económica antes de una intervención militar.\n• La controversia alrededor de Hegseth incluye su confirmación por un solo voto de desempate y la filtración de planes clasificados en un chat no clasificado.\n\n💡 **¿Por qué importa?**\n• La escalada militar de EE.UU. en Venezuela y las tácticas empleadas aumentan el riesgo de un conflicto regional, con serias implicaciones geopolíticas y humanitarias.\n• La situación pone en el centro del debate internacional la legalidad de las operaciones militares y la posible violación de derechos humanos, afectando la imagen de EE.UU.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Las cuestionadas tácticas de Hegseth en Venezuela se convierten en un problema para Trump",
-          "link": "https://www.lanacion.com.ar/estados-unidos/las-cuestionadas-tacticas-de-hegseth-en-venezuela-se-convierten-en-un-problema-para-trump-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 15:04:16"
-        },
-        {
-          "titulo": "Estados Unidos aseguró que cuenta con un plan de contingencia ante una eventual fuga de Nicolás Maduro en Venezuela",
-          "link": "https://www.infobae.com/estados-unidos/2025/12/02/estados-unidos-aseguro-que-cuenta-con-un-plan-de-contingencia-ante-una-eventual-fuga-de-nicolas-maduro-en-venezuela/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-02 15:03:09"
-        },
-        {
-          "titulo": "The Wall Street Journal publicó un editorial donde reclama a Donald Trump sacar a Nicolás Maduro \"de una forma u otra\" del poder",
-          "link": "https://www.ambito.com/mundo/the-wall-street-journal-publico-un-editorial-donde-reclama-donald-trump-sacar-nicolas-maduro-de-una-forma-u-otra-del-poder-n6219994",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 14:37:00"
-        },
-        {
-          "titulo": "En plena tensión, el papa León XIV llamó a EE.UU. a evitar el uso de la fuerza en Venezuela: “Es mejor buscar el diálogo”",
-          "link": "https://www.lanacion.com.ar/el-mundo/en-plena-tension-el-papa-leon-xiv-llamo-a-eeuu-a-evitar-el-uso-de-la-fuerza-en-venezuela-es-mejor-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 14:16:48"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
+        "Minuto1",
+        "Clarín",
         "Ámbito Financiero",
-        "Infobae",
         "La Nación"
       ],
       "es_tema_nuevo": true,
@@ -328,17 +609,47 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "santilli_y_embajador_20251202",
-      "tema": "Santilli y Embajador EEUU",
-      "tema_normalizado": "santilli y embajador eeuu",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El ministro del Interior, Diego Santilli, recibió al embajador de Estados Unidos en Argentina, Peter Lamelas, en la Casa Rosada.\n*   La reunión tuvo como eje central el repaso de la agenda bilateral y las oportunidades de cooperación mutua.\n*   Ambos funcionarios destacaron la relación de alto nivel y los valores compartidos entre Argentina y Estados Unidos.\n\n🔍 **Datos clave:**\n*   **Protagonistas:** Diego Santilli (Ministro del Interior de Argentina) y Peter Lamelas (Embajador de Estados Unidos en Argentina).\n*   **Actores relacionados:** Javier Milei (Presidente de Argentina) y Donald Trump (Presidente de Estados Unidos).\n*   **Fechas importantes:** Lamelas presentó sus cartas credenciales el 4 de noviembre; el \"acuerdo marco\" comercial fue anunciado el 13 de noviembre.\n*   **Duración del encuentro:** La reunión duró aproximadamente una hora, comenzando alrededor de las 10:30 AM en el Salón de los Escudos.\n*   **Sectores prioritarios:** Estados Unidos tiene interés en fomentar inversiones en energía, minería y tierras raras en Argentina.\n\n⚡ **Desarrollo:**\n*   El encuentro, aunque calificado de \"estrictamente protocolar\", incluyó una \"charla política\" sobre temas de cooperación y comercio.\n*   Santilli y Lamelas dialogaron sobre la ampliación del intercambio comercial y reafirmaron principios clave como la libertad y el progreso para ambas naciones.\n*   El embajador Lamelas describió el acuerdo comercial entre los presidentes Trump y Milei como \"histórico\", enfatizando el acompañamiento de Estados Unidos al crecimiento argentino.\n*   Durante su estancia en Casa Rosada, Lamelas también asistió a la jura de Alejandra Monteoliva como la nueva ministra de Seguridad Nacional.\n*   El diplomático anticipó su plan de recorrer las provincias argentinas para establecer vínculos directos con gobernadores y promover inversiones en recursos estratégicos.\n*   Argentina y Estados Unidos mantienen una postura crítica y compartida respecto al gobierno de Nicolás Maduro en Venezuela, al que califican de \"dictadura\".\n*   Si bien se anunció un acuerdo marco, los detalles específicos de la \"letra chica\" y la fecha de la firma final del acuerdo comercial aún están pendientes de definición.\n\n💡 **¿Por qué importa?**\n*   La reunión refuerza el alineamiento geopolítico y la creciente sintonía entre las administraciones de Argentina y Estados Unidos, impulsada por los presidentes Milei y Trump.\n*   El progreso del acuerdo comercial bilateral y las potenciales inversiones en sectores estratégicos son cruciales para el crecimiento económico y la prosperidad de Argentina.",
-      "cantidad_noticias": 4,
+      "tema_id": "politica_y_gestion_20251202",
+      "tema": "Política y Gestión del Gobierno Milei",
+      "tema_normalizado": "politica y gestion del gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está inmerso en una serie de eventos políticos clave, tanto en el ámbito nacional como internacional, que definen la dirección de su gestión.\n• Esto incluye negociaciones sobre la Corte Suprema, el avance de una reforma laboral, el respaldo a las fuerzas de seguridad y el manejo de relaciones diplomáticas complejas con Estados Unidos y China.\n\n🔍 **Datos clave:**\n• **u$s5.000 millones:** Monto de vencimientos de deuda para enero de 2026.\n• **u$s20.000 millones:** Cifra del swap de divisas que Argentina busca asegurar con EE.UU.\n• **u$s13.091 millones:** Importaciones desde China entre enero y septiembre de 2025, motivo de preocupación para EE.UU.\n• **2 vacantes:** Puestos en la Corte Suprema de Justicia para los que el Gobierno negocia candidaturas.\n• **Noelia Cristina Segura:** Oficial de la Policía de la Ciudad recibida por Milei tras hacerse viral por defender el orden público.\n• **Alejandra Monteoliva:** Nueva Ministra de Seguridad de la Nación, asumió recientemente en reemplazo de Patricia Bullrich.\n• **Peter Lamelas:** Embajador de Estados Unidos en Argentina, quien ha mantenido reuniones clave con ministros del Gabinete.\n• **4 de noviembre:** Fecha en que el embajador Lamelas presentó sus cartas credenciales ante el Presidente Milei.\n\n⚡ **Desarrollo:**\n• El Gobierno de Milei negocia con Cristina Kirchner la cobertura de las dos vacantes en la Corte Suprema, con Anabel Fernández Sagasti (cristinista) y Mariano Llorens (oficialista) como principales candidatos, buscando un acuerdo para su aprobación en el Senado.\n• El Presidente ha mostrado un fuerte respaldo a las fuerzas de seguridad, recibiendo a la oficial Noelia Cristina Segura en Casa Rosada, un gesto que se dio poco después de la asunción de la nueva Ministra de Seguridad, Alejandra Monteoliva.\n• Sergio Massa se reunió con la CGT para discutir la reforma laboral propuesta por Milei, sugiriendo a los sindicalistas debatirla en el Congreso en lugar de rechazarla completamente, dadas las altas cifras de informalidad laboral.\n• Se generó un conflicto en el Senado cuando la senadora Cándida López denunció que la vicepresidenta Victoria Villarruel ordenó cambiar la cerradura de un despacho que presuntamente le correspondía, escalando la tensión interna.\n• La relación estratégica con Estados Unidos experimenta un momento de interrogantes tras la cancelación de visitas mutuas por parte de Milei y el secretario del Tesoro Scott Bessent, en parte por la percepción de un \"acercamiento excesivo\" de Argentina a China.\n• A pesar de los desafíos, el Ministro del Interior Diego Santilli recibió al embajador Peter Lamelas para avanzar en un acuerdo comercial y reforzar lazos bilaterales, enfocándose en la cooperación en energía y minería.\n\n💡 **¿Por qué importa?**\n• Estas acciones y negociaciones son cruciales para la consolidación del poder político del gobierno de Milei y la implementación de sus reformas en áreas clave como la justicia, el trabajo y la seguridad.\n• La gestión de las relaciones internacionales, especialmente con Estados Unidos en el contexto de la influencia china, definirá el acceso a financiamiento externo y el posicionamiento geopolítico de Argentina.",
+      "cantidad_noticias": 10,
       "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:45:22"
+        },
+        {
+          "titulo": "Scott Bessent suspende su visita a Argentina: un giro que enfría la luna de miel entre Javier Milei y Donald Trump",
+          "link": "https://www.ambito.com/economia/scott-bessent-suspende-su-visita-argentina-un-giro-que-enfria-la-luna-miel-javier-milei-y-donald-trump-n6220008",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 16:14:00"
+        },
+        {
+          "titulo": "Milei recibió en Casa Rosada a la policía de la Ciudad que se mostró orgullosa de su trabajo: “¡Fílmeme, señora!”",
+          "link": "https://www.lanacion.com.ar/politica/milei-recibio-a-la-policia-de-la-ciudad-que-se-mostro-orgullosa-de-su-trabajo-filmeme-senora-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:54:26"
+        },
+        {
+          "titulo": "En una cena reservada, Massa le planteó a la CGT que discuta la reforma laboral y no la rechace a libro cerrado",
+          "link": "https://www.lanacion.com.ar/politica/en-una-cena-reservada-massa-le-planteo-a-la-cgt-que-discuta-la-reforma-laboral-y-no-la-rechace-a-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:30:29"
+        },
         {
           "titulo": "Diego Santilli recibió al embajador de EEUU, Peter Lamelas",
           "link": "https://www.ambito.com/politica/diego-santilli-recibio-al-embajador-eeuu-peter-lamelas-n6220002",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-02 14:26:00"
+        },
+        {
+          "titulo": "Quiénes son los candidatos a la Corte que negocia el Gobierno con Cristina Kirchner",
+          "link": "https://noticias.perfil.com/noticias/politica/quienes-son-los-candidatos-a-la-corte-que-negocia-el-gobierno-con-cristina-kirchner.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 14:18:02"
         },
         {
           "titulo": "Santilli-Lamelas: reunión \"protocolar\" y \"charla política\"",
@@ -347,97 +658,30 @@
           "fecha": "2025-12-02 14:06:26"
         },
         {
+          "titulo": "\"Fílmeme señora, así me ve mi Presidente\": Milei recibió a la policía que protagonizó un video viral",
+          "link": "https://www.clarin.com/politica/filmeme-senora-ve-presidente-milei-recibio-policia-protagonizo-video-viral_0_X4F5qj8JG6.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 13:55:23"
+        },
+        {
+          "titulo": "La CGT recibió a Massa: reunión con gusto a poco y  dudas por la \"ayuda\" para frenar la reforma laboral de Milei",
+          "link": "https://www.clarin.com/politica/cgt-recibio-massa-reunion-gusto-dudas-ayuda-frenar-reforma-laboral-milei_0_dbbXAAYIKM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 13:47:11"
+        },
+        {
           "titulo": "Diego Santilli recibió a Peter Lamelas en Casa Rosada",
           "link": "https://www.minutouno.com/politica/diego-santilli-recibio-peter-lamelas-casa-rosada-n6219944",
           "fuente": "Minuto1",
           "fecha": "2025-12-02 13:07:48"
-        },
-        {
-          "titulo": "El embajador Lamelas se reunió con Santilli en la Casa Rosada: el acuerdo comercial bilateral aún no tiene fecha",
-          "link": "https://www.lanacion.com.ar/politica/el-embajador-lamelas-se-reune-con-santilli-en-la-casa-rosada-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 12:54:47"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
         "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "mercado_financiero_argentino_20251202",
-      "tema": "Mercado financiero argentino",
-      "tema_normalizado": "mercado financiero argentino",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado financiero argentino experimenta movimientos mixtos, con una caída del S&P Merval en dólares mientras los bonos soberanos registran subas.\n• El sector bancario sufrió un fuerte deterioro en el tercer trimestre de 2025, lo que provocó que los inversores de Wall Street reorientaran sus carteras, priorizando energía y tecnología.\n• Los inversores están migrando sus activos buscando mejores retornos, evaluando la dirección de las tasas de interés y optando por instrumentos de mayor duración y bonos atados a la inflación (CER).\n\n🔍 **Datos clave:**\n• **S&P Merval:** Cae 1% en dólares a 2.024 puntos, pero sube 0.7% en pesos.\n• **Bonos Soberanos:** El Global 2041 avanza hasta 1.5%.\n• **ADRs:** Ganan hasta 3.6% en Nueva York.\n• **Riesgo País:** Se mantiene en torno a los 650 puntos básicos.\n• **Pérdidas Bancarias (Q3 2025):** Galicia reportó un rojo de más de $87.000 millones.\n• **Tasas Lecaps:** Las más cortas (T15D5) rinden 17% TNA, las de junio (T30J6) cerca de 33%.\n• **Bonos CER:** Ofrecen CER + 8% en promedio.\n• **Emisión de Deuda Provincial:** Santa Fe colocará un bono de u$s500-u$s1.000 millones a 9 años, con un rendimiento estimado del 7.8% bajo ley de Nueva York.\n\n⚡ **Desarrollo:**\n• Los inversores están reasignando sus carteras en respuesta a la evolución de las tasas y la búsqueda de retornos más atractivos en un contexto de compresión de rendimientos a corto plazo.\n• La crisis bancaria fue impulsada por tasas de interés extraordinariamente altas, cambios regulatorios del BCRA y el Tesoro, y el impacto de integraciones como la de HSBC en Galicia.\n• Wall Street ha modificado sus recomendaciones, adoptando una postura neutral sobre Adecoagro y el sector bancario (Supervielle, Galicia), mientras que los sectores de energía y tecnología ganan atractivo.\n• La compresión de rendimientos a corto plazo empuja a los inversores minoristas hacia Fondos Money Market o plazos fijos, y a los mayoristas hacia Fondos Comunes de Inversión (FCI) con TAMAR.\n• El Gobierno busca estirar la duración de su deuda convalidando premios de hasta 1% en TAMAR y tasa fija, lo que generó un alto rollover en las últimas licitaciones.\n• La demanda por bonos CER se revitaliza, ya que ofrecen una protección contra la inflación y se consideran atractivos en un escenario donde el IPC, aunque baje, tendría dificultades para perforar el 2% mensual.\n• Varias provincias, incluyendo Santa Fe, Entre Ríos, Chubut y Neuquén, están explorando la emisión de nueva deuda en moneda dura en mercados internacionales.\n\n💡 **¿Por qué importa?**\n• Estos movimientos reflejan una importante reconfiguración de las estrategias de inversión en Argentina, con un cambio de enfoque del sector bancario hacia activos de mayor duración, bonos indexados a la inflación y sectores con proyecciones de crecimiento.\n• La dinámica de tasas y la estrategia de deuda del gobierno, junto con el regreso de las provincias al mercado internacional, son cruciales para la estabilidad económica y el acceso a financiamiento futuro.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "El S&P Merval cae 1% en dólares, pero los bonos soberanos suben",
-          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-mayoria-caidas-y-el-riesgo-pais-se-sostiene-arriba-los-600-puntos-n6219874",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 15:04:00"
-        },
-        {
-          "titulo": "Derrumbe de bancos cambió el mapa de inversión: qué acciones argentinas recomienda Wall Street",
-          "link": "https://www.iprofesional.com/finanzas/443103-que-acciones-argentinas-recomienda-ahora-wall-street-tras-derrumbe-bancos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 13:00:00"
-        },
-        {
-          "titulo": "El mercado evalúa hacia dónde van las tasas y los inversores migran sus carteras en busca de mejores retornos",
-          "link": "https://www.ambito.com/finanzas/el-mercado-evalua-donde-van-las-tasas-y-los-inversores-migran-sus-carteras-busca-mejores-retornos-n6219859",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 12:18:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "criptomonedas:_mercado_y_20251202",
-      "tema": "Criptomonedas: mercado y adopción",
-      "tema_normalizado": "criptomonedas: mercado y adopcion",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado de las criptomonedas experimentó una jornada alcista con Bitcoin (BTC) y otras altcoins repuntando, aunque la incertidumbre sobre su futuro persiste.\n*   YPF, la petrolera argentina, está analizando la posibilidad de aceptar pagos con criptomonedas para el combustible, lo que la convertiría en pionera en el sector.\n*   Strategy, uno de los mayores tenedores institucionales de Bitcoin, anunció que podría vender parte de sus tenencias para asegurar liquidez y pagar dividendos, generando impacto en el mercado.\n\n🔍 **Datos clave:**\n*   **Bitcoin (BTC):** Repuntó un 7,6% hasta los u$s91.584 el martes, tras tocar mínimos desde abril.\n*   **Ethereum (ETH):** Registró un aumento del 9,8% alcanzando los u$s3.016.\n*   **Strategy:** Sufrió una caída de más del 10% el lunes y busca crear una reserva de u$s1.440 millones.\n*   **YPF:** Ya acepta pagos en dólares desde hace dos meses y analiza integrar cripto con intermediarios como Lemon, Ripio o Binance.\n*   **Altcoins:** Ripple (XRP) subió 8,6%, BNB repuntó 7,7% y Solana (SOL) anotó ganancias del 12%.\n\n⚡ **Desarrollo:**\n*   La iniciativa de YPF se alinea con la creciente adopción de criptomonedas en Argentina y buscaría replicar el sistema ya implementado para pagos en dólares, utilizando transferencias vía QR.\n*   La aceptación de criptomonedas por YPF probablemente implicaría un intermediario (exchange) para gestionar las transacciones y conversiones de divisas.\n*   Pese al reciente repunte, la confianza de los inversores en Bitcoin es frágil, con informes que sugieren que la principal criptodivisa podría probar el rango de u$s60.000 a u$s65.000 si las caídas continúan.\n*   El anuncio de Strategy de que podría vender Bitcoin para financiar dividendos busca proteger a sus inversores de la volatilidad del activo y asegurar la estabilidad de sus pagos.\n*   La financiación de las grandes compras de Bitcoin de Strategy, a menudo a través de deuda con altos dividendos, ha generado presión sobre la compañía, especialmente tras el descenso de BTC desde su máximo histórico.\n\n💡 **¿Por qué importa?**\n*   La posible adopción de criptomonedas por YPF representa un paso significativo hacia la masificación y normalización de estos activos en transacciones cotidianas, especialmente en economías con alta inflación.\n*   Los movimientos de grandes tenedores como Strategy y la volatilidad del mercado subrayan la maduración y los desafíos de las criptomonedas, afectando la percepción y la confianza de inversores institucionales y minoristas.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "YPF analiza convertirse en la primera petrolera en permitir pagos con criptomonedas",
-          "link": "https://www.lanacion.com.ar/economia/IA/ypf-analiza-convertirse-en-la-primera-petrolera-en-permitir-pagos-con-criptomonedas-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 15:06:28"
-        },
-        {
-          "titulo": "Bitcoin repunta a u$s91.000 y las altcoins anotan rebotes en una jornada alcista",
-          "link": "https://www.ambito.com/finanzas/bitcoin-repunta-us87000-y-las-altcoins-anotan-timidos-rebotes-n6219787",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 14:54:00"
-        },
-        {
-          "titulo": "Bomba en el mercado cripto: Strategy admite que venderá Bitcoin en caso de necesitar liquidez",
-          "link": "https://www.ambito.com/finanzas/bomba-el-mercado-cripto-strategy-admite-que-vendera-bitcoin-caso-necesitar-liquidez-n6219934",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 12:33:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
+        "Minuto1",
+        "Clarín",
         "Ámbito Financiero",
         "La Nación"
       ],
@@ -447,34 +691,221 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "nuevas_marcas_retail_20251202",
-      "tema": "Nuevas marcas retail Argentina",
-      "tema_normalizado": "nuevas marcas retail argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado retail argentino está recibiendo nuevas marcas internacionales, destacándose el desembarco de la brasileña FARM Rio y una alianza entre la sueca H&M con los supermercados Coto.\n• Estas llegadas reflejan un contexto más favorable para la importación de productos y un interés renovado por el potencial del mercado local, a pesar de una baja general del consumo.\n\n🔍 **Datos clave:**\n• **FARM Rio:** Marca brasileña de indumentaria que abrió su primer local en Alcorta Shopping, Buenos Aires (105 m²).\n• **H&M:** Gigante sueco de moda rápida que comercializa una \"cápsula\" de verano exclusiva en 6 hipermercados Coto.\n• **Precios FARM Rio:** Pantalones desde $175.000 a $395.000; vestidos cortos desde $135.000, y largos hasta $795.000.\n• **Precios H&M (en Coto):** Remeras desde $19.000; vestidos por $46.000; jeans a $40.000.\n• **Socios locales:** Grupo Markova (para FARM Rio, liderado por Mariano Lobera); Coto (para H&M).\n• **Ubicaciones H&M en Coto:** Abasto, Nordelta, Tortugas, Moreno, Ciudadela, Mar del Plata.\n\n⚡ **Desarrollo:**\n• **FARM Rio** inauguró con 200 prendas de su colección Verano 2025 y puso en marcha un e-commerce específico para Argentina, ofreciendo pagos en 3 y 6 cuotas sin interés.\n• El plan de la marca brasileña contempla la apertura de entre 8 y 10 tiendas adicionales en Argentina y Uruguay, buscando expandirse a Córdoba y Rosario en los próximos cinco años y establecer distribución mayorista.\n• **H&M** desembarcó a principios de diciembre con una colección \"cápsula\" de verano, principalmente de ropa femenina, marcando su segunda incursión en el mercado local tras un intento similar hace seis años.\n• Esta alianza con Coto permite a H&M testear el mercado en una primera etapa, aprovechando la experiencia de la cadena de supermercados que ya incursiona en moda con su marca Top Design.\n• La llegada de estas y otras marcas como Decathlon, The Kooples y Victoria’s Secret, sumada a la expectativa por las francesas Maje y Sandro, se atribuye a un escenario de apreciación cambiaria y mayor apertura a las importaciones.\n• Las empresas ven el \"potencial del mercado argentino\" y la oportunidad de impulsar propuestas que \"inspiren, conecten y eleven la experiencia de compra\", proyectando un crecimiento sostenido a futuro.\n\n💡 **¿Por qué importa?**\n• La irrupción de nuevas marcas internacionales, desde el segmento de lujo hasta el fast fashion, dinamiza la oferta para los consumidores argentinos y fomenta una mayor competencia en el sector retail.\n• Este movimiento refleja una renovada confianza de los inversores extranjeros en el país y un cambio en las políticas de importación que facilitan el ingreso de productos y colecciones globales.",
-      "cantidad_noticias": 3,
+      "tema_id": "caso_lorena_villaverde:_20251202",
+      "tema": "Caso Lorena Villaverde: Renuncia y Pasado",
+      "tema_normalizado": "caso lorena villaverde: renuncia y pasado",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La diputada de La Libertad Avanza (LLA) por Río Negro, Lorena Villaverde, retiró su renuncia a su banca en la Cámara de Diputados.\n*   Esta decisión se tomó ante la fuerte oposición y el riesgo de rechazo de su pliego para asumir como senadora electa.\n*   La controversia se centra en su pasado judicial, al haber estado involucrada en una causa por narcotráfico en Estados Unidos hace 24 años.\n\n🔍 **Datos clave:**\n*   **Detención en EE.UU.:** 15 de julio de 2002 (en Sarasota, Florida).\n*   **Cargos retirados:** 2017 (por la Fiscalía Federal de Florida, tras 14.5 años de parálisis procesal).\n*   **Diputada Nacional:** Desde 2023.\n*   **Renuncia inicial como diputada:** Presentada el 13 de noviembre pasado.\n*   **Causa judicial en EE.UU.:** “USA v. Restrepo, et al” (8:02-cr-00280).\n*   **Años de mandato restantes como diputada:** 2 años (hasta 2027).\n\n⚡ **Desarrollo:**\n*   Lorena Villaverde había sido electa senadora por Río Negro y había iniciado el proceso de dimisión a su cargo de diputada para asumir en la Cámara Alta.\n*   Su pliego para el Senado fue devuelto a la Comisión de Asuntos Constitucionales (CAC) debido a las impugnaciones de la oposición (UCR, kirchnerismo, PJ provincial).\n*   Los cuestionamientos se basaban en su antecedente penal en Estados Unidos, donde fue detenida y acusada de traficar más de 400 gramos de cocaína en 2002.\n*   Aunque los cargos en su contra fueron formalmente retirados en 2017 por falta de avance, la situación generó un fuerte debate político.\n*   Ante la alta probabilidad de que el Senado rechazara su asunción, Villaverde optó por revertir su decisión y mantener su banca en Diputados.\n*   Esta acción le garantiza la continuidad de sus fueros y su sueldo por los dos años restantes de su mandato actual.\n*   Se anticipa que su presencia en la Cámara de Diputados será objeto de críticas y cuestionamientos por parte de la oposición.\n\n💡 **¿Por qué importa?**\n*   La permanencia de Villaverde en Diputados es crucial para La Libertad Avanza, ya que suma un voto importante en la Cámara Baja.\n*   El caso expone las tensiones internas y las dificultades de la LLA para consolidar sus bancas frente a antecedentes polémicos, impactando en la agenda legislativa.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Una reconocida marca de ropa brasileña llegó a un shopping porteño: qué vende y a qué precios",
-          "link": "https://www.infobae.com/economia/2025/12/02/una-reconocida-marca-de-ropa-brasilena-llego-a-un-shopping-porteno-que-vende-y-a-que-precios/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-02 15:03:52"
+          "titulo": "Interna en La Libertad Avanza: Lorena Villaverde retiró su renuncia como diputada",
+          "link": "https://www.minutouno.com/politica/interna-la-libertad-avanza-lorena-villaverde-retiro-su-renuncia-como-diputada-n6220107",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 17:45:00"
         },
         {
-          "titulo": "Qué sucursales de Coto venden ropa de H&M y a qué precio",
-          "link": "https://www.lanacion.com.ar/economia/que-sucursales-de-coto-venden-ropa-de-hm-y-a-que-precio-nid02122025/",
+          "titulo": "Villaverde retiró su renuncia como diputada ante la posibilidad de que el Senado no la incorpore",
+          "link": "https://www.lanacion.com.ar/politica/villaverde-retiro-su-renuncia-como-diputada-ante-la-posibilidad-de-que-el-senado-no-la-incorpore-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 12:57:48"
+          "fecha": "2025-12-02 17:04:26"
         },
         {
-          "titulo": "Alianza inédita: H&M desembarca en Coto con una “cápsula” exclusiva de verano",
-          "link": "https://www.lanacion.com.ar/economia/negocios/alianza-inedita-hm-desembarca-en-coto-con-una-capsula-exclusiva-de-verano-nid02122025/",
+          "titulo": "Presa y condenada: cómo fue el derrotero judicial por narcotráfico de la senadora electa Lorena Villaverde en EE.UU.",
+          "link": "https://www.lanacion.com.ar/politica/presa-y-condenada-como-fue-el-derrotero-judicial-por-narcotrafico-de-la-senadora-electa-lorena-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 12:40:38"
+          "fecha": "2025-12-02 16:20:00"
+        },
+        {
+          "titulo": "Aseguran que Lorena Villaverde no asumirá su banca en el Senado",
+          "link": "https://www.minutouno.com/politica/aseguran-que-lorena-villaverde-no-asumira-su-banca-el-senado-n6219967",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 13:10:00"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "tension_eeuu-venezuela:_declaraciones_20251202",
+      "tema": "Tensión EEUU-Venezuela: Declaraciones Trump",
+      "tema_normalizado": "tension eeuu-venezuela: declaraciones trump",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El expresidente de Estados Unidos, Donald Trump, intensificó sus amenazas militares contra Venezuela, incluyendo la posibilidad de ataques terrestres bajo el pretexto de combatir el narcotráfico.\n*   Estas declaraciones generaron una fuerte respuesta del presidente colombiano, Gustavo Petro, y llevaron a Nicolás Maduro a reforzar su seguridad personal.\n\n🔍 **Datos clave:**\n*   **Donald Trump:** Ex-presidente de EE.UU., autor de las amenazas.\n*   **Gustavo Petro:** Presidente de Colombia, quien respondió directamente a Trump.\n*   **Nicolás Maduro:** Presidente de Venezuela, blanco principal de las advertencias.\n*   **Desde septiembre:** Periodo de intensificación del despliegue militar de EE.UU. en el Caribe.\n*   **21 ataques:** Número de operaciones contra narcolanchas con más de 80 muertes en el Caribe.\n*   **Papa León XIV:** Pontífice que pidió moderación y diálogo.\n*   **The Wall Street Journal:** Diario que publicó un editorial a favor de la salida de Maduro.\n\n⚡ **Desarrollo:**\n*   Trump afirmó que países productores de cocaína, como Colombia, son \"sujetos a ataque\" por parte de EE.UU.\n*   El presidente Petro rechazó las amenazas, invitó a Trump a presenciar la destrucción de laboratorios de droga en Colombia y advirtió que atacar su soberanía sería \"declarar guerra\".\n*   Trump acusó a Nicolás Maduro de liderar un \"cartel narcoterrorista\" y su administración buscó un cambio de régimen en Venezuela.\n*   Maduro ha reforzado drásticamente su seguridad (cambio de camas, teléfonos) y se apoyó en guardaespaldas y contrainteligencia cubana, por temor a una intervención militar.\n*   EE.UU. desplegó fuerzas militares significativas en el Caribe, incluyendo portaviones y 15.000 efectivos, realizando bombardeos contra embarcaciones de narcotráfico.\n*   Trump declaró que los ataques se extenderán \"muy pronto\" a tierra venezolana, afirmando conocer las rutas y ubicaciones para estas operaciones.\n*   Pese a una conversación telefónica donde Trump le ofreció un \"salvoconducto\" para dejar el poder, Maduro se negó a dimitir inmediatamente.\n*   El Papa León XIV criticó el uso de la fuerza, abogando por el diálogo y la presión económica como alternativas y enfatizando el sufrimiento del pueblo.\n*   Un editorial de The Wall Street Journal instó a Trump a remover a Maduro \"de una forma u otra\", argumentando que serviría al interés nacional de EE.UU. y destacando la influencia de Cuba y Rusia.\n\n💡 **¿Por qué importa?**\n*   Las amenazas de Donald Trump escalaron la tensión geopolítica en la región, planteando un posible conflicto militar directo y afectando las relaciones entre EE.UU., Venezuela y Colombia.\n*   Evidencian una política exterior de EE.UU. que busca un cambio de régimen, con amplias implicaciones humanitarias, económicas y de estabilidad para América Latina.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "“Es declarar guerra”: Petro respondió a Donald Trump, tras advertir que Colombia puede ser atacada por Estados Unidos",
+          "link": "https://www.infobae.com/colombia/2025/12/02/es-declarar-guerra-petro-respondio-a-donald-trump-tras-advertir-que-colombia-puede-ser-atacada-por-estados-unidos/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 17:30:42"
+        },
+        {
+          "titulo": "Maduro altera sus hábitos por temor a Trump: más seguridad, cambio de camas y celulares rotativos",
+          "link": "https://www.lanacion.com.ar/el-mundo/maduro-altera-sus-habitos-por-temor-a-trump-mas-seguridad-cambio-de-camas-y-celulares-rotativos-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:20:41"
+        },
+        {
+          "titulo": "Trump defendió los bombardeos a las narcolanchas y le advirtió a Venezuela: “Empezaremos a atacar también en tierra”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/trump-defendio-los-bombardeos-a-las-narcolanchas-y-le-advirtio-a-venezuela-empezaremos-a-atacar-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:40:38"
+        },
+        {
+          "titulo": "Tensión entre Estados Unidos y Venezuela: Donald Trump insiste en que los ataques en territorio venezolano comenzarán \"muy pronto\"",
+          "link": "https://www.clarin.com/mundo/tension-estados-unidos-venezuela-donald-trump-insiste-ataques-territorio-venezolano-comenzaran-pronto_0_gI9UYIIkQJ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 16:15:04"
+        },
+        {
+          "titulo": "El papa León XIV pidió moderación a EEUU y reclamó que negocie con Venezuela",
+          "link": "https://www.ambito.com/mundo/el-papa-leon-xiv-pidio-moderacion-eeuu-y-reclamo-que-negocie-venezuela-n6220021",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 15:46:00"
+        },
+        {
+          "titulo": "En plena tensión, el papa León XIV llamó a EE.UU. a evitar el uso de la fuerza en Venezuela: “Es mejor buscar el diálogo”",
+          "link": "https://www.lanacion.com.ar/el-mundo/en-plena-tension-el-papa-leon-xiv-llamo-a-eeuu-a-evitar-el-uso-de-la-fuerza-en-venezuela-es-mejor-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 15:37:21"
+        },
+        {
+          "titulo": "The Wall Street Journal publicó un editorial donde reclama a Donald Trump sacar a Nicolás Maduro \"de una forma u otra\" del poder",
+          "link": "https://www.ambito.com/mundo/the-wall-street-journal-publico-un-editorial-donde-reclama-donald-trump-sacar-nicolas-maduro-de-una-forma-u-otra-del-poder-n6219994",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 14:37:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Infobae",
+        "Clarín",
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "noticias_internacionales:_conflictos_20251202",
+      "tema": "Noticias Internacionales: Conflictos y Sucesos",
+      "tema_normalizado": "noticias internacionales: conflictos y sucesos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El panorama internacional se ve agitado por tensiones geopolíticas, incluyendo advertencias de guerra de Rusia a Europa y una crisis migratoria en la frontera suramericana.\n*   Estados Unidos experimenta cambios significativos en su política migratoria y comercial, mientras se gestionan las repercusiones de conflictos en Medio Oriente.\n*   Paralelamente, se debaten importantes cuestiones éticas y sociales, desde la eutanasia hasta la libertad de prensa y el resurgimiento de la ultraderecha.\n\n🔍 **Datos clave:**\n*   **Rusia:** El presidente Vladimir Putin declaró que su país \"está preparado\" para luchar si Europa inicia un conflicto.\n*   **EE.UU.:** Donald Trump indultó al expresidente hondureño Juan Orlando Hernández, condenado a 45 años por narcotráfico.\n*   **Israel-Gaza:** Se recibieron los presuntos restos de un rehén de Hamas, capturado en el ataque del 7 de octubre de 2023.\n*   **Colombia:** La Corte Constitucional fijó la sentencia T-438 de 2025, introduciendo el \"apoyo interpretativo de la voluntad\" para la eutanasia.\n*   **Chile-Perú:** Acordaron en 2025 patrullajes conjuntos y mayor cooperación policial por la creciente migración irregular.\n*   **Líbano:** El Papa León XIV culminó su primer viaje apostólico con una misa multitudinaria en Beirut, llamando a la paz en Medio Oriente.\n\n⚡ **Desarrollo:**\n*   **Tensiones Geopolíticas:** Vladimir Putin acusó a la Unión Europea de sabotear negociaciones de paz para Ucrania, lideradas por Donald Trump. Advirtió que Rusia \"está lista inmediatamente\" si Europa ataca, desestimando la \"ilusión\" de una derrota estratégica rusa.\n*   **Inmigración en EE.UU.:** El Departamento de Seguridad Nacional (DHS) ha lanzado una campaña de \"Remigración\" y busca jueces de inmigración con altos sueldos hasta abril de 2026. La secretaria Kristi Noem recomendó una \"prohibición total de viaje\" desde ciertos países.\n*   **Crisis Migratoria Sudamericana:** Chile y Perú acordaron en 2025 patrullajes conjuntos y mayor cooperación ante el flujo de migrantes, principalmente venezolanos. La situación se tensa con advertencias del candidato presidencial chileno José Antonio Kast.\n*   **Acciones de Donald Trump:** Además del indulto a Juan Orlando Hernández, Trump enfrenta una demanda de Costco (presentada el 28 de noviembre) por aranceles \"recíprocos\" vigentes desde el 7 de agosto de 2025 en 90 países, cuestionando la legalidad de sus poderes económicos.\n*   **Conflicto en Medio Oriente:** Israel recibió restos de un rehén de Hamas vía Cruz Roja, parte de un acuerdo de alto el fuego de octubre de 2025. Esto sigue al ataque del 7 de octubre de 2023, donde Trump fue uno de los negociadores.\n*   **Libertad de Prensa y Desinformación:** El presidente francés Emmanuel Macron propuso el 19 de noviembre una \"etiqueta de confianza\" para prensa y redes sociales, generando debate sobre la posible censura y el rol estatal.\n*   **Ultranderecha Europea:** El partido alemán Alternativa por Alemania (AfD) sufrió un escándalo por un discurso de tono \"hitleriano\" en su rama juvenil, lo que llevó a una investigación interna y preocupaciones sobre la retórica extremista.\n\n💡 **¿Por qué importa?**\n*   Estos sucesos delinean un panorama internacional complejo, marcado por conflictos militares y políticos, debates éticos profundos y desafíos migratorios urgentes.\n*   Subrayan la interconexión global, donde decisiones nacionales tienen repercusiones mundiales, afectando la estabilidad, la economía y los derechos humanos.",
+      "cantidad_noticias": 16,
+      "noticias": [
+        {
+          "titulo": "Corte Constitucional redefinió criterios para la eutanasia en Colombia: fijó nuevas reglas para interpretar la voluntad del paciente",
+          "link": "https://www.infobae.com/colombia/2025/12/02/corte-constitucional-redefinio-criterios-para-la-eutanasia-en-colombia-fijo-nuevas-reglas-para-interpretar-la-voluntad-del-paciente/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 18:05:05"
+        },
+        {
+          "titulo": "Donald Trump indultó al expresidente de Honduras Juan Orlando Hernández",
+          "link": "https://www.ambito.com/mundo/donald-trump-indulto-al-expresidente-honduras-juan-orlando-hernandez-n6220086",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:54:00"
+        },
+        {
+          "titulo": "Noticias de Florida, en vivo: argentinos arrestados en el Dolphin Mall y los últimos reportes de hoy, 2 de diciembre",
+          "link": "https://www.lanacion.com.ar/estados-unidos/florida/noticias-de-florida-en-vivo-argentinos-arrestados-en-el-dolphin-mall-y-los-ultimos-reportes-de-hoy-1-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:33:00"
+        },
+        {
+          "titulo": "De dónde son los argentinos detenidos en Miami por el robo a un shopping",
+          "link": "https://www.lanacion.com.ar/estados-unidos/de-donde-son-los-argentinos-detenidos-en-miami-por-el-robo-a-un-shopping-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:12:08"
+        },
+        {
+          "titulo": "El DHS compartió vacantes laborales con sueldos de hasta US$200 mil anuales: “Ayuden a deportar migrantes”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-dhs-compartio-vacantes-laborales-con-sueldos-de-hasta-us200-mil-anuales-ayuden-a-deportar-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:07:53"
+        },
+        {
+          "titulo": "El Papa mostró su faceta más íntima: de su jubilación fallida a lo que pensó antes de su elección en el cónclave",
+          "link": "https://www.lanacion.com.ar/el-mundo/el-papa-mostro-su-faceta-mas-intima-de-su-jubilacion-fallida-a-lo-que-penso-antes-de-su-eleccion-en-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 17:03:36"
+        },
+        {
+          "titulo": "Malas noticias para Trump: Costco demanda al Gobierno de EE.UU. y pide el reembolso total por los aranceles",
+          "link": "https://www.lanacion.com.ar/estados-unidos/malas-noticias-para-trump-costco-demanda-al-gobierno-de-eeuu-y-pide-el-reembolso-total-por-los-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 16:57:12"
+        },
+        {
+          "titulo": "Israel recibió los restos de un rehén de Hamas en Gaza a través de la Cruz Roja",
+          "link": "https://www.ambito.com/mundo/israel-recibio-los-restos-un-rehen-hamas-gaza-traves-la-cruz-roja-n6220010",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 15:50:00"
+        },
+        {
+          "titulo": "Vladimir Putin, sin vueltas: \"Si Europa quiere una guerra, estamos listos\"",
+          "link": "https://www.minutouno.com/mundo/vladimir-putin-vueltas-si-europa-quiere-una-guerra-estamos-listos-n6220050",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 15:40:00"
+        },
+        {
+          "titulo": "Tensión en la frontera entre Chile y Perú: acuerdan patrullajes conjuntos para evitar una crisis migratoria",
+          "link": "https://www.clarin.com/mundo/tension-frontera-chile-peru-acuerdan-patrullajes-conjuntos-evitar-crisis-migratoria_0_oOno1orGLZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 15:00:04"
+        },
+        {
+          "titulo": "El papa León XIV dio una misa multitudinaria en el Líbano con un contundente mensaje",
+          "link": "https://www.minutouno.com/mundo/el-papa-leon-xiv-dio-una-misa-multitudinaria-el-libano-un-contundente-mensaje-n6220004",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 14:10:00"
+        },
+        {
+          "titulo": "Francia: Macron quiere una \"etiqueta de confianza\" para la prensa y desata críticas de censura",
+          "link": "https://www.clarin.com/mundo/francia-macron-quiere-etiqueta-confianza-prensa-desata-criticas-censura_0_Z4ibqXHKRQ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 14:00:03"
+        },
+        {
+          "titulo": "Un chileno desnudo y borracho atacó un auto argentino en plena ruta y le destrozó el parabrisas",
+          "link": "https://www.minutouno.com/mundo/un-chileno-desnudo-y-borracho-ataco-un-auto-argentino-plena-ruta-y-le-destrozo-el-parabrisas-n6219975",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 13:54:41"
+        },
+        {
+          "titulo": "La secretaria de Seguridad Nacional de EEUU recomendó una \"prohibición total de viaje\" desde varios países",
+          "link": "https://www.ambito.com/mundo/la-secretaria-seguridad-nacional-eeuu-recomendo-una-prohibicion-total-viaje-varios-paises-n6219970",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 13:53:00"
+        },
+        {
+          "titulo": "Vladimir Putin desafió a Europa: \"Si quieren quiere iniciar una guerra, estamos preparados inmediatamente\"",
+          "link": "https://www.ambito.com/mundo/vladimir-putin-desafio-europa-si-quieren-quiere-iniciar-una-guerra-estamos-preparados-inmediatamente-n6219955",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 13:46:00"
+        },
+        {
+          "titulo": "Escándalo en Alemania por un discurso de tono hitleriano en un acto de la ultraderecha",
+          "link": "https://www.clarin.com/mundo/escandalo-alemania-discurso-tono-hitleriano-acto-ultraderecha_0_GjWOOzpBEL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 12:57:26"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Minuto1",
+        "Clarín",
+        "Ámbito Financiero",
         "Infobae",
         "La Nación"
       ],
