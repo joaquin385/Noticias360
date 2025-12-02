@@ -1,40 +1,53 @@
 {
   "fecha": "2025-12-02",
-  "fecha_generacion": "2025-12-02T03:55:30.313477",
+  "fecha_generacion": "2025-12-02T06:28:07.588496",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "salida_bullrich_y_20251202",
-      "tema": "Salida Bullrich y designación Monteoliva",
-      "tema_normalizado": "salida bullrich y designacion monteoliva",
-      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich renunció a su cargo como Ministra de Seguridad Nacional.\n• En su lugar, el gobierno designó a Alejandra Monteoliva, quien se desempeñaba como Secretaria de Seguridad Nacional.\n• Bullrich asumirá un nuevo rol como senadora de la Nación por La Libertad Avanza (LLA).\n\n🔍 **Datos clave:**\n• **Fecha de renuncia efectiva Bullrich:** 1° de diciembre de 2025.\n• **Fecha de asunción de Bullrich en el Senado:** 10 de diciembre de 2025.\n• **Decretos de oficialización:** DTO. 851/2025 (acepta renuncia Bullrich y designa Monteoliva) y DTO. 850/2025 (acepta renuncia de Monteoliva a su cargo previo).\n• **Nueva Ministra de Seguridad:** Alejandra Susana Monteoliva.\n• **Reemplazo de Monteoliva en Secretaría de Seguridad Nacional:** Dr. Martín Alejandro Ferlauto.\n• **Acuerdo internacional:** Bullrich firmó un Memorándum de Entendimiento con EE.UU. para incorporar un representante de la Policía Federal en las Fuerzas de Tareas El Dorado (El Dorado Task Force) de Nueva York.\n\n⚡ **Desarrollo:**\n• La transición busca mantener la continuidad de la línea política de seguridad, dado que Monteoliva era la segunda de Bullrich.\n• El presidente Javier Milei y la Casa Rosada despidieron a Bullrich con honores y reconocimientos públicos, destacando su gestión.\n• La salida de Bullrich al Senado es vista por algunos como una estrategia de Karina Milei para \"encorsetar\" su rol político y despejar el camino electoral hacia 2027.\n• En sus últimos días como ministra, Bullrich también presentó lineamientos para una reforma del Código Penal que incluye un endurecimiento generalizado de las penas.\n• El gobierno garantizó a la nueva ministra Monteoliva el control sobre la Dirección Nacional de Migraciones, un organismo con un presupuesto clave.\n• Se promovió la idea de una \"Doctrina Bullrich\" para consolidar el legado de su gestión en seguridad dentro del oficialismo.\n\n💡 **¿Por qué importa?**\n• Asegura la continuidad de las políticas de seguridad y orden impulsadas por la gestión anterior, manteniendo el foco en la lucha contra el crimen organizado.\n• Reconfigura el escenario político del oficialismo, con Bullrich asumiendo un rol clave en el poder legislativo y consolidando su influencia política a largo plazo.",
-      "cantidad_noticias": 3,
+      "tema_id": "conflicto_kicillof_por_20251202",
+      "tema": "Conflicto Kicillof por endeudamiento PBA",
+      "tema_normalizado": "conflicto kicillof por endeudamiento pba",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof busca la aprobación de la Legislatura bonaerense para un proyecto de endeudamiento de hasta USD 3.685 millones.\n• Argumenta que es esencial para afrontar una \"emergencia económica\" y la \"asfixia financiera ilegal\" por parte del gobierno nacional, que retiene fondos.\n• Para obtener los votos necesarios, Kicillof ofreció la creación de un Fondo de Fortalecimiento Municipal para distribuir recursos entre los intendentes.\n\n🔍 **Datos clave:**\n• **Monto solicitado:** Hasta USD 3.685 millones para la administración central, ejecutivo, AUBASA y Buenos Aires Energía.\n• **Fondo Municipal:** $250.000 millones garantizados en 5 pagos fijos hasta junio de 2027, y aproximadamente $350.000 millones a distribuir hasta mediados de 2025.\n• **Deuda Nacional reclamada:** Kicillof acusa a Nación de retener $12,9 billones (unos USD 9.000 millones) y la caída de recaudación provincial suma $3,6 billones.\n• **Requisito Legislativo:** Se necesitan dos tercios de los votos en ambas cámaras para aprobar el endeudamiento.\n• **Impacto económico en PBA (según Kicillof):** Caída del 5,7% en la actividad económica, 5.000 empresas cerradas y 172.000 puestos de trabajo perdidos.\n\n⚡ **Desarrollo:**\n• Kicillof denuncia un \"asedio financiero ilegal\" del Gobierno nacional, acusando a Javier Milei de recortar fondos obligatorios y frenar alrededor de 1.000 obras públicas.\n• El gobernador sostiene que el financiamiento busca afrontar vencimientos de deuda de 2023 y 2024, no incrementar el endeudamiento provincial, que según él, disminuyó del 9% al 6% del PBI.\n• Para la aprobación, el oficialismo negocia con los bloques libertarios \"dialoguistas\" y enfrenta la resistencia de la UCR y el PRO, que piden cambios al proyecto y cargos.\n• La discusión por el endeudamiento expone la desconfianza entre el kicillofismo y La Cámpora, generando tensiones internas pese a la postura pública de unidad.\n• El gobierno provincial advierte que, sin la aprobación del endeudamiento, la provincia entraría en una \"situación crítica\" que podría afectar el pago de aguinaldos y la continuidad de servicios esenciales.\n\n💡 **¿Por qué importa?**\n• La aprobación o rechazo de este endeudamiento es crucial para la estabilidad financiera de la Provincia de Buenos Aires, con posibles impactos directos en servicios, obras públicas y el pago de salarios.\n• Este conflicto evidencia la tensión entre el gobierno provincial y nacional por la distribución de recursos, así como las complejas negociaciones políticas internas y con la oposición en un contexto de ajuste económico.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Oficializaron la salida de Patricia Bullrich y designaron a Alejandra Monteoliva como la nueva ministra de Seguridad",
-          "link": "https://www.infobae.com/politica/2025/12/02/oficializaron-la-salida-de-patricia-bullrich-y-designaron-a-alejandra-monteoliva-como-la-nueva-ministra-de-seguridad/",
+          "titulo": "Kicillof les ofreció más fondos a los intendentes y acelera la negociación por el endeudamiento",
+          "link": "https://www.infobae.com/politica/2025/12/02/kicillof-les-ofrecio-mas-fondos-a-los-intendentes-y-acelera-la-negociacion-por-el-endeudamiento/",
           "fuente": "Infobae",
-          "fecha": "2025-12-02 00:39:43"
+          "fecha": "2025-12-02 02:33:50"
         },
         {
-          "titulo": "En sus últimas horas en Seguridad, Patricia Bullrich firmó acuerdo con EEUU para investigar a organizaciones criminales",
-          "link": "https://www.ambito.com/politica/en-sus-ultimas-horas-seguridad-patricia-bullrich-firmo-acuerdo-eeuu-investigar-organizaciones-criminales-n6219719",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 20:32:00"
+          "titulo": "La negociación por el endeudamiento bonaerense hizo resurgir la desconfianza entre Kicillof y La Cámpora",
+          "link": "https://www.infobae.com/politica/2025/12/02/la-negociacion-por-el-endeudamiento-bonaerense-hizo-resurgir-la-desconfianza-entre-kicillof-y-la-campora/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 01:23:56"
         },
         {
-          "titulo": "Karina Milei despide con honores a Patricia Bullrich del Gabinete pero la \"encorseta\" en el Senado",
-          "link": "https://www.perfil.com/noticias/politica/karina-encorseta-a-bullrich-en-el-senado-pero-la-despide-con-honores.phtml",
+          "titulo": "Axel Kicillof criticó a Javier Milei por falta de recursos y pidió a la Legislatura aprobar el financiamiento",
+          "link": "https://www.minutouno.com/politica/axel-kicillof-critico-javier-milei-falta-recursos-y-pidio-la-legislatura-aprobar-el-financiamiento-n6219701",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-01 20:23:00"
+        },
+        {
+          "titulo": "Kicillof acusó a Nación de “asfixiar a la Provincia” y pidió aprobar el endeudamiento en la Legislatura",
+          "link": "https://www.perfil.com/noticias/politica/kicillof-acuso-a-nacion-de-asfixiar-a-la-provincia-y-pidio-aprobar-el-endeudamiento-en-la-legislatura.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-01 16:06:00"
+          "fecha": "2025-12-01 20:10:00"
+        },
+        {
+          "titulo": "Kicillof mete más presión para que le aprueben el pedido para endeudarse y promete hasta $ 350.000 millones a los intendentes",
+          "link": "https://www.clarin.com/politica/kicillof-mete-presion-aprueben-pedido-endeudarse-promete-350000-millones-intendentes_0_ao8Zu2ZLJ5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 18:18:57"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
-        "Infobae"
+        "Minuto1",
+        "Clarín",
+        "Infobae",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -42,37 +55,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "medidas_y_agenda_20251202",
-      "tema": "Medidas y agenda gobierno Milei",
-      "tema_normalizado": "medidas y agenda gobierno milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está activamente modernizando las Fuerzas Armadas con la adquisición y próxima presentación de aviones de combate F-16.\n• Simultáneamente, se enfoca en la institucionalidad de la seguridad interna, encabezando ceremonias de ascenso en las Fuerzas de Seguridad y manteniendo reuniones clave.\n\n🔍 **Datos clave:**\n• **6 F-16 A/B Fighting Falcon:** Primeros aviones de combate recibidos de Dinamarca.\n• **$650 millones:** Valor estimado de la operación total (24 jets y armamento asociado).\n• **2015:** Año en que Argentina perdió la capacidad de interceptación supersónica.\n• **Luis Petri:** Ministro de Defensa, firmó el acuerdo por los F-16 en Copenhague.\n• **Patricia Bullrich:** Ministra de Seguridad, acompañó a Milei en los ascensos.\n• **Adolfo Cambiaso:** Polista recibido por el Presidente en Casa Rosada.\n• **Esteban Bullrich:** Exsenador que expresó su intención de ser candidato presidencial en 2027.\n\n⚡ **Desarrollo:**\n• El presidente Javier Milei encabezará la presentación de los primeros seis F-16 en Río Cuarto, parte de una compra de 24 unidades operativas más una para repuestos.\n• Esta adquisición a Dinamarca busca recuperar la capacidad de interceptación supersónica del país, perdida con la baja de los históricos Mirage en 2015.\n• La operación, con un costo total de $340 millones para los jets y $310 millones para el armamento, se alinea con la política de \"modernización y cooperación\" con EE.UU. y la OTAN.\n• Los F-16 son cazas de cuarta generación modernizados al estándar \"Tape 6.5\", equipados con radar de más de 100 km de alcance y un paquete de misiles avanzados como AIM-120 y AIM-9.\n• En el ámbito de la seguridad interna, Milei también encabezó la ceremonia de ascenso de comisarios generales y prefectos generales de las Fuerzas de Seguridad, junto a la ministra Patricia Bullrich.\n• Además, el mandatario recibió en su despacho al polista Adolfo Cambiaso, en una reunión donde también participaron Karina Milei y Luis Caputo.\n• Un detalle particular durante este encuentro fue la visibilidad de una camiseta de Estudiantes de La Plata detrás del Presidente, reflejando su toma de postura en un conflicto deportivo.\n\n💡 **¿Por qué importa?**\n• La incorporación de los F-16 es una señal política y militar fuerte, marcando la recomposición del poder aéreo nacional y la consolidación de vínculos estratégicos con Washington.\n• Las distintas actividades, desde la modernización de defensa hasta los encuentros con figuras públicas, delinean una agenda gubernamental que busca consolidar seguridad y mostrar una impronta personal en la política.",
+      "tema_id": "caso_de_corrupcion_20251202",
+      "tema": "Caso de corrupción ANDIS",
+      "tema_normalizado": "caso de corrupcion andis",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga un grave caso de corrupción en la Agencia Nacional de Discapacidad (ANDIS).\n• La causa apunta a supuestas coimas y sobreprecios en la compra de medicamentos de alto costo a diversas droguerías.\n• Este esquema habría perjudicado a la administración pública y, consecuentemente, a las personas con discapacidad beneficiarias del Programa Incluir Salud.\n\n🔍 **Datos clave:**\n• **Sobreprecios:** Estimados entre el 10% y el 20% en la compra de medicamentos.\n• **Coimas:** Se menciona un esquema de sobornos del 3% pagado a funcionarios.\n• **Diego Spagnuolo:** Extitular de ANDIS, imputado, solicitó su sobreseimiento alegando manipulación de audios.\n• **Daniel Garbellini:** Mano derecha de Spagnuolo, señalado como quien impartía las órdenes.\n• **Roger Grant:** Excoordinador de Gestión de Urgencias de ANDIS, primer imputado en declarar.\n• **Miguel Ángel Calvete:** Imputado clave, sus cuadernos y llamadas lo vinculan al caso.\n• **Fecha en cuaderno:** Anotación \"Roger por precios\" del 4 de septiembre de 2025 en un cuaderno de Calvete.\n• **Juez:** Sebastián Casanello.\n• **Fiscal:** Franco Picardi.\n\n⚡ **Desarrollo:**\n• La investigación se inició a partir de audios que supuestamente vinculan a Diego Spagnuolo con un esquema de sobornos en droguerías como Suizo Argentina.\n• Roger Grant declaró ante la Justicia haber cumplido órdenes directas de Daniel Garbellini, asegurando que desconocía la ilegalidad de sus acciones.\n• Grant era el encargado de ejecutar los mandatos de Garbellini, decidiendo qué droguerías cotizaban, manejando tiempos y dando de alta proveedores.\n• Daniel Garbellini, según audios atribuidos a Spagnuolo, estaría vinculado a Eduardo “Lule” Menem, con lazos a Karina Milei.\n• La defensa de Spagnuolo presentó un peritaje que afirma que los audios clave fueron adulterados y manipulados con inteligencia artificial, solicitando la nulidad de lo actuado.\n• Cuadernos incautados en el domicilio de Miguel Ángel Calvete, junto con intervenciones telefónicas, corroboran la participación de Grant en la trama.\n• La fiscalía sostiene que, bajo la dirección de Spagnuolo, operaba una \"organización delictiva\" dedicada al direccionamiento de compras con sobreprecios.\n\n💡 **¿Por qué importa?**\n• El caso pone en riesgo la transparencia y el correcto uso de fondos públicos destinados a la salud de las personas con discapacidad.\n• La controversia sobre la manipulación de pruebas con inteligencia artificial abre un importante debate sobre la confiabilidad de la evidencia en procesos judiciales.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 00:35:41"
+          "titulo": "Coimas en ANDIS: declaró exfuncionario y apuntó contra su superior",
+          "link": "https://www.minutouno.com/politica/coimas-andis-declaro-exfuncionario-y-apunto-contra-su-superior-n6219764",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 00:48:32"
         },
         {
-          "titulo": "Javier Milei recibió al polista Adolfo Cambiaso en su despacho: la particularidad de la foto",
-          "link": "https://www.ambito.com/politica/javier-milei-recibio-al-polista-adolfo-cambiaso-su-despacho-la-particularidad-la-foto-n6219750",
+          "titulo": "Exfuncionario de Andis apuntó a su superior en el organismo y aseguró que \"cumplía órdenes\"",
+          "link": "https://www.ambito.com/politica/causa-andis-un-exfuncionario-acusado-rompio-el-silencio-y-confirmo-irregularidades-la-compra-medicamentos-n6219751",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 22:11:40"
+          "fecha": "2025-12-01 23:44:00"
         },
         {
-          "titulo": "Milei encabezará la presentación de los seis F-16 comprados para modernizar la Fuerza Aérea",
-          "link": "https://www.perfil.com/noticias/politica/milei-encabezara-la-presentacion-de-los-seis-f-16-comprados-para-modernizar-la-fuerza-aerea.phtml",
+          "titulo": "Corrupción en ANDIS: Diego Spagnuolo solicitó su sobreseimiento y denunció audios manipulados con \"inteligencia artificial\" avanzada",
+          "link": "https://www.perfil.com/noticias/politica/corrupcion-en-andis-diego-spagnuolo-solicito-su-sobreseimiento-y-denuncio-audios-manipulados-con-inteligencia-artificial-avanzada.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-01 21:29:00"
+          "fecha": "2025-12-01 17:22:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "La Nación",
+        "Ámbito Financiero",
         "Perfil",
-        "Ámbito Financiero"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -80,10 +93,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_senadoras_por_20251202",
-      "tema": "Conflicto senadoras por despachos",
-      "tema_normalizado": "conflicto senadoras por despachos",
-      "resumen": "📌 **¿Qué está pasando?**\n• La senadora Cristina López denunció penalmente a personal de seguridad del Senado por lesiones, amenazas y agresiones sexuales.\n• Esto sucedió cuando la legisladora intentó acceder a su despacho, el cual había sido clausurado por orden de la vicepresidenta Victoria Villarruel.\n• El incidente resultó en un forcejeo y la imposibilidad de López de recuperar sus pertenencias.\n\n🔍 **Datos clave:**\n• **Senadora Cristina López:** De Tierra del Fuego, del bloque Unión por la Patria.\n• **Victoria Villarruel:** Vicepresidenta de la Nación y Presidenta del Senado.\n• **\"30.000 desaparecidos\":** Invocación de López en su jura, considerada el detonante del conflicto.\n• **Dr. Gustavo Apreda:** Médico del Senado que constató lesiones: \"hematoma a nivel de zona superior del tobillo derecho de 5 x 3 cm\".\n• **11 de septiembre:** Fecha de una resolución de Villarruel sobre restitución y reasignación de despachos.\n• **Sergio Leavy:** Senador saliente por Salta, cuyo despacho era el objeto de la disputa.\n\n⚡ **Desarrollo:**\n• El conflicto se originó tras la jura de la senadora López \"por los 30.000 desaparecidos\", gesto que Villarruel habría interpretado como una provocación.\n• Como aparente represalia, Villarruel ordenó la intervención del despacho: cambió la cerradura, colocó fajas de clausura y retiró la placa de senadora.\n• El lunes siguiente, López se presentó con un cerrajero para recuperar sus objetos personales, incluyendo su computadora, pero el personal de seguridad bloqueó el acceso.\n• Se produjo un forcejeo en el que López denunció golpes, empujones y \"manoseos corporales\" por parte de los custodios, quedando las lesiones asentadas en un informe médico.\n• López afirmó tener un acuerdo con el senador saliente Sergio Leavy para ocupar ese despacho, argumentando su uso histórico por senadores fueguinos.\n• Sin embargo, Villarruel había emitido previamente una resolución (11 de septiembre) indicando que los despachos debían ser restituidos y reasignados por la Presidencia del Senado.\n• La senadora calificó el accionar como un \"ataque de extrema gravedad institucional\" y una \"violación a la autonomía del Poder Legislativo\".\n\n💡 **¿Por qué importa?**\n• Este suceso representa un conflicto institucional severo y una potencial vulneración a los derechos de los legisladores.\n• Envía un \"mensaje muy peligroso para la democracia\" si se permite sancionar a un senador por su postura política, sentando un precedente negativo.",
+      "tema_id": "polemica_clausura_despacho_20251202",
+      "tema": "Polémica clausura despacho senadora López",
+      "tema_normalizado": "polemica clausura despacho senadora lopez",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se ha desatado una fuerte polémica en el Senado de la Nación por la clausura del despacho de la senadora Cristina López (Tierra del Fuego) por orden de la vicepresidenta Victoria Villarruel.\n• La senadora denunció haber sido agredida físicamente por personal de seguridad del Senado al intentar ingresar a su oficina, presentando una denuncia penal por lesiones, amenazas y agresiones.\n\n🔍 **Datos clave:**\n• **Senadora afectada:** Cristina López (Unión por la Patria, Tierra del Fuego).\n• **Autoridad que ordenó la clausura:** Victoria Villarruel (Vicepresidenta de la Nación y Presidenta del Senado).\n• **Fecha de inicio del conflicto:** Viernes pasado (tras la jura de senadores), con la denuncia penal presentada el lunes.\n• **Motivo aparente:** La jura de López \"por los 30.000 desaparecidos\", interpretado como una represalia.\n• **Denuncia penal:** Por lesiones, amenazas y agresiones (incluyendo \"manoseo corporal\" y \"agresiones sexuales\" según algunos reportes) contra personal de seguridad.\n• **Lesiones constatadas:** Hematoma de 5x3 cm en el tobillo derecho y dolores internos en el brazo, confirmados por el médico del Senado, Dr. Gustavo Apreda.\n• **Despacho en disputa:** Oficina que previamente ocupaba el senador saliente Sergio Leavy.\n\n⚡ **Desarrollo:**\n• El conflicto escaló después de que la senadora López jurara \"por los 30.000 desaparecidos\", momento en que Villarruel habría aprovechado para intervenir el despacho de López.\n• La intervención incluyó el cambio de cerradura, el fajado de la puerta y el retiro de la placa identificatoria de la senadora, dejándose objetos personales como su computadora dentro.\n• López había llegado a un acuerdo con el senador Leavy para ocupar esa oficina, un espacio históricamente asignado a representantes fueguinos, y había comunicado esta decisión a la Presidencia del Senado.\n• Sin embargo, la Vicepresidenta había firmado previamente una resolución (el 11 de septiembre) que establecía que los senadores con mandato cumplido debían restituir los despachos para su reasignación.\n• Al intentar acceder a su despacho el lunes con un cerrajero, López fue bloqueada por personal de seguridad que impidió su ingreso, lo que derivó en un forcejeo.\n• Durante el forcejeo, la senadora relató haber sido golpeada y empujada, sufriendo las lesiones que fueron certificadas por el cuerpo médico del Senado.\n• López calificó el hecho como un \"ataque de extrema gravedad institucional\" y una \"violación a la autonomía del Poder Legislativo\", aludiendo que los senadores, y no la vicepresidenta, son los dueños del Senado.\n\n💡 **¿Por qué importa?**\n• Este episodio representa un grave conflicto institucional que pone en tensión la autonomía del Poder Legislativo y la independencia de los legisladores frente a las autoridades de la Cámara.\n• Sienta un precedente peligroso para la democracia si se permite castigar a un senador por su postura o jura, afectando la libertad de expresión y el ejercicio de sus funciones.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -114,9 +127,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Minuto1",
-        "Perfil",
         "Ámbito Financiero",
+        "Perfil",
+        "Minuto1",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -125,116 +138,42 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "debate_impuesto_gases_20251202",
-      "tema": "Debate impuesto gases vacas",
-      "tema_normalizado": "debate impuesto gases vacas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Se generó una fuerte polémica en Argentina por la propuesta de crear un impuesto al gas metano (CH4) que emiten las vacas.\n*   La legisladora Lucía Klug de Unión por la Patria impulsa la \"Tasa Ambiental sobre el Metano en Buenos Aires\" (TAMBA) en la provincia de Buenos Aires.\n*   Esta tasa aplicaría a productores ganaderos que no presenten un plan de mitigación del metano, un potente gas de efecto invernadero.\n\n🔍 **Datos clave:**\n*   **Proponente:** Lucía Klug, legisladora provincial de Unión por la Patria.\n*   **Nombre del proyecto:** Tasa Ambiental sobre el Metano en Buenos Aires (TAMBA).\n*   **Impacto del Metano (CH4):** Calienta 21 veces más que el dióxido de carbono (CO2) y permanece hasta 12 años en el ambiente.\n*   **Emisiones en Buenos Aires:** La provincia aporta cerca del 25% del total de gases de efecto invernadero (GEI) de Argentina; el metano representa el 27% de las emisiones provinciales.\n*   **Fecha de salida de banca:** Lucía Klug deja su banca el 10 de diciembre.\n\n⚡ **Desarrollo:**\n*   El objetivo principal de TAMBA es recaudar fondos para reducir el metano o mejorar la gestión de residuos sólidos urbanos.\n*   La propuesta también plantea realizar un censo para conocer el nivel real de las emisiones de los establecimientos ganaderos.\n*   El Gobierno de Javier Milei, a través del secretario Pablo Lavigne, rechazó enfáticamente la iniciativa, calificándola de \"tirarse un tiro en el pie\".\n*   Lavigne argumenta que el impuesto dañaría la producción y exportación ganadera, un sector clave para la generación de empleo y divisas, y que Argentina es carbono neutral.\n*   El sector agropecuario, representado por CARBAP, criticó la medida como un \"impuesto encubierto al trabajo rural\" que reduciría producción y competitividad.\n*   Otros críticos, como el diputado Luciano Bugallo, cuestionaron la viabilidad técnica para medir de forma práctica y económica las emisiones de metano en cada establecimiento.\n*   Lucía Klug y el diputado electo Juan Grabois defendieron el proyecto, enfatizando la seriedad científica del metano como contribuyente al calentamiento global y criticando la ridiculización mediática del tema.\n*   A pesar del debate, fuentes legislativas señalan que el proyecto no cuenta con apoyo en otros bloques políticos, lo que hace \"casi nulo\" su tratamiento en comisiones.\n\n💡 **¿Por qué importa?**\n*   El debate pone en evidencia la tensión entre la necesidad de abordar el cambio climático (reducción de GEI) y el impacto económico potencial en sectores productivos fundamentales como la ganadería.\n*   Refleja una discusión global sobre cómo implementar medidas ambientales en la producción de alimentos, y las dificultades de su aplicación en contextos económicos sensibles.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Polémica por la creación de un impuesto al gas metano de las vacas propuesto por una diputada de Unión por la Patria",
-          "link": "https://www.perfil.com/noticias/politica/polemica-por-la-creacion-de-un-impuesto-al-gas-metano-de-las-vacas-propuesto-por-una-diputada-de-union-por-la-patria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 23:52:00"
-        },
-        {
-          "titulo": "La tajante reacción del Gobierno al impuesto a la emisión de gases de las vacas: “Es tirarse un tiro en el pie”",
-          "link": "https://www.infobae.com/economia/2025/12/01/la-tajante-reaccion-del-gobierno-al-impuesto-a-la-emision-de-gases-de-las-vacas-es-tirarse-un-tiro-en-el-pie/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-01 22:48:29"
-        },
-        {
-          "titulo": "El Gobierno rechazó la propuesta de impuesto a los gases de las vacas: \"Es pegarse un tiro en el pie\"",
-          "link": "https://www.ambito.com/politica/el-gobierno-rechazo-la-propuesta-impuesto-los-gases-las-vacas-es-pegarse-un-tiro-el-pie-n6219698",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 19:22:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Perfil",
-        "Ámbito Financiero",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "denuncias_afa_y_20251202",
-      "tema": "Denuncias AFA y financiera Tapia",
-      "tema_normalizado": "denuncias afa y financiera tapia",
-      "resumen": "📌 **¿Qué está pasando?**\n• El presidente de la AFA, Claudio \"Chiqui\" Tapia, enfrenta múltiples denuncias por presunta corrupción, lavado de dinero y opacidad financiera.\n• La justicia investiga sus vínculos con la financiera Sur Finanzas, que ha realizado operaciones millonarias con clubes de fútbol y estaría involucrada en esquemas de lavado de activos.\n• Estas denuncias se dan en un contexto de confrontación entre el gobierno de Milei y la AFA, buscando desmantelar lo que considera la \"casta del fútbol\" y sindicalismo.\n\n🔍 **Datos clave:**\n• **$300 millones:** Adelanto gestionado por AFA para San Lorenzo, a través de Sur Finanzas, por derechos de televisación.\n• **$1.900 millones:** Monto total recibido por San Lorenzo de Sur Finanzas (incluye préstamos con intereses y dicho adelanto).\n• **19 allanamientos:** Ordenados por la Justicia, incluyendo la sede de Sur Finanzas y el Club Banfield, por presunto lavado de dinero.\n• **Real Central SRL:** Empresa bajo investigación por adquirir una mansión de lujo con capital injustificado, implicando presuntos testaferros de Tapia.\n• **Más de 250 entidades:** Listado de transferencias sospechosas de clubes (ej. San Lorenzo $660M, Racing $100M, Argentinos Juniors $200M) vía Sur Finanzas PSP.\n\n⚡ **Desarrollo:**\n• El gobierno de Javier Milei ha puesto el foco en Tapia y la AFA para desmantelar la \"casta\", ya que la entidad y el sindicalismo frenaron reformas clave como las Sociedades Anónimas Deportivas (SAD).\n• La financiera Sur Finanzas, vinculada a Ariel Vallejo y a Tapia, es investigada por lavado de dinero y evasión fiscal, siendo el centro de múltiples operaciones con clubes.\n• San Lorenzo recibió un \"rescate financiero\" millonario de Sur Finanzas, incluyendo un adelanto de TV gestionado por AFA y préstamos con altos intereses.\n• La Justicia ordenó allanamientos en Sur Finanzas y Banfield, congeló sus cuentas y levantó el secreto bancario y fiscal de Vallejo por presuntas maniobras de lavado de activos.\n• Elisa Carrió denunció a dos presuntos testaferros vinculados a Tapia, quienes habrían adquirido una mansión de lujo a través de Real Central SRL con fondos de origen dudoso.\n• Un tuit de Carlos Tevez, haciendo referencia a los \"autos antiguos\" del tesorero de la AFA, fue presentado como parte de la denuncia sobre el entorno de Tapia.\n\n💡 **¿Por qué importa?**\n• Estas denuncias cuestionan la transparencia y la gestión financiera de la Asociación del Fútbol Argentino y su presidente, Claudio \"Chiqui\" Tapia, generando un fuerte impacto político y judicial.\n• Podrían revelar una compleja red de lavado de dinero y negocios irregulares que involucran a la principal entidad del fútbol argentino, financieras y diversos clubes del país.",
+      "tema_id": "salida_patricia_bullrich_20251202",
+      "tema": "Salida Patricia Bullrich Ministerio Seguridad",
+      "tema_normalizado": "salida patricia bullrich ministerio seguridad",
+      "resumen": "📌 **¿Qué está pasando?**\n• Patricia Bullrich dejó oficialmente su cargo como Ministra de Seguridad Nacional.\n• Fue reemplazada por Alejandra Monteoliva y asumió su banca como Senadora por la Ciudad de Buenos Aires, representando a La Libertad Avanza (LLA).\n\n🔍 **Datos clave:**\n• **Fecha de oficialización:** Martes, mediante el Decreto 851/2025, tras su renuncia efectiva el 1 de diciembre.\n• **Figuras clave:** Patricia Bullrich (ex-ministra y senadora), Alejandra Monteoliva (nueva ministra de Seguridad), Javier Milei (Presidente).\n• **Nuevo rol de Bullrich:** Jefa de la bancada de La Libertad Avanza en el Senado.\n• **Última acción relevante:** Firma de un acuerdo con Estados Unidos para investigar el lavado de dinero y crimen organizado (\"El Dorado Task Force\").\n\n⚡ **Desarrollo:**\n• La salida de Bullrich era previsible desde su postulación como senadora, donde en las elecciones de medio término obtuvo el 50.32% de los votos.\n• El presidente Javier Milei y Karina Milei (Secretaria General de la Presidencia) le brindaron una despedida con \"honores\", buscando consolidar su figura legislativa y contener su proyección ejecutiva.\n• Alejandra Monteoliva, con 55 años y 30 de experiencia en seguridad, era secretaria de la cartera y es reconocida como fundamental para la \"Doctrina Bullrich\", centrada en el orden y la lucha contra el crimen.\n• Bullrich juró como senadora el viernes, donde tuvo un breve intercambio con la vicepresidenta Victoria Villarruel, y en sus últimas actividades anunció una reforma del Código Penal para endurecer penas.\n• El Gobierno agradeció los servicios de Bullrich y del ex-ministro de Defensa, Luis Petri, quienes ahora impulsarán las ideas de la libertad desde el Congreso.\n• Martín Ferlauto fue designado para reemplazar a Monteoliva en la Secretaría de Seguridad Nacional, según el Decreto 850/2025.\n\n💡 **¿Por qué importa?**\n• Este recambio asegura la continuidad de la política de seguridad (\"Doctrina Bullrich\") con un enfoque firme en el mantenimiento del orden y el combate al narcoterrorismo y organizaciones criminales.\n• Patricia Bullrich asume un rol protagónico en el Senado como líder del bloque oficialista, lo que será clave para la agenda legislativa del Gobierno.",
       "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "De la “ruta del dinero AFA” al destino de la Argentina mileísta",
-          "link": "https://www.lanacion.com.ar/politica/de-la-ruta-del-dinero-afa-al-destino-de-la-argentina-mileista-nid01122025/",
+          "titulo": "El Gobierno oficializó la salida de Bullrich del Ministerio de Seguridad y la designación de Monteoliva",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-oficializo-la-salida-de-bullrich-del-ministerio-de-seguridad-y-la-designacion-de-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-01 22:47:35"
+          "fecha": "2025-12-02 01:51:29"
         },
         {
-          "titulo": "La AFA gestionó un adelanto de $300 millones a San Lorenzo por derechos de televisación a través de la financiera ligada a Tapia",
-          "link": "https://www.lanacion.com.ar/politica/la-afa-gestiono-un-adelanto-de-300-millones-a-san-lorenzo-por-derechos-de-televisacion-a-traves-de-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 21:29:10"
+          "titulo": "El Gobierno oficializó la salida de Patricia Bullrich y la designación de Alejandra Monteoliva como ministra de Seguridad Nacional",
+          "link": "https://www.clarin.com/politica/gobierno-oficializo-salida-patricia-bullrich-designacion-alejandra-monteoliva-ministra-seguridad-nacional_0_Jf2JmSxLse.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 01:34:58"
         },
         {
-          "titulo": "Allanaron la sede central de la financiera ligada a “Chiqui” Tapia y el club Banfield",
-          "link": "https://www.lanacion.com.ar/politica/allanan-la-sede-central-de-la-financiera-ligada-al-chiqui-tapia-y-el-club-banfield-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-01 20:08:28"
+          "titulo": "En sus últimas horas en Seguridad, Patricia Bullrich firmó acuerdo con EEUU para investigar a organizaciones criminales",
+          "link": "https://www.ambito.com/politica/en-sus-ultimas-horas-seguridad-patricia-bullrich-firmo-acuerdo-eeuu-investigar-organizaciones-criminales-n6219719",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-01 20:32:00"
         },
         {
-          "titulo": "Denuncian a dos supuestos testaferros de \"Chiqui\" Tapia y usan como prueba un durísimo tuit de Tevez",
-          "link": "https://www.iprofesional.com/politica/443093-denuncian-a-jubilada-y-monotributista-como-supuestos-testaferros-claudio-chiqui-tapia",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 17:59:00"
+          "titulo": "Karina Milei despide con honores a Patricia Bullrich del Gabinete pero la \"encorseta\" en el Senado",
+          "link": "https://www.perfil.com/noticias/politica/karina-encorseta-a-bullrich-en-el-senado-pero-la-despide-con-honores.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-01 16:06:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "La Nación",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "kicillof_busca_aprobacion_20251202",
-      "tema": "Kicillof busca aprobación endeudamiento",
-      "tema_normalizado": "kicillof busca aprobacion endeudamiento",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof busca la aprobación en la Legislatura bonaerense de una Ley de Financiamiento que le permita tomar deuda.\n• El objetivo es obtener recursos para afrontar vencimientos de deuda y asegurar el funcionamiento provincial, ante lo que Kicillof describe como un \"asedio financiero ilegal\" del Gobierno nacional.\n• El gobernador denuncia que la Nación retiene fondos obligatorios y paraliza obras, generando una grave situación económica en la provincia.\n\n🔍 **Datos clave:**\n• **Monto de endeudamiento solicitado:** Autorización para tomar deuda por U$S 3.685 millones.\n• **Deuda acumulada reclamada a Nación:** $12,9 billones (unos USD 9.000 millones) en recursos no percibidos.\n• **Caída de recaudación provincial:** $3,6 billones adicionales por recesión y medidas nacionales.\n• **Fondo municipal prometido:** $350.000 millones, con $250.000 millones garantizados en 5 pagos fijos hasta junio de 2027.\n• **Impacto económico en PBA:** Caída del 5,7% en actividad, 10% en industria, 25% en construcción y 8% en comercio.\n• **Empresas cerradas en PBA:** Aproximadamente 5.000.\n• **Obras públicas paralizadas en PBA:** Cerca de 1.000.\n• **Aporte vs. Recibido:** La provincia aporta 38% de la recaudación nacional y recibe menos del 7%.\n\n⚡ **Desarrollo:**\n• Kicillof reunió a intendentes, legisladores y funcionarios para presionar por la aprobación de la Ley de Financiamiento, pieza clave que quedó pendiente del paquete económico enviado el 3 de noviembre.\n• El gobernador argumenta que la provincia enfrenta una \"situación de excepción\" y \"emergencia económica\" debido a la profunda recesión y al incumplimiento de transferencias nacionales.\n• La Ley de Financiamiento no busca aumentar la deuda provincial, sino reestructurar vencimientos pasados y actuales, ya que la deuda bajó del 9% al 6% del PBI.\n• Acusa al Gobierno nacional de \"asfixiar\" a la provincia al quitar fondos obligatorios destinados a áreas críticas como seguridad, transporte, jubilaciones e incentivo docente.\n• La propuesta incluye un fondo de $350.000 millones para municipios, como una forma de distribuir el financiamiento y asegurar apoyo político para la aprobación.\n• La oposición se ha mostrado reacia a acompañar el pedido, criticando la estrategia de Kicillof y ausentándose de sus convocatorias.\n\n💡 **¿Por qué importa?**\n• La aprobación de este endeudamiento es vital para que la Provincia de Buenos Aires pueda cumplir con sus obligaciones financieras y mantener servicios esenciales sin desviar fondos de áreas como salud y educación.\n• Este conflicto subraya la tensión por la distribución de recursos entre el gobierno provincial y el nacional, con importantes consecuencias institucionales y en la calidad de vida de los bonaerenses.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Axel Kicillof criticó a Javier Milei por falta de recursos y pidió a la Legislatura aprobar el financiamiento",
-          "link": "https://www.minutouno.com/politica/axel-kicillof-critico-javier-milei-falta-recursos-y-pidio-la-legislatura-aprobar-el-financiamiento-n6219701",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 20:23:00"
-        },
-        {
-          "titulo": "Kicillof acusó a Nación de “asfixiar a la Provincia” y pidió aprobar el endeudamiento en la Legislatura",
-          "link": "https://www.perfil.com/noticias/politica/kicillof-acuso-a-nacion-de-asfixiar-a-la-provincia-y-pidio-aprobar-el-endeudamiento-en-la-legislatura.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 20:10:00"
-        },
-        {
-          "titulo": "Kicillof mete más presión para que le aprueben el pedido para endeudarse y promete hasta $ 350.000 millones a los intendentes",
-          "link": "https://www.clarin.com/politica/kicillof-mete-presion-aprueben-pedido-endeudarse-promete-350000-millones-intendentes_0_ao8Zu2ZLJ5.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 18:18:57"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Minuto1",
+        "Ámbito Financiero",
         "Perfil",
         "Clarín"
       ],
@@ -244,10 +183,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "caida_recaudacion_fiscal_20251202",
-      "tema": "Caída recaudación fiscal noviembre",
-      "tema_normalizado": "caida recaudacion fiscal noviembre",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La recaudación fiscal en noviembre de este año registró una caída real significativa, estimada entre el 8,6% y el 8,7% en comparación con el mismo mes del año pasado.\n*   Este descenso marca el cuarto mes consecutivo en que la recaudación tributaria nacional retrocede en términos reales, una vez descontado el efecto de la inflación.\n*   ARCA informó ingresos nominales de $15.6 billones, que representan un aumento del 19,7% nominal interanual, pero este crecimiento es menor al de la inflación del período (~31%).\n\n🔍 **Datos clave:**\n*   **Caída real en noviembre:** 8,6% - 8,7% (según ARCA e IARAF).\n*   **Recaudación total nominal:** $15.598.232 millones (aproximadamente $15.6 billones).\n*   **Crecimiento nominal interanual:** 19,7%.\n*   **Inflación estimada del período:** ~31% interanual.\n*   **Mayores caídas reales:** Derechos de Exportación (-69%) y Bienes Personales (-64%).\n*   **Únicos aumentos reales:** Derechos de Importación (+21,7%) e Impuesto a los Combustibles (+17,2%).\n\n⚡ **Desarrollo:**\n*   La principal razón de la caída real es la \"alta base de comparación\" de noviembre de 2024, que incluyó una serie de ingresos extraordinarios que no se repitieron este año.\n*   Entre los ingresos excepcionales de 2024 se destacaron anticipos de Bienes Personales y Ganancias, el Impuesto PAIS (actualmente no vigente), el Impuesto Especial del Blanqueo y una moratoria impositiva.\n*   ARCA estima que si se excluyen estos ingresos extraordinarios de la comparación, el aumento nominal de la recaudación habría sido cercano al 29%, lo que reduciría la caída real a aproximadamente un 1,5%.\n*   La pronunciada baja en los Derechos de Exportación se explica por la eliminación temporal de cargas tributarias al sector agropecuario y el adelantamiento de exportaciones en meses previos.\n*   Por otro lado, los Derechos de Importación experimentaron un aumento real significativo, impulsado por el incremento en el volumen de importaciones y el tipo de cambio.\n*   Impuestos clave como el IVA (indicador del consumo) y los aportes a la seguridad social (vinculados al empleo y salarios) también mostraron caídas reales del 2,2% y 1% respectivamente, señalando un enfriamiento de la actividad económica.\n\n💡 **¿Por qué importa?**\n*   Una recaudación fiscal en caída real limita la capacidad del gobierno para financiar sus gastos y políticas públicas.\n*   Esta tendencia refleja un debilitamiento de la actividad económica general, con impacto en el consumo y el empleo.",
+      "tema_id": "caida_de_recaudacion_20251202",
+      "tema": "Caída de la recaudación tributaria",
+      "tema_normalizado": "caida de recaudacion tributaria",
+      "resumen": "📌 **¿Qué está pasando?**\n• La recaudación tributaria de noviembre de 2025 registró una caída real del 8,7% interanual.\n• Este retroceso marca el cuarto mes consecutivo de descenso en términos reales para los ingresos fiscales nacionales.\n• La situación se explica principalmente por una alta base de comparación con el año anterior y cambios en la carga tributaria.\n\n🔍 **Datos clave:**\n• **Caída real en noviembre de 2025:** 8,7% interanual (según ARCA e IARAF).\n• **Meses consecutivos de caída real:** Cuatro.\n• **Recaudación nominal noviembre:** $15.598.232 millones (un aumento nominal del 19,7%).\n• **Entidades informantes:** Agencia de Recaudación y Control Aduanero (ARCA) y Instituto Argentino de Análisis Fiscal (IARAF), con Nadin Argañaraz.\n• **Inflación estimada en el período:** Cerca del 31% interanual, o 2,3% mensual para los cálculos de caída real.\n\n⚡ **Desarrollo:**\n• La principal causa de la caída es la alta base de comparación con noviembre de 2024, mes que incluyó ingresos extraordinarios.\n• Entre estos ingresos excepcionales de 2024 se destacan anticipos de Bienes Personales, impuestos del blanqueo, una moratoria y el Impuesto PAIS, que ya no está vigente en 2025.\n• Sin considerar estos ingresos extraordinarios, la variación interanual nominal habría sido cercana al 29%, lo que implicaría una caída real mucho menor (alrededor del 1,5%).\n• Los tributos más afectados fueron los Derechos de Exportación, con una baja real del 69% interanual, debido a la eliminación temporal de carga tributaria al sector agropecuario y el adelantamiento de exportaciones.\n• Bienes Personales cayó un 64% real y los impuestos internos un 12,6%, también afectados por la alta base de comparación de 2024 y bajas de alícuotas.\n• El Impuesto al Valor Agregado (IVA), principal impuesto, registró una baja del 2,2% real respecto a noviembre de 2024, y los aportes de seguridad social cayeron un 1% real.\n• En contraste, los Derechos de Importación aumentaron un 21,7% real y el Impuesto a los Combustibles un 17,2% real, impulsados por el aumento de volumen y las actualizaciones.\n• La recaudación acumulada en los primeros once meses del año descendió un 1% en términos reales respecto al mismo período de 2024, según el IARAF.\n\n💡 **¿Por qué importa?**\n• La caída sostenida de la recaudación real es un indicador del debilitamiento de la actividad económica y de los efectos de los cambios tributarios.\n• Menores ingresos fiscales afectan directamente la capacidad del Estado para financiar sus gastos públicos y servicios esenciales, lo que puede generar ajustes presupuestarios.",
       "cantidad_noticias": 5,
       "noticias": [
         {
@@ -264,7 +203,7 @@
         },
         {
           "titulo": "La recaudación volvió a caer: bajan impuestos ligados al comercio y se disparan los de importación",
-          "link": "https://www.iprofesional.com/index.php/economia/443101-la-recaudacion-cayo-por-cuarta-vez-cuales-fueron-los-unicos-impuestos-que-subieron-fuerte",
+          "link": "https://www.iprofesional.com/economia/443101-la-recaudacion-cayo-por-cuarta-vez-cuales-fueron-los-unicos-impuestos-que-subieron-fuerte",
           "fuente": "iProfesional",
           "fecha": "2025-12-01 19:25:00"
         },
@@ -285,10 +224,10 @@
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "Ámbito Financiero",
-        "La Nación",
+        "Perfil",
+        "iProfesional",
         "Clarín",
-        "Perfil",
-        "iProfesional"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -296,81 +235,24 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cierre_y_cotizacion_20251202",
-      "tema": "Cierre y cotización del dólar",
-      "tema_normalizado": "cierre y cotizacion del dolar",
-      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial mantuvo su estabilidad, conocida como \"pax cambiaria\", al comenzar el mes de diciembre.\n• Los dólares financieros (MEP y Contado Con Liquidación) registraron una baja, lo que redujo sus brechas con la cotización oficial.\n• Por su parte, el dólar blue subió $10, marcando su primera alza en cuatro jornadas, aunque se mantuvo por debajo del valor del dólar oficial.\n\n🔍 **Datos clave:**\n• **Fecha de referencia:** Lunes 1 de diciembre\n• **Dólar Oficial Minorista (Banco Nación):** Compra $1.425 / Venta $1.475\n• **Dólar Mayorista:** $1.451,50\n• **Dólar Blue:** Compra $1.425 / Venta $1.445\n• **Dólar MEP:** $1.473,34 (caída del 0,1%)\n• **Dólar CCL:** $1.494,80 (descenso del 1,4%)\n• **Brecha CCL vs Oficial:** 3% (mínimo de un mes)\n• **Brecha MEP vs Oficial:** 1,5%\n• **Reservas Internacionales:** u$s41.776 millones (aumento de u$s1.462 millones)\n• **Riesgo País:** 648 puntos básicos.\n\n⚡ **Desarrollo:**\n• La \"pax cambiaria\" de noviembre se extendió a diciembre, con el dólar oficial sostenido por compras del Tesoro y una fuerte oferta de divisas.\n• Durante noviembre, el tipo de cambio mayorista subió apenas $6,5 (0,5%), contrastando con el 5% de octubre, reflejando un menor apetito por cobertura.\n• El Banco Central (BCRA) realizó un pago de u$s1.012,5 millones por un Bopreal, de los cuales u$s64 millones impactaron directamente las reservas.\n• La Comisión Nacional de Valores (CNV) introdujo una excepción que permite a inversores no residentes usar pesos de servicios de deuda para operaciones de CCL sin límite.\n• A pesar de su ascenso, el dólar blue cerró a $1.445, situándose por debajo del valor minorista oficial ($1.475) y mayorista ($1.451,50).\n• El mercado también reflejó expectativas de reformas gubernamentales y una mejora en la actividad económica, según el Estimador Mensual de Actividad Económica (EMAE) de septiembre (+0,5%).\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar oficial y la reducción de las brechas cambiarias generan un panorama de menor incertidumbre y calman las expectativas al inicio del último mes del año.\n• Sin embargo, la leve suba del dólar blue, aunque por debajo del oficial, indica que una parte de los ahorristas aún busca resguardo en activos alternativos.",
-      "cantidad_noticias": 8,
+      "tema_id": "negociacion_y_protestas_20251202",
+      "tema": "Negociación y protestas reforma laboral",
+      "tema_normalizado": "negociacion y protestas reforma laboral",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno ha terminado de redactar una propuesta de reforma laboral y busca su aprobación en las sesiones extraordinarias del Congreso durante diciembre.\n• Al mismo tiempo, movimientos sociales, piqueteros y sindicatos han anunciado un \"diciembre caliente\" con una serie de protestas a nivel nacional.\n• La CGT ha expresado fuertes críticas por la falta de información y diálogo sobre el contenido del proyecto oficial, manifestando incertidumbre.\n\n🔍 **Datos clave:**\n• **Jueves 4 de diciembre:** La Unión de Trabajadores de la Economía Popular (UTEP) realizó una asamblea en La Plata para definir un plan de lucha.\n• **9 o 10 de diciembre:** Fecha prevista para el inicio de las primeras medidas de fuerza de las organizaciones sociales.\n• **11 de diciembre:** La UTEP convocó a una movilización a Plaza de Mayo, junto a organismos de derechos humanos, a partir de las 16.30 hs.\n• **10 al 31 de diciembre:** Período de sesiones extraordinarias del Congreso, donde el Gobierno aspira a tratar la reforma laboral.\n• **8.800.000:** Cantidad de personas que integran la economía popular, según la UTEP.\n• **Manuel Adorni, Martín Menem y Patricia Bullrich:** Funcionarios gubernamentales que poseen el borrador final de la reforma laboral.\n• **Oscar Silvero:** Presidente de la Federación Argentina de Empleo (FAE), quien propone \"modernizar\" la legislación laboral.\n\n⚡ **Desarrollo:**\n• El Gobierno busca que la reforma laboral facilite la inserción laboral de sectores vulnerables y genere previsibilidad para empleadores y trabajadores, evitando que despidos puedan \"fundir una pyme\".\n• Los movimientos sociales, sindicatos y piqueteros anunciaron protestas contra el \"ajuste\", la \"caída de ingresos\", la \"desprotección social\" y el avance de la reforma laboral propuesta.\n• La CGT, a través de Jorge Sola, cuestiona que el Gobierno no haya entregado ningún borrador y advierte que la reforma podría replicar la lógica del DNU 70/23, debilitando el poder de negociación de los trabajadores.\n• El proyecto gubernamental podría incluir ejes como la ultraactividad de convenios, cargas fiscales, financiamiento de sindicatos, derechos colectivos y un apartado para promover el empleo joven con \"flexibilidades\" laborales.\n• El Gobierno desestima el \"poder de movilización\" de los sectores que protestan y ha confirmado que aplicará el protocolo antipiquetes.\n• Se prevé que el Senado sea la primera cámara en debatir la reforma laboral, con el oficialismo ya buscando apoyos para su aprobación.\n\n💡 **¿Por qué importa?**\n• La reforma laboral propone cambios significativos en las condiciones de trabajo y contratación, lo que podría tener un impacto directo en millones de trabajadores y empresas.\n• La fuerte oposición de sindicatos y movimientos sociales, junto con la determinación del Gobierno, anticipa un escenario de elevada conflictividad social y política en el país.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 1 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-1-diciembre-n6219376",
+          "titulo": "Los movimientos sociales, piqueteros y sindicatos anunciaron protestas para este mes contra la reforma laboral",
+          "link": "https://www.infobae.com/politica/2025/12/02/los-movimientos-sociales-piqueteros-y-sindicatos-anunciaron-protestas-para-este-mes-contra-la-reforma-laboral/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 01:34:23"
+        },
+        {
+          "titulo": "Oscar Silvero: \"El despido no puede ser una caja de Pandora que funda una pyme de un día para el otro\"",
+          "link": "https://www.ambito.com/politica/oscar-silvero-el-despido-no-puede-ser-una-caja-pandora-que-funda-una-pyme-un-dia-el-otro-n6219694",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 19:07:00"
+          "fecha": "2025-12-02 00:00:00"
         },
-        {
-          "titulo": "Pax cambiaria: el dólar oficial cerró \"flat\" y la brecha con los financieros tocó mínimos de un mes",
-          "link": "https://www.ambito.com/finanzas/el-dolar-mantiene-la-pax-cambiaria-y-la-atencion-la-city-sigue-puesta-la-acumulacion-reservas-n6219381",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 18:55:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cerró este lunes 1 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-lunes-1-diciembre-n6219673",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 18:03:00"
-        },
-        {
-          "titulo": "El dólar blue subió por primera vez en cuatro jornadas, pero se mantuvo debajo del oficial",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-subio-primera-vez-cuatro-jornadas-pero-se-mantuvo-debajo-del-oficial-n6219655",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 17:57:00"
-        },
-        {
-          "titulo": "A cuánto cerró el dólar blue hoy lunes 1 de diciembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-lunes-1-de-diciembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 17:12:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este lunes 1 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-lunes-1-diciembre-n6219290",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 16:49:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este lunes 1 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-lunes-1-diciembre-n6218900",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 16:32:00"
-        },
-        {
-          "titulo": "Bajaron los dólares financieros y subió el blue en medio de la caída de los bonos",
-          "link": "https://www.clarin.com/economia/bajan-dolares-financieros-sube-blue-medio-caida-bonos_0_eUbPmvpKzS.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 16:31:43"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Minuto1",
-        "Perfil",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "avances_reforma_laboral_20251202",
-      "tema": "Avances reforma laboral Argentina",
-      "tema_normalizado": "avances reforma laboral argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino ha finalizado la redacción de su proyecto de reforma laboral y está buscando los apoyos legislativos para su pronta aprobación.\n• Paralelamente, la CGT denuncia la falta de acceso al borrador del proyecto, expresando incertidumbre y preocupación por su contenido y el proceso de elaboración.\n\n🔍 **Datos clave:**\n• **Período legislativo:** Sesiones extraordinarias previstas entre el 10 y el 31 de diciembre, con posible extensión hasta el 28 de febrero de 2026.\n• **Funcionarios con borrador:** Manuel Adorni (Jefe de Gabinete), Martín Menem (Presidente de Diputados), Patricia Bullrich (Jefa bloque libertario en Senado).\n• **Voz de la CGT:** Jorge Sola (integrante del triunvirato de la central obrera).\n• **Otro referente sindical:** Gerardo Martínez (UOCRA, rechazó un borrador previo en el Consejo de Mayo).\n• **Voz empresaria:** Martín Rappallini (Presidente de la UIA, pidió mayor profundidad en la modernización).\n• **Antecedente:** DNU 70/23 (mencionado por la CGT como referencia de la lógica ideológica del posible proyecto).\n\n⚡ **Desarrollo:**\n• El Gobierno confirmó la conclusión del \"proyecto de modernización laboral\", que ya está circulando entre los tres funcionarios clave mencionados para su estudio y negociación.\n• La Casa Rosada busca que la reforma se trate inicialmente en el Senado durante las sesiones extraordinarias que se extenderán, posiblemente, hasta febrero.\n• Jorge Sola, de la CGT, advirtió sobre la falta de un borrador oficial entregado a los sindicatos o empresarios, lo que genera dudas sobre la real existencia del texto final.\n• La CGT teme que la reforma replique la lógica del DNU 70/23, impulsando una visión ideológica que podría debilitar el poder de negociación de los trabajadores.\n• El sector sindical se preocupa por la promoción de acuerdos individuales por empresa, lo que afectaría la fuerza de trabajo, y la falta de diálogo con actores principales como la CGT y los empresarios.\n• Equipos del ministro Federico Sturzenegger finalizaron el capítulo técnico de la reforma, que podría incluir ejes como la ultraactividad, régimen de convenios, cargas fiscales y financiamiento sindical.\n• Un borrador anterior ya había sido rechazado por Gerardo Martínez (CGT) y considerado insuficiente por Martín Rappallini (UIA), evidenciando las fricciones con ambos sectores.\n• La CGT también planteó la necesidad de discutir la reducción de la jornada laboral y la aplicación sectorial del \"banco de horas\" como herramientas para generar empleo formal.\n\n💡 **¿Por qué importa?**\n• Esta reforma busca alterar normativas laborales clave en Argentina, con el potencial de reconfigurar las relaciones entre trabajadores, empresas y sindicatos, y generar impacto en la estabilidad laboral.\n• Su aprobación o rechazo marcará un hito en la agenda legislativa del Gobierno y sentará precedentes importantes para el futuro del mercado de trabajo en el país.",
-      "cantidad_noticias": 2,
-      "noticias": [
         {
           "titulo": "Reforma laboral: la CGT cuestionó la falta de información y puso en duda que el proyecto esté redactado",
           "link": "https://www.ambito.com/politica/reforma-laboral-la-cgt-cuestiono-la-falta-informacion-y-puso-duda-que-el-proyecto-este-redactado-n6219740",
@@ -384,11 +266,12 @@
           "fecha": "2025-12-01 16:54:00"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "Ámbito Financiero",
-        "iProfesional"
+        "iProfesional",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -396,18 +279,12 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "tension_trump-maduro_por_20251202",
-      "tema": "Tensión Trump-Maduro por Venezuela",
-      "tema_normalizado": "tension trump-maduro por venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n• La tensión entre el presidente de Estados Unidos, Donald Trump, y el líder venezolano, Nicolás Maduro, ha escalado significativamente.\n• Estados Unidos ha incrementado la presión militar en el Caribe, llevando a cabo operaciones contra el narcotráfico, y ha emitido un ultimátum a Maduro para que deje el poder.\n• Maduro rechaza las acusaciones de liderar un cartel de narcotráfico y denuncia que EE. UU. busca derrocarlo para controlar el petróleo de Venezuela, pidiendo apoyo internacional.\n\n🔍 **Datos clave:**\n• **Actores principales:** Donald Trump (EE. UU.), Nicolás Maduro (Venezuela), Pete Hegseth (Secretario de Defensa de EE. UU.), Marco Rubio (Secretario de Estado de EE. UU.), Diosdado Cabello (Venezuela).\n• **Fecha de llamada:** 21 de noviembre (llamada telefónica Trump-Maduro confirmada).\n• **Elecciones venezolanas:** Reelección de Maduro en 2024 calificada como \"fraudulenta\" por EE. UU. y Argentina.\n• **Despliegue militar de EE. UU.:** Más de una docena de buques de guerra, 15.000 efectivos y el portaaviones USS Gerald R. Ford en el Caribe.\n• **Operativos anti-narcotráfico:** EE. UU. reporta 83 muertos en ataques a 20 embarcaciones desde septiembre.\n• **Denuncia ante la CPI:** Argentina pidió la detención de Maduro y Cabello por violaciones a los derechos humanos.\n• **Espacio aéreo venezolano:** Trump ordenó considerarlo \"totalmente cerrado\".\n\n⚡ **Desarrollo:**\n• Trump convocó a su Consejo de Seguridad Nacional para definir la estrategia sobre Venezuela, considerando opciones que podrían incluir operaciones terrestres.\n• La estrategia de Washington busca \"eliminar amenazas\" antes de que lleguen a EE. UU. y descarta una negociación directa con Maduro o acuerdos petroleros.\n• Durante la llamada del 21 de noviembre, Trump habría exigido a Maduro y su círculo más cercano abandonar Venezuela inmediatamente a cambio de un salvoconducto, propuesta rechazada por Maduro.\n• EE. UU. acusa a Maduro de liderar el \"Cartel de los Soles\", una organización criminal vinculada al narcotráfico, algo que Caracas niega.\n• Maduro pidió auxilio político a la OPEP para detener la \"agresión\" estadounidense, argumentando que amenaza la estabilidad de la producción petrolera venezolana y el mercado mundial.\n• Medios como The Wall Street Journal y New York Post publicaron editoriales instando a Trump a \"remover del poder\" a Maduro.\n• Las acciones militares de EE. UU. generaron cuestionamientos en el Congreso estadounidense y preocupaciones en la ONU sobre posibles \"ejecuciones extrajudiciales\".\n• Argentina denunció ante la Corte Penal Internacional la situación en Venezuela, citando \"detenciones arbitrarias\" y \"crímenes contra la humanidad\".\n\n💡 **¿Por qué importa?**\n• Esta escalada de tensión entre dos naciones con intereses estratégicos en la región y a nivel global puede desestabilizar el Caribe y el mercado energético internacional.\n• El conflicto involucra acusaciones graves de narcotráfico y violaciones a los derechos humanos, con posibles consecuencias geopolíticas y humanitarias importantes para Venezuela y la comunidad internacional.",
-      "cantidad_noticias": 7,
+      "tema_id": "tension_politica_estados_20251202",
+      "tema": "Tensión política Estados Unidos-Venezuela",
+      "tema_normalizado": "tension politica estados unidos-venezuela",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha intensificado la presión sobre Venezuela, incluyendo un despliegue militar significativo en el Caribe y la imposición de un ultimátum al presidente Nicolás Maduro para que deje el poder.\n• Esta escalada se da tras una conversación telefónica entre Donald Trump y Maduro, donde el presidente estadounidense exigió la salida inmediata de Maduro y su círculo cercano.\n• En paralelo, el gobierno de Argentina ha solicitado ante la Corte Penal Internacional la detención de Maduro y Diosdado Cabello por violaciones a los derechos humanos.\n\n🔍 **Datos clave:**\n• **Fecha de los hechos:** Fines de noviembre e inicios de diciembre de 2025.\n• **Personal militar desplegado por EEUU:** Aproximadamente 15.000 efectivos, más de una docena de buques de guerra y el portaaviones USS Gerald R. Ford.\n• **Víctimas de operaciones antidrogas:** 80 muertos, según cifras oficiales, por hundimiento de lanchas rápidas.\n• **Funcionarios de EEUU en reuniones:** Secretario de Defensa Pete Hegseth, Jefe del Estado Mayor Conjunto Dan Caine, Secretario de Estado Marco Rubio, Jefa de Gabinete Susie Wiles, Asesor de Seguridad Nacional Stephen Miller.\n• **Denuncia ante la CPI:** Gobierno de Argentina, a través del embajador Diego Sadofschi, solicita órdenes de arresto contra Nicolás Maduro y Diosdado Cabello.\n• **Elecciones \"fraudulentas\":** Julio de 2024 (mencionado en la denuncia de Argentina).\n\n⚡ **Desarrollo:**\n• La tensión se elevó con la orden de Donald Trump de considerar el espacio aéreo venezolano \"cerrado en su totalidad\".\n• Medios como The Wall Street Journal editorializaron a favor de derrocar a Maduro, argumentando que responde al interés nacional de EEUU.\n• Trump confirmó una llamada telefónica con Maduro, la cual no fue fructífera debido a la inflexible demanda de Washington para que Maduro y su familia abandonaran el país inmediatamente.\n• EEUU justifica su despliegue militar en el Caribe como parte de la lucha contra el narcotráfico, acusando a Maduro de liderar el \"Cartel de los Soles\", lo cual Caracas niega.\n• Maduro, por su parte, reapareció públicamente tras días de ausencia y solicitó auxilio político a la OPEP para detener lo que considera una \"agresión\" de EEUU.\n• La ONU y legisladores estadounidenses han expresado preocupación por las acciones militares de EEUU, advirtiendo sobre posibles ilegalidades y \"ejecuciones extrajudiciales\".\n• Venezuela acusó a EEUU de buscar \"derrocar al gobierno legítimo\" y apoderarse de sus vastas reservas de petróleo.\n• La denuncia de Argentina ante la CPI generó la réplica de Venezuela, que acusó a Argentina de ser un \"falso defensor\" de los derechos humanos.\n\n💡 **¿Por qué importa?**\n• La escalada de acciones y retórica entre EEUU y Venezuela, junto a la creciente presión internacional, aumenta el riesgo de un conflicto mayor con implicaciones para la estabilidad regional y el mercado energético global.\n• La situación pone de manifiesto el enfrentamiento por el control del poder en Venezuela y las acusaciones de violaciones a los derechos humanos, generando un debate sobre la intervención externa y la soberanía nacional.",
+      "cantidad_noticias": 6,
       "noticias": [
-        {
-          "titulo": "Donald Trump se reunió con el Consejo de Seguridad Nacional de Estados Unidos para definir la estrategia sobre Venezuela",
-          "link": "https://www.infobae.com/estados-unidos/2025/12/01/donald-trump-se-reune-con-el-consejo-de-seguridad-nacional-de-estados-unidos-para-definir-la-estrategia-sobre-venezuela/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-01 23:01:02"
-        },
         {
           "titulo": "En plena tensión con el régimen de Maduro, Trump se reunió con su equipo para analizar sus próximos pasos",
           "link": "https://www.lanacion.com.ar/estados-unidos/en-plena-tension-con-el-regimen-de-maduro-trump-se-reune-con-su-equipo-para-analizar-sus-proximos-nid01122025/",
@@ -449,9 +326,131 @@
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "La Nación",
-        "Minuto1",
         "Ámbito Financiero",
-        "Infobae"
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "imputaciones_y_denuncias_20251202",
+      "tema": "Imputaciones y denuncias Chiqui Tapia",
+      "tema_normalizado": "imputaciones y denuncias chiqui tapia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente de la AFA, Claudio \"Chiqui\" Tapia, enfrenta múltiples imputaciones y denuncias por presunta corrupción, lavado de dinero y opacidad en la gestión financiera del fútbol argentino.\n• Las investigaciones se centran en la relación de la AFA con la financiera Sur Finanzas, vinculada a Tapia, y en supuestas maniobras para ocultar dinero a través de terceros.\n• Este escenario ha desatado una pugna política entre el gobierno de Javier Milei y el poder de la AFA, que ha logrado frenar algunas de sus reformas clave.\n\n🔍 **Datos clave:**\n• **Sur Finanzas:** Financiera de Ariel Vallejo, clave en las investigaciones por sus vínculos con AFA y clubes.\n• **$300 millones:** Adelanto gestionado por AFA a San Lorenzo por derechos de televisación a través de Sur Finanzas el 8 de mayo.\n• **$1900 millones:** Monto total recibido por San Lorenzo de Sur Finanzas, incluyendo préstamos con intereses.\n• **19 allanamientos:** Ordenados por la Justicia, incluyendo la sede de Sur Finanzas en Adrogué y el club Banfield.\n• **Real Central SRL:** Empresa denunciada por Elisa Carrió, vinculada a dos supuestos testaferros, que adquirió una mansión de lujo tras una inyección de $58 millones.\n• **Pablo Toviggino:** Tesorero de la AFA, mencionado como figura relevante en el manejo de números y en denuncias.\n• **DNU 70:** Decreto de Milei que permitía las Sociedades Anónimas Deportivas (SAD), cuya aplicación en el fútbol fue suspendida por la AFA.\n\n⚡ **Desarrollo:**\n• El presidente Javier Milei ha enmarcado el conflicto como una \"querella de las investiduras\" contra el \"Estado dentro del Estado\" que representa Tapia, buscando desmantelar lo que considera una \"casta\" en el fútbol.\n• La DGI y la Justicia Federal investigan a Sur Finanzas por mover volúmenes de dinero que superan lo esperable del sector, sospechando de posibles operaciones de lavado de activos.\n• Se reveló que la AFA, bajo la gestión de Tapia, intermedió para que Sur Finanzas otorgara adelantos a clubes, como los $300 millones a San Lorenzo por derechos de televisión, sin una explicación clara de la financiera.\n• La Coalición Cívica, liderada por Elisa Carrió, denunció a una jubilada y un monotributista como presuntos testaferros de Tapia, por la compra de una mansión de alto valor a través de la empresa Real Central SRL.\n• El gobierno de Milei apunta a Tapia por su presunta conexión con el sindicalismo (Moyano) y su capacidad para frenar reformas clave como las SAD, lo que refuerza la batalla política.\n• Se ordenó el congelamiento de cuentas de Sur Finanzas y el levantamiento del secreto bancario de Vallejo, mientras se investigan transferencias sospechosas a numerosos clubes.\n\n💡 **¿Por qué importa?**\n• Las denuncias ponen en jaque la transparencia y la gestión financiera de la AFA, afectando la credibilidad del fútbol argentino y su impacto en la opinión pública.\n• El caso se ha convertido en un símbolo de la lucha del gobierno de Milei contra poderes establecidos y \"la casta\", con posibles consecuencias políticas y judiciales de gran alcance.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Milei vs. Tapia: la querella de las investiduras",
+          "link": "https://www.lanacion.com.ar/politica/milei-vs-tapia-la-querella-de-las-investiduras-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 03:04:35"
+        },
+        {
+          "titulo": "De la “ruta del dinero AFA” al destino de la Argentina mileísta",
+          "link": "https://www.lanacion.com.ar/politica/de-la-ruta-del-dinero-afa-al-destino-de-la-argentina-mileista-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 22:47:35"
+        },
+        {
+          "titulo": "La AFA gestionó un adelanto de $300 millones a San Lorenzo por derechos de televisación a través de la financiera ligada a Tapia",
+          "link": "https://www.lanacion.com.ar/politica/la-afa-gestiono-un-adelanto-de-300-millones-a-san-lorenzo-por-derechos-de-televisacion-a-traves-de-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 21:29:10"
+        },
+        {
+          "titulo": "Allanaron la sede central de la financiera ligada a “Chiqui” Tapia y el club Banfield",
+          "link": "https://www.lanacion.com.ar/politica/allanan-la-sede-central-de-la-financiera-ligada-al-chiqui-tapia-y-el-club-banfield-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 20:08:28"
+        },
+        {
+          "titulo": "Denuncian a dos supuestos testaferros de \"Chiqui\" Tapia y usan como prueba un durísimo tuit de Tevez",
+          "link": "https://www.iprofesional.com/politica/443093-denuncian-a-jubilada-y-monotributista-como-supuestos-testaferros-claudio-chiqui-tapia",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-01 17:59:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "La Nación",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "ataque_de_leona_20251202",
+      "tema": "Ataque de leona a joven Brasil",
+      "tema_normalizado": "ataque de leona a joven brasil",
+      "resumen": "📌 **¿Qué está pasando?**\n• Un joven de 19 años, Gerson de Melo Machado, falleció tras invadir el recinto de una leona en el Parque Zoobotánico Arruda Câmara (Bica) en João Pessoa, Brasil.\n• El incidente ocurrió un domingo reciente cuando el joven escaló el muro de seguridad para ingresar a la jaula del felino.\n• Las autoridades están investigando los motivos de su acción, que se relacionan con problemas de salud mental y un aparente deseo de acercarse a los animales.\n\n🔍 **Datos clave:**\n• **Víctima:** Gerson de Melo Machado, de 19 años, conocido como \"Vaqueirinho\".\n• **Lugar:** Parque Zoobotánico Arruda Câmara (Bica), en João Pessoa, Paraíba, Brasil.\n• **Muro de seguridad:** Aproximadamente 6 metros de altura, con una reja adicional de 1.5 metros.\n• **Diagnóstico judicial:** Declarado inimputable por esquizofrenia en un fallo del 30 de octubre.\n• **Estado de la leona:** Se encuentra bien, bajo observación y no será sacrificada, según la administración del parque.\n\n⚡ **Desarrollo:**\n• Gerson de Melo Machado padecía esquizofrenia y tenía un historial de vulnerabilidad y falta de tratamiento adecuado, a pesar de los esfuerzos de su consejera tutelar, Verónica Oliveira.\n• Un juez había ordenado su internación, pero fue derivado a un centro ambulatorio, permitiéndole libertad de circulación.\n• El joven, que soñaba con \"domar leones\", escaló el muro del recinto y descendió por una palmera, ignorando las advertencias de los visitantes y empleados del zoológico.\n• La leona lo atacó en el momento de su ingreso, causándole heridas fatales. El personal del parque activó los protocolos de emergencia y logró controlar al animal sin usar fuerza letal.\n• La leona, que experimentó un alto nivel de estrés, está siendo monitoreada por veterinarios para garantizar su bienestar y no presenta un comportamiento agresivo fuera del contexto del incidente.\n• El Parque Zoobotánico Arruda Câmara fue cerrado temporalmente tras el ataque, y la Secretaría de Medio Ambiente de Brasil inició una investigación para esclarecer las circunstancias.\n\n💡 **¿Por qué importa?**\n• Este trágico evento pone de manifiesto las serias deficiencias en el sistema de atención y contención para personas con problemas de salud mental severos en Brasil, a pesar de los diagnósticos y las advertencias.\n• Además, refuerza la importancia de las medidas de seguridad en zoológicos y la necesidad de protocolos claros para la protección tanto de los visitantes como de los animales en situaciones de emergencia.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Un trágico sueño: qué impulsó a un joven a entrar a la jaula de una leona en Brasil",
+          "link": "https://www.lanacion.com.ar/el-mundo/un-tragico-sueno-que-impulso-a-un-joven-a-entrar-a-la-jaula-de-una-leona-en-brasil-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 22:38:00"
+        },
+        {
+          "titulo": "Qué pasará con la leona que atacó a un joven de 19 años y lo mató",
+          "link": "https://www.lanacion.com.ar/el-mundo/que-pasara-con-la-leona-que-ataco-a-un-joven-de-19-anos-y-lo-mato-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 20:24:58"
+        },
+        {
+          "titulo": "Video impactante: el momento en que una leona atacó a un joven de 19 años y lo mató",
+          "link": "https://www.lanacion.com.ar/el-mundo/video-impactante-el-momento-en-que-una-leona-ataco-a-un-joven-de-19-anos-y-lo-mato-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-01 20:24:37"
+        },
+        {
+          "titulo": "Quién era el el joven que murió tras ser atacado por una leona en un zoo de Brasil",
+          "link": "https://www.minutouno.com/mundo/quien-era-el-el-joven-que-murio-ser-atacado-una-leona-un-zoo-brasil-n6219699",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-01 19:19:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "hijo_de_chapo_20251202",
+      "tema": "Hijo de El Chapo culpable",
+      "tema_normalizado": "hijo de chapo culpable",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Joaquín Guzmán López, uno de los hijos del narcotraficante Joaquín “El Chapo” Guzmán, se declaró culpable de múltiples cargos de narcotráfico, lavado de dinero y uso de armas ante un tribunal federal en Chicago.\n*   Como parte de su acuerdo de culpabilidad, \"El Güero\" se comprometió a entregar 80 millones de dólares a las autoridades estadounidenses.\n*   Esta declaración se produce meses después de que su hermano Ovidio Guzmán López también llegara a un acuerdo judicial similar.\n\n🔍 **Datos clave:**\n*   **Acuerdo económico:** 80 millones de dólares.\n*   **Fecha de entrega a EEUU:** 25 de julio de 2024 (para Joaquín Guzmán López y, simultáneamente, Ismael \"el Mayo\" Zambada).\n*   **Drogas admitidas:** Operación de más de 90,000 kg de marihuana, 450 kg de cocaína, 90 kg de heroína, 45 kg de metanfetamina y 36 kg de fentanilo.\n*   **Edad de Guzmán López:** 39 años al momento de su detención.\n*   **Vidas perdidas por fentanilo en EEUU:** Decenas de miles anualmente.\n\n⚡ **Desarrollo:**\n*   Guzmán López, descrito como \"principal administrador y organizador\" de la facción \"Los Chapitos\" del Cártel de Sinaloa, inicialmente se declaró no culpable tras su detención en Texas en julio de 2024.\n*   Confesó haber coordinado el transporte de toneladas de drogas desde Sudamérica y México hacia Estados Unidos, utilizando infraestructuras sofisticadas como túneles fronterizos, aviones privados, barcos y semisumergibles.\n*   Admitió supervisar operaciones logísticas, protección armada y la gestión de redes de lavado de dinero con transferencias internacionales y movimientos de grandes cantidades de efectivo.\n*   El hijo de \"El Chapo\" reveló haber engañado y secuestrado a Ismael \"el Mayo\" Zambada, cofundador del cartel, para entregarlo a las autoridades estadounidenses con la esperanza de obtener una pena inferior a la cadena perpetua obligatoria.\n*   La entrega de Zambada y Guzmán López ha desatado una violenta disputa por el control del Cártel de Sinaloa, resultando en al menos 1,200 muertos y 1,400 desaparecidos en México.\n*   Los \"Chapitos\" (Joaquín, Iván Archivaldo, Ovidio y Jesús Alfredo) son acusados de retomar las operaciones del Cártel de Sinaloa tras la condena a cadena perpetua de su padre en 2019.\n\n💡 **¿Por qué importa?**\n*   La declaración de culpabilidad de otro de los hijos de \"El Chapo\" y la entrega de \"El Mayo\" Zambada representan golpes significativos a la cúpula del Cártel de Sinaloa, debilitando su estructura y capacidad operativa.\n*   Este evento subraya la continua y compleja lucha transnacional contra el narcotráfico, particularmente la distribución de fentanilo, y sus graves repercusiones en la seguridad y la violencia tanto en México como en Estados Unidos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Hijo de ‘El Chapo’ entregará 80 mdd como parte de su acuerdo con EEUU",
+          "link": "https://www.infobae.com/mexico/2025/12/02/hijo-de-el-chapo-entregara-80-mdd-como-parte-de-su-acuerdo-con-eeuu/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 03:06:14"
+        },
+        {
+          "titulo": "Joaquín Guzmán, uno de los hijos del \"Chapo\", se declaró culpable de narcotráfico en Estados Unidos",
+          "link": "https://www.clarin.com/mundo/joaquin-guzman-hijos-chapo-declaro-culpable-narcotrafico-estados-unidos_0_6dTxAsZW4D.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-01 19:21:29"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Infobae",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
