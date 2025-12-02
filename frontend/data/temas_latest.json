@@ -1,279 +1,90 @@
 {
   "fecha": "2025-12-02",
-  "fecha_generacion": "2025-12-02T12:33:22.449349",
-  "total_temas": 8,
+  "fecha_generacion": "2025-12-02T15:22:56.288913",
+  "total_temas": 10,
   "temas": [
     {
-      "tema_id": "cotizacion_divisas_diciembre_20251202",
-      "tema": "Cotización Divisas Diciembre Argentina",
-      "tema_normalizado": "cotizacion divisas diciembre argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial en Argentina comenzó diciembre mostrando estabilidad, conocida como \"pax cambiaria\", con las brechas respecto a los dólares paralelos en mínimos de un mes.\n• Los dólares financieros, como el MEP y el Contado con Liquidación (CCL), experimentaron retrocesos, mientras que el dólar blue registró una leve suba en la jornada del martes.\n\n🔍 **Datos clave:**\n• **Fecha de cotización:** Martes 2 de diciembre.\n• **Dólar Oficial (minorista Banco Nación):** $1.475 para la venta.\n• **Dólar Oficial (mayorista):** $1.451,50.\n• **Dólar Blue:** Compra $1.425 / Venta $1.445.\n• **Dólar MEP:** Compra $1.473,70 / Venta $1.482,90.\n• **Dólar CCL:** $1.494,80, con una brecha del 3% respecto al oficial.\n• **Dólar Tarjeta:** $1.515,20, incluye un 60% de impuestos (30% Impuesto País + 30% Ganancias).\n• **Dólar Cripto:** Compra $1.494,58 / Venta $1.512,97.\n• **Euro Blue:** Compra $1.723,75 / Venta $1.755,75.\n• **Reservas Netas BCRA (estimación FMI):** USD 17.000 millones negativos para fin de año.\n• **Riesgo País:** 648 puntos básicos.\n\n⚡ **Desarrollo:**\n• La calma en el dólar oficial se refleja en un avance de solo 0,5% ($6,5) del tipo de cambio mayorista durante noviembre, un marcado contraste con el salto del 5% registrado en octubre.\n• Esta estabilidad se explica por factores como la recompra de divisas por parte del Tesoro en el Mercado Libre de Cambios y una menor demanda de cobertura o dolarización.\n• La Comisión Nacional de Valores (CNV) contribuyó a aliviar la presión al permitir excepciones al tope diario de $200 millones para no residentes en operaciones de CCL.\n• El Dólar MEP o \"Dólar Bolsa\" es una vía legal para comprar dólares mediante la compra y venta de bonos en pesos y dólares en el mercado local.\n• El Dólar CCL o \"Contado con Liquidación\" es utilizado para cambiar pesos por dólares en el exterior, a menudo por empresas e inversionistas.\n• A pesar de la tranquilidad transitoria en el mercado cambiario, la preocupación principal de los analistas sigue siendo el crítico estado de las reservas netas del Banco Central.\n\n💡 **¿Por qué importa?**\n• La \"pax cambiaria\" y la reducción de las brechas entre los diferentes tipos de dólar ofrecen una importante dosis de previsibilidad económica al inicio de diciembre.\n• Sin embargo, la situación deficitaria de las reservas del BCRA es un talón de Aquiles que requiere medidas urgentes para su acumulación, siendo clave para la estabilidad financiera a largo plazo del país.",
-      "cantidad_noticias": 16,
+      "tema_id": "mercado_cambiario_argentino:_20251202",
+      "tema": "Mercado cambiario argentino: cotizaciones y previsiones",
+      "tema_normalizado": "mercado cambiario argentino: cotizaciones y previsiones",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial alcanzó máximos en un mes, aunque los dólares financieros (MEP y CCL) registraron leves caídas, mientras que el dólar blue subió.\n• A pesar de una percibida \"pax cambiaria\" inicial en diciembre, el mercado mantiene la atención en la crítica situación de las reservas del Banco Central.\n• Expertos advierten sobre un dólar oficial cercano al techo de su banda, reservas insuficientes y tasas de interés elevadas, lo que genera incertidumbre para el fin de año.\n\n🔍 **Datos clave:**\n• **Fecha:** Martes 2 de diciembre de 2025.\n• **Dólar Oficial (venta BNA):** $1.475.\n• **Dólar Blue (venta):** $1.445.\n• **Dólar MEP (venta):** $1.473,81.\n• **Dólar CCL (venta):** $1.490,70.\n• **Brecha MEP/Oficial:** Cae debajo del 2% (1,4%).\n• **Brecha CCL/Oficial:** 2,8%.\n• **Dólar Tarjeta:** $1.917,50 (oficial más recargo del 30%).\n• **Dólar Cripto:** $1.510,74.\n• **Reservas netas BCRA (estimado FMI):** US$17.000 millones negativas.\n• **Riesgo País:** Se mantiene por encima de los 600 puntos básicos.\n• **Pago Bopreal (BCRA):** US$1.012,50 millones (primera cuota de amortización).\n• **Liquidación exportaciones (Nov):** US$760 millones (caída del 62% interanual).\n• **Inversión más rentable (Nov):** Oro, con un avance del 5% en pesos.\n• **Inflación (Nov estimada C&T):** 2,4%.\n• **Crítica de Domingo Cavallo:** Adverte por \"peso inconvertible sobrevaluado\" y \"tasas reales elevadas\".\n\n⚡ **Desarrollo:**\n• El dólar oficial mayorista subió $3,5, alcanzando su valor más alto en un mes y cortando la relativa calma de noviembre.\n• Los dólares financieros como el MEP y CCL cayeron, mientras el dólar blue tuvo su primera suba en cuatro jornadas, mostrando movimientos mixtos en los mercados paralelos.\n• La principal preocupación radica en las reservas netas del BCRA, estimadas en cifras fuertemente negativas, lo que limita la capacidad del Gobierno para acumular divisas y estabilizar el tipo de cambio.\n• El Banco Central realizó el pago de la primera cuota de los bonos Bopreal por US$1.012,50 millones a importadores, aunque las reservas brutas aumentaron por otros movimientos internos.\n• La liquidación de exportaciones del sector agropecuario en noviembre fue significativamente menor que el año anterior (62% interanual), lo que reduce la oferta de divisas.\n• Analistas y exfuncionarios como Domingo Cavallo critican la combinación de un peso sobrevaluado y tasas de interés altas, alertando sobre sus efectos negativos en la economía.\n• Diciembre se perfila como un mes clave debido a los vencimientos con el FMI, el impacto de los aguinaldos en la demanda de pesos y la posible presión sobre el tipo de cambio.\n• El oro se posicionó como la inversión más rentable en noviembre, superando al dólar en todas sus variantes y a los plazos fijos.\n\n💡 **¿Por qué importa?**\n• La fragilidad del mercado cambiario, con un dólar oficial cerca de su límite y reservas críticas, genera incertidumbre económica a corto plazo.\n• La falta de acumulación de reservas y las críticas sobre el manejo cambiario pueden impactar en la confianza del mercado y en la estabilidad de precios para el cierre de año y principios del próximo.",
+      "cantidad_noticias": 11,
       "noticias": [
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-2-diciembre-n6219781",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 09:14:00"
-        },
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 2 de diciembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-2-de-diciembre-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 08:57:13"
-        },
-        {
-          "titulo": "El dólar oficial extiende la calma y las brechas tocan mínimos de un mes: qué factores mira el mercado",
-          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-las-brechas-tocan-minimos-un-mes-que-factores-mira-el-mercado-n6219785",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 08:46:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 2 de diciembre, minuto a minuto",
-          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-2-diciembre-minuto-minuto_0_WVULkefDEh.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:28:55"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 02 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-02-diciembre_0_CTenAGHDPw.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:08:01"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 02 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-02-diciembre_0_sjfYUY4x3r.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:08:00"
-        },
-        {
-          "titulo": "Dólar cripto hoy: a cuánto cotiza este martes 02 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-martes-02-diciembre_0_4sSy4AwsjX.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:05:02"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este martes 02 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-martes-02-diciembre_0_BS1vvHxzyO.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:05:01"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este martes 02 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-02-diciembre_0_jzY9m21IgK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 04:00:01"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-2-diciembre-n6219716",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 00:00:00"
+          "fecha": "2025-12-02 12:08:23"
         },
         {
           "titulo": "Dólar hoy: a cuánto cotiza este martes 2 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-2-diciembre-n6219714",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 00:00:00"
+          "fecha": "2025-12-02 11:49:00"
+        },
+        {
+          "titulo": "El dólar oficial toca máximos en un mes y la brecha con el MEP cae debajo del 2%",
+          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-las-brechas-tocan-minimos-un-mes-que-factores-mira-el-mercado-n6219785",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 11:40:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 2 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-2-diciembre-n6219781",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 11:26:00"
+        },
+        {
+          "titulo": "El dato que nadie esperaba: por qué el dólar podría volver a chocar contra el techo de la banda",
+          "link": "https://www.iprofesional.com/finanzas/443143-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 11:15:00"
+        },
+        {
+          "titulo": "Dólar y deuda: el Banco Central pagó US$1012,5 millones por un Bopreal, pero sus reservas subieron",
+          "link": "https://www.lanacion.com.ar/economia/dolar-y-deuda-el-bcra-pago-us10125-millones-por-un-bopreal-pero-sus-reservas-subieron-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:00:41"
+        },
+        {
+          "titulo": "El dólar se hundió en el ranking de las mejores inversiones: así quedó el sorpresivo podio",
+          "link": "https://www.iprofesional.com/finanzas/443088-ranking-ahorrista-esta-es-la-sorpresiva-inversion-mas-ganadora-del-ano-y-no-es-el-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 11:00:00"
+        },
+        {
+          "titulo": "Domingo Cavallo volvió a criticar a Javier Milei por el atraso cambiario y las tasas altas",
+          "link": "https://www.clarin.com/economia/domingo-cavallo-volvio-criticar-javier-milei-atraso-cambiario-tasas-altas_0_IgCc3Th1jB.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 10:56:25"
         },
         {
           "titulo": "Dólar blue hoy: a cuánto opera este martes 2 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-2-diciembre-n6219713",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 00:00:00"
+          "fecha": "2025-12-02 10:47:00"
         },
         {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este martes 2 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-martes-2-diciembre-n6219704",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este martes 2 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-martes-2-de-diciembre-de-2025.phtml",
+          "titulo": "Qué se espera del dólar en diciembre de 2025: Fin de año con aguinaldo y mayor demanda de pesos",
+          "link": "https://www.perfil.com/noticias/economia/que-se-espera-del-dolar-en-diciembre-2025-fin-de-ano-con-aguinaldo-y-mayor-demanda-de-pesos.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-01 19:35:09"
+          "fecha": "2025-12-02 10:20:00"
         },
         {
-          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este martes 2 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-martes-2-de-diciembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 19:27:40"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 1 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-1-diciembre-n6219376",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 19:07:00"
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este martes 02 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-martes-02-diciembre_0_2y9JzzIQwH.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 09:00:01"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Perfil",
         "Ámbito Financiero",
-        "Minuto1",
-        "La Nación",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "pagos_anses_y_20251202",
-      "tema": "Pagos ANSES y Aguinaldo Diciembre",
-      "tema_normalizado": "pagos anses y aguinaldo diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Administración Nacional de la Seguridad Social (ANSES) está realizando los pagos correspondientes a diciembre de 2025.\n• Estos incluyen aumentos, bonos y la segunda cuota del aguinaldo para millones de beneficiarios.\n• El calendario de cobros fue ajustado y adelantado en algunos casos debido al feriado del 8 de diciembre.\n\n🔍 **Datos clave:**\n• **Aumento ANSES:** 2,34% para jubilaciones, AUH, SUAF, PUAM, PNC y otras prestaciones.\n• **Bono Extraordinario:** $70.000 para jubilados, pensionados con haber mínimo, PUAM y PNC.\n• **Aguinaldo (SAC):** Corresponde al 50% del mejor sueldo mensual del segundo semestre (julio-diciembre).\n• **Fecha Límite Aguinaldo (trabajadores):** Hasta el 18 de diciembre de 2025, con extensión hasta el 24 de diciembre.\n• **Jubilación Mínima (total con bono y aguinaldo):** $581.319,38 en diciembre de 2025.\n• **Asignación Universal por Hijo (AUH):** $97.993,42 (monto base) en diciembre de 2025.\n• **Pensión Universal para el Adulto Mayor (PUAM - total):** $479.055,5 en diciembre de 2025.\n• **Pensiones No Contributivas (PNC - total):** $427.923,56 en diciembre de 2025.\n• **Programas Volver al Trabajo y Acompañamiento Social (ex-Potenciar Trabajo):** $78.000, a cobrar el 5 de diciembre de 2025.\n• **Tarjeta Alimentar:** Sus montos se mantienen sin cambios, entre $52.250 y $108.062 según grupo familiar.\n\n⚡ **Desarrollo:**\n• Las jubilaciones, pensiones, AUH, SUAF, PUAM y PNC reciben un incremento del 2,34% en diciembre de 2025, basado en la inflación de octubre.\n• Se mantiene un bono extraordinario de $70.000 para reforzar los haberes de jubilados y pensionados con ingresos mínimos, PUAM y PNC.\n• El aguinaldo o Sueldo Anual Complementario (SAC) se paga a trabajadores en relación de dependencia, jubilados y pensionados; no aplica para AUH, AUE ni SUAF.\n• El calendario de pagos de ANSES se reprogramó para asegurar que los beneficiarios cobren antes del fin de semana largo por el feriado del 8 de diciembre.\n• Para el cálculo del aguinaldo, se toma el 50% del salario más alto percibido entre julio y diciembre. Si no se trabajó el semestre completo, se calcula proporcionalmente.\n• Otros sectores como niñeras, empleados bancarios y de comercio también perciben aumentos salariales y su aguinaldo en diciembre de 2025.\n• PAMI continúa ofreciendo cobertura del 100% en medicamentos para jubilados que cumplen ciertos requisitos socioeconómicos.\n\n💡 **¿Por qué importa?**\n• Estos pagos son fundamentales para la economía de millones de hogares, brindando ingresos actualizados y un complemento esencial para los gastos de fin de año.\n• La claridad en las fechas y montos permite a los beneficiarios planificar mejor sus finanzas en un mes de alta demanda económica.",
-      "cantidad_noticias": 23,
-      "noticias": [
-        {
-          "titulo": "ANSES: calendario completo de pagos de diciembre para jubilados, AUH, asignaciones con bono y aguinado",
-          "link": "https://www.minutouno.com/economia/anses-calendario-completo-pagos-diciembre-jubilados-auh-asignaciones-bono-y-aguinado-n6219793",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 08:38:26"
-        },
-        {
-          "titulo": "PAMI mantiene la cobertura del 100% en medicamentos para jubilados",
-          "link": "https://www.perfil.com/noticias/economia/pami-mantiene-la-cobertura-del-100-en-medicamentos-para-jubilados.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 07:46:00"
-        },
-        {
-          "titulo": "ANSES adelanta el calendario de pagos de diciembre: cómo quedan las fechas para jubilados, pensionados, AUH y SUAF",
-          "link": "https://www.perfil.com/noticias/economia/anses-adelanta-el-calendario-de-pagos-de-diciembre-como-quedan-las-fechas-para-jubilados-pensionados-auh-y-suaf.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 07:31:00"
-        },
-        {
-          "titulo": "Cuánto cobran las niñeras en diciembre 2025 con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-en-diciembre-2025-con-el-aguinaldo-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:37"
-        },
-        {
-          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:34"
-        },
-        {
-          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:32"
-        },
-        {
-          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:29"
-        },
-        {
-          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
-          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:27"
-        },
-        {
-          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:23"
-        },
-        {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:21"
-        },
-        {
-          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:19"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:14"
-        },
-        {
-          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:11"
-        },
-        {
-          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:09"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:06"
-        },
-        {
-          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:28:00"
-        },
-        {
-          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:27:58"
-        },
-        {
-          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:26:50"
-        },
-        {
-          "titulo": "Calculadora de aguinaldo 2025: cómo saber cuánto voy a cobrar en diciembre",
-          "link": "https://www.lanacion.com.ar/economia/calculadora-de-aguinaldo-2025-como-saber-cuanto-voy-a-cobrar-en-diciembre-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:26:49"
-        },
-        {
-          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:26:38"
-        },
-        {
-          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 07:26:33"
-        },
-        {
-          "titulo": "Cómo quedaron los salarios de diciembre para el personal de McDonald’s, Burger King o Starbucks.",
-          "link": "https://www.iprofesional.com/economia/443118-cuanto-gana-un-trabajador-de-mcdonalds-burger-king-o-starbucks-en-diciembre-2025",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 07:20:00"
-        },
-        {
-          "titulo": "ANSES: quiénes son los beneficiarios que podrán acceder al aguinaldo en diciembre",
-          "link": "https://www.minutouno.com/economia/anses-quienes-son-los-beneficiarios-que-podran-acceder-al-aguinaldo-diciembre-n6219339",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 06:55:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "La Nación",
         "Perfil",
         "iProfesional",
-        "Minuto1"
+        "Clarín",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -281,74 +92,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "reforma_laboral_y_20251202",
-      "tema": "Reforma Laboral y Gabinete Milei",
-      "tema_normalizado": "reforma laboral y gabinete milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei impulsa una reforma laboral con cambios profundos en las leyes y la vida diaria de los trabajadores.\n• Paralelamente, se oficializó la salida de Patricia Bullrich del Ministerio de Seguridad, con Alejandra Monteoliva asumiendo en su lugar.\n\n🔍 **Datos clave:**\n• **Decreto 851/2025:** Formalizó la renuncia de Bullrich y la asunción de Monteoliva.\n• **55%:** Porcentaje de encuestados a favor de modificar las leyes laborales (encuesta Zentrix).\n• **7 de cada 10:** Apoyan que la cuota sindical sea voluntaria.\n• **Patricia Bullrich:** Ex-Ministra de Seguridad, ahora senadora por LLA.\n• **Alejandra Monteoliva:** Nueva Ministra de Seguridad Nacional.\n• **Oscar Silvero (FAE):** Presidente de la Federación Argentina de Empleo, promueve modernización laboral.\n• **Jorge Sola (CGT):** Crítica la falta de información sobre el proyecto de reforma laboral.\n\n⚡ **Desarrollo:**\n• La reforma laboral propone \"salarios dinámicos\" vinculados al rendimiento empresarial, \"banco de horas\" para flexibilizar jornadas, y vacaciones fraccionadas.\n• Estos cambios generarían incertidumbre económica familiar, dificultando la conciliación entre vida laboral y personal.\n• Una encuesta reciente mostró apoyo general (55%) a modificar leyes laborales, pero con resistencia a acuerdos por empresa y demanda de cuota sindical voluntaria.\n• La CGT, a través de Jorge Sola, cuestiona la falta de un borrador oficial y la ausencia de diálogo, alertando sobre el posible debilitamiento de los trabajadores.\n• Oscar Silvero (FAE) apoya la \"modernización permanente\" del marco laboral para facilitar la inserción de vulnerables y generar previsibilidad.\n• Patricia Bullrich dejó el Ministerio de Seguridad para asumir como senadora, siendo reemplazada por Alejandra Monteoliva, quien se compromete a mantener su doctrina de seguridad.\n• Antes de su salida, Bullrich firmó un acuerdo con EE. UU. para que Argentina participe en la \"El Dorado Task Force\" contra el lavado de dinero.\n• El Gobierno también anunció el envío al Congreso de una reforma del Código Penal para agravar penas por delitos de corrupción.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca modificar sustancialmente el mercado de trabajo argentino, con consecuencias directas para empleados y empleadores.\n• Los cambios en el Gabinete y las políticas en seguridad y anticorrupción definen la agenda de la gestión de Milei.",
-      "cantidad_noticias": 9,
+      "tema_id": "causa_financista_chiqui_20251202",
+      "tema": "Causa financista Chiqui Tapia: allanamientos y declaración",
+      "tema_normalizado": "causa financista chiqui tapia: allanamientos y declaracion",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina investiga una causa por presunto lavado de dinero y evasión de impuestos que involucra al financista Ariel Vallejo, cercano a Claudio \"Chiqui\" Tapia.\n• En el marco de esta investigación, se realizaron allanamientos y Vallejo entregó su teléfono celular a la Justicia.\n• En paralelo, \"Chiqui\" Tapia declaró ante la Justicia sus ingresos anuales, que superan los $800 millones, pero afirmó no poseer ahorros.\n\n🔍 **Datos clave:**\n• **Chiqui Tapia:** Presidente de AFA, declaró ingresos netos anuales de más de $818 millones.\n• **Ariel Vallejo:** Financista, dueño de Sur Finanzas, investigado por lavado y evasión de impuestos.\n• **Juez Luis Armella:** Juez federal de Lomas de Zamora, a cargo de la causa e instructor de los allanamientos.\n• **19 allanamientos:** Número total de operativos realizados en la investigación.\n• **$60 millones/mes:** Ingresos de Tapia por Conmebol, su principal empleador declarado.\n\n⚡ **Desarrollo:**\n• La investigación contra Ariel Vallejo, dueño de Sur Finanzas, se inició con 19 allanamientos, incluyendo la sede principal de su financiera en Adrogué y 11 domicilios vinculados a él.\n• Tras los operativos, Vallejo se presentó ante el juzgado federal 2 de Lomas de Zamora y entregó su teléfono celular y el de su madre, Graciela Vallejo, con sus respectivas claves de acceso.\n• El juez Armella también ordenó el congelamiento de todas las cuentas de Sur Finanzas y el levantamiento del secreto bancario y fiscal de Vallejo.\n• En paralelo, Claudio \"Chiqui\" Tapia presentó una declaración jurada en julio pasado informando sus ingresos netos anuales de más de $818 millones.\n• Tapia declaró no cobrar sueldo por su rol de presidente de AFA. Sus ingresos provienen de su cargo de vicepresidente segundo de Conmebol y de presidente de Ceamse.\n• Mencionó dedicar solo 120 minutos semanales a Conmebol y 15 horas semanales a Ceamse, donde es presidente desde enero.\n• La declaración de Tapia también reveló que figura como empleado de Solbayres en Anses, una empresa de recolección de residuos, situándolo en ambos lados del negocio de la basura.\n• A pesar de sus altos ingresos anuales, Tapia afirmó no tener ahorros en su declaración jurada.\n\n💡 **¿Por qué importa?**\n• La causa expone una investigación sobre presunto lavado de dinero y evasión fiscal que afecta a un financista con conexiones importantes en el ámbito deportivo argentino.\n• Las declaraciones de bienes e ingresos de \"Chiqui\" Tapia, y la falta de ahorros, generan interrogantes sobre su patrimonio y sus múltiples roles públicos y privados.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid02122025/",
+          "titulo": "Ariel Vallejo, el financista cercano a Tapia, entregó su teléfono a la Justicia luego de los allanamientos",
+          "link": "https://www.lanacion.com.ar/politica/ariel-vallejo-el-financista-cercano-a-tapia-entrego-su-telefono-a-la-justicia-luego-de-los-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-02 09:00:00"
+          "fecha": "2025-12-02 12:07:01"
         },
         {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: Diego Santilli recibe al embajador de Trump en Argentina y jura la nueva ministra de Seguridad",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-diego-santilli-recibe-embajador-trump-argentina-jura-nueva-ministra-seguridad_0_fWeQuT2f6W.html",
+          "titulo": "Chiqui Tapia declaró que gana más de $800 millones al año, pero que no tiene ahorros",
+          "link": "https://www.lanacion.com.ar/politica/chiqui-tapia-declaro-que-gana-mas-de-800-millones-al-ano-pero-que-no-tiene-ahorros-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:49:50"
+        },
+        {
+          "titulo": "Después de los allanamientos, el financista cercano al \"Chiqui\" Tapia entregó su celular a la Justicia",
+          "link": "https://www.clarin.com/politica/despues-allanamientos-financista-cerca-chiqui-tapia-entrego-celular-justicia_0_Zd3PnZRAWR.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 08:36:18"
-        },
-        {
-          "titulo": "Oficializaron salida de Patricia Bullrich del Ministerio de Seguridad y la designación de Alejandra Monteoliva",
-          "link": "https://www.ambito.com/politica/oficializaron-salida-patricia-bullrich-del-ministerio-seguridad-y-la-designacion-alejandra-monteoliva-n6219773",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 07:07:00"
-        },
-        {
-          "titulo": "Reveladora encuesta sobre reforma laboral: sorpresa para Milei y luces rojas para los sindicatos",
-          "link": "https://www.iprofesional.com/politica/443108-reforma-laboral-reveladora-encuesta-sorpresa-para-javier-milei-luces-rojas-para-gremios",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 07:00:00"
-        },
-        {
-          "titulo": "La reforma laboral producirá cambios profundos en la vida diaria del trabajador",
-          "link": "https://www.iprofesional.com/impuestos/443121-reforma-laboral-cambios-vida-diaria-trabajadores",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 06:17:00"
-        },
-        {
-          "titulo": "El Gobierno oficializó la salida de Patricia Bullrich y la designación de Alejandra Monteoliva como ministra de Seguridad Nacional",
-          "link": "https://www.clarin.com/politica/gobierno-oficializo-salida-patricia-bullrich-designacion-alejandra-monteoliva-ministra-seguridad-nacional_0_Jf2JmSxLse.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 01:34:58"
-        },
-        {
-          "titulo": "Oscar Silvero: \"El despido no puede ser una caja de Pandora que funda una pyme de un día para el otro\"",
-          "link": "https://www.ambito.com/politica/oscar-silvero-el-despido-no-puede-ser-una-caja-pandora-que-funda-una-pyme-un-dia-el-otro-n6219694",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 00:00:00"
-        },
-        {
-          "titulo": "Reforma laboral: la CGT cuestionó la falta de información y puso en duda que el proyecto esté redactado",
-          "link": "https://www.ambito.com/politica/reforma-laboral-la-cgt-cuestiono-la-falta-informacion-y-puso-duda-que-el-proyecto-este-redactado-n6219740",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 21:43:00"
-        },
-        {
-          "titulo": "En sus últimas horas en Seguridad, Patricia Bullrich firmó acuerdo con EEUU para investigar a organizaciones criminales",
-          "link": "https://www.ambito.com/politica/en-sus-ultimas-horas-seguridad-patricia-bullrich-firmo-acuerdo-eeuu-investigar-organizaciones-criminales-n6219719",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 20:32:00"
+          "fecha": "2025-12-02 11:32:46"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "La Nación",
-        "iProfesional",
-        "Ámbito Financiero",
-        "Clarín"
+        "Clarín",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -356,56 +129,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causas_corrupcion_argentina_20251202",
-      "tema": "Causas Corrupción Argentina",
-      "tema_normalizado": "causas corrupcion argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• La justicia argentina investiga múltiples escándalos de corrupción en distintos organismos del Estado.\n• Estos casos revelan complejos esquemas de desvío de fondos públicos, cobro de sobornos y lavado de dinero.\n• Involucran a exfuncionarios de alto rango, empresarios del sector público y privado, y estructuras financieras opacas.\n\n🔍 **Datos clave:**\n• **Causa Cuadernos**: Esquema de \"retornos\" del 3% al 5% en obra pública, involucra a 51 empresarios y exfuncionarios.\n• **Causa GNL**: Condenas a Julio De Vido (4 años) y Roberto Baratta (3 años y 6 meses), este último debe devolver casi $5 millones.\n• **Causa Sur Finanzas**: Monotributistas movieron $120.000 millones, DGI denunció maniobra de lavado por $818.000 millones.\n• **Causa ANDIS**: Investigación por coimas y sobreprecios en la compra de medicamentos.\n• **Causa VTV PBA**: Empresas desviaron más de $4.900 millones, con una intermediaria que cobraba entre 3% y 8.5% del costo.\n\n⚡ **Desarrollo:**\n• **Falta de transparencia y controles:** Facilita la manipulación de licitaciones y contrataciones públicas, direccionando obras o servicios a empresas preseleccionadas a cambio de pagos ilegales (ej. Cuadernos, VTV).\n• **Búsqueda de enriquecimiento ilícito:** Se manifiesta en la exigencia de \"retornos\" o sobornos a cambio de adjudicaciones, y la fijación de sobreprecios en compras estatales, como en la ANDIS y GNL.\n• **Estructuras organizadas de corrupción:** La existencia de asociaciones ilícitas con roles definidos (recaudadores, facilitadores) permite la operación sistemática y coordinada de los desvíos de fondos (ej. Baratta en Cuadernos y GNL).\n• **Uso de \"pantallas\" y redes financieras opacas:** Se recurre a la interposición de personas (monotributistas), empresas fantasmas o intermediarios para ocultar el origen y destino de los fondos ilícitos y a los verdaderos beneficiarios (ej. Sur Finanzas, VTV).\n• **Abuso de poder y discrecionalidad política:** Funcionarios utilizan su posición para dictar normas, influir en negociaciones o descalificar competidores, favoreciendo intereses privados sobre los públicos.\n• **Cultura de impunidad y obediencia indebida:** La defensa de \"cumplir órdenes\" o el desconocimiento de la ilegalidad de las acciones, como se vio en la ANDIS, sugiere una laxitud ética en la administración pública.\n\n💡 **¿Por qué importa?**\n• Estos casos demuestran la existencia de corrupción sistémica en Argentina, afectando la eficiencia y credibilidad del Estado en diversas áreas.\n• El desvío de estos recursos públicos impacta directamente en la provisión de servicios esenciales, como salud, energía y transporte, perjudicando a toda la ciudadanía.",
-      "cantidad_noticias": 6,
+      "tema_id": "elecciones_honduras_2025:_20251202",
+      "tema": "Elecciones Honduras 2025: resultados e incertidumbre",
+      "tema_normalizado": "elecciones honduras 2025: resultados e incertidumbre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las recientes elecciones presidenciales en Honduras generaron una profunda incertidumbre tras la suspensión del conteo preliminar de votos por parte del Consejo Nacional Electoral (CNE).\n• La situación se debió a un declarado \"empate técnico\" entre los principales candidatos, Nasry Asfura y Salvador Nasralla, con una diferencia mínima de votos.\n• El escrutinio se detuvo al 57% de las actas procesadas, dejando el resultado final en suspenso y alimentando la tensión política.\n\n🔍 **Datos clave:**\n• **Nasry Asfura:** 39.91% de los votos (Partido Nacional).\n• **Salvador Nasralla:** 39.89% de los votos (Partido Liberal/alianza de derecha).\n• **Diferencia:** Apenas 515 votos entre ambos candidatos en el conteo preliminar.\n• **Votos procesados:** 57% del total de actas electorales al momento de la suspensión.\n• **Fecha límite CNE:** Hasta 30 días para anunciar los resultados oficiales definitivos.\n• **Rixi Moncada:** 19.2% (Partido Libre, oficialista, en tercer lugar).\n\n⚡ **Desarrollo:**\n• El CNE suspendió la Transmisión de Resultados Electorales Preliminares (TREP) citando una \"falla técnica\" en la plataforma de divulgación.\n• La consejera presidenta del CNE, Ana Paola Hall, y la consejera Cossette López Osorio, pidieron calma y paciencia mientras se espera el escrutinio especial y la contabilización física de las actas restantes.\n• Aproximadamente el 43% de las actas electorales no fueron incluidas en el conteo preliminar y deben ser procesadas manualmente.\n• Ambos candidatos, Asfura y Nasralla, se proclamaron vencedores basándose en sus propios conteos internos y proyecciones, aunque llamaron a esperar los resultados oficiales.\n• La injerencia internacional fue notoria: el expresidente de EE.UU., Donald Trump, respaldó públicamente a Asfura y advirtió sobre \"consecuencias\" si se manipulaban los resultados.\n• Analistas sugirieron que el apoyo de Trump, junto con sus críticas a Nasralla, pudo haber inclinado la balbalanza en los días previos a la elección, influyendo en votantes indecisos.\n• La situación reavivó el temor a un posible fraude, evocando el antecedente de 2017 cuando Nasralla perdió tras una interrupción en el conteo que cambió la tendencia.\n\n💡 **¿Por qué importa?**\n• La prolongada incertidumbre y la falta de transparencia en el conteo de votos podrían desestabilizar el país, generando protestas y afectando la credibilidad del sistema democrático hondureño.\n• La percepción de injerencia externa y las acusaciones de fallas o fraude tienen implicaciones significativas para la legitimidad del futuro gobierno y las relaciones internacionales de Honduras.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Causa Cuadernos: finaliza la lectura de las acusaciones y se abre el capítulo \"La Camarita\"",
-          "link": "https://www.perfil.com/noticias/politica/causa-cuadernos-finaliza-la-lectura-de-las-acusaciones-y-se-abre-el-capitulo-la-camarita.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 07:17:11"
+          "titulo": "Resultados de las elecciones en Honduras: cuándo se anuncia el ganador entre los dos candidatos que EE.UU. sigue de cerca",
+          "link": "https://www.lanacion.com.ar/estados-unidos/resultados-de-las-elecciones-en-honduras-cuando-se-anuncia-el-ganador-entre-los-dos-candidatos-que-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:21:50"
         },
         {
-          "titulo": "Causa GNL: los fundamentos de la condena muestran el rol clave de Roberto Baratta, parecido al que tuvo en los Cuadernos de las Coimas",
-          "link": "https://www.clarin.com/politica/causa-gnl-fundamentos-condena-muestran-rol-clave-roberto-baratta-parecido-cuadernos-coimas_0_KevZnvZiow.html",
+          "titulo": "Trump se convierte en el comodín en unas reñidas elecciones en Honduras",
+          "link": "https://www.clarin.com/new-york-times-international-weekly/trump-convierte-comodin-renidas-elecciones-honduras_0_7rw4lbKGTH.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 07:02:01"
+          "fecha": "2025-12-02 09:59:38"
         },
         {
-          "titulo": "La Justicia investiga el vínculo entre la financiera ligada a \"Chiqui\" Tapia y cuatro monotributistas que movieron $ 120.000 millones",
-          "link": "https://www.clarin.com/politica/justicia-investiga-vinculo-financiera-ligada-chiqui-tapia-monotributistas-movieron-120000-millones_0_OdnU78EFGA.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 06:22:50"
-        },
-        {
-          "titulo": "Coimas en ANDIS: declaró exfuncionario y apuntó contra su superior",
-          "link": "https://www.minutouno.com/politica/coimas-andis-declaro-exfuncionario-y-apunto-contra-su-superior-n6219764",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 00:48:32"
-        },
-        {
-          "titulo": "Exfuncionario de ANDIS apuntó a su superior en el organismo y aseguró que \"cumplía órdenes\"",
-          "link": "https://www.ambito.com/politica/causa-andis-un-exfuncionario-acusado-rompio-el-silencio-y-confirmo-irregularidades-la-compra-medicamentos-n6219751",
+          "titulo": "Elecciones en Honduras: incertidumbre total en el país, más de 24 horas sin nuevos resultados y sólo el 57% de votos procesados",
+          "link": "https://www.ambito.com/mundo/elecciones-honduras-incertidumbre-total-el-pais-mas-24-horas-nuevos-resultados-y-solo-el-57-votos-procesados-n6219806",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 23:44:00"
-        },
-        {
-          "titulo": "Citan a indagatoria D'Onofrio, el ex ministro de Kicillof, por el escándalo de la VTV en Provincia",
-          "link": "https://www.clarin.com/politica/citan-indagatoria-donofrio-ex-ministro-kicillof-escandalo-vtv-provincia_0_veFlSfQX11.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 20:51:47"
+          "fecha": "2025-12-02 09:52:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
-        "Perfil",
-        "Minuto1",
         "Ámbito Financiero",
-        "Clarín"
+        "Clarín",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -413,208 +167,41 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "debates_y_conflictos_20251202",
-      "tema": "Debates y Conflictos Políticos Argentina",
-      "tema_normalizado": "debates y conflictos politicos argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina atraviesa un periodo de intensos debates y conflictos políticos en múltiples niveles del poder, involucrando a oficialismo y oposición.\n• Se destacan las internas partidarias, los enfrentamientos entre el gobierno nacional y provincial, y graves acusaciones en el ámbito legislativo y judicial.\n• Estas tensiones exponen disputas por el liderazgo, la gestión de recursos y la legitimidad institucional en el país.\n\n🔍 **Datos clave:**\n• Derrota electoral de octubre: Origen de la crisis interna en el peronismo.\n• $120.000 millones: Monto investigado en financiera ligada a \"Chiqui\" Tapia.\n• \"5-0\": Mensaje irónico de Javier Milei en X contra \"Chiqui\" Tapia.\n• Senadora Cristina López (UxP): Denunció agresiones en el Senado.\n• Diputada Lucía Klug (UxP): Propuso impuesto provincial al gas metano de las vacas.\n• Senadora Lorena Villaverde (LLA): Su asunción está en suspenso por acusaciones.\n• $12,9 billones: Fondos que Axel Kicillof reclama al Gobierno nacional para Buenos Aires.\n• Eduardo Prestofelippo: Ex activista digital libertario, amenazó a Lilia Lemoine.\n\n⚡ **Desarrollo:**\n• El peronismo enfrenta una \"rebelión evidente\" post-derrota electoral, con sectores como Kicillof, intendentes y la CGT buscando desplazar a Máximo Kirchner de la presidencia del PJ bonaerense, como paso previo a confrontar a Cristina Kirchner.\n• Un escándalo involucra a Martín Menem, Presidente de la Cámara de Diputados, cuya empresa patrocina Barracas Central, club de \"Chiqui\" Tapia, mezclando intereses empresariales y políticos. Javier Milei, a su vez, lo critica con mensajes irónicos.\n• La Justicia investiga una financiera ligada a \"Chiqui\" Tapia por movimientos de $120.000 millones y Elisa Carrió denunció presuntos testaferros relacionados con él, en medio del repudio público por manejos dudosos en el fútbol.\n• En el Senado, la senadora Cristina López denunció penalmente al personal de seguridad por agresiones, tras ser impedida de acceder a su despacho. La Vicepresidenta Victoria Villarruel había ordenado su clausura, lo que López considera una represalia por su jura \"por los 30.000 desaparecidos\".\n• La asunción de la senadora Lorena Villaverde (LLA) está en suspenso debido a acusaciones de nexos con el narcotráfico y una detención en EE. UU. hace dos décadas, lo que generó un quiebre en LLA y el retorno de su diploma a comisión.\n• La legisladora provincial Lucía Klug (UxP) propuso un impuesto al gas metano (CH4) de las vacas para productores sin plan de mitigación. La iniciativa generó rechazo del Gobierno nacional y del sector agropecuario, que la calificaron de \"absurda\".\n• El gobernador Axel Kicillof (PBA) denunció un \"asedio financiero ilegal\" del Gobierno nacional, reclamando $12,9 billones en fondos retenidos y solicitando a la Legislatura provincial la aprobación de una Ley de Financiamiento para afrontar la recesión.\n• Una interna en La Libertad Avanza quedó expuesta cuando el ex tuitero libertario \"El Presto\" amenazó a la diputada Lilia Lemoine con revelar audios sobre \"cosas privadas de la familia presidencial\" y \"barbaridades de Karina Milei\".\n\n💡 **¿Por qué importa?**\n• Estos conflictos impactan directamente en la gobernabilidad del país, la conformación del poder legislativo y la distribución de recursos a nivel nacional y provincial.\n• Ponen en evidencia la fragilidad de las alianzas políticas, la polarización y los desafíos institucionales que enfrenta la democracia argentina en la actualidad.",
-      "cantidad_noticias": 14,
+      "tema_id": "h&m_desembarca_en_20251202",
+      "tema": "H&M desembarca en Argentina via Coto",
+      "tema_normalizado": "h&m desembarca en argentina via coto",
+      "resumen": "📌 **¿Qué está pasando?**\n• La cadena de supermercados Coto ha comenzado a vender ropa de la marca sueca H&M en algunas de sus tiendas en Argentina.\n• Este acuerdo representa una novedad comercial, siendo la primera vez que un supermercado en el país ofrece prendas de la popular firma internacional.\n• Inicialmente, se trata de una cápsula de verano enfocada en indumentaria de mujer, con planes de expandir la oferta en el futuro.\n\n🔍 **Datos clave:**\n• **Inicio de venta:** Principios de diciembre.\n• **Sucursales de Coto:** 6 hipermercados específicos (Abasto, Nordelta, Tortugas, Moreno, Ciudadela y Mar del Plata).\n• **Precios de referencia:** Remeras desde $19.000, blusas y shorts desde $30.999, pantalones y vestidos desde $45.999.\n• **Crecimiento de importaciones:** Las importaciones de prendas aumentaron 102% en dólares y 154% en volumen entre enero y octubre del último período analizado, totalizando 31.232 toneladas.\n• **Origen principal de importaciones:** China, representando el 51% y con precios unitarios a la baja.\n\n⚡ **Desarrollo:**\n• El desembarco de H&M en Coto ocurre en un contexto de flexibilización del comercio exterior y desregulación gubernamental que favorece la importación.\n• Coto busca diversificar su oferta y satisfacer la demanda de los consumidores argentinos por marcas internacionales y productos de precios económicos.\n• La incorporación de H&M facilita el acceso a indumentaria importada, evitando la necesidad de recurrir a servicios de courier, que experimentaron un gran crecimiento.\n• Este aumento en las importaciones y la competencia de marcas como H&M afectan a la industria textil local, generando preocupación por la pérdida de competitividad y los despidos.\n• La Cámara Industrial Argentina de la Indumentaria (CIAI) alertó sobre la crisis sectorial, destacando la fuerte competencia de artículos de bajo costo.\n• Se proyecta que la alianza entre Coto y H&M podría extenderse a ropa para hombres y niños, así como a otros productos de la marca como artículos para el hogar y belleza.\n\n💡 **¿Por qué importa?**\n• Marca un cambio significativo en el panorama comercial argentino, democratizando el acceso a marcas internacionales de moda rápida y aumentando la competencia en el mercado de indumentaria.\n• Refleja el impacto de las políticas de apertura económica en el consumo y la producción local, planteando desafíos y oportunidades para la economía nacional.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Guerra en el peronismo: acorralar a Máximo, el primer paso para jubilar a Cristina",
-          "link": "https://noticias.perfil.com/noticias/politica/guerra-en-el-peronismo-acorralar-a-maximo-el-primer-paso-para-jubilar-a-cristina.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 08:48:43"
-        },
-        {
-          "titulo": "Por qué Martín Menem sponsorea al equipo de \"Chiqui\" Tapia",
-          "link": "https://noticias.perfil.com/noticias/politica/por-que-martin-menem-sponsorea-al-equipo-de-chiqui-tapia.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 08:45:36"
-        },
-        {
-          "titulo": "\"5 a 0\": Javier Milei y un nuevo irónico mensaje contra Claudio \"Chiqui\" Tapia",
-          "link": "https://www.clarin.com/politica/5-0-javier-milei-nuevo-ironico-mensaje-claudio-chiqui-tapia_0_ySn6GNUWZf.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 08:29:04"
-        },
-        {
-          "titulo": "Escándalo en el Senado: legisladora denunció penalmente a personal de seguridad por lesiones y amenazas",
-          "link": "https://www.minutouno.com/politica/escandalo-el-senado-legisladora-denuncio-penalmente-personal-seguridad-lesiones-y-amenazas-n6219760",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 00:32:00"
-        },
-        {
-          "titulo": "Polémica por la creación de un impuesto al gas metano de las vacas propuesto por una diputada de Unión por la Patria",
-          "link": "https://www.perfil.com/noticias/politica/polemica-por-la-creacion-de-un-impuesto-al-gas-metano-de-las-vacas-propuesto-por-una-diputada-de-union-por-la-patria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 23:52:00"
-        },
-        {
-          "titulo": "La senadora Cristina López acusó a la seguridad del Congreso de agresiones tras el cierre de su despacho ordenado por Victoria Villarruel",
-          "link": "https://www.perfil.com/noticias/politica/la-senadora-cristina-lopez-acuso-a-la-seguridad-del-congreso-de-agresiones-tras-el-cierre-de-su-despacho-ordenado-por-victoria-villarruel.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 23:18:00"
-        },
-        {
-          "titulo": "El Gobierno no consigue sumar los votos y la libertaria Villaverde ahora tiene un pie afuera del Senado",
-          "link": "https://www.clarin.com/politica/gobierno-consigue-sumar-votos-libertaria-villaverde-ahora-pie-afuera-senado_0_vmkBnwTHqy.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 21:47:51"
-        },
-        {
-          "titulo": "La interna de LLA por Lorena Villaverde: el temor a la “mancha permanente” y la incomodidad de los propios",
-          "link": "https://www.perfil.com/noticias/politica/la-interna-de-lla-por-lorena-villaverde-el-temor-a-la-mancha-permanente-y-la-incomodidad-de-los-propios.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 21:27:00"
-        },
-        {
-          "titulo": "Debut y escándalo de una senadora K: terminó a los empujones con el personal de Seguridad para quedarse con un despacho y denunció \"manoseo corporal\"",
-          "link": "https://www.clarin.com/politica/debut-escandalo-senadora-k-termino-empujones-personal-seguridad-quedarse-despacho_0_Yc1gFE3uPe.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 21:24:10"
-        },
-        {
-          "titulo": "Polémica en el Congreso: senadora del PJ denunció agresiones físicas tras la clausura de su despacho",
-          "link": "https://www.ambito.com/politica/polemica-el-congreso-senadora-del-pj-denuncio-agresiones-fisicas-la-clausuradesudespacho-n6219739",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 21:24:00"
-        },
-        {
-          "titulo": "Axel Kicillof criticó a Javier Milei por falta de recursos y pidió a la Legislatura aprobar el financiamiento",
-          "link": "https://www.minutouno.com/politica/axel-kicillof-critico-javier-milei-falta-recursos-y-pidio-la-legislatura-aprobar-el-financiamiento-n6219701",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-01 20:23:00"
-        },
-        {
-          "titulo": "Kicillof acusó a Nación de “asfixiar a la Provincia” y pidió aprobar el endeudamiento en la Legislatura",
-          "link": "https://www.perfil.com/noticias/politica/kicillof-acuso-a-nacion-de-asfixiar-a-la-provincia-y-pidio-aprobar-el-endeudamiento-en-la-legislatura.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 20:10:00"
-        },
-        {
-          "titulo": "Un ex tuitero libertario amenazó con audios a Lilia Lemoine",
-          "link": "https://noticias.perfil.com/noticias/politica/un-ex-tuitero-libertario-amenazo-con-audios-a-lilia-lemoine.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-01 19:28:08"
-        },
-        {
-          "titulo": "El Gobierno rechazó la propuesta de impuesto a los gases de las vacas: \"Es pegarse un tiro en el pie\"",
-          "link": "https://www.ambito.com/politica/el-gobierno-rechazo-la-propuesta-impuesto-los-gases-las-vacas-es-pegarse-un-tiro-el-pie-n6219698",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 19:22:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
-        "Perfil",
-        "Minuto1",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "impuestos_y_recaudacion_20251202",
-      "tema": "Impuestos y Recaudación Fiscal Argentina",
-      "tema_normalizado": "impuestos y recaudacion fiscal argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina experimenta una caída significativa en la recaudación fiscal, lo que refleja un estancamiento económico.\n*   Paralelamente, la ARCA actualizó las normas del Impuesto al Valor Agregado (IVA) para vendedores en plataformas digitales y el Gobierno evalúa cambios en las deducciones del Impuesto a las Ganancias.\n\n🔍 **Datos clave:**\n*   **Caída Real Recaudación Noviembre:** 8,6% interanual (ARCA).\n*   **Recaudación Nominal Noviembre:** $15.6 billones.\n*   **Nuevos Topes IVA Digital:** 10 o más operaciones y $750.000 mensuales, o 4 o más operaciones/mes en cuatrimestre por $750.000 acumulados.\n*   **Tope Bienes Usados IVA Digital:** $1.500.000 cuatrimestral.\n*   **Fecha de entrada en vigencia IVA digital:** 1° de diciembre.\n*   **ARCA (Agencia de Recaudación y Control Aduanero):** Organismo a cargo de las modificaciones del IVA y la publicación de datos de recaudación.\n*   **Diputada Lucía Klug:** Autora del proyecto de \"Tasa Ambiental sobre el Metano\" (TAMBA).\n*   **Luis Caputo (Ministro de Economía):** Anticipó posible ampliación de deducciones en Ganancias.\n\n⚡ **Desarrollo:**\n*   La ARCA actualizó el régimen especial de IVA para vendedores en plataformas digitales (Mercado Libre, Tiendanube) desde el 1° de diciembre, buscando adecuar los parámetros de \"habitualidad\" a la realidad del comercio electrónico.\n*   Los nuevos umbrales definen a los \"sujetos no categorizados\", quienes deberán pagar percepciones de IVA hasta que se inscriban en el Monotributo o IVA, o cesen su actividad habitual. Las plataformas deben asegurar la identificación tributaria de los usuarios.\n*   Se debate el proyecto para crear la \"Tasa Ambiental sobre el Metano\" (TAMBA) para la ganadería bonaerense, iniciativa que busca gravar las emisiones de gases, pero enfrenta un fuerte rechazo del sector agropecuario por cuestionamientos a sus bases técnicas y científicas.\n*   El Gobierno analiza cambios en el Impuesto a las Ganancias, proponiendo ampliar las deducciones permitidas para incluir gastos como electrodomésticos o cuotas hipotecarias, ya que muchos topes actuales (ej. $20.000 anuales para hipotecarios) están desactualizados.\n*   La recaudación fiscal de noviembre totalizó $15.6 billones, registrando su cuarta caída real consecutiva del 8,6% interanual, influenciada por una alta base de comparación del año anterior y la eliminación de algunos tributos.\n*   Mientras que impuestos como Derechos de Exportación (caída del 69% real) y Bienes Personales (baja del 64% real) sufrieron mermas, los Derechos de Importación aumentaron un 21,7% real, reflejando un desequilibrio en el comercio exterior.\n\n💡 **¿Por qué importa?**\n*   Los ajustes en el IVA digital buscan modernizar el control fiscal sobre el creciente comercio electrónico, afectando a miles de vendedores y operadores de plataformas, y mejorando la certeza para los contribuyentes.\n*   La persistente caída de la recaudación es un indicador de la debilidad económica y la necesidad de reformas tributarias. Las discusiones sobre Ganancias y la tasa al metano muestran los desafíos del Estado para obtener recursos y adaptar el sistema impositivo a nuevas realidades.",
-      "cantidad_noticias": 9,
-      "noticias": [
-        {
-          "titulo": "ARCA modificó el régimen del IVA para los venden en plataformas digitales: quiénes deberán pagar a partir de ahora",
-          "link": "https://www.infobae.com/economia/2025/12/02/arca-modifico-el-regimen-del-iva-para-los-venden-en-plataformas-digitales-quienes-deberan-pagar-a-partir-de-ahora/",
+          "titulo": "Una cadena de supermercados empezó a vender ropa de H&M: en qué locales y a qué precios se pueden encontrar las prendas",
+          "link": "https://www.infobae.com/economia/2025/12/02/una-cadena-de-supermercados-empezo-a-vender-ropa-de-hm-en-que-locales-y-a-que-precios-se-pueden-encontrar-las-prendas/",
           "fuente": "Infobae",
-          "fecha": "2025-12-02 09:17:57"
+          "fecha": "2025-12-02 11:58:18"
         },
         {
-          "titulo": "Impuesto a los gases de las vacas: el agro habla de \"sesgo fiscal\" y cuestiona las bases técnicas del proyecto",
-          "link": "https://www.ambito.com/economia/impuesto-los-gases-las-vacas-el-agro-habla-sesgo-fiscal-y-cuestiona-las-bases-tecnicas-del-proyecto-n6219782",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 08:34:00"
-        },
-        {
-          "titulo": "Impuesto a las Ganancias: qué cambios analiza el Gobierno en el esquema de deducciones",
-          "link": "https://www.iprofesional.com/impuestos/443131-impuesto-a-las-ganancias-que-gastos-podrian-ser-declarados-para-aliviar-la-carga-fiscal",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 08:23:00"
-        },
-        {
-          "titulo": "ARCA actualizó el régimen para calcular el IVA para ventas y servicios operados a través de plataformas digitales",
-          "link": "https://www.ambito.com/economia/arca-actualizo-el-regimen-calcular-el-iva-ventas-y-servicios-operados-traves-plataformas-digitales-n6219776",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 07:31:00"
-        },
-        {
-          "titulo": "ARCA actualiza parámetros y montos para calcular el IVA en plataformas digitales",
-          "link": "https://www.iprofesional.com/impuestos/443123-arca-actualiza-parametros-y-montos-para-calcular-el-iva-en-plataformas-digitales",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 07:06:00"
-        },
-        {
-          "titulo": "ARCA: la recaudación cayó un 8,6% real en noviembre, en términos anuales",
-          "link": "https://www.ambito.com/economia/arca-la-recaudacion-impuestos-noviembre-llego-156-billones-una-caida-del-86-interanual-n6219684",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-01 22:36:00"
-        },
-        {
-          "titulo": "La recaudación volvió a caer: bajan impuestos ligados al comercio y se disparan los de importación",
-          "link": "https://www.iprofesional.com/economia/443101-la-recaudacion-cayo-por-cuarta-vez-cuales-fueron-los-unicos-impuestos-que-subieron-fuerte",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 19:25:00"
-        },
-        {
-          "titulo": "La recaudación volvió a caer: bajan impuestos ligados al comercio y se disparan los de importación",
-          "link": "https://www.iprofesional.com/index.php/economia/443101-la-recaudacion-cayo-por-cuarta-vez-cuales-fueron-los-unicos-impuestos-que-subieron-fuerte",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-01 19:25:00"
-        },
-        {
-          "titulo": "La recaudación cayó más de 8%  en noviembre, sacando el efecto de la inflación",
-          "link": "https://www.clarin.com/economia/recaudacion-cayo-8-noviembre-sacando-efecto-inflacion_0_X7QqSzwWKw.html",
+          "titulo": "H&M llegó a Coto: en qué sucursales se consigue la ropa de verano que trajo la cadena y a qué precios",
+          "link": "https://www.clarin.com/economia/hm-llego-coto-sucursales-consigue-ropa-verano-trajo-cadena-precios_0_ABlCLbQddu.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-01 19:12:02"
+          "fecha": "2025-12-02 11:04:46"
+        },
+        {
+          "titulo": "Qué sucursales de Coto venden ropa de H&M y a qué precio",
+          "link": "https://www.lanacion.com.ar/economia/que-sucursales-de-coto-venden-ropa-de-hm-y-a-que-precio-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 10:45:35"
+        },
+        {
+          "titulo": "Llegó H&M a la Argentina: estos son los precios de la ropa",
+          "link": "https://www.lanacion.com.ar/economia/llego-hm-a-la-argentina-estos-son-los-precios-de-la-ropa-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 10:20:47"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "Infobae",
-        "iProfesional",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "venta_profertil_mercado_20251202",
-      "tema": "Venta Profertil Mercado Agroindustrial",
-      "tema_normalizado": "venta profertil mercado agroindustrial",
-      "resumen": "📌 **¿Qué está pasando?**\n• El grupo agroindustrial Adecoagro ha presentado una oferta vinculante para adquirir el 50% de Profertil, la mayor productora de urea granulada de Sudamérica, que actualmente pertenece a YPF.\n• Esta propuesta completa un proceso de compra, ya que Adecoagro previamente había ofrecido adquirir el otro 50% de Profertil, propiedad de la canadiense Nutrien, por un monto similar.\n• De concretarse ambas operaciones, Adecoagro pasaría a ser el accionista mayoritario de Profertil, asegurando el 90% del capital social total de la empresa.\n\n🔍 **Datos clave:**\n• **Monto de la oferta:** US$600 millones por cada 50% de participación.\n• **Capacidad de Profertil:** Aproximadamente 1.3 millones de toneladas métricas anuales de urea y 790 mil de amoníaco.\n• **Cuota de mercado:** Provee cerca del 60% del consumo de urea en Argentina.\n• **EBITDA anual promedio:** US$390 millones (período 2020-2024).\n• **Actores principales:** Adecoagro (comprador), YPF y Nutrien (vendedores), Profertil (empresa adquirida).\n• **Accionistas futuros:** Adecoagro (90%), Asociación de Cooperativas Argentinas (10%).\n\n⚡ **Desarrollo:**\n• La intención de Adecoagro es obtener el control de Profertil, integrando un negocio clave para el sector agrícola regional en su portafolio.\n• La operación de compra de la participación de YPF está sujeta a la aprobación de su Consejo de Administración, prevista para fines de diciembre.\n• Profertil se destaca como un productor global de bajo costo de urea y amoníaco, con un complejo industrial moderno ubicado en Bahía Blanca.\n• Su ubicación estratégica le permite acceder a gas natural y electricidad a precios competitivos, y su negocio tiene ingresos totalmente dolarizados por su carácter exportador.\n• Adecoagro, liderado por su CEO Mariano Bosch, busca con esta adquisición diversificar su cartera y fortalecer su rendimiento a largo plazo.\n• Desde abril, Adecoagro cuenta con Tether, una empresa líder en criptomonedas, como su principal accionista, lo que le brinda un fuerte respaldo financiero para estas operaciones.\n• Juan Sartori, presidente del Consejo de Administración de Adecoagro y Jefe de Proyectos Especiales de Tether, resalta la importancia estratégica de Profertil para la cadena de producción agrícola sudamericana.\n\n💡 **¿Por qué importa?**\n• Esta adquisición consolida a Adecoagro como un actor fundamental en el suministro de fertilizantes para la agricultura de Argentina y Sudamérica, ampliando significativamente su escala agroindustrial.\n• La operación representa una inversión estratégica importante en activos reales y sostenibles, esencial para la cadena de producción agrícola y la seguridad alimentaria de la región.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Por US$600 millones: el gigante Adecoagro le quiere comprar a YPF  el 50% de Profertil",
-          "link": "https://www.lanacion.com.ar/economia/campo/por-us600-millones-el-gigante-adecoagro-le-quiere-comprar-a-ypf-el-50-de-profertil-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 09:12:34"
-        },
-        {
-          "titulo": "Un gigante agroindustrial se quedaría con el 90% de Profertil, el mayor productor de fertilizantes de Argentina",
-          "link": "https://www.clarin.com/economia/gigante-agroindustrial-quedaria-100-profertil-mayor-productor-fertilizantes-argentina_0_hsFXcbGaU5.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-01 20:58:07"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-02",
-      "fuentes": [
         "La Nación",
         "Clarín"
       ],
@@ -624,55 +211,231 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "relaciones_internacionales_argentinas_20251202",
-      "tema": "Relaciones Internacionales Argentinas y Regionales",
-      "tema_normalizado": "relaciones internacionales argentinas y regionales",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está intensificando sus lazos con Estados Unidos a través de un acuerdo comercial \"histórico\" y ha tomado una postura firme contra Venezuela, denunciando a su gobierno ante la Corte Penal Internacional por violaciones a los Derechos Humanos.\n• En la región, las elecciones en Honduras enfrentan incertidumbre por la lentitud en el conteo de votos, mientras una encuesta evalúa la aprobación de líderes latinoamericanos como Claudia Sheinbaum, Lula da Silva y Javier Milei.\n\n🔍 **Datos clave:**\n• **Acuerdo Arg-EEUU:** Elimina aranceles recíprocos y barreras no arancelarias para bienes clave, buscando aumentar las inversiones estadounidenses.\n• **Elecciones Honduras:** Con 57% de votos procesados, Nasry Asfura (39.91%) y Salvador Nasralla (39.89%) están en un empate técnico con 515 votos de diferencia.\n• **Aprobación de líderes (Noviembre):** Claudia Sheinbaum (México) 61% de aprobación; Luiz Inácio Lula da Silva (Brasil) 44%; Javier Milei (Argentina) 43%.\n• **Denuncia CPI:** El gobierno de Milei solicitó la detención de Nicolás Maduro y Diosdado Cabello (Venezuela) por \"crímenes contra la humanidad\".\n• **Actores principales:** Diego Santilli (Min. Interior Arg.), Peter Lamelas (Embajador EEUU), Javier Milei (Pres. Arg.), Donald Trump (Pres. EEUU), Nicolás Maduro (Pres. Venezuela), CNE (Honduras).\n\n⚡ **Desarrollo:**\n• El ministro del Interior argentino, Diego Santilli, se reunió con el embajador de Estados Unidos, Peter Lamelas, para avanzar en un acuerdo comercial que abrirá mercados recíprocos, eliminará aranceles y desmantelará barreras no arancelarias.\n• Lamelas ha destacado este pacto entre los presidentes Trump y Milei como \"histórico\", subrayando el acompañamiento político y económico de Washington al crecimiento de Argentina.\n• El gobierno de Milei instruyó a su embajador ante la Corte Penal Internacional en La Haya para denunciar a Nicolás Maduro y otros funcionarios venezolanos por violaciones a los Derechos Humanos, incluyendo detenciones arbitrarias y tratos inhumanos.\n• Venezuela, a través de su representante Héctor Constant Rosales, rechazó la denuncia y acusó a Argentina de \"falso defensor\" de los derechos humanos, citando un voto argentino en la ONU el 20 de noviembre.\n• En Honduras, tras dos días de comicios, el Consejo Nacional Electoral (CNE) sigue sin definir un ganador, con dos candidatos opositores reclamando la victoria y el presidente Donald Trump advirtiendo sobre posibles consecuencias ante cualquier alteración.\n• Una encuesta de Atlas Intel y Bloomberg de noviembre reveló que, aunque Milei cuenta con un 43% de aprobación, la población argentina muestra pesimismo sobre la situación económica (69% considera el mercado laboral mal) y la corrupción es vista como el principal problema (44%).\n\n💡 **¿Por qué importa?**\n• Las decisiones de política exterior de Argentina, alineándose con EE.UU. y confrontando a Venezuela, reconfiguran su posición en el ámbito regional y global, con implicaciones económicas y diplomáticas significativas.\n• La inestabilidad electoral en Honduras y la evaluación de la aprobación de líderes en la región reflejan desafíos internos y dinámicas políticas que podrían influir en la gobernabilidad y la cooperación hemisférica.",
-      "cantidad_noticias": 6,
+      "tema_id": "enviados_trump-putin:_dialogo_20251202",
+      "tema": "Enviados Trump-Putin: diálogo paz Ucrania",
+      "tema_normalizado": "enviados trump-putin: dialogo paz ucrania",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente ruso, Vladimir Putin, se reunió el martes 6 de agosto de 2025 en Moscú con el enviado especial de Donald Trump, Steve Witkoff, y su yerno, Jared Kushner.\n• El encuentro tuvo como objetivo principal discutir una propuesta de paz impulsada por el expresidente estadounidense Donald Trump para poner fin a la guerra en Ucrania.\n• La reunión se llevó a cabo en el Kremlin, después de las 17:00 hora de Moscú (14:00 GMT).\n\n🔍 **Datos clave:**\n• **Fecha de la reunión en Moscú:** Martes, 6 de agosto de 2025.\n• **Participantes clave:** Vladimir Putin, Steve Witkoff, Jared Kushner, Volodímir Zelenski.\n• **Propuesta de paz:** Un borrador estadounidense de 28 puntos.\n• **Lugares de negociaciones previas:** Ginebra y Florida (entre delegaciones de EEUU y Ucrania).\n\n⚡ **Desarrollo:**\n• La iniciativa de paz, impulsada por Donald Trump, busca finalizar el conflicto más mortífero en Europa desde la Segunda Guerra Mundial.\n• Un borrador filtrado de la propuesta estadounidense generó preocupación en Ucrania y Europa, ya que incluía puntos como el retiro de tropas ucranianas de sectores de Donetsk y el reconocimiento de Donetsk, Lugansk y Crimea como parte de Rusia.\n• La reunión en Moscú se produjo tras intensas negociaciones en Florida entre funcionarios estadounidenses y ucranianos para refinar dicho plan de paz.\n• El presidente ucraniano, Volodímir Zelenski, ha enfatizado que \"nada se decide sobre Ucrania sin Ucrania\" y busca el apoyo de aliados europeos para asegurar la soberanía y garantías de seguridad.\n• Moscú valoró \"altamente\" la iniciativa de Trump, calificándola de \"paso muy importante\" hacia una resolución pacífica, y reiteró su oposición a la incorporación de Ucrania a la OTAN.\n• La Casa Blanca expresó un gran \"optimismo\" sobre la posibilidad de alcanzar un entendimiento, a pesar de los fuertes recelos de Kiev y capitales europeas sobre la propuesta de Trump.\n• Este diálogo se enmarca en medio de una ofensiva militar rusa, con el Kremlin reivindicando la toma de Pokrovsk, una afirmación que Kiev desmiente.\n\n💡 **¿Por qué importa?**\n• La reunión representa un esfuerzo diplomático de alto nivel para mediar en la guerra de Ucrania, involucrando directamente a representantes de un expresidente estadounidense y al líder ruso.\n• La propuesta de paz es controvertida, ya que incluye concesiones territoriales y de seguridad a Rusia, lo que podría redefinir el futuro político y territorial de Ucrania y tener un impacto significativo en la seguridad europea.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "El Gobierno recibirá al embajador Peter Lamelas en Casa Rosada mientras avanza el acuerdo comercial con los EEUU",
-          "link": "https://www.infobae.com/politica/2025/12/02/el-gobierno-recibira-al-embajador-peter-lamelas-en-casa-rosada-mientras-avanza-el-acuerdo-comercial-con-los-eeuu/",
+          "titulo": "El Kremlin divulgó detalles de cómo y cuándo se reunirá Putin con los enviados de Trump a Moscú",
+          "link": "https://www.infobae.com/america/mundo/2025/12/02/el-kremlin-divulgo-detalles-de-como-y-cuando-se-reunira-putin-con-los-enviados-de-trump-a-moscu/",
           "fuente": "Infobae",
-          "fecha": "2025-12-02 09:20:44"
+          "fecha": "2025-12-02 11:50:04"
         },
         {
-          "titulo": "Elecciones en Honduras 2025 EN VIVO: tras un día, el CNE sigue sin definir un ganador y solo procesó el 57% de los votos",
-          "link": "https://www.infobae.com/america/america-latina/2025/12/02/elecciones-en-honduras-en-vivo-tras-un-dia-el-cne-sigue-sin-definir-un-ganador-y-solo-proceso-el-57-de-los-votos/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-02 09:10:04"
-        },
-        {
-          "titulo": "Claudia Sheinbaum encabeza el ranking de aprobación gubernamental, le sigue Lula da Silva y más atrás Milei",
-          "link": "https://www.perfil.com/noticias/politica/claudia-sheinbaum-y-lula-da-silva-superan-a-milei-en-la-aprobacion-de-gobiernos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 08:30:00"
-        },
-        {
-          "titulo": "Elecciones en Honduras: crece la suspicacia por la demora en el conteo y dos candidatos se dan por ganadores cuando hay sólo 500 votos de diferencia",
-          "link": "https://www.clarin.com/mundo/elecciones-honduras-crece-suspicacia-demora-conteo-candidatos-dan-ganadores-solo-500-votos-diferencia_0_tUy1TPLr5S.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 07:55:43"
-        },
-        {
-          "titulo": "El gobierno de Javier Milei pidió en la Corte Penal Internacional la detención de Nicolás Maduro",
-          "link": "https://www.minutouno.com/mundo/el-gobierno-javier-milei-pidio-la-corte-penal-internacional-la-detencion-nicolas-maduro-n6219780",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 07:50:00"
-        },
-        {
-          "titulo": "En medio de su gira con gobernadores, Diego Santilli se reúne con el embajador de EEUU",
-          "link": "https://www.ambito.com/politica/en-medio-su-gira-gobernadores-diego-santilli-se-reune-el-embajador-eeuu-n6219718",
+          "titulo": "Un representante de EEUU se reúne con Vladimir Putin en Moscú para evaluar la propuesta de paz de Donald Trump",
+          "link": "https://www.ambito.com/mundo/un-representante-eeuu-se-reune-vladimir-putin-moscu-evaluar-la-propuesta-paz-donald-trump-n6219872",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 00:00:00"
+          "fecha": "2025-12-02 11:43:00"
+        },
+        {
+          "titulo": "Enviados de Trump se reúnen con Putin después de que Moscú reclamara una victoria clave en Ucrania",
+          "link": "https://www.lanacion.com.ar/el-mundo/enviados-de-trump-se-reunen-con-putin-despues-de-que-moscu-reclamara-una-victoria-clave-en-ucrania-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:37:04"
+        },
+        {
+          "titulo": "Guerra en Ucrania: los enviados de Trump llegan a Kremlin para reunirse  Putin y analizar los últimos avances en un acuerdo de paz",
+          "link": "https://www.clarin.com/mundo/guerra-ucrania-enviados-trump-llegan-kremlin-reunirse-putin-analizar-ultimos-avances-acuerdo-paz_0_DZ62Iy2BVL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 10:09:06"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Infobae",
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "papa_leon_xiv:_20251202",
+      "tema": "Papa León XIV: visita y gira internacional",
+      "tema_normalizado": "papa leon xiv: visita y gira internacional",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Papa León XIV concluyó su primera gira internacional en el Líbano, un país en conflicto, donde ofreció un mensaje de paz y un llamado urgente al cese de hostilidades.\n*   Paralelamente, México, a través de su presidenta Claudia Sheinbaum, ha expresado un firme interés y extendido una invitación formal para que el pontífice visite el país.\n\n🔍 **Datos clave:**\n*   **Fechas:** Martes 2 de diciembre de 2025 (cierre de gira en Líbano), 8 de mayo (fecha de su elección papal), 4 de agosto de 2020 (explosión en el puerto de Beirut).\n*   **Lugares clave:** Líbano (Beirut, Trípoli, Valle de la Becá), México (Basílica de Guadalupe, Palacio Nacional).\n*   **Cifras:** 150.000 personas asistieron a la misa de despedida en el Líbano; 245 muertos en la explosión del puerto de Beirut.\n*   **Actor principal:** Papa León XIV (primer Papa de Estados Unidos, líder de 1.400 millones de católicos).\n\n⚡ **Desarrollo:**\n*   El Papa León XIV, a siete meses de su elección, realizó su primer viaje internacional al Líbano, país que ha calificado como \"más que un país, es un mensaje\", según San Juan Pablo II.\n*   Durante su estancia, celebró una multitudinaria misa ante 150.000 personas en Beirut y visitó la \"zona cero\" de la devastadora explosión en el puerto de 2020, donde oró en silencio y consoló a 60 familiares de las víctimas, a quienes regaló rosarios.\n*   Emitió un llamado global para que cesen los ataques y hostilidades, particularmente los israelíes, enfatizando que \"las armas matan\" y promoviendo la negociación, mediación y diálogo como caminos hacia la paz.\n*   Su pontificado, aunque formal y de estilo anglosajón, ha mostrado una creciente comodidad y cercanía, recibiendo una cálida acogida popular durante la visita libanesa.\n*   En México, la presidenta Claudia Sheinbaum reveló que está buscando una llamada para formalizar una reunión con el Papa, reiterando una invitación que Rosa Icela Rodríguez ya le entregó en el Vaticano, impulsada por el interés del pontífice en visitar la Basílica de Guadalupe.\n\n💡 **¿Por qué importa?**\n*   La gira por el Líbano establece el tono del pontificado del Papa León XIV, centrado en la paz, la reconciliación y el apoyo a las regiones en conflicto, demostrando una profunda preocupación por el sufrimiento humano.\n*   La insistencia de México en recibir al Papa subraya la importancia geopolítica y espiritual de la región para el Vaticano, y podría fortalecer los lazos entre la Iglesia y el Estado mexicano.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "“Estoy buscando una llamada”: Sheinbaum expresa su intención para que el papa León XIV visite México",
+          "link": "https://www.infobae.com/mexico/2025/12/02/estoy-buscando-una-llamada-sheinbaum-expresa-su-intencion-para-que-el-papa-leon-xiv-visite-mexico/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 12:03:17"
+        },
+        {
+          "titulo": "‘La Mañanera’ de hoy martes 2 de diciembre | Programas de salud y Papa León XIV, entre lo relevante",
+          "link": "https://www.infobae.com/mexico/2025/12/02/la-mananera-de-hoy-martes-2-de-diciembre-en-vivo/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 11:48:02"
+        },
+        {
+          "titulo": "Las claves del primer viaje internacional de León XIV: mensajes, gestos y lo que revela sobre su pontificado",
+          "link": "https://www.lanacion.com.ar/el-mundo/las-claves-del-primer-viaje-internacional-de-leon-xiv-al-libano-mensajes-gestos-y-lo-que-revela-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 10:33:24"
+        },
+        {
+          "titulo": "León XIV cierra su gira en el Líbano con una misa ante 150 mil personas y una oración en el devastado puerto de Beirut",
+          "link": "https://www.clarin.com/mundo/leon-xiv-cierra-gira-libano-misa-150-mil-personas-oracion-devastado-puerto-beirut_0_dE2KKS8zw7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 09:17:39"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Infobae",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reforma_laboral_argentina:_20251202",
+      "tema": "Reforma laboral Argentina: debate e impacto",
+      "tema_normalizado": "reforma laboral argentina: debate e impacto",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno argentino impulsa una reforma laboral que busca modificar aspectos clave de las leyes, generar empleo y reducir el impacto de juicios en las empresas.\n*   Este proyecto ha generado un intenso debate, especialmente por la falta de un borrador oficial conocido por los sindicatos y empresarios.\n*   Se espera su presentación el 9 de diciembre para ser discutido en sesiones extraordinarias del Congreso, que inician el 10 de diciembre.\n\n🔍 **Datos clave:**\n*   **9 de diciembre:** Fecha de presentación prevista del proyecto de reforma laboral por el Gobierno.\n*   **10 de diciembre:** Inicio de las sesiones extraordinarias del Congreso para debatir la reforma.\n*   **DNU 70/2023:** Decreto de Necesidad y Urgencia, mencionado por la CGT como una lógica posible a replicar.\n*   **CGT:** Confederación General del Trabajo, principal voz sindical que expresa dudas y preocupaciones.\n*   **Pymes:** Pequeñas y medianas empresas, principales beneficiarias de la regulación de tasas de interés en juicios laborales.\n*   **Jorge Sola:** Triunviro de la CGT, quien ha advertido sobre la falta de comunicación oficial del proyecto.\n*   **María Ibarzabal Murphy:** Titular de la Secretaría de Legal y Técnica, donde se finaliza el anteproyecto del Gobierno.\n\n⚡ **Desarrollo:**\n*   El Gobierno de Javier Milei busca implementar una reforma \"amplia\" para \"modernizar\" el mercado laboral y terminar con la denominada \"industria del juicio\".\n*   El proyecto incluiría la eliminación de la \"ultractividad\" en convenios colectivos y la supresión de los \"aportes solidarios\" que financian a los gremios y sus obras sociales.\n*   Un punto central es la definición de criterios unificados para las tasas de interés en juicios laborales, buscando evitar fallos \"ruinosos\" para las Pymes.\n*   La CGT, a través de Jorge Sola, ha manifestado su profunda incertidumbre, afirmando no tener conocimiento de ningún borrador oficial del proyecto.\n*   Los sindicatos critican la falta de diálogo y temen que la reforma debilite el poder de negociación de los trabajadores al promover negociaciones individuales por empresa.\n*   La CGT también propone la reducción de la jornada laboral para incorporar más personas al empleo formal y un debate sector por sector sobre el \"banco de horas\".\n*   Advierten sobre el deterioro salarial, la recesión y la caída del empleo, criticando los topes en las paritarias.\n*   Gerardo Martínez, delegado de la CGT en el Consejo de Mayo, ha rechazado de antemano cualquier cambio que \"quite derechos\" a los trabajadores.\n\n💡 **¿Por qué importa?**\n*   Esta reforma podría redefinir las relaciones laborales en Argentina, impactando significativamente a trabajadores, empresas y el poder de los sindicatos.\n*   Su implementación es clave para la visión económica del Gobierno y podría influir en la formalización del empleo y la atracción de inversiones.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La CGT puso en duda que esté redactado el proyecto de reforma laboral",
+          "link": "https://www.minutouno.com/politica/la-cgt-puso-duda-que-este-redactado-el-proyecto-reforma-laboral-n6219865",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 11:12:38"
+        },
+        {
+          "titulo": "Reforma laboral: el Gobierno impulsa un cambio clave para bajar el impacto de los juicios contra las pymes",
+          "link": "https://www.clarin.com/politica/reforma-laboral-gobierno-impulsa-cambio-clave-bajar-impacto-juicios-pymes_0_NhyuYHUS3b.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 11:10:50"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Minuto1",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "esteban_bullrich:_deseo_20251202",
+      "tema": "Esteban Bullrich: deseo candidatura presidencial 2027",
+      "tema_normalizado": "esteban bullrich: deseo candidatura presidencial 2027",
+      "resumen": "📌 **¿Qué está pasando?**\n• Esteban Bullrich, exsenador y exministro, ha expresado su firme deseo de postularse como candidato a presidente de Argentina en 2027.\n• Su principal motivación es cerrar la \"grieta social\" y lograr la unión de los argentinos, más allá de los resultados electorales.\n• Afirma que, aunque pierda, cree poder unir a la ciudadanía, considerándolo su misión personal.\n\n🔍 **Datos clave:**\n• **Candidatura:** Presidencia de la Nación en 2027.\n• **Enfermedad:** Esclerosis Lateral Amiotrófica (ELA).\n• **Medio:** Entrevista en el programa \"Odisea Argentina\" (LN+) con Carlos Pagni.\n• **Condición:** La decisión final depende de su esposa, María Eugenia Sequeiros, y sus hijos.\n• **Visión:** No cree en \"héroes de bronce\" ni \"salvaciones instantáneas\" para Argentina.\n\n⚡ **Desarrollo:**\n• Bullrich renunció a su banca en el Senado por su diagnóstico de ELA, declarando que abandonó \"los honores, pero no la lucha\" por un mejor país para sus hijos.\n• Su propuesta de campaña se centraría en una \"conexión espiritual\" con el electorado, ya que solo puede mover sus ojos; la describe como \"mi alma hablándole al alma de los argentinos\".\n• Sostiene que cuando uno encuentra su misión, no puede escapar de ella, refiriéndose a su propósito de reconciliar y sembrar esperanza.\n• Citando una frase de su próximo libro \"Liderazgo espiritual\", expresa: \"No sé cuánto tiempo me queda pero sí sé qué tengo que hacer con él: amar, servir, reconciliar y sembrar esperanza\".\n• Considera que Argentina necesita \"almas grandes\" que promuevan la humildad, el diálogo, la verdad, la cercanía, la compasión y la reconciliación para sanar sus \"heridas antiguas\".\n• Ha manifestado su descontento con la situación actual tanto a nivel global como nacional, incluyendo la gestión local del presidente Javier Milei.\n• También ha coescrito el libro \"Una Nueva Buenos Aires, para renovar el pacto de unión nacional\", basado en su experiencia en la campaña de 2017.\n\n💡 **¿Por qué importa?**\n• La posible candidatura de Esteban Bullrich introduce una propuesta política enfocada en la unidad y la reconciliación en un contexto de fuerte polarización en Argentina.\n• Su mensaje, influenciado por su lucha personal contra la ELA, busca resonar emocional y espiritualmente con el electorado, ofreciendo una perspectiva distinta en el debate público.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Qué dijo Esteban Bullrich sobre las elecciones presidenciales de 2027",
+          "link": "https://www.lanacion.com.ar/politica/que-dijo-esteban-bullrich-sobre-las-elecciones-presidenciales-de-2027-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:07:43"
+        },
+        {
+          "titulo": "Esteban Bullrich manifestó su deseo de presentarse como candidato a presidente en 2027: \"Quiero unir a los argentinos\"",
+          "link": "https://www.minutouno.com/politica/esteban-bullrich-manifesto-su-deseo-presentarse-como-candidato-presidente-2027-quiero-unir-los-argentinos-n6219801",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 09:30:00"
+        },
+        {
+          "titulo": "Esteban Bullrich reveló que planea ser candidato a presidente en 2027: “Quiero unir a los argentinos”",
+          "link": "https://www.clarin.com/politica/esteban-bullrich-revelo-planea-candidato-presidente-2027-quiero-unir-argentinos_0_PiQYJbO8FO.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 09:24:03"
+        },
+        {
+          "titulo": "Esteban Bullrich reveló que quiere presentarse \"como candidato a presidente en 2027\"",
+          "link": "https://www.perfil.com/noticias/politica/esteban-bullrich-revelo-que-quiere-presentarse-como-candidato-a-presidente-en-2027.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 08:59:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-02",
       "fuentes": [
         "Perfil",
-        "Ámbito Financiero",
         "Minuto1",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "arca:_regimen_iva_20251202",
+      "tema": "ARCA: régimen IVA ventas online",
+      "tema_normalizado": "arca: regimen iva ventas online",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Agencia de Recaudación y Control Aduanera (ARCA) actualizó el régimen especial del Impuesto al Valor Agregado (IVA) para operaciones de venta de bienes y servicios en plataformas digitales.\n• Se modificaron los valores y la cantidad de operaciones que definen a un vendedor \"habitualista\", impactando a quienes operan sin estar inscriptos en IVA o Monotributo.\n• El objetivo es flexibilizar los parámetros, que habían quedado obsoletos por el aumento de precios y la masificación del e-commerce, buscando formalizar la actividad comercial online.\n\n🔍 **Datos clave:**\n• **Organismo:** ARCA (Agencia de Recaudación y Control Aduanera), a cargo de Juan Pazo.\n• **Normativa:** Resolución General 5794/25, publicada en el Boletín Oficial.\n• **Vigencia:** A partir del 1° de diciembre.\n• **Límite mensual de habitualidad:** 10 o más operaciones Y un monto total igual o superior a $750.000.\n• **Límite cuatrimestral de habitualidad:** 4 o más operaciones por mes durante un cuatrimestre CON un monto acumulado superior a $750.000.\n• **Excepción para bienes usados de uso personal:** No se considera habitualidad si el monto total es menor a $1.500.000, previa declaración del vendedor.\n\n⚡ **Desarrollo:**\n• Los criterios anteriores para definir a un vendedor \"habitualista\" habían quedado desfasados por la inflación y el crecimiento exponencial del comercio digital.\n• Con esta actualización, ARCA busca recuperar la representatividad de los parámetros, ofrecer mayor claridad normativa y ampliar la base tributaria, formalizando la actividad económica en línea.\n• Un contribuyente es considerado “sujeto no categorizado” desde el mes siguiente al que cumple los nuevos parámetros de habitualidad.\n• Esta condición se mantiene hasta que el vendedor se inscriba formalmente en el IVA, se adhiera al Monotributo, o deje de cumplir las condiciones de habitualidad.\n• Las plataformas digitales deben garantizar la identificación tributaria obligatoria de todos sus operadores (mediante CUIT, CUIL o CDI) y consignar las percepciones de forma clara en las facturas.\n• La notificación sobre la percepción y alícuota se reemplazó por una consulta disponible en el servicio con Clave Fiscal “Nuestra Parte”, facilitando la comunicación.\n\n💡 **¿Por qué importa?**\n• Permite diferenciar de manera más precisa a quienes realizan operaciones ocasionales de aquellos que mantienen una actividad comercial sostenida en el entorno digital.\n• Implica que un mayor número de vendedores online deberán regularizar su situación fiscal o serán sujetos a percepciones de IVA, impulsando la formalización del e-commerce.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El Gobierno modificó el régimen de IVA para quienes venden a través de plataformas digitales",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-modifico-el-regimen-de-iva-para-quienes-venden-a-traves-de-plataformas-digitales-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 11:07:08"
+        },
+        {
+          "titulo": "ARCA modificó el régimen del IVA para quienes venden online: quiénes deberán pagar ahora",
+          "link": "https://www.minutouno.com/economia/arca-modifico-el-regimen-del-iva-quienes-venden-online-quienes-deberan-pagar-ahora-n6219835",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 10:20:00"
+        },
+        {
+          "titulo": "Nueva resolución de ARCA: Así será el régimen de IVA para ventas online y servicios en plataformas digitales",
+          "link": "https://www.perfil.com/noticias/economia/nueva-resolucion-de-arca-asi-sera-el-regimen-de-iva-para-ventas-online-y-servicios-en-plataformas-digitales.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 09:11:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "liberacion_juan_orlando_20251202",
+      "tema": "Liberación Juan Orlando Hernández (Honduras)",
+      "tema_normalizado": "liberacion juan orlando hernandez (honduras)",
+      "resumen": "📌 **¿Qué está pasando?**\n• El expresidente de Honduras, Juan Orlando Hernández (JOH), quien gobernó el país entre 2014 y 2022, ha sido liberado de prisión en Estados Unidos.\n• Su salida se produjo este lunes, después de que el expresidente estadounidense Donald Trump le otorgara un indulto presidencial completo.\n• Hernández había sido condenado por una corte de Nueva York a 45 años de cárcel por múltiples cargos de narcotráfico y posesión de armas.\n\n🔍 **Datos clave:**\n• **Nombre:** Juan Orlando Hernández (JOH).\n• **Cargo:** Expresidente de Honduras (2014-2022).\n• **Fecha de liberación:** Este lunes.\n• **Condena:** 45 años de prisión y una multa de 8 millones de dólares.\n• **Sentencia:** Fue condenado en marzo de 2024 (otros informes indican junio de 2024) por la corte de Nueva York.\n• **Cargos:** Tres cargos de narcotráfico (facilitar el traslado de hasta 400 toneladas de cocaína) y uno de armas.\n• **Autor del indulto:** Donald Trump, expresidente de Estados Unidos.\n• **Detención y extradición:** Detenido en Tegucigalpa el 15 de febrero de 2022 y extraditado a EE. UU. en abril de 2022.\n• **Hermano:** Antonio \"Tony\" Hernández fue sentenciado a cadena perpetua por narcotráfico en EE. UU. anteriormente.\n\n⚡ **Desarrollo:**\n• El juicio de JOH en Estados Unidos, que duró apenas dos semanas, evidenció sus amplios vínculos con cárteles de la droga.\n• La fiscalía acusó a Hernández de aceptar \"sobornos con cocaína\" y de usar el poder de su gobierno para proteger cargamentos masivos de drogas que transitaban por Honduras.\n• Se le vinculó con capos como Joaquín 'El Chapo' Guzmán y Geovanny Fuentes Ramírez, quien presuntamente financió su campaña presidencial a cambio de protección.\n• Donald Trump anunció su intención de indultar a Hernández previamente, afirmando que la administración de Joe Biden había \"tendido una trampa\" al exmandatario hondureño.\n• Este indulto se produjo en un contexto de injerencia de Trump en la política hondureña, pidiendo el voto para Nasry Asfura, compañero de partido de JOH, y condicionando futuras ayudas.\n• La esposa de Hernández, Ana García, celebró la noticia con gran alivio, agradeciendo a Dios y al presidente Trump por lo que llamó un \"milagro\" y un reconocimiento de la \"verdad\".\n• La decisión de Trump ha generado fuertes críticas de diversos sectores, que la ven como un golpe a la lucha contra el narcotráfico y la justicia internacional.\n\n💡 **¿Por qué importa?**\n• El indulto de Juan Orlando Hernández, tras ser condenado por narcotráfico, crea un precedente polémico sobre la interferencia política en procesos judiciales de alto perfil.\n• Este evento impacta directamente la credibilidad de la justicia estadounidense y genera ondas políticas en Honduras, reavivando el debate sobre corrupción y la lucha contra el narcotráfico en la región.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Estados Unidos libera al expresidente hondureño Juan Orlando Hernández, condenado por narcotráfico",
+          "link": "https://www.infobae.com/america/agencias/2025/12/02/estados-unidos-libera-al-expresidente-hondureno-juan-orlando-hernandez-condenado-por-narcotrafico/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-02 11:45:55"
+        },
+        {
+          "titulo": "Tras recibir el perdón de Trump, liberaron al expresidente hondureño Juan Orlando Hernández, condenado por narcotráfico",
+          "link": "https://www.clarin.com/mundo/recibir-perdon-trump-liberaron-expresidente-hondureno-juan-orlando-hernandez-condenado-narcotrafico_0_f7u0MlkyB0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 11:27:40"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-02",
+      "fuentes": [
         "Infobae",
         "Clarín"
       ],
