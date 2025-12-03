@@ -1,26 +1,44 @@
 {
   "fecha": "2025-12-03",
-  "fecha_generacion": "2025-12-03T03:55:01.582862",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-03T06:28:18.544583",
+  "total_temas": 9,
   "temas": [
     {
-      "tema_id": "reemplazo_de_neiffert_20251203",
-      "tema": "Reemplazo de Neiffert en la SIDE",
-      "tema_normalizado": "reemplazo de neiffert en side",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino anunció el reemplazo de Sergio Neiffert como titular de la Secretaría de Inteligencia de Estado (SIDE).\n• En su lugar, asumió Cristian Auguadra, oficializado a través del Boletín Oficial mediante el Decreto 852/2025.\n• Este cambio se justificó como el fin de la primera etapa de reestructuración del Sistema de Inteligencia Nacional (SIN).\n\n🔍 **Datos clave:**\n• **Sergio Neiffert:** Titular saliente de la SIDE desde julio de 2024.\n• **Cristian Auguadra:** Nuevo Secretario de Inteligencia de Estado, contador público con experiencia en auditoría y gestión de riesgos.\n• **Decreto 852/2025:** Instrumento oficial que formaliza la designación de Auguadra y el cese de Neiffert.\n• **$26.117.900.000:** Monto en pesos de la ampliación de fondos para la SIDE, autorizado por DNU poco antes del recambio.\n• **Santiago Caputo:** Asesor presidencial, impulsor de la llegada de Auguadra y previamente de Neiffert a la SIDE.\n\n⚡ **Desarrollo:**\n• La gestión de Neiffert (Informe 2023-2024) fue validada por la Comisión Bicameral de Fiscalización, habiendo \"ordenado procesos internos y optimizado recursos\".\n• La salida de Neiffert se presentó como el cierre de esta primera fase, orientada a sentar las bases de un organismo más eficiente y transparente.\n• Auguadra, quien era Jefe de Asuntos Internos de la SIDE desde noviembre de 2024, fue designado para liderar la segunda etapa de modernización.\n• El objetivo de esta nueva fase es profundizar la modernización técnica, consolidar controles y avanzar hacia un modelo de inteligencia \"ágil, integrado y moderno\", acorde a estándares internacionales.\n• Internamente, el cambio se atribuye a un \"cortocircuito\" entre Santiago Caputo y Neiffert, y a dinámicas de poder entre Karina Milei y Caputo.\n• La designación de Auguadra refuerza la influencia de la familia Caputo, dada su cercanía con Santiago y Claudio Caputo.\n\n💡 **¿Por qué importa?**\n• Implica un avance en la reestructuración del organismo de inteligencia, buscando profesionalizarlo y modernizarlo.\n• Refleja movimientos en la interna del Gobierno de Javier Milei, evidenciando las pujas de poder entre sus principales asesores.",
-      "cantidad_noticias": 4,
+      "tema_id": "cambio_cupula_side:_20251203",
+      "tema": "Cambio cúpula SIDE: Designación Auguadra",
+      "tema_normalizado": "cambio cupula side: designacion auguadra",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional anunció un cambio de liderazgo en la Secretaría de Inteligencia del Estado (SIDE).\n• Sergio Neiffert fue reemplazado como titular del organismo por Cristian Auguadra, quien asume el rol de Secretario de Inteligencia de Estado.\n• Esta medida se oficializó tras la aprobación del informe de gestión de Neiffert por la Comisión Bicameral del Congreso, indicando el fin de una primera fase de reestructuración.\n\n🔍 **Datos clave:**\n• **Cristian Auguadra:** Nuevo titular de la SIDE. Es contador público y hombre de confianza de Santiago Caputo.\n• **Sergio Neiffert:** Titular saliente de la SIDE, había sido designado en julio de 2024.\n• **Santiago Caputo:** Asesor presidencial y estratega clave del Gobierno.\n• **$26.117.900.000:** Monto adicional de presupuesto asignado a la SIDE por DNU días antes del cambio, con casi $20.000 millones para salarios.\n• **División de Asuntos Internos (DAI):** Área de la SIDE que Auguadra dirigió desde noviembre de 2024, encargada de auditorías internas.\n• **Julio 2024:** El Presidente Javier Milei disolvió la ex AFI y restituyó la SIDE.\n\n⚡ **Desarrollo:**\n• El Gobierno justificó la salida de Neiffert aludiendo al fin de la \"primera etapa del proceso de reestructuración del Sistema de Inteligencia Nacional\".\n• Esta fase inicial, bajo Neiffert, se centró en \"ordenar procesos internos, auditar y transparentar la estructura organizacional\" de la SIDE.\n• Auguadra, con experiencia en auditoría y gestión de riesgos, buscará \"profundizar la modernización técnica y operativa\" y \"consolidar mecanismos de control\".\n• Su perfil de bajo perfil y su cercanía con Santiago Caputo, principal estratega político, refuerzan la influencia de este último en la inteligencia estatal.\n• Antes de este anuncio, un Decreto de Necesidad y Urgencia (DNU) amplió significativamente el presupuesto de la SIDE, lo que generó debate público.\n• Auguadra, desde su rol previo en la DAI, era responsable de investigar irregularidades y supervisar la utilización de recursos dentro del propio organismo.\n• Medios de comunicación señalaron un \"cortocircuito\" previo entre Neiffert y Santiago Caputo, o que Neiffert había manifestado intenciones de retirarse.\n\n💡 **¿Por qué importa?**\n• El cambio consolida el poder de Santiago Caputo dentro del Gabinete sobre un área tan estratégica y de alto presupuesto como la inteligencia.\n• Muestra un paso adelante en la transformación institucional de la SIDE, enfatizando la modernización, el control interno y la profesionalización del personal.",
+      "cantidad_noticias": 8,
       "noticias": [
+        {
+          "titulo": "Quién es Cristian Auguadra, el nuevo titular de la SIDE que reemplazará a Sergio Neiffert",
+          "link": "https://www.lanacion.com.ar/politica/quien-es-cristian-auguadra-el-nuevo-titular-de-la-side-que-reemplazara-a-sergio-neiffert-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 03:14:52"
+        },
+        {
+          "titulo": "Quién es Cristian Auguadra, el nuevo Señor 5 de la SIDE y hombre de confianza de Santiago Caputo",
+          "link": "https://www.clarin.com/politica/cristian-auguadra-nuevo-senor-5-side-hombre-confianza-santiago-caputo_0_pYQg49AfV6.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 01:04:26"
+        },
+        {
+          "titulo": "El Gobierno confirmó la salida de Neiffert al frente de la SIDE y designó a Auguadra",
+          "link": "https://www.ambito.com/politica/el-gobierno-confirmo-la-salida-el-neiffert-al-frente-la-side-y-designo-auguadra-n6220182",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 00:53:00"
+        },
+        {
+          "titulo": "El Gobierno desplazó a Neiffert de la SIDE y designó a Auguadra",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-desplazo-a-neiffert-de-la-side-y-designo-a-auguadra.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 00:41:28"
+        },
         {
           "titulo": "Cambio en la SIDE: el Gobierno anunció la salida de Neiffert y la designación de Cristian Auguadra como reemplazante",
           "link": "https://www.lanacion.com.ar/politica/cambio-en-la-side-el-gobierno-anuncio-la-salida-de-neiffert-y-la-designacion-de-cristian-auguadra-nid02122025/",
           "fuente": "La Nación",
           "fecha": "2025-12-03 00:38:08"
-        },
-        {
-          "titulo": "El Gobierno anunció que Sergio Neiffert deja la SIDE y lo reemplazará Cristian Auguadra",
-          "link": "https://www.infobae.com/politica/2025/12/03/el-gobierno-anuncio-que-sergio-neiffert-deja-la-side-y-lo-reemplazara-cristian-auguadra/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-03 00:31:03"
         },
         {
           "titulo": "Desplazan a Sergio Neiffert de la SIDE y designan a Cristian Auguadra como su reemplazante",
@@ -33,14 +51,21 @@
           "link": "https://www.clarin.com/politica/adorni-desplazo-rolandi-vicejefe-gabinete-cobra-fuerza-posible-salida-sergio-neiffert-side_0_Gm8gAKl2AF.html",
           "fuente": "Clarín",
           "fecha": "2025-12-02 18:37:32"
+        },
+        {
+          "titulo": "El Gobierno amplió por DNU el presupuesto de la SIDE en más de $26.000 millones: aseguran que la mayor parte es para sueldos",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-amplio-por-dnu-el-presupuesto-de-la-side-en-mas-de-26000-millones-aseguran-que-la-mayor-parte-es-para-sueldos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 16:52:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "Ámbito Financiero",
         "Clarín",
-        "La Nación",
-        "Infobae"
+        "Perfil",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -48,12 +73,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "lla_obtiene_primera_20251203",
-      "tema": "LLA obtiene primera minoría Diputados",
-      "tema_normalizado": "lla obtiene primera minoria diputados",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Libertad Avanza (LLA) logró constituirse como la primera minoría en la Cámara de Diputados de Argentina.\n*   Este logro se materializó al sumar una nueva banca y superar por un escaño al bloque peronista Unión por la Patria (UP).\n*   El presidente Javier Milei celebró este cambio significativo, destacando su importancia para la agenda legislativa oficialista.\n\n🔍 **Datos clave:**\n*   **95 bancas:** Número actual de legisladores de LLA en la Cámara de Diputados.\n*   **94 bancas:** Número actual de legisladores de Unión por la Patria, que perdió 3 de Catamarca.\n*   **Francisco Morchio:** Diputado de Entre Ríos que se unió a LLA, proveniente del bloque Encuentro Federal.\n*   **Raúl Jalil:** Gobernador de Catamarca, cuya influencia llevó a la salida de tres diputados de UP de su provincia.\n*   **Elijo Catamarca:** Nombre del nuevo bloque formado por los diputados catamarqueños salientes.\n*   **Martín Menem:** Presidente de la Cámara de Diputados, cuya continuidad se ve fortalecida por este reacomodo.\n\n⚡ **Desarrollo:**\n*   La Libertad Avanza concretó la incorporación del diputado Francisco Morchio, quien se sumó al bloque por pedido del gobernador entrerriano Rogelio Frigerio.\n*   Simultáneamente, el bloque de Unión por la Patria sufrió una fractura con la salida de tres de sus legisladores de Catamarca: Fernanda Ávila, Sebastián Nóblega y Fernando Monguillot.\n*   Estos diputados catamarqueños, alineados con su gobernador Raúl Jalil, formaron una nueva bancada independiente llamada \"Elijo Catamarca\".\n*   La combinación de la suma a LLA y la resta a UP llevó a que LLA alcanzara 95 bancas, relegando a Unión por la Patria a la segunda minoría con 94.\n*   Estos movimientos se consolidaron en vísperas de la sesión preparatoria de la Cámara, donde se renuevan autoridades y se definen las composiciones de los bloques.\n\n💡 **¿Por qué importa?**\n*   Obtener la primera minoría asegura a LLA la presidencia de la Cámara de Diputados y la designación del vicepresidente primero, fortaleciendo su control institucional.\n*   Además, esta posición estratégica garantiza a LLA un integrante más que cualquier otro bloque en cada comisión legislativa, lo que facilita el avance de su agenda y el control sobre la oposición.",
-      "cantidad_noticias": 5,
+      "tema_id": "reconfiguracion_congreso:_lla_20251203",
+      "tema": "Reconfiguración Congreso: LLA primera minoría",
+      "tema_normalizado": "reconfiguracion congreso: lla primera minoria",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Libertad Avanza (LLA) ha logrado constituirse como la primera minoría en la Cámara de Diputados de Argentina.\n• Este hito estratégico se alcanzó al sumar nuevas bancas y superar en número de legisladores a Unión por la Patria (UP).\n• La reconfiguración parlamentaria fortalece la posición del oficialismo antes de que se inicie el período de sesiones extraordinarias.\n\n🔍 **Datos clave:**\n• **Bancas LLA:** 95 diputados, superando el \"tercio propio\" (86 bancas) y a UP.\n• **Bancas UP:** Quedó con 94 diputados tras la salida de tres legisladores.\n• **Diputado clave LLA:** Francisco Morchio (Entre Ríos), quien se incorporó desde Encuentro Federal.\n• **Diputados salientes UP:** Fernanda Ávila, Sebastián Nóblega y Fernando Monguillot (Catamarca), quienes formaron el bloque \"Elijo Catamarca\".\n• **Presidente de Diputados:** Martín Menem (LLA), cuya continuidad en el cargo se ve asegurada con la primera minoría.\n• **Sesiones Extraordinarias:** Se prevé un primer llamado entre el 8 o 10 de diciembre hasta fin de mes, y un segundo en enero de 2025.\n\n⚡ **Desarrollo:**\n• El ascenso de LLA a primera minoría se gestó con la incorporación de diputados como Francisco Morchio, quien se unió al bloque oficialista a pedido del gobernador Rogelio Frigerio.\n• Paralelamente, Unión por la Patria sufrió una fractura significativa en Diputados, principalmente por la decisión del gobernador de Catamarca, Raúl Jalil, de retirar a tres de sus representantes.\n• Esta nueva correlación de fuerzas numéricas garantiza a LLA la presidencia de la Cámara Baja y la vicepresidencia primera.\n• La posición de primera minoría también asegura a LLA una mayor presencia y representación en las diversas comisiones legislativas, otorgándole un control político clave sobre el tratamiento de proyectos.\n• El Gobierno tiene previsto llamar a sesiones extraordinarias para debatir iniciativas fundamentales como el Presupuesto 2026, la Ley de Inocencia Fiscal y la reforma laboral, buscando su aprobación.\n• Otros bloques también experimentaron movimientos; el PRO sufrió varias fugas y está en negociaciones con la UCR para formar un interbloque, mientras que gobernadores del Norte Grande buscan consolidar sus propios espacios parlamentarios.\n\n💡 **¿Por qué importa?**\n• La obtención de la primera minoría otorga a La Libertad Avanza un liderazgo fundamental y una mayor capacidad de negociación en el Congreso.\n• Este nuevo escenario es crucial para la gobernabilidad del país, ya que facilita la aprobación de la agenda legislativa propuesta por el gobierno de Javier Milei, incluyendo reformas económicas y estructurales estratégicas.",
+      "cantidad_noticias": 6,
       "noticias": [
+        {
+          "titulo": "El Gobierno ultima el llamado a extraordinarias y afina la estrategia tras asegurarse la primera minoría",
+          "link": "https://www.infobae.com/politica/2025/12/03/el-gobierno-ultima-el-llamado-a-extraordinarias-y-afina-la-estrategia-tras-asegurarse-la-primera-minoria/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 02:12:05"
+        },
         {
           "titulo": "Milei celebró la conformación de la primera minoría en el Congreso",
           "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid02122025/",
@@ -88,9 +119,10 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "Perfil",
         "Ámbito Financiero",
-        "La Nación",
-        "Perfil"
+        "Infobae",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -98,113 +130,23 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "renuncia_y_retiro_20251203",
-      "tema": "Renuncia y retiro de Lorena Villaverde",
-      "tema_normalizado": "renuncia y retiro de lorena villaverde",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La diputada de La Libertad Avanza, Lorena Villaverde, retiró su renuncia a su banca en la Cámara de Diputados.\n*   Esta decisión surge luego de que su diploma como senadora electa fuera rechazado por el Senado debido a acusaciones de vínculos con el narcotráfico y fraude.\n*   Con esta retractación, Villaverde continuará ocupando su cargo de Diputada Nacional.\n\n🔍 **Datos clave:**\n*   **Acusaciones principales:** Relación con Fred Machado (narcotráfico), fraude inmobiliario, y detención en EE.UU. en 2002 por posesión de 400 gramos de cocaína.\n*   **Votación en el Senado:** La Comisión de Asuntos Constitucionales rechazó su diploma con 12 de 19 votos en contra.\n*   **Mandato actual:** Continuará como Diputada Nacional hasta 2027.\n*   **Actores clave:** Martín Soria (diputado que la denunció), Martín Menem (presidente de la Cámara Baja), Patricia Bullrich (la defendió).\n\n⚡ **Desarrollo:**\n*   Lorena Villaverde, diputada por Río Negro, había renunciado a su puesto en la Cámara Baja para asumir como senadora, cargo para el cual fue electa.\n*   Su asunción en el Senado fue frenada por el rechazo a su diploma, motivado por denuncias y su prontuario judicial, incluyendo la detención en Florida, Estados Unidos, en 2002.\n*   La Comisión de Asuntos Constitucionales del Senado consideró las objeciones de varios legisladores, incluyendo Unión por la Patria y el peronista disidente Juan Carlos Romero, quienes desaprobaron su ingreso.\n*   Ante la imposibilidad de jurar como senadora y el riesgo de quedar sin ninguna banca, Villaverde solicitó formalmente a Martín Menem que retirara su renuncia como diputada.\n*   En la Cámara de Diputados, Villaverde también enfrenta cuestionamientos; el diputado Martín Soria la denunció en la sesión del 12 de marzo de este año por diversos delitos, como lavado de dinero y venta fraudulenta de terrenos.\n*   A pesar de que figuras del oficialismo como Patricia Bullrich alegaron que no existen causas abiertas contra ella en Argentina, la contundencia del rechazo en el Senado la obligó a dar marcha atrás.\n\n💡 **¿Por qué importa?**\n*   El caso subraya el escrutinio de los antecedentes judiciales de los legisladores y la importancia del proceso de \"ficha limpia\" en el ámbito político.\n*   Esta situación genera un debate sobre la ética y la idoneidad para ocupar cargos públicos, afectando la percepción de la transparencia y la integridad en el Congreso.",
-      "cantidad_noticias": 4,
+      "tema_id": "cotizacion_diaria_del_20251203",
+      "tema": "Cotización diaria del Dólar y Euro",
+      "tema_normalizado": "cotizacion diaria del dolar y euro",
+      "resumen": "📌 **¿Qué está pasando?**\n• El 2 de diciembre, el dólar oficial en Argentina registró una leve suba y alcanzó su valor más alto en un mes, mientras que el dólar blue se mantuvo estable y como el tipo de cambio más económico.\n• A nivel global, el 3 de diciembre, la cotización del euro frente al dólar reflejó la dinámica económica internacional, influenciada por factores como las tasas de interés y la geopolítica.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (BNA 2/12):** Compra $1.430 / Venta $1.480\n• **Dólar Blue (2/12):** Compra $1.425 / Venta $1.445\n• **Euro Oficial (BCRA promedio 2/12):** Compra $1.640,79 / Venta $1.733,71\n• **Euro Blue (2/12):** Compra $1.723,75 / Venta $1.755,75\n• **Relación Euro-Dólar (3/12):** 1 dólar estadounidense = 0,8590 euros\n• **Reservas Brutas BCRA (2/12):** u$s41.882 millones (subieron u$s106 millones)\n\n⚡ **Desarrollo:**\n• El dólar oficial en Argentina mostró una ligera alza, superando valores de principios de noviembre y quedando a solo $10 por debajo del dólar blue, que se mantuvo sin cambios.\n• En el mercado argentino, coexisten múltiples tipos de dólar: el MEP a $1.478,59, el CCL a $1.522,86, el Tarjeta a $1.924 y el Cripto a $1.512,77, mostrando distintas brechas con el oficial.\n• La economía de la Eurozona inició el año con más solidez de la esperada, y se anticipa que la inflación de la eurozona alcance el objetivo del Banco Central Europeo del 2% en 2024 y 2026.\n• Sin embargo, la Eurozona enfrenta desafíos por la volatilidad de los mercados internacionales, presiones comerciales y riesgos geopolíticos, además de controversias internas sobre la estabilidad de la moneda única.\n• Las reservas netas del Banco Central de Argentina siguen en terreno negativo, estimadas en -u$s271 millones, afectadas por la disminución de la liquidación de divisas del sector agroexportador en noviembre.\n\n💡 **¿Por qué importa?**\n• La cotización diaria de estas divisas es un indicador vital de la salud económica global y local, impactando directamente en el comercio, las inversiones y el costo de vida.\n• Conocer estos valores es crucial para ahorristas y empresas, ya que reflejan las políticas monetarias de los bancos centrales y las expectativas del mercado, influyendo en decisiones financieras clave.",
+      "cantidad_noticias": 10,
       "noticias": [
         {
-          "titulo": "Rechazada en el Senado, Lorena Villaverde vuelve a pedir asilo en la Cámara de Diputados",
-          "link": "https://www.perfil.com/noticias/politica/rechazada-en-el-senado-lorena-villaverde-vuelve-a-pedir-asilo-en-la-camara-de-diputados.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 21:02:00"
+          "titulo": "Cotización del euro frente al dólar hoy 3 de diciembre",
+          "link": "https://www.infobae.com/espana/2025/12/03/cotizacion-del-euro-frente-al-dolar-hoy-3-de-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 02:15:26"
         },
-        {
-          "titulo": "Lorena Villaverde confirmó que retiró su renuncia como diputada tras no recibir el respaldo para asumir en el Senado",
-          "link": "https://www.clarin.com/politica/lorena-villaverde-confirmo-retiro-renuncia-diputada-recibir-respaldo-asumir-senado_0_FDpwH4Vhe3.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 19:22:46"
-        },
-        {
-          "titulo": "Lorena Villaverde dio marcha atrás y retiró su renuncia como diputada",
-          "link": "https://www.ambito.com/politica/lorena-villaverde-dio-marcha-atras-y-retiro-su-renuncia-como-diputada-n6220110",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 18:16:00"
-        },
-        {
-          "titulo": "Interna en La Libertad Avanza: Lorena Villaverde retiró su renuncia como diputada",
-          "link": "https://www.minutouno.com/politica/interna-la-libertad-avanza-lorena-villaverde-retiro-su-renuncia-como-diputada-n6220107",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 17:45:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "bancos_contra_fintech_20251203",
-      "tema": "Bancos contra fintech pago salarios",
-      "tema_normalizado": "bancos contra fintech pago salarios",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las principales cámaras bancarias de Argentina (ABA, Adeba, Abappra) se oponen a que las billeteras virtuales puedan gestionar el pago de salarios, jubilaciones y asignaciones.\n• Esta disputa surge a raíz de una propuesta incluida en la reforma laboral impulsada por el Gobierno, que busca habilitar la acreditación de haberes a través de estas plataformas.\n\n🔍 **Datos clave:**\n• **Actores clave:** ABA (banca extranjera), Adeba (banca privada nacional) y Abappra (bancos públicos y cooperativos).\n• **Iniciativa gubernamental:** La propuesta inicial se contempló en el Decreto 70/23, cuyo capítulo de reforma laboral fue suspendido por la Justicia.\n• **Cuentas gestionadas:** El sistema bancario administra más de 10 millones de cuentas sueldo y 14.7 millones de cuentas de jubilaciones y pensiones.\n• **Cambio histórico:** Hasta mediados de la década de 1990, salarios y jubilaciones se pagaban en efectivo, luego se bancarizaron.\n\n⚡ **Desarrollo:**\n• Los bancos defienden el modelo actual, destacando que es \"sólido, gratuito y de calidad\", y que está alineado con estándares internacionales de seguridad y trazabilidad financiera.\n• Argumentan que permitir el pago de haberes en billeteras virtuales implicaría un \"descenso en los niveles de formalidad y exigencias regulatorias\".\n• Advierten que esto expondría a los beneficiarios al riesgo de perder sus fondos si la empresa detrás de la billetera virtual enfrenta problemas financieros o de gestión.\n• Señalan que las billeteras no están reguladas ni supervisadas por el Banco Central (BCRA) ni ofrecen garantía sobre los fondos, a diferencia de los bancos que sí lo hacen.\n• Además, los bancos sostienen que el traspaso de fondos al sistema de billeteras virtuales reduciría la capacidad del sistema financiero para generar préstamos a la economía.\n• Las entidades bancarias alertan que una contingencia en una billetera virtual podría generar problemas para el Estado y afectar la generación de crédito, elevando el riesgo sistémico.\n• La preocupación bancaria se reactiva ante la intención del Gobierno de avanzar con nuevas reglas en materia laboral, buscando habilitar la competencia en el pago de nóminas.\n\n💡 **¿Por qué importa?**\n• La decisión final impactará directamente en la seguridad y protección de los ingresos de millones de trabajadores y jubilados en Argentina.\n• Define el futuro del nivel de formalidad y regulación en el sistema financiero, con consecuencias en la estabilidad económica y la capacidad de crédito del país.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Bancos se oponen a que las billeteras virtuales gestionen el pago de salarios y jubilaciones",
-          "link": "https://www.ambito.com/finanzas/bancos-se-oponen-que-las-billeteras-virtuales-gestionen-el-pago-salarios-y-jubilaciones-n6220161",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 21:17:23"
-        },
-        {
-          "titulo": "Los bancos piden que no se habiliten a las fintech para el pago de sueldos y jubilaciones",
-          "link": "https://www.iprofesional.com/economia/443208-bancos-piden-que-no-se-habiliten-a-fintech-para-pago-sueldos-jubilaciones",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 20:13:00"
-        },
-        {
-          "titulo": "Los bancos piden que no se habilite a las fintech a pagar sueldos y jubilaciones",
-          "link": "https://www.lanacion.com.ar/economia/los-bancos-piden-que-no-se-habilite-a-las-fintech-a-pagar-sueldos-y-jubilaciones-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 20:00:00"
-        },
-        {
-          "titulo": "Los bancos rechazan que se puedan pagar salarios y jubilaciones en billeteras virtuales",
-          "link": "https://www.perfil.com/noticias/economia/bancos-rechazan-que-billeteras-virtuales-puedan-pagar-salarios-y-jubilaciones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 19:54:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "La Nación",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cotizaciones_dolar_y_20251203",
-      "tema": "Cotizaciones dólar y euro Argentina",
-      "tema_normalizado": "cotizaciones dolar y euro argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones del dólar y el euro en Argentina mostraron movimientos variados el martes 2 de diciembre.\n• El dólar oficial experimentó leves subas, mientras que el dólar \"blue\" se mantuvo estable, llegando a ser el tipo de cambio más barato en algunos momentos.\n• Las reservas del Banco Central siguen siendo un punto crítico, generando expectativas y cautela en el mercado.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (BNA):** Venta a $1.480.\n• **Dólar Mayorista:** $1.455.\n• **Dólar Blue:** Compra $1.425 / Venta $1.445.\n• **Dólar MEP:** Opera a $1.478,59.\n• **Dólar Contado con Liquidación (CCL):** Opera a $1.522,86, con una brecha del 4,9% con el oficial.\n• **Dólar Tarjeta/Turista:** $1.924 (incluye recargos).\n• **Euro Oficial (BCRA promedio):** Compra $1.640,79 / Venta $1.733,71.\n• **Euro Blue:** Compra $1.684,29 / Venta $1.688,03.\n• **Reservas Netas BCRA:** Estiman en terreno negativo (-u$s271 millones), con proyecciones de -u$s17.000 millones a fin de año.\n• **Riesgo País (JP Morgan):** 646-647 puntos básicos.\n• **Proyección Dólar Mayorista 2026:** Consenso de $1.746 por analistas.\n\n⚡ **Desarrollo:**\n• El mercado argentino opera con una multiplicidad de tipos de cambio para el dólar y el euro, reflejando diferentes regulaciones y demandas de divisas.\n• La \"calma\" cambiaria observada en noviembre se extendió, aunque el dólar oficial minorista y mayorista anotaron leves subas, tocando máximos en un mes.\n• La demanda de pesos suele aumentar en diciembre por aguinaldos y gastos de fin de año, lo que algunos analistas creen que podría mantener estable o incluso bajar la divisa.\n• La frágil situación de las reservas netas del Banco Central es una preocupación central, y la acumulación de divisas es vista como clave para la estabilidad.\n• Economistas proyectan un dólar mayorista de $1.480 para fin de este año y $1.746 para diciembre de 2026, con expectativas de disminución de la inflación y crecimiento del PBI.\n• Las brechas entre el dólar oficial y los tipos financieros (MEP y CCL) se mantuvieron relativamente contenidas, aunque el CCL se ubica por encima de la banda oficial.\n\n💡 **¿Por qué importa?**\n• La dinámica de las múltiples cotizaciones y las reservas del Banco Central impactan directamente en la economía argentina, afectando los precios, el poder adquisitivo y las decisiones financieras.\n• El monitoreo constante de estos valores es esencial para comprender la estabilidad económica del país y las expectativas futuras de inversores y ciudadanos.",
-      "cantidad_noticias": 12,
-      "noticias": [
         {
           "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 2 de diciembre",
           "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-2-diciembre-n6219716",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-02 20:07:00"
-        },
-        {
-          "titulo": "El dólar cerró en $ 1.480 y sigue la demanda de pesos de cara a los mayores gastos de fin de año",
-          "link": "https://www.clarin.com/economia/dolar-cerro-1480-incognita-efecto-demanda-pesos-previa-vacaciones_0_MaOn72FOCo.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 19:19:22"
         },
         {
           "titulo": "Dólar hoy: a cuánto cerró este martes 2 de diciembre",
@@ -217,12 +159,6 @@
           "link": "https://www.ambito.com/finanzas/el-dolar-blue-se-mantuvo-como-el-tipo-cambio-mas-barato-del-mercado-debajo-los-1450-n6220106",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-02 18:25:00"
-        },
-        {
-          "titulo": "¿Aguanta la calma del dólar?: nuevo precio que prevén 40 consultoras para los próximos meses",
-          "link": "https://www.iprofesional.com/finanzas/443188-nuevo-precio-dolar-que-preven-40-bancos-y-consultoras-para-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 18:20:00"
         },
         {
           "titulo": "Dólar blue hoy: a cuánto opera este martes 2 de diciembre",
@@ -259,20 +195,13 @@
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-2-diciembre-n6219714",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-02 15:58:00"
-        },
-        {
-          "titulo": "El dato que nadie esperaba: por qué el dólar podría volver a chocar contra el techo de la banda",
-          "link": "https://www.iprofesional.com/finanzas/443143-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 15:15:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Clarín",
         "Ámbito Financiero",
-        "iProfesional",
+        "Infobae",
         "Perfil"
       ],
       "es_tema_nuevo": true,
@@ -281,36 +210,49 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_cuadernos:_de_20251203",
-      "tema": "Causa Cuadernos: De Vido y jueces",
-      "tema_normalizado": "causa cuadernos: de vido y jueces",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Tribunal Oral Federal N° 7 (TOF 7), a cargo de la Causa Cuadernos, enfrenta múltiples desafíos que ralentizan el avance del juicio.\n• El exministro Julio De Vido solicitó el apartamiento de los jueces por \"prejuzgamiento\", mientras uno de los magistrados intentó, sin éxito, asumir otras suplencias.\n• Estas situaciones generan importantes demoras en el proceso, que es considerado el mayor juicio por corrupción del país.\n\n🔍 **Datos clave:**\n• **Jueces del TOF 7:** Enrique Méndez Signori (presidente), Fernando Canero y Germán Castelli.\n• **Acusados en Causa Cuadernos:** 86 personas (incluida la expresidenta Cristina Kirchner), con más de 600 testigos.\n• **Inicio del juicio oral:** 6 de noviembre, con la lectura de las imputaciones.\n• **Modalidad actual:** Audiencias virtuales, dos veces por semana (martes y jueves).\n• **Artículo impugnado:** Artículo 61 del Código Procesal Penal de la Nación, por la defensa de De Vido.\n\n⚡ **Desarrollo:**\n• La defensa de Julio De Vido, a cargo de los abogados Maximiliano Rusconi y Gabriel Palmeiro, pidió la recusación de los tres jueces del TOF 7.\n• Argumentaron un \"fundado temor de parcialidad\", señalando que los magistrados ya habían emitido opinión sobre pruebas similares al condenar a De Vido en la causa GNL.\n• El TOF 7 rechazó \"in límine\" este planteo, pero la discusión consumió casi toda una audiencia, dejando solo media hora para la lectura de acusaciones.\n• Por otra parte, el juez Germán Castelli ofreció ser suplente en otros tribunales orales, pero la Cámara Federal de Casación rechazó su pedido por unanimidad.\n• La Cámara de Casación indicó que Castelli debe dedicarse por completo al \"complejo y extenso proceso\" de los Cuadernos, buscando agilizar el juicio.\n• Para acelerar el proceso, la Casación propuso más días de audiencia, que sean presenciales y ofreció una sala auditorio con capacidad para 200 personas.\n• La investigación de la causa Cuadernos, inicialmente a cargo del fiscal Carlos Stornelli, se centra en una asociación ilícita para recaudar fondos ilegales entre 2003 y 2015.\n\n💡 **¿Por qué importa?**\n• Las constantes dilaciones y planteos procesales ponen a prueba la capacidad del sistema judicial para llevar adelante un juicio de alta complejidad y trascendencia pública.\n• La controversia sobre el \"prejuzgamiento\" y la imparcialidad judicial es fundamental para garantizar el debido proceso legal y la legitimidad de las futuras sentencias.",
-      "cantidad_noticias": 3,
+      "tema_id": "bancos_vs._fintech:_20251203",
+      "tema": "Bancos vs. Fintech: Pago salarios/jubilaciones",
+      "tema_normalizado": "bancos vs. fintech: pago salarios/jubilaciones",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las principales cámaras bancarias de Argentina (ADEBA, ABA, ABAPPRA) manifestaron un fuerte rechazo a la propuesta gubernamental de que las billeteras virtuales puedan gestionar el pago de salarios, jubilaciones y asignaciones.\n• Esta medida, incluida en la reforma laboral, ha generado un intenso debate sobre la seguridad, regulación y trazabilidad de los fondos de millones de beneficiarios.\n\n🔍 **Datos clave:**\n• **Actores principales:** Las tres cámaras bancarias más importantes del país (ADEBA, ABA, ABAPPRA) vs. empresas de billeteras virtuales (fintech).\n• **Iniciativa gubernamental:** La posibilidad de habilitar a las fintech para estos pagos fue incluida en el suspendido Decreto 70/23, y el temor es que se reactive.\n• **Volumen actual de cuentas:** El sistema bancario formal gestiona más de 10 millones de cuentas sueldo y 14.7 millones de cuentas de jubilaciones y pensiones.\n• **Regulación sobre FCI Money Market:** Recientes normativas del BCRA limitaron al 20% (desde 26% en noviembre) la inversión en cauciones para los Fondos Comunes de Inversión Money Market, que usan las billeteras para rendimientos.\n• **Liquidez bancaria:** Ajustes de encajes en diciembre de 2023 liberaron aproximadamente $1.95 billones en el sistema bancario.\n\n⚡ **Desarrollo:**\n• Los bancos defienden el modelo actual, regulado y supervisado por el Banco Central (BCRA), resaltando que es \"sólido\", \"gratuito\" y \"de calidad\", y cumple con estándares internacionales de seguridad y trazabilidad.\n• Advierten que permitir el depósito de haberes en billeteras digitales implicaría un \"descenso en los niveles de formalidad y exigencias regulatorias\" para plataformas no bancarias.\n• Subrayan que las billeteras virtuales no ofrecen el mismo nivel de seguridad ni garantía absoluta sobre los fondos, exponiendo a los usuarios a posibles pérdidas si la empresa enfrenta problemas financieros o desmanejos.\n• Alertan que esta flexibilización podría afectar la capacidad del sistema para generar crédito para empresas y personas, e incrementar el riesgo sistémico general.\n• Se recuerda que el pago de salarios y jubilaciones se realizaba en efectivo hasta mediados de los años 90, cuando se promovió su acreditación en cuentas bancarias para mayor formalidad.\n• Las fintech buscan ofrecer servicios de \"cuentas sueldo\" y \"jubilaciones\" sin someterse a la misma regulación prudencial (BCRA, Basilea) o aportar a un sistema de garantía de depósitos como los bancos.\n• Los bancos argumentan que cuando los fondos se trasladan a billeteras virtuales, dejan de ser fondos de las personas y se transforman en \"fondos institucionales\", volátiles y que no pueden ser utilizados para financiar préstamos.\n\n💡 **¿Por qué importa?**\n• La resolución de este conflicto impactará directamente la seguridad financiera y las opciones de gestión de haberes de millones de trabajadores y jubilados en el país.\n• Este debate es crucial para definir el marco regulatorio del sector fintech en Argentina y el equilibrio entre innovación, competencia y protección al consumidor dentro del sistema financiero.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Rechazan por unanimidad el pedido de un juez del caso Cuadernos para intervenir en otros juicios",
-          "link": "https://www.lanacion.com.ar/politica/rechazan-por-unanimidad-el-pedido-de-un-juez-del-caso-cuadernos-para-intervenir-en-otros-juicios-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-02 21:13:09"
-        },
-        {
-          "titulo": "Cuadernos: Julio De Vido pidió apartar a los jueces del TOF 7 y denunció \"prejuzgamiento\"",
-          "link": "https://www.ambito.com/politica/cuadernos-julio-vido-pidio-apartar-los-jueces-del-tof-7-y-denuncio-prejuzgamiento-n6220140",
+          "titulo": "Bancos se oponen a que las billeteras virtuales gestionen el pago de salarios y jubilaciones",
+          "link": "https://www.ambito.com/finanzas/bancos-se-oponen-que-las-billeteras-virtuales-gestionen-el-pago-salarios-y-jubilaciones-n6220161",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 19:45:00"
+          "fecha": "2025-12-02 21:17:23"
         },
         {
-          "titulo": "Cuadernos, el juicio imposible: con una jugada de De Vido que el tribunal tardó en rechazar, en todo el día solo hubo media hora de audiencia",
-          "link": "https://www.clarin.com/politica/cuadernos-juicio-imposible-jugada-vido-tribunal-tardo-rechazar-dia-solo-media-hora-audiencia_0_eDIWnrJN9Z.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 19:12:56"
+          "titulo": "Los bancos piden que no se habiliten a las fintech para el pago de sueldos y jubilaciones",
+          "link": "https://www.iprofesional.com/economia/443208-bancos-piden-que-no-se-habiliten-a-fintech-para-pago-sueldos-jubilaciones",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-02 20:13:00"
+        },
+        {
+          "titulo": "Los bancos piden que no se habilite a las fintech a pagar sueldos y jubilaciones",
+          "link": "https://www.lanacion.com.ar/economia/los-bancos-piden-que-no-se-habilite-a-las-fintech-a-pagar-sueldos-y-jubilaciones-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 20:00:00"
+        },
+        {
+          "titulo": "Los bancos rechazan que se puedan pagar salarios y jubilaciones en billeteras virtuales",
+          "link": "https://www.perfil.com/noticias/economia/bancos-rechazan-que-billeteras-virtuales-puedan-pagar-salarios-y-jubilaciones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 19:54:00"
+        },
+        {
+          "titulo": "Billeteras virtuales: cómo afectó a los rendimientos la nueva normativa que modifica cartera de FCI Money Market",
+          "link": "https://www.ambito.com/finanzas/billeteras-virtuales-como-afecto-los-rendimientos-el-ajuste-los-encajes-los-fci-money-market-n6219959",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 17:01:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Clarín",
+        "iProfesional",
         "Ámbito Financiero",
+        "Perfil",
         "La Nación"
       ],
       "es_tema_nuevo": true,
@@ -319,10 +261,105 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "amenazas_de_trump_20251203",
-      "tema": "Amenazas de Trump a Venezuela",
-      "tema_normalizado": "amenazas de trump a venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Donald Trump, entonces presidente de Estados Unidos, intensificó sus amenazas contra Venezuela, anticipando posibles \"ataques por tierra\" para combatir el narcotráfico.\n*   Estas declaraciones se sumaron a operaciones navales ya en curso en el Caribe y a una demanda explícita para que Nicolás Maduro renunciara a la presidencia.\n*   La tensión escaló con un despliegue militar significativo de EE.UU. en la región.\n\n🔍 **Datos clave:**\n*   **Operación militar:** \"Lanza del Sur\" (South Spear Operation) de Estados Unidos.\n*   **Despliegue militar:** Aproximadamente 15.000 soldados, destructores, aviones de combate y el portaaviones USS Gerald R. Ford en el Caribe.\n*   **Resultados de operaciones navales (previas):** Destrucción de alrededor de 20 embarcaciones y 80 muertes.\n*   **Organización vinculada:** Cartel de los Soles, designado por EE.UU. como organización terrorista extranjera y vinculado a Maduro.\n*   **Mensaje a Maduro:** Ultimátum para dimitir y abandonar el país, con rechazo a sus condiciones de amnistía.\n\n⚡ **Desarrollo:**\n*   Trump afirmó que los ataques terrestres serían \"mucho más fáciles\" que los navales, argumentando que conocían las rutas de narcotráfico y \"dónde viven los malos\".\n*   El presidente estadounidense amplió sus advertencias a cualquier país que traficara drogas a EE.UU., mencionando a Colombia como ejemplo de posible objetivo.\n*   Nicolás Maduro respondió con un mensaje desafiante y solicitó a la OPEP el fin de la \"agresión\" estadounidense, tras el despliegue militar en la zona.\n*   Se confirmó un diálogo telefónico entre Trump y Maduro, donde este último habría ofrecido dejar el poder a cambio de amnistía para él y su familia, el levantamiento de sanciones y el fin de su caso en la Corte Penal Internacional.\n*   Trump rechazó rotundamente las condiciones de Maduro, insistiendo en su salida incondicional del poder.\n*   Expertos sugirieron que los ataques en tierra podrían significar ofensivas con misiles contra objetivos estratégicos vinculados al narcotráfico, como puentes o pistas de aterrizaje, en lugar de un desembarco masivo de tropas.\n\n💡 **¿Por qué importa?**\n*   La escalada de amenazas militares y la visible presencia naval de EE.UU. en el Caribe marcaron un punto de alta tensión en las relaciones diplomáticas entre ambos países y en la seguridad regional.\n*   Estas acciones reflejaron una política de presión extrema por parte de la administración Trump para lograr un cambio de gobierno en Venezuela y para combatir lo que consideraba narcotráfico.",
+      "tema_id": "politicas_laborales_y_20251203",
+      "tema": "Políticas Laborales y Salariales",
+      "tema_normalizado": "politicas laborales y salariales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno fijó de manera unilateral el Salario Mínimo, Vital y Móvil (SMVM) y los valores de la prestación por desempleo para los próximos diez meses, ante la falta de acuerdo entre sindicatos y empleadores.\n• Simultáneamente, organizaciones sociales protestan por los bajos aumentos salariales y la propuesta de desvincular la Asignación Universal por Hijo (AUH) de la fórmula de movilidad previsional.\n• Además, el Ejecutivo avanzó con la redacción de un proyecto de reforma laboral que busca modernizar las relaciones de trabajo, generando resistencia por parte de la CGT.\n\n🔍 **Datos clave:**\n• SMVM fijado: Desde $328.400 (Noviembre 2025) hasta $376.600 (Agosto 2026).\n• AUH: Aumento a $122.000, con propuesta de desvincularla de la fórmula del ANSES.\n• Reforma Laboral: Proyecto de más de 150 artículos, con fecha estimada de envío al Congreso el 9 de diciembre.\n• Prestación por Desempleo: 75% del mejor salario neto, con piso del 50% y tope del 100% del SMVM.\n• Resolución: 9/2025, publicada en el Boletín Oficial, establece los nuevos valores del SMVM.\n• Actores clave: Secretaría de Trabajo, CGT, UTEP, Territorios en Lucha, Sergio Massa, Federico Sturzenegger.\n\n⚡ **Desarrollo:**\n• El Gobierno tomó la decisión sobre el SMVM al no alcanzar consenso en el Consejo del Salario, conformado por representantes de trabajadores y empleadores, en la reunión del 26 de noviembre.\n• Los aumentos del SMVM serán escalonados y mensuales, aplicando a trabajadores mensualizados, jornalizados, agrarios y de la administración pública nacional.\n• Organizaciones sociales describen la situación actual como de \"inseguridad alimentaria\", con las filas en los comedores duplicadas y un notable deterioro en la calidad nutricional.\n• El proyecto de reforma laboral, liderado por el ministro Federico Sturzenegger, busca modificar aspectos como la ultraactividad de convenios, cargas fiscales, financiamiento sindical y reglas para el trabajo autónomo.\n• La CGT, por su parte, ha manifestado desconocer el texto final de la reforma y anticipa una \"pulseada\" en el Congreso, especialmente en temas que afectan los convenios colectivos y derechos sindicales.\n• Sergio Massa, exministro de Economía, aconsejó a la CGT discutir la reforma laboral y no rechazarla a \"libro cerrado\", argumentando la necesidad de formalizar a la mitad de la población económicamente activa que trabaja en la informalidad.\n\n💡 **¿Por qué importa?**\n• Las decisiones sobre salarios y AUH impactan directamente en el poder adquisitivo y la calidad de vida de millones de familias, especialmente en contextos de alta inflación y \"inseguridad alimentaria\".\n• La discusión y eventual aprobación de la reforma laboral redefinirá el marco de las relaciones laborales, el rol de los sindicatos y las condiciones para la generación de empleo formal en el país.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Organizaciones sociales marcharán al Congreso contra el recorte en la AUH y el proyecto \"esclavista\" de reforma laboral",
+          "link": "https://www.perfil.com/noticias/politica/organizaciones-sociales-marcharan-al-congreso-contra-el-recorte-en-la-auh-y-la-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 02:00:00"
+        },
+        {
+          "titulo": "El Gobierno fijó el salario mínimo para los próximos 10 meses, junto con cambios en la prestación por desempleo",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-fijo-el-salario-minimo-para-los-proximos-10-meses-junto-con-cambios-en-la-prestacion-por-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 01:59:48"
+        },
+        {
+          "titulo": "Oficializaron nuevas subas para el Salario Mínimo, Vital y Móvil: de cuánto será este mes y a cuánto llegará en agosto",
+          "link": "https://www.infobae.com/economia/2025/12/03/oficializaron-nuevas-subas-para-el-salario-minimo-vital-y-movil-de-cuanto-sera-este-mes-y-a-cuanto-llegara-en-agosto/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 01:51:06"
+        },
+        {
+          "titulo": "En una cena reservada, Massa le planteó a la CGT que discuta la reforma laboral y no la rechace a libro cerrado",
+          "link": "https://www.lanacion.com.ar/politica/en-una-cena-reservada-massa-le-planteo-a-la-cgt-que-discuta-la-reforma-laboral-y-no-la-rechace-a-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 20:35:33"
+        },
+        {
+          "titulo": "Reforma laboral: el Gobierno cerró el texto y prepara una pulseada con la CGT en extraordinarias",
+          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-el-gobierno-cerro-el-texto-y-prepara-una-pulseada-con-la-cgt-en-extraordinarias.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 19:33:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "Infobae",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caso_lorena_villaverde:_20251203",
+      "tema": "Caso Lorena Villaverde: Renuncia y retiro",
+      "tema_normalizado": "caso lorena villaverde: renuncia y retiro",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La diputada libertaria Lorena Villaverde retiró formalmente su renuncia a su banca en la Cámara de Diputados de la Nación.\n*   Esta decisión se dio después de que no lograra asumir su cargo como senadora electa, ya que su diploma fue rechazado por la Comisión de Asuntos Constitucionales del Senado.\n*   Villaverde, quien había dimitido para ocupar un escaño en la Cámara Alta, optó por mantener su actual mandato ante la incertidumbre sobre su ingreso al Senado.\n\n🔍 **Datos clave:**\n*   **Mandato actual:** Continúa como diputada nacional por Río Negro hasta 2027.\n*   **Comisión del Senado:** 12 de 19 senadores de la Comisión de Asuntos Constitucionales desaprobaron su diploma.\n*   **Detención en EE.UU.:** Fue detenida en 2002 en Florida por presunta posesión de 400 gramos de cocaína y tener 12 mil dólares.\n*   **Figura central de las acusaciones:** Fred Machado, empresario con vínculos con narcotráfico y fraude inmobiliario, con quien se asocia a Villaverde.\n*   **Denunciante principal:** Diputado peronista Martín Soria, quien la denunció por delitos en una sesión el 12 de marzo.\n*   **Allanamiento:** Su domicilio fue allanado en 2017 por una causa de lavado de dinero.\n\n⚡ **Desarrollo:**\n*   Lorena Villaverde había presentado su renuncia como diputada para asumir como senadora electa el 10 de diciembre, representando a la minoría de Río Negro.\n*   Sin embargo, su postulación al Senado fue impugnada debido a un prontuario judicial que incluye una detención en Estados Unidos por narcotráfico y presuntos vínculos con figuras como Fred Machado y Claudio Ciccarelli.\n*   A pesar de contar con el apoyo de algunos sectores de La Libertad Avanza y figuras como Patricia Bullrich, la Comisión de Asuntos Constitucionales del Senado consideró que existían demasiadas objeciones.\n*   Ante la falta de los votos necesarios para la convalidación de su pliego en el Senado, y para evitar quedarse sin ninguna banca, Villaverde decidió dar marcha atrás con su renuncia a Diputados.\n*   La legisladora rionegrina sostiene que fue declarada \"culpable por conspiración\" en EE.UU. por confiar en la gente equivocada y niega haber traficado cocaína o tener vínculos con Machado.\n*   Su permanencia en la Cámara Baja le garantiza la continuidad de sus fueros y su sueldo por los dos años restantes de su mandato, aunque su figura sigue siendo un foco de críticas.\n*   En la Cámara de Diputados, se requeriría una votación de dos tercios de sus miembros para impulsar una eventual expulsión de Villaverde.\n\n💡 **¿Por qué importa?**\n*   Este caso resalta la importancia del proceso de revisión de antecedentes de los legisladores y los desafíos para el ingreso a cargos públicos cuando existen cuestionamientos judiciales graves.\n*   Genera un debate sobre los estándares éticos y de idoneidad exigidos a los representantes parlamentarios y la capacidad de las cámaras para hacerlos cumplir.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Rechazada en el Senado, Lorena Villaverde vuelve a pedir asilo en la Cámara de Diputados",
+          "link": "https://www.perfil.com/noticias/politica/rechazada-en-el-senado-lorena-villaverde-vuelve-a-pedir-asilo-en-la-camara-de-diputados.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 21:02:00"
+        },
+        {
+          "titulo": "Lorena Villaverde confirmó que retiró su renuncia como diputada tras no recibir el respaldo para asumir en el Senado",
+          "link": "https://www.clarin.com/politica/lorena-villaverde-confirmo-retiro-renuncia-diputada-recibir-respaldo-asumir-senado_0_FDpwH4Vhe3.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 19:22:46"
+        },
+        {
+          "titulo": "Lorena Villaverde dio marcha atrás y retiró su renuncia como diputada",
+          "link": "https://www.ambito.com/politica/lorena-villaverde-dio-marcha-atras-y-retiro-su-renuncia-como-diputada-n6220110",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 18:16:00"
+        },
+        {
+          "titulo": "Interna en La Libertad Avanza: Lorena Villaverde retiró su renuncia como diputada",
+          "link": "https://www.minutouno.com/politica/interna-la-libertad-avanza-lorena-villaverde-retiro-su-renuncia-como-diputada-n6220107",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 17:45:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "Minuto1",
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "trump_amenaza_con_20251203",
+      "tema": "Trump amenaza con ataques a Venezuela",
+      "tema_normalizado": "trump amenaza con ataques a venezuela",
+      "resumen": "📌 **¿Qué está pasando?**\n• Donald Trump ha intensificado su postura contra Venezuela, amenazando con ataques militares \"por tierra\" que iniciarán \"muy pronto\".\n• El presidente estadounidense busca desarticular el narcotráfico y exige la renuncia de Nicolás Maduro, a quien acusa de liderar un cartel de drogas.\n• Esta escalada se suma a las operaciones navales ya existentes en el Caribe, marcando un nuevo nivel de presión sobre el gobierno venezolano.\n\n🔍 **Datos clave:**\n• **Despliegue militar:** Estados Unidos mantiene una fuerza naval considerable en el Caribe, incluyendo unos 15.000 soldados, destructores, aviones de combate y el portaaviones USS Gerald R. Ford.\n• **Operaciones previas:** Hasta la fecha, se han registrado 21 ataques navales contra embarcaciones sospechosas de narcotráfico, resultando en la destrucción de alrededor de 20 barcos y más de 80 fallecidos.\n• **Acusación central:** Donald Trump ha designado al \"Cartel de los Soles\", vinculado a Nicolás Maduro, como una organización terrorista extranjera.\n• **Diálogo fallido:** En una llamada del 21 de noviembre, Trump dio un \"contundente\" mensaje a Maduro para que dejara el poder, ofreciéndole un salvoconducto para él, su esposa y su hijo.\n• **Condiciones rechazadas:** Maduro, por su parte, propuso abandonar el país si se le otorgaba amnistía legal completa, se eliminaban todas las sanciones de EE.UU. y se cerraba un caso ante la Corte Penal Internacional, además de levantar sanciones a más de 100 funcionarios, condiciones que fueron rechazadas por Trump.\n\n⚡ **Desarrollo:**\n• Trump ha justificado los posibles ataques terrestres como \"mucho más fáciles\" para identificar y destruir las rutas y los responsables del narcotráfico, expresando su intención de \"acabar con esos hijos de perra\".\n• La amenaza no se limita a Venezuela; Trump ha advertido que cualquier país que trafique drogas hacia Estados Unidos, como Colombia, estará \"sujeto a ataques\".\n• Pese a la presión, Nicolás Maduro ha mantenido una postura desafiante, negándose a ceder y enviando una carta a la OPEP solicitando el fin de la \"agresión\" estadounidense.\n• El presidente Trump se ha mostrado convencido de la futura salida de Maduro, afirmando que \"lo hará\" cuando se le preguntó sobre una posible renuncia.\n• Expertos militares no anticipan una invasión masiva, sino más bien ataques selectivos con misiles dirigidos a infraestructuras clave del narcotráfico, como puentes, puertos o pistas de aterrizaje clandestinas.\n• Varios actores internacionales, incluyendo el Papa, han solicitado moderación y la búsqueda de soluciones negociadas para evitar una mayor escalada del conflicto.\n\n💡 **¿Por qué importa?**\n• Las amenazas de acción militar en Venezuela representan una escalada crítica que podría desencadenar una crisis regional de proporciones incalculables.\n• Dicha intervención no solo agravaría la ya compleja situación humanitaria y política del país, sino que también tendría profundas implicaciones para la estabilidad geopolítica y económica de América Latina.",
       "cantidad_noticias": 3,
       "noticias": [
         {
@@ -347,9 +384,9 @@
       "categoria_principal": "internacional",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Clarín",
+        "Minuto1",
         "Ámbito Financiero",
-        "Minuto1"
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -357,30 +394,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "elecciones_presidenciales_honduras_20251203",
-      "tema": "Elecciones presidenciales Honduras 2025",
-      "tema_normalizado": "elecciones presidenciales honduras 2025",
-      "resumen": "Aquí tienes un resumen SIMPLE y DIDÁCTICO sobre los temas electorales recientes en Honduras, en el contexto de las expectativas para las elecciones presidenciales de 2025.\n\n📌 **¿Qué está pasando?**\n*   El conteo de votos de unas elecciones presidenciales en Honduras se reanudó tras casi 36 horas de suspensión, marcadas por fallos técnicos y acusaciones de falta de transparencia.\n*   El proceso, supervisado por el Consejo Nacional Electoral (CNE), reveló una competencia extremadamente reñida entre Salvador Nasralla y Nasry Asfura.\n*   La situación generó gran incertidumbre y preocupación internacional, incluyendo cuestionamientos de la Unión Europea y una advertencia de Donald Trump.\n\n🔍 **Datos clave:**\n*   **Salvador Nasralla:** Presentador de televisión, inicialmente del Partido Liberal según los informes, en un momento liderando la contienda.\n*   **Nasry Asfura:** Empresario del Partido Nacional, respaldado por Donald Trump, en estrecha disputa por el primer lugar.\n*   **CNE (Consejo Nacional Electoral):** Organismo a cargo del proceso, señalado por fallas técnicas y mala coordinación en el conteo.\n*   **Suspensión del escrutinio:** Casi 36 horas, desde la madrugada del lunes hasta la tarde del martes.\n*   **Porcentajes clave:** Nasralla 40.06% vs. Asfura 39.73% (con 64.53% de actas procesadas).\n*   **Donald Trump:** Expresidente de EE.UU. que advirtió de \"consecuencias graves\" ante posibles alteraciones de resultados.\n\n⚡ **Desarrollo:**\n*   El escrutinio presidencial sufrió una interrupción prolongada debido a \"fallos técnicos\" en el sistema informático, lo que atrasó la divulgación oficial de los resultados.\n*   Al reanudarse el conteo, Salvador Nasralla tomó una leve ventaja, llegando a superar a Nasry Asfura por más de 10.000 votos con el 67% de las actas procesadas.\n*   Previamente, con el 57.03% de actas, la diferencia era mínima, con Asfura aventajando a Nasralla por solo 515 votos (749.022 vs. 748.507).\n*   Tanto Nasralla como Asfura se declararon ganadores por separado, instando al CNE a liberar los resultados y argumentando tener actas que validaban sus triunfos.\n*   La presidenta del CNE, Ana Paola Hall, garantizó la legitimidad del proceso restablecido y prometió la proclamación de un ganador en el plazo legal, en medio de un clima de expectativa e incertidumbre.\n*   La Unión Europea cuestionó la mala coordinación en el conteo, y Donald Trump emitió una advertencia sobre posibles alteraciones, destacando la preocupación internacional.\n\n💡 **¿Por qué importa?**\n*   Estos eventos subrayan la importancia de la transparencia y la eficiencia en los procesos electorales para la credibilidad democrática de Honduras.\n*   Las fallas en el conteo de votos y la intervención externa generan dudas sobre la legitimidad de los resultados, lo cual puede tener un impacto significativo en la estabilidad política y la confianza ciudadana en futuras elecciones, incluyendo las de 2025.",
-      "cantidad_noticias": 2,
+      "tema_id": "causa_cuadernos:_avances_20251203",
+      "tema": "Causa Cuadernos: Avances judiciales",
+      "tema_normalizado": "causa cuadernos: avances judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El juicio de la Causa Cuadernos avanza con demoras y controversias.\n• La Cámara de Casación negó a un juez de la causa subrogar en otros tribunales, mientras que la defensa de Julio De Vido pidió apartar a los magistrados.\n\n🔍 **Datos clave:**\n• **86 acusados:** Incluyendo a Cristina Kirchner (principal acusada como jefa de una asociación ilícita) y Julio De Vido.\n• **600+ testigos:** Estimados para el juicio.\n• **Jueces del TOF 7:** Enrique Méndez Signori, Fernando Canero y Germán Castelli.\n• **Cámara Federal de Casación:** Rechazó por unanimidad el pedido del juez Castelli para subrogar.\n• **6 de noviembre de 2023:** Fecha de inicio del juicio oral.\n• **Artículo 61 del CPPN:** Cuya constitucionalidad fue impugnada por la defensa de De Vido.\n\n⚡ **Desarrollo:**\n• El juez Germán Castelli, miembro del Tribunal Oral Federal N° 7 (TOF 7) a cargo de la Causa Cuadernos, solicitó ser juez suplente en otros tribunales.\n• La Sala de Superintendencia de la Cámara Federal de Casación, con la votación de jueces como Daniel Petrone y Gustavo Hornos, rechazó unánimemente su solicitud.\n• La decisión se basó en la necesidad de que Castelli se aboque por completo al \"complejo y extenso proceso\" de los cuadernos de las coimas.\n• Por otro lado, la defensa del exministro Julio De Vido solicitó apartar a los tres jueces del TOF 7 (Méndez Signori, Canero y Castelli) por \"prejuzgamiento\".\n• Argumentaron que los jueces ya formaron una opinión sobre pruebas similares al condenar a De Vido en la Causa GNL, vulnerando la garantía del juez imparcial.\n• El TOF 7 rechazó \"in límine\" este planteo de recusación tras un cuarto intermedio de cuatro horas, lo que redujo significativamente el tiempo de audiencia dedicado a la lectura de acusaciones.\n• La defensa de De Vido también impugnó la constitucionalidad del artículo 61 del Código Procesal Penal de la Nación, que regula las recusaciones, alegando que afecta el derecho de defensa.\n• Actualmente, el juicio sesiona de forma virtual dos veces por semana, pero la Cámara de Casación busca que se realicen audiencias presenciales y más frecuentes.\n• La Causa Cuadernos investiga una supuesta asociación ilícita liderada por Cristina y Néstor Kirchner para la recaudación ilegal de fondos entre 2003 y 2015.\n\n💡 **¿Por qué importa?**\n• Estos hechos muestran los obstáculos y las dilaciones que caracterizan al considerado mayor juicio por corrupción en Argentina.\n• La resolución de estos planteos es clave para la continuidad y la validez jurídica del proceso, que busca determinar responsabilidades en la trama de supuestas coimas.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Elecciones en Honduras 2025 EN VIVO: la Unión Europea cuestionó las fallas y la mala coordinación en el conteo de votos",
-          "link": "https://www.infobae.com/america/america-latina/2025/12/02/elecciones-en-honduras-en-vivo-tras-un-dia-el-cne-sigue-sin-definir-un-ganador-y-solo-proceso-el-57-de-los-votos/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-03 00:16:35"
+          "titulo": "Rechazan por unanimidad el pedido de un juez del caso Cuadernos para intervenir en otros juicios",
+          "link": "https://www.lanacion.com.ar/politica/rechazan-por-unanimidad-el-pedido-de-un-juez-del-caso-cuadernos-para-intervenir-en-otros-juicios-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-02 21:13:09"
         },
         {
-          "titulo": "Elecciones presidenciales en Honduras: el candidato del Partido Liberal, Salvador Nasralla pasa al frente al reanudarse el conteo de votos",
-          "link": "https://www.clarin.com/mundo/elecciones-presidenciales-honduras-candidato-partido-liberal-salvador-nasralla-pasa-frente-reanudarse-conteo-votos_0_zrDhyQCFxn.html",
+          "titulo": "Cuadernos: Julio De Vido pidió apartar a los jueces del TOF 7 y denunció \"prejuzgamiento\"",
+          "link": "https://www.ambito.com/politica/cuadernos-julio-vido-pidio-apartar-los-jueces-del-tof-7-y-denuncio-prejuzgamiento-n6220140",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 19:45:00"
+        },
+        {
+          "titulo": "Cuadernos, el juicio imposible: con una jugada de De Vido que el tribunal tardó en rechazar, en todo el día solo hubo media hora de audiencia",
+          "link": "https://www.clarin.com/politica/cuadernos-juicio-imposible-jugada-vido-tribunal-tardo-rechazar-dia-solo-media-hora-audiencia_0_eDIWnrJN9Z.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 17:43:38"
+          "fecha": "2025-12-02 19:12:56"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "Ámbito Financiero",
         "Clarín",
-        "Infobae"
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -388,60 +432,29 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "ataque_a_candidato_20251203",
-      "tema": "Ataque a candidato presidencial Perú",
-      "tema_normalizado": "ataque a candidato presidencial peru",
-      "resumen": "📌 **¿Qué está pasando?**\n• El candidato presidencial de Perú, Rafael Belaúnde Llosa, sufrió un ataque a balazos mientras se trasladaba en su vehículo por Cerro Azul, al sur de Lima.\n• Los disparos impactaron en el parabrisas de su auto, pero el político no sufrió heridas de gravedad, aunque sí presentaba manchas de sangre (probablemente por esquirlas del cristal).\n• El incidente ocurrió este martes, y Belaúnde, quien aspira a la presidencia por el partido Libertad Popular, salió ileso del impacto directo de las balas.\n\n🔍 **Datos clave:**\n• Candidato atacado: Rafael Belaúnde Llosa, de 50 años, del Partido Libertad Popular.\n• Fecha de elecciones: 12 de abril de 2026 (Perú elegirá autoridades para el periodo 2026-2031).\n• Ubicación del ataque: Distrito de Cerro Azul, provincia de Cañete, al sur de Lima.\n• Jefe de la Policía Nacional del Perú: General Óscar Arriola.\n• Fundador de Libertad Popular: Pedro Cateriano.\n• Número de candidatos: Belaúnde es uno de los aproximadamente 39 candidatos previstos para las próximas elecciones presidenciales.\n\n⚡ **Desarrollo:**\n• El ataque fue perpetrado por sujetos a bordo de una motocicleta mientras Belaúnde supervisaba unos terrenos de su propiedad en la zona.\n• Inmediatamente después del incidente, el candidato presentó una denuncia judicial y la Policía Nacional activó el \"Plan Cerco\" e inició investigaciones a cargo de la división de Homicidios y Criminalística.\n• El General Arriola confirmó que Belaúnde se encuentra bien y que, según su declaración, no había recibido amenazas extorsivas previas al atentado.\n• Miembros de su partido, como Pedro Cateriano y Gino Costa, condenaron enérgicamente el atentado, calificándolo de \"mal inicio de la campaña\" electoral.\n• Subrayaron el contexto de \"actividad delincuencial activa\" y la ola de violencia del crimen organizado que enfrenta Perú, exigiendo al gobierno garantías para los postulantes a la presidencia.\n\n💡 **¿Por qué importa?**\n• Este atentado genera una seria preocupación sobre la creciente violencia electoral y la seguridad de los candidatos en Perú, a menos de dos años de las elecciones presidenciales.\n• Refleja la profunda crisis de inseguridad que atraviesa el país, poniendo en alerta al sistema democrático y la necesidad urgente de proteger a quienes buscan liderar la nación.",
+      "tema_id": "kicillof:_juramento_flavia_20251203",
+      "tema": "Kicillof: Juramento Flavia Terigi",
+      "tema_normalizado": "kicillof: juramento flavia terigi",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobernador de la provincia de Buenos Aires, Axel Kicillof, le tomó juramento a Flavia Terigi como nueva Directora General de Cultura y Educación bonaerense.\n*   Este nombramiento se realizó en un acto en San Vicente, donde Terigi asumió el cargo en reemplazo de Alberto Sileoni.\n*   La ceremonia coincidió con la inauguración de la Escuela Primaria N° 26, lo que el gobernador calificó como un \"acto heroico\" en el contexto actual.\n\n🔍 **Datos clave:**\n*   **Nueva funcionaria:** Flavia Terigi, profesora para enseñanza primaria, pedagoga (UBA), magíster en Ciencias Sociales (Flacso) y doctora en Psicología (Universidad Autónoma de Madrid). Fue rectora de la UNGS desde agosto de 2022.\n*   **Predecesor:** Alberto Sileoni, cuya renuncia fue aceptada mediante los decretos 2891/2025 y 2892/2025.\n*   **Dimensiones del sistema educativo:** El más grande del país, con 20.000 escuelas y más de 5 millones de estudiantes en la Provincia de Buenos Aires.\n*   **Lugar del acto:** San Vicente, durante la inauguración de la Escuela Primaria N° 26.\n*   **Aprobación:** El pliego de Terigi fue aprobado por el Senado bonaerense la semana pasada.\n\n⚡ **Desarrollo:**\n*   Durante el juramento, Kicillof defendió la escuela pública, afirmando que \"sin escuela, la libertad es trucha y una estafa\", y abogó por un Estado presente que garantice el acceso igualitario a la educación.\n*   El gobernador criticó implícitamente la gestión nacional, haciendo referencia al contexto de ajuste económico y paralización de la obra pública que afecta la inauguración de escuelas.\n*   Flavia Terigi expresó su \"pleno acuerdo con las líneas de trabajo en curso\", destacando la importancia de seguir reduciendo la desigualdad y mejorando las condiciones de enseñanza.\n*   Sileoni cerró cuatro años de gestión en los que se impulsaron reformas curriculares y obras de infraestructura educativa en la provincia.\n*   La llegada de Terigi, con su destacada trayectoria académica, refuerza el perfil intelectual y pedagógico de la cartera de Educación.\n*   Su experiencia se centra en el estudio de las trayectorias escolares, la educación secundaria y la necesidad de flexibilizar las estructuras rígidas del sistema.\n\n💡 **¿Por qué importa?**\n*   El nombramiento de Flavia Terigi marca el inicio de una nueva etapa para el sistema educativo más grande de Argentina, con el desafío de continuar las políticas de reducción de desigualdad y mejora de la calidad educativa.\n*   El evento sirvió para que el gobernador Kicillof reafirmara la defensa de la educación pública y el rol del Estado, en un momento de intensos debates nacionales sobre el financiamiento y el futuro de la educación.",
       "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Perú: balearon al candidato presidencial Rafael Belaunde Llosa",
-          "link": "https://www.ambito.com/mundo/peru-balearon-al-candidato-presidencial-rafael-belaunde-llosa-n6220138",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 19:29:00"
-        },
-        {
-          "titulo": "Perú: atacaron a balazos al candidato a presidente Rafael Belaúnde",
-          "link": "https://www.clarin.com/mundo/peru-atacaron-balazos-candidato-presidente-rafael-belaunde_0_xgl3tv8IzQ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 16:10:22"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cierre_jugueterias_por_20251203",
-      "tema": "Cierre jugueterías por importaciones",
-      "tema_normalizado": "cierre jugueterias por importaciones",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las jugueterías en Argentina atraviesan una crisis profunda, resultando en el cierre masivo de locales en todo el país.\n• Esta situación se debe principalmente a una drástica caída del consumo y, en menor medida, a la creciente avalancha de importaciones.\n• La Cámara Argentina de la Industria del Juguete (CAIJ) ha emitido una alerta sobre la crítica situación del sector, que afecta a productores, importadores y minoristas.\n\n🔍 **Datos clave:**\n• **300:** Número de jugueterías que cerraron en los últimos meses o dos años de un total de 3.500, según la CAIJ.\n• **1.500:** Puestos de trabajo perdidos directamente por estos cierres.\n• **30%:** Caída interanual de las ventas de juguetes en noviembre, calificado como el peor mes registrado para la industria.\n• **US$ 91.3 millones FOB:** Valor de las importaciones de juguetes entre enero y octubre, representando un aumento interanual del 59.5% en valor y 94% en volumen.\n• **China:** Es el principal origen, explicando el 85.7% del valor y el 94.4% del volumen de los juguetes importados.\n• **15%:** Reducción arancelaria en las importaciones que, sin embargo, no se ha visto reflejada en una baja de precios para los consumidores.\n• **6 de cada 10:** Máquinas de la industria juguetera nacional están paradas por la disminución de la producción.\n\n⚡ **Desarrollo:**\n• La causa fundamental de la crisis es la fuerte retracción del consumo general, que impacta la venta de juguetes tanto nacionales como importados.\n• A esto se suman los altos costos operativos para los comerciantes, como alquileres, salarios y tarifas de servicios públicos, que en algunos casos se han multiplicado hasta por 10 desde diciembre de 2023.\n• La masiva apertura de importaciones, facilitada por sistemas como el \"puerta a puerta\" y la reducción arancelaria, genera una competencia desventajosa para los comercios y productores locales.\n• Pese a la reducción de aranceles en un 15%, los precios de los juguetes importados no disminuyeron para el público, lo que no estimula el consumo.\n• El contrabando de juguetes representa hasta el 30% del mercado, una problemática exacerbada por menores controles aduaneros, que ahora operan de forma ex post.\n• La industria nacional, aunque destaca por su competitividad en precios frente a muchos importados, sufre la caída de la demanda, con gran parte de su capacidad productiva inactiva.\n• Entre los cierres se destacan jugueterías tradicionales con más de 40 o 50 años de historia, como Rossier en Escobar, que ahora opera solo virtualmente, o Halago's en Quilmes.\n\n💡 **¿Por qué importa?**\n• La crisis del sector juguetero es un reflejo de los desafíos económicos actuales, marcando un impacto significativo en la pérdida de empleos y el debilitamiento de la industria nacional.\n• Implica la desaparición de comercios históricos y la reducción de la oferta local, afectando la diversidad del mercado y la cultura de juego de las familias argentinas.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Colapsan las jugueterías y no todo es culpa de importaciones: ya cerraron más de 300 locales",
-          "link": "https://www.iprofesional.com/economia/443186-colapsan-jugueterias-y-no-todo-culpa-de-importaciones-cerraron-mas-300",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 17:24:00"
-        },
-        {
-          "titulo": "Por importaciones récord, cerraron 300 jugueterías en dos años",
-          "link": "https://www.perfil.com/noticias/economia/por-importaciones-record-se-cerraron-300-jugueterias-en-dos-anos.phtml",
+          "titulo": "Kicillof le tomó juramento a Flavia Terigi como nueva directora general de Cultura y Educación",
+          "link": "https://www.perfil.com/noticias/politica/kicillof-le-tomo-juramento-a-flavia-terigi-como-nueva-directora-general-de-cultura-y-educacion.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-02 17:00:05"
+          "fecha": "2025-12-03 02:07:00"
+        },
+        {
+          "titulo": "Kicillof tomó juramento a Flavia Terigi y criticó la gestión nacional: \"Sin escuela es una libertad trucha\"",
+          "link": "https://www.minutouno.com/politica/kicillof-tomo-juramento-flavia-terigi-y-critico-la-gestion-nacional-sin-escuela-es-una-libertad-trucha-n6220155",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 20:34:00"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "iProfesional",
+        "Minuto1",
         "Perfil"
       ],
       "es_tema_nuevo": true,
