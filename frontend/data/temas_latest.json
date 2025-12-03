@@ -1,79 +1,114 @@
 {
   "fecha": "2025-12-03",
-  "fecha_generacion": "2025-12-03T18:27:26.418980",
+  "fecha_generacion": "2025-12-03T21:20:31.425241",
   "total_temas": 10,
   "temas": [
     {
       "tema_id": "jura_diputados_y_20251203",
-      "tema": "Jura Diputados y LLA Primera Minoría",
-      "tema_normalizado": "jura diputados y lla primera minoria",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Este miércoles, 127 nuevos diputados electos juraron sus bancas en la Cámara de Diputados durante una sesión preparatoria.\n*   En un giro de último momento, La Libertad Avanza (LLA) se consolidó como la primera minoría en la Cámara Baja, superando a Unión por la Patria.\n*   El presidente Javier Milei asistió al Congreso para presenciar la ceremonia y celebrar este importante avance para su fuerza política.\n\n🔍 **Datos clave:**\n*   **127** nuevos diputados asumieron sus bancas.\n*   **La Libertad Avanza (LLA)** alcanzó **95** bancas, convirtiéndose en primera minoría.\n*   **Unión por la Patria (UP)** quedó con **93-94** bancas, según diferentes informes.\n*   La sesión fue presidida por **Gerardo Cipolini** (UCR), el legislador de mayor edad.\n*   **Martín Menem** (LLA) se encamina a ser reelecto presidente de la Cámara de Diputados.\n\n⚡ **Desarrollo:**\n*   La conformación de LLA como primera minoría se logró por la incorporación del diputado Francisco Morchio (proveniente de Encuentro Federal) y la deserción de tres diputados de Catamarca del bloque de Unión por la Patria.\n*   El presidente Javier Milei estuvo acompañado por su hermana Karina Milei, el jefe de Gabinete Manuel Adorni y Diego Santilli, quien, según las noticias, renunció a su banca para asumir como Ministro del Interior.\n*   La sesión estuvo marcada por un clima de tensión, con cánticos cruzados entre la oposición (\"¡La Patria no se vende!\") y los legisladores libertarios (\"¡La casta tiene miedo!\", \"Libertad, libertad\").\n*   Se registraron incidentes como un comentario inapropiado captado por un micrófono abierto sobre una legisladora, y juramentos polémicos por figuras como Cristina Kirchner o Guillermo Moreno.\n*   Entre los nuevos diputados se incorporaron figuras diversas, incluyendo exfuncionarios (Luis Petri), exgobernadores (Juan Schiaretti), personalidades mediáticas (Virginia Gallardo, Karen Reichardt), periodistas y el sacerdote Juan Carlos Molina.\n*   Previamente a la jura, se aprobaron renuncias de varios legisladores que asumirán otros cargos, como Carolina Píparo en el Banco Nación y Silvia Lospennato como legisladora porteña.\n\n💡 **¿Por qué importa?**\n*   La nueva composición de la Cámara de Diputados, con La Libertad Avanza como primera minoría, otorga al Gobierno un mayor poder de negociación y facilita la aprobación de sus proyectos legislativos.\n*   Esto es crucial para la administración de Milei, ya que se espera la convocatoria a sesiones extraordinarias para tratar iniciativas fundamentales como el Presupuesto, y las reformas laboral y tributaria.",
-      "cantidad_noticias": 9,
+      "tema": "Jura Diputados y Conformación Legislativa",
+      "tema_normalizado": "jura diputados y conformacion legislativa",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara de Diputados realizó la jura de 127 nuevos legisladores, modificando drásticamente su composición y mapa de poder.\n• La Libertad Avanza (LLA) se consolidó como la primera minoría, superando a Unión por la Patria gracias a la suma de diputados de otras bancadas.\n• La sesión preparatoria estuvo marcada por juramentos con proclamas políticas, tensiones entre bloques y controversias como comentarios con micrófono abierto.\n\n🔍 **Datos clave:**\n• **127** diputados juraron, asumiendo oficialmente sus bancas el 10 de diciembre.\n• **La Libertad Avanza** (LLA) alcanzó **95** diputados, convirtiéndose en la primera minoría.\n• **Unión por la Patria** (UP) quedó con **93** diputados tras sufrir varias fugas internas.\n• **Gerardo Cipolini** (UCR, 82 años) presidió la sesión por ser el legislador de mayor edad.\n• El nuevo bloque **Provincias Unidas** formó con **18** miembros, y su interbloque con otros sumó **22** legisladores.\n• **Martín Menem** fue reelecto como presidente de la Cámara.\n\n⚡ **Desarrollo:**\n• LLA logró un incremento del 20% en su bancada original, sumando legisladores de otras fuerzas, incluyendo del PRO y \"radicales con peluca\".\n• Unión por la Patria perdió su condición de primera minoría debido a la salida de diputados de Catamarca, San Luis y Tucumán, entre otros.\n• Se conformó el bloque Provincias Unidas, que busca ser una tercera vía federal, incluyendo ex-libertarios y miembros del PRO, y se alió con Encuentro Federal y la Coalición Cívica.\n• Durante la sesión, el diputado Gerardo Cipolini fue captado con micrófono abierto haciendo comentarios inapropiados sobre la apariencia de diputadas, lo que generó un repudio de Cecilia Moreau.\n• También hubo momentos de tensión con los gestos de Juan Grabois hacia el palco presidencial y los cruces verbales entre diputados de izquierda y Lilia Lemoine (LLA).\n• El presidente Javier Milei, junto a Karina Milei y su equipo, asistió a la jura desde un palco, presenciando los cánticos de apoyo y la consigna opositora \"La Patria no se vende\".\n\n💡 **¿Por qué importa?**\n• La consolidación de LLA como primera minoría es fundamental para el gobierno de Javier Milei, facilitando la negociación y aprobación de sus reformas legislativas.\n• La nueva configuración de bloques y alianzas define la distribución de poder en las comisiones y la capacidad de cada fuerza para influir en la agenda parlamentaria.",
+      "cantidad_noticias": 15,
       "noticias": [
-        {
-          "titulo": "El comentario fuera de lugar que se escuchó de un micrófono abierto durante la jura de los diputados electos",
-          "link": "https://www.lanacion.com.ar/politica/el-comentario-fuera-de-lugar-que-se-escucho-de-un-microfono-abierto-durante-la-jura-de-los-diputados-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 15:13:34"
-        },
-        {
-          "titulo": "Con la presencia de Milei y en medio de un clima de tensión, juraron los nuevos diputados en el Congreso",
-          "link": "https://www.infobae.com/politica/2025/12/03/jura-de-diputados-en-vivo-las-ultimas-noticias-sobre-la-camara-baja-del-congreso-minuto-a-minuto/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-03 15:07:04"
-        },
-        {
-          "titulo": "Con la presencia de Javier Milei, juraron los diputados electos",
-          "link": "https://www.lanacion.com.ar/politica/con-la-presencia-de-javier-milei-arranca-la-sesion-de-jura-de-los-diputados-electos-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 14:56:29"
-        },
-        {
-          "titulo": "Diputados: tras la jura, Martín Menem se encamina a ser reelecto presidente de la Cámara",
-          "link": "https://www.lanacion.com.ar/politica/diputados-tras-la-jura-martin-menem-se-encamina-a-ser-reelecto-presidente-de-la-camara-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 14:55:16"
-        },
         {
           "titulo": "Jura de Diputados EN VIVO: con los nuevos legisladores, La Libertad Avanza se consolida como primera minoría en la Cámara baja",
           "link": "https://www.ambito.com/politica/jura-diputados-nuevo-congreso-bancas-en-vivo-fecha-3-diciembre",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:55:00"
+          "fecha": "2025-12-03 17:52:00"
+        },
+        {
+          "titulo": "Radiografía de los bloques en Diputados: cómo quedaron y quiénes son sus referentes",
+          "link": "https://www.ambito.com/politica/radiografia-los-bloques-diputados-como-quedaron-y-quienes-son-sus-referentes-n6220476",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 17:50:00"
+        },
+        {
+          "titulo": "Así queda la nueva Cámara de Diputados que tratará las reformas de Javier Milei",
+          "link": "https://www.lanacion.com.ar/politica/asi-queda-la-nueva-camara-de-diputados-que-tratara-las-reformas-de-javier-milei-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:35:05"
+        },
+        {
+          "titulo": "El diputado que hizo comentarios fuera de lugar le echó la culpa a la tecnología",
+          "link": "https://www.lanacion.com.ar/politica/el-diputado-que-hizo-un-comentario-fuera-de-lugar-le-echo-la-culpa-a-la-tecnologia-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:23:46"
+        },
+        {
+          "titulo": "Diputados: los comentarios fuera de lugar que se escucharon de un micrófono abierto durante la jura de los legisladores electos",
+          "link": "https://www.lanacion.com.ar/politica/el-comentario-fuera-de-lugar-que-se-escucho-de-un-microfono-abierto-durante-la-jura-de-los-diputados-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:19:32"
+        },
+        {
+          "titulo": "Diputados: el gesto de Virginia Gallardo a Milei y los juramentos políticos de González y Hadad",
+          "link": "https://www.perfil.com/noticias/nea/diputados-el-gesto-de-virginia-gallardo-a-milei-y-los-juramentos-politicos-de-gonzalez-y-hadad.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 17:17:41"
+        },
+        {
+          "titulo": "Diputados: qué dicen los audios fuera de lugar que se escucharon por un micrófono abierto",
+          "link": "https://www.lanacion.com.ar/politica/diputados-que-dicen-los-audios-fuera-de-lugar-que-se-escucharon-por-un-microfono-abierto-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:02:22"
+        },
+        {
+          "titulo": "Quedó el micrófono abierto y se escucharon en vivo los \"piropos\" de un diputado: \"Qué buena está la peruca\"",
+          "link": "https://www.minutouno.com/politica/quedo-el-microfono-abierto-y-se-escucharon-vivo-los-piropos-un-diputado-que-buena-esta-la-peruca-n6220471",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 16:22:00"
+        },
+        {
+          "titulo": "De la chicana de Grabois a las provocaciones de Lemoine: los momentos más bizarros de la jura en Diputados",
+          "link": "https://www.lanacion.com.ar/politica/de-la-chicana-de-grabois-al-protagonismo-de-lemoine-las-perlitas-de-la-jura-de-los-diputados-electos-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 16:06:34"
+        },
+        {
+          "titulo": "Gerardo Cipolini: quién es el diputado que condujo la jura e hizo comentarios fuera de lugar con el micrófono abierto",
+          "link": "https://www.lanacion.com.ar/politica/gerardo-cipolini-quien-es-el-diputado-que-condujo-la-jura-e-hizo-comentarios-fuera-de-lugar-con-el-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 15:56:54"
+        },
+        {
+          "titulo": "Tensión en la jura: gritos, abucheos y el “¡Tomá!” del Frente de Izquierda a Lemoine",
+          "link": "https://www.perfil.com/noticias/politica/tension-en-la-jura-gritos-abucheos-y-el-toma-del-frente-de-izquierda-a-lemoine.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 15:28:19"
+        },
+        {
+          "titulo": "Las perlitas de la jura: los insólitos comentarios en la transmisión oficial, los gritos de Lemoine y la arenga de Milei",
+          "link": "https://www.clarin.com/politica/perlitas-jura-insolitos-comentarios-transmision-oficial-insultos-lemoine-arenga-milei_0_GQxXvRe6r7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 15:24:55"
+        },
+        {
+          "titulo": "Los cuestionables gestos de Juan Grabois durante la jura de los nuevos diputados",
+          "link": "https://www.clarin.com/politica/cuestionables-gestos-juan-grabois-jura-diputados_0_0pqpwQmKXU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 15:08:28"
+        },
+        {
+          "titulo": "Quiebres y nuevas alianzas; cómo queda el nuevo mapa del poder en Diputados",
+          "link": "https://www.clarin.com/politica/quiebres-nuevas-alianzas-queda-nuevo-mapa-poder-diputados_0_FpWNpnwTZ1.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 15:02:16"
         },
         {
           "titulo": "Javier Milei asistió a la jura en Diputados donde La Libertad Avanza se convirtió en primera minoría",
           "link": "https://www.minutouno.com/politica/javier-milei-asistio-la-jura-diputados-donde-la-libertad-avanza-se-convirtio-primera-minoria-n6220379",
           "fuente": "Minuto1",
           "fecha": "2025-12-03 14:20:00"
-        },
-        {
-          "titulo": "Milei va al Congreso a presenciar la jura de los nuevos diputados libertarios para celebrar la primera minoría",
-          "link": "https://www.lanacion.com.ar/politica/milei-va-al-congreso-a-presenciar-la-jura-de-los-nuevos-diputados-libertarios-para-celebrar-la-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 12:38:41"
-        },
-        {
-          "titulo": "Javier Milei está presente en la jura de los Diputados al Congreso para celebrar la primera minoría",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-ira-a-la-jura-de-los-diputados-al-congreso-para-celebrar-la-primer-minoria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 12:24:56"
-        },
-        {
-          "titulo": "En la previa a la jura de los 127 diputados, el cuerpo aprobó las renuncias de Santilli, Lospennato y Píparo, entre otros",
-          "link": "https://www.clarin.com/politica/previa-jura-127-diputados-cuerpo-aprobo-renuncias-santilli-lospennato-piparo_0_qdiSxiJeEK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 12:05:58"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
         "Ámbito Financiero",
-        "Clarín",
-        "Infobae",
         "La Nación",
         "Minuto1",
-        "Perfil"
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -81,87 +116,53 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "negociacion_y_retorno_20251203",
-      "tema": "Negociación y Retorno Deuda Externa",
-      "tema_normalizado": "negociacion y retorno deuda externa",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina planea su regreso a los mercados internacionales de deuda para principios de 2026, tras casi ocho años sin emisiones soberanas en el exterior.\n*   El ministro de Economía, Luis Caputo, negocia un crédito de hasta US$7.000 millones con bancos internacionales para afrontar próximos vencimientos de deuda.\n*   La decisión de emitir deuda o activar un REPO dependerá de una significativa baja del riesgo país, buscando alcanzar los 300 puntos básicos.\n\n🔍 **Datos clave:**\n*   **Crédito Negociado:** Hasta US$7.000 millones con bancos internacionales.\n*   **Vencimiento Enero:** US$4.200 millones en deuda privada.\n*   **Riesgo País Actual:** Cerca de 640 puntos básicos (pb).\n*   **Riesgo País Objetivo:** 300-360 pb para retornar al mercado.\n*   **Última Emisión Deuda:** 2018 (gobierno de Mauricio Macri).\n*   **Depósitos Bancarios en Dólares:** Récord de US$35.500 millones.\n*   **Objetivo Acumulación Reservas 2026:** Entre US$7.000 y US$21.000 millones.\n\n⚡ **Desarrollo:**\n*   El Gobierno busca que la consolidación de reformas (tributaria, laboral, presupuesto) impulse la confianza de los mercados y reduzca el riesgo país, considerándolo clave para la estabilidad.\n*   Caputo desmintió que se negociara un préstamo de US$20.000 millones con bancos privados, aclarando que esas tratativas eran con Estados Unidos y otros dos países.\n*   La estrategia para el retorno al mercado internacional contempla no solo la colocación de un nuevo título, sino también operaciones de recompra de bonos (REPO) y posibles canjes de deuda por inversiones en educación.\n*   Los bancos locales tienen un volumen récord de depósitos en dólares (US$35.500 millones), y buscan movilizar estos fondos ofreciendo diversas opciones de inversión, como Obligaciones Negociables (ONs).\n*   La última vez que Argentina salió al mercado internacional de deuda fue en 2018, con Luis Caputo como ministro de Finanzas, cuando el riesgo país estaba alrededor de 360 puntos básicos.\n\n💡 **¿Por qué importa?**\n*   El retorno al financiamiento externo es fundamental para la normalización económica del país, permitiendo refinanciar deuda y acumular reservas de forma sostenible.\n*   La mejora en las condiciones de acceso al crédito internacional y la baja del riesgo país son señales cruciales para atraer inversiones y fortalecer la estabilidad macroeconómica de Argentina a largo plazo.",
-      "cantidad_noticias": 8,
+      "tema_id": "cotizacion_dolar_blue_20251203",
+      "tema": "Cotización Dólar Blue y Oficial Argentina",
+      "tema_normalizado": "cotizacion dolar blue y oficial argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial y los tipos de cambio paralelos (blue, MEP, CCL) registraron bajas recientes, marcando una tendencia de estabilidad cambiaria por primera vez en cuatro jornadas.\n• Esta dinámica ocurre en un contexto donde el mercado empieza a percibir un cambio de régimen económico, con expectativas de un peso más fuerte.\n\n🔍 **Datos clave:**\n• **Fecha de referencia:** Miércoles 3 de diciembre.\n• **Dólar Oficial (mayorista):** Cayó $2 a $1.453,00.\n• **Dólar Oficial (minorista BNA):** Cerró a $1.480.\n• **Dólar Blue:** Cayó $5 a $1.440.\n• **Dólar MEP:** Retrocedió 0,5% a $1.470,30.\n• **Dólar CCL:** Retrocedió 0,6% a $1.510,99.\n• **Dólar Tarjeta/Turista:** Se ubicó en $1.924.\n• **Reservas Netas del BCRA (proyección FMI):** u$s17.000 millones negativos a fin de año.\n• **Liquidación de exportadores (noviembre):** u$s760 millones (caída del 62% interanual).\n• **Riesgo País:** Se ubicó en 639,00 puntos básicos.\n• **Depósitos en dólares en bancos:** Récord de u$s35.500 millones.\n\n⚡ **Desarrollo:**\n• La caída de los dólares se alinea con la expectativa del mercado de que las bandas cambiarias del Banco Central se mantendrán, al menos, hasta marzo de 2026.\n• Los contratos de futuros de dólar cerraron a la baja, \"priceando\" el tipo de cambio mayorista en $1.467 para fin de año y con menor actividad en el ROFEX.\n• A pesar de la estabilidad cambiaria, el principal desafío sigue siendo la crítica situación de las reservas internacionales netas, que son profundamente negativas.\n• La oferta de divisas por parte de los exportadores en noviembre fue significativamente baja, lo que históricamente presiona el tipo de cambio.\n• En contraste, los bancos tienen un récord de u$s35.500 millones en depósitos en dólares, buscando alternativas para movilizar esos fondos.\n• Expertos y analistas están ajustando sus pronósticos, esperando una apreciación del peso y una baja en las expectativas de inflación a mediano plazo, desafiando las tensiones de fin de año.\n\n💡 **¿Por qué importa?**\n• La reciente estabilidad y caída del dólar, sumada a las nuevas proyecciones de los analistas, sugiere un cambio en la percepción del riesgo y un posible giro hacia la previsibilidad económica en Argentina.\n• Sin embargo, la persistente debilidad de las reservas del Banco Central sigue siendo una alerta roja que podría poner a prueba esta calma en el futuro.",
+      "cantidad_noticias": 9,
       "noticias": [
         {
-          "titulo": "Luis Caputo dijo que la decisión de colocar deuda o activar un REPO con bancos dependerá de cuánto baje el riesgo país",
-          "link": "https://www.ambito.com/economia/luis-caputo-dijo-que-la-decision-colocar-deuda-o-activar-un-repo-bancos-dependera-la-baja-del-riesgo-pais-n6220426",
+          "titulo": "El dólar oficial cayó por primera vez en cuatro jornadas y los paralelos acompañaron la baja",
+          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-sigue-cerca-del-techo-la-banda-y-el-mercado-evalua-como-seguira-la-tendencia-n6220203",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:34:00"
+          "fecha": "2025-12-03 17:57:00"
         },
         {
-          "titulo": "Caputo dijo que negocia un crédito de hasta US$7000 millones con bancos y anticipó cuántas reservas podría comprar en 2026",
-          "link": "https://www.lanacion.com.ar/economia/caputo-dijo-que-negocia-un-credito-de-hasta-us7000-millones-con-bancos-y-anticipo-cuantas-reservas-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 14:22:20"
-        },
-        {
-          "titulo": "Bancos están embuchados de dólares y buscan moverlos urgente: el mercado habla de \"bono patriótico\"",
-          "link": "https://www.iprofesional.com/economia/443194-bancos-estan-embuchados-de-dolares-y-buscan-moverlos-con-urgencia",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 13:00:00"
-        },
-        {
-          "titulo": "Cuándo fue la última vez que la Argentina salió al mercado internacional de deuda",
-          "link": "https://www.ambito.com/economia/cuando-fue-la-ultima-vez-que-la-argentina-salio-al-mercado-internacional-deuda-n6220340",
+          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-3-diciembre-n6220129",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 12:26:00"
+          "fecha": "2025-12-03 17:44:00"
         },
         {
-          "titulo": "Deuda: tras ocho años, el Gobierno se prepara para volver al mercado internacional",
-          "link": "https://www.iprofesional.com/finanzas/443258-deuda-el-gobierno-busca-volver-a-los-mercados-internacionales-a-comienzos-de-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 12:10:00"
+          "titulo": "Dólar hoy en vivo: en el Banco Nación siguió a $1.480 y el blue bajó a $1.440",
+          "link": "https://www.infobae.com/economia/2025/12/03/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-3-de-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 17:37:12"
         },
         {
-          "titulo": "Luis Caputo aseguró que los bancos ofrecieron un préstamo de hasta US$7000 millones",
-          "link": "https://www.minutouno.com/economia/luis-caputo-aseguro-que-los-bancos-ofrecieron-un-prestamo-us7000-millones-n6220314",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 12:08:06"
-        },
-        {
-          "titulo": "Luis Caputo aseguró que los bancos le ofrecen al país hasta U$S 7.000 millones",
-          "link": "https://www.perfil.com/noticias/economia/luis-caputo-aseguro-que-los-bancos-le-ofrecen-al-pais-hasta-7000-millones-de-dolares-no-20-mil-millones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 11:36:00"
-        },
-        {
-          "titulo": "Deuda: tras ocho años, el Gobierno prepara el regreso al mercado internacional para comienzos de 2026",
-          "link": "https://www.ambito.com/finanzas/deuda-ocho-anos-el-gobierno-prepara-el-regreso-al-mercado-internacional-comienzos-2026-n6220307",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 11:21:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "La Nación",
-        "Minuto1",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cotizacion_y_proyeccion_20251203",
-      "tema": "Cotización y Proyección del Dólar",
-      "tema_normalizado": "cotizacion y proyeccion del dolar",
-      "resumen": "📌 **¿Qué está pasando?**\n• El 3 de diciembre de 2025, la cotización del dólar en Argentina (oficial, blue, MEP, CCL) mostró relativa estabilidad y movimientos moderados.\n• El mercado financiero experimenta una \"pax cambiaria\" o período de calma, con expectativas de orden macroeconómico y una menor presión devaluatoria.\n• A pesar de esta aparente tranquilidad, la situación crítica de las reservas netas del Banco Central sigue siendo un foco de preocupación principal.\n\n🔍 **Datos clave:**\n• **Fecha central:** Miércoles 3 de diciembre de 2025.\n• **Dólar Blue (cierre venta):** $1.440,00.\n• **Dólar Oficial (cierre venta - BNA):** $1.480,00.\n• **Dólar Mayorista:** $1.450 - $1.455.\n• **Dólar MEP (cierre venta):** $1.473,90.\n• **Dólar CCL (cierre venta):** $1.514,70.\n• **Dólar Tarjeta (cierre venta):** $1.924,00 (incluye Impuesto PAIS y percepciones).\n• **Dólar Cripto (USDT cierre venta):** $1.511,02.\n• **Riesgo País (JP Morgan):** 639,00 puntos básicos.\n• **Reservas netas BCRA:** Cerca de USD 17.000 millones negativas (proyección fin de año).\n• **Préstamo en negociación:** USD 7.000 - 8.000 millones (con bancos internacionales).\n\n⚡ **Desarrollo:**\n• El mercado argentino percibe un cambio de régimen económico, donde la ansiedad por la cobertura inmediata cede ante una expectativa de orden y previsibilidad. Esto altera significativamente las estrategias de inversión locales.\n• El Ministro de Economía, Luis Caputo, afirmó que no buscarán un dólar artificialmente alto solo para mostrar competitividad, enfatizando que la mejor política industrial es la estabilización macroeconómica. También confirmó negociaciones por préstamos.\n• La acumulación de reservas del Banco Central es un desafío crítico; a pesar de la estabilidad actual, las reservas netas profundamente negativas presionan al gobierno para una recomposición urgente.\n• Los diversos tipos de cambio, como el oficial, blue, MEP y CCL, reflejan las distintas vías de acceso a la divisa, siendo el dólar blue un refugio habitual que se mantuvo con una cotización contenida.\n• Los contratos de dólar futuro para 2026 sugieren que el mercado asigna continuidad a las bandas cambiarias del BCRA, con una depreciación implícita del 2,1% mensual para los próximos tres meses.\n• La reducción del riesgo país, que Caputo espera converja a 300 puntos básicos, es fundamental para que Argentina pueda retornar a los mercados internacionales de deuda y mejorar su posición financiera global.\n\n💡 **¿Por qué importa?**\n• La estabilidad o volatilidad del dólar tiene un impacto directo en la inflación, el costo de vida de los ciudadanos y las decisiones de inversión y producción de las empresas.\n• La consolidación de una \"pax cambiaria\" y la acumulación de reservas son esenciales para generar confianza económica, atraer capitales y permitir un crecimiento sostenible a largo plazo en Argentina.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 3 de diciembre",
+          "titulo": "A cuánto cotizó el dólar este miércoles 3 de diciembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-3-de-diciembre-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 15:05:00"
+          "fecha": "2025-12-03 17:26:51"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-3-diciembre-n6220130",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 17:12:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-3-diciembre-n6220194",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 15:56:00"
+        },
+        {
+          "titulo": "Alerta en la City: con el dólar cerca del techo de la banda, anticipan qué pasará con su precio",
+          "link": "https://www.iprofesional.com/finanzas/443246-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 15:15:00"
         },
         {
           "titulo": "A cuánto cerró el dólar blue hoy miércoles 3 de diciembre del 2025",
@@ -170,40 +171,10 @@
           "fecha": "2025-12-03 15:00:00"
         },
         {
-          "titulo": "Caputo: “No vamos a salir a comprar divisas como loquitos para tener un dólar alto y probar que somos competitivos”",
-          "link": "https://www.infobae.com/economia/2025/12/03/caputo-no-vamos-a-salir-a-comprar-divisas-como-loquitos-para-tener-un-dolar-alto-y-probar-que-somos-competitivos/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-03 14:55:59"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-3-diciembre-n6220194",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:53:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-3-diciembre-n6220130",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:21:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-3-diciembre-n6220129",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:21:00"
-        },
-        {
-          "titulo": "El dólar oficial descomprime y los financieros acompañan las tendencia",
-          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-sigue-cerca-del-techo-la-banda-y-el-mercado-evalua-como-seguira-la-tendencia-n6220203",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 13:45:00"
-        },
-        {
-          "titulo": "Alerta en la City: con el dólar cerca del techo de la banda, anticipan qué pasará con su precio",
-          "link": "https://www.iprofesional.com/finanzas/443246-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "titulo": "Bancos están embuchados de dólares y buscan moverlos urgente: el mercado habla de \"bono patriótico\"",
+          "link": "https://www.iprofesional.com/economia/443194-bancos-estan-embuchados-de-dolares-y-buscan-moverlos-con-urgencia",
           "fuente": "iProfesional",
-          "fecha": "2025-12-03 10:50:00"
+          "fecha": "2025-12-03 13:00:00"
         }
       ],
       "categoria_principal": "economia",
@@ -211,9 +182,9 @@
       "fuentes": [
         "Ámbito Financiero",
         "iProfesional",
-        "Infobae",
         "La Nación",
-        "Perfil"
+        "Perfil",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -221,79 +192,50 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "investigacion_y_causa_20251203",
-      "tema": "Investigación y Causa de ANDIS",
-      "tema_normalizado": "investigacion y causa de andis",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se investiga una compleja trama de corrupción dentro de la Agencia Nacional de Discapacidad (ANDIS), que implica el direccionamiento de pagos y el manejo irregular de fondos.\n• Miguel Ángel Calvete, señalado como un \"director paraestatal\" de la ANDIS, y su pareja Guadalupe Muñoz, acusada de ser la \"cajera\" del esquema, son figuras centrales en la causa.\n• La Justicia ha indagado a varios imputados, incluyendo a Muñoz y a Luciana Ferrari, quienes se negaron a declarar.\n\n🔍 **Datos clave:**\n• **Miguel Ángel Calvete:** Principal acusado, considerado \"director extraoficial\" de ANDIS; tiene una condena previa por proxenetismo.\n• **Guadalupe Muñoz:** Pareja de Calvete y figura clave, imputada como \"cajera\" por administrar pagos y distribuir fondos irregulares.\n• **Luciana Ferrari:** Exempleada del laboratorio Roche e imputada en la causa, fue desvinculada el 17 de noviembre tras conocerse su implicación.\n• **Diego Orlando Spagnuolo:** Extitular de ANDIS, se le acusa de recibir 5 millones de pesos en efectivo de Calvete y Muñoz.\n• **90.343 dólares:** Monto de un recibo manejado por Muñoz y pedido por Calvete para guardar en una caja fuerte.\n\n⚡ **Desarrollo:**\n• El fiscal Franco Picardi sostiene que Calvete y Muñoz administraban pagos indebidos a empresas vinculadas y participaban activamente en la distribución de fondos de ANDIS, destinando parte a funcionarios.\n• Las pruebas incluyen audios y mensajes interceptados entre Calvete y Muñoz, donde él le indica cómo calcular porcentajes para retener dinero.\n• Se documentó una solicitud de Calvete a Muñoz para conseguir 5 millones de pesos en efectivo para un supuesto viaje de Spagnuolo a Israel.\n• El laboratorio Roche aclaró que no está imputado ni demandado, enfatizando que la participación de su exempleada Luciana Ferrari fue de carácter individual y sin aprobación corporativa.\n• Se constató que Calvete intentó eludir la justicia dando instrucciones a sus empleados sobre cómo proceder si preguntaban por él o sus sociedades en su domicilio.\n• Guadalupe Muñoz también reforzó sus vínculos societarios al constituir Residuos Disposición y Tratamiento S.A.S.\n\n💡 **¿Por qué importa?**\n• La investigación es crucial para garantizar la transparencia en el uso de fondos públicos destinados a personas con discapacidad, un sector vulnerable de la sociedad.\n• Este caso subraya la importancia de los controles anticorrupción en las agencias estatales y el rol de la Justicia en la fiscalización del manejo de los recursos del Estado.",
-      "cantidad_noticias": 4,
+      "tema_id": "renuncia_lorena_villaverde_20251203",
+      "tema": "Renuncia Lorena Villaverde al Senado",
+      "tema_normalizado": "renuncia lorena villaverde al senado",
+      "resumen": "📌 **¿Qué está pasando?**\n• Lorena Villaverde, legisladora de La Libertad Avanza (LLA), renunció esta semana a asumir su banca como senadora nacional por Río Negro.\n• La decisión se tomó tras ser fuertemente impugnada por la oposición debido a supuestos vínculos con el narcotráfico y su prontuario judicial en Estados Unidos.\n• Villaverde confirmó que, en cambio, mantendrá su cargo como diputada nacional, el cual le quedan dos años de mandato, luego de haber retirado su renuncia previa a esa banca.\n\n🔍 **Datos clave:**\n• **Lorena Villaverde:** Legisladora de LLA, electa senadora por Río Negro en octubre pasado, actual diputada nacional.\n• **Renuncia al Senado:** Anunciada a través de una carta dirigida al Presidente Javier Milei y publicada en redes sociales.\n• **Causas de la impugnación:** Supuestos vínculos con el narcotráfico y antecedentes judiciales en Estados Unidos.\n• **Patricia Bullrich:** Jefa de bloque de LLA en el Senado, apoyó que el pliego de Villaverde volviera a comisión.\n• **Enzo Fullone:** Sería el legislador que asumiría la banca de Villaverde en el Senado por LLA.\n\n⚡ **Desarrollo:**\n• Villaverde fue electa senadora por Río Negro en los comicios de octubre pasado, pero su juramento fue frenado por la oposición debido a su prontuario judicial.\n• La oposición, incluyendo el PJ de su provincia, impugnó su incorporación al Senado basándose en causas judiciales y condenas previas relacionadas con narcotráfico en EE.UU.\n• La propia bancada de LLA en el Senado, con el apoyo de Patricia Bullrich, decidió que el pliego de Villaverde fuera devuelto a la Comisión de Asuntos Constitucionales, evidenciando la falta de respaldo.\n• En su carta de renuncia, Villaverde argumentó que no quería ser \"herramienta para dañar al gobierno\" ni que su situación personal \"frenara las reformas\" o la conformación del bloque oficialista.\n• También denunció ser víctima de \"operaciones mediáticas obscenas, maliciosas y profundas\", calificándolas como \"violencia calculada contra una mujer, una madre\".\n• Anteriormente, Villaverde había sido detenida y condenada por narcotráfico en Estados Unidos, logrando anular su condena para un nuevo juicio y siendo excarcelada antes de regresar a Argentina.\n• Poco antes de renunciar a la banca de senadora, Villaverde había retirado una renuncia previa a su escaño como diputada nacional, asegurando su permanencia en la Cámara Baja por los dos años restantes de su mandato.\n\n💡 **¿Por qué importa?**\n• La renuncia evita un posible conflicto institucional y un desgaste político para el gobierno de La Libertad Avanza en el inicio de su gestión en el Senado.\n• Permite al oficialismo continuar con la conformación de su bloque en la Cámara alta sin la polémica asociada a los antecedentes judiciales de la legisladora.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "ANDIS: Roche aclaró que no está imputado ni demandado en la causa",
-          "link": "https://www.ambito.com/politica/andis-roche-aclaro-que-no-esta-imputado-ni-demandado-la-causa-n6220423",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:50:00"
-        },
-        {
-          "titulo": "La pareja de Calvete, acusada de colaborar en los pagos irregulares en Andis, se negó a declarar",
-          "link": "https://www.lanacion.com.ar/politica/indagan-a-la-pareja-de-calvete-acusada-de-colaborar-en-el-manejo-de-los-pagos-de-la-andis-nid03122025/",
+          "titulo": "Lorena Villaverde renunció a su banca en el Senado tras ser impugnada por sus supuestos vínculos con el narcotráfico",
+          "link": "https://www.lanacion.com.ar/politica/lorena-villaverde-renuncio-a-su-banca-en-el-senado-tras-ser-impugnada-por-sus-supuestos-vinculos-con-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 14:41:13"
+          "fecha": "2025-12-03 17:47:59"
         },
         {
-          "titulo": "Indagan hoy a Guadalupe Muñoz, pareja de Miguel Ángel Calvete y \"cajera\" del caso ANDIS",
-          "link": "https://www.minutouno.com/politica/indagan-hoy-guadalupe-munoz-pareja-miguel-angel-calvete-y-cajera-del-caso-andis-n6220302",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 12:01:31"
-        },
-        {
-          "titulo": "ANDIS: declara la \"cajera\", una imputada clave del núcleo de Miguel Ángel Calvete",
-          "link": "https://www.ambito.com/politica/andis-declara-la-cajera-una-imputada-clave-del-nucleo-miguel-angel-calvete-n6220304",
+          "titulo": "Lorena Villaverde presentó su renuncia al Senado para no ser \"usada\" en maniobras contra el Gobierno",
+          "link": "https://www.ambito.com/politica/lorena-villaverde-presento-su-renuncia-al-senadopara-no-ser-usada-maniobras-contra-el-gobierno-n6220506",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 11:12:00"
+          "fecha": "2025-12-03 17:46:00"
+        },
+        {
+          "titulo": "Lorena Villaverde finalmente renunció a su banca en el Senado y seguirá siendo diputada nacional",
+          "link": "https://www.infobae.com/politica/2025/12/03/lorena-villaverde-finalmente-renuncio-a-su-banca-en-el-senado-y-seguira-siendo-diputada-nacional/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 17:45:24"
+        },
+        {
+          "titulo": "Lorena Villaverde renunció a su banca como senadora en medio del escándalo por supuestos vínculos con el narcotráfico",
+          "link": "https://www.clarin.com/politica/lorena-villaverde-renuncio-banca-senadora-medio-escandalo-supuestos-vinculos-narcotrafico_0_dpI3mYpT8o.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 17:23:54"
+        },
+        {
+          "titulo": "Lorena Villaverde confirmó que no asumirá en el Senado: \"Fui víctima de operaciones mediáticas obscenas\"",
+          "link": "https://www.minutouno.com/politica/lorena-villaverde-confirmo-que-no-asumira-el-senado-fui-victima-operaciones-mediaticas-obscenas-n6220504",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 17:21:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Minuto1",
         "Ámbito Financiero",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cuestionamientos_salario_minimo_20251203",
-      "tema": "Cuestionamientos Salario Mínimo del Gobierno",
-      "tema_normalizado": "cuestionamientos salario minimo del gobierno",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional fijó unilateralmente el nuevo Salario Mínimo Vital y Móvil (SMVM) en $328.400, tras no alcanzar un acuerdo en el Consejo del Salario.\n• La Confederación General del Trabajo (CGT) rechazó de inmediato la medida, calificándola de \"insuficiente y desconectada de la realidad socioeconómica\".\n\n🔍 **Datos clave:**\n• **SMVM inicial:** $328.400 desde noviembre de 2025 para jornada completa.\n• **SMVM final:** Alcanzará los $376.600 en agosto de 2026.\n• **Valor anterior:** El SMVM se mantenía en $322.200 desde agosto de 2025.\n• **Pérdida de poder adquisitivo:** El SMVM tuvo una pérdida del 7,6% en lo que va del año.\n• **Canasta Básica Total (CBT):** Actualmente se sitúa en $1.176.852, según la CGT.\n• **Resolución gubernamental:** Resolución número 9/2025, emitida por la Secretaría de Trabajo.\n• **Fecha de desacuerdo:** La última reunión del Consejo del Salario fue el 26 de noviembre de 2025.\n\n⚡ **Desarrollo:**\n• El Gobierno decidió dictar la resolución con los nuevos valores del SMVM de forma unilateral, luego de que no hubo acuerdo entre los representantes de los trabajadores y de los empleadores.\n• La CGT había propuesto un aumento acumulado del 71,6%, a través de tramos mensuales del 11,4% entre diciembre y abril, para recuperar el poder adquisitivo perdido desde noviembre de 2023.\n• Este planteo de la central obrera buscaba que el salario mínimo volviera a acercarse a la Canasta Básica Total (CBT), la cual consideran la referencia para una vida digna.\n• La CGT sostiene que el laudo impuesto desconoce las necesidades básicas de millones de trabajadores y consolida una pérdida salarial incompatible con una vida digna.\n• El SMVM tuvo un incremento del 1,92% entre agosto ($322.200) y noviembre ($328.400), mientras que la inflación entre esos meses fue del 6,33%.\n• Los futuros incrementos estipulados por el Gobierno muestran un escalonamiento decreciente, con un aumento total del 14,68% entre agosto de 2025 y agosto de 2026 (promedio de 1,55% mensual).\n• El SMVM no solo es la remuneración mínima, sino que también sirve como referencia para el cálculo de diversas prestaciones sociales, programas y subsidios, incluyendo la Prestación por Desempleo.\n\n💡 **¿Por qué importa?**\n• La decisión unilateral del Gobierno y el inmediato rechazo de la CGT evidencian una marcada divergencia sobre la capacidad del salario mínimo para cubrir las necesidades básicas de los trabajadores.\n• Esta situación impacta directamente en el poder adquisitivo de millones de personas y puede generar un incremento en las tensiones sociales y laborales en el país.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "La CGT cuestionó el nuevo salario mínimo que fijó el Gobierno: \"Es insuficiente y desconectado de la realidad\"",
-          "link": "https://www.clarin.com/politica/cgt-cuestiono-nuevo-salario-minimo-fijo-gobierno-insuficiente-desconectado-realidad_0_9NzHXhnAH5.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 12:38:52"
-        },
-        {
-          "titulo": "Comunicado de la CGT por el Salario, Mínimo y Vital decretado por el Gobierno: \"Insuficiente\"",
-          "link": "https://www.minutouno.com/economia/comunicado-la-cgt-el-salario-minimo-y-vital-decretado-el-gobierno-insuficiente-n6220342",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 12:10:00"
-        },
-        {
-          "titulo": "Salario Mínimo Vital y Móvil y la inflación: mes a mes, cómo serán los aumentos entre diciembre 2025 y agosto de 2026",
-          "link": "https://www.clarin.com/economia/salario-minimo-mes-mes-porcentaje-aumento-calculo-gobierno-agosto-2026_0_fY52NgbFze.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 11:03:11"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
+        "La Nación",
         "Minuto1",
+        "Infobae",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -302,112 +244,50 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "designaciones_y_cambios_20251203",
-      "tema": "Designaciones y Cambios en SIDE",
-      "tema_normalizado": "designaciones y cambios en side",
-      "resumen": "📌 **¿Qué está pasando?**\n• Sergio Neiffert fue desplazado de su cargo como titular de la Secretaría de Inteligencia del Estado (SIDE).\n• En su lugar, el Gobierno designó a Cristian Auguadra, contador y hombre de confianza de Santiago Caputo.\n• Este cambio se enmarca en una \"segunda fase de reorganización\" del sistema de inteligencia estatal.\n\n🔍 **Datos clave:**\n• **Sergio Neiffert:** Ex-titular de la SIDE, conocido como el \"Señor 5\".\n• **Cristian Auguadra:** Nuevo titular de la SIDE, previamente jefe de la División de Asuntos Internos (DAI).\n• **Santiago Caputo:** Asesor presidencial clave, impulsor de la designación.\n• **Claudio Caputo:** Padre de Santiago Caputo, de quien Auguadra fue contador y muy cercano.\n• **25 de noviembre de 2023:** Fecha en que Auguadra asumió como Inspector General de Asuntos Internos.\n• **9 de febrero de 2005:** Fecha de designación de Auguadra como vocal del directorio del Banco Ciudad, a propuesta del macrismo.\n\n⚡ **Desarrollo:**\n• El desplazamiento de Neiffert se debió a la pérdida de confianza de Santiago Caputo en su gestión, citando presuntos desórdenes administrativos.\n• Neiffert se negaba a renunciar, e intentó sin éxito establecer un vínculo directo con Karina Milei para mantener su puesto, lo que generó malestar.\n• Antes de su salida formal, Neiffert protagonizó un episodio con funcionarios de la SIDE, incluyendo a Auguadra, donde se negó a delegar su firma.\n• Cristian Auguadra, de 55 años, es un contador de bajo perfil, leal a la familia Caputo y con experiencia en auditoría y control.\n• Su rol anterior como jefe de la DAI lo encargaba de auditar, investigar irregularidades y garantizar la integridad organizacional de la SIDE.\n• La designación de Auguadra es vista como una confirmación del control total de Santiago Caputo sobre la central de inteligencia.\n• El Gobierno justificó el nombramiento para profundizar la modernización técnica, el control interno y la planificación estratégica del organismo.\n\n💡 **¿Por qué importa?**\n• El cambio reafirma la influencia y el control de Santiago Caputo en un organismo estratégico como la SIDE, clave para la inteligencia estatal.\n• Señala una búsqueda de mayor eficiencia, modernización y transparencia, así como de un control interno más estricto dentro de la institución.",
-      "cantidad_noticias": 3,
+      "tema_id": "debate_fintechs_vs_20251203",
+      "tema": "Debate Fintechs vs Bancos Argentina",
+      "tema_normalizado": "debate fintechs vs bancos argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Se intensificó el debate entre las fintechs y los bancos tradicionales en Argentina.\n• El conflicto principal es sobre la posibilidad de que los trabajadores y jubilados cobren sus haberes directamente en billeteras virtuales.\n• Esta discusión se reavivó por la propuesta de reforma laboral que busca modificar la Ley de Contrato de Trabajo.\n\n🔍 **Datos clave:**\n• **Actores principales:** La Cámara Argentina Fintech (CAF) y las asociaciones bancarias (ADEBA, ABA, ABAPPRA).\n• **Cuentas virtuales:** Más de 40 millones de cuentas con saldo en billeteras digitales.\n• **Crédito fintech:** Más de 6 millones de personas acceden a crédito a través de fintechs.\n• **Regulación fintech:** Cuentas digitales reguladas, supervisadas y auditadas por el Banco Central (BCRA).\n• **Privilegio bancario:** La exclusividad bancaria para pagos de sueldos y jubilaciones lleva más de 3 décadas (desde los años 90).\n• **Norma en debate:** Artículo 124 de la Ley de Contrato de Trabajo.\n\n⚡ **Desarrollo:**\n• La reforma laboral busca permitir la libertad de elección para que los empleados y jubilados decidan dónde recibir sus ingresos, incluyendo billeteras virtuales.\n• Los bancos defienden su exclusividad, argumentando que las billeteras virtuales no ofrecen la misma seguridad ni regulación, y que esto podría generar riesgos y afectar la generación de crédito.\n• Las fintechs rechazan estas acusaciones, afirmando que \"lo que defienden los bancos no es la seguridad, es el negocio cautivo\".\n• La CAF sostiene que las billeteras son seguras, reguladas por el BCRA, y que el dinero de los usuarios está íntegramente depositado en cuentas bancarias, separado del patrimonio de las empresas.\n• Señalan una diferencia clave: las billeteras no pueden prestar el dinero de los usuarios (no hacen intermediación financiera), mientras que los bancos sí lo hacen y corren riesgos.\n• Las fintechs destacan que millones de argentinos ya eligen usar billeteras por sus rendimientos diarios, a diferencia de las cuentas sueldo tradicionales sin interés.\n• Respecto al crédito, las fintechs indican que su modelo impulsa la inclusión financiera, otorgando préstamos con capital propio y no afectando el crédito bancario.\n• Esta iniciativa sobre la libertad de elección ya había sido parte de un DNU anterior del gobierno y ahora vuelve al Congreso para su discusión.\n\n💡 **¿Por qué importa?**\n• Se define la libertad de millones de argentinos para elegir cómo y dónde administrar sus salarios y jubilaciones.\n• El resultado de este debate puede modernizar o mantener el status quo del sistema financiero y los privilegios de los bancos.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Auguadra, un contador de bajo perfil, “buen trato” y leal a Santiago Caputo, al frente de la SIDE",
-          "link": "https://www.lanacion.com.ar/politica/auguadra-un-contador-de-bajo-perfil-buen-trato-y-leal-a-santiago-caputo-al-frente-de-la-side-nid03122025/",
+          "titulo": "Fintechs vs. bancos: las billeteras dicen que las entidades tradicionales solo quieren mantener privilegios por el cobro de sueldos y jubilaciones",
+          "link": "https://www.infobae.com/economia/2025/12/03/fintechs-vs-bancos-las-billeteras-dicen-que-las-entidades-tradicionales-solo-quieren-mantener-privilegios-por-el-cobro-de-sueldos-y-jubilaciones/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 17:40:59"
+        },
+        {
+          "titulo": "Billeteras virtuales contra los bancos: \"Defienden un negocio cautivo\"",
+          "link": "https://www.iprofesional.com/finanzas/443294-arde-guerra-entre-billeteras-virtuales-y-bancos-defienden-negocio-cautivo",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 17:24:00"
+        },
+        {
+          "titulo": "La reforma laboral reabre la pelea entre bancos y fintech: por qué ahora se cruzan por el pago de salarios y jubilaciones",
+          "link": "https://www.clarin.com/economia/reforma-laboral-reabre-pelea-bancos-fintech-ahora-cruzan-pago-salarios-jubilaciones_0_dE33rNGLMw.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 17:02:10"
+        },
+        {
+          "titulo": "Bancos versus billeteras digitales: la Cámara Argentina Fintech lanzó un fuerte comunicado y advirtió que “está en juego la libertad”",
+          "link": "https://www.lanacion.com.ar/economia/bancos-versus-billeteras-digitales-la-camara-argentina-fintech-lanzo-un-fuerte-comunicado-y-advirtio-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 13:43:49"
+          "fecha": "2025-12-03 16:59:18"
         },
-        {
-          "titulo": "La historia detrás del despido de Sergio Neiffert de la SIDE: presiones, desconfianza y un amotinamiento",
-          "link": "https://www.clarin.com/politica/historia-detras-despido-sergio-neiffert-side-presiones-desconfianza-amotinamiento_0_4vr320EOhi.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 11:56:47"
-        },
-        {
-          "titulo": "Quién es Cristian Auguadra, el nuevo titular de la SIDE",
-          "link": "https://www.minutouno.com/politica/quien-es-cristian-auguadra-el-nuevo-titular-la-side-n6220255",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 10:50:37"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Minuto1",
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "protestas_de_trabajadores_20251203",
-      "tema": "Protestas de Trabajadores del INTI",
-      "tema_normalizado": "protestas de trabajadores del inti",
-      "resumen": "📌 **¿Qué está pasando?**\n• Trabajadores del Instituto Nacional de Tecnología Industrial (INTI), junto con la Asociación Trabajadores del Estado (ATE), protagonizaron protestas con incidentes en la Avenida General Paz.\n• Se enfrentaron con la policía, quemaron neumáticos y bloquearon el tránsito para manifestar su rechazo a las políticas gubernamentales que afectan al organismo.\n\n🔍 **Datos clave:**\n• **Organismo afectado:** Instituto Nacional de Tecnología Industrial (INTI).\n• **Servicio disuelto:** Servicio Argentino de Calibración y Medición (SAC).\n• **Contratos estatales en riesgo:** 70.000 vencen el 31 de diciembre.\n• **Pérdida salarial:** Empleados reportan hasta un 30% de pérdida de poder adquisitivo con el actual gobierno.\n• **Recorte planeado:** El Gobierno busca reducir el 10% de la planta estatal, impactando organismos descentralizados.\n• **Puestos perdidos:** 60.784 puestos de trabajo en el Estado se perdieron en los últimos dos años (hasta octubre), un recorte del 17,7%.\n\n⚡ **Desarrollo:**\n• Las protestas se iniciaron tras la oficialización por decreto de la disolución del Servicio Argentino de Calibración y Medición (SAC) del INTI.\n• El SAC era crucial para asegurar la confiabilidad de mediciones esenciales en el país, como surtidores de combustible, balanzas comerciales y radares, garantizando estándares de calidad industrial.\n• Los manifestantes también reclaman por salarios congelados desde hace un año y medio, una drástica pérdida de poder adquisitivo y el temor a despidos masivos.\n• ATE, bajo el liderazgo de Rodolfo Aguiar, rechaza la reforma laboral del Gobierno, exige la inmediata reapertura de paritarias y una recomposición salarial de emergencia.\n• El plan gubernamental de achicar la planta estatal en un 10% afectaría a diversos organismos descentralizados clave como CONICET, INDEC, INTA, ANSES, AFIP y el propio INTI.\n• Durante las manifestaciones en la General Paz, se produjeron choques con la Policía de la Ciudad, que utilizó gases y avanzó con escudos para desalojar a los trabajadores y restablecer la circulación.\n• Los trabajadores también criticaron el cambio en la custodia del predio del INTI, ahora a cargo de Gendarmería, y la inversión de u$s50 mil en cámaras, cuestionando las prioridades presupuestarias.\n\n💡 **¿Por qué importa?**\n• La disolución del SAC y los recortes en el INTI pueden comprometer la capacidad del Estado para garantizar la calidad y confiabilidad de mediciones industriales vitales para la economía, la seguridad y la salud pública.\n• Las protestas evidencian un aumento de la conflictividad social y sindical, reflejando la preocupación de los trabajadores estatales ante la pérdida salarial, la incertidumbre laboral y el impacto de las políticas de ajuste.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Incidentes entre trabajadores del INTI y la policía durante una protesta en la General Paz",
-          "link": "https://www.ambito.com/politica/incidentes-trabajadores-del-inti-y-la-policia-una-protesta-la-general-paz-n6220350",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 13:10:00"
-        },
-        {
-          "titulo": "ATE bloqueó la Avenida General Paz frente al INTI: \"Hay que frenar la motosierra y los despidos masivos\"",
-          "link": "https://www.perfil.com/noticias/politica/la-asociacion-trabajadores-del-estado-bloqueo-la-avenida-general-paz-frente-al-inti-hay-que-frenar-la-motosierra-y-los-despidos-masivos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 12:40:36"
-        },
-        {
-          "titulo": "Incidentes entre la Policía y trabajadores estatales en una protesta del INTI en avenida General Paz",
-          "link": "https://www.clarin.com/politica/incidentes-policia-trabajadores-estatales-protesta-inti-avenida-general-paz_0_4lp0MJsXxD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 11:29:54"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Perfil",
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "regulaciones_de_billeteras_20251203",
-      "tema": "Regulaciones de Billeteras Virtuales",
-      "tema_normalizado": "regulaciones de billeteras virtuales",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Agencia de Recaudación y Control Aduanero (ARCA) ha confirmado nuevos límites para los movimientos de dinero en cuentas bancarias y billeteras virtuales.\n• Esta medida intensifica el control fiscal sobre las transacciones de personas físicas y jurídicas para prevenir la evasión y el lavado de dinero.\n• Simultáneamente, el CEO de un importante banco tradicional ha solicitado al gobierno \"igualar la cancha\" regulatoria entre la banca y las fintech.\n\n🔍 **Datos clave:**\n• **$50.000.000:** Límite máximo mensual para transferencias y acreditaciones en billeteras virtuales y cuentas bancarias para personas físicas.\n• **$30.000.000:** Límite máximo mensual para transferencias y acreditaciones en billeteras virtuales y cuentas bancarias para personas jurídicas.\n• **$10.000.000:** Tope para extracciones en efectivo y compras como consumidor final, sin distinción de tipo de persona.\n• **ARCA:** Agencia de Recaudación y Control Aduanero, el organismo fiscal encargado de establecer y monitorear estos umbrales.\n• **Diego Rivas:** CEO de Banco Galicia, quien demanda un marco regulatorio equitativo para bancos y fintechs.\n• **Diciembre 2025:** Fecha crucial mencionada para el balance fiscal y la supervisión estricta por parte de ARCA.\n\n⚡ **Desarrollo:**\n• ARCA, dependiente del Ministerio de Economía, actualiza estos montos para garantizar la transparencia financiera y evitar irregularidades.\n• Las billeteras virtuales como Mercado Pago, Ualá o NaranjaX están bajo el mismo escrutinio que las operaciones bancarias tradicionales.\n• Cuando una operación o el total de movimientos supera los límites, las entidades deben reportarlo a ARCA, que puede solicitar documentación adicional.\n• La documentación común incluye contratos de compraventa, facturas, recibos de sueldo, inscripción vigente en AFIP o certificados de contador público.\n• No justificar el origen y destino de los fondos puede resultar en el bloqueo de cuentas, retención de transacciones y sanciones fiscales.\n• Diego Rivas del Banco Galicia, tras una inversión de más de US$ 300 millones en tecnología, critica la asimetría regulatoria actual.\n• Rivas pide reformas laboral, impositiva y previsional, además de la eliminación de impuestos distorsivos como el de débitos y créditos.\n• Su objetivo es que existan reglas claras y parejas para todos los actores del ecosistema financiero, impulsando una competencia justa y la innovación.\n\n💡 **¿Por qué importa?**\n• Las nuevas regulaciones de ARCA obligan a millones de usuarios de billeteras virtuales a ser más conscientes y transparentes con sus movimientos financieros.\n• La demanda de \"igualar la cancha\" de los bancos destaca la necesidad de un marco regulatorio que se adapte a la evolución del sistema financiero, fomentando la innovación sin crear ventajas injustas.",
-      "cantidad_noticias": 3,
-      "noticias": [
         {
           "titulo": "ARCA: la nueva restricción que habrá para el uso de las billeteras virtuales",
           "link": "https://www.minutouno.com/economia/arca-la-nueva-restriccion-que-habra-el-uso-las-billeteras-virtuales-n6220399",
           "fuente": "Minuto1",
           "fecha": "2025-12-03 13:45:00"
-        },
-        {
-          "titulo": "El CEO de uno de los principales bancos pide \"igualar la cancha\" con las billeteras virtuales",
-          "link": "https://www.clarin.com/economia/ceo-principales-bancos-pide-igualar-cancha-billeteras-virtuales_0_C01EK04TzX.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 11:51:04"
-        },
-        {
-          "titulo": "ARCA confirmó los límites para transferencias en billeteras virtuales",
-          "link": "https://www.iprofesional.com/impuestos/443255-arca-confirmo-los-limites-para-transfrencias-en-billeteras-virtuales",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 11:25:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
         "iProfesional",
+        "La Nación",
         "Minuto1",
+        "Infobae",
         "Clarín"
       ],
       "es_tema_nuevo": true,
@@ -416,30 +296,37 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "compra_de_aviones_20251203",
-      "tema": "Compra de Aviones F-16 y Vuelos",
-      "tema_normalizado": "compra de aviones f-16 y vuelos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina se prepara para recibir sus primeros aviones de combate F-16, adquiridos a Dinamarca, marcando un momento clave para la defensa del país.\n*   Para que la población los conozca, las aeronaves realizarán un vuelo rasante sobre la Ciudad de Buenos Aires el próximo domingo 7 de diciembre por la mañana.\n*   Ese mismo domingo, el presidente Javier Milei encabezará el acto oficial de recepción en el Área Material Río Cuarto, Córdoba.\n\n🔍 **Datos clave:**\n*   **Cantidad de aviones:** 6 aviones F-16 (cuatro biplazas y dos monoplazas) de un total de 24 comprados.\n*   **Costo total:** 650 millones de dólares por la adquisición completa a Dinamarca.\n*   **Fecha de vuelo:** Domingo 7 de diciembre, entre las 8:00 y las 8:45 horas.\n*   **Lugar de recepción oficial:** Área Material Río Cuarto, provincia de Córdoba.\n*   **Altura de vuelo en Buenos Aires:** 600 metros (equivalente a 2.000 pies).\n*   **Actores principales:** Ministerio de Defensa, Presidente Javier Milei, Ministro Luis Petri, Dinamarca (país vendedor), Estados Unidos (proveedor del sistema de armas).\n\n⚡ **Desarrollo:**\n*   Los F-16 arribarán al país este viernes y serán recibidos inicialmente en Río Cuarto por el ministro de Defensa, Luis Petri.\n*   El objetivo del vuelo rasante sobre Buenos Aires es permitir que los argentinos aprecien el despliegue y el potencial de estas nuevas aeronaves.\n*   Las aeronaves sobrevolarán desde el Río de la Plata hasta Plaza Miserere, pasando por la Casa Rosada y Avenida de Mayo, y luego sobre la Avenida 9 de Julio.\n*   Estos F-16 han sido modernizados a la categoría de cazas de cuarta generación, incorporando las últimas innovaciones en sensores y capacidades de intercambio de datos.\n*   Son capaces de operar en entornos de batalla modernos y centrados en redes, con un avanzado sistema de guerra electrónica y un paquete de armamento destacado.\n*   Poseen una \"verdadera capacidad multirol\", pudiendo realizar misiones como defensa antiaérea, ataque marítimo, interdicción aérea e inteligencia.\n*   El Ministerio de Defensa ha calificado la incorporación como un \"hito estratégico\" que consolida la recuperación de la capacidad de intercepción supersónica.\n\n💡 **¿Por qué importa?**\n*   La llegada de los F-16 representa un \"salto histórico\" que moderniza la capacidad disuasiva y de defensa aérea de Argentina, fortaleciendo su soberanía.\n*   Permite al país contar con tecnología avanzada para la protección de su espacio aéreo y para realizar diversas misiones estratégicas en el ámbito militar.",
-      "cantidad_noticias": 2,
+      "tema_id": "adquisicion_aviones_f-16_20251203",
+      "tema": "Adquisición Aviones F-16 Argentina",
+      "tema_normalizado": "adquisicion aviones f-16 argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está adquiriendo aviones de combate F-16 para su Fuerza Aérea, un paso importante en la modernización de la defensa nacional.\n• Los primeros seis aviones ya llegaron al país y serán presentados oficialmente en un evento con el presidente Javier Milei, generando gran expectativa.\n\n🔍 **Datos clave:**\n• **Cantidad total:** 24 aviones F-16.\n• **Primer lote:** 6 aeronaves (4 biplazas y 2 monoplazas).\n• **Origen:** Comprados a Dinamarca, de fabricación estadounidense.\n• **Costo:** 650 millones de dólares (por el total de aviones y sistema de armas).\n• **Llegada del primer lote:** Viernes al Área Material Río Cuarto.\n• **Vuelo de exhibición:** Domingo entre 8:00 y 8:45 AM sobre Buenos Aires (Casa Rosada, Av. de Mayo, 9 de Julio).\n• **Acto oficial de presentación:** Domingo 9 AM en el Área Material Río Cuarto, encabezado por Javier Milei.\n• **Entregas restantes:** Los 18 aviones faltantes llegarán entre 2026 y fines de 2027.\n\n⚡ **Desarrollo:**\n• El ex ministro de Defensa, ahora diputado, Luis Petri ha sido una figura clave en la comunicación, generando gran euforia y expectativa con videos y mensajes “a la Top Gun”.\n• Los primeros F-16 arribaron piloteados por militares de Dinamarca, y habrá instructores de Estados Unidos para el entrenamiento.\n• El adiestramiento de los pilotos argentinos para operar estas aeronaves tomará al menos un año por lote de aviones.\n• Los aviones llegaron sin armamento, pero el equipo de armas ya está aprobado y será enviado por separado en contenedores marítimos.\n• La compra de los F-16 incluyó compromisos con el Reino Unido, como no sobrevolar el sur o la zona de las Islas Malvinas, debido al embargo de armas post-conflicto.\n• La narrativa oficialista presenta esta adquisición como un símbolo de soberanía y alineamiento estratégico, buscando instalar un hito en la defensa.\n• A pesar del alto perfil mediático, aún no se ha difundido un cronograma preciso sobre las fechas exactas de entrega y las etapas de incorporación plena de las aeronaves.\n• Los F-16 son cazas modernizados de cuarta generación, equipados con avanzados sensores y capacidades multirol para defensa aérea, ataque y reconocimiento.\n\n💡 **¿Por qué importa?**\n• Representa un salto histórico para Argentina al recuperar su capacidad de intercepción supersónica y fortalecer significativamente su defensa aérea y disuasiva.\n• Simboliza la modernización de las Fuerzas Armadas del país y un realineamiento estratégico en el contexto internacional.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Los aviones de combate F-16 harán un vuelo rasante el domingo sobre la ciudad de Buenos Aires",
-          "link": "https://www.lanacion.com.ar/politica/los-aviones-de-combate-f-16-haran-un-vuelo-rasante-el-domingo-sobre-la-ciudad-de-buenos-aires-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 14:04:30"
+          "titulo": "El ataque de ansiedad de Luis Petri por los F-16: “Contando los minutos”",
+          "link": "https://noticias.perfil.com/noticias/politica/el-ataque-de-ansiedad-de-luis-petri-por-los-f-16-contando-los-minutos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 17:06:12"
         },
         {
-          "titulo": "Llegan los nuevos aviones F-16 y harán un vuelo rasante sobre la Ciudad de Buenos Aires: cuándo es y por dónde pasarán",
-          "link": "https://www.clarin.com/politica/llegan-nuevos-aviones-f-16-haran-vuelo-rasante-ciudad-buenos-aires-pasaran_0_DEV15rIRXR.html",
+          "titulo": "Milei presentará los aviones de guerra F16 en Córdoba, pero por ahora sólo los volarán pilotos extranjeros",
+          "link": "https://www.clarin.com/politica/milei-presentara-aviones-guerra-f16-cordoba-ahora-solo-volaran-pilotos-extranjeros_0_S19AsaysGf.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-03 12:28:38"
+          "fecha": "2025-12-03 17:03:31"
+        },
+        {
+          "titulo": "En su llegada al país, los aviones F-16 sobrevolarán Buenos Aires y luego los presentará Javier Milei",
+          "link": "https://www.ambito.com/politica/en-su-llegada-al-pais-los-aviones-f-16-sobrevolaran-buenos-aires-y-luego-los-presentara-javier-milei-n6220474",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 16:36:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Clarín",
-        "La Nación"
+        "Ámbito Financiero",
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -447,29 +334,212 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "causa_fred_machado_20251203",
-      "tema": "Causa Fred Machado y Declaración Espert",
-      "tema_normalizado": "causa fred machado y declaracion espert",
-      "resumen": "📌 **¿Qué está pasando?**\n• El diputado nacional José Luis Espert solicitó declarar en la causa judicial que lo investiga por presunto lavado de activos.\n• Se le imputa haber utilizado en 2019 aviones y una camioneta del empresario Federico \"Fred\" Machado, acusado de narcotráfico.\n• Tras su pedido, el juez Marcelo Martínez de Giorgi dictó el secreto de sumario en la investigación.\n\n🔍 **Datos clave:**\n• **Federico \"Fred\" Machado:** Empresario acusado de narcotráfico, estafa y lavado de dinero, extraditado a EE.UU.\n• **José Luis Espert:** Diputado nacional en uso de licencia, imputado por lavado de activos.\n• **2019:** Año en que Espert habría utilizado los bienes de Machado durante su campaña presidencial.\n• **36 vuelos privados:** Cantidad de viajes que Espert habría realizado en aviones de Machado entre abril y agosto de 2019.\n• **$200.000 dólares:** Transferencia recibida por Espert de Machado, motivo de otra causa por lavado de activos.\n• **Marcelo Martínez de Giorgi:** Juez federal a cargo de la causa principal en Comodoro Py.\n• **Lino Mirabelli:** Juez federal de San Isidro que investiga la transferencia de los $200.000.\n\n⚡ **Desarrollo:**\n• La investigación, iniciada en 2021, se centra en el uso de aeronaves y una camioneta de Machado por parte de Espert cuando era candidato a presidente por el partido Unite.\n• Espert había declarado públicamente haber realizado un solo viaje a Viedma para presentar un libro, a pesar de los 36 vuelos registrados por la investigación.\n• El partido Unite fue previamente sancionado por la justicia electoral debido a irregularidades en la rendición de fondos de campaña.\n• Los abogados de Espert, Alejandro Freeland y Santiago Kent, pidieron una audiencia presencial para \"declarar y aclarar\" los hechos, amparándose en el artículo 73 del Código Procesal Penal.\n• El secreto de sumario impuesto por el juez Martínez de Giorgi impide el acceso de las partes a la causa mientras se realizan medidas de prueba.\n• Existe otra causa en San Isidro donde Espert es investigado por una transferencia de $200.000 de Machado, dinero vinculado a un contrato de asesoramiento por $1 millón para una empresa de Machado en Guatemala.\n• En esa segunda causa, se allanó el despacho y la casa de Espert, secuestrándose su celular y computadoras.\n\n💡 **¿Por qué importa?**\n• Este caso pone de manifiesto presuntas irregularidades en el financiamiento de campañas políticas y la vinculación de figuras públicas con individuos investigados por delitos graves.\n• La decisión del juez de dictar secreto de sumario subraya la complejidad y la sensibilidad de la investigación, sugiriendo la realización de medidas de prueba importantes.",
-      "cantidad_noticias": 2,
+      "tema_id": "gobierno_argentina:_estrategia_20251203",
+      "tema": "Gobierno Argentina: Estrategia Deuda y Reservas",
+      "tema_normalizado": "gobierno argentina: estrategia deuda y reservas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino, liderado por Javier Milei y el ministro Luis Caputo, está preparando el regreso a los mercados internacionales de deuda y la estrategia para acumular reservas.\n• Instituciones como JP Morgan y expertos de la City ven una ventana de oportunidad, proyectando un posible retorno al mercado en 2026.\n\n🔍 **Datos clave:**\n• **Retorno esperado:** Principios de 2026.\n• **Oferta de bancos:** Entre USD 6.000 y USD 7.000 millones en créditos/REPO.\n• **Vencimientos de deuda 2026/2027:** USD 22.196 millones (2026) y USD 29.400 millones (2027).\n• **Riesgo País (actual):** Cerca de 640 puntos básicos.\n• **Objetivo Riesgo País:** Converger a 300 puntos básicos.\n• **Proyección reservas 2026:** Posibilidad de sumar USD 7.000 millones, hasta USD 21.000 millones.\n\n⚡ **Desarrollo:**\n• La estrategia oficial busca recomponer reservas sin emitir ni esterilizar, basándose en la demanda de pesos y la profundidad del mercado cambiario.\n• JP Morgan destaca que la compra de reservas es prioridad para evitar tensiones en el dólar y fortalecer las defensas del país ante las elecciones de 2027.\n• El regreso al mercado permitiría refinanciar \"enormes\" vencimientos de deuda y obtener divisas para el pago y la reconstrucción de reservas.\n• Luis Caputo ha condicionado la emisión de deuda o activación de REPOs a una baja significativa del riesgo país, con el objetivo de alcanzar los 300 puntos básicos.\n• Se evalúan operaciones financieras como recompras de deuda, canjes (incluso vinculados a educación) y gestión de pasivos para abaratar el costo del endeudamiento.\n• Pese a una suba del 21% del dólar en tres meses, la inflación se mantuvo contenida, lo que JP Morgan interpreta como una señal de estabilización.\n• La consolidación de reformas clave (tributaria, laboral, presupuesto) es fundamental para la mejora del riesgo país y el acceso sostenido a los mercados.\n\n💡 **¿Por qué importa?**\n• El acceso a los mercados internacionales de deuda es crucial para Argentina, ya que le permitiría refinanciar sus altos vencimientos de deuda externa y acumular divisas.\n• Fortalecer las reservas es vital para la estabilidad económica, mitigar la volatilidad del dólar y generar confianza en la capacidad del país para afrontar sus compromisos futuros.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "José Luis Espert pidió declarar en la causa por los vuelos de Fred Machado",
-          "link": "https://www.minutouno.com/politica/jose-luis-espert-pidio-declarar-la-causa-los-vuelos-fred-machado-n6220439",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 15:00:00"
+          "titulo": "JP Morgan advirtió que el Gobierno debe priorizar la compra de reservas y espera la vuelta a los mercados para 2026",
+          "link": "https://www.lanacion.com.ar/economia/jp-morgan-advirtio-que-el-gobierno-debe-priorizar-la-compra-de-reservas-y-espera-la-vuelta-a-los-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:41:19"
         },
         {
-          "titulo": "José Luis Espert pidió declarar en la causa por los vuelos en los aviones de Fred Machado",
-          "link": "https://www.clarin.com/politica/jose-luis-espert-pidio-declarar-causa-vuelos-aviones-fred-machado_0_103hUohyWL.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 11:20:00"
+          "titulo": "Según Bloomberg, Argentina podría regresar al mercado internacional de deuda a principios del año próximo",
+          "link": "https://www.infobae.com/economia/2025/12/03/segun-bloomberg-argentina-podria-regresar-al-mercado-internacional-de-deuda-a-principios-del-ano-proximo/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 17:40:40"
+        },
+        {
+          "titulo": "Regreso al mercado de deuda: la city lo lee como una señal de confianza y ya debate cuál sería la tasa de la futura colocación",
+          "link": "https://www.ambito.com/finanzas/regreso-al-mercado-deuda-la-city-lo-lee-como-una-senal-confianza-y-ya-debate-cual-seria-la-tasa-la-futura-colocacion-n6220431",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 17:23:00"
+        },
+        {
+          "titulo": "Caputo habló del préstamo de los bancos y estimó cuántas reservas podrá sumar en 2026",
+          "link": "https://www.iprofesional.com/economia/443283-luis-caputo-hablo-del-prestamo-de-bancos-y-estimo-cuantas-reservas-podra-sumar-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 15:39:00"
+        },
+        {
+          "titulo": "Luis Caputo dijo que la decisión de colocar deuda o activar un REPO con bancos dependerá de cuánto baje el riesgo país",
+          "link": "https://www.ambito.com/economia/luis-caputo-dijo-que-la-decision-colocar-deuda-o-activar-un-repo-bancos-dependera-la-baja-del-riesgo-pais-n6220426",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 14:34:00"
+        },
+        {
+          "titulo": "Luis Caputo reveló la estrategia del Gobierno para acumular reservas en 2026",
+          "link": "https://www.perfil.com/noticias/economia/cual-es-la-hoja-de-ruta-de-luis-caputo-para-acumular-reservas-en-2026.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 13:39:53"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "La Nación",
+        "Perfil",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "salario_minimo_y_20251203",
+      "tema": "Salario Mínimo y Ayudas Sociales Argentina",
+      "tema_normalizado": "salario minimo y ayudas sociales argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino, tras el fracaso en las negociaciones, dispuso por decreto un aumento escalonado del Salario Mínimo, Vital y Móvil (SMVM) que entrará en vigencia a partir de noviembre de 2025.\n• Paralelamente, ANSES anunció el pago de bonos y extras para jubilados, pensionados y beneficiarios de asignaciones sociales durante el mes de diciembre.\n• La Confederación General del Trabajo (CGT) y otras centrales obreras rechazaron el nuevo SMVM, considerándolo \"insuficiente y desconectado de la realidad\".\n\n🔍 **Datos clave:**\n• **SMVM (Nov 2025):** $328.400 mensual y $1.642 por hora.\n• **SMVM (Dic 2025):** Asciende a $334.800.\n• **SMVM (Ago 2026):** Alcanza el tramo final de $376.600.\n• **Bono para jubilados (Dic):** $70.000 para quienes cobran la mínima.\n• **Jubilación mínima total (Dic):** $581.119,35 (incluyendo haber, aguinaldo y bono).\n• **AUH neta (Dic):** $97.994, con un incremento del 2,3%.\n• **Canasta Básica Total:** Fijada en $1.176.852 (según la CGT).\n• **Prestación por desempleo:** Equivalente al 75% del salario mensual neto más alto de los seis meses previos.\n\n⚡ **Desarrollo:**\n• El aumento del SMVM se determinó por decreto (Resolución 9/2025) después de que las negociaciones en el Consejo del Salario no lograron un acuerdo entre la oferta empresarial ($4.000 de aumento) y la demanda sindical (CGT pedía un incremento acumulado del 71,6%).\n• La CGT argumenta que el laudo impuesto \"consolida una pérdida salarial incompatible con una vida digna\", al estar muy por debajo del costo de la Canasta Básica Total.\n• Los jubilados y pensionados con haberes mínimos recibirán en diciembre el incremento por movilidad del 2,3%, el medio aguinaldo y un bono de refuerzo extraordinario de $70.000, sumando un total que puede superar los $581.000.\n• Las familias que perciben la Asignación Universal por Hijo (AUH) también recibirán el aumento del 2,3% y podrán complementar sus ingresos con la Tarjeta Alimentar (montos desde $52.250 hasta $108.062) y el Complemento Leche ($46.198), pudiendo alcanzar casi $200.000.\n• El SMVM funciona como referencia para salarios iniciales docentes, trabajos informales y actividades no sindicalizadas, mientras que los pagos de ANSES se rigen por un calendario escalonado según la terminación del DNI, iniciando el 9 de diciembre.\n\n💡 **¿Por qué importa?**\n• Estas medidas son cruciales para intentar sostener el poder adquisitivo de los sectores más vulnerables (jubilados y familias) en Argentina, frente a un contexto económico desafiante.\n• La fijación del Salario Mínimo por decreto y su rechazo por parte de los sindicatos resalta la persistente tensión en el país sobre la adecuación de los ingresos a las necesidades básicas y el rol del Estado en esta determinación.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "ANSES: los extras que recibirán los jubilados antes de Navidad",
+          "link": "https://www.minutouno.com/economia/anses-los-extras-que-recibiran-los-jubilados-antes-navidad-n6220454",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 17:06:00"
+        },
+        {
+          "titulo": "La CGT rechazó el nuevo Salario Mínimo, Vital y Móvil: \"Es insuficiente y desconectado de la realidad\"",
+          "link": "https://www.ambito.com/politica/la-cgt-rechazo-el-nuevo-salario-minimo-vital-y-movil-es-insuficiente-y-desconectado-la-realidad-n6220458",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 16:30:00"
+        },
+        {
+          "titulo": "El Gobierno dispuso por decreto un aumento del salario mínimo",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-dispuso-por-decreto-un-aumento-del-salario-minimo-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 16:28:04"
+        },
+        {
+          "titulo": "Bonos ANSES: el listado de familias que recibirán una ayuda económica por las fiestas",
+          "link": "https://www.minutouno.com/economia/bonos-anses-el-listado-familias-que-recibiran-una-ayuda-economica-las-fiestas-n6220395",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 13:45:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Minuto1",
+        "La Nación",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "actualizacion_indemnizaciones_accidentes_20251203",
+      "tema": "Actualización Indemnizaciones Accidentes Laborales CABA",
+      "tema_normalizado": "actualizacion indemnizaciones accidentes laborales caba",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Tribunal Superior de Justicia (TSJ) de la Ciudad de Buenos Aires ha confirmado un nuevo criterio para actualizar las indemnizaciones por accidentes laborales.\n*   A partir de ahora, todas estas indemnizaciones se ajustarán usando el índice RIPTE, incluso para casos ocurridos antes de 2019.\n*   Esta decisión unifica el modo de calcular los intereses y revoca sentencias previas que aplicaban otros métodos.\n\n🔍 **Datos clave:**\n*   **Índice de actualización:** RIPTE (Remuneración Imponible Promedio de los Trabajadores Estables).\n*   **Tribunal decisorio:** Tribunal Superior de Justicia de la Ciudad de Buenos Aires (TSJ).\n*   **Casos clave:** \"Valdés, Carlos Alberto c/ Asociart SA Art\" (fallo reciente) y \"Boulanger c/ Provincia ART Seguros\" (antecedente de octubre de 2023).\n*   **Marco legal:** DNU 669/2019 (que creó el RIPTE) y el artículo 7 de la Ley 23.928 (sobre actualización de condenas).\n*   **Jueces firmantes:** Inés Weinberg, Luis Lozano, Marcela De Langhe, Alicia Ruiz y Santiago Otamendi (en el caso Valdés, la decisión fue unánime).\n*   **Impacto económico:** El ajuste con RIPTE es inferior a los que aplicaba la Cámara Nacional de Apelaciones del Trabajo.\n\n⚡ **Desarrollo:**\n*   El TSJ reafirmó su competencia como máxima instancia de revisión en causas de la justicia nacional con sede en CABA, amparándose en el fallo \"Levinas\" de la Corte Suprema de Justicia de la Nación.\n*   La aplicación del RIPTE busca reflejar de manera más precisa la evolución salarial, ya que se calcula en base al promedio mensual de los sueldos registrados informados por las empresas.\n*   Esta confirmación consolida un cambio de criterio importante en la Ciudad, distanciándose de la jurisprudencia que venía sosteniendo la Cámara Nacional de Apelaciones del Trabajo.\n*   La Cámara Nacional del Trabajo había declarado en el pasado la inconstitucionalidad del artículo 7 de la Ley 23.928, lo que generaba diferentes métodos de actualización.\n*   Se estima que este nuevo criterio impactará en más de 1000 causas similares que se encuentran actualmente en trámite ante el TSJ, generando mayor claridad y previsibilidad judicial.\n\n💡 **¿Por qué importa?**\n*   Establece un único método para la actualización de las indemnizaciones por accidentes laborales en CABA, eliminando la dispersión y la incertidumbre en la justicia.\n*   Modifica el monto final de las indemnizaciones, ya que el índice RIPTE implica ajustes menores en comparación con los criterios que se venían aplicando anteriormente.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "El Tribunal Superior de Justicia de la Ciudad confirmó el índice de actualización de las indemnizaciones por accidentes laborales",
+          "link": "https://www.lanacion.com.ar/politica/el-tribunal-superior-de-justicia-de-la-ciudad-confirmo-el-indice-de-actualizacion-de-las-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:53:49"
+        },
+        {
+          "titulo": "La Justicia porteña confirmó que el RIPTE es el índice válido para actualizar intereses en accidentes laborales",
+          "link": "https://www.ambito.com/politica/la-justicia-portena-confirmo-que-el-ripte-es-el-indice-valido-actualizar-intereses-accidentes-laborales-n6220464",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 15:59:00"
+        },
+        {
+          "titulo": "La Corte Suprema de la ciudad ratificó la aplicación del índice de salario promedio para indemnizar accidentes laborales",
+          "link": "https://www.clarin.com/politica/corte-suprema-ciudad-ratifico-aplicacion-indice-salario-promedio-indemnizar-accidentes-laborales_0_RPQOSZgMu5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 14:22:06"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "alerta_terrorista_en_20251203",
+      "tema": "Alerta Terrorista en Francia Fiestas",
+      "tema_normalizado": "alerta terrorista en francia fiestas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Francia ha reforzado drásticamente sus medidas de seguridad en todo el país ante una \"altísima\" amenaza terrorista, especialmente durante las celebraciones de fin de año.\n• Como parte de estas medidas, el tradicional concierto de Nochevieja en la Avenida de los Campos Elíseos en París ha sido cancelado para evitar grandes aglomeraciones y riesgos.\n• El gobierno ha pedido máxima vigilancia y la movilización de los servicios de inteligencia para detectar y prevenir posibles ataques.\n\n🔍 **Datos clave:**\n• **Nivel de amenaza:** Calificado como \"altísimo\" por las autoridades francesas.\n• **Evento principal afectado:** Cancelación del concierto de Nochevieja del 31 de diciembre en los Campos Elíseos, París.\n• **Autoridad principal:** Ministro del Interior, Laurent Nuñez; decisión de la Prefectura de Policía de París.\n• **Cifras sobre yihadismo:** 429 causas abiertas por actos yihadistas en Francia desde 2019, 51 detectadas este año.\n• **Ataques de referencia:** Atentado en Estrasburgo (2018, 5 muertos) y en el mercado navideño de Magdeburgo (2022, 5 muertos, ~200 heridos).\n\n⚡ **Desarrollo:**\n• El ministro Laurent Nuñez envió un memo a las fuerzas del orden para reforzar la seguridad en todo el territorio, manteniendo la \"máxima vigilancia\" debido a la amenaza.\n• La Prefectura de Policía solicitó la cancelación del concierto de Nochevieja a la alcaldesa Anne Hidalgo, por motivos de seguridad y para prevenir \"movimientos imprevisibles\" de multitudes.\n• Se ha instruido la movilización completa de los servicios de inteligencia para la detección, prevención y, si es necesario, represión de amenazas terroristas.\n• Los mercados de Navidad y otros eventos que congregan a muchas personas son considerados \"susceptibles de ser objetivo\" de acciones violentas, según la propaganda terrorista.\n• Se ha exigido una \"presencia disuasoria\" de las fuerzas del orden y del personal militar de la Operación Centinela, complementada con el uso intensivo de videovigilancia.\n• Aunque justificada por seguridad, la cancelación del concierto generó críticas de políticos como Bruno Retailleau y Emmanuel Grégoire, quienes expresaron que no se debe ceder.\n• Las autoridades advierten que grupos como Estado Islámico y Al-Qaeda pueden incitar a individuos presentes en Francia a perpetrar atentados, aunque no puedan proyectarlos directamente.\n\n💡 **¿Por qué importa?**\n• La suspensión de eventos tradicionales refleja cómo la seguridad nacional prioriza la protección ciudadana sobre las celebraciones masivas en un contexto de amenaza persistente.\n• Subraya la continua vulnerabilidad de Francia al terrorismo y la necesidad de adaptar estrategias de seguridad para enfrentar nuevas tácticas de incitación individual y objetivos simbólicos.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Francia refuerza su seguridad para las Fiestas por un “altísimo nivel de amenaza terrorista”",
+          "link": "https://www.lanacion.com.ar/el-mundo/francia-refuerza-su-seguridad-para-las-fiestas-por-un-altisimo-nivel-de-amenaza-terrorista-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 18:05:39"
+        },
+        {
+          "titulo": "Francia suspende el tradicional concierto de Año Nuevo en los Campos Elíseos y refuerza la seguridad por una  \"altísima\" alerta terrorista",
+          "link": "https://www.clarin.com/mundo/francia-suspende-tradicional-concierto-ano-nuevo-campos-eliseos-refuerza-seguridad-altisima-alerta-terrorista_0_Rt0czG5UjZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 14:04:22"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "restricciones_migratorias_y_20251203",
+      "tema": "Restricciones Migratorias y Políticas EE.UU.",
+      "tema_normalizado": "restricciones migratorias y politicas ee.uu.",
+      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos ha implementado nuevas restricciones y políticas migratorias que afectan a ciudadanos de varios países, especialmente Venezuela y Cuba, y a viajeros internos.\n• El Servicio de Ciudadanía e Inmigración (USCIS) pausó trámites migratorios para 19 naciones, y la Administración de Seguridad en el Transporte (TSA) introdujo una tarifa para quienes no tengan una identificación \"Real ID\" al volar.\n\n🔍 **Datos clave:**\n• **USCIS:** Pausa de trámites migratorios para 19 países clasificados como de \"alto riesgo\", incluyendo Venezuela y Cuba.\n• **Trámites afectados (USCIS):** Incluyen ajustes de estatus (I-485), solicitudes de residencia permanente, naturalización (N-470), y solicitudes de asilo (I-589).\n• **TSA:** Tarifa de US$45 para viajeros sin \"Real ID\" o pasaporte que usen un sistema de verificación alternativo.\n• **Vigencia TSA:** La tarifa entra en vigor el 1 de febrero de 2026. El requisito \"Real ID\" para volar es efectivo desde el 7 de mayo de 2025.\n• **Actores principales:** USCIS, TSA, senador Marco Rubio, expresidente Donald Trump, presidente Nicolás Maduro.\n\n⚡ **Desarrollo:**\n• La suspensión de procesos por parte de USCIS se debe a la búsqueda de una revisión más profunda sobre cada caso. El objetivo es confirmar si el solicitante no representa una “amenaza a la seguridad nacional y pública”.\n• Esta investigación incluye más entrevistas obligatorias y evaluaciones individualizadas, lo que causará retrasos significativos en los expedientes. Sin embargo, no se perderá la protección de los procesos de asilo ya iniciados.\n• Ciudadanos venezolanos con Estatus de Protección Temporal (TPS) que buscaron asilo, continúan protegidos con sus procesos, aunque el programa TPS de 2021 se encuentra desactivado.\n• La nueva tarifa de US$45 de la TSA se aplicará a viajeros que no porten una identificación \"Real ID\", pasaporte, o algún documento aceptado por la entidad al abordar un vuelo interno.\n• La TSA acepta documentos como licencias de conducir \"Real ID\", pasaportes de EE.UU. o extranjeros, \"Green Card\", tarjetas de viajero confiable (Global Entry), entre otros.\n• En el ámbito político, el senador Marco Rubio ha expresado escepticismo sobre posibles negociaciones con Nicolás Maduro, argumentando que el líder venezolano ha incumplido acuerdos previos con el gobierno de EE.UU.\n• El gobierno de Trump acusó a Maduro de liderar el Cartel de los Soles, manteniendo presión militar y buscando negociar su salida del poder.\n\n💡 **¿Por qué importa?**\n• Estas medidas endurecen las condiciones para inmigrantes y viajeros, generando incertidumbre y posibles demoras en trámites esenciales y desplazamientos dentro de EE.UU.\n• Reflejan un enfoque más estricto en la seguridad nacional y la política migratoria, con implicaciones significativas para la comunidad migrante y las relaciones diplomáticas con países clave.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "La mala noticia para los venezolanos con TPS que buscaban tener asilo en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/la-mala-noticia-para-los-venezolanos-con-tps-que-buscaban-tener-asilo-en-eeuu-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:33:08"
+        },
+        {
+          "titulo": "La nueva regla de la TSA que se aplica para viajeros en EE.UU. sin Real ID o pasaporte: tendrán que pagar",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/la-nueva-regla-de-la-tsa-que-se-aplica-para-viajeros-en-eeuu-sin-real-id-o-pasaporte-tendran-que-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 17:00:00"
+        },
+        {
+          "titulo": "Cómo afecta a los cubanos y venezolanos el freno a los trámites migratorios en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/como-afecta-a-los-cubanos-y-venezolanos-el-freno-a-los-tramites-migratorios-en-eeuu-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 15:58:41"
+        },
+        {
+          "titulo": "\"Maduro incumple todos los acuerdos, pero no va a engañar a Donald Trump\": advertencia de Marco Rubio en plena tensión con Venezuela",
+          "link": "https://www.clarin.com/mundo/maduro-incumple-acuerdos-va-enganar-donald-trump-advertencia-marco-rubio-plena-tension-venezuela_0_QdvUJ3mzqp.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 13:36:54"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "La Nación",
         "Clarín"
       ],
       "es_tema_nuevo": true,
