@@ -1,32 +1,56 @@
 {
   "fecha": "2025-12-03",
-  "fecha_generacion": "2025-12-03T09:25:43.298223",
+  "fecha_generacion": "2025-12-03T12:32:56.761243",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "cambios_en_side_20251203",
-      "tema": "Cambios en la SIDE y designación de Auguadra",
-      "tema_normalizado": "cambios en side y designacion de auguadra",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino anunció una importante modificación en la cúpula de la Secretaría de Inteligencia de Estado (SIDE).\n• Sergio Neiffert fue removido de su cargo como titular del organismo.\n• Cristian Auguadra, un contador público y hombre de confianza, fue designado como su reemplazo.\n\n🔍 **Datos clave:**\n• **Nuevo titular:** Cristian Ezequiel Auguadra.\n• **Ex titular:** Sergio Neiffert.\n• **Fecha de oficialización:** Miércoles (madrugada), a través del Decreto 852/2024 publicado en el Boletín Oficial.\n• **Rol anterior de Auguadra:** Inspector General de la División de Asuntos Internos (DAI) de la SIDE, cargo que ocupaba desde noviembre de 2024.\n• **Presupuesto ampliado (previo al cambio):** La SIDE recibió $26.117.900.000 extras por DNU, con casi $20.000 millones destinados a salarios.\n\n⚡ **Desarrollo:**\n• El cambio se produce tras la conclusión de la \"primera etapa\" de reestructuración del Sistema de Inteligencia Nacional (SIN), liderada por Neiffert y validada por la Comisión Bicameral de Fiscalización.\n• La gestión de Neiffert, que comenzó en julio de 2024 con la restitución de la SIDE (antes AFI), se enfocó en ordenar procesos internos, auditar y transparentar la estructura.\n• Cristian Auguadra es un hombre de extrema confianza de Santiago Caputo, asesor presidencial, y su designación responde a la intención de profundizar la modernización y el control.\n• Auguadra posee experiencia en auditoría, gestión de riesgos, fortalecimiento institucional y administración pública, conocimientos clave para su rol previo en la DAI, encargada de supervisar el uso de recursos y prevenir irregularidades internas.\n• La reestructuración de la SIDE de julio de 2024 dividió el organismo en cuatro áreas: el Servicio de Inteligencia Argentino (SIA), la Agencia de Seguridad Nacional (ASN), la Agencia Federal de Ciberseguridad (AFC) y la División de Asuntos Internos (DAI).\n• Se especuló sobre tensiones entre Neiffert, Santiago Caputo y la Secretaria General de la Presidencia, Karina Milei, como trasfondo de la salida.\n• Con Auguadra, el Gobierno busca consolidar mecanismos de control y planificación estratégica, avanzando hacia un modelo de inteligencia \"ágil, integrado y moderno\".\n\n💡 **¿Por qué importa?**\n• Refuerza el control interno del organismo de inteligencia y la profesionalización de su gestión, priorizando la modernización y transparencia.\n• Consolida la influencia de Santiago Caputo en un área clave del Estado, al designar a un funcionario de su círculo de confianza.",
-      "cantidad_noticias": 9,
+      "tema_id": "cambios_en_side:_20251203",
+      "tema": "Cambios en la SIDE: designación de Auguadra",
+      "tema_normalizado": "cambios en side: designacion de auguadra",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno oficializó el desplazamiento de Sergio Neiffert como titular de la Secretaría de Inteligencia del Estado (SIDE).\n• En su lugar, fue designado Cristian Auguadra, quien hasta ahora se desempeñaba como Inspector General de la División de Asuntos Internos (DAI).\n• Este cambio marca el inicio de una segunda etapa en la reestructuración del organismo de inteligencia.\n\n🔍 **Datos clave:**\n• **Fecha oficialización:** Miércoles 3 de abril (Decreto 852/2025 en el Boletín Oficial).\n• **Ex-titular:** Sergio Neiffert.\n• **Nuevo titular:** Cristian Auguadra, contador público y hombre de confianza de Santiago Caputo.\n• **Asesor clave:** Santiago Caputo, asesor presidencial \"sin cargo oficial\".\n• **Organismo implicado:** SIDE (Secretaría de Inteligencia del Estado), anteriormente AFI.\n• **Presupuesto ampliado:** Días previos, la SIDE recibió una partida extra de $26.117.900.000.\n• **Rol anterior de Auguadra:** Inspector General de la División de Asuntos Internos (DAI).\n\n⚡ **Desarrollo:**\n• La salida de Neiffert se produce tras semanas de rumores sobre tensiones internas y la pérdida de confianza de Santiago Caputo.\n• Se menciona un incidente de \"ultimátum de medianoche\" en el domicilio de Neiffert, donde se le solicitó la delegación de su firma.\n• El Gobierno justificó la remoción indicando que Neiffert concluyó la \"primera etapa\" de reestructuración de la SIDE.\n• Esta primera fase, bajo Neiffert, se enfocó en ordenar procesos internos, auditar y transparentar la estructura organizacional.\n• Auguadra, el nuevo titular, es descrito como un funcionario de bajo perfil con experiencia en auditoría, gestión de riesgos y administración pública.\n• Su nombramiento se enmarca en la \"segunda etapa\", que busca profundizar la modernización técnica y operativa, consolidar mecanismos de control y avanzar hacia un modelo de inteligencia ágil y moderno.\n• Auguadra había asumido en la DAI en noviembre de 2024, un área clave para supervisar y auditar los recursos dentro de las agencias de inteligencia.\n• La reestructuración del Sistema de Inteligencia Nacional (SIN) incluye el restablecimiento de la SIDE, la disolución de la AFI y la creación de cuatro organismos especializados, entre ellos la DAI.\n\n💡 **¿Por qué importa?**\n• Este movimiento consolida el control de Santiago Caputo sobre el estratégico aparato de inteligencia del Estado.\n• Refleja un énfasis en la auditoría, la transparencia y los controles internos dentro de la SIDE, buscando una mayor profesionalización y modernización.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "Quién es Cristian Auguadra, el nuevo titular de la SIDE tras la salida de Neiffert",
-          "link": "https://www.infobae.com/politica/2025/12/03/quien-es-cristian-auguadra-el-nuevo-titular-de-la-side-tras-la-salida-de-neiffert/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-03 04:51:43"
+          "titulo": "La interna que terminó con Neiffert: el ultimátum de medianoche, la discusión en calzoncillos y una SIDE paralizada",
+          "link": "https://www.lanacion.com.ar/politica/la-interna-que-termino-con-neiffert-el-ultimatum-de-medianoche-la-discusion-en-calzoncillos-y-una-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 09:03:57"
+        },
+        {
+          "titulo": "Quién es Cristian Auguadra, el nuevo secretario de la SIDE tras la salida de Sergio Neiffert",
+          "link": "https://www.perfil.com/noticias/politica/quien-es-cristian-auguadra-el-nuevo-secretario-de-la-side-tras-la-salida-de-sergio-neiffert.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 08:45:29"
+        },
+        {
+          "titulo": "Es oficial: el Gobierno reemplazó al titular de la SIDE",
+          "link": "https://www.minutouno.com/politica/es-oficial-el-gobierno-reemplazo-al-titular-la-side-n6220193",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 07:50:00"
         },
         {
           "titulo": "Quién es Cristian Auguadra, el nuevo titular de la SIDE que reemplazará a Sergio Neiffert",
           "link": "https://www.lanacion.com.ar/politica/quien-es-cristian-auguadra-el-nuevo-titular-de-la-side-que-reemplazara-a-sergio-neiffert-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 03:40:48"
+          "fecha": "2025-12-03 07:44:37"
         },
         {
           "titulo": "Cambio en la SIDE: el Gobierno anunció la salida de Neiffert y la designación de Cristian Auguadra como reemplazante",
           "link": "https://www.lanacion.com.ar/politica/cambio-en-la-side-el-gobierno-anuncio-la-salida-de-neiffert-y-la-designacion-de-cristian-auguadra-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 03:38:34"
+          "fecha": "2025-12-03 07:39:25"
+        },
+        {
+          "titulo": "Quién es Cristian Auguadra, el nuevo titular de la SIDE designado por Javier Milei",
+          "link": "https://www.ambito.com/politica/quien-es-cristian-auguadra-el-nuevo-titular-la-side-designado-javier-milei-n6220195",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 07:30:00"
+        },
+        {
+          "titulo": "Oficializan a Cristian Auguadra como nuevo titular de la SIDE y la salida de Sergio Neiffert",
+          "link": "https://www.ambito.com/politica/oficializan-cristian-auguadra-como-nuevo-titular-la-side-n6220190",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 07:20:00"
         },
         {
           "titulo": "Quién es Cristian Auguadra, el nuevo Señor 5 de la SIDE y hombre de confianza de Santiago Caputo",
@@ -51,28 +75,16 @@
           "link": "https://www.clarin.com/politica/confirman-salida-sergio-neiffert-side-designan-cristian-auguadra-reemplazante_0_hPuCh04TJh.html",
           "fuente": "Clarín",
           "fecha": "2025-12-02 23:37:09"
-        },
-        {
-          "titulo": "Cambios en el Gobierno: Adorni echó al vicejefe de Gabinete y tambalea Sergio Neiffert al frente de la SIDE",
-          "link": "https://www.clarin.com/politica/adorni-desplazo-rolandi-vicejefe-gabinete-cobra-fuerza-posible-salida-sergio-neiffert-side_0_Gm8gAKl2AF.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 18:37:32"
-        },
-        {
-          "titulo": "El Gobierno amplió por DNU el presupuesto de la SIDE en más de $26.000 millones: aseguran que la mayor parte es para sueldos",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-amplio-por-dnu-el-presupuesto-de-la-side-en-mas-de-26000-millones-aseguran-que-la-mayor-parte-es-para-sueldos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 16:52:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
         "Clarín",
-        "Infobae",
-        "Perfil",
         "La Nación",
-        "Ámbito Financiero"
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -80,98 +92,87 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "dolar_y_mercados_20251203",
-      "tema": "Dólar y mercados financieros argentinos",
-      "tema_normalizado": "dolar y mercados financieros argentinos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Los mercados financieros argentinos inician diciembre de 2025 con una aparente calma en las cotizaciones del dólar oficial y blue, luego de un noviembre con pocas variaciones.\n• A pesar de esta estabilidad cambiaria de corto plazo, persiste una profunda preocupación por la crítica situación de las reservas del Banco Central y el cumplimiento de las metas con el FMI.\n\n🔍 **Datos clave:**\n• **Dólar Blue (02/12/2025):** $1.425 (compra) / $1.445 (venta). Por varias jornadas, fue el tipo de cambio más barato del mercado.\n• **Dólar Oficial (minorista BNA 02/12/2025):** $1.430 (compra) / $1.480 (venta). El mayorista se ubicó en $1.455.\n• **Dólar MEP (02/12/2025):** $1.478,59 (brecha 1,9% con el oficial).\n• **Dólar CCL (02/12/2025):** $1.522,86 (brecha 4,9% con el oficial).\n• **Reservas Netas BCRA (estimadas al 02/12/2025):** Negativas en -$271 millones. (Pronóstico FMI fin 2025: -$17.000 millones negativos).\n• **Riesgo País (02/12/2025):** 647 puntos básicos, aún lejos de niveles de acceso a mercados.\n• **Pronóstico Dólar Mayorista (FocusEconomics - Dic 2026):** $1.746.\n\n⚡ **Desarrollo:**\n• A principios de diciembre de 2025, el dólar oficial minorista y mayorista mostraron una leve suba, mientras que el dólar blue (mercado informal) se mantuvo estable, incluso operando por debajo del oficial mayorista en varias jornadas.\n• Diciembre tradicionalmente genera una mayor demanda de pesos por aguinaldos y gastos, lo que podría contribuir a la calma del dólar y facilitar una acumulación \"hormiga\" de reservas por parte del BCRA.\n• La situación de las reservas netas es el \"talón de Aquiles\", con cifras profundamente negativas que exigen al Gobierno atraer capitales y conseguir financiamiento internacional, posiblemente a través de nuevos waivers del FMI.\n• La liquidación de exportaciones durante noviembre fue baja (u$s760 millones), impactando negativamente en la entrada de divisas al país y la capacidad del BCRA para comprar dólares.\n• Analistas del mercado proyectan una expansión del PBI del 3,1% y una disminución de la inflación al 23,9% para 2026, siempre que el gobierno logre avanzar con sus reformas estructurales.\n• El dólar oficial se encuentra \"incómodamente cerca\" del techo de la banda cambiaria, lo que limita el margen de acción del Banco Central para intervenir sin generar nuevas tensiones.\n\n💡 **¿Por qué importa?**\n• La calma cambiaria actual puede ser transitoria y esconde una fragilidad estructural en las reservas, la cual, si no se aborda, podría derivar en nuevas presiones sobre el tipo de cambio.\n• La capacidad del Gobierno para recomponer la confianza de los inversores, asegurar el financiamiento internacional y acumular dólares es crucial para la estabilidad macroeconómica y el futuro acceso de Argentina a los mercados globales de deuda.",
-      "cantidad_noticias": 13,
+      "tema_id": "cotizaciones_dolar_oficial_20251203",
+      "tema": "Cotizaciones Dólar Oficial y Blue",
+      "tema_normalizado": "cotizaciones dolar oficial y blue",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones del dólar oficial y del dólar blue muestran movimientos diarios este miércoles 3 de diciembre, con el dólar oficial manteniendo una \"pax cambiaria\" pero acercándose al límite superior de la banda fijada por el Banco Central.\n• Paralelamente, el dólar blue registra sus propios valores en el mercado informal, mientras que otros tipos de cambio como el MEP, CCL, Tarjeta y Cripto también presentan sus cotizaciones.\n• El mercado observa de cerca la tendencia del dólar oficial y el impacto de la situación de las reservas internacionales.\n\n🔍 **Datos clave:**\n• **Dólar Oficial Mayorista:** $1.455 (subió $3,50, +0,2%).\n• **Dólar Oficial Minorista (BNA):** Compra $1.430 / Venta $1.480.\n• **Límite superior banda cambiaria BCRA:** $1.511,98.\n• **Dólar Blue:** Compra $1.425 / Venta $1.445.\n• **Dólar MEP:** Compra $1.478,30 / Venta $1.481,30.\n• **Dólar CCL:** Compra $1.520,10 / Venta $1.520,10.\n• **Dólar Tarjeta:** $1.924,00 (incluye recargos impositivos del 60%).\n• **Dólar Cripto:** Compra $1.495,55 / Venta $1.512,94.\n• **Reservas netas (FMI):** Aproximadamente u$s17.000 millones negativas.\n• **Riesgo País:** 647 puntos básicos.\n• **Liquidación de exportadores (noviembre):** u$s760 millones (caída del 62% interanual).\n• **Brecha CCL vs Oficial:** 4,9%.\n• **Brecha MEP vs Oficial:** 1,9%.\n\n⚡ **Desarrollo:**\n• El dólar oficial, regulado por el Banco Central, se mantiene con ajustes diarios mínimos, pero su valor ($1.455) se acerca al tope de la banda cambiaria, generando incertidumbre sobre futuras medidas.\n• El dólar blue opera en el mercado informal, conocido por su valor de referencia sin límites de compra, y su cotización se establece más tarde en el día en la \"City porteña\".\n• El dólar MEP y el Dólar Contado con Liquidación (CCL) son opciones financieras para adquirir dólares legalmente mediante la compra y venta de bonos, permitiendo al CCL incluso la salida de divisas del país.\n• El Dólar Tarjeta es el tipo de cambio aplicado a gastos en el exterior o compras internacionales con tarjeta, y su valor incluye un 60% de impuestos (30% Impuesto País y 30% Ganancias) sobre el oficial minorista.\n• A pesar de una aparente calma cambiaria, la preocupación principal del mercado es el crítico nivel de las reservas internacionales netas, que son profundamente negativas según el FMI.\n• La dinámica del mercado cambiario también se ve afectada por una oferta reducida de divisas, como se observa en la baja liquidación de exportadores de granos.\n\n💡 **¿Por qué importa?**\n• La evolución de estas cotizaciones impacta directamente en la economía de los ciudadanos, influenciando precios de bienes, servicios y la capacidad de ahorro e inversión.\n• La situación de las reservas internacionales y la estabilidad de la brecha cambiaria son indicadores clave para la confianza del mercado y la salud económica general del país.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este miércoles 03 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-miercoles-03-diciembre_0_xWsT0toMFZ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 04:00:04"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-2-diciembre-n6219716",
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-3-diciembre-n6220194",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 20:07:00"
+          "fecha": "2025-12-03 09:05:00"
         },
         {
-          "titulo": "El dólar cerró en $ 1.480 y sigue la demanda de pesos de cara a los mayores gastos de fin de año",
-          "link": "https://www.clarin.com/economia/dolar-cerro-1480-incognita-efecto-demanda-pesos-previa-vacaciones_0_MaOn72FOCo.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 19:19:22"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este miércoles 3 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-3-de-diciembre-nid03122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 08:59:00"
         },
         {
-          "titulo": "Dólar hoy: a cuánto cerró este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-martes-2-diciembre-n6220121",
+          "titulo": "El dólar oficial sigue cerca del techo de la banda y el mercado evalúa cómo seguirá la tendencia",
+          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-sigue-cerca-del-techo-la-banda-y-el-mercado-evalua-como-seguira-la-tendencia-n6220203",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 18:51:00"
+          "fecha": "2025-12-03 08:45:00"
         },
         {
-          "titulo": "El dólar blue se mantuvo como el tipo de cambio más barato del mercado, debajo de los $1.450",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-se-mantuvo-como-el-tipo-cambio-mas-barato-del-mercado-debajo-los-1450-n6220106",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 18:25:00"
-        },
-        {
-          "titulo": "¿Aguanta la calma del dólar?: nuevo precio que prevén 40 consultoras para los próximos meses",
-          "link": "https://www.iprofesional.com/finanzas/443188-nuevo-precio-dolar-que-preven-40-bancos-y-consultoras-para-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 18:20:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-2-diciembre-n6219713",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 17:47:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-martes-2-diciembre-n6219781",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 17:16:00"
-        },
-        {
-          "titulo": "A cuánto cerró el euro blue hoy martes 2 de diciembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-martes-2-de-diciembre.phtml",
+          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este miércoles 3 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-miercoles-3-de-diciembre-de-2025.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-02 16:58:00"
+          "fecha": "2025-12-03 07:38:00"
         },
         {
-          "titulo": "A cuánto cerró el dólar blue hoy este martes 2 de diciembre del 2025",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-este-martes-2-de-diciembre-del-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 16:42:00"
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 3 de diciembre, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-miercoles-3-diciembre-minuto-minuto_0_iH19XhMyDB.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:25:51"
         },
         {
-          "titulo": "El dólar oficial aumentó, tocó máximos en un mes y quedó a $10 del blue",
-          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-las-brechas-tocan-minimos-un-mes-que-factores-mira-el-mercado-n6219785",
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este miércoles 03 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-miercoles-03-diciembre_0_EHRLfcGo4W.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:08:00"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este miércoles 03 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-miercoles-03-diciembre_0_F1YUf4mx5j.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:08:00"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este miércoles 03 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-miercoles-03-diciembre_0_0yb4CyhOUY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:05:01"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-3-diciembre-n6220129",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 16:16:00"
+          "fecha": "2025-12-03 00:00:00"
         },
         {
-          "titulo": "Dólar hoy: a cuánto cotiza este martes 2 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-2-diciembre-n6219714",
+          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-3-diciembre-n6220130",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 15:58:00"
+          "fecha": "2025-12-03 00:00:00"
         },
         {
-          "titulo": "El dato que nadie esperaba: por qué el dólar podría volver a chocar contra el techo de la banda",
-          "link": "https://www.iprofesional.com/finanzas/443143-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 15:15:00"
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este miércoles 3 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-miercoles-3-diciembre-n6220101",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 00:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
         "Clarín",
-        "iProfesional",
-        "Perfil",
-        "Ámbito Financiero"
+        "La Nación",
+        "Minuto1",
+        "Ámbito Financiero",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -179,55 +180,55 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "tension_eeuu-venezuela_por_20251203",
-      "tema": "Tensión EEUU-Venezuela por amenazas de Trump",
-      "tema_normalizado": "tension eeuu-venezuela por amenazas de trump",
-      "resumen": "📌 **¿Qué está pasando?**\n• El presidente de Estados Unidos, Donald Trump, ha escalado la tensión con Venezuela al amenazar con ataques militares terrestres inminentes contra objetivos de narcotráfico.\n• Estas advertencias, que buscan presionar al presidente Nicolás Maduro para que abandone el poder, complementan las operaciones navales ya en curso en el Caribe.\n\n🔍 **Datos clave:**\n• **Fecha de los anuncios:** Martes 2 de diciembre de 2025.\n• **Operación militar marítima de EEUU:** Lanza del Sur.\n• **Ataques navales registrados:** 21 embarcaciones destruidas.\n• **Muertes estimadas:** Más de 80 personas en ataques navales.\n• **Despliegue militar de EEUU:** 15.000 soldados, destructores, cazas, el portaaviones USS Gerald R. Ford.\n• **Secretario de Defensa de EEUU:** Pete Hegseth.\n• **Crítico internacional:** Papa León XIV.\n\n⚡ **Desarrollo:**\n• Trump defendió los bombardeos a \"narcolanchas\" y afirmó que los ataques terrestres serían \"mucho más fáciles\", ya que \"conocen las rutas\" y \"dónde viven los malos\".\n• El mandatario estadounidense dio un ultimátum a Maduro para que dimita, respondiendo \"Lo hará\" cuando le preguntaron si el venezolano había ofrecido dejar el poder.\n• Estados Unidos justifica la ofensiva acusando a Maduro de liderar el \"Cartel de los Soles\", designado como organización terrorista extranjera por Washington.\n• El secretario de Defensa, Pete Hegseth, respaldó los operativos, señalando que \"apenas hemos comenzado a atacar esos barcos y mandar los 'narcoterroristas' al fondo del océano\".\n• El Papa León XIV pidió moderación a EEUU, reclamó diálogo y rechazó categóricamente cualquier \"uso de la fuerza\" para desplazar al régimen de Maduro.\n• Un editorial de The Wall Street Journal instó a Trump a remover a Maduro \"de una forma u otra\", argumentando que responde al interés nacional de Estados Unidos.\n• Trump también amplió la amenaza a otros países productores de drogas, mencionando a Colombia, advirtiendo que \"cualquiera que haga eso está sujeto a un ataque\".\n\n💡 **¿Por qué importa?**\n• La amenaza de una intervención militar terrestre directa en Venezuela eleva significativamente el riesgo de un conflicto armado, con graves implicaciones humanitarias y geopolíticas para la región.\n• La situación pone a prueba la efectividad de la política de máxima presión de EEUU y suscita debate internacional sobre el respeto a la soberanía y los métodos para resolver crisis políticas.",
+      "tema_id": "aumento_salario_minimo_20251203",
+      "tema": "Aumento Salario Mínimo 2025-2026",
+      "tema_normalizado": "aumento salario minimo 2025-2026",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei estableció por decreto un nuevo esquema de aumento del Salario Mínimo, Vital y Móvil (SMVM).\n• Los incrementos rigen desde noviembre de 2025 hasta agosto de 2026.\n• Esta decisión fue unilateral, tomada ante la falta de acuerdo entre los sindicatos y las cámaras empresarias en el Consejo del Salario.\n\n🔍 **Datos clave:**\n• **Resolución:** Resolución 9/2025, publicada el 3 de diciembre de 2025.\n• **SMVM anterior:** $322.200 mensuales (vigente desde agosto de 2025).\n• **SMVM inicial (Noviembre 2025):** $328.400 (aumento de $6.200).\n• **SMVM final (Agosto 2026):** $376.600.\n• **Incremento total:** Apenas el 16,88% entre agosto de 2025 y agosto de 2026.\n• **Valor horario (Agosto 2026):** $1.883.\n\n⚡ **Desarrollo:**\n• El Gobierno intervino luego de que la reunión del Consejo del Salario del 26 de noviembre de 2025 fracasara por falta de consenso.\n• Se dispusieron diez incrementos mensuales consecutivos para los trabajadores mensualizados y jornalizados.\n• Estos nuevos valores aplican a empleados bajo la Ley de Contrato de Trabajo, el Régimen de Trabajo Agrario y la Administración Pública Nacional.\n• La medida también ratifica y vincula la prestación por desempleo al SMVM, fijando un cálculo del 75% de la mejor remuneración con límites del 50% al 100% del salario mínimo.\n• Las propuestas de los gremios (CGT pedía $512.000 y CTA-A hasta $736.000 para noviembre de 2025) fueron significativamente mayores a lo dispuesto por el Ejecutivo.\n\n💡 **¿Por qué importa?**\n• El SMVM establece el piso salarial para millones de trabajadores y es una referencia clave para diversas prestaciones sociales, programas y subsidios.\n• La decisión unilateral del Gobierno subraya la profunda división entre los sectores obrero, empresarial y el Estado en la fijación de políticas salariales.",
       "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "Trump defendió los bombardeos a las narcolanchas y le advirtió a Venezuela: “Empezaremos a atacar también en tierra”",
-          "link": "https://www.lanacion.com.ar/estados-unidos/trump-defendio-los-bombardeos-a-las-narcolanchas-y-le-advirtio-a-venezuela-empezaremos-a-atacar-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 03:50:25"
-        },
-        {
-          "titulo": "Tensión: Donald Trump amenaza a Venezuela con ataques \"por tierra\" y exige renuncia de Nicolás Maduro",
-          "link": "https://www.minutouno.com/mundo/tension-donald-trump-amenaza-venezuela-ataques-por-tierra-y-exige-renuncia-nicolas-maduro-n6220125",
+          "titulo": "El Gobierno aumentó por decreto el Salario Mínimo, Vital y Móvil: de cuánto fue el incremento",
+          "link": "https://www.minutouno.com/economia/el-gobierno-aumento-decreto-el-salario-minimo-vital-y-movil-cuanto-fue-el-incremento-n6220198",
           "fuente": "Minuto1",
-          "fecha": "2025-12-02 18:46:00"
+          "fecha": "2025-12-03 08:35:00"
         },
         {
-          "titulo": "Donald Trump redobla la apuesta contra Venezuela y anticipa operaciones terrestres",
-          "link": "https://www.ambito.com/mundo/donald-trump-redobla-la-apuesta-contra-venezuela-y-anticipa-operaciones-terrestres-n6220118",
+          "titulo": "Salario mínimo, vital y móvil: se oficializaron los incrementos mensuales hasta agosto de 2026",
+          "link": "https://www.iprofesional.com/impuestos/443225-salario-minimo-vital-y-movil-se-oficializaron-los-incrementos-mensuales",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 08:29:00"
+        },
+        {
+          "titulo": "Salario Mínimo, Vital y Móvil: el Gobierno fijó aumentos mensuales hasta agosto de 2026",
+          "link": "https://www.iprofesional.com/economia/443229-salario-minimo-vital-y-movil-como-queda-escala-hasta-agosto-2026-tras-nuevas-subas",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 08:10:00"
+        },
+        {
+          "titulo": "El gobierno de Javier Milei definió el salario mínimo hasta agosto de 2026: de cuánto es y cómo quedaron las prestaciones por desempleo",
+          "link": "https://www.ambito.com/economia/el-gobierno-javier-milei-definio-el-salario-minimo-agosto-2026-cuanto-es-y-como-quedaron-las-prestaciones-desempleo-n6220187",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 18:30:00"
+          "fecha": "2025-12-03 07:32:00"
         },
         {
-          "titulo": "Tensión entre Estados Unidos y Venezuela: Donald Trump insiste en que los ataques en territorio venezolano comenzarán \"muy pronto\"",
-          "link": "https://www.clarin.com/mundo/tension-estados-unidos-venezuela-donald-trump-insiste-ataques-territorio-venezolano-comenzaran-pronto_0_gI9UYIIkQJ.html",
+          "titulo": "Salario Mínimo Vital y Móvil: confirmaron el nuevo monto en diciembre de 2025 e incrementos mensuales hasta agosto de 2026",
+          "link": "https://www.clarin.com/economia/salario-minimo-vital-movil-confirmaron-nuevo-monto-diciembre-2025-incrementos-mensuales-agosto-2026_0_SqKSnN85Q5.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 16:15:04"
+          "fecha": "2025-12-03 04:36:24"
         },
         {
-          "titulo": "El papa León XIV pidió moderación a EEUU y reclamó que negocie con Venezuela",
-          "link": "https://www.ambito.com/mundo/el-papa-leon-xiv-pidio-moderacion-eeuu-y-reclamo-que-negocie-venezuela-n6220021",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 15:46:00"
-        },
-        {
-          "titulo": "The Wall Street Journal publicó un editorial donde reclama a Donald Trump sacar a Nicolás Maduro \"de una forma u otra\" del poder",
-          "link": "https://www.ambito.com/mundo/the-wall-street-journal-publico-un-editorial-donde-reclama-donald-trump-sacar-nicolas-maduro-de-una-forma-u-otra-del-poder-n6219994",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 14:37:00"
+          "titulo": "Salario Mínimo, Vital y Móvil: cuál es su monto en diciembre 2025 y cómo subirá hasta agosto 2026",
+          "link": "https://www.iprofesional.com/economia/443166-aumenta-el-salario-minimo-vital-y-movil-cual-es-su-monto-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 00:01:00"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Clarín",
-        "La Nación",
         "Ámbito Financiero",
+        "Clarín",
+        "iProfesional",
         "Minuto1"
       ],
       "es_tema_nuevo": true,
@@ -236,55 +237,166 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "lla_logra_primera_20251203",
-      "tema": "LLA logra primera minoría en Diputados",
-      "tema_normalizado": "lla logra primera minoria en diputados",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Libertad Avanza (LLA) se ha convertido en la primera minoría en la Cámara de Diputados de Argentina.\n• Con 95 bancas, el bloque oficialista superó a Unión por la Patria (UP) por un escaño clave.\n• Este importante cambio de poder se consolidó en víspera de la sesión preparatoria para la jura de los nuevos legisladores.\n\n🔍 **Datos clave:**\n• **Bancas LLA:** 95 (pasando de 83 iniciales en la nueva conformación)\n• **Bancas UP:** 94 (luego de la salida de legisladores)\n• **Diputado clave para LLA:** Francisco Morchio (ex-Encuentro Federal, por Entre Ríos)\n• **Legisladores que dejaron UP:** Fernanda Ávila, Sebastián Nóblega y Fernando Monguillot (de Catamarca)\n• **Nuevo bloque catamarqueño:** \"Elijo Catamarca\"\n• **Gobernador influyente:** Raúl Jalil (Catamarca)\n• **Jefe de bloque LLA:** Gabriel Bornoroni\n• **Fecha clave:** Sesión preparatoria del 3 de diciembre\n\n⚡ **Desarrollo:**\n• El crecimiento de LLA fue exponencial, pasando de 38 bancas iniciales a 95 gracias a diversas incorporaciones y acuerdos políticos.\n• Un factor determinante fue la unión del diputado entrerriano Francisco Morchio, quien dejó el bloque Encuentro Federal (presidido por Miguel Pichetto) para sumarse a LLA, respondiendo al pedido del gobernador Rogelio Frigerio.\n• De forma paralela, Unión por la Patria sufrió una significativa fractura con la salida de tres legisladores de Catamarca.\n• Estos diputados (Ávila, Nóblega y Monguillot) responden al gobernador catamarqueño Raúl Jalil y conformaron el nuevo bloque \"Elijo Catamarca\".\n• Esta movida se alinea con gobernadores del Norte Grande que buscan mayor autonomía y una agenda federal, distanciándose de la conducción del kirchnerismo y la centralidad del AMBA.\n• El presidente Javier Milei celebró públicamente esta nueva conformación en redes sociales, destacando el impulso a las ideas de la libertad.\n\n💡 **¿Por qué importa?**\n• Obtener la primera minoría es crucial, ya que garantiza a LLA la presidencia de la Cámara de Diputados (para Martín Menem) y la vicepresidencia primera.\n• Esta posición les asegura una representación predominante en las comisiones parlamentarias, con un miembro más que UP en cada una, lo que facilita el control político y la aprobación de proyectos.\n• Es un paso estratégico clave para el gobierno de Javier Milei, otorgándole mayor capacidad para impulsar su agenda legislativa y bloquear iniciativas de la oposición.",
-      "cantidad_noticias": 6,
+      "tema_id": "pagos_y_beneficios_20251203",
+      "tema": "Pagos y Beneficios ANSES Diciembre",
+      "tema_normalizado": "pagos y beneficios anses diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre es un mes clave para millones de beneficiarios de ANSES, quienes recibirán el aguinaldo, aumentos en sus haberes y diversos bonos y prestaciones.\n• Se actualizan los montos de jubilaciones, pensiones y asignaciones, y se mantienen programas sociales fundamentales, con fechas de pago específicas por DNI.\n\n🔍 **Datos clave:**\n• **Aumento general ANSES:** 2.34% en la mayoría de las prestaciones, basado en la inflación de octubre.\n• **Aguinaldo (SAC):** Pago de la segunda cuota hasta el 18 de diciembre, con extensión hasta el 24.\n• **Bono jubilados:** $70.000 para quienes cobran la jubilación mínima, Pensiones No Contributivas (PNC) y PUAM.\n• **Jubilación mínima total:** $581.319,38 (con haber, bono y aguinaldo).\n• **AUH / AUE:** $97.993,42 (con retención del 20%).\n• **Volver al Trabajo / Acompañamiento Social:** Monto de $78.000, a cobrarse el 5 de diciembre.\n• **Tarjeta Alimentar:** Montos fijos desde $52.250 a $108.062, sin cambios.\n• **Libreta AUH 2025:** Plazo para presentar hasta el 31 de diciembre.\n\n⚡ **Desarrollo:**\n• **Jubilaciones y Pensiones:** Reciben un aumento del 2.34%. La jubilación mínima, junto al bono de $70.000 y el aguinaldo, totaliza $581.319,38. La Pensión Universal para el Adulto Mayor (PUAM) y las PNC también se benefician del bono y aguinaldo. Los pagos se distribuyen según el calendario de ANSES por terminación de DNI, comenzando el 9 de diciembre.\n• **Asignaciones y Programas Familiares:** La Asignación Universal por Hijo (AUH) y por Embarazo (AUE) se actualizan a $97.993,42. Las Asignaciones Familiares (SUAF) también tienen un incremento del 2.34%, con montos que varían según el Ingreso del Grupo Familiar (IGF). Los titulares de AUH tienen hasta el 31 de diciembre para presentar la Libreta AUH y acceder al 20% retenido.\n• **Asistencia al Desempleo y Programas de Empleo:** La Prestación por Desempleo puede alcanzar un máximo de $322.000, calculada sobre el 75% del mejor salario de los últimos seis meses, con pagos desde el 22 de diciembre. Los beneficiarios de \"Volver al Trabajo\" y \"Acompañamiento Social\" (ex Potenciar Trabajo) reciben $78.000 el 5 de diciembre.\n• **Beneficios Adicionales:** ANSES ofrece descuentos como el 10% en Coto para jubilados y pensionados (con la tarjeta de débito donde cobran sus haberes). PAMI mantiene su Plan Sonrisa Mayor, garantizando atención odontológica gratuita y cobertura total en tratamientos complejos, prótesis e implantes para sus afiliados.\n• **Otros Pagos de Diciembre:** Empleados bancarios, metalúrgicos, de comercio y del servicio doméstico también cobran su segunda cuota del aguinaldo. Además, estos sectores registran aumentos salariales y, en algunos casos, bonos extraordinarios específicos para el mes.\n\n💡 **¿Por qué importa?**\n• Diciembre es un mes de alta demanda económica, y estos pagos y beneficios son esenciales para sostener el poder adquisitivo de millones de familias y adultos mayores.\n• Conocer las fechas y los montos exactos es fundamental para una correcta planificación financiera y para asegurar el acceso a todas las prestaciones y servicios disponibles.",
+      "cantidad_noticias": 24,
       "noticias": [
         {
-          "titulo": "El PJ se fractura en Diputados, mientras que los libertarios suman una banca y pasan al frente como la primera minoría",
-          "link": "https://www.lanacion.com.ar/politica/el-pj-se-fractura-en-diputados-y-queda-empatado-con-los-libertarios-en-la-disputa-por-la-primera-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 03:51:42"
+          "titulo": "Aguinaldo de diciembre 2025: todo lo que hay que saber sobre el salario anual complementario",
+          "link": "https://www.infobae.com/economia/2025/12/03/aguinaldo-de-diciembre-2025-todo-lo-que-hay-que-saber-sobre-el-salario-anual-complementario/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 09:12:05"
         },
         {
-          "titulo": "Milei celebró la conformación de la primera minoría en el Congreso",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 00:16:45"
+          "titulo": "ANSES ofrece un 10% de descuento exclusivo para jubilados en este supermercado hoy, miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/economia/anses-ofrece-un-10-descuento-exclusivo-jubilados-este-supermercado-hoy-miercoles-3-diciembre-n6219954",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 08:15:00"
         },
         {
-          "titulo": "En víspera de la sesión preparatoria, La Libertad Avanza le sacó al peronismo la primera minoría en Diputados",
-          "link": "https://www.perfil.com/noticias/politica/tres-diputados-catamarquenos-rompen-con-union-por-la-patria-y-dejan-a-lla-a-un-paso-de-la-primera-minoria.phtml",
+          "titulo": "Qué ofrece el plan odontológico de PAMI en diciembre 2025 y cómo solicitar turnos",
+          "link": "https://www.perfil.com/noticias/economia/que-ofrece-el-plan-odontologico-de-pami-en-diciembre-2025-y-como-solicitar-turnos.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-02 23:02:00"
+          "fecha": "2025-12-03 07:48:00"
         },
         {
-          "titulo": "Se renueva Diputados: cómo piensan los electos y cuál será la nueva composición",
-          "link": "https://www.ambito.com/politica/se-renueva-diputados-como-piensan-los-electos-y-cual-sera-la-nueva-composicion-n6220162",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 21:44:06"
+          "titulo": "Cuándo cobro Anses: fechas y calendario completo de pagos de diciembre 2025",
+          "link": "https://www.perfil.com/noticias/economia/cuando-cobro-anses-fechas-y-calendario-completo-de-pagos-de-diciembre-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 07:42:00"
         },
         {
-          "titulo": "Diputados de Catamarca dejaron el bloque peronista y La Libertad Avanza será la primera fuerza",
-          "link": "https://www.ambito.com/politica/diputados-catamarca-dejaron-el-bloque-peronista-y-la-libertad-avanza-sera-la-primera-fuerza-n6220040",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 20:09:00"
+          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:25:06"
         },
         {
-          "titulo": "Desde las elecciones, LLA se hizo con la primera minoría, UP se achicó y el PRO sufrió una decenas de fugas",
-          "link": "https://www.ambito.com/politica/desde-las-elecciones-lla-se-hizo-la-primera-minoria-up-se-achico-y-el-pro-sufrio-una-decenas-fugas-n6219659",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 17:03:00"
+          "titulo": "Paritaria UOM: cuánto cobra un obrero metalúrgico en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/paritaria-uom-cuanto-cobra-un-obrero-metalurgico-en-diciembre-de-2025-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:25:02"
+        },
+        {
+          "titulo": "Cuánto cobran las niñeras en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-en-diciembre-2025-con-el-aguinaldo-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:51"
+        },
+        {
+          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:48"
+        },
+        {
+          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:44"
+        },
+        {
+          "titulo": "Cronograma de pagos: cuándo cobran los jubilados en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cronograma-de-pagos-cuando-cobran-los-jubilados-en-diciembre-2025-con-el-aguinaldo-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:20"
+        },
+        {
+          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
+          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:18"
+        },
+        {
+          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:14"
+        },
+        {
+          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:09"
+        },
+        {
+          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:06"
+        },
+        {
+          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:04"
+        },
+        {
+          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:24:01"
+        },
+        {
+          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:23:57"
+        },
+        {
+          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:23:53"
+        },
+        {
+          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:23:50"
+        },
+        {
+          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-03 07:23:48"
+        },
+        {
+          "titulo": "Quiénes cobran más de $300.000 por Desempleo en diciembre según ANSES",
+          "link": "https://www.perfil.com/noticias/economia/quienes-cobran-mas-de-300000-por-desempleo-en-diciembre-segun-anses.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 07:22:00"
+        },
+        {
+          "titulo": "ANSES: qué jubilados recibirán el bono confirmado para diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-que-jubilados-recibiran-el-bono-confirmado-diciembre-2025-n6220076",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 07:15:00"
+        },
+        {
+          "titulo": "Empleados de comercio: que pasará con el aumento salarial y bono 2025",
+          "link": "https://www.iprofesional.com/impuestos/443219-empleados-comercio-que-pasara-aumento-salarial-y-bono-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-03 05:31:00"
+        },
+        {
+          "titulo": "ANSES: el aumento confirmado que beneficia a las familias",
+          "link": "https://www.minutouno.com/economia/anses-el-aumento-confirmado-que-beneficia-las-familias-n6219983",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-02 21:00:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "iProfesional",
         "La Nación",
-        "Perfil",
-        "Ámbito Financiero"
+        "Ámbito Financiero",
+        "Minuto1",
+        "Infobae",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -292,51 +404,43 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "situacion_politica_de_20251203",
-      "tema": "Situación política de Lorena Villaverde",
-      "tema_normalizado": "situacion politica de lorena villaverde",
-      "resumen": "📌 **¿Qué está pasando?**\n• La senadora electa por La Libertad Avanza (LLA), Lorena Villaverde, no pudo asumir su banca en el Senado debido al rechazo de su diploma por sus antecedentes judiciales en Estados Unidos.\n• Tras no obtener el respaldo necesario, Villaverde retiró su renuncia como diputada nacional y continuará en la Cámara Baja hasta el fin de su mandato en 2027.\n• Su situación genera un debate sobre la idoneidad de los legisladores y los efectos de causas judiciales pasadas.\n\n🔍 **Datos clave:**\n• **Nombre:** María Lorena Villaverde, diputada nacional por Río Negro.\n• **Detención en EE.UU.:** 15 de julio de 2002, en Sarasota, Florida.\n• **Acusación en EE.UU.:** Tráfico de más de 400 gramos de cocaína y conspiración.\n• **Retiro de cargos en EE.UU.:** 2017, por parálisis procesal.\n• **Rechazo en Senado:** 12 de 19 senadores de la Comisión de Asuntos Constitucionales desaprobaron su diploma.\n• **Mandato actual:** Diputada nacional hasta 2027.\n\n⚡ **Desarrollo:**\n• Lorena Villaverde fue electa senadora por LLA pero su asunción fue bloqueada por la presión opositora y la negativa de la Comisión de Asuntos Constitucionales del Senado.\n• Las objeciones se centran en su detención en 2002 en Estados Unidos por narcotráfico, aunque los cargos fueron formalmente retirados en 2017.\n• La acusación original en EE.UU. implicaba la venta, distribución o expendio de drogas ilícitas y conspiración, con una pena máxima de 20 años de prisión.\n• Senadores de Unión por la Patria, algunos radicales y peronistas disidentes, como Juan Carlos Romero, votaron en contra de su diploma.\n• Además del caso en EE.UU., se le imputan presuntos vínculos con Fred Machado (lavado de activos) y denuncias de fraude inmobiliario en Río Negro.\n• Villaverde sostiene que no hay impedimento legal para asumir, que confió en gente equivocada y que no tiene vínculos con el narcotráfico.\n• Ante la falta de votos para su jura en el Senado, Villaverde retiró su renuncia a la banca de diputada nacional para no quedarse sin cargo.\n\n💡 **¿Por qué importa?**\n• Este caso pone en relieve el escrutinio de los antecedentes penales y la reputación de los funcionarios electos en Argentina.\n• Muestra las tensiones políticas y los desafíos internos que enfrenta La Libertad Avanza al intentar consolidar su presencia en el Congreso.",
-      "cantidad_noticias": 5,
+      "tema_id": "reforma_codigo_penal_20251203",
+      "tema": "Reforma Código Penal y Laboral",
+      "tema_normalizado": "reforma codigo penal y laboral",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Argentina está impulsando dos reformas legislativas clave: una al Código Penal y otra al Código Laboral.\n*   Ambos proyectos buscan transformar aspectos fundamentales del sistema judicial y de las relaciones de trabajo en el país.\n*   Estas iniciativas han generado un amplio debate y resistencia por parte de distintos sectores sociales y políticos.\n\n🔍 **Datos clave:**\n*   **Reforma Penal:** Se busca que el 82% de los delitos contemplen prisión efectiva. El proyecto agrava penas para delitos contra la vida, libertad y propiedad.\n*   **Imprescriptibilidad:** Se propone que delitos graves como homicidio o violación sean imprescriptibles para evitar el archivo de causas.\n*   **Reforma Laboral:** El borrador contiene más de 150 artículos y su envío formal al Congreso se prevé para el 9 de diciembre, buscando tratamiento en sesiones extraordinarias.\n*   **AUH:** El Gobierno planea desvincular la Asignación Universal por Hijo de la fórmula de movilidad previsional del ANSES, derogando artículos de la Ley 27.160.\n*   **Salario Mínimo:** El Consejo del Salario propuso un aumento a $4.000 para diciembre y $15.000 para abril, considerado insuficiente por organizaciones sociales.\n\n⚡ **Desarrollo:**\n*   La reforma del Código Penal busca, según el Gobierno, poner fin a la \"doctrina zaffaronista\" y al fenómeno de la \"puerta giratoria\" para los delincuentes, priorizando la justicia para las víctimas.\n*   Incorpora figuras como la conducción imprudente, modifica la legítima defensa a favor de quien se defiende y castiga a funcionarios corruptos con la pérdida de jubilaciones de privilegio.\n*   El exministro de Justicia, Germán Garavano, sugiere que el agravamiento de penas es un tema secundario; lo esencial es la identificación, el proceso y la condena efectiva de los culpables.\n*   La reforma laboral, liderada por Federico Sturzenegger, apunta a \"crear empleo formal\" e incluye modificaciones sobre la ultraactividad de convenios colectivos, cargas fiscales y el financiamiento sindical.\n*   La CGT ha manifestado su rechazo y duda sobre la existencia de un texto definitivo, oponiéndose a cambios que limiten bloqueos o asambleas, y la posibilidad de convenios colectivos por región.\n*   Organizaciones sociales critican fuertemente la reforma laboral por considerarla \"esclavista\" y la desvinculación de la AUH, alertando sobre la \"inseguridad alimentaria\" y el impacto en las familias.\n\n💡 **¿Por qué importa?**\n*   Ambas reformas tienen el potencial de modificar significativamente el marco legal y social del país, afectando la seguridad jurídica, los derechos laborales y el bienestar social.\n*   La discusión de estos proyectos en el Congreso generará una fuerte polarización política, enfrentando al oficialismo con la oposición, los sindicatos y movimientos sociales.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Presa y condenada: cómo fue el derrotero judicial por narcotráfico de la senadora electa Lorena Villaverde en EE.UU.",
-          "link": "https://www.lanacion.com.ar/politica/presa-y-condenada-como-fue-el-derrotero-judicial-por-narcotrafico-de-la-senadora-electa-lorena-nid02122025/",
+          "titulo": "Código Penal: un exministro de Justicia afirmó que el aumento de penas que propone el Gobierno “es un tema secundario”",
+          "link": "https://www.lanacion.com.ar/politica/codigo-penal-un-exministro-de-justicia-afirmo-que-el-aumento-de-penas-que-propone-el-gobierno-es-un-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 03:48:40"
+          "fecha": "2025-12-03 08:47:37"
         },
         {
-          "titulo": "Rechazada en el Senado, Lorena Villaverde vuelve a pedir asilo en la Cámara de Diputados",
-          "link": "https://www.perfil.com/noticias/politica/rechazada-en-el-senado-lorena-villaverde-vuelve-a-pedir-asilo-en-la-camara-de-diputados.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 21:02:00"
-        },
-        {
-          "titulo": "Lorena Villaverde confirmó que retiró su renuncia como diputada tras no recibir el respaldo para asumir en el Senado",
-          "link": "https://www.clarin.com/politica/lorena-villaverde-confirmo-retiro-renuncia-diputada-recibir-respaldo-asumir-senado_0_FDpwH4Vhe3.html",
+          "titulo": "Reforma al Código Penal: cuáles son los puntos clave y qué cambiará de la ley actual",
+          "link": "https://www.clarin.com/politica/reforma-codigo-penal-puntos-clave-cambiara-ley-actual_0_5EdyJYCy4d.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-02 19:22:46"
+          "fecha": "2025-12-03 07:00:13"
         },
         {
-          "titulo": "Lorena Villaverde dio marcha atrás y retiró su renuncia como diputada",
-          "link": "https://www.ambito.com/politica/lorena-villaverde-dio-marcha-atras-y-retiro-su-renuncia-como-diputada-n6220110",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 18:16:00"
+          "titulo": "Organizaciones sociales marcharán al Congreso contra el recorte en la AUH y el proyecto \"esclavista\" de reforma laboral",
+          "link": "https://www.perfil.com/noticias/politica/organizaciones-sociales-marcharan-al-congreso-contra-el-recorte-en-la-auh-y-la-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 02:00:00"
         },
         {
-          "titulo": "Interna en La Libertad Avanza: Lorena Villaverde retiró su renuncia como diputada",
-          "link": "https://www.minutouno.com/politica/interna-la-libertad-avanza-lorena-villaverde-retiro-su-renuncia-como-diputada-n6220107",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-02 17:45:00"
+          "titulo": "Reforma laboral: el Gobierno cerró el texto y prepara una pulseada con la CGT en extraordinarias",
+          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-el-gobierno-cerro-el-texto-y-prepara-una-pulseada-con-la-cgt-en-extraordinarias.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 19:33:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
         "Clarín",
-        "Minuto1",
-        "Perfil",
         "La Nación",
-        "Ámbito Financiero"
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -344,10 +448,10 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "conflicto_bancos_vs._20251203",
-      "tema": "Conflicto Bancos vs. Billeteras Virtuales",
-      "tema_normalizado": "conflicto bancos vs. billeteras virtuales",
-      "resumen": "📌 **¿Qué está pasando?**\n• Las principales cámaras bancarias de Argentina (ADEBA, ABA y ABAPPRA) se oponen firmemente a que las billeteras virtuales gestionen el pago de salarios, jubilaciones y asignaciones.\n• Esta posibilidad está contemplada en una reforma laboral impulsada por el Gobierno, que busca habilitar la competencia en el pago de nóminas.\n• Los bancos defienden el sistema actual de acreditación de haberes exclusivamente a través de instituciones financieras reguladas y supervisadas.\n\n🔍 **Datos clave:**\n• **Actores principales:** Bancos (ADEBA, ABA, ABAPPRA) vs. Billeteras Virtuales (Fintech).\n• **Iniciativa gubernamental:** Reforma laboral (inicialmente en DNU 70/23, actualmente suspendido ese capítulo).\n• **Modelo actual:** Pago de haberes en cuentas bancarias reguladas, vigente desde mediados de los 90.\n• **Regulación bancaria:** Sujeta a BCRA, Basilea, Red de Seguridad Financiera y sistema de garantía de depósitos.\n\n⚡ **Desarrollo:**\n• Los bancos califican el sistema actual como una \"política pública exitosa y sólida\", que garantiza un servicio \"de calidad y sin costo\".\n• Advierten que permitir el pago por billeteras virtuales implicaría un \"descenso en los niveles de formalidad y exigencias regulatorias\".\n• Argumentan que las billeteras virtuales no ofrecen el mismo nivel de seguridad, transparencia e integridad técnica que los bancos.\n• Señalan el riesgo de que trabajadores y jubilados pierdan sus haberes si la billetera virtual enfrenta problemas financieros o de gestión, sin las mismas garantías.\n• Exponen que la medida podría generar \"contingencias para el Estado\" y un \"mayor riesgo sistémico\" en el sistema financiero.\n• Insisten en que, cuando los fondos se transfieren a billeteras virtuales, se reducen los fondos disponibles para préstamos, afectando la generación de crédito para la economía.\n• Las billeteras virtuales, al no estar reguladas de la misma manera, no pueden ofrecer una garantía absoluta sobre los fondos.\n\n💡 **¿Por qué importa?**\n• La decisión final impactará directamente en la seguridad y las garantías de los ingresos de millones de trabajadores y jubilados en Argentina.\n• Define el futuro del ecosistema financiero, el alcance de la regulación y el nivel de competencia entre bancos y empresas fintech en un servicio esencial.",
+      "tema_id": "debate_fintech_vs._20251203",
+      "tema": "Debate Fintech vs. Bancos Pagos",
+      "tema_normalizado": "debate fintech vs. bancos pagos",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Las principales cámaras bancarias de Argentina se oponen firmemente a que las billeteras virtuales gestionen el pago de salarios, jubilaciones y asignaciones sociales.\n*   Esta posibilidad, impulsada por el Gobierno en el marco de una reforma laboral, busca habilitar la competencia en el pago de nóminas.\n*   Los bancos advierten sobre graves riesgos para los usuarios y la estabilidad del sistema financiero si se implementa esta medida.\n\n🔍 **Datos clave:**\n*   **Actores bancarios:** Las cámaras ADEBA (banca privada nacional), ABA (banca extranjera) y ABAPPRA (bancos públicos y cooperativos) emitieron comunicados conjuntos.\n*   **Regulación:** Bancos mencionan estar sujetos a regulación prudencial del BCRA (local) e internacional (Basilea).\n*   **Marco legal:** La propuesta se incluyó inicialmente en el Decreto 70/23, que luego fue suspendido judicialmente en su capítulo laboral.\n*   **Contexto histórico:** El sistema bancario formal para el pago de haberes se consolidó desde mediados de la década de 1990.\n\n⚡ **Desarrollo:**\n*   Los bancos defienden el esquema actual de pagos a través de entidades reguladas y supervisadas, calificándolo como \"una de las políticas públicas más sólidas\" que ha demostrado su fortaleza incluso en momentos de crisis.\n*   Argumentan que el servicio bancario para estos pagos es \"de calidad y sin costo\" para los usuarios, cumpliendo con estándares internacionales de seguridad y trazabilidad.\n*   Advierten que permitir las billeteras virtuales para estos pagos implicaría un \"descenso en los niveles de formalidad y exigencias regulatorias\".\n*   Esto expondría a trabajadores y jubilados al riesgo de perder sus fondos si la empresa detrás de la billetera enfrenta problemas financieros o de gestión.\n*   Las entidades bancarias señalan que las billeteras virtuales no ofrecen el mismo nivel de seguridad, transparencia e integridad técnica ni garantía sobre los fondos, a diferencia de los bancos que aportan a un sistema de garantía de depósitos.\n*   También alertan que el traspaso de fondos del sistema bancario a billeteras virtuales reduciría la capacidad de generar préstamos para la economía en su conjunto, al transformar los depósitos en \"fondos institucionales volátiles\".\n*   Según los bancos, esta flexibilización no traería beneficios, sino \"costos y riesgos\" que afectarían al Estado (por posibles contingencias) y aumentarían el riesgo sistémico.\n\n💡 **¿Por qué importa?**\n*   El debate impacta directamente en la seguridad y las opciones disponibles para millones de trabajadores y jubilados al momento de recibir sus salarios y prestaciones.\n*   Representa una confrontación clave entre el sistema financiero tradicional y el sector Fintech, con implicaciones significativas para la regulación, la protección del consumidor y la dinámica económica.",
       "cantidad_noticias": 3,
       "noticias": [
         {
@@ -372,8 +476,59 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "Ámbito Financiero",
         "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "alianzas_y_reconfiguracion_20251203",
+      "tema": "Alianzas y Reconfiguración Política Diputados",
+      "tema_normalizado": "alianzas y reconfiguracion politica diputados",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Libertad Avanza (LLA) se convirtió en la primera minoría en la Cámara de Diputados, superando a Unión por la Patria (UxP).\n• Este cambio reconfigura el mapa político del Congreso, otorgando mayor peso al oficialismo antes de la jura de los nuevos legisladores.\n\n🔍 **Datos clave:**\n• **95:** Diputados que alcanza La Libertad Avanza, consolidándose como primera minoría.\n• **94 (o 93):** Diputados en los que queda Unión por la Patria tras las salidas.\n• **Francisco Morchio:** Diputado de Entre Ríos que se sumó al bloque de La Libertad Avanza.\n• **\"Elijo Catamarca\":** Nuevo bloque conformado por tres diputados que abandonaron Unión por la Patria.\n• **Martín Menem:** Presidente de la Cámara de Diputados, cuya continuidad se asegura con la primera minoría de LLA.\n• **Diciembre:** Mes en que juran los 127 nuevos diputados electos, formalizando la nueva composición.\n\n⚡ **Desarrollo:**\n• El diputado Francisco Morchio, alineado con el gobernador Rogelio Frigerio, dejó Encuentro Federal para integrarse a La Libertad Avanza, sumando una banca clave.\n• Paralelamente, tres legisladores de Catamarca (Fernanda Ávila, Sebastián Nóblega y Fernando Monguillot), cercanos al gobernador Raúl Jalil, abandonaron Unión por la Patria para formar el bloque \"Elijo Catamarca\".\n• Estos movimientos, sumados a anteriores incorporaciones de legisladores del PRO y radicales disidentes, permitieron a LLA incrementar su número de bancas desde las 38 iniciales hasta las 95 actuales.\n• El presidente Javier Milei y el jefe del bloque libertario, Gabriel Bornoroni, celebraron la nueva posición, destacando la posibilidad de impulsar con mayor fuerza la agenda oficialista.\n• La nueva mayoría relativa de LLA asegura la presidencia de la Cámara baja y la vicepresidencia primera, además de mayor representación en las comisiones parlamentarias.\n• Esta reconfiguración también evidencia la fragmentación interna en el peronismo y la formación de otros interbloques en el Congreso.\n\n💡 **¿Por qué importa?**\n• La Libertad Avanza obtiene un mayor poder de negociación y control político en la Cámara de Diputados, facilitando la aprobación de sus proyectos de ley.\n• Este cambio redefine las alianzas y la dinámica legislativa, impactando directamente en la gobernabilidad y el debate de las futuras reformas del gobierno.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Un diputado que responde a Rogelio Frigerio se sumó al bloque libertario y el oficialismo se asegura la primera minoría",
+          "link": "https://www.infobae.com/politica/2025/12/02/un-diputado-que-responde-a-rogelio-frigerio-se-sumo-al-bloque-libertario-y-el-oficialismo-se-asegura-la-primera-minoria/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-03 09:02:43"
+        },
+        {
+          "titulo": "La Libertad Avanza incorpora un diputado de Pichetto y se convierte en la primera minoría",
+          "link": "https://www.minutouno.com/politica/la-libertad-avanza-incorpora-un-diputado-pichetto-y-se-convierte-la-primera-minoria-n6220192",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-03 08:01:17"
+        },
+        {
+          "titulo": "En víspera de la sesión preparatoria, La Libertad Avanza le sacó al peronismo la primera minoría en Diputados",
+          "link": "https://www.perfil.com/noticias/politica/tres-diputados-catamarquenos-rompen-con-union-por-la-patria-y-dejan-a-lla-a-un-paso-de-la-primera-minoria.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-02 23:02:00"
+        },
+        {
+          "titulo": "Se renueva Diputados: cómo piensan los electos y cuál será la nueva composición",
+          "link": "https://www.ambito.com/politica/se-renueva-diputados-como-piensan-los-electos-y-cual-sera-la-nueva-composicion-n6220162",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 21:44:06"
+        },
+        {
+          "titulo": "Diputados de Catamarca dejaron el bloque peronista y La Libertad Avanza será la primera fuerza",
+          "link": "https://www.ambito.com/politica/diputados-catamarca-dejaron-el-bloque-peronista-y-la-libertad-avanza-sera-la-primera-fuerza-n6220040",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 20:09:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "Infobae",
         "Perfil",
+        "Minuto1",
         "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
@@ -382,37 +537,93 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "salario_minimo_y_20251203",
-      "tema": "Salario Mínimo y Jubilaciones ANSES/PUAM",
-      "tema_normalizado": "salario minimo y jubilaciones anses/puam",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional fijó unilateralmente el nuevo Salario Mínimo Vital y Móvil (SMVM) para noviembre de 2025 hasta agosto de 2026, tras no lograrse un acuerdo en el Consejo del Salario.\n• Simultáneamente, ANSES confirmó el monto total de la Pensión Universal para el Adulto Mayor (PUAM) para diciembre de 2025.\n\n🔍 **Datos clave:**\n• **SMVM Diciembre 2025:** $334.800 (mensual) y $1.674 (por hora).\n• **SMVM Agosto 2026:** $376.600 (mensual) y $1.883 (por hora).\n• **PUAM Diciembre 2025:** $479.055,51 (monto total).\n• **Aumento PUAM:** 2,34% (basado en IPC de octubre).\n• **Resolución oficial:** Resolución 9/2025 (Salario Mínimo y Desempleo).\n• **Fecha de reunión sin acuerdo:** 26 de noviembre de 2025 (Consejo del Salario).\n\n⚡ **Desarrollo:**\n• El Gobierno estableció los nuevos valores del SMVM debido a la falta de consenso entre sindicatos y empleadores en la última reunión del Consejo del Salario.\n• Los incrementos del SMVM serán mensuales y escalonados, comenzando en $328.400 en noviembre de 2025 y alcanzando $376.600 en agosto de 2026.\n• Este valor mínimo aplica a trabajadores bajo la Ley de Contrato de Trabajo, el Régimen de Trabajo Agrario y la Administración Pública Nacional.\n• La Resolución 9/2025 también ajusta la prestación por desempleo, que tendrá un piso del 50% y un tope del 100% del SMVM.\n• La PUAM de diciembre de 2025 ($479.055,51) se compone de un haber mensual ($272.703,67), un bono extraordinario ($70.000) y medio aguinaldo ($136.351,84).\n• La PUAM es una prestación no contributiva, administrada por ANSES, destinada a personas mayores de 65 años sin jubilación regular y equivale al 80% de la jubilación mínima.\n• Su cálculo se basa en la actualización del haber mínimo del SIPA, ajustado por el Índice de Precios al Consumidor (IPC), con posibles bonos adicionales.\n\n💡 **¿Por qué importa?**\n• Las actualizaciones del Salario Mínimo y la PUAM buscan mitigar el impacto de la inflación y preservar el poder adquisitivo de los trabajadores y adultos mayores.\n• El SMVM funciona como un valor de referencia crucial que influye en el cálculo de diversas prestaciones sociales, jubilaciones, becas y subsidios en Argentina.",
+      "tema_id": "escandalo_chiqui_tapia_20251203",
+      "tema": "Escándalo Chiqui Tapia y AFA",
+      "tema_normalizado": "escandalo chiqui tapia y afa",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Asociación del Fútbol Argentino (AFA) y su presidente, Claudio \"Chiqui\" Tapia, están inmersos en un escándalo que combina investigaciones judiciales, acusaciones de lavado de dinero y una creciente tensión con el Gobierno Nacional.\n• La Inspección General de Justicia (IGJ) cuestiona la legalidad de la sede y las cuentas de la AFA, mientras la opinión pública rechaza fuertemente la gestión de Tapia.\n\n🔍 **Datos clave:**\n• **65.8%**: Porcentaje de rechazo a la gestión de Claudio Tapia, según una encuesta de CB Consultora Opinión Pública realizada en diciembre de 2023.\n• **50.1%**: Considera las denuncias financieras (lavado/evasión fiscal) el aspecto más grave de la crisis de Tapia.\n• **2017**: Año desde el cual la AFA mantiene deudas informativas y financieras con la IGJ por inconsistencias contables.\n• **Daniel Vitolo**: Titular de la Inspección General de Justicia (IGJ).\n• **Sur Finanzas**: Financiera presuntamente vinculada a las denuncias de lavado de dinero que salpican a la AFA.\n• **2022**: Año de la obtención del Mundial de Qatar por la Selección Argentina.\n• **2025**: Año del próximo Mundial en Estados Unidos, un factor que influye en la cautela del Gobierno.\n\n⚡ **Desarrollo:**\n• La IGJ, encabezada por Daniel Vitolo, afirma que la AFA sigue bajo su órbita legal, ya que el intento de trasladar su sede a la Provincia de Buenos Aires no ha cumplido con los trámites administrativos y la aprobación estatutaria necesaria.\n• La AFA no ha regularizado la inscripción de su última comisión directiva ni presentado el estatuto modificado, y su asamblea para la renovación de autoridades por cinco años fue impugnada y está judicializada.\n• Existen graves inconsistencias en los estados contables de la AFA desde 2017, con \"sumas ideales\" sin detallar, y la entidad no ha respondido a los requerimientos de aclaración de fondos por parte de la IGJ.\n• La encuesta de CB Consultora también reveló que el 61.4% de los encuestados cree que las denuncias de corrupción contra Tapia y la AFA son reales, y el 56% piensa que los errores arbitrales son intencionales.\n• Aunque hay una fuerte confrontación pública, el Gobierno de Javier Milei ha descartado una intervención inmediata de la AFA, buscando evitar un conflicto con la FIFA.\n• Esta cautela se debe, en parte, a la importancia de la Selección Argentina como campeona mundial de 2022 y la cercanía del Mundial de 2025.\n• El Gobierno aprovecha este escándalo para reforzar su imagen y, según algunas interpretaciones, para desviar la atención de otras problemáticas o realizar movimientos políticos silenciosos.\n\n💡 **¿Por qué importa?**\n• El escándalo amenaza la credibilidad y la gobernabilidad de la máxima institución del fútbol argentino, exponiendo presuntas irregularidades financieras y una gestión ampliamente cuestionada por la opinión pública.\n• La tensión entre la AFA y el Gobierno, junto con las implicaciones judiciales y deportivas, podría tener un impacto significativo en el futuro del fútbol argentino, aunque la proyección internacional de la Selección modera las medidas más drásticas por ahora.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "De cuánto es la PUAM de ANSES en diciembre 2025",
-          "link": "https://www.infobae.com/economia/2025/12/03/de-cuanto-es-la-puam-de-anses-en-diciembre-2025/",
+          "titulo": "El Gobierno aclaró que no está pensando en una intervención de la AFA",
+          "link": "https://www.infobae.com/politica/2025/12/03/el-gobierno-aclaro-que-no-esta-pensando-en-una-intervencion-de-la-afa/",
           "fuente": "Infobae",
-          "fecha": "2025-12-03 06:00:01"
+          "fecha": "2025-12-03 09:06:59"
         },
         {
-          "titulo": "Salario Mínimo Vital y Móvil: confirmaron el nuevo monto en diciembre de 2025 e incrementos mensuales hasta agosto de 2026",
-          "link": "https://www.clarin.com/economia/salario-minimo-vital-movil-confirmaron-nuevo-monto-diciembre-2025-incrementos-mensuales-agosto-2026_0_SqKSnN85Q5.html",
+          "titulo": "Una nueva encuesta se metió con el escándalo de \"Chiqui\" Tapia y la AFA: resultados contundentes",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-metio-escandalo-chiqui-tapia-afa-resultados-contundentes_0_mPhHhbKYLS.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-03 04:36:24"
+          "fecha": "2025-12-03 06:00:15"
         },
         {
-          "titulo": "El Gobierno fijó el salario mínimo para los próximos 10 meses, junto con cambios en la prestación por desempleo",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-fijo-el-salario-minimo-para-los-proximos-10-meses-junto-con-cambios-en-la-prestacion-por-nid03122025/",
+          "titulo": "Todo lo que el Gobierno oculta detrás del gran escándalo con Tapia",
+          "link": "https://www.clarin.com/opinion/gobierno-oculta-detras-gran-escandalo-tapia_0_PEyFIdxXmj.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 19:31:17"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-03",
+      "fuentes": [
+        "Infobae",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_euro_y_20251203",
+      "tema": "Cotización Euro y Real Argentina",
+      "tema_normalizado": "cotizacion euro y real argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El euro y el real brasilero presentan sus cotizaciones en Argentina este miércoles 3 de diciembre de 2025, con valores diferenciados entre el mercado oficial y el informal (\"blue\").\n• Las noticias reportan los precios del euro blue, euro tarjeta y el real blue, información clave para viajeros y transacciones.\n• Una política de \"sinceramiento\" ha contribuido a que la brecha entre el euro oficial y el blue se reduzca significativamente.\n\n🔍 **Datos clave:**\n• **Euro Oficial:** Compra $1.630,00 y Venta $1.730,00 (según Banco Nación Argentina).\n• **Euro Blue:** Compra $1.684,29 y Venta $1.688,03 (en el mercado informal).\n• **Euro Tarjeta/Turista:** Opera en $2.253,82 para la compra.\n• **Real Oficial:** Compra $239,64 y Venta $239,87 (según Banco Nación).\n• **Real Blue:** Compra $278,75 y Venta $267,75 (en el mercado paralelo).\n• **Fecha de cotización:** Miércoles 3 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• Las cotizaciones \"blue\" o paralelas se refieren a la divisa que circula en el mercado informal, donde su valor suele ser más alto que el oficial, adquirido en bancos.\n• El término \"euro blue\" surgió en Argentina a partir de 2011, debido a las restricciones impuestas para la compra de moneda extranjera, impulsando el mercado no oficial.\n• El euro es la moneda oficial de 19 países de la Unión Europea y la segunda más utilizada a nivel mundial, lanzado el 1° de enero de 1999.\n• Para el real, su cotización es muy buscada por argentinos, especialmente quienes planifican viajes o estadías en Brasil.\n• Aunque se levantó el cepo cambiario, la compra de reales en bancos por personas físicas generalmente debe realizarse por ventanilla.\n• Pix es una billetera virtual lanzada en 2020 por el Banco Central de Brasil, ampliamente usada en el país vecino para pagos y transferencias mediante códigos QR o \"llave Pix\".\n\n💡 **¿Por qué importa?**\n• Conocer las diferentes cotizaciones del euro y el real es esencial para argentinos que realicen viajes, operaciones comerciales o envíen dinero al exterior.\n• La existencia de un mercado \"blue\" y la brecha cambiaria reflejan las condiciones económicas y las políticas monetarias de Argentina.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este miércoles 3 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-miercoles-3-de-diciembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-03 07:49:00"
+        },
+        {
+          "titulo": "Real hoy: a cuánto cotiza la moneda brasilera oficial y blue este miércoles 3 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/real-hoy-a-cuanto-cotiza-la-moneda-brasilera-oficial-y-blue-este-miercoles-3-de-diciembre-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-03 01:59:48"
+          "fecha": "2025-12-03 07:43:59"
+        },
+        {
+          "titulo": "Euro hoy: a cuánto cotiza este miércoles 03 de diciembre",
+          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-miercoles-03-diciembre_0_K9dzYHRNfA.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:00:01"
+        },
+        {
+          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este miércoles 03 de diciembre",
+          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-miercoles-03-diciembre_0_nUrka4wy5v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 07:00:01"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este miércoles 3 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-miercoles-3-diciembre-n6220132",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-03 00:00:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este martes 2 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-martes-2-diciembre-n6219716",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-02 20:07:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
+        "Ámbito Financiero",
         "Clarín",
         "La Nación",
-        "Infobae"
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -420,80 +631,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "impacto_de_importaciones_20251203",
-      "tema": "Impacto de importaciones en industria local",
-      "tema_normalizado": "impacto de importaciones en industria local",
-      "resumen": "📌 **¿Qué está pasando?**\n* La industria local argentina, especialmente los sectores de juguetería y pesca, atraviesa una profunda crisis que ha provocado el cierre de cientos de empresas y la pérdida de miles de empleos.\n* Esta situación es resultado de una marcada caída del consumo interno, el aumento de los costos operativos y una creciente competencia de productos importados.\n* Empresas tradicionales como la pesquera Marechiare y más de 300 jugueterías han bajado sus persianas en los últimos meses, reflejando un panorama económico desafiante.\n\n🔍 **Datos clave:**\n* **300+** jugueterías cerraron en los últimos meses/dos años, con una pérdida de **1.500** empleos.\n* Las ventas de juguetes cayeron un **30%** en noviembre, mientras que el **60%** de la maquinaria de la industria juguetera está parada.\n* Las importaciones de juguetes entre enero y octubre alcanzaron los **US$ 91,3 millones FOB** y **17,5 millones de kilos**, un incremento interanual del **59,5%** en valor y **94%** en volumen.\n* **China** es el principal origen, explicando el **85,7%** del valor y el **94,4%** del volumen de juguetes importados.\n* La histórica pesquera **Marechiare**, con más de **50 años** en Mar del Plata, cerró definitivamente sus operaciones.\n* La empresa de electrodomésticos **Whirlpool** anunció el cierre de su fábrica en Pilar, despidiendo a **220** empleados.\n* Los costos de tarifas de servicios (gas, electricidad) para las empresas se multiplicaron por **10** desde diciembre de 2023.\n\n⚡ **Desarrollo:**\n* La Cámara Argentina de la Industria del Juguete (CAIJ) señala la caída del consumo como el problema principal, afectando por igual a productos nacionales e importados.\n* La apertura a importaciones, incluyendo el sistema \"puerta a puerta\" sin aranceles, genera una competencia percibida como desleal que no siempre beneficia al precio final para las familias.\n* Los altos costos fijos y operativos, como alquileres, salarios y el exponencial aumento de las tarifas, ejercen una presión insostenible sobre la rentabilidad de las empresas.\n* El contrabando de juguetes, estimado en un 30% del mercado, se agrava por una disminución en los controles aduaneros, que ahora son \"ex post\".\n* Sectores como el pesquero y juguetero han intentado adaptarse con reconversiones a la importación o el comercio digital, pero estas estrategias no han logrado revertir la crisis.\n* La política gubernamental actual se centra en la estabilidad macroeconómica, dejando que las \"microeconomías\" se ajusten a la nueva realidad sin intervenciones específicas para protegerlas.\n\n💡 **¿Por qué importa?**\n* El cierre de empresas con décadas de trayectoria y la masiva pérdida de empleos socavan el tejido productivo y social, afectando directamente a las economías regionales y la capacidad de generación de riqueza del país.\n* La combinación de bajo consumo, alta inflación y una mayor apertura importadora genera un entorno hostil para la supervivencia y el desarrollo a largo plazo de la industria local.",
-      "cantidad_noticias": 3,
+      "tema_id": "politica_exterior_milei_20251203",
+      "tema": "Política Exterior Milei y EE.UU.",
+      "tema_normalizado": "politica exterior milei y ee.uu.",
+      "resumen": "📌 **¿Qué está pasando?**\n• La política exterior del gobierno de Javier Milei muestra un fuerte alineamiento con Estados Unidos e Israel, priorizando la relación con Donald Trump.\n• Este apoyo se evidencia en la postura argentina sobre Venezuela y en la relación económica con el Tesoro estadounidense.\n• Sin embargo, una reciente cancelación de viaje de Milei a Washington generó malestar en la administración norteamericana.\n\n🔍 **Datos clave:**\n• **US$ 20.000 millones:** Monto del swap de monedas entre Argentina y EE.UU., oficializado el 20 de octubre.\n• **Scott Bessent:** Secretario del Tesoro de EE.UU., clave en el swap, quien canceló su visita a Argentina.\n• **5 de diciembre:** Fecha del sorteo del Mundial 2026 en Washington, al que Milei canceló su asistencia.\n• **Donald Trump:** Ex-presidente de EE.UU. y figura central en el alineamiento político de Milei.\n• **Pablo Quirno:** Canciller argentino, cuya Cancillería \"espera instrucciones de Washington\".\n• **Claudio \"Chiqui\" Tapia:** Presidente de AFA, cuya presencia fue factor en la cancelación de Milei.\n\n⚡ **Desarrollo:**\n• El gobierno de Milei prometió apoyo incondicional a Trump en cualquier decisión sobre Venezuela, incluso militar, buscando ofrecer ayuda como Cascos Azules.\n• La Cancillería argentina ha sido descrita como \"desactivada\", esperando directivas de Washington para su política exterior.\n• Scott Bessent canceló su visita a Argentina luego de que Milei suspendiera su participación en el sorteo del Mundial, evento en el que compartiría palco con Trump.\n• La razón oficial de la cancelación fue evitar asociarse con Claudio \"Chiqui\" Tapia, presidente de la AFA, debido a escándalos de corrupción.\n• La Casa Blanca expresó \"malestar\", interpretando la ausencia como priorizar un \"tema doméstico\" y una falta de \"contacto fluido\".\n• La presidenta de México, Claudia Sheinbaum, criticó el swap de US$ 20.000 millones, contrastándolo con la capacidad de recaudación fiscal de México.\n• Se menciona una disminución en la influencia del exasesor Santiago Caputo en la relación con Washington, con expectativas en Manuel Adorni (Jefe de Gabinete) y Pablo Quirno para mejorar la comunicación.\n\n💡 **¿Por qué importa?**\n• La profunda alineación de Argentina con EE.UU. bajo Milei, especialmente con la visión de Donald Trump, marca una redefinición geopolítica en la región.\n• Las inconsistencias en la comunicación y las percepciones de prioridades por parte de EE.UU. podrían afectar la fluidez de las relaciones bilaterales y el vital apoyo económico recibido.",
+      "cantidad_noticias": 4,
       "noticias": [
         {
-          "titulo": "Colapsan las jugueterías y no todo es culpa de importaciones: ya cerraron más de 300 locales",
-          "link": "https://www.iprofesional.com/economia/443186-colapsan-jugueterias-y-no-todo-culpa-de-importaciones-cerraron-mas-300",
+          "titulo": "Tensión total en Venezuela: Milei va a fondo y la orden en Casa Rosada es acompañar en todo a Trump",
+          "link": "https://www.iprofesional.com/politica/443211-tension-total-en-venezuela-postura-a-fondo-javier-milei-en-conflicto",
           "fuente": "iProfesional",
-          "fecha": "2025-12-02 17:24:00"
+          "fecha": "2025-12-03 07:00:00"
         },
-        {
-          "titulo": "Por importaciones récord, cerraron 300 jugueterías en dos años",
-          "link": "https://www.perfil.com/noticias/economia/por-importaciones-record-se-cerraron-300-jugueterias-en-dos-anos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-02 17:00:05"
-        },
-        {
-          "titulo": "Cerró histórica pesquera marplatense, por boom de importaciones y bajo consumo",
-          "link": "https://www.iprofesional.com/politica/443181-cerro-historica-pesquera-marplatense-marechiare-por-boom-importaciones-y-bajo-consumo",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-02 16:56:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Perfil",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "agresion_a_candidato_20251203",
-      "tema": "Agresión a candidato Rafael Belaúnde Llosa",
-      "tema_normalizado": "agresion a candidato rafael belaunde llosa",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Rafael Belaúnde Llosa, candidato presidencial de Libertad Popular, sufrió un ataque a balazos contra su vehículo.\n*   El incidente ocurrió un martes reciente en Cerro Azul, al sur de Lima, mientras se trasladaba por la zona tras supervisar unos terrenos.\n*   Aunque su parabrisas fue impactado y el candidato mostró sangre por esquirlas, la policía confirmó que no sufrió heridas de bala de gravedad.\n\n🔍 **Datos clave:**\n*   **Candidato:** Rafael Belaúnde Llosa (50 años), nieto del expresidente Fernando Belaúnde.\n*   **Partido:** Libertad Popular, de centro derecha.\n*   **Fecha del ataque:** Martes (previo a las elecciones de 2026).\n*   **Lugar:** Distrito de Cerro Azul, provincia de Cañete, al sur de Lima.\n*   **Elecciones futuras:** Presidenciales del 12 de abril de 2026.\n*   **Atacantes:** Sujetos a bordo de una motocicleta.\n\n⚡ **Desarrollo:**\n*   El ataque ocurrió cuando Belaúnde salía de unos terrenos propios, y su camioneta fue impactada por varios disparos en el parabrisas.\n*   Imágenes difundidas por el exministro Gino Costa mostraron a Belaúnde con manchas de sangre en el rostro y la camisa, atribuidas a las esquirlas de vidrio.\n*   Pedro Cateriano, fundador de Libertad Popular, lamentó el suceso calificándolo como un \"mal inicio de la campaña presidencial\" de cara a 2026.\n*   La Policía Nacional del Perú, bajo el comandante general Óscar Arriola, activó el \"Plan Cerco\" y la división de Homicidios y Criminalística inició las investigaciones.\n*   El candidato manifestó no haber recibido amenazas extorsivas previas, lo que dificulta establecer un móvil claro para el atentado.\n\n💡 **¿Por qué importa?**\n*   El incidente genera una seria preocupación sobre la seguridad de los candidatos y el posible aumento de la violencia electoral de cara a las elecciones presidenciales de 2026 en Perú.\n*   Este ataque subraya el grave contexto de inseguridad y crimen organizado que vive el país, exigiendo al gobierno garantías para la integridad de los postulantes.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Perú: balearon al candidato presidencial Rafael Belaunde Llosa",
-          "link": "https://www.ambito.com/mundo/peru-balearon-al-candidato-presidencial-rafael-belaunde-llosa-n6220138",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 19:29:00"
-        },
-        {
-          "titulo": "Perú: atacaron a balazos al candidato a presidente Rafael Belaúnde",
-          "link": "https://www.clarin.com/mundo/peru-atacaron-balazos-candidato-presidente-rafael-belaunde_0_xgl3tv8IzQ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-02 16:10:22"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-03",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cancelacion_viaje_scott_20251203",
-      "tema": "Cancelación viaje Scott Bessent a Argentina",
-      "tema_normalizado": "cancelacion viaje scott bessent a argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• Scott Bessent, el secretario del Tesoro de Estados Unidos, canceló su visita programada a la Argentina.\n• Esta decisión se produce poco después de que el presidente Javier Milei suspendiera su propio viaje a Estados Unidos.\n• Milei había sido invitado por Donald Trump al sorteo del Mundial de Fútbol 2026 en Washington D.C.\n\n🔍 **Datos clave:**\n• **Scott Bessent:** Secretario del Tesoro de EE. UU. y financiero clave para Argentina.\n• **Javier Milei:** Presidente de Argentina.\n• **Donald Trump:** Expresidente de EE. UU., figura central en el contexto de la invitación.\n• **5 de diciembre:** Fecha programada para el sorteo del Mundial 2026 en Washington D.C.\n• **Finales de octubre:** Bessent anunció su intención de visitar Argentina tras el triunfo electoral de Milei.\n• **US$ 20.000 millones:** Monto de un salvataje adicional de bancos privados a Argentina que fue rechazado.\n• **US$ 5.000 millones:** Vencimientos de deuda que Argentina enfrenta en enero de 2026.\n• **US$ 13.091 millones:** Importaciones de Argentina desde China en los primeros nueve meses.\n\n⚡ **Desarrollo:**\n• Bessent desempeñó un rol fundamental para el gobierno de Milei, concretando un swap con el Banco Central argentino y comprando pesos para estabilizar la moneda.\n• La suspensión de Bessent refleja un \"malestar en Washington\" tras la ausencia de Milei en el evento del Mundial, percibida como un desaire a la órbita de Donald Trump.\n• Milei inicialmente justificó la cancelación de su viaje al sorteo por escándalos vinculados a Claudio \"Chiqui\" Tapia, presidente de la AFA, y su defensa de las Sociedades Anónimas Deportivas (SAD).\n• No obstante, la cancelación también se interpreta en medio de rumores de descontento por el \"acercamiento excesivo\" de Argentina a China, que choca con la doctrina \"America First\" de Trump.\n• La relación entre Milei y Trump, previamente descrita como un \"idilio ideológico\", podría estar mostrando las primeras fisuras con esta doble cancelación.\n• Bessent, por su parte, enfrenta críticas internas en EE. UU. por el apoyo financiero brindado al gobierno libertario de Argentina.\n\n💡 **¿Por qué importa?**\n• La doble cancelación enfría la \"luna de miel\" entre Milei y el círculo de Trump, generando interrogantes sobre la solidez y el grado de dependencia de la relación estratégica con Estados Unidos.\n• Este impasse podría dificultar la obtención de financiamiento externo crucial para Argentina, que necesita apuntalar sus reservas y afrontar importantes vencimientos de deuda.",
-      "cantidad_noticias": 2,
-      "noticias": [
         {
           "titulo": "Scott Bessent canceló su viaje a la Argentina tras la decisión de Milei de no ir al sorteo del Mundial en Estados Unidos",
           "link": "https://www.perfil.com/noticias/politica/scott-bessent-cancelo-su-viaje-a-la-argentina-tras-la-decision-de-milei-de-no-ir-al-sorteo-del-mundial-en-estados-unidos.phtml",
@@ -501,17 +650,25 @@
           "fecha": "2025-12-03 02:57:00"
         },
         {
-          "titulo": "Scott Bessent suspende su visita a Argentina: un giro que enfría la luna de miel entre Javier Milei y Donald Trump",
-          "link": "https://www.ambito.com/economia/scott-bessent-suspende-su-visita-argentina-un-giro-que-enfria-la-luna-miel-javier-milei-y-donald-trump-n6220008",
+          "titulo": "Malestar en Washington por la ausencia de Javier Milei",
+          "link": "https://www.ambito.com/politica/malestar-washington-la-ausencia-javier-milei-n6220175",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-02 16:14:00"
+          "fecha": "2025-12-02 23:44:37"
+        },
+        {
+          "titulo": "La chicana de Sheinbaum a Milei: \"¿Saben cuánto pidió Argentina a Estados Unidos de préstamo? US$ 20.000 millones, y nosotros lo recaudamos este año\"",
+          "link": "https://www.clarin.com/mundo/chicana-sheinbaum-milei-saben-pidio-argentina-estados-unidos-prestamo-us-20000-millones-recaudamos-ano_0_0A8WmF8cqQ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-02 23:01:33"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-03",
       "fuentes": [
-        "Perfil",
-        "Ámbito Financiero"
+        "Ámbito Financiero",
+        "Clarín",
+        "iProfesional",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
