@@ -1,120 +1,75 @@
 {
   "fecha": "2025-12-04",
-  "fecha_generacion": "2025-12-04T09:26:02.590304",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-04T12:33:54.349633",
+  "total_temas": 9,
   "temas": [
     {
-      "tema_id": "juramento_diputados_y_20251204",
-      "tema": "Juramento Diputados y Controversias",
-      "tema_normalizado": "juramento diputados y controversias",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara de Diputados de Argentina realizó la ceremonia de jura para 127 nuevos legisladores, marcando el inicio de un nuevo período parlamentario que asumirá el 10 de diciembre.\n• La jornada estuvo cargada de tensión política, cruces verbales, gestos simbólicos y controversias, que reflejaron la polarización del nuevo Congreso.\n• Durante la sesión, Martín Menem fue reelegido como presidente de la Cámara, y La Libertad Avanza (LLA) se consolidó como primera minoría.\n\n🔍 **Datos clave:**\n• **127** nuevos diputados juraron sus cargos a principios de diciembre de 2023.\n• **Martín Menem** fue reelecto como Presidente de la Cámara de Diputados.\n• **La Libertad Avanza (LLA)** se posicionó como primera minoría con **95** bancas, tras sumar legisladores de otros bloques.\n• El diputado de mayor edad, **Gerardo Cipolini** (radical, 82 años), presidió la sesión.\n• El presidente **Javier Milei** y su hermana **Karina Milei** estuvieron presentes en un palco.\n\n⚡ **Desarrollo:**\n• El diputado Gerardo Cipolini fue protagonista de un escándalo por comentarios sexistas, como \"¡Qué buena que está la peruca!\", captados por un micrófono abierto durante la jura de legisladoras como Rosario Goitía. Él negó ser el autor, atribuyéndolo a la tecnología.\n• Juan Grabois (peronismo) realizó el saludo de \"Los Juegos del Hambre\" dirigido a Milei y un gesto de \"aspirar\" hacia la diputada Juliana Santillán (LLA) al finalizar su juramento.\n• Diputados del Frente de Izquierda como Nicolás del Caño, Romina Del Plá y Myriam Bregman, utilizaron sus juramentos para lanzar consignas políticas (\"Palestina libre\", \"30 mil desaparecidos\", \"contra el negacionismo\") y enfrentarse verbalmente con Lilia Lemoine (LLA).\n• Varios diputados de Unión por la Patria, incluyendo Mayra Mendoza y Lucía Cámpora, juraron \"por Cristina libre\" y \"por la memoria de Néstor Kirchner\".\n• Virginia Gallardo (LLA) juró \"por la familia, las infancias y un futuro mejor\" y envió un beso a Milei, quien le respondió con pulgares arriba.\n• La Libertad Avanza logró la primera minoría con 95 bancas, sumando pases del PRO y la salida de tres diputados catamarqueños de Unión por la Patria, lo que reconfigura el mapa legislativo.\n• La jornada estuvo marcada por \"guerras de cantitos\" en las tribunas entre \"La Patria no se vende\" del peronismo y \"Libertad\" / \"La casta tiene miedo\" de los libertarios.\n\n💡 **¿Por qué importa?**\n• Esta sesión preparatoria evidenció la extrema polarización y las fuertes tensiones que definirán el trabajo legislativo en el nuevo período.\n• La consolidación de La Libertad Avanza como primera minoría, pero sin mayoría absoluta, anticipa un Congreso donde el gobierno necesitará negociar y construir alianzas constantemente para aprobar sus reformas.",
+      "tema_id": "cotizacion_dolar_argentina_20251204",
+      "tema": "Cotización Dólar Argentina",
+      "tema_normalizado": "cotizacion dolar argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino presenta una \"pax cambiaria\" el jueves 4 de diciembre, con el dólar oficial y las cotizaciones paralelas estables o con leves caídas.\n• Esta calma se atribuye a factores estacionales como la demanda de pesos y el ingreso de divisas, pero la baja de tasas en pesos genera incertidumbre futura.\n• Los operadores del mercado desaconsejan comprar dólares a corto plazo, sugiriendo invertir en pesos.\n\n🔍 **Datos clave:**\n• **Fecha:** Jueves 4 de diciembre.\n• **Dólar Oficial Mayorista:** $1.453,00 (bajó $2); a 4,1% del techo de banda del BCRA ($1.512,5).\n• **Dólar Blue:** Compra $1.420, Venta $1.440.\n• **Dólar MEP:** Compra $1.466,40, Venta $1.471,40.\n• **Dólar CCL:** Compra $1.508,50, Venta $1.508,50.\n• **Dólar Tarjeta:** $1.508,50 (dólar oficial + 60% impuestos).\n• **Dólar Cripto:** Compra $1.485,75, Venta $1.504,96.\n• **Riesgo País:** 639 puntos básicos.\n• **Liquidación Exportadores Noviembre:** u$s760 millones (caída 62% interanual).\n• **Tasas en Pesos:** Retornos mayoritariamente por debajo del 2% mensual (negativos en términos reales).\n\n⚡ **Desarrollo:**\n• La estabilidad cambiaria actual es reforzada por la expectativa del mercado, que prevé que las bandas cambiarias se mantengan hasta marzo de 2026.\n• El Banco Central juega un rol clave, controlando el dólar oficial y listo para intervenir si este se acerca al techo de su banda.\n• Múltiples factores contribuyen a la calma actual, incluyendo la demanda estacional de pesos por aguinaldos y una oferta extraordinaria de dólares por deuda externa.\n• Sin embargo, la preocupación crece por la baja de las tasas de interés en pesos, que ofrecen rendimientos negativos y podrían incentivar la dolarización.\n• La caída del 62% interanual en la liquidación de exportaciones en noviembre reduce la oferta de divisas, agregando presión potencial.\n• El Ministro de Economía Luis Caputo busca acceder a mercados de deuda para acumular reservas, pero el alto riesgo país (639 puntos) es un freno.\n• El dólar cripto sigue expandiéndose, especialmente entre el público joven, ofreciendo alternativas 24/7 y tasas de rendimiento superiores.\n\n💡 **¿Por qué importa?**\n• La cotización del dólar es vital para la economía argentina, impactando directamente en la inflación, los precios y el poder adquisitivo de los ciudadanos.\n• Comprender los diversos tipos de dólar y los factores económicos que los impulsan es fundamental para la toma de decisiones financieras en el país.",
       "cantidad_noticias": 14,
       "noticias": [
         {
-          "titulo": "Cámara de Diputados: uno por uno, todos los legisladores que juraron el miércoles 3 de diciembre",
-          "link": "https://www.perfil.com/noticias/politica/camara-de-diputados-uno-por-uno-todos-los-diputados-que-juraron-el-miercoles-3-de-diciembre.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 01:08:00"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este jueves 4 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-4-de-diciembre-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 09:08:00"
         },
         {
-          "titulo": "“Qué buena que está”: los exabruptos del diputado Gerardo Cipolini durante la jura de los nuevos diputados y la respuesta de Cecilia Moreau",
-          "link": "https://www.perfil.com/noticias/politica/que-buena-que-esta-los-exabruptos-del-diputado-gerardo-cipolini-durante-la-jura-de-los-nuevos-diputados-y-la-respuesta-de-cecilia-moreau.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 20:24:00"
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-3-diciembre-n6220194",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 08:43:00"
         },
         {
-          "titulo": "\"Los Juegos del Hambre\" y un gesto provocador: Juan Grabois desafió a Javier Milei en plena jura",
-          "link": "https://www.perfil.com/noticias/politica/los-juegos-del-hambre-y-un-gesto-provocador-juan-grabois-desafio-a-milei-y-desato-la-polemica-en-plena-jura.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 19:38:00"
+          "titulo": "Dólar: prima la calma, pero la baja de tasas abre dudas sobre un eventual regreso de las tensiones cambiarias",
+          "link": "https://www.ambito.com/finanzas/dolar-prima-la-calma-pero-la-baja-tasas-abre-dudas-un-eventual-regreso-las-tensiones-cambiarias-n6220639",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 08:35:00"
         },
         {
-          "titulo": "Con la presencia de Milei juraron los diputados y el oficialismo se mostró empoderado ante un peronismo herido",
-          "link": "https://www.clarin.com/politica/presencia-milei-juraron-diputados-oficialismo-mostro-empoderado-peronismo-herido_0_s35tHJq5n8.html",
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 4 de diciembre, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-jueves-4-diciembre-minuto-minuto_0_zjEEJqT7gu.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-03 19:35:28"
+          "fecha": "2025-12-04 07:29:45"
         },
         {
-          "titulo": "Jura de Diputados EN VIVO: con los nuevos legisladores, La Libertad Avanza se consolida como primera minoría en la Cámara baja",
-          "link": "https://www.ambito.com/politica/jura-diputados-nuevo-congreso-bancas-en-vivo-fecha-3-diciembre",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este jueves 04 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-jueves-04-diciembre_0_rQq3DBFJMh.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 07:08:01"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este jueves 04 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-jueves-04-diciembre_0_hsPNZ8xZRM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 07:08:01"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este jueves 04 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-jueves-04-diciembre_0_J3AlCXbR6v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 07:05:02"
+        },
+        {
+          "titulo": "Dólar cripto hoy: a cuánto cotiza este jueves 04 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-jueves-04-diciembre_0_2Ie3cEt3j0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 07:05:02"
+        },
+        {
+          "titulo": "\"No compren dólares\": la City apuesta fuerte a la tasa en pesos para ganar con rally de fin de año",
+          "link": "https://www.iprofesional.com/finanzas/443305-no-compren-dolares-city-apuesta-todo-para-ganar-con-rally-fin-de-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 07:01:00"
+        },
+        {
+          "titulo": "Dólar: el fin del cepo para los ahorristas no frenó la expansión de fintechs cripto, que cierran un 2025 al alza",
+          "link": "https://www.ambito.com/finanzas/dolar-el-fin-del-cepo-los-ahorristas-no-freno-la-expansion-fintechs-cripto-que-cierran-un-2025-al-alza-n6220452",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:56:00"
+          "fecha": "2025-12-04 07:00:00"
         },
-        {
-          "titulo": "Con traiciones y garrochazos de último momento, juraron los 127 diputados electos",
-          "link": "https://www.ambito.com/politica/con-traiciones-y-garrochazos-ultimo-momento-juraron-los-127-diputados-electos-n6220524",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:29:00"
-        },
-        {
-          "titulo": "Diputados ratificó a Martín Menem como presidente de la Cámara: su discurso",
-          "link": "https://www.minutouno.com/politica/diputados-ratifico-martin-menem-como-presidente-la-camara-su-discurso-n6220525",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 18:17:00"
-        },
-        {
-          "titulo": "\"Por la libertad de Cristina\", por \"Palestina libre\" y por \"los 30 mil desaparecidos\": las juras más llamativas en la Cámara de Diputados",
-          "link": "https://www.perfil.com/noticias/politica/por-la-libertad-de-cristina-por-palestina-libre-por-los-30-mil-desaparecidos-las-juras-mas-llamativas-en-la-camara-de-diputados.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 18:10:00"
-        },
-        {
-          "titulo": "Cruces y fuertes abucheos bajo la mira de los Milei en el palco: lo que no se vio de la jura de los nuevos diputados",
-          "link": "https://www.perfil.com/noticias/politica/cruces-y-fuertes-abucheos-bajo-la-mira-de-los-milei-en-el-palco-lo-que-no-se-vio-de-la-jura-de-los-nuevos-diputados.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 18:08:00"
-        },
-        {
-          "titulo": "Cantitos, flores blancas y un nuevo paseo de Lorena Villaverde: todas las perlitas de la jura",
-          "link": "https://www.ambito.com/politica/cantitos-flores-blancas-y-un-nuevo-paseo-lorena-villaverde-todas-las-periltas-la-jura-n6220442",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:00:00"
-        },
-        {
-          "titulo": "Diputados: el gesto de Virginia Gallardo a Milei y los juramentos políticos de González y Hadad",
-          "link": "https://www.perfil.com/noticias/nea/diputados-el-gesto-de-virginia-gallardo-a-milei-y-los-juramentos-politicos-de-gonzalez-y-hadad.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 17:17:41"
-        },
-        {
-          "titulo": "Milei asistió a la jura de Diputados: Martín Menem fue reelecto y LLA quedó como primera minoría",
-          "link": "https://www.perfil.com/noticias/politica/javier-milei-ira-a-la-jura-de-los-diputados-al-congreso-para-celebrar-la-primer-minoria.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 16:40:00"
-        },
-        {
-          "titulo": "Quedó el micrófono abierto y se escucharon en vivo los \"piropos\" de un diputado: \"Qué buena está la peruca\"",
-          "link": "https://www.minutouno.com/politica/quedo-el-microfono-abierto-y-se-escucharon-vivo-los-piropos-un-diputado-que-buena-esta-la-peruca-n6220471",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 16:22:00"
-        },
-        {
-          "titulo": "Tensión en la jura: gritos, abucheos y el “¡Tomá!” del Frente de Izquierda a Lemoine",
-          "link": "https://www.perfil.com/noticias/politica/tension-en-la-jura-gritos-abucheos-y-el-toma-del-frente-de-izquierda-a-lemoine.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 15:28:19"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "mercado_cambiario_dolar_20251204",
-      "tema": "Mercado Cambiario Dólar Blue",
-      "tema_normalizado": "mercado cambiario dolar blue",
-      "resumen": "📌 **¿Qué está pasando?**\n• El dólar blue en Argentina mostró estabilidad y una leve baja en los primeros días de diciembre de 2025, operando en el mercado informal.\n• Este comportamiento se da en un contexto de relativa \"pax cambiaria\" donde el dólar oficial y otros tipos de cambio paralelos también experimentaron descensos.\n• La tranquilidad de las cotizaciones contrasta con la persistente preocupación por el estado crítico de las reservas internacionales netas del Banco Central.\n\n🔍 **Datos clave:**\n• **Cotización Dólar Blue (Dic 3-4, 2025):** $1420 (compra) / $1440 (venta).\n• **Cotización Dólar Oficial (Dic 3-4, 2025):** Mayorista en $1453 - $1455; minorista BNA $1430 (compra) / $1480 (venta).\n• **Tendencia Blue:** Bajó $5 y retrocedió, quedando $13 por debajo del dólar oficial y $30 por debajo del dólar MEP en algunos momentos.\n• **Reservas Netas BCRA:** Estimadas en -u$s400 millones, o hasta -u$s17.000 millones según metodología FMI.\n• **Riesgo País (Dic 3, 2025):** 639.00 puntos básicos (elaborado por JP Morgan).\n• **Cierre de Cotización:** El dólar blue cierra su cotización a las 15 horas, de lunes a viernes.\n\n⚡ **Desarrollo:**\n• El dólar blue es el tipo de cambio que opera en el mercado informal o \"negro\", sin regulación oficial y no accesible a través de bancos o casas de cambio. Se denomina \"blue\" por su asociación con lo \"oscuro\" o con operaciones bursátiles de \"blue chips\".\n• Durante los primeros días de diciembre de 2025, el dólar blue mostró un retroceso significativo, ubicándose en valores incluso menores al dólar oficial minorista de venta, lo que implica una brecha negativa.\n• Este comportamiento se enmarca en una tendencia general de estabilidad observada en el mercado cambiario, donde tanto el dólar oficial como los financieros (MEP y CCL) también experimentaron caídas.\n• La liquidez del sistema y la estacionalidad de diciembre, que tradicionalmente genera presiones, esta vez se alinearon con los objetivos del gobierno, favoreciendo la consolidación de reservas sin forzar una devaluación.\n• A pesar de esta aparente calma, la principal preocupación radica en el estado crítico de las reservas internacionales netas del Banco Central, que se mantienen en terreno profundamente negativo, limitando la capacidad de intervención.\n• La oferta de divisas permanece acotada, con una liquidación de exportadores en noviembre que registró una caída del 62% interanual, impactando el volumen operado en el Mercado Único y Libre de Cambios (MULC) que disminuyó un 33%.\n• Otros tipos de cambio relevantes incluyen el Dólar MEP ($1470.30 con 1.2% de brecha), el Dólar Contado con Liquidación (CCL) ($1508.97 con 3.9% de brecha) y el Dólar Tarjeta ($1924, incluyendo recargos).\n\n💡 **¿Por qué importa?**\n• La evolución del dólar blue es un termómetro clave de la percepción económica en Argentina, reflejando la confianza y las expectativas de ahorristas e inversores ante las restricciones cambiarias.\n• Aunque su reciente estabilidad y descenso traen un respiro, el trasfondo de reservas netas negativas subraya la fragilidad económica y la continua presión sobre el gobierno para generar divisas que sustenten la estabilidad a largo plazo.",
-      "cantidad_noticias": 9,
-      "noticias": [
         {
           "titulo": "Dólar blue hoy: a cuánto cotiza este jueves 04 de diciembre",
           "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-04-diciembre_0_Tn86I3D4Ev.html",
@@ -122,60 +77,141 @@
           "fecha": "2025-12-04 04:00:01"
         },
         {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-3-diciembre-n6220194",
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-4-diciembre-n6220600",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:48:00"
+          "fecha": "2025-12-04 00:00:00"
         },
         {
-          "titulo": "Dólar hoy: a cuánto cerró este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-3-diciembre-n6220536",
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-4-diciembre-n6220599",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:40:00"
+          "fecha": "2025-12-04 00:00:00"
         },
         {
-          "titulo": "El dólar blue retrocedió y quedó $30 por debajo del MEP",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-cerro-baja-y-quedo-30-debajo-del-mep-n6220518",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:11:00"
-        },
-        {
-          "titulo": "El dólar oficial cayó por primera vez en cuatro jornadas y los paralelos acompañaron la baja",
-          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-sigue-cerca-del-techo-la-banda-y-el-mercado-evalua-como-seguira-la-tendencia-n6220203",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 17:57:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-3-diciembre-n6220129",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 17:44:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este miércoles 3 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-3-diciembre-n6220130",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 17:12:00"
-        },
-        {
-          "titulo": "Alerta en la City: con el dólar cerca del techo de la banda, anticipan qué pasará con su precio",
-          "link": "https://www.iprofesional.com/finanzas/443246-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 15:15:00"
-        },
-        {
-          "titulo": "A cuánto cerró el dólar blue hoy miércoles 3 de diciembre del 2025",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-miercoles-3-de-diciembre-del-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 15:00:00"
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 4 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-4-diciembre-n6220581",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 00:00:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
+        "La Nación",
+        "Minuto1",
         "Clarín",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "pagos_anses_y_20251204",
+      "tema": "Pagos ANSES y Jubilaciones Diciembre",
+      "tema_normalizado": "pagos anses y jubilaciones diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• La ANSES actualiza los montos de jubilaciones, pensiones y diversas asignaciones sociales en diciembre de 2025 con un aumento del 2.34%.\n• A los haberes se suma la segunda cuota del aguinaldo y un bono extraordinario de $70.000 para jubilados y pensionados con ingresos mínimos.\n• El calendario de pagos se modifica por el feriado del 8 de diciembre, iniciando la mayoría de las acreditaciones el martes 9 de diciembre.\n\n🔍 **Datos clave:**\n• **Incremento general:** 2.34% (basado en la inflación de octubre de 2.3%).\n• **Bono para jubilados y pensionados mínimos:** $70.000 (hasta un tope de $410.879,59).\n• **Fecha de inicio de pagos ANSES:** Martes 9 de diciembre de 2025.\n• **Monto total de Jubilación Mínima (con bono y aguinaldo):** $581.319,38.\n• **Monto del programa Volver al Trabajo (ex Potenciar Trabajo):** $78.000, pagado el 5 de diciembre.\n• **Fecha límite Libreta AUH:** 31 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• **Jubilados y Pensionados:** Reciben el ajuste del 2.34%, la segunda cuota del aguinaldo y un bono de $70.000. Este bono es para quienes cobran la mínima, PNC y PUAM, y se otorga proporcionalmente a otros haberes hasta alcanzar un total de $410.879,59.\n• **Pensiones No Contributivas (PNC) y PUAM:** También tienen el aumento del 2.34%, aguinaldo y el bono de $70.000 si sus haberes están en la franja mínima. Una PUAM alcanza los $479.055,5 con bono y aguinaldo.\n• **Asignación Universal por Hijo (AUH) y Asignaciones Familiares (SUAF):** Se actualizan con el 2.34%. La AUH bruta es de $122.492 (con discapacidad $398.853), cobrándose el 80% mensual y reteniendo el 20%.\n• **Libreta AUH:** Es fundamental presentarla antes del 31 de diciembre para acceder al 20% acumulado anualmente, certificando salud y educación de los menores. El trámite puede ser digital o presencial.\n• **Tarjeta Alimentar:** Sus montos no sufrieron cambios y van desde $52.250 (un hijo/embarazo) hasta $108.062 (tres o más hijos), acreditándose junto a la prestación principal.\n• **Programas de Empleo (Volver al Trabajo / Acompañamiento Social):** Mantienen el monto de $78.000 en diciembre, sin reajustes automáticos, y su pago está programado para el 5 de diciembre.\n\n💡 **¿Por qué importa?**\n• Estas medidas buscan mitigar el impacto inflacionario y garantizar un ingreso adicional a los beneficiarios de ANSES, especialmente a los sectores más vulnerables.\n• Es esencial que los titulares de las prestaciones consulten el cronograma según su DNI y cumplan con los trámites anuales, como la Libreta AUH, para no perder beneficios.",
+      "cantidad_noticias": 15,
+      "noticias": [
+        {
+          "titulo": "Cronograma de pagos: cuándo cobran los jubilados en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cronograma-de-pagos-cuando-cobran-los-jubilados-en-diciembre-2025-con-el-aguinaldo-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:18:14"
+        },
+        {
+          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
+          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:18:12"
+        },
+        {
+          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:18:08"
+        },
+        {
+          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:18:06"
+        },
+        {
+          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:17:27"
+        },
+        {
+          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:19"
+        },
+        {
+          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:17"
+        },
+        {
+          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:15"
+        },
+        {
+          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:13"
+        },
+        {
+          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:11"
+        },
+        {
+          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:16:09"
+        },
+        {
+          "titulo": "ANSES: cuándo comienzan las acreditaciones después del feriado del 8 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/anses-quienes-cobran-hoy-jueves-4-de-diciembre-y-como-sigue-el-cronograma-de-pagos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 07:45:00"
+        },
+        {
+          "titulo": "ANSES: cuánto devuelve por la Libreta AUH presentada antes del 31 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/anses-recordo-la-obligacion-de-presentar-la-libreta-auh-cuanto-se-devuelve-y-como-realizar-el-tramite-antes-de-fin-de-ano.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 07:34:00"
+        },
+        {
+          "titulo": "ANSES: los montos confirmados de la AUH y las SUAF para diciembre 2025",
+          "link": "https://www.minutouno.com/economia/anses-los-montos-confirmados-la-auh-y-las-suaf-diciembre-2025-n6220461",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 06:50:00"
+        },
+        {
+          "titulo": "ANSES: se confirmó un nuevo bono para jubilados y el monto a cobrar",
+          "link": "https://www.minutouno.com/economia/anses-se-confirmo-un-nuevo-bono-jubilados-y-el-monto-cobrar-n6220420",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 06:50:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "La Nación",
+        "Minuto1",
         "Perfil"
       ],
       "es_tema_nuevo": true,
@@ -184,56 +220,86 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "reorganizacion_y_criticas_20251204",
-      "tema": "Reorganización y Críticas a la SIDE",
-      "tema_normalizado": "reorganizacion y criticas a side",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno ha realizado nuevos nombramientos clave en la Secretaría de Inteligencia del Estado (SIDE), continuando su proceso de reorganización.\n• Diego Enrique Valdiviezo fue designado Inspector General de la División de Asuntos Internos (DAI), sucediendo a Cristian Auguadra.\n• Cristian Auguadra, a su vez, asumió como Secretario de Inteligencia del Estado, reemplazando a Sergio Neiffert.\n\n🔍 **Datos clave:**\n• **Designaciones clave:** Diego Enrique Valdiviezo (Inspector General de la DAI), nombrado por Decreto 853/2025, y Cristian Auguadra (Secretario de Inteligencia de Estado), designado por Decreto 852/2025.\n• **Ex-titular de SIDE:** Sergio Neiffert, quien se desempeñó como jefe desde la creación del organismo en la actual gestión.\n• **Actores influyentes:** Santiago Caputo, principal asesor del presidente Javier Milei (conocido como \"El Mago del Kremlin\"), y Karina Milei, hermana del Presidente.\n• **Función principal de la DAI:** Auditar y monitorear los procedimientos internos, así como controlar los cuantiosos fondos reservados de la SIDE.\n\n⚡ **Desarrollo:**\n• Los recientes cambios forman parte de una \"segunda etapa de reorganización\" de la SIDE, con el objetivo de modernizar tecnológicamente, integrar servicios y fortalecer el control estratégico.\n• La salida de Sergio Neiffert se atribuye a la pérdida de confianza de Santiago Caputo debido a su autonomía y un acercamiento no autorizado a Karina Milei, evidenciando una disputa de poder interna en la Casa Rosada.\n• Cristian Auguadra, el nuevo Secretario de Inteligencia, es contador público con experiencia en auditoría y amigo de la familia Caputo; anteriormente, fue Inspector General de la DAI, encargado del control de fondos.\n• Históricamente, la SIDE ha sido criticada por no cumplir su rol de advertir sobre amenazas a la seguridad nacional, como los atentados a la Embajada de Israel (1992) y la AMIA (1994).\n• Se acusa al organismo de dedicarse a \"husmear\" en la vida política y privada de opositores y grabar conversaciones, violando la ley que prohíbe su injerencia en la política interna y el derecho a la intimidad.\n• A pesar de la política de \"no hay plata\", la SIDE ha recibido incrementos presupuestarios y es el único organismo que puede gastar su dinero sin rendir cuentas, incluso a la comisión bicameral del Congreso.\n\n💡 **¿Por qué importa?**\n• Estos movimientos en la cúpula de la SIDE son cruciales porque reflejan tensiones internas en el Gobierno y pueden impactar la eficacia y orientación de los servicios de inteligencia.\n• Es fundamental asegurar la transparencia y el apego a la ley en un organismo que maneja información sensible y grandes recursos, cuya trayectoria ha estado marcada por serias críticas sobre su funcionamiento y falta de rendición de cuentas.",
-      "cantidad_noticias": 6,
+      "tema_id": "salarios_y_aguinaldo_20251204",
+      "tema": "Salarios y Aguinaldo Diciembre 2025",
+      "tema_normalizado": "salarios y aguinaldo diciembre 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre de 2025 trae el esperado pago de la segunda cuota del aguinaldo (SAC) para millones de trabajadores y beneficiarios en Argentina.\n• A esto se suman diversas actualizaciones salariales específicas que afectan a sectores clave como bancarios, metalúrgicos, servicio doméstico y empleados de servicios rápidos.\n\n🔍 **Datos clave:**\n• **Fecha Límite Aguinaldo:** 18 de diciembre de 2025 (extensible hasta el 24).\n• **Cálculo Aguinaldo:** 50% de la mayor remuneración mensual bruta de julio a diciembre.\n• **SMVM Diciembre 2025:** $334.800, con pérdida del 35,9% de poder de compra en dos años.\n• **Bancarios:** Aumento del 2,3% en diciembre; salario inicial: $1.959.956.\n• **Servicio Doméstico:** 1,3% de aumento salarial más un bono de hasta $14.000.\n• **Metalúrgicos (UOM):** Suma no remunerativa de $35.000 en diciembre.\n• **Servicios Rápidos:** Asignación no remunerativa del 5,58% en diciembre.\n\n⚡ **Desarrollo:**\n• El aguinaldo es un derecho para trabajadores registrados, jubilados y pensionados, con fecha límite de cobro el 18 de diciembre.\n• Para semestres incompletos, se calcula un aguinaldo proporcional, considerando los meses trabajados.\n• Los bancarios verán un 2,3% de incremento en diciembre, consolidando un 24,8% de aumento acumulado sobre diciembre de 2024.\n• El personal de servicio doméstico, incluyendo niñeras y caseros, recibe un 1,3% de aumento y un bono extraordinario variable entre $6.000 y $14.000.\n• Los obreros metalúrgicos perciben $35.000 no remunerativos en diciembre, con la expectativa de su incorporación gradual al básico y revisión en marzo de 2026.\n• Empleados de servicios rápidos (ej. McDonald's) obtendrán un 5,58% no remunerativo en diciembre, parte de un acuerdo que consolidará aumentos al básico en marzo.\n• El SMVM, fijado en $334.800 para diciembre, muestra un continuo deterioro de su poder de compra, sin cumplir objetivos legales de asegurar una vida digna.\n• Se aconseja invertir el aguinaldo en opciones como dólar MEP, FCI o CEDEARs para proteger su valor frente a la inflación.\n\n💡 **¿Por qué importa?**\n• Diciembre es un mes crucial para la planificación financiera familiar gracias al ingreso extra del aguinaldo.\n• Los ajustes salariales reflejan las negociaciones paritarias y la adaptación a un entorno económico desafiante, impactando directamente en el poder adquisitivo.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
-          "titulo": "El Gobierno designó al reemplazante de Cristian Auguadra en la División de Asuntos Internos de la SIDE",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-designo-al-reemplazante-de-cristian-auguadra-en-la-division-de-asuntos-internos-de-la-nid04122025/",
+          "titulo": "Paritaria UOM: cuánto cobra un obrero metalúrgico en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/paritaria-uom-cuanto-cobra-un-obrero-metalurgico-en-diciembre-de-2025-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 06:00:01"
+          "fecha": "2025-12-04 08:18:22"
         },
         {
-          "titulo": "Designaron al reemplazo de Cristian Auguadra en la División de Asuntos Internos de la SIDE",
-          "link": "https://www.infobae.com/politica/2025/12/04/designaron-al-reemplazo-de-cristian-auguadra-en-la-division-de-asuntos-internos-de-la-side/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-04 04:50:21"
-        },
-        {
-          "titulo": "Cajas, espías y fútbol en la pax armada del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/cajas-espias-y-futbol-en-la-pax-armada-del-gobierno-nid03122025/",
+          "titulo": "Cuánto cobran las niñeras en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-en-diciembre-2025-con-el-aguinaldo-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 02:20:06"
+          "fecha": "2025-12-04 08:18:20"
         },
         {
-          "titulo": "¿Por qué la SIDE no hace lo que tiene que hacer?",
-          "link": "https://www.lanacion.com.ar/politica/por-que-la-side-no-hace-lo-que-tiene-que-hacer-nid03122025/",
+          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 00:23:28"
+          "fecha": "2025-12-04 08:18:18"
         },
         {
-          "titulo": "El cambio de domicilio de Cristina Kirchner y el estallido de la SIDE",
-          "link": "https://www.clarin.com/politica/cambio-domicilio-cristina-kirchner-estallido-side_0_xy7woPN2UI.html",
+          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:18:16"
+        },
+        {
+          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:14:54"
+        },
+        {
+          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:14:52"
+        },
+        {
+          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:14:49"
+        },
+        {
+          "titulo": "Cuánto cobran los caseros en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-caseros-en-diciembre-con-el-aguinaldo-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 08:06:52"
+        },
+        {
+          "titulo": "El poder de compra del salario mínimo sigue en picada y en los últimos dos años perdió casi el 36%",
+          "link": "https://www.clarin.com/economia/poder-compra-salario-minimo-sigue-picada-ultimos-anos-perdio-36_0_73GKVUqSUn.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-03 18:00:55"
+          "fecha": "2025-12-04 06:06:22"
         },
         {
-          "titulo": "Que hay detrás de la renuncia de Sergio Neiffert a la SIDE",
-          "link": "https://noticias.perfil.com/noticias/politica/que-hay-detras-de-la-renuncia-de-sergio-neiffert-a-la-side.phtml",
+          "titulo": "Cómo quedaron los salarios de diciembre para el personal de McDonald’s, Burger King o Starbucks.",
+          "link": "https://www.iprofesional.com/economia/443118-cuanto-gana-un-trabajador-de-mcdonalds-burger-king-o-starbucks-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 04:20:00"
+        },
+        {
+          "titulo": "Aguinaldo 2025: en qué conviene invertirlo según especialistas",
+          "link": "https://www.perfil.com/noticias/economia/Aguinaldo-2025-en-que-conviene-invertirlo.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-03 15:15:00"
+          "fecha": "2025-12-03 22:34:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
+        "Perfil",
         "La Nación",
         "Clarín",
-        "Perfil",
-        "Infobae"
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -241,17 +307,29 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "cambios_liderazgo_fuerzas_20251204",
-      "tema": "Cambios Liderazgo Fuerzas Armadas",
-      "tema_normalizado": "cambios liderazgo fuerzas armadas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno del presidente Javier Milei realizó una renovación significativa en la cúpula de las Fuerzas Armadas.\n• Se designaron nuevos jefes para el Ejército, la Armada y el Estado Mayor Conjunto, mientras que el titular de la Fuerza Aérea fue ratificado.\n• Estos cambios se implementaron por sugerencia del flamante Ministro de Defensa, Carlos Presti.\n\n🔍 **Datos clave:**\n• **Nuevo Ministro de Defensa:** Carlos Presti (reemplazó a Luis Petri).\n• **Jefe del Ejército:** General de División Oscar Zarich (reemplazó al Teniente General Carlos Presti en este rol).\n• **Jefe de la Armada:** Vicealmirante Juan Carlos Romay (reemplazó al Almirante Carlos María Allievi).\n• **Jefe del Estado Mayor Conjunto:** Vicealmirante Marcelo Dalle Nogare (reemplazó al Brigadier General Xavier Julián Isaac).\n• **Jefe de la Fuerza Aérea (ratificado):** Brigadier Mayor Gustavo Valverde.\n• **Anuncio oficial:** Realizado por el Jefe de Gabinete Manuel Adorni y confirmado por el Ministro Presti en redes sociales.\n• **Fecha de asunción de jefes salientes:** 10 de enero de 2024 (nombrados el 29 de diciembre de 2023).\n\n⚡ **Desarrollo:**\n• Las nuevas designaciones ocurrieron poco después de que Carlos Presti asumiera como Ministro de Defensa, en reemplazo de Luis Petri, quien pasaría al Congreso.\n• Presti confirmó públicamente que el Presidente Milei aceptó sus propuestas para los nombramientos de los nuevos jefes militares.\n• Los nuevos mandos son descritos como militares de reconocida trayectoria, y Oscar Zarich fue compañero de promoción del Ministro Presti.\n• La Armada obtuvo un cargo estratégico con el nombramiento del Vicealmirante Dalle Nogare al frente del Estado Mayor Conjunto, un puesto que la fuerza \"anhelaba\".\n• El Brigadier Mayor Gustavo Valverde fue ratificado como titular de la Fuerza Aérea, cargo que ocupaba desde el año pasado tras la salida precipitada de su antecesor por denuncias.\n• La rapidez de estos cambios, considerando que los jefes salientes habían asumido sus puestos pocos meses antes, resalta una reestructuración acelerada del liderazgo militar.\n\n💡 **¿Por qué importa?**\n• Estos movimientos representan una reconfiguración temprana y profunda de la conducción militar al inicio de la actual administración.\n• Subrayan la autoridad del Presidente como Comandante en Jefe y la marcada influencia del Ministro de Defensa Carlos Presti en la definición de las nuevas autoridades castrenses.\n• Marcan una nueva etapa en la gestión de la defensa nacional, en el marco de un reacomodamiento más amplio dentro del Gobierno.",
-      "cantidad_noticias": 4,
+      "tema_id": "renovacion_cupula_fuerzas_20251204",
+      "tema": "Renovación Cúpula Fuerzas Armadas",
+      "tema_normalizado": "renovacion cupula fuerzas armadas",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino anunció una importante renovación en la cúpula de las Fuerzas Armadas, impulsada por el presidente Javier Milei y el flamante ministro de Defensa, Carlos Presti.\n• Se designaron nuevos jefes para el Ejército, la Armada y el Estado Mayor Conjunto, mientras que el titular de la Fuerza Aérea fue ratificado en su cargo.\n\n🔍 **Datos clave:**\n• **Carlos Alberto Presti:** Teniente General, designado nuevo Ministro de Defensa, propuso la nueva cúpula.\n• **Oscar Santiago Zarich:** General de División, nombrado Jefe del Ejército, compañero de promoción de Presti.\n• **Juan Carlos Romay:** Vicealmirante, asume como Jefe de la Armada Argentina.\n• **Marcelo Alejandro Dalle Nogare:** Vicealmirante, designado Jefe del Estado Mayor Conjunto de las Fuerzas Armadas.\n• **Gustavo Javier Valverde:** Brigadier Mayor, ratificado como Jefe de la Fuerza Aérea, cargo que ocupa desde marzo de este año.\n• **30 años:** Lapso desde que la Armada no conducía el Estado Mayor Conjunto, destacando la relevancia del nuevo nombramiento de Dalle Nogare.\n\n⚡ **Desarrollo:**\n• La renovación fue una iniciativa del teniente general Carlos Presti, quien, al asumir como Ministro de Defensa, presentó sus propuestas al Presidente Milei, en su rol de Comandante en Jefe de las Fuerzas Armadas.\n• Para el Ejército, Presti eligió a Oscar Zarich, quien fue su compañero de promoción en el Colegio Militar y se desempeñaba como Comandante de Adiestramiento y Alistamiento, liderando importantes ejercicios militares como \"Libertador\".\n• En la Armada, Juan Carlos Romay reemplaza al almirante Carlos María Allievi. Romay ocupaba el cargo de Director General de Educación de la fuerza.\n• El vicealmirante Marcelo Dalle Nogare, de la Armada, asume la jefatura del Estado Mayor Conjunto, un puesto que la Marina no lideraba desde hace tres décadas, en reemplazo del brigadier general Xavier Julián Isaac.\n• El único jefe que mantiene su puesto es el brigadier mayor Gustavo Valverde al frente de la Fuerza Aérea, quien había asumido el cargo en marzo de este año y fue ratificado por el Presidente.\n• Los cambios se enmarcan en la transición del Ministerio de Defensa, tras la salida de Luis Petri para asumir como diputado nacional, lo que permitió una revisión de los altos mandos militares.\n\n💡 **¿Por qué importa?**\n• Esta reorganización de la cúpula militar establece una nueva etapa de liderazgo alineada con la visión del actual gobierno, buscando consolidar un esquema de mando con perfiles de amplia experiencia.\n• Subraya un proceso de modernización y reacomodamiento interno de las Fuerzas Armadas, especialmente con la vuelta de la Armada a la conducción del Estado Mayor Conjunto, un organismo clave para la coordinación de las tres fuerzas.",
+      "cantidad_noticias": 6,
       "noticias": [
         {
-          "titulo": "El Gobierno anunció a los nuevos jefes de las Fuerzas Armadas",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid03122025/",
+          "titulo": "El Gobierno anunció una nueva conducción en las Fuerzas Armadas,  que propuso el jefe militar Presti",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-anuncio-una-nueva-conduccion-en-las-fuerzas-armadas-que-propuso-el-jefe-militar-presti-nid04122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 00:04:59"
+          "fecha": "2025-12-04 08:57:51"
+        },
+        {
+          "titulo": "El Gobierno designó a las nuevas autoridades de las Fuerzas Armadas",
+          "link": "https://www.minutouno.com/politica/el-gobierno-designo-las-nuevas-autoridades-las-fuerzas-armadas-n6220633",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 07:55:00"
+        },
+        {
+          "titulo": "Quiénes son los nuevos miembros de la cúpula de las Fuerzas Armadas",
+          "link": "https://www.ambito.com/politica/quienes-son-los-nuevos-miembros-la-cupula-las-fuerzas-armadas-n6220636",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 07:35:00"
         },
         {
           "titulo": "El Gobierno cambia a la mayoría de los jefes de las Fuerzas Armadas por sugerencia de Carlos Presti",
@@ -276,6 +354,7 @@
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
         "La Nación",
+        "Minuto1",
         "Clarín",
         "Ámbito Financiero",
         "Perfil"
@@ -286,23 +365,17 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "extradicion_bolsonaristas_argentina-brasil_20251204",
-      "tema": "Extradición Bolsonaristas Argentina-Brasil",
-      "tema_normalizado": "extradicion bolsonaristas argentina-brasil",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina ha ordenado la extradición de cinco ciudadanos brasileños a su país.\n• Estos individuos fueron condenados en Brasil por su participación en el intento de golpe de Estado contra Luiz Inácio Lula da Silva en enero de 2023.\n• Los cinco se encontraban prófugos en Argentina, intentando eludir sus penas de prisión.\n\n🔍 **Datos clave:**\n• **Juez a cargo:** Daniel Rafecas, juez federal argentino.\n• **Bolsonaristas extraditados:** Joelton Gusmao de Olveira, Joel Borges Correa, Rodrigo de Freitas Moro, Wellington Firmino y Ana Paula de Souza.\n• **Penas impuestas en Brasil:** Entre 13 y 17 años de prisión.\n• **Fecha del intento de golpe:** 8 de enero de 2023 en Brasilia.\n• **Delitos principales:** Abolición violenta del estado democrático, golpe de Estado, daño agravado, asociación criminal armada y deterioro del patrimonio catalogado.\n\n⚡ **Desarrollo:**\n• El dictamen de extradición fue emitido por el juez Rafecas tras un juicio oral celebrado en los tribunales de Comodoro Py, en Buenos Aires.\n• La decisión judicial no es definitiva y puede ser apelada directamente ante la Corte Suprema de Justicia de la Nación argentina, que tendrá la última palabra.\n• Los cinco individuos habían sido sentenciados por la Corte Suprema de Brasil por su rol en los violentos ataques a los edificios de los tres poderes del Estado brasileño.\n• Tras fugarse de Brasil, fueron detenidos en Argentina, donde ingresaron como prófugos buscando refugio de la justicia.\n• Todos ellos iniciaron trámites para obtener la condición de refugiados políticos en Argentina, pero estos pedidos aún no han sido resueltos.\n• La solicitud de refugio no ha impedido que el proceso de extradición avance hasta su etapa final.\n• Argentina detuvo a estos cinco, de un grupo más amplio de 61 bolsonaristas con órdenes de captura en Brasil.\n• El fiscal Carlos Rívolo se opuso a otorgar la libertad a algunos de los detenidos, posición que fue avalada por el juez Rafecas y confirmada por Casación.\n• El propio expresidente Jair Bolsonaro, condenado a 22 años por el intento de golpe, intentó fugarse a Argentina y rompió su tobillera electrónica, afirmando que lo hizo \"por curiosidad\" con un soldador.\n\n💡 **¿Por qué importa?**\n• Esta resolución refuerza la cooperación judicial entre Argentina y Brasil en la persecución de delitos graves contra la democracia y el orden constitucional.\n• Establece un importante precedente en la región, indicando que quienes atenten contra la democracia no encontrarán un refugio fácil en países vecinos.",
-      "cantidad_noticias": 4,
+      "tema_id": "extradicion_bolsonaristas_golpe_20251204",
+      "tema": "Extradición Bolsonaristas Golpe Brasil",
+      "tema_normalizado": "extradicion bolsonaristas golpe brasil",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Justicia argentina ordenó la extradición a Brasil de cinco ciudadanos condenados en su país por el intento de golpe de Estado contra el presidente Luiz Inácio Lula da Silva.\n• Estas personas se habían fugado de Brasil para evadir sus penas de prisión y se encontraban ocultas en Argentina.\n• La decisión fue tomada por el juez federal Daniel Rafecas, aunque aún puede ser apelada ante la Corte Suprema de Justicia de la Nación.\n\n🔍 **Datos clave:**\n• **Juez a cargo:** Daniel Rafecas (Juez federal argentino).\n• **Condenados:** Joelton Gusmao de Olveira, Joel Borges Correa, Rodrigo de Freitas Moro, Wellington Firmino y Ana Paula de Souza (5 individuos).\n• **Penas en Brasil:** Entre 13 y 17 años de prisión.\n• **Fecha del golpe:** 8 de enero de 2023.\n• **Presidente afectado:** Luiz Inácio Lula da Silva.\n• **Delitos:** Abolición violenta del estado democrático, golpe de estado, daño agravado y asociación criminal armada, entre otros.\n\n⚡ **Desarrollo:**\n• Los cinco individuos fueron sentenciados por la Corte Suprema de Brasil por su participación en los ataques a los edificios de los tres poderes del Estado en Brasilia.\n• Estos ataques ocurrieron tras la asunción de Lula da Silva, con el objetivo de desestabilizar el gobierno democrático.\n• Al llegar a Argentina, los prófugos iniciaron trámites para solicitar el estatus de refugiados, pero la Justicia argentina determinó que estos procesos no impedían el avance del expediente de extradición.\n• La decisión del juez Rafecas, emitida tras un juicio oral en los tribunales de Comodoro Py, no es firme y puede ser apelada directamente ante la Corte Suprema argentina, lo que podría demorar el traslado.\n• Fuentes periodísticas indican que la decisión de extradición incluso podría ser impugnada por el presidente Javier Milei.\n• Se estima que hay al menos una decena más de bolsonaristas prófugos en Argentina que se encuentran en una situación similar y aún no han sido detenidos.\n• El caso también se vincula con el expresidente Jair Bolsonaro, condenado en Brasil por conspiración e intento de impedir la asunción de Lula, quien además intentó fugarse y manipular su tobillera electrónica.\n\n💡 **¿Por qué importa?**\n• Refleja la cooperación judicial internacional en la lucha contra crímenes que atentan directamente contra la democracia y el orden constitucional de un país.\n• Establece un precedente importante para otros bolsonaristas prófugos que podrían estar escondidos en Argentina, reforzando el principio de que no habrá impunidad.\n• Envía un mensaje contundente sobre el compromiso regional con la defensa de las instituciones democráticas y la rendición de cuentas por actos de insurrección.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
           "titulo": "El juez Rafecas ordenó la extradición de cinco bolsonaristas condenados por intento de Golpe de Estado",
           "link": "https://www.perfil.com/noticias/politica/el-juez-rafecas-ordeno-la-extradicion-de-cinco-bolsonaristas-condenados-por-intento-de-golpe-de-estado.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-04 01:33:00"
-        },
-        {
-          "titulo": "Disponen la extradición de cinco bolsonaristas a Brasil",
-          "link": "https://www.lanacion.com.ar/politica/disponen-la-extradicion-de-cinco-bolsonaristas-a-brasil-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-03 22:04:24"
         },
         {
           "titulo": "La Justicia ordenó la extradición a Brasil de cinco condenados por el intento de golpe contra Lula da Silva",
@@ -320,10 +393,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
+        "Minuto1",
         "Perfil",
-        "Minuto1"
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -331,226 +403,105 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "futuro_deuda_argentina_20251204",
-      "tema": "Futuro Deuda Argentina y Mercados",
-      "tema_normalizado": "futuro deuda argentina y mercados",
-      "resumen": "📌 **¿Qué está pasando?**\n• El ministro de Economía, Luis Caputo, ha manifestado la intención de Argentina de regresar a los mercados internacionales de deuda para acumular reservas y financiar sus compromisos.\n• Sin embargo, el principal obstáculo para esta vuelta es el elevado Riesgo País, que se mantiene estancado por encima de los 600 puntos, encareciendo excesivamente el acceso al crédito.\n• A pesar de la situación del Riesgo País soberano, algunas provincias y empresas argentinas han logrado exitosamente emitir deuda en los mercados internacionales, reflejando un apetito selectivo por ciertos activos.\n\n🔍 **Datos clave:**\n• **Riesgo País actual:** 639 puntos básicos (al 3 de diciembre), fluctuando entre 600 y 650 puntos.\n• **Objetivo del Gobierno:** Perforar los 600 puntos y consolidarse en 500 para lograr tasas razonables.\n• **Tasa de endeudamiento implícita:** Aproximadamente 11% en dólares con el Riesgo País actual, considerada impagable.\n• **Próximos vencimientos:** US$ 4.200 millones a bonistas en enero; US$ 22.196 millones en 2026 y US$ 29.400 millones en 2027.\n• **Último acceso a mercados internacionales:** Argentina lleva 8 años sin emitir deuda soberana en ellos.\n• **Ejemplos recientes de deuda subsoberana/corporativa:** Ciudad de Buenos Aires (tasa <8%), Santa Fe busca US$ 500M (espera ~8.5%), Vista (US$ 400M a 8.5%).\n• **Propuesta de Caputo:** Podría comprarse entre US$ 7.000M y US$ 21.000M de reservas en 2026.\n\n⚡ **Desarrollo:**\n• El Riesgo País es un indicador del JP Morgan que mide la sobretasa que un país como Argentina debe pagar por encima del interés de los bonos del Tesoro de EE. UU., reflejando la confianza de los inversores.\n• Su estancamiento actual se debe a la dificultad del Banco Central para acumular reservas genuinas, las dudas sobre cómo se afrontarán los pagos de enero y la demora en implementar reformas económicas consistentes.\n• Aunque el acuerdo con el FMI, el triunfo electoral del oficialismo y una intervención del Tesoro de EE. UU. generaron una baja inicial del Riesgo País, este movimiento encontró un límite.\n• El equipo económico de Caputo no solo planea una nueva emisión, sino también operaciones financieras más amplias como recompras de deuda (REPO) con bancos internacionales y canjes atados a metas.\n• Para que el Riesgo País descienda más y se concrete la vuelta al mercado, los inversores esperan una aceleración en la acumulación de reservas y un programa monetario y cambiario más creíble.\n• El éxito de colocaciones de deuda por parte de provincias y empresas a tasas más competitivas es visto como una señal positiva, sugiriendo que una emisión soberana podría tener buena recepción.\n\n💡 **¿Por qué importa?**\n• El regreso a los mercados de deuda internacional es fundamental para que Argentina pueda financiar sus significativos vencimientos futuros, estabilizar su economía y evitar soluciones drásticas.\n• Una reducción sostenida del Riesgo País y el acceso al financiamiento externo permitirán al país fortalecer sus reservas y tener la capacidad de pago necesaria para un crecimiento económico estable.",
-      "cantidad_noticias": 7,
+      "tema_id": "kicillof_negociacion_ley_20251204",
+      "tema": "Kicillof Negociación Ley Endeudamiento",
+      "tema_normalizado": "kicillof negociacion ley endeudamiento",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobernador Axel Kicillof logró la aprobación de una ley de endeudamiento para la Provincia de Buenos Aires después de intensas y prolongadas negociaciones.\n• La aprobación se consiguió tras ceder cargos en organismos estatales y acordar un reparto de fondos para los municipios, un hecho que generó controversia.\n• El proceso se extendió desde la tarde del miércoles hasta la madrugada del jueves en la Legislatura bonaerense, marcado por tensiones y disputas entre los bloques.\n\n🔍 **Datos clave:**\n• **Monto del endeudamiento:** Poco más de 3.500 millones de dólares.\n• **Destino:** Afrontar compromisos en 2026 y ejecutar el Presupuesto provincial.\n• **Fecha de aprobación:** Jueves, pasadas las 3 de la madrugada.\n• **Mayoría requerida:** Dos tercios de los legisladores presentes.\n• **Cargos en Banco Provincia (Bapro):** Se crearon 6 nuevos puestos, incluyendo 3 nuevos directores y 2 reemplazos.\n• **Costo de cargos (según LLA):** 70 millones de pesos por mes por cada nuevo cargo.\n• **Municipios beneficiados:** Un fondo de dinero para repartir entre los 135 municipios bonaerenses.\n• **Presupuesto Cámara de Diputados:** Aproximadamente $234.000 millones administrados por la Cámara.\n\n⚡ **Desarrollo:**\n• La ley de endeudamiento ya había fracasado la semana anterior, lográndose solo la aprobación del presupuesto y la ley fiscal e impositiva, por falta de la mayoría especial de dos tercios.\n• Kicillof debió enfrentar una ardua \"rosca política\" y negociaciones que incluyeron no solo a la oposición (UCR, PRO, Unión y Libertad) sino también a socios internos como La Cámpora y el massismo.\n• Para asegurar los dos tercios necesarios, se ofrecieron cargos directivos en el Banco Provincia (Bapro) a figuras de la oposición, como Matías Ranzini (PRO), Marcelo Daletto (UCR) y Fernando Rozas (hermano de Martín Rozas, de libertarios dialoguistas).\n• Internamente, Kicillof cedió el manejo de la Cámara de Diputados con una presidencia rotativa entre Alejandro Dichiara (cristinista) y Alexis Guerrera (Frente Renovador), además de ceder secretarías relevantes.\n• También se acordó la creación de un fondo de dinero para distribuir entre los municipios, lo que destrabó los reparos iniciales de la UCR.\n• La sesión fue polémica, con discusiones como la de Alexis Guerrera, presidente de la Cámara, y el intendente Santiago Passaglia, quien intentó levantar su licencia como diputado para votar en contra.\n• Opositores como el Frente de Izquierda y Guillermo Castello de La Libertad Avanza criticaron duramente la creación de nuevos cargos por su elevado costo y por considerarlos un \"reparto de cargos políticos\".\n\n💡 **¿Por qué importa?**\n• La aprobación de este endeudamiento es crucial para la gestión de la Provincia de Buenos Aires en 2026, permitiendo la ejecución de su presupuesto y el cumplimiento de compromisos.\n• Refleja la necesidad de Axel Kicillof de negociar y ceder poder en su segundo mandato, tanto a la oposición como a sus aliados, para garantizar la gobernabilidad y consolidar su proyecto político a futuro.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Caputo quiere salir a tomar deuda pero hay un obstáculo que por ahora lo frena",
-          "link": "https://www.clarin.com/economia/caputo-quiere-salir-tomar-deuda-obstaculo-ahora-frena_0_2r453OPQ8i.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 06:00:25"
-        },
-        {
-          "titulo": "El Riesgo País de Argentina opera a la baja por el impulso de los bonos soberanos y se afianza por debajo de los 650 puntos",
-          "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-de-argentina-opera-a-la-baja-por-el-impulso-de-los-bonos-soberanos-y-se-afianza-por-debajo-de-los-650-puntos-a35.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 20:45:00"
-        },
-        {
-          "titulo": "El S&P Merval en dólares repuntó y avanzó 3,6%, mientras los bonos soberanos extendieron ganancias",
-          "link": "https://www.ambito.com/finanzas/el-sp-merval-dolares-repunto-y-avanzo-36-mientras-los-bonos-soberanos-extendieron-ganancias-n6220272",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:58:00"
-        },
-        {
-          "titulo": "Se profundiza la grieta entre el Gobierno y la City: por qué el riesgo país no baja lo esperado",
-          "link": "https://www.iprofesional.com/finanzas/442776-grieta-entre-gobierno-y-mercado-por-que-riesgo-pais-no-baja-pese-plan-caputo",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 18:46:00"
-        },
-        {
-          "titulo": "Volaron las acciones, mejoraron los bonos y el riesgo país cedió a 639 puntos",
-          "link": "https://www.clarin.com/economia/volaron-acciones-mejoraron-bonos-riesgo-pais-cedio-639-puntos_0_NGs6qPFVs5.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 18:04:16"
-        },
-        {
-          "titulo": "Regreso al mercado de deuda: la city lo lee como una señal de confianza y ya debate cuál sería la tasa de la futura colocación",
-          "link": "https://www.ambito.com/finanzas/regreso-al-mercado-deuda-la-city-lo-lee-como-una-senal-confianza-y-ya-debate-cual-seria-la-tasa-la-futura-colocacion-n6220431",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 17:23:00"
-        },
-        {
-          "titulo": "Sigue la ola de colocaciones de deuda: Santa Fe emitirá un bono por US$ 500 millones y Vista busca financiamiento por otros US$ 400 millones",
-          "link": "https://www.clarin.com/economia/sigue-ola-colocaciones-deuda-santa-fe-emitira-bono-us-500-millones-vista-busca-financiamiento-us-400-millones_0_cKy91bVouS.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 14:54:51"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "controversia_lorena_villaverde_20251204",
-      "tema": "Controversia Lorena Villaverde Senado",
-      "tema_normalizado": "controversia lorena villaverde senado",
-      "resumen": "📌 **¿Qué está pasando?**\n• Lorena Villaverde, diputada de La Libertad Avanza (LLA) por Río Negro, renunció a su banca como senadora electa.\n• Esta decisión se dio en medio de fuertes cuestionamientos sobre sus antecedentes judiciales ligados al narcotráfico en Estados Unidos.\n• Villaverde, no obstante, continúa con su mandato actual como diputada, habiendo retirado previamente su renuncia a la Cámara Baja.\n\n🔍 **Datos clave:**\n• **Protagonista:** Lorena Villaverde, dirigente de La Libertad Avanza (LLA) por Río Negro.\n• **Antecedente judicial:** Fue detenida en 2002 en Sarasota, Florida (EE.UU.), acusada de conspiración para distribuir más de 400 gramos de cocaína.\n• **Mandato actual:** Diputada Nacional hasta 2027.\n• **Reemplazo en el Senado:** Enzo Fullone, tesorero de LLA en Río Negro, ocupará su lugar.\n• **Fecha clave:** Retiró su renuncia como diputada el 2 de diciembre.\n\n⚡ **Desarrollo:**\n• Tras ser electa senadora, el diploma de Villaverde fue impugnado por la oposición, principalmente el PJ, ante la Comisión de Asuntos Constitucionales del Senado.\n• Los cuestionamientos se basaban en su \"idoneidad moral, ética y constitucional\" debido a su pasado judicial en EE.UU. y supuestos vínculos con una red de narcotráfico.\n• La Comisión aprobó la impugnación, y la situación de Villaverde debía ser votada en el recinto o volver a comisión después del 10 de diciembre.\n• Villaverde defendió su inocencia, argumentando que fue sobreseída en EE.UU. y que es víctima de \"operaciones mediáticas obscenas\" y una \"violencia calculada\".\n• La dirigente justificó su renuncia al Senado para evitar ser \"usada como herramienta para dañar al gobierno\" y para proteger a su familia.\n• En el ámbito político, se rumoreaba que el Gobierno le había \"soltado la mano\" y que sus compañeros de LLA temían que su caso fuera una \"mancha permanente\".\n• En paralelo, Villaverde había presentado su renuncia a la banca de diputada, pero solicitó al presidente de la Cámara Baja, Martín Menem, que se le retire la dimisión, lo cual fue aceptado.\n\n💡 **¿Por qué importa?**\n• El caso pone en evidencia las dificultades que enfrenta La Libertad Avanza para conformar sus bloques legislativos y la selección de sus representantes.\n• Genera un debate público sobre los estándares éticos y morales requeridos para ocupar cargos de representación política en Argentina, especialmente ante antecedentes penales.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Lorena Villaverde renunció a su banca en el Senado, pero continúa su mandato como diputada",
-          "link": "https://www.perfil.com/noticias/politica/lorena-villaverde-renuncio-a-su-banca-en-el-senado-pero-continua-su-mandato-como-diputada.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 20:24:00"
-        },
-        {
-          "titulo": "Quién es Enzo Fullone, el candidato que reemplazaría a Lorena Villaverde en el Senado",
-          "link": "https://www.ambito.com/politica/quien-es-enzo-fullone-el-candidato-que-reemplazaria-lorena-villaverde-el-senado-n6220541",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 19:00:00"
-        },
-        {
-          "titulo": "Narcogate: el mensaje de Lorena Villaverde a Martín Menem para anular su renuncia como diputada",
-          "link": "https://noticias.perfil.com/noticias/politica/narcogate-el-mensaje-de-lorena-villaverde-a-martin-menem-para-anular-su-renuncia-como-diputada.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 18:43:03"
-        },
-        {
-          "titulo": "Lorena Villaverde presentó su renuncia al Senado para no ser \"usada\" en maniobras contra el Gobierno",
-          "link": "https://www.ambito.com/politica/lorena-villaverde-presento-su-renuncia-al-senadopara-no-ser-usada-maniobras-contra-el-gobierno-n6220506",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 18:10:00"
-        },
-        {
-          "titulo": "Lorena Villaverde confirmó que no asumirá en el Senado: \"Fui víctima de operaciones mediáticas obscenas\"",
-          "link": "https://www.minutouno.com/politica/lorena-villaverde-confirmo-que-no-asumira-el-senado-fui-victima-operaciones-mediaticas-obscenas-n6220504",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-03 17:21:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_y_20251204",
-      "tema": "Reforma Laboral y Salario Mínimo",
-      "tema_normalizado": "reforma laboral y salario minimo",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno busca impulsar una reforma laboral en el Congreso, generando reuniones estratégicas entre la Confederación General del Trabajo (CGT) y gobernadores de Provincias Unidas.\n• En paralelo, la CGT rechazó el Salario Mínimo Vital y Móvil (SMVM) fijado por decreto, considerándolo \"insuficiente y desconectado de la realidad\".\n\n🔍 **Datos clave:**\n• **SMVM Decretado:** $328.400 para Noviembre 2025, con valores ascendentes hasta Agosto 2026 por decreto (Resolución 9/2025).\n• **CGT (Propuesta SMVM):** Buscaba un 71,6% de aumento, llevando el salario a $1.176.852 (Canasta Básica Total).\n• **Reforma Laboral:** Su debate en el Congreso se anticipa para las sesiones extraordinarias.\n• **Actores CGT:** Triunviros y dirigentes como Andrés Rodríguez, Gerardo Martínez; la CGT rechaza el proyecto gubernamental.\n• **Gobernadores Clave:** Ignacio Torres (Chubut), Carlos Sadir (Jujuy) y Maximiliano Pullaro (Santa Fe) se reunieron con la central obrera.\n\n⚡ **Desarrollo:**\n• La CGT se reunió con gobernadores de Provincias Unidas en la Casa de Chubut para acordar una agenda legislativa conjunta en defensa de los derechos laborales.\n• Aunque algunos gobernadores, como Pullaro, reconocen la necesidad de una \"modernización laboral\", la CGT se opone al proyecto actual del Gobierno.\n• El SMVM fue fijado por decreto de manera unilateral, tras el fracaso de las negociaciones entre sindicatos y empresarios en el Consejo del Salario.\n• La central obrera argumenta que el monto decretado consolida una pérdida salarial incompatible con una vida digna para los trabajadores.\n• El borrador de la reforma laboral, en manos del Jefe de Gabinete Manuel Adorni y los presidentes de las Cámaras legislativas, plantea varios cambios.\n• Entre ellos, se mencionan posibles topes para las indemnizaciones por despido sin causa y la exclusión del aguinaldo en su cálculo.\n• Se evalúa permitir que las pymes paguen indemnizaciones en hasta 12 cuotas y la reimplementación de los tickets canasta, no remunerativos.\n• La normativa del SMVM también modifica el cálculo de la prestación por desempleo, fijando topes que van del 50% al 100% del salario mínimo.\n\n💡 **¿Por qué importa?**\n• Las medidas propuestas sobre la reforma laboral impactarán directamente en las condiciones de trabajo, estabilidad y derechos fundamentales de los empleados en el país.\n• La fijación del salario mínimo vital y móvil influye crucialmente en el poder adquisitivo y la calidad de vida de millones de familias, en un contexto de alta inflación y negociaciones tensas.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "La CGT y Provincias Unidas avanzan en un acercamiento a días del debate a la reforma laboral",
-          "link": "https://www.ambito.com/politica/la-cgt-y-provincias-unidas-avanzan-un-acercamiento-dias-del-debate-la-reforma-laboral-n6220498",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 20:18:00"
-        },
-        {
-          "titulo": "La CGT rechazó el aumento del salario mínimo por decreto: \"Insuficiente y desconectado de la realidad\"",
-          "link": "https://www.perfil.com/noticias/economia/la-cgt-rechazo-el-aumento-del-salario-minimo-fijado-por-decreto-insuficiente-y-desconectado-de-la-realidad.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 18:24:44"
-        },
-        {
-          "titulo": "La CGT rechazó el nuevo Salario Mínimo, Vital y Móvil: \"Es insuficiente y desconectado de la realidad\"",
-          "link": "https://www.ambito.com/politica/la-cgt-rechazo-el-nuevo-salario-minimo-vital-y-movil-es-insuficiente-y-desconectado-la-realidad-n6220458",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 16:30:00"
-        },
-        {
-          "titulo": "Reforma laboral: vacaciones, indemnización y otros cuatro cambios claves para los empleados",
-          "link": "https://www.iprofesional.com/politica/443273-reforma-laboral-vacaciones-indemnizacion-y-otros-cuatro-cambios-claves-para-empleados",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 15:15:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "declaraciones_economicas_ministro_20251204",
-      "tema": "Declaraciones Económicas Ministro Caputo",
-      "tema_normalizado": "declaraciones economicas ministro caputo",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Ministro de Economía, Luis Caputo, se presentó ante el círculo empresarial (Cicyp), reafirmando la estabilidad macroeconómica como pilar central de su gestión.\n• Su mensaje principal fue que \"la mejor política industrial es la estabilidad\", en respuesta a las demandas de intervención estatal y política industrial activa de algunos empresarios.\n• A pesar del optimismo oficial, la comunidad empresarial mostró preocupación por la lenta reactivación económica y la necesidad de ver resultados concretos en la producción.\n\n🔍 **Datos clave:**\n• **Evento:** Almuerzo del Consejo Interamericano del Comercio y la Producción (Cicyp) en el Alvear Palace Hotel.\n• **Asistentes:** 220 empresarios y 14 embajadores, incluyendo líderes del Grupo de los Seis.\n• **Propuesta de Financiamiento:** Caputo negó haber recibido ofertas de u$s20.000 millones, mencionando préstamos ofrecidos de u$s6.000 a u$s7.000 millones.\n• **Proyección de Reservas:** Estimó que el BCRA podría sumar entre u$s7.000 millones (con base monetaria constante) y hasta u$s21.000 millones (con mayor demanda de dinero) en 2025.\n• **Licitaciones:** Licitaciones de rutas y la Hidrovía se esperan concretar en el primer trimestre del año.\n\n⚡ **Desarrollo:**\n• Caputo defendió la postura del gobierno de Javier Milei, priorizando el orden macroeconómico como la única política sectorial, rechazando explícitamente la intervención industrial.\n• Esta postura generó un contrapunto con figuras como Paolo Rocca (Grupo Techint) y la Unión Industrial Argentina (UIA), quienes abogan por una \"segunda fase\" con política industrial activa e inversiones en infraestructura.\n• El Ministro anunció la puesta en marcha de licitaciones de miles de kilómetros de rutas y del concurso de la Hidrovía, buscando fomentar la competitividad.\n• Confirmó la continuidad del sistema de bandas cambiarias y negó que el dólar esté atrasado, basándose en el aumento de las exportaciones.\n• Explicó la intención de recomponer reservas sin recurrir a la emisión o esterilización, buscando acceso a los mercados de deuda y divisas por futuras concesiones.\n• Aunque los empresarios valoran la estabilidad, expresaron la urgencia de que los récords de la administración libertaria se traduzcan en resultados positivos y concretos para la producción.\n\n💡 **¿Por qué importa?**\n• Las declaraciones de Caputo definen claramente la estrategia económica del gobierno, centrada en la disciplina fiscal y la estabilidad, con la expectativa de que esto impulse la inversión y la reactivación.\n• La tensión entre la visión oficial y las demandas del sector productivo subraya el desafío de equilibrar la ortodoxia económica con la necesidad de resultados tangibles en la economía real.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Una filosa respuesta a Paolo Rocca, aplausos y reclamos: así fue el paso de Luis Caputo por el Cicyp",
-          "link": "https://www.perfil.com/noticias/economia/luis-caputo-le-respondio-a-paolo-rocca-ante-aplausos-y-reclamos-de-los-empresarios-mas-poderosos-del-pais.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 05:30:00"
-        },
-        {
-          "titulo": "Luis Caputo: \"La estabilidad es la mejor política industrial\"",
-          "link": "https://www.ambito.com/politica/luis-caputo-la-estabilidad-es-la-mejor-industrial-n6220613",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 00:00:00"
-        },
-        {
-          "titulo": "La intimidad del exclusivo almuerzo de Caputo con los empresarios y la definición del ministro sobre la industria",
-          "link": "https://www.clarin.com/economia/intimidad-exclusivo-almuerzo-caputo-empresarios-definicion-ministro-industria_0_W1b072aPH6.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 18:31:10"
-        },
-        {
-          "titulo": "Caputo habló del préstamo de los bancos y estimó cuántas reservas podrá sumar en 2026",
-          "link": "https://www.iprofesional.com/economia/443283-luis-caputo-hablo-del-prestamo-de-bancos-y-estimo-cuantas-reservas-podra-sumar-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-03 15:39:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "declaraciones_y_acciones_20251204",
-      "tema": "Declaraciones y Acciones Javier Milei",
-      "tema_normalizado": "declaraciones y acciones javier milei",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El presidente Javier Milei defendió su gestión económica, enfatizando el superávit fiscal y la política cambiaria con bandas como paso a la libre flotación, mientras condicionó su reelección a la resolución de problemas nacionales.\n*   Su partido, La Libertad Avanza (LLA), fortaleció su presencia en el Congreso, alcanzando la primera minoría en Diputados y aumentando bancas en el Senado, lo que augura un escenario legislativo menos adverso.\n*   Paralelamente, una senadora electa por LLA, Lorena Villaverde, renunció a su banca por acusaciones de vínculos con el narcotráfico, generando un escándalo político.\n\n🔍 **Datos clave:**\n*   **Renuncia:** Lorena Villaverde, senadora nacional por LLA (Río Negro), electa el 26 de octubre.\n*   **Ajuste Fiscal:** Milei afirmó haber reducido el gasto público un 30% en términos reales y logrado superávit fiscal tras 123 años.\n*   **Endeudamiento Macri:** Recordó que durante el gobierno de Mauricio Macri se tomaron $60.000 millones de dólares netos en endeudamiento.\n*   **LLA en el Congreso:** LLA alcanzó 95 diputados (primera minoría) y 20 senadores (sumó 13 nuevas bancas).\n*   **Quórum:** El quórum en Diputados requiere 129 legisladores, un número que LLA aún no alcanza por sí solo.\n*   **Reelección:** Milei se refirió a una posible reelección en 2027, planteando que solo debería ser reelegido si resuelve los problemas del país.\n*   **Población Argentina:** El Presidente afirmó que su mandato es reportarle a 47,5 millones de argentinos.\n*   **Crítica Externa:** La presidenta de México, Claudia Sheinbaum, cuestionó un préstamo de Argentina a EE.UU., comparándolo con los 400.000 millones de pesos mexicanos (250.000 millones de aduanas) que su país recauda adicionalmente.\n\n⚡ **Desarrollo:**\n*   Durante su participación en el \"Encuentro de Líderes\" en La Rural, Milei defendió su política de \"emisión cero\" y argumentó que las bandas de flotación actuales buscan limitar la volatilidad cambiaria hasta alcanzar un tipo de cambio completamente libre.\n*   El Presidente criticó a \"atorrantes del círculo rojo\" y \"consultores oráculos de delfos\" que, según él, obstaculizan el progreso o dan malas recomendaciones económicas.\n*   La nueva conformación del Congreso, con LLA ganando espacio, transforma el panorama legislativo que antes era \"hostil\", aunque el Gobierno deberá negociar con bloques como el PRO y provinciales para lograr el quórum y aprobar leyes.\n*   Milei hizo hincapié en la importancia de que el dólar deje de ser el principal factor de expectativas en la economía argentina, prometiendo erradicar la inflación como objetivo central de su gestión.\n*   La renuncia de la senadora Villaverde subraya la necesidad de LLA de manejar la imagen pública y el escrutinio sobre sus miembros, en un contexto de búsqueda de acuerdos y gobernabilidad.\n\n💡 **¿Por qué importa?**\n*   Las firmes declaraciones de Milei buscan consolidar la confianza en su plan económico de ajuste y desinflación, reiterando su compromiso con la estabilidad y criticando a quienes cuestionan su modelo.\n*   El nuevo equilibrio de fuerzas en el Congreso representa una oportunidad para el oficialismo de avanzar con su agenda, pero también un desafío para construir mayorías y evitar la parálisis legislativa mediante el diálogo y los consensos.",
-      "cantidad_noticias": 7,
-      "noticias": [
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid04122025/",
+          "titulo": "La negociación del endeudamiento puso a prueba a Kicillof y lo obligó a hacer concesiones",
+          "link": "https://www.lanacion.com.ar/politica/la-negociacion-del-endeudamiento-puso-a-prueba-a-kicillof-y-lo-obligo-a-hacer-concesiones-nid04122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 06:14:45"
+          "fecha": "2025-12-04 09:05:54"
         },
         {
-          "titulo": "Javier Milei: \"Si hubiera sido peronista, la mitad de las calles llevaría mi nombre\"",
-          "link": "https://www.perfil.com/noticias/economia/javier-milei-habla-ante-lideres-empresarios-en-la-rural.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-03 21:45:00"
+          "titulo": "Kicillof cedió lugares en el Bapro y otros organismos para conseguir la ley de endeudamiento",
+          "link": "https://www.clarin.com/politica/kicillof-cedio-lugares-bapro-organismos-conseguir-ley-endeudamiento_0_ocR4rl18Ii.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-03 22:12:16"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reforma_codigo_penal_20251204",
+      "tema": "Reforma Código Penal Argentina",
+      "tema_normalizado": "reforma codigo penal argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino presentó los lineamientos de una reforma al Código Penal que será enviada al Congreso.\n• Esta propuesta busca actualizar la legislación penal, abordando el aumento de penas, la responsabilidad de personas jurídicas y los delitos informáticos.\n\n🔍 **Datos clave:**\n• **Germán Garavano:** Exministro de Justicia, crítico del enfoque en el aumento de penas como solución principal.\n• **2019:** El expresidente Macri envió un proyecto de Código Penal al Congreso, elaborado por expertos, que no avanzó.\n• **Más de 900:** Cantidad aproximada de reformas tipo \"parches\" que ha sufrido el Código Penal históricamente.\n• **Ley 27.401:** Ley de Responsabilidad Penal de las Personas Jurídicas, que el proyecto busca integrar y ampliar.\n• **Hasta 10 años:** Pena máxima propuesta para delitos como usurpación o cohecho (soborno).\n• **6 años:** Pena mínima para robo de bienes de servicios públicos si interrumpe el servicio.\n\n⚡ **Desarrollo:**\n• La reforma busca actualizar el Código Penal, necesario por la acumulación de \"parches\" y para regular nuevas conductas delictivas.\n• Germán Garavano enfatiza que el aumento de penas es secundario; prioriza identificar, procesar y condenar a los autores de delitos.\n• El proyecto propone integrar en el Código Penal delitos hoy en leyes especiales (tributarios, aduaneros), ampliando el catálogo de conductas penales.\n• Se incorpora un capítulo de ciberdelitos, sancionando suplantación de identidad (deepfakes) y manipulación algorítmica.\n• Para las empresas (personas jurídicas), se amplía la responsabilidad penal con multas elevadas, suspensión de actividades y disolución.\n• Se agrava la punición de delitos económicos y patrimoniales, como estafas (hasta 8 años) y robos de infraestructuras críticas que afecten servicios públicos.\n• El Gobierno inicialmente consideró la imprescriptibilidad de casos de corrupción, luego frenada; Garavano la ve como un \"remedio para la ineficacia judicial\".\n• La discusión sobre la proporcionalidad de las penas y su adecuación a los distintos delitos será un punto clave en el debate parlamentario.\n\n💡 **¿Por qué importa?**\n• La reforma busca modernizar el sistema penal argentino, adaptándolo a la realidad actual y a nuevas modalidades delictivas como el ciberdelito y la corrupción empresarial.\n• Su aprobación podría redefinir el marco legal para combatir la inseguridad, impactando tanto a ciudadanos como a personas jurídicas con nuevas responsabilidades y penas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Código Penal: un exministro de Justicia afirmó que el aumento de penas que propone el Gobierno “es un tema secundario”",
+          "link": "https://www.lanacion.com.ar/politica/codigo-penal-un-exministro-de-justicia-afirmo-que-el-aumento-de-penas-que-propone-el-gobierno-es-un-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 09:19:42"
         },
+        {
+          "titulo": "Multas y disolución: las penas máximas del nuevo Código Penal para las empresas",
+          "link": "https://www.iprofesional.com/impuestos/443315-multas-y-disolucion-empresas-mayores-penas-nuevo-codigo-penal",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 06:56:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "La Nación",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cambios_internos_side_20251204",
+      "tema": "Cambios Internos SIDE Argentina",
+      "tema_normalizado": "cambios internos side argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino está llevando a cabo una significativa reestructuración interna en la Secretaría de Inteligencia del Estado (SIDE).\n• Recientemente, Cristian Auguadra fue ascendido a jefe de la SIDE, tras reemplazar a Sergio Neiffert.\n• Diego Enrique Valdiviezo fue designado como nuevo titular de la División de Asuntos Internos (DAI), cubriendo el puesto que dejó Auguadra.\n\n🔍 **Datos clave:**\n• **Cristian Auguadra:** Nuevo titular de la SIDE, anteriormente al frente de Asuntos Internos.\n• **Diego Enrique Valdiviezo:** Nuevo titular de la División de Asuntos Internos (DAI), designado por Decreto 853/2025.\n• **Sergio Neiffert:** Predecesor de Auguadra en la conducción de la SIDE, cuya salida se formalizó por Decreto 852/2025.\n• **Mediados de 2024:** La SIDE fue dividida en cuatro agencias: Servicio de Inteligencia Argentino (Alejandro Walter Colombo), Agencia Federal de Ciberseguridad (Ariel Waissbein), Agencia de Seguridad Nacional (Alejandro Cecati), y Asuntos Internos.\n• **Marzo (próximo):** Se anticipan más cambios para \"ordenar\" el funcionamiento del organismo y acotar influencias.\n\n⚡ **Desarrollo:**\n• La llegada de Valdiviezo, contador con experiencia en auditoría, se enmarca en la segunda etapa de modernización del sistema de inteligencia.\n• La DAI es un área clave, responsable de auditar procedimientos y monitorear el uso de recursos internos de la SIDE.\n• La salida de Neiffert se debió a conflictos con Santiago Caputo y problemas operativos derivados de la anterior reestructuración.\n• Bajo la gestión de Neiffert, el organismo había vuelto a su nombre original, SIDE, y se creó la estructura de cuatro agencias.\n• Sin embargo, esta división generó críticas y quejas internas, con fuentes indicando un posible \"espionaje entre ellos\" por las estructuras competitivas.\n• La nueva conducción de Auguadra, quien cuenta con el apoyo de Santiago Caputo y Karina Milei, busca la modernización tecnológica y el fortalecimiento del control estratégico.\n• El diseño inicial de la reforma involucró a funcionarios de confianza de Caputo y a José Luis Vila, ex-secretario de Asuntos Estratégicos.\n\n💡 **¿Por qué importa?**\n• Estos cambios buscan modernizar y profesionalizar la inteligencia argentina, adecuándola a desafíos globales y prioridades gubernamentales.\n• La reestructuración genera tensiones internas y cuestionamientos sobre la operatividad del organismo, impactando su eficacia y estabilidad en un área sensible.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El Gobierno nombró al reemplazo de Cristian Auguadra en Asuntos Internos de la SIDE",
+          "link": "https://www.ambito.com/politica/el-gobierno-nombro-al-reemplazo-cristian-auguadra-asuntos-internos-la-side-n6220628",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 07:41:00"
+        },
+        {
+          "titulo": "La otra interna de la SIDE: quejas por la reestructuración en las cuatro agencias y los nuevos cambios que impulsa Karina",
+          "link": "https://www.clarin.com/politica/interna-side-quejas-reestructuracion-agencias-nuevos-cambios-impulsa-karina_0_uP61jYM39R.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 07:00:22"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "politica_cambiaria_futura_20251204",
+      "tema": "Política Cambiaria Futura Milei",
+      "tema_normalizado": "politica cambiaria futura milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Javier Milei defiende su política cambiaria actual, que incluye un sistema de bandas sobre el dólar.\n• Afirma que este esquema es una etapa de transición necesaria hacia un tipo de cambio totalmente libre.\n• Su objetivo es dar estabilidad a las expectativas de la población y erradicar la inflación en Argentina.\n\n🔍 **Datos clave:**\n• **Javier Milei**: Presidente de Argentina, principal vocero de esta política.\n• **Luis Caputo y Santiago Bausili**: Ministro de Economía y Presidente del Banco Central, respectivamente, que acompañan la estrategia.\n• **Abril**: Mes en que se implementaron las bandas cambiarias sobre el dólar, tras el levantamiento del cepo.\n• **\"Riesgo kuka\"**: Frase usada por Milei para señalar que este riesgo político ha quedado atrás tras las elecciones.\n• **\"Emisión cero\"**: Principio monetario fundamental que defiende el gobierno de Milei.\n• **123 años**: Período tras el cual Milei afirma haber logrado el equilibrio fiscal en un solo mes.\n\n⚡ **Desarrollo:**\n• Milei explicó que las bandas cambiarias buscan poner un límite a la volatilidad, evitando que el valor del dólar \"sea cualquier cosa\".\n• Aseguró que este sistema es un paso intermedio y que, \"como creemos en la libertad, las bandas se abren en el tiempo\" hacia un tipo de cambio libre.\n• Reconoce que los argentinos forman sus expectativas mirando el dólar, y que su tarea es resolver los problemas subyacentes.\n• Destacó el equilibrio fiscal alcanzado y un déficit de cuenta corriente generado principalmente por la inversión privada, no por gasto público.\n• Reafirmó su meta central de erradicar la suba del costo de vida, declarando: “No queremos ver más inflación en Argentina”.\n• Cuestionó a sectores del poder económico y político (\"círculo rojo\") que, según él, se resisten al programa oficial, gobernando para 47.5 millones de argentinos.\n• Comparó su gestión con la de Mauricio Macri, señalando que su gobierno logró un ajuste fiscal significativo en poco tiempo, a diferencia del endeudamiento anterior.\n\n💡 **¿Por qué importa?**\n• La política cambiaria impacta directamente en el poder adquisitivo, los precios y la estabilidad económica de todos los argentinos.\n• La promesa de un \"tipo de cambio libre\" y la erradicación de la inflación marcan el rumbo económico a largo plazo del gobierno de Milei.",
+      "cantidad_noticias": 2,
+      "noticias": [
         {
           "titulo": "Javier Milei defendió su política cambiaria y afirmó que quedó \"atrás el riesgo kuka\"",
           "link": "https://www.minutouno.com/politica/javier-milei-defendio-su-cambiaria-y-afirmo-que-quedo-atras-el-riesgo-kuka-n6220597",
@@ -559,38 +510,16 @@
         },
         {
           "titulo": "La definición de Milei sobre el esquema de bandas del dólar: \"Iremos hacia un tipo de cambio libre\"",
-          "link": "https://www.iprofesional.com/economia/443310-la-definicion-de-javier-milei-sobre-el-dolar-iremos-hacia-un-tipo-de-cambio-libre",
+          "link": "https://www.iprofesional.com/index.php/economia/443310-la-definicion-de-javier-milei-sobre-el-dolar-iremos-hacia-un-tipo-de-cambio-libre",
           "fuente": "iProfesional",
           "fecha": "2025-12-03 20:59:00"
-        },
-        {
-          "titulo": "Para Milei, el Congreso ya no \nserá un territorio hostil, pero necesitará acuerdos y consensos",
-          "link": "https://www.clarin.com/politica/milei-congreso-territorio-hostil-necesitara-acuerdos-consensos_0_l5vABT1o4v.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 20:53:20"
-        },
-        {
-          "titulo": "Javier Milei y su reelección: \"Si no resuelvo los problemas estaría muy bien que no me renueven el contrato\"",
-          "link": "https://www.clarin.com/politica/javier-milei-reeleccion-resuelvo-problemas-bien-renueven-contrato_0_VRiF7SUV6F.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-03 20:21:27"
-        },
-        {
-          "titulo": "Claudia Sheinbaum y una picante crítica a Javier Milei por el préstamo con EEUU",
-          "link": "https://www.ambito.com/politica/claudia-sheinbaum-y-una-picante-critica-javier-milei-el-prestamo-eeuu-n6220418",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-03 14:42:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "iProfesional",
-        "Ámbito Financiero",
-        "La Nación",
-        "Perfil",
         "Minuto1",
-        "Clarín"
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
