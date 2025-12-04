@@ -1,151 +1,113 @@
 {
   "fecha": "2025-12-04",
-  "fecha_generacion": "2025-12-04T18:28:35.578509",
+  "fecha_generacion": "2025-12-04T21:21:07.166525",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "dolar_y_euro:_20251204",
-      "tema": "Dólar y Euro: cotizaciones 4 de diciembre",
-      "tema_normalizado": "dolar y euro: cotizaciones 4 de diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El 4 de diciembre, el dólar oficial y el dólar blue mostraron estabilidad o leves bajas en Argentina, consolidando una \"pax cambiaria\" al inicio del último mes del año.\n• El ministro de Economía, Luis Caputo, informó sobre negociaciones con bancos internacionales para obtener un préstamo de USD 6.000 a 7.000 millones.\n• También se dieron a conocer las cotizaciones del Euro, tanto en el mercado formal como en el informal.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (Banco Nación, venta):** Cerró en $1.470, un mínimo desde el 25 de noviembre.\n• **Dólar Blue (venta):** Cotizó en $1.430, con algunos reportes de cierre en $1.410; fue el precio más bajo desde el 21 de noviembre.\n• **Euro Oficial (BNA, venta):** $1.740.\n• **Euro Blue (venta):** $1.749,75.\n• **Dólar MEP (venta):** Se ubicó en $1.464,72.\n• **Dólar CCL (venta):** $1.507,86.\n• **Dólar Tarjeta (venta):** Aproximadamente $1.917,50.\n• **Préstamo en Negociación:** USD 6.000 a 7.000 millones (Luis Caputo).\n• **Riesgo País (JP Morgan):** 639,00 puntos básicos.\n• **Inflación de Octubre 2025 (INDEC):** 2,3%.\n\n⚡ **Desarrollo:**\n• La acumulación de reservas internacionales es un objetivo central para la política económica argentina de cara a 2026, según análisis de JP Morgan y el FMI.\n• Luis Caputo indicó que los vencimientos de deuda del primer trimestre de 2026 podrían afrontarse incluso con recursos propios, mostrando confianza en la situación.\n• El mercado anticipa que las bandas cambiarias del Banco Central (BCRA) se mantendrían estables al menos hasta marzo de 2026, con una depreciación implícita mensual del 2,1%.\n• La liquidación de exportaciones de granos y oleaginosas en noviembre fue de u$s760 millones, reflejando una caída significativa del 62% interanual.\n• Las tasas de interés en pesos han disminuido por debajo del 2% mensual, lo que resulta en rendimientos reales negativos frente a la inflación del 2,3% en octubre de 2025.\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar es crucial para la previsibilidad económica, la lucha contra la inflación y la protección del poder adquisitivo de los ahorristas.\n• La búsqueda de reservas y préstamos internacionales, junto con la dinámica de exportaciones y tasas, son indicadores clave sobre la salud financiera del país a mediano plazo.",
-      "cantidad_noticias": 9,
+      "tema_id": "cotizacion_dolar_argentina_20251204",
+      "tema": "Cotización Dólar Argentina 4 Diciembre",
+      "tema_normalizado": "cotizacion dolar argentina 4 diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial minorista cerró el jueves 4 de diciembre en $1470 para la venta, mostrando una ligera baja.\n• El dólar blue, por su parte, cedió y se negoció a $1430 para la venta, situándose por debajo del oficial por décima jornada consecutiva.\n• Esta tendencia a la baja ocurre en un contexto de \"paz cambiaria\" que se espera hasta fin de año, aunque con advertencias para enero.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (venta Banco Nación):** $1470\n• **Dólar Blue (venta):** $1430\n• **Dólar MEP (venta):** $1471,03\n• **Dólar Contado con Liquidación (CCL) (venta):** $1508,59\n• **Dólar Tarjeta (venta):** $1911\n• **Dólar Cripto (venta):** $1502\n• **Riesgo País:** 639 puntos básicos\n• **BCRA:** Aprobó nueva metodología para el Tipo de Cambio de Referencia (TCR) a partir del 1° de enero de 2026.\n• **Deuda Provincial:** La provincia de Santa Fe colocó un bono en el mercado por USD 800 millones.\n\n⚡ **Desarrollo:**\n• Diciembre es un mes atípico en Argentina, con una mayor demanda de pesos por aguinaldos, impuestos y compras de fin de año, lo que históricamente reduce la presión sobre el dólar en la primera quincena.\n• La oferta de divisas se ve favorecida por una ola de emisiones de deuda en el exterior por parte de provincias y compañías, además del inicio de las liquidaciones de una cosecha récord de trigo.\n• Especialistas auguran un fin de año sin grandes turbulencias cambiarias, gracias a la disipación de la incertidumbre electoral y tasas de interés en pesos que, aunque a la baja, siguen siendo atractivas.\n• Sin embargo, hay alertas sobre la \"trampa del verano\": a partir de mediados de enero, la demanda de pesos suele caer estacionalmente, y se aproximan importantes vencimientos de deuda, lo que podría generar nuevas presiones.\n• El Banco Central (BCRA) aprobó una nueva metodología para calcular el Tipo de Cambio de Referencia (dólar mayorista) a partir de enero de 2026. Este nuevo esquema se basará en promedios ponderados de operaciones reales y no en encuestas, buscando mayor transparencia.\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar a fin de año es crucial para la economía argentina y las expectativas post-electorales, brindando un período de \"paz cambiaria\".\n• Las advertencias sobre la \"trampa del verano\" señalan desafíos inminentes para el gobierno en la gestión económica y la acumulación de reservas.\n• El cambio en el cálculo del dólar oficial por parte del BCRA es un paso hacia una mayor transparencia y objetividad en el mercado cambiario, alineándose con estándares internacionales.",
+      "cantidad_noticias": 15,
       "noticias": [
         {
-          "titulo": "Dólar hoy en vivo: en el Banco Nación bajó a $1.470 para la venta",
+          "titulo": "Qué pasará con el dólar hasta fin de año, según los especialistas",
+          "link": "https://www.lanacion.com.ar/economia/dolar/que-pasara-con-el-dolar-hasta-fin-de-ano-segun-los-especialistas-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 18:00:49"
+        },
+        {
+          "titulo": "Dólar hoy en vivo: en el Banco Nación bajó a $1.470 para la venta y el blue cedió a $1.430",
           "link": "https://www.infobae.com/economia/2025/12/04/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-jueves-4-de-diciembre/",
           "fuente": "Infobae",
-          "fecha": "2025-12-04 15:16:08"
+          "fecha": "2025-12-04 17:57:15"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 4 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-4-diciembre-n6220581",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 17:55:00"
+        },
+        {
+          "titulo": "A cuánto cotizó el dólar este jueves 4 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-4-de-diciembre-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 17:36:20"
+        },
+        {
+          "titulo": "El BCRA aprobó una nueva metodología para el cálculo del dólar oficial",
+          "link": "https://www.ambito.com/finanzas/el-bcraaprobo-una-nueva-metodologia-el-calculo-del-dolar-oficial-n6220947",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:36:00"
+        },
+        {
+          "titulo": "El BCRA cambia la forma de calcular el dólar oficial: por qué y cómo será a partir del 2026",
+          "link": "https://www.iprofesional.com/economia/443399-el-bcra-cambia-la-forma-de-calcular-el-dolar-oficial-por-que-y-como-sera-desde-el-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 17:25:00"
+        },
+        {
+          "titulo": "El dólar blue volvió a retroceder y por décima jornada consecutiva cerró debajo del oficial",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-volvio-retroceder-y-decima-jornada-consecutiva-cerro-debajo-del-oficial-n6220932",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:24:00"
+        },
+        {
+          "titulo": "El dólar cedió a $ 1.470 y los bonos y acciones combinan alzas y bajas",
+          "link": "https://www.clarin.com/economia/dolar-cedio-1470-bonos-acciones-combinan-alzas-bajas_0_2FssECUkt7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 17:16:35"
+        },
+        {
+          "titulo": "El dólar oficial aceleró su dinámica bajista y cerró en mínimos en dos semanas",
+          "link": "https://www.ambito.com/finanzas/dolar-prima-la-calma-pero-la-baja-tasas-abre-dudas-un-eventual-regreso-las-tensiones-cambiarias-n6220639",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:03:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-4-diciembre-n6220599",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 16:50:00"
+        },
+        {
+          "titulo": "¿El dólar en alerta máxima?: las señales que adelantan si se viene otro salto cambiario",
+          "link": "https://www.iprofesional.com/finanzas/443341-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:32:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-4-diciembre-2025",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 16:25:00"
+        },
+        {
+          "titulo": "Un factor puede recalentar la paz cambiaria: la City alerta por la \"trampa del verano\" para el dólar",
+          "link": "https://www.iprofesional.com/economia/443207-cual-es-trampa-verano-para-dolar-que-preocupa-al-mercado",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:00:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-4-diciembre-n6220600",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 15:48:00"
         },
         {
           "titulo": "A cuánto cerró el dólar blue este jueves 4 de diciembre del 2025",
           "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-jueves-4-de-diciembre-del-2025.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-04 15:00:00"
-        },
-        {
-          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este jueves 4 de diciembre",
-          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-jueves-4-de-diciembre-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 14:53:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-4-diciembre-2025",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 14:53:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 4 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-4-diciembre-n6220581",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 14:50:00"
-        },
-        {
-          "titulo": "El dólar oficial vuelve a caer y toca mínimos en una semana mientras los financieros acompañan la tendencia",
-          "link": "https://www.ambito.com/finanzas/dolar-prima-la-calma-pero-la-baja-tasas-abre-dudas-un-eventual-regreso-las-tensiones-cambiarias-n6220639",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 13:56:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-4-diciembre-n6220600",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 12:42:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-4-diciembre-n6220599",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 12:42:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-4-diciembre-n6220601",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 11:30:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
+        "iProfesional",
         "Perfil",
         "Infobae",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "causa_andis:_investigacion_20251204",
-      "tema": "Causa ANDIS: investigación audios Spagnuolo",
-      "tema_normalizado": "causa andis: investigacion audios spagnuolo",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara Federal ordenó investigar a fondo el origen y la veracidad de unos audios clave en la causa ANDIS.\n• Estos audios son atribuidos al exdirector de la Agencia Nacional de Discapacidad (ANDIS), Diego Spagnuolo, y describen un supuesto sistema de coimas dentro del organismo.\n• Esta decisión revoca un fallo anterior del juez Sebastián Casanello que había rechazado anular la causa por estas grabaciones.\n\n🔍 **Datos clave:**\n• **Organismo implicado:** Agencia Nacional de Discapacidad (ANDIS).\n• **Personaje central:** Diego Spagnuolo, exdirector de ANDIS.\n• **Juez de primera instancia:** Sebastián Casanello.\n• **Cámara Federal (Sala II):** Jueces Martín Irurzun y Roberto Boico (mayoría), Eduardo Farah (disidencia).\n• **Defensas que pidieron la nulidad:** Familia Kovalivker (dueña de la droguería Suizo Argentina) y Diego Spagnuolo.\n• **Fiscal a cargo:** Franco Picardi.\n\n⚡ **Desarrollo:**\n• La causa se inició por denuncias basadas en audios periodísticos donde se escucharía a Spagnuolo detallar hechos de corrupción en ANDIS.\n• Las defensas cuestionaron la validez de los audios, alegando que podrían ser falsos, adulterados, editados o producto de inteligencia artificial, y que fueron incorporados sin peritajes ni cadena de custodia.\n• Los jueces Irurzun y Boico de la Cámara consideraron que la incertidumbre sobre el origen y autenticidad de los audios impide rechazar la nulidad sin una investigación previa.\n• Ordenaron al juez Casanello identificar el origen de las grabaciones, analizar su veracidad y también buscar otras pruebas que sustenten la causa, más allá de los audios.\n• El juez Eduardo Farah votó en disidencia, sosteniendo que el pedido de nulidad se basa en \"meras hipótesis\" y que el contenido de los audios, junto a otras pruebas, justifica la investigación.\n• El fiscal Picardi ya había solicitado la indagatoria de 15 personas, basándose en allanamientos e intervenciones telefónicas, y no asignó valor probatorio directo a los audios cuestionados.\n• La defensa de Spagnuolo presentó una pericia privada desde España que, según se informa, detectó \"trazas\" que sugieren manipulación en los audios.\n\n💡 **¿Por qué importa?**\n• La decisión de la Cámara Federal es clave para la continuidad y validez de una investigación por presunta corrupción en un organismo público.\n• El esclarecimiento del origen y la autenticidad de los audios puede determinar si la causa avanza con pruebas sólidas o si enfrenta una potencial anulación de lo actuado.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Causa Andis: la Cámara Federal ordenó investigar el origen y la veracidad de los audios adjudicados a Spagnuolo",
-          "link": "https://www.lanacion.com.ar/politica/causa-andis-la-camara-federal-ordeno-investigar-el-origen-y-la-veracidad-de-los-audios-adjudicados-a-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 15:13:22"
-        },
-        {
-          "titulo": "Caso ANDIS: la Cámara Federal ordenó investigar el origen de los audios de Diego Spagnuolo",
-          "link": "https://www.minutouno.com/politica/caso-andis-la-camara-federal-ordeno-investigar-el-origen-los-audios-diego-spagnuolo-n6220881",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 15:09:00"
-        },
-        {
-          "titulo": "ANDIS: la Cámara Federal ordenó investigar el origen de los audios de Diego Spagnuolo",
-          "link": "https://www.ambito.com/politica/andis-la-camara-federal-ordeno-investigar-el-origen-los-audios-diego-spagnuolo-n6220853",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 14:24:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "cristina_kirchner:_apelacion_20251204",
-      "tema": "Cristina Kirchner: apelación restricciones propiedades",
-      "tema_normalizado": "cristina kirchner: apelacion restricciones propiedades",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Cristina Kirchner, junto a sus hijos Máximo y Florencia, apeló dos decisiones judiciales clave.\n*   Rechazaron las nuevas restricciones impuestas al régimen de visitas en su domicilio y el avance sobre propiedades vinculadas a la causa Vialidad.\n\n🔍 **Datos clave:**\n*   **Juez a cargo:** Jorge Gorini, del Tribunal Oral Federal 2 (TOF 2).\n*   **Causa principal:** Vialidad, con condena a Cristina Kirchner por administración fraudulenta en perjuicio del Estado.\n*   **Monto del decomiso:** 684.990.350.139,86 pesos (aproximadamente 685.000 millones de pesos).\n*   **Propiedades a ejecutar:** Una veintena, resultado del decomiso a los condenados en la causa.\n*   **Domicilio de arresto:** Departamento de la calle San José 1111, donde cumple arresto domiciliario.\n*   **Restricciones de visitas:** Máximo 2 horas, hasta 2 veces por semana, no más de 3 personas por ocasión.\n\n⚡ **Desarrollo:**\n*   Cristina Kirchner cumple arresto domiciliario en su departamento de San José 1111, tras ser condenada a seis años de cárcel en la causa Vialidad.\n*   El juez Jorge Gorini impuso nuevas restricciones a sus visitas, limitándolas a dos horas, dos veces por semana y con un máximo de tres personas por encuentro.\n*   Esta medida se tomó después de una reunión de la expresidenta con nueve economistas, la cual fue considerada por el Tribunal como una \"provocación política\" y falta de prudencia.\n*   En paralelo, la familia Kirchner, incluyendo a Cristina, Máximo y Florencia, presentó dos escritos para apelar la decisión del TOF 2 de ejecutar una veintena de propiedades.\n*   Dicha ejecución se enmarca en el decomiso fijado en la causa Vialidad, buscando cubrir la elevada suma cercana a los 685.000 millones de pesos de la pena económica.\n*   Las propiedades ejecutadas a los condenados en este caso pasarán a la órbita de la Corte Suprema de Justicia.\n*   La defensa de los Kirchner espera que la Cámara Federal de Casación Penal revierta estas decisiones, con el objetivo de flexibilizar el régimen de visitas y frenar el avance sobre los bienes.\n\n💡 **¿Por qué importa?**\n*   Estas apelaciones son un paso crucial en el proceso judicial posterior a la condena de Cristina Kirchner, impactando directamente en su régimen de cumplimiento de pena y su patrimonio.\n*   El caso subraya la continua tensión entre el Poder Judicial y la expresidenta, respecto a la ejecución de las sentencias y las medidas de decomiso.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Cristina Kirchner apeló las restricciones impuestas al régimen de visitas en su casa",
-          "link": "https://www.minutouno.com/politica/cristina-kirchner-apelo-las-restricciones-impuestas-al-regimen-visitas-su-casa-n6220877",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 15:05:00"
-        },
-        {
-          "titulo": "Cristina Kirchner apeló las restricciones impuestas al régimen de visitas y el avance sobre propiedades de su familia",
-          "link": "https://www.ambito.com/politica/cristina-kirchner-apelo-las-restricciones-impuestas-al-regimen-visitas-y-el-avance-propiedades-su-familia-n6220844",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 14:34:20"
-        },
-        {
-          "titulo": "Cristina Kirchner apeló la ejecución de 20 propiedades en la causa Vialidad y no quiere restricciones a las visitas en San José 1111",
-          "link": "https://www.clarin.com/politica/cristina-kirchner-apelo-ejecucion-20-propiedades-causa-vialidad-quiere-restricciones-visitas-san-jose-1111_0_mDmXQU3b3H.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 13:32:42"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
+        "La Nación",
         "Clarín",
         "Ámbito Financiero",
         "Minuto1"
@@ -156,51 +118,66 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "uca:_informe_pobreza_20251204",
-      "tema": "UCA: informe pobreza tercer trimestre",
-      "tema_normalizado": "uca: informe pobreza tercer trimestre",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Observatorio de la Deuda Social Argentina (ODSA) de la Universidad Católica Argentina (UCA) publicó su informe sobre la pobreza en el tercer trimestre.\n• El estudio indica una baja en los índices de pobreza e indigencia, pero advierte sobre el impacto del estrés cotidiano y posibles problemas metodológicos en la medición.\n\n🔍 **Datos clave:**\n• **Pobreza (3er Trimestre 2025):** 36,3%\n• **Indigencia (3er Trimestre 2025):** 6,8%\n• **Caída de pobreza:** 9,3 puntos porcentuales respecto al 3er trimestre de 2024 (que fue 45,6%).\n• **Nivel de pobreza actual:** El más bajo registrado desde 2018.\n• **Título del informe:** \"Estrés y bienestar en una Argentina en transición\".\n• **Organismo responsable:** UCA - Observatorio de la Deuda Social Argentina (ODSA).\n• **Director del Observatorio:** Agustín Salvia.\n• **Presentación del informe:** 4 de diciembre.\n\n⚡ **Desarrollo:**\n• La UCA advierte que gran parte de la reducción estadística de la pobreza podría deberse a cambios metodológicos en la captación de ingresos de la Encuesta Permanente de Hogares (EPH).\n• Estima que hasta tres cuartas partes de la mejora se explicarían por esta corrección, y que sin ella, la pobreza real corregida rondaría el 35%, con una baja de solo 2,1 puntos porcentuales.\n• La Canasta Básica Total (CBT) utilizada para medir la pobreza se basa en consumos de 2003-2004, lo que subestima el peso actual de servicios como la energía.\n• Pese a la estabilización macroeconómica (baja de inflación, orden fiscal), el informe subraya que la vida cotidiana sigue marcada por ingresos insuficientes y menor calidad laboral.\n• Persiste un alto nivel de \"estrés de la vida diaria\", afectando el bienestar subjetivo de millones de hogares.\n• La pobreza es significativamente mayor en hogares con niños (48,8%) que en aquellos sin ellos (10,8%).\n• Se destaca la cronicidad de la pobreza, ya que el 27,6% de la población se mantuvo en esa situación entre 2024 y 2025.\n• La UCA señala que el aumento de la ayuda estatal (como la AUH) fue crucial para que las cifras de pobreza e indigencia no fueran aún más elevadas.\n\n💡 **¿Por qué importa?**\n• El informe de la UCA ofrece una mirada crítica a las cifras de pobreza, sugiriendo que la mejora no es tan profunda como los números oficiales podrían indicar.\n• Resalta que la estabilización macroeconómica no se traduce automáticamente en una mejora real del bienestar, la calidad laboral o la reducción del estrés para gran parte de la población.",
-      "cantidad_noticias": 5,
+      "tema_id": "politicas_migratorias_ee.uu._20251204",
+      "tema": "Políticas Migratorias EE.UU. y Trump",
+      "tema_normalizado": "politicas migratorias ee.uu. y trump",
+      "resumen": "📌 **¿Qué está pasando?**\n• La administración Trump ha implementado políticas migratorias estrictas, intensificando operativos del ICE y generando un clima de temor entre la población migrante en EE.UU.\n• Estas medidas han resultado en detenciones masivas, denuncias de violaciones de derechos humanos en centros de detención y la autodeportación de familias.\n• Además, se observan recortes en programas de asistencia federal y decisiones que afectan a miles de residentes, incluso ciudadanos estadounidenses, por extensión de estas políticas.\n\n🔍 **Datos clave:**\n• **14.500:** Estimación de residentes en Los Ángeles que podrían perder vivienda subsidiada en 2026 por recortes federales.\n• **200+:** Migrantes venezolanos que EE.UU. deporta semanalmente a Venezuela.\n• **92.392:** Personas arrestadas por ICE entre enero y octubre de 2025 en las ciudades sede del Mundial 2026.\n• **25:** Normas y leyes estatales anuladas en Florida bajo la emergencia migratoria extendida por DeSantis.\n• **5:** Meses que estuvo detenida una migrante guatemalteca por el ICE en Los Ángeles (hasta noviembre de 2025).\n• **Diciembre 2025:** Fecha de la detención errónea de una ciudadana estadounidense por agentes de ICE en Florida.\n• **Ron DeSantis:** Gobernador de Florida que mantiene una emergencia migratoria con facultades extraordinarias.\n\n⚡ **Desarrollo:**\n• Las políticas de Trump se centran en una postura de \"mano dura\" contra la inmigración, justificada por la seguridad nacional y aumentando los operativos del Servicio de Inmigración y Control de Aduanas (ICE).\n• Se han documentado graves violaciones de derechos humanos en centros de detención como \"Alligator Alcatraz\" en Florida, donde migrantes sufrieron castigos arbitrarios, privación de agua y negligencia médica.\n• Operativos del ICE han llevado a la detención de ciudadanos estadounidenses por error, evidenciando la agresividad y falta de precisión en algunas redadas.\n• El temor a la deportación ha impulsado a familias, incluso aquellas con hijos ciudadanos estadounidenses, a la \"autodeportación\" para evitar la separación forzada y el trauma.\n• La administración ha manifestado que no descarta continuar con las redadas y detenciones, incluso durante eventos internacionales como el Mundial de Fútbol 2026.\n• Los recortes federales impulsados por la administración Trump no solo afectan a migrantes, sino también amenazan programas sociales clave, como la vivienda subvencionada en ciudades como Los Ángeles.\n• El gobernador de Florida, Ron DeSantis, ha extendido una emergencia migratoria, otorgando facultades extraordinarias y anulando normas estatales, lo que ha permitido operar centros de detención con supervisión limitada.\n• Se ha reanudado la deportación masiva de venezolanos, con más de 200 personas repatriadas semanalmente, en un contexto de tensiones políticas entre EE.UU. y Venezuela.\n\n💡 **¿Por qué importa?**\n• Las políticas migratorias bajo la administración Trump tienen un impacto profundo y multifacético en la vida de migrantes y ciudadanos, afectando derechos humanos, cohesión familiar y acceso a servicios básicos.\n• Reflejan una estrategia que prioriza la seguridad y el control fronterizo por encima de consideraciones humanitarias y sociales, generando un clima de miedo y controversia a nivel nacional e internacional.",
+      "cantidad_noticias": 8,
       "noticias": [
         {
-          "titulo": "Según la UCA, la pobreza bajó al 36,3% en el tercer trimestre, pero alerta por el nivel de estrés en la vida cotidiana",
-          "link": "https://www.ambito.com/economia/la-pobreza-al-363-el-tercer-trimestre-segun-la-uca-n6220810",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 14:55:00"
-        },
-        {
-          "titulo": "La pobreza bajó al 36,3% en el tercer trimestre, según la UCA",
-          "link": "https://www.minutouno.com/economia/la-pobreza-al-363-el-tercer-trimestre-segun-la-uca-n6220842",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 14:24:00"
-        },
-        {
-          "titulo": "La pobreza bajó a 36,3% en el tercer trimestre según la UCA, que señaló errores en la medición del INDEC",
-          "link": "https://www.perfil.com/noticias/economia/la-pobreza-llego-al-363-y-cayo-mas-de-9-en-el-tercer-trimestre-segun-el-observatorio-de-la-deuda-social-de-la-uca.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 14:16:00"
-        },
-        {
-          "titulo": "Observatorio Social de la UCA: mejora la macro, pero el consumo cae y hay baja creación de empleo",
-          "link": "https://www.clarin.com/economia/observatorio-social-uca-mejora-macro-consumo-cae-baja-creacion-empleo_0_SPXp2PL3Ww.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 13:04:27"
-        },
-        {
-          "titulo": "Según la UCA, la pobreza cayó al 36,3% en el tercer trimestre y se ubica en el nivel más bajo desde 2018",
-          "link": "https://www.lanacion.com.ar/economia/segun-la-uca-la-pobreza-cayo-al-363-y-se-ubica-en-el-nivel-mas-bajo-desde-2018-nid04122025/",
+          "titulo": "El drama vivido por una ciudadana americana con el ICE en Florida: “Por favor, ayúdenme”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/florida/el-drama-vivido-por-una-ciudadana-americana-con-el-ice-en-florida-por-favor-ayudenme-nid04122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 13:02:44"
+          "fecha": "2025-12-04 17:31:52"
+        },
+        {
+          "titulo": "Nuevas denuncias de graves violaciones de derechos humanos en el centro migratorio “Alligator Alcatraz” en Florida",
+          "link": "https://www.infobae.com/estados-unidos/2025/12/04/nuevas-denuncias-de-graves-violaciones-de-derechos-humanos-en-el-centro-migratorio-alligator-alcatraz-en-florida/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-04 17:16:02"
+        },
+        {
+          "titulo": "Adiós al sueño americano: son colombianos, les negaron el asilo y ahora se autodeportaron para evitar al ICE",
+          "link": "https://www.lanacion.com.ar/estados-unidos/arizona/adios-al-sueno-americano-son-colombianos-les-negaron-el-asilo-y-ahora-se-autodeportaron-para-evitar-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 17:05:50"
+        },
+        {
+          "titulo": "Crece el temor entre los migrantes: Trump no descarta avanzar con redadas y detenciones durante el Mundial en EE.UU.",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/crece-el-temor-entre-los-migrantes-trump-no-descarta-avanzar-con-redadas-y-detenciones-durante-el-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 16:40:52"
+        },
+        {
+          "titulo": "Pasó cinco meses detenida por el ICE en Los Ángeles y tuvo un gesto inesperado al ser liberada bajo fianza",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/paso-5-meses-detenida-por-el-ice-en-los-angeles-y-al-ser-liberada-bajo-fianza-tuvo-un-gesto-nid30112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 16:28:06"
+        },
+        {
+          "titulo": "El país que recibirá más de 200 migrantes deportados de Estados Unidos cada semana",
+          "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-pais-que-recibira-mas-de-200-migrantes-deportados-de-estados-unidos-cada-semana-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 15:44:40"
+        },
+        {
+          "titulo": "Crisis de vivienda en Los Ángeles: la decisión de Trump que podría dejar a miles de residentes sin casa",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/crisis-de-vivienda-en-los-angeles-la-decision-de-trump-que-podria-dejar-a-miles-de-residentes-sin-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 15:33:00"
+        },
+        {
+          "titulo": "Malas noticias para migrantes en Florida: Ron DeSantis firmó otra emergencia por “extranjeros ilegales”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/florida/malas-noticias-para-migrantes-en-florida-ron-desantis-firmo-otra-emergencia-por-extranjeros-ilegales-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 15:18:09"
         }
       ],
-      "categoria_principal": "economia",
+      "categoria_principal": "internacional",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "Clarín",
-        "Perfil",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
+        "La Nación",
+        "Infobae"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -208,12 +185,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "fmi:_recomendaciones_acumulacion_20251204",
-      "tema": "FMI: recomendaciones acumulación reservas",
-      "tema_normalizado": "fmi: recomendaciones acumulacion reservas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Fondo Monetario Internacional (FMI) ha reiterado a Argentina la necesidad de acumular reservas en dólares de manera \"más ambiciosa\".\n*   El organismo advierte que cumplir la meta de reservas para fin de año será \"un desafío\" y subraya la importancia de un marco monetario y cambiario coherente.\n*   El FMI busca que el gobierno argentino aproveche la \"ventana de oportunidad\" para fortalecer la estabilidad macroeconómica y facilitar el acceso a los mercados internacionales.\n\n🔍 **Datos clave:**\n*   **Meta FMI reservas (fin de año):** Balance negativo de US$3,300 millones (ajustada en agosto).\n*   **Reservas actuales (estimado BCRA):** Aproximadamente US$16,600 millones negativas (según metodología FMI).\n*   **Swap con EE.UU.:** US$2,500 millones (parte de un acuerdo mayor), cuya contabilización por el FMI será evaluada.\n*   **Misión FMI:** Una misión técnica visitará el país este mes (o principios del próximo) para preparar la auditoría de enero.\n*   **Proyección PBI 2025 (FMI):** Crecimiento del 4%.\n*   **Ministro de Economía:** Luis Caputo.\n*   **Portavoz del FMI:** Julie Kozack.\n\n⚡ **Desarrollo:**\n*   El FMI argumenta que la acumulación de reservas es crucial para que Argentina pueda afrontar eventuales shocks externos y recuperar la confianza de los mercados de capitales.\n*   Julie Kozack, portavoz del FMI, destacó los avances del gobierno en ajuste fiscal e inflación, pero reiteró la importancia de las reservas como un reaseguro fundamental.\n*   Aunque el presidente Javier Milei y el ministro Luis Caputo han señalado que la acumulación de reservas no es su prioridad *inmediata*, Caputo mencionó la posibilidad de comprar entre US$7,000 y US$21,000 millones el próximo año.\n*   El FMI también impulsa reformas adicionales, como un sistema tributario más equitativo, recortes del gasto público (incluidos subsidios), desregulación y flexibilidad en los mercados laborales.\n*   J.P. Morgan, en línea con el FMI, considera que fortalecer las reservas es clave para evitar tensiones cambiarias y proyecta el regreso de Argentina al mercado de deuda en 2026.\n*   El FMI evita especular sobre la posibilidad de otorgar un \"waiver\" (dispensa) si Argentina no cumple la meta de reservas, indicando que se evaluará en las discusiones para la próxima revisión.\n\n💡 **¿Por qué importa?**\n*   La acumulación de reservas es un pilar fundamental para la estabilidad económica de Argentina, su capacidad para enfrentar crisis y su credibilidad ante inversores globales.\n*   El cumplimiento de estas recomendaciones del FMI es vital para el sostenimiento del acuerdo vigente y el acceso a futuro financiamiento internacional, impactando directamente en la economía del país.",
-      "cantidad_noticias": 7,
+      "tema_id": "fmi_y_acumulacion_20251204",
+      "tema": "FMI y Acumulación Reservas Argentina",
+      "tema_normalizado": "fmi y acumulacion reservas argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Tanto el Fondo Monetario Internacional (FMI) como el banco JP Morgan coinciden en que Argentina debe priorizar urgentemente la acumulación de reservas internacionales.\n*   Ambos organismos instan al gobierno a fortalecer sus defensas económicas para mitigar shocks cambiarios y recuperar el acceso a los mercados de deuda.\n*   El FMI advierte que alcanzar la meta de reservas netas para fin de año es un \"desafío\", pero recalca su importancia \"esencial\" para la estabilidad.\n\n🔍 **Datos clave:**\n*   **Reservas netas actuales:** Aproximadamente USD -16.000 a -16.600 millones (muy por debajo de los compromisos).\n*   **Meta FMI (flexibilizada para fin de año):** Estaba en USD -3.300 millones o -2.600 millones.\n*   **Año de prioridad para acumulación:** 2026 (según JP Morgan y el Gobierno).\n*   **Proyección crecimiento PBI 2025 (FMI):** 4% o 4.5%.\n*   **Swap con EE.UU.:** USD 2.500 millones (su inclusión en el cálculo de reservas netas será evaluada por el FMI).\n*   **Elecciones generales:** 2027 (momento clave para tener reservas sólidas, según JP Morgan).\n\n⚡ **Desarrollo:**\n*   El FMI reitera su pedido de implementar un marco monetario y cambiario \"coherente y sólido\" que permita una acumulación de reservas \"más ambiciosa\".\n*   JP Morgan señala que reforzar las reservas en 2026 es una \"prioridad\" para el Gobierno de Javier Milei, clave para evitar tensiones cambiarias y fortalecer el país.\n*   El ministro de Economía, Luis Caputo, explicó que la estrategia para 2026 se basa en comprar dólares al aumentar la demanda de pesos y la profundidad del mercado cambiario, distinguiendo \"comprar\" de \"acumular\" por las deudas heredadas.\n*   La capacidad de acumular reservas dependerá significativamente de la posibilidad de Argentina de volver a emitir deuda en los mercados internacionales, lo que JP Morgan ve factible en la segunda mitad de 2026.\n*   El FMI destaca que las reservas actúan como reaseguro frente a shocks externos y son fundamentales para sostener la estabilidad macroeconómica ya lograda.\n*   El organismo insta a \"aprovechar la ventana de oportunidad\" actual para consolidar las reformas y el esquema económico que facilite la suma de divisas.\n*   Una misión técnica del FMI visitará el país para la evaluación preliminar del programa, incluyendo cómo se computan las reservas según su metodología.\n\n💡 **¿Por qué importa?**\n*   Las reservas internacionales son un pilar fundamental para la estabilidad económica, ya que brindan capacidad de respuesta ante crisis y son clave para la confianza de inversores.\n*   Su acumulación es indispensable para que Argentina pueda refinanciar su deuda externa, acceder a nuevos créditos y reducir su vulnerabilidad ante la volatilidad global.",
+      "cantidad_noticias": 4,
       "noticias": [
+        {
+          "titulo": "El JP Morgan señaló como “prioridad” que el Gobierno acumule reservas en 2026",
+          "link": "https://www.perfil.com/noticias/economia/el-jp-morgan-senalo-como-prioridad-para-el-2026-que-el-gobierno-acumule-reservas.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 14:05:02"
+        },
         {
           "titulo": "El FMI insiste en que el Gobierno debe acumular reservas \"para enfrentar eventuales shocks\"",
           "link": "https://www.perfil.com/noticias/economia/el-fmi-insiste-en-que-el-gobierno-debe-acumular-reservas-para-enfrentar-eventuales-shocks.phtml",
@@ -231,41 +214,223 @@
           "link": "https://www.iprofesional.com/economia/443375-ventana-de-oportunidad-el-fmi-volvio-a-exigir-mayor-ritmo-en-la-acumulacion-de-reservas",
           "fuente": "iProfesional",
           "fecha": "2025-12-04 13:50:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "Perfil",
+        "iProfesional",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "informe_uca:_niveles_20251204",
+      "tema": "Informe UCA: Niveles Pobreza Argentina",
+      "tema_normalizado": "informe uca: niveles pobreza argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Universidad Católica Argentina (UCA) informó una significativa caída en los niveles de pobreza e indigencia en el tercer trimestre de 2025.\n• Esta reducción marca un retroceso a los niveles de pobreza más bajos desde 2018, tras un fuerte deterioro registrado el año anterior.\n• Sin embargo, el informe advierte sobre la persistencia de la fragilidad social y cuestiona si esta mejora es estructural o meramente estadística.\n\n🔍 **Datos clave:**\n• **Pobreza (3er Trimestre 2025 UCA):** 36.3%.\n• **Indigencia (3er Trimestre 2025 UCA):** 6.8%.\n• **Pobreza (3er Trimestre 2024 UCA):** 45.6% (el valor más alto desde 2005).\n• **Indigencia (3er Trimestre 2024 UCA):** 11.2%.\n• **Nivel de pobreza más bajo desde:** 2018.\n• **Fecha de presentación del informe:** 4 de diciembre (refiriéndose a los datos del 3er trimestre de 2025).\n• **Comparación INDEC:** INDEC reportó 31.8% de pobreza y 6.9% de indigencia en el 2do trimestre de 2025.\n• **Coordinador ODSA-UCA:** Agustín Salvia.\n\n⚡ **Desarrollo:**\n• La mejora en los indicadores se atribuye a la estabilización inflacionaria y una recuperación parcial de los ingresos (laborales, transferencias) tras un difícil 2024.\n• A pesar de la baja, la UCA insiste en la \"cronicidad de la pobreza\", señalando que ni sus mediciones ni las del INDEC han registrado valores por debajo del 25% en lo que va del siglo.\n• El estudio describe una \"transición inestable\", con estrés económico y malestar subjetivo persistente en millones de hogares, sin un proceso de desarrollo estructural real.\n• La UCA advierte que parte de la reducción podría estar influida por un cambio metodológico en la captación de ingresos de la Encuesta Permanente de Hogares (EPH), sugiriendo que la caída real sería menor.\n• Se critica que las canastas básicas de medición (CBT y CBA) están desactualizadas (basadas en 2003-2004), lo que podría subestimar el costo de vida actual, especialmente el de los servicios.\n• La pobreza afecta de forma desproporcionada a los hogares con niños (48.8%), mientras que en los hogares sin niños es considerablemente menor (10.8%).\n• Indicadores complementarios como la inseguridad alimentaria (18.7% de hogares) y el deterioro del bienestar emocional también muestran niveles preocupantes, sobre todo en estratos vulnerables.\n\n💡 **¿Por qué importa?**\n• El informe muestra una luz de esperanza con la baja de la pobreza, pero al mismo tiempo subraya la fragilidad de esta recuperación y la persistencia de problemas estructurales profundos.\n• Es crucial revisar las metodologías de medición y desarrollar políticas públicas integrales para generar un cambio estructural duradero que mejore la calidad de vida de los sectores más vulnerables.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "La pobreza cayó al 36,3% y alcanzó su nivel más bajo desde 2018, según la UCA",
+          "link": "https://www.iprofesional.com/economia/443387-pobreza-cayo-al-36-3-por-cientoalcanzo-su-nivel-mas-bajo-desde-2018-segun-uca",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 15:06:00"
         },
         {
-          "titulo": "El FMI alertó que alcanzar la meta de reservas será \"un desafío\" y reclamó al Gobierno una acumulación \"más ambiciosa\"",
-          "link": "https://www.clarin.com/economia/fmi-alerto-alcanzar-meta-reservas-desafio-reclamo-gobierno-acumulacion-ambiciosa_0_56bKB2ep0f.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 13:09:33"
+          "titulo": "Según la UCA, la pobreza bajó al 36,3% y la indigencia al 6,8% en el tercer trimestre",
+          "link": "https://www.ambito.com/economia/la-pobreza-al-363-el-tercer-trimestre-segun-la-uca-n6220810",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 14:55:00"
         },
         {
-          "titulo": "El FMI dijo que alcanzar el objetivo de reservas para fin de año “será un desafío” y que el Gobierno debe aprovechar la “ventana de oportunidad”",
-          "link": "https://www.lanacion.com.ar/economia/el-fmi-insistio-en-que-el-gobierno-debe-aprovechar-la-ventana-de-oportunidad-para-acelerar-la-nid04122025/",
+          "titulo": "La pobreza bajó al 36,3% en el tercer trimestre, según la UCA",
+          "link": "https://www.minutouno.com/economia/la-pobreza-al-363-el-tercer-trimestre-segun-la-uca-n6220842",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 14:24:00"
+        },
+        {
+          "titulo": "La pobreza bajó a 36,3% en el tercer trimestre según la UCA, que señaló errores en la medición del INDEC",
+          "link": "https://www.perfil.com/noticias/economia/la-pobreza-llego-al-363-y-cayo-mas-de-9-en-el-tercer-trimestre-segun-el-observatorio-de-la-deuda-social-de-la-uca.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 14:16:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "Perfil",
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "elecciones_honduras_2025_20251204",
+      "tema": "Elecciones Honduras 2025 y Conteo Votos",
+      "tema_normalizado": "elecciones honduras 2025 y conteo votos",
+      "resumen": "📌 **¿Qué está pasando?**\n• Honduras se encuentra en una situación de incertidumbre tras sus elecciones presidenciales de 2025, caracterizadas por una contienda extremadamente cerrada.\n• El Consejo Nacional Electoral (CNE) aún no ha proclamado un ganador, mientras el conteo de votos avanza lentamente y está rodeado de acusaciones de irregularidades.\n• Los principales contendientes, Nasry Asfura y Salvador Nasralla, se disputan voto a voto la presidencia, con la delantera cambiando en varias ocasiones.\n\n🔍 **Datos clave:**\n• **Fecha de votación:** 30 de noviembre de 2025.\n• **Candidatos principales:** Nasry Asfura (Partido Nacional) y Salvador Nasralla (Partido Liberal).\n• **Resultados preliminares (86.10% escrutado):** Nasry Asfura lidera con 40.21% frente a Salvador Nasralla con 39.46%.\n• **Diferencia:** Asfura supera a Nasralla por más de 20.000 votos, en una competencia que se ha medido por pocos miles de sufragios.\n• **Plazo del CNE:** La autoridad electoral tiene hasta 30 días, desde la jornada de votaciones, para anunciar los resultados oficiales.\n• **Otros cargos electos:** Se votó por 3 designados presidenciales, 298 alcaldías, 128 diputados al parlamento local y 20 al Parlamento Centroamericano.\n• **Sistema electoral:** No hay segunda vuelta; gana el candidato con la mayoría simple de votos.\n\n⚡ **Desarrollo:**\n• El proceso de conteo de votos ha sido lento y se ha visto interrumpido por \"mantenimiento\" del sitio web y un \"apagón de pantalla\" en la madrugada del 4 de diciembre de 2025.\n• Salvador Nasralla denunció públicamente que un \"algoritmo cambió los datos\" a las 03:24 hs, lo que habría modificado los resultados en su contra.\n• Nasralla señaló un supuesto cambio de 1.081.000 votos que le favorecían y pidió investigar a la empresa responsable del portal de resultados preliminares.\n• La consejera presidenta del CNE, Ana Paola Hall, ha instado a la calma y paciencia, recordando que es necesario esperar el escrutinio especial para los resultados definitivos.\n• La contienda es seguida de cerca por los 935.000 hondureños migrantes en EE.UU., y Nasry Asfura cuenta con el respaldo de Donald Trump.\n\n💡 **¿Por qué importa?**\n• La demora en la proclamación del ganador y las denuncias de irregularidades pueden generar inestabilidad política y social en Honduras.\n• La transparencia y la legitimidad del conteo final son cruciales para la credibilidad del proceso democrático y la aceptación del próximo gobierno.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Elecciones en Honduras 2025 EN VIVO: Nasry Asfura supera a Salvador Nasralla por más de 20 mil votos con el 86% de actas escrutadas",
+          "link": "https://www.infobae.com/america/america-latina/2025/12/04/elecciones-en-honduras-2025-en-vivo/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-04 18:00:31"
+        },
+        {
+          "titulo": "Resultados de las elecciones en Honduras: cuándo se anuncia el ganador entre los dos candidatos que EE.UU. sigue de cerca",
+          "link": "https://www.lanacion.com.ar/estados-unidos/resultados-de-las-elecciones-en-honduras-cuando-se-anuncia-el-ganador-entre-los-dos-candidatos-que-nid02122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 13:00:15"
+          "fecha": "2025-12-04 16:50:12"
         },
         {
-          "titulo": "El FMI instó al Gobierno a aplicar un plan \"más ambicioso\" para la acumulación de reservas",
-          "link": "https://www.ambito.com/economia/el-fmi-insto-al-gobierno-un-plan-mas-ambicioso-la-acumulacion-reservas-n6220793",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 13:00:00"
+          "titulo": "Honduras: Salvador Nasralla denuncia un \"cambio de datos\" en el conteo de votos",
+          "link": "https://www.clarin.com/mundo/honduras-salvador-nasralla-denuncia-cambio-datos-conteo-votos_0_UJD6UNYw5H.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 13:45:04"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "caso_andis:_investigacion_20251204",
+      "tema": "Caso ANDIS: Investigación Audios Spagnuolo",
+      "tema_normalizado": "caso andis: investigacion audios spagnuolo",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Cámara Federal ordenó al juez Sebastián Casanello investigar a fondo el origen y la veracidad de grabaciones atribuidas a Diego Spagnuolo, exdirector de la Agencia Nacional de Discapacidad (ANDIS).\n• Estos audios, que dieron inicio a una causa por presuntas coimas en ANDIS, habían sido cuestionados por las defensas de los imputados.\n• La decisión judicial revoca un fallo previo de Casanello que había rechazado anular la causa, y exige esclarecer las dudas sobre las pruebas.\n\n🔍 **Datos clave:**\n• **Organismo implicado:** Agencia Nacional de Discapacidad (ANDIS).\n• **Exdirector involucrado:** Diego Spagnuolo.\n• **Juez de primera instancia:** Sebastián Casanello.\n• **Tribunal superior:** Sala II de la Cámara Federal (Comodoro Py).\n• **Jueces de la mayoría:** Martín Irurzun y Roberto Boico.\n• **Juez en disidencia:** Eduardo Farah.\n• **Imputados citados a indagatoria:** 15 personas.\n• **Abogado de Spagnuolo:** Mauricio D'Alessandro.\n\n⚡ **Desarrollo:**\n• La causa se inició por denuncias mediáticas basadas en audios donde Spagnuolo habría hablado de un esquema de corrupción y sobreprecios en ANDIS.\n• Las defensas, incluyendo a la familia Kovalivker (Droguería Suizo Argentina) y Spagnuolo, pidieron la nulidad de la causa.\n• Alegaron que los audios podrían ser falsos, manipulados, editados o generados con inteligencia artificial, sin una adecuada cadena de custodia.\n• El abogado D'Alessandro presentó una pericia privada desde España que sugeriría que la voz en las grabaciones no es la de Spagnuolo.\n• Inicialmente, el juez Casanello y el fiscal Franco Picardi rechazaron la nulidad. El fiscal sostuvo que los audios fueron un punto de partida, pero la investigación se basó en otras pruebas.\n• La mayoría de la Cámara (Irurzun y Boico) revocó esta decisión, señalando que la falta de certeza sobre el origen de los audios impide rechazar el pedido de nulidad sin más investigación.\n• Ordenaron a Casanello investigar exhaustivamente el origen y veracidad de las grabaciones, además de identificar todos los elementos probatorios que sostienen la causa independientemente de los audios.\n• El juez Eduardo Farah votó en disidencia, considerando que las dudas planteadas eran \"meras hipótesis\" y que el contenido de los audios, sumado a otras pruebas como allanamientos e intervenciones telefónicas, justificaba mantener la investigación.\n• Actualmente, 15 personas están citadas a indagatoria, incluyendo a Spagnuolo, su segundo Daniel Garbellini, y empresarios como Miguel Ángel Calvete, en el marco de una investigación con pruebas adicionales.\n\n💡 **¿Por qué importa?**\n• La resolución es fundamental para definir la validez de las pruebas digitales y el rumbo de una investigación de corrupción de alto perfil en un organismo estatal.\n• Establece un precedente sobre la necesidad judicial de verificar la autenticidad de grabaciones que originan una causa, asegurando la fiabilidad del proceso penal.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Causa Andis: la Cámara Federal ordenó investigar el origen y la veracidad de los audios adjudicados a Spagnuolo",
+          "link": "https://www.lanacion.com.ar/politica/causa-andis-la-camara-federal-ordeno-investigar-el-origen-y-la-veracidad-de-los-audios-adjudicados-a-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 15:13:22"
         },
         {
-          "titulo": "J.P. Morgan insiste en que el BCRA debe comprar reservas y apuesta al regreso al mercado en 2026",
-          "link": "https://www.ambito.com/finanzas/jp-morgan-insiste-que-el-bcra-debe-comprar-reservas-y-apuesta-al-regreso-al-mercado-2026-n6220753",
+          "titulo": "Caso ANDIS: la Cámara Federal ordenó investigar el origen de los audios de Diego Spagnuolo",
+          "link": "https://www.minutouno.com/politica/caso-andis-la-camara-federal-ordeno-investigar-el-origen-los-audios-diego-spagnuolo-n6220881",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 15:09:00"
+        },
+        {
+          "titulo": "ANDIS: la Cámara Federal ordenó investigar el origen y la veracidad de los audios de Spagnuolo",
+          "link": "https://www.clarin.com/politica/andis-camara-federal-ordeno-investigar-origen-veracidad-audios-spagnuolo_0_EHonIgRphe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 15:05:09"
+        },
+        {
+          "titulo": "ANDIS: la Cámara Federal ordenó investigar el origen de los audios de Diego Spagnuolo",
+          "link": "https://www.ambito.com/politica/andis-la-camara-federal-ordeno-investigar-el-origen-los-audios-diego-spagnuolo-n6220853",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 12:06:00"
+          "fecha": "2025-12-04 14:24:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "plazos_fijos_y_20251204",
+      "tema": "Plazos Fijos y Tasas Diciembre",
+      "tema_normalizado": "plazos fijos y tasas diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las tasas de interés de los plazos fijos tradicionales en Argentina han caído significativamente en diciembre.\n• Esta baja lleva a que la rentabilidad mensual de estos depósitos quede, en la mayoría de los casos, por debajo de la inflación proyectada.\n• A pesar de esto, la estabilidad del tipo de cambio del dólar en las últimas semanas hace que los plazos fijos sigan siendo competitivos frente a la divisa estadounidense.\n\n🔍 **Datos clave:**\n• **Tasa nominal anual (TNA) actual:** Mayoría de bancos entre 21% y 26,5% para depósitos a 30 días.\n• **TNA Banco Nación:** 25% para colocaciones digitales a 30-89 días, una baja desde el 35% de noviembre.\n• **Rentabilidad mensual:** Cerca del 2,05% (ej. Banco Nación), similar o por debajo de la inflación mensual proyectada del 2%.\n• **Dólar minorista:** Se mantuvo estable en noviembre y principios de diciembre, rondando los $1.470.\n• **Tasas previas elecciones:** Alcanzaron hasta el 50% de TNA, mostrando la magnitud del recorte actual.\n• **Tasas destacadas:** ICBC ofrece 26,5% TNA, seguido por Banco Provincia y Macro con 26%.\n\n⚡ **Desarrollo:**\n• Los principales bancos comenzaron a recortar los rendimientos de los plazos fijos en el último mes del año.\n• La TNA para un plazo fijo a 30 días en el Banco Nación es del 25% por canales digitales, mientras que presencialmente es inferior, llegando al 20,5%.\n• La rentabilidad efectiva mensual actual de un plazo fijo suele ser del 2% o menos, mientras que la inflación de octubre fue del 2,3%.\n• Expertos explican que la baja de tasas responde a la desinflación y a una política monetaria que busca reducir el premio por mantener pesos.\n• Quienes invierten digitalmente suelen obtener mejores tasas que quienes lo hacen de forma presencial.\n• Para maximizar la ganancia, los ahorristas pueden reinvertir los intereses mes a mes, lo que se conoce como Tasa Efectiva Anual (TEA).\n\n💡 **¿Por qué importa?**\n• Los ahorristas en pesos están perdiendo poder adquisitivo, ya que la rentabilidad de los plazos fijos es inferior a la inflación actual.\n• La reducción del premio por los pesos genera incertidumbre sobre la estabilidad cambiaria en un mes de alta demanda estacional de divisas por aguinaldos y vacaciones.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Plazo fijo Banco Nación con nuevas tasas: cuánto paga ahora con $2 millones",
+          "link": "https://www.iprofesional.com/finanzas/443393-plazo-fijo-banco-nacion-con-nueva-tasa-cuanto-se-gana-en-diciembre-2025-con-2-millones-pesos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:38:00"
+        },
+        {
+          "titulo": "Plazos fijos en baja: las tasas caen y ya pierden contra la inflación",
+          "link": "https://www.clarin.com/economia/plazos-fijos-baja-tasas-desploman-pierden-inflacion_0_0mHdFdl4gZ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 14:14:22"
+        },
+        {
+          "titulo": "Plazo fijo en diciembre 2025: cuanto pagan los principales bancos tras la baja de tasas",
+          "link": "https://www.perfil.com/noticias/economia/plazo-fijo-en-diciembre-2025-cuanto-pagan-los-principales-bancos-tras-la-actualizacion-de-tasas-de-interes.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 13:50:44"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-04",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "arca_y_billeteras_20251204",
+      "tema": "ARCA y Billeteras Virtuales",
+      "tema_normalizado": "arca y billeteras virtuales",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Agencia de Recaudación y Control Aduanero (ARCA) está estableciendo nuevas regulaciones y controles para Monotributistas y operaciones con billeteras virtuales.\n• ARCA también informó sobre los valores del Monotributo y una bonificación para ciertos contribuyentes en diciembre de 2025.\n• Además, ARBA (Agencia de Recaudación de la Provincia de Buenos Aires) comenzará a aplicar retenciones de Ingresos Brutos sobre las acreditaciones en billeteras virtuales.\n\n🔍 **Datos clave:**\n• **Exención Monotributo ARCA:** 100% del impuesto integrado en diciembre 2025.\n• **Límites ARCA (Dic. 2025):** Personas Físicas $50.000.000, Jurídicas $30.000.000 para movimientos o saldo mensual en cuentas y billeteras virtuales.\n• **Retención Ingresos Brutos ARBA:** A partir del 1 de octubre de 2025, con alícuotas de hasta el 5%.\n\n⚡ **Desarrollo:**\n• La bonificación del Monotributo de ARCA es para pequeños contribuyentes locadores de bienes que formalicen sus contratos de alquiler en el Registro de Locaciones de Inmueble (RELI).\n• Esta exención cubre el componente de \"impuesto integrado\" de la cuota mensual, manteniendo los pagos de aportes previsionales y obra social. El trámite es 100% online.\n• ARCA publicó los valores actualizados que pagan los Monotributistas por cada categoría en diciembre 2025, incluyendo el impuesto integrado, aporte previsional y obra social (ej. Categoría A: $37.085,74 total).\n• Los límites de ARCA controlan diversas operaciones como transferencias, acreditaciones, saldos bancarios, extracciones en efectivo y plazos fijos.\n• Si se superan estos límites, las entidades financieras deben informar a ARCA, que puede solicitar justificación del origen de los fondos (recibos, declaraciones juradas).\n• La falta de justificación de fondos puede derivar en sanciones económicas o el bloqueo temporal de las cuentas involucradas.\n• La Resolución 25/2025 de ARBA establece retenciones de Ingresos Brutos sobre los importes acreditados en billeteras virtuales en la Provincia de Buenos Aires.\n• No sufrirán estas retenciones los contribuyentes inscriptos en el Régimen Simplificado de Ingresos Brutos de Buenos Aires o quienes realicen ciertas actividades específicas (ej. comercio de combustibles o servicios financieros).\n• Los contribuyentes pueden verificar mensualmente su inclusión en el padrón de retenciones de ARBA en el sitio ca.gob.ar/sircupa.\n• Ciertas operaciones como remuneraciones, préstamos, jubilaciones, intereses generados por saldos propios y reintegros de IVA están excluidas de las retenciones de ARBA.\n\n💡 **¿Por qué importa?**\n• Las medidas de ARCA y ARBA buscan aumentar la transparencia fiscal y formalizar la economía, impactando directamente en la gestión financiera de individuos y empresas.\n• Es fundamental para usuarios de billeteras virtuales y monotributistas conocer estos límites y requisitos para evitar problemas fiscales y optimizar sus finanzas personales.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "ARCA y la chance de no pagar monotributo en diciembre: cómo hacerlo",
+          "link": "https://www.iprofesional.com/impuestos/443338-arca-y-la-chance-de-no-pagar-monotributo-en-diciembre-como-hacerlo",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:12:00"
+        },
+        {
+          "titulo": "Qué montos permite ARCA en las billeteras virtuales y cuáles siguen vigentes en diciembre de 2025",
+          "link": "https://www.clarin.com/economia/montos-permite-arca-billeteras-virtuales-siguen-vigentes-diciembre-2025_0_ERYIrRmZt0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 16:05:38"
+        },
+        {
+          "titulo": "Paso a paso, cómo chequear si ARBA nos va a retener Ingresos Brutos por usar billeteras virtuales",
+          "link": "https://www.iprofesional.com/impuestos/443379-video-como-chequear-si-arba-nos-van-a-retener-ingresos-brutos-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 14:14:00"
+        },
+        {
+          "titulo": "Sigue el Monotributo ARCA: cuánto paga cada categoría en diciembre 2025",
+          "link": "https://www.iprofesional.com/impuestos/443378-gue-el-monotributo-arca-cuanto-paga-cada-categoria-en-diciembre-2025",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 14:11:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
         "Clarín",
-        "Perfil",
-        "iProfesional",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -273,51 +438,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "renuncia_alberto_banos_20251204",
-      "tema": "Renuncia Alberto Baños Derechos Humanos",
-      "tema_normalizado": "renuncia alberto banos derechos humanos",
-      "resumen": "📌 **¿Qué está pasando?**\n• Alberto Baños presentó su renuncia irrevocable como Subsecretario de Derechos Humanos de la Nación.\n• Su salida ocurre en medio de fuertes cuestionamientos públicos, tensiones internas y un marcado desgaste político.\n\n🔍 **Datos clave:**\n• **Cargo ocupado:** Subsecretario de Derechos Humanos de la Nación (previamente Secretaría hasta su degradación).\n• **Tenencia del cargo:** Desde el inicio del Gobierno (diciembre de 2023) hasta su renuncia (finales de 2024/principios de 2025).\n• **Declaraciones polémicas ante la ONU:** En septiembre y noviembre de 2024, ante el Comité de Derechos Humanos y el Comité contra la Tortura en Ginebra.\n• **Reducción del área:** Pasó de Secretaría a Subsecretaría en mayo de 2024; eliminación de más del 66% de las direcciones y despidos de personal (ej: 405 empleados hasta marzo de 2024).\n\n⚡ **Desarrollo:**\n• Baños asumió en un contexto de profunda reestructuración y ajuste del área de Derechos Humanos, impulsada por el gobierno de Javier Milei, con el objetivo de su \"desideologización\".\n• Durante su gestión, la Subsecretaría fue una de las más afectadas por el achicamiento del Estado, lo que generó un conflicto permanente con organizaciones de derechos humanos.\n• Su discurso más controvertido tuvo lugar ante la ONU, donde negó que los crímenes de la última dictadura militar (1976-1983) fueran parte de un plan sistemático, calificándolos como “excesos aislados”.\n• En dichas presentaciones, también puso en duda la cifra de 30.000 desaparecidos y defendió una \"memoria completa\", afirmando que \"hubo más de 1000 muertos por la acción del terrorismo de las milicias guerrilleras\".\n• Estas declaraciones provocaron un rechazo generalizado a nivel nacional e internacional y profundizaron la crisis política alrededor de su figura.\n• Las versiones sobre su renuncia son cruzadas: algunas fuentes indican diferencias con el ministro Mariano Cúneo Libarona sobre el alineamiento con la política oficial. Otras versiones la vinculan a una posible salida del propio ministro, con quien Baños mantiene una estrecha relación personal y de amistad.\n• Entre las acciones de su gestión también se incluyeron el intento de impedir un recital en la ex-ESMA y la promoción de una \"solución amistosa\" ante la CIDH para considerar delitos de lesa humanidad a las acciones de grupos guerrilleros.\n\n💡 **¿Por qué importa?**\n• La salida de Baños representa una nueva baja de alto perfil en el gabinete y subraya la inestabilidad en la gestión de políticas sensibles como los derechos humanos.\n• La controversia generada por su postura y las políticas de ajuste dejan en suspenso la dirección futura del área y la relación del Estado con los organismos de memoria y derechos humanos.",
-      "cantidad_noticias": 5,
+      "tema_id": "caso_cuadernos:_avances_20251204",
+      "tema": "Caso Cuadernos: Avances Judiciales",
+      "tema_normalizado": "caso cuadernos: avances judiciales",
+      "resumen": "📌 **¿Qué está pasando?**\n• El juicio oral por el \"Caso Cuadernos\" se ha reanudado, avanzando en la presentación de las acusaciones sobre un esquema de corrupción de larga data.\n• Se están detallando presuntos pagos de coimas por parte de empresarios a funcionarios del kirchnerismo, con la ex Presidenta Cristina Kirchner señalada como la \"principal artífice\" de la organización criminal.\n• La Unidad de Información Financiera (UIF) y la Fiscalía continúan exponiendo pruebas y testimonios que buscan establecer la responsabilidad de los implicados.\n\n🔍 **Datos clave:**\n• **Acusados principales:** Cristina Kirchner (presunta jefa), 63 empresarios, 20 funcionarios del kirchnerismo.\n• **Funcionarios mencionados:** Roberto Baratta (mano derecha de De Vido, señalado como recaudador), Nelson Lazarte (secretario de Baratta), Julio De Vido (exministro).\n• **Empresarios mencionados:** Hugo Alberto Dragonetti (Panedile Argentina), Alberto Taselli (Faraday), Jorge Mauricio Balan (Industrias Juan F. Secco).\n• **Testigos clave:** Claudio Uberti, Ernesto Clarens, Carlos Wagner.\n• **Período de operación del esquema:** 2003 a 2015.\n• **Montos estimados (ejemplo de un segmento):** Aproximadamente US$ 5 millones y $20 millones de pesos. Un pago específico a Dragonetti fue de US$ 1.500.000 el 22 de septiembre de 2010.\n• **Tribunal a cargo:** Tribunal Oral Federal 7 (TOF 7), integrado por los jueces Enrique Méndez Signori, Fernando Canero y Germán Castelli.\n\n⚡ **Desarrollo:**\n• El juicio oral se retomó con la lectura de acusaciones fiscales, centradas en la entrega de coimas en uno de los seis expedientes que componen la causa.\n• Se probó que empresarios habrían realizado pactos espurios con funcionarios para obtener beneficios para sus empresas, como el caso de Panedile Argentina.\n• La UIF sostiene que la \"asociación ilícita\" operó desde 2008 hasta 2015, con Néstor Kirchner y Cristina Fernández a la cabeza, buscando enriquecerse ilegalmente aprovechando su posición.\n• Las entregas de dinero se habrían realizado en lugares como Uruguay 1306 y Juncal 1411 en CABA, la Residencia Presidencial de Olivos y la Casa de Gobierno.\n• Testimonios como los de Claudio Uberti y Ernesto Clarens son fundamentales, ya que indican entregas de dinero a Daniel Muñoz y refuerzan el rol de liderazgo de la ex Presidenta en la organización.\n• Se mencionó que el esquema de requerimiento de dinero se reinició en 2012 y continuó hasta el final del gobierno de Cristina Fernández, según declaraciones de Carlos Wagner.\n\n💡 **¿Por qué importa?**\n• El \"Caso Cuadernos\" representa una de las investigaciones de corrupción más amplias en Argentina, buscando esclarecer un sistema de recaudación ilegal que operó durante más de una década.\n• El avance de este juicio es crucial para la rendición de cuentas de altos funcionarios y empresarios, y para la transparencia de las instituciones públicas en el país.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Renunció Alberto Baños como subsecretario de Derechos Humanos de la Nación",
-          "link": "https://www.ambito.com/politica/renuncio-alberto-banos-como-subsecretario-derechos-humanos-la-nacion-n6220819",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 13:53:00"
-        },
-        {
-          "titulo": "Otra renuncia en el gobierno de Milei: se fue Alberto Baños, subsecretario de Derechos Humanos y mano derecha de Cúneo Libarona",
-          "link": "https://www.clarin.com/politica/renuncia-gobierno-milei-alberto-banos-subsecretario-derechos-humanos-mano-derecha-cuneo-libarona_0_ZuHpPCJM4D.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 12:52:25"
-        },
-        {
-          "titulo": "Alberto Baños renunció a la subsecretaría de Derechos Humanos",
-          "link": "https://www.lanacion.com.ar/politica/alberto-banos-renuncio-a-la-subsecretaria-de-derechos-humanos-nid04122025/",
+          "titulo": "Caso Cuadernos: tras el parate de la audiencia pasada, se aligera la marcha del juicio con detalles de las presuntas coimas",
+          "link": "https://www.lanacion.com.ar/politica/caso-cuadernos-tras-el-parate-de-la-audiencia-pasada-se-aligera-la-marcha-del-juicio-con-detalles-de-nid04122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-04 12:49:01"
+          "fecha": "2025-12-04 17:18:23"
         },
         {
-          "titulo": "Versiones cruzadas por la salida del subsecretario de Derechos Humanos Alberto Baños",
-          "link": "https://www.perfil.com/noticias/politica/renuncio-el-subsecretario-de-derechos-humanos-alberto-banos.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 11:42:51"
-        },
-        {
-          "titulo": "Renunció el subsecretario de Derechos Humanos, Alberto Baños",
-          "link": "https://www.minutouno.com/politica/renuncio-el-subsecretario-derechos-humanos-alberto-banos-n6220749",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 11:05:00"
+          "titulo": "Juicio por el caso Cuadernos: según el organismo antilavado, Cristina Kirchner fue \"la mayor artífice de la organización criminal\"",
+          "link": "https://www.clarin.com/politica/juicio-caso-cuadernos-organismo-antilavado-cristina-kirchner-mayor-artifice-organizacion-criminal_0_XNBeVfzETi.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 16:18:59"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "Clarín",
-        "Perfil",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -325,203 +469,30 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "jorge_macri:_reclamo_20251204",
-      "tema": "Jorge Macri: reclamo coparticipación Ciudad",
-      "tema_normalizado": "jorge macri: reclamo coparticipacion ciudad",
-      "resumen": "📌 **¿Qué está pasando?**\n• Jorge Macri, Jefe de Gobierno de la Ciudad de Buenos Aires, exige al Gobierno Nacional el pago de una deuda de coparticipación federal.\n• El apoyo de los diputados del PRO al Presupuesto 2026 de Javier Milei está condicionado a que estos fondos sean incluidos explícitamente en el proyecto.\n• Macri se reunió con el Jefe de Gabinete, Manuel Adorni, y el Ministro del Interior, Diego Santilli, para plantear su reclamo en la Casa Rosada.\n\n🔍 **Datos clave:**\n• **Deuda reclamada:** Aproximadamente $274.000 millones.\n• **Fallo de la Corte Suprema:** En 2020, ordenó restituir recursos a CABA, fijando un coeficiente adicional del 1,55% de coparticipación.\n• **Recorte original:** En 2020, el gobierno de Alberto Fernández redujo la coparticipación de CABA del 3,5% al 1,4%.\n• **Presupuesto 2026:** El proyecto que se debatirá en sesiones extraordinarias a partir del 10 de diciembre.\n• **Actores clave:** Jorge Macri (Jefe de Gobierno CABA), Manuel Adorni (Jefe de Gabinete Nacional), Diego Santilli (Ministro del Interior Nacional).\n\n⚡ **Desarrollo:**\n• El conflicto se inició en 2020, cuando el gobierno nacional recortó los fondos coparticipables que recibía la Ciudad de Buenos Aires.\n• CABA llevó la disputa a la Corte Suprema de Justicia, que falló a su favor, ordenando la restitución de recursos y estableciendo un giro semanal del 1,55% adicional.\n• Jorge Macri denuncia que, desde agosto, el gobierno nacional ha demorado o realizado transferencias parciales de estos giros, generando la deuda actual.\n• El Jefe de Gobierno porteño insiste en que el reconocimiento de esta deuda y la garantía de pagos futuros deben quedar plasmados de forma explícita en el Presupuesto 2026.\n• El Gobierno Nacional se ha comprometido a explorar posibles soluciones, incluyendo la evaluación de la inclusión de la deuda en el Presupuesto y la posible transferencia de terrenos nacionales a la Ciudad.\n• Las negociaciones son vistas como un paso para que la Ciudad pase de una discusión técnica a una política, donde su apoyo legislativo es clave para la aprobación del Presupuesto.\n\n💡 **¿Por qué importa?**\n• La resolución de este reclamo es fundamental para las finanzas de la Ciudad de Buenos Aires, afectando directamente su presupuesto y capacidad de inversión.\n• Es un punto clave en la relación política entre el Gobierno Nacional y la administración porteña, y un factor determinante para la aprobación del Presupuesto 2026 en el Congreso.",
-      "cantidad_noticias": 6,
+      "tema_id": "fallo_corte_reforma_20251204",
+      "tema": "Fallo Corte Reforma Previsional Macri",
+      "tema_normalizado": "fallo corte reforma previsional macri",
+      "resumen": "📌 **¿Qué está pasando?**\n* La Corte Suprema de Justicia de Argentina declaró constitucional la reforma previsional (Ley 27.426) implementada durante el gobierno de Mauricio Macri.\n* Este fallo desestimó la demanda del jubilado Miguel Fernández Pastor, quien argumentaba que la modificación de la fórmula de movilidad era retroactiva y perjudicial.\n* La decisión del máximo tribunal ratifica la validez del nuevo método de cálculo para los aumentos jubilatorios, vigente desde fines de 2017.\n\n🔍 **Datos clave:**\n* **Ley clave:** Ley 27.426 (Reforma Previsional de Mauricio Macri).\n* **Fecha de vigencia:** 29 de diciembre de 2017.\n* **Demandante:** Miguel Fernández Pastor, ex directivo de ANSeS.\n* **Jueces firmantes:** Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti.\n* **Fórmula anterior:** Ajuste semestral (Ley 26.417).\n* **Nueva fórmula:** Ajuste trimestral (70% IPC Nacional INDEC + 30% RIPTE).\n* **Impacto en Marzo 2018:** La nueva fórmula aplicó un 5,71%, mientras que la anterior habría otorgado un 14,71%.\n* **Contexto:** La sanción de la ley en 2017 estuvo marcada por masivas protestas y disturbios frente al Congreso.\n\n⚡ **Desarrollo:**\n* La reforma previsional de 2017 modificó la fórmula de movilidad jubilatoria, cambiando de un esquema de ajustes semestrales a uno trimestral.\n* La nueva fórmula para determinar los aumentos se basa en un 70% en el Índice de Precios al Consumidor Nacional (INDEC) y un 30% en la Remuneración Imponible Promedio de los Trabajadores Estables (RIPTE).\n* Miguel Fernández Pastor, el demandante, cuestionó la ley por considerar que se aplicó retroactivamente, perjudicando el aumento que los jubilados debían percibir en marzo de 2018.\n* Previamente, la Sala III de la Cámara Federal de la Seguridad Social había declarado inconstitucional el artículo 2° de la ley, que regulaba la primera actualización bajo el nuevo esquema.\n* La Corte Suprema revocó esa sentencia de Cámara, argumentando que la Constitución Nacional garantiza la movilidad de las jubilaciones, pero no preconiza un único sistema para hacerla efectiva.\n* El fallo del máximo tribunal sostiene que el Congreso tiene la facultad de modificar las normas y que no existe un \"derecho adquirido\" a mantener determinado régimen de movilidad o la inalterabilidad de las leyes.\n* La Corte concluyó que, al momento de la entrada en vigencia de la Ley 27.426 en diciembre de 2017, el derecho a percibir el aumento bajo la fórmula anterior aún no se había devengado.\n\n💡 **¿Por qué importa?**\n* Este fallo judicial es significativo porque cierra una importante controversia legal sobre una reforma previsional que generó fuertes críticas y manifestaciones en Argentina.\n* Consolida la jurisprudencia de la Corte Suprema respecto a la potestad del Congreso para modificar los regímenes de movilidad jubilatoria, siempre que no se afecte sustancialmente el contenido económico ni derechos adquiridos ya consolidados.",
+      "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Jorge Macri volvió a condicionar frente a Santilli y Adorni su apoyo al Presupuesto 2026",
-          "link": "https://www.infobae.com/politica/2025/12/04/diego-santilli-recibe-a-jorge-macri-con-el-presupuesto-2026-y-la-deuda-por-la-coparticipacion-en-el-temario/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-04 15:12:09"
-        },
-        {
-          "titulo": "Manuel Adorni y Diego Santilli recibieron a Jorge Macri en plena puja por los fondos de coparticipación",
-          "link": "https://www.lanacion.com.ar/politica/manuel-adorni-y-diego-santilli-reciben-a-jorge-macri-en-plena-puja-por-los-fondos-de-coparticipacion-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 14:29:31"
-        },
-        {
-          "titulo": "Presupuesto 2026: Diego Santilli recibió a Jorge Macri y avanzan negociaciones por deuda de coparticipación",
-          "link": "https://www.ambito.com/politica/diego-santilli-recibira-jorge-macri-pleno-tironeo-el-presupuesto-2026-y-la-deuda-coparticipacion-n6220652",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 13:38:00"
-        },
-        {
-          "titulo": "Jorge Macri se reunió con Adorni y Santilli y presiona para cobrar la deuda de la Nación con la Ciudad",
-          "link": "https://www.perfil.com/noticias/politica/jorge-macri-se-reunio-con-adorni-y-santilli-y-presiona-para-cobrar-la-deuda-de-la-nacion-con-la-ciudad.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 13:27:17"
-        },
-        {
-          "titulo": "Jorge Macri se reunió con Santilli y Adorni para reclamar por la coparticipación de la Ciudad: \"Queremos que se incluya en el Presupuesto\"",
-          "link": "https://www.clarin.com/politica/jorge-macri-reunido-diego-santilli-manuel-adorni-insistir-reclamo-coparticipacion-ciudad_0_j9lfYcOIvi.html",
+          "titulo": "Revés para los jubilados: la Corte Suprema declara constitucional el ajuste de la movilidad con Mauricio Macri",
+          "link": "https://www.clarin.com/economia/reves-jubilados-corte-suprema-declara-constitucional-ajuste-movilidad-mauricio-macri_0_8NA5XnVDGD.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-04 12:18:04"
+          "fecha": "2025-12-04 15:21:56"
         },
-        {
-          "titulo": "Jorge Macri celebró un fallo de la Corte de la Ciudad y apuntó contra la industria del juicio laboral: \"Destruye el empleo y lo precariza\"",
-          "link": "https://www.ambito.com/politica/jorge-macri-celebro-un-fallo-la-corte-la-ciudad-y-apunto-contra-la-industria-del-juicio-laboral-destruye-el-empleo-y-lo-precariza-n6220747",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 11:07:31"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Clarín",
-        "Perfil",
-        "Infobae",
-        "Ámbito Financiero",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "kicillof:_endeudamiento_provincia_20251204",
-      "tema": "Kicillof: endeudamiento Provincia Buenos Aires",
-      "tema_normalizado": "kicillof: endeudamiento provincia buenos aires",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Legislatura bonaerense aprobó la solicitud del gobernador Axel Kicillof para tomar nueva deuda y refinanciar vencimientos por un monto de hasta U$S 3.685 millones.\n• La aprobación se logró tras intensas negociaciones que se extendieron hasta la madrugada y generaron fuertes tensiones dentro de la alianza La Libertad Avanza (LLA) y PRO.\n\n🔍 **Datos clave:**\n• Monto de endeudamiento: hasta U$S 3.685 millones.\n• Mayoría requerida: 2/3 de los votos en ambas cámaras legislativas (Diputados y Senadores).\n• Fecha de aprobación: madrugada del 4 de diciembre de 2025.\n• Ratio de deuda provincial: Equivale al 90% de los ingresos de la Provincia de Buenos Aires, según la consultora Empiria.\n\n⚡ **Desarrollo:**\n• Kicillof enfrentó grandes desafíos para obtener la mayoría especial de dos tercios, especialmente en la Cámara de Diputados, lo que llevó a prolongadas negociaciones y sesiones postergadas.\n• Para asegurar los votos, el gobernador realizó importantes concesiones a la oposición, incluyendo la creación de nuevos cargos en el directorio del Banco Provincia (pasando de ocho a nueve directores) y otros puestos estratégicos en entes estatales.\n• También se destinó un Fondo de Fortalecimiento de la Inversión Municipal de hasta $350.000 millones para repartir entre los 135 municipios y se condonaron deudas municipales por fondos COVID.\n• La aprobación generó una ruptura en la alianza LLA-PRO provincial; legisladores de LLA acusaron al PRO de \"cobrar\" cargos en el Banco Provincia a cambio de su apoyo.\n• El PRO argumentó que solo respaldó el refinanciamiento de deuda anterior para sanear las cuentas de la provincia, mientras que intendentes como Ramón Lanús (PRO, cercano a LLA) criticaron el acuerdo por dar \"cargos y prebendas para la casta\".\n• Los fondos se destinarán a reactivar la obra pública provincial paralizada, cubrir vencimientos de deuda de 2025 (U$S 1.045 millones) y 2026 (U$S 1.446 millones), cubrir el déficit primario (U$S 251 millones) y financiar proyectos de inversión (U$S 400 millones).\n• La consultora Empiria alertó sobre un \"excesivo endeudamiento\", señalando que U$S 543 millones quedan \"sin adjudicación natural\" y que los bonos bonaerenses cotizan con rendimientos altos (13.4%), reflejo de la fragilidad fiscal del distrito.\n\n💡 **¿Por qué importa?**\n• Permite a la Provincia de Buenos Aires obtener el financiamiento necesario para su funcionamiento y la reactivación de obras, pero a costa de importantes concesiones políticas y un aumento significativo de su pasivo.\n• Genera preocupación sobre la sostenibilidad fiscal a largo plazo de la provincia, dado su elevado nivel de endeudamiento, y profundiza las tensiones en el panorama político opositor bonaerense.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Cruje la alianza entre La Libertad Avanza y Pro en la provincia por el aval a Kicillof para tomar deuda",
-          "link": "https://www.lanacion.com.ar/politica/cruje-la-alianza-entre-la-libertad-avanza-y-pro-en-la-provincia-por-el-aval-a-kicillof-para-tomar-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 15:01:25"
-        },
-        {
-          "titulo": "La negociación del endeudamiento puso a prueba a Kicillof y lo obligó a hacer concesiones",
-          "link": "https://www.lanacion.com.ar/politica/la-negociacion-del-endeudamiento-puso-a-prueba-a-kicillof-y-lo-obligo-a-hacer-concesiones-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 13:02:39"
-        },
-        {
-          "titulo": "Dura crítica de un intendente al endeudamiento que consiguió Kicillof para la Provincia: \"Entregó cargos y prebendas a la casta\"",
-          "link": "https://www.clarin.com/politica/dura-critica-intendente-endeudamiento-consiguio-kicillof-provincia-entrego-cargos-prebendas-casta_0_EAEBS1LbK0.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 11:49:55"
-        },
-        {
-          "titulo": "Las claves de la toma de deuda de más de u$s3.000 millones que impulsó Axel Kicillof para la provincia de Buenos Aires",
-          "link": "https://www.ambito.com/economia/las-claves-la-toma-deuda-mas-us3000-millones-que-impulso-axel-kicillof-la-provincia-buenos-aires-n6220715",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 11:39:00"
-        },
-        {
-          "titulo": "Alertan por “excesivo endeudamiento” y deterioro fiscal de la Provincia de Buenos Aires",
-          "link": "https://www.perfil.com/noticias/economia/alertan-por-excesivo-endeudamiento-y-deterioro-fiscal-de-la-provincia-de-buenos-aires.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 11:18:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "Perfil",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "gobierno_milei:_reformas_20251204",
-      "tema": "Gobierno Milei: reformas y Congreso",
-      "tema_normalizado": "gobierno milei: reformas y congreso",
-      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Javier Milei convocará a sesiones extraordinarias en el Congreso para impulsar un paquete de reformas estructurales y el Presupuesto 2026.\n• El Gobierno busca que estas iniciativas sean aprobadas con el apoyo de una nueva composición legislativa, donde La Libertad Avanza (LLA) ha fortalecido su presencia.\n• A pesar del optimismo oficialista, la necesidad de negociar con otras fuerzas será clave, especialmente en el Senado.\n\n🔍 **Datos clave:**\n• **Fechas de Sesiones Extraordinarias:** Se esperan desde el 10 de diciembre hasta fin de mes, con un posible segundo llamado en enero de 2026.\n• **Proyectos Prioritarios:** Presupuesto 2026 y Ley de Inocencia Fiscal (conocida como \"ley de dólares debajo del colchón\").\n• **Composición LLA Diputados:** 95 bancas (primera minoría).\n• **Composición LLA Senadores:** 19 bancas (segunda fuerza, un aumento significativo desde las 7 previas).\n• **Líderes Políticos:** Javier Milei (Presidente), Patricia Bullrich (senadora LLA), Diego Santilli (Ministro del Interior), Manuel Adorni (Jefe de Gabinete).\n\n⚡ **Desarrollo:**\n• El Gobierno de Milei firmará el decreto para convocar a sesiones extraordinarias, con el objetivo principal de aprobar el Presupuesto 2026 y la Ley de Inocencia Fiscal en primera instancia.\n• Además de estos proyectos, la agenda legislativa incluye la reforma laboral, la modificación del Código Penal, la Ley de Glaciares y una reforma tributaria.\n• La Libertad Avanza ha logrado un crecimiento \"impresionante\" en el Congreso, pasando a ser primera minoría en Diputados con 95 bancas y segunda fuerza en el Senado con 19 legisladores.\n• Sin embargo, LLA no cuenta con quórum propio en ninguna de las cámaras, y el peronismo mantiene 28 senadores, siendo la primera fuerza, lo que obliga a la negociación.\n• Funcionarios como Patricia Bullrich se muestran confiados en la aprobación de las reformas, apostando a una \"mayoría importante\" en el Senado y la estrategia de dialogar con quienes tengan voluntad reformista.\n• El Ejecutivo buscará consensos con gobernadores, ofreciendo la inclusión de pagos de deuda coparticipable en el Presupuesto, como un gesto para asegurar los votos de sus legisladores.\n\n💡 **¿Por qué importa?**\n• La capacidad del Gobierno de Milei para aprobar estas reformas definirá la implementación de su agenda política y económica en los próximos años.\n• El éxito en las negociaciones legislativas será un indicador crucial de la gobernabilidad y la habilidad del presidente para construir los consensos necesarios sin tener mayoría propia en el Congreso.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Javier Milei define la lista de reformas libertarias y mañana convocará a sesiones extraordinarias",
-          "link": "https://www.infobae.com/politica/2025/12/04/javier-milei-cierra-el-listado-de-reformas-libertarias-para-convocar-a-sesiones-extraordinarias/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-04 15:03:11"
-        },
-        {
-          "titulo": "Las matemáticas del nuevo Congreso: ¿Milei puede permitirse no negociar?",
-          "link": "https://noticias.perfil.com/noticias/politica/milei-y-el-nuevo-congreso-podra-imponer-su-agenda-sin-negociar.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 12:49:35"
-        },
-        {
-          "titulo": "Patricia Bullrich se mostró confiada para aprobar las reformas en el Congreso: \"Las cosas ahora van a cambiar\"",
-          "link": "https://www.ambito.com/politica/patricia-bullrich-se-mostro-confiada-aprobar-las-reformas-el-congreso-las-cosas-ahora-van-cambiar-n6220763",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 12:17:00"
-        },
-        {
-          "titulo": "En su nuevo rol de senadora, Bullrich ya planta bandera en el Congreso: \"Vamos a sacar todas las leyes que vengan del Ejecutivo\"",
-          "link": "https://www.clarin.com/politica/nuevo-rol-senadora-bullrich-planta-bandera-congreso-vamos-sacar-todas-leyes-vengan-ejecutivo_0_6evaAbz7kN.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 10:55:32"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-04",
-      "fuentes": [
-        "Infobae",
-        "Ámbito Financiero",
-        "Clarín",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "jubilaciones_y_reformas_20251204",
-      "tema": "Jubilaciones y reformas previsionales",
-      "tema_normalizado": "jubilaciones y reformas previsionales",
-      "resumen": "📌 **¿Qué está pasando?**\n• La Corte Suprema de Justicia confirmó la validez de la Ley 27.426, la reforma previsional de Mauricio Macri de 2017 que cambió el cálculo y la movilidad de los haberes jubilatorios.\n• Al mismo tiempo, se anunciaron los aumentos para jubilaciones docentes en diciembre de 2025 y la ANSeS publicó el calendario de pagos con aguinaldo y bonos.\n• Existe una propuesta de reforma previsional que busca eliminar cajas especiales y profesionales, y limitar las pensiones por viudez para ahorrar un 0.5% del PBI.\n\n🔍 **Datos clave:**\n• **Ley 27.426 (Macri):** Aprobada en diciembre de 2017, modificó la fórmula de movilidad y estableció ajustes trimestrales.\n• **Falló de la Corte:** Firmado por Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti, confirmó la constitucionalidad de la ley.\n• **Aumento docentes (diciembre 2025):** 7.5% para no universitarios (acumula 44.4% anual) y 3.85% para universitarios.\n• **Jubilación mínima (diciembre 2025):** Haber base de $340.879,59; total de $581.319,38 incluyendo bono de $70.000 y aguinaldo.\n• **Sistema previsional actual:** Destina cerca del 10% del PIB a jubilaciones y tiene aproximadamente 200 regímenes de excepción.\n\n⚡ **Desarrollo:**\n• La Corte Suprema resolvió que la Constitución garantiza la movilidad jubilatoria, pero no impone un sistema único, facultando al Congreso para definir los mecanismos de actualización.\n• El fallo rechazó el planteo del exdirector de ANSeS, Miguel Ángel Fernández Pastor, afirmando que no existe un derecho adquirido al mantenimiento de leyes.\n• Las jubilaciones docentes se actualizan trimestralmente, utilizando índices como Ripdoc y Ripdun, con diferencias significativas entre el sector universitario y no universitario.\n• El calendario de ANSeS para diciembre de 2025 incluye una actualización del 2.34% sobre los haberes de noviembre, basada en la inflación de octubre, junto al aguinaldo.\n• La propuesta de reforma busca limitar las pensiones por fallecimiento, haciéndolas temporales para cónyuges jóvenes y revisando el cobro para pensionados que ya perciben una jubilación.\n• El sistema previsional actual es criticado por CIPPEC como \"caro, injusto e ineficiente\", debido a la proliferación de excepciones y reglas anacrónicas que generan inequidad.\n\n💡 **¿Por qué importa?**\n• La decisión de la Corte Suprema cierra un debate legal clave, reafirmando la potestad del Poder Legislativo para modificar las fórmulas de movilidad jubilatoria.\n• Las propuestas de reformas futuras y los ajustes actuales impactan directamente en el poder adquisitivo de millones de jubilados y la sostenibilidad del sistema previsional a largo plazo.",
-      "cantidad_noticias": 5,
-      "noticias": [
         {
           "titulo": "La Corte Suprema confirmó la validez de la reforma previsional de Mauricio Macri",
           "link": "https://www.ambito.com/politica/la-corte-suprema-confirmo-la-validez-la-reforma-previsional-mauricio-macri-n6220837",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-04 15:07:33"
-        },
-        {
-          "titulo": "De cuánto es el aumento para las jubilaciones docentes en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-aumento-para-las-jubilaciones-docentes-en-diciembre-2025-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 14:48:11"
-        },
-        {
-          "titulo": "La Corte Suprema confirmó la validez de una de las últimas leyes de movilidad de haberes",
-          "link": "https://www.lanacion.com.ar/economia/la-corte-suprema-confirmo-la-validez-de-una-de-las-ultimas-leyes-de-movilidad-de-haberes-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 14:16:55"
-        },
-        {
-          "titulo": "Con el aguinaldo: qué día cobro mi jubilación en diciembre",
-          "link": "https://www.lanacion.com.ar/economia/con-el-aguinaldo-que-dia-cobro-mi-jubilacion-en-diciembre-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 14:07:25"
-        },
-        {
-          "titulo": "Reforma previsional elimina cajas profesionales y recorta pensión por viudez",
-          "link": "https://www.iprofesional.com/impuestos/443183-reforma-previsional-elimina-cajas-profesionales-y-recorta-pension-viudez",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 11:08:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-04",
       "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "La Nación"
+        "Clarín",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
