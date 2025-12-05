@@ -1,20 +1,357 @@
 {
   "fecha": "2025-12-05",
-  "fecha_generacion": "2025-12-05T06:28:25.886126",
+  "fecha_generacion": "2025-12-05T09:24:00.966772",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "gobierno_renueva_politica_20251205",
-      "tema": "Gobierno renueva política de Inteligencia Nacional",
-      "tema_normalizado": "gobierno renueva politica de inteligencia nacional",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno ha aprobado una nueva Política de Inteligencia Nacional, renovando los objetivos y lineamientos del Sistema de Inteligencia Nacional (SIN).\n*   Esta actualización es la primera en dos décadas y se enmarca en una reestructuración de la Secretaría de Inteligencia de Estado (SIDE).\n*   La iniciativa busca fortalecer la seguridad, la soberanía y la autonomía estratégica del país en el plano internacional.\n\n🔍 **Datos clave:**\n*   **Decreto:** La nueva política fue oficializada mediante el Decreto 864/2025 en el Boletín Oficial.\n*   **Organismo:** Secretaría de Inteligencia de Estado (SIDE).\n*   **Nuevo jefe:** Cristian Auguadra fue designado como titular de la SIDE, reemplazando a Sergio Neiffert.\n*   **Vigencia:** Es la primera actualización de la Política de Inteligencia Nacional en veinte años.\n*   **Actor clave:** Santiago Caputo ha afianzado su control sobre la SIDE con la reciente designación.\n\n⚡ **Desarrollo:**\n*   La aprobación de la nueva política marca la conclusión de la primera fase de la reestructuración del organismo de inteligencia.\n*   Esta fase inicial se centró en ordenar procesos internos, auditar y transparentar la estructura de la SIDE, optimizando recursos.\n*   La nueva política establece como objetivos estratégicos posicionar a Argentina internacionalmente y preservar la soberanía y autonomía del país.\n*   Se buscará proteger recursos estratégicos e infraestructuras esenciales, así como anticipar y combatir amenazas en el ciberespacio de interés nacional.\n*   También se enfocará en el monitoreo de la desinformación disruptiva que pueda erosionar la cohesión institucional y la legitimidad del Estado.\n*   Un eje importante es asegurar la vigencia del sistema democrático, protegiendo procesos electorales y combatiendo la manipulación informativa y el financiamiento encubierto.\n*   El cambio de titular en la SIDE se explica por el deterioro de la relación del jefe saliente, Sergio Neiffert, con el asesor presidencial Santiago Caputo.\n*   Cristian Auguadra, de la confianza de Caputo, llega con la misión de garantizar una conducción alineada y un control riguroso sobre la gestión de información y fondos.\n\n💡 **¿Por qué importa?**\n*   Esta renovación es crucial para modernizar la inteligencia nacional, adaptándola a los desafíos contemporáneos como la ciberseguridad, la desinformación y la protección de intereses estratégicos.\n*   Define el nuevo rumbo y las prioridades de la SIDE, buscando un Estado más seguro, soberano y preparado para defender sus valores e intereses en el ámbito global.",
+      "tema_id": "mercado_cambiario:_dolar,_20251205",
+      "tema": "Mercado Cambiario: Dólar, Euro y BCRA",
+      "tema_normalizado": "mercado cambiario: dolar, euro y bcra",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino experimenta una \"paz cambiaria\", con el dólar blue cotizando, en algunos casos, por debajo del valor del dólar oficial minorista.\n• El Banco Central de la República Argentina (BCRA) implementará una nueva metodología para calcular el Tipo de Cambio de Referencia (dólar mayorista) a partir de enero de 2026, buscando mayor transparencia.\n• Las cotizaciones del dólar (oficial, blue, MEP, CCL, tarjeta, cripto) y el euro (oficial y blue) muestran estabilidad en los primeros días de diciembre de 2025, aunque persisten preocupaciones a futuro.\n\n🔍 **Datos clave:**\n• **Dólar Blue (05/12/2025):** $1410 (compra) / $1430 (venta).\n• **Dólar Oficial (05/12/2025 - BNA):** $1420 (compra) / $1470 (venta).\n• **Euro Oficial (05/12/2025 - promedio BCRA):** $1637,49 (compra) / $1733,79 (venta).\n• **Nueva Metodología BCRA (TCR):** Vigente desde 01/01/2026, basada en precios promedio ponderados de operaciones efectivamente concertadas (mínimo U$S500.000) por pantalla.\n• **Proyección Dólar Oficial (REM - dic 2025):** $1473.\n• **Depósitos Privados en Dólares:** U$S36.633 millones, un nuevo récord desde la convertibilidad.\n\n⚡ **Desarrollo:**\n• El dólar blue registró una baja del 1% en lo que va de diciembre de 2025, aunque acumula una suba del 36% en el año. Por décima jornada consecutiva, cerró por debajo del dólar oficial minorista.\n• La nueva metodología del BCRA para el cálculo del Tipo de Cambio de Referencia (TCR) reemplaza el sistema de encuestas por uno basado en operaciones reales y ponderadas por volumen, buscando mayor representatividad y alineación con estándares internacionales.\n• Las cotizaciones del dólar MEP ($1467,69) y CCL ($1508,59) mantienen una brecha con el oficial de 1.6% y 3.9%-4.6% respectivamente, mientras que el dólar tarjeta ($1911) incluye un recargo del 30%.\n• Expertos de la \"City\" alertan sobre una posible \"trampa del verano\" a partir de mediados de enero de 2026, donde la menor demanda estacional de pesos y los pagos a acreedores podrían reavivar la presión cambiaria.\n• Los depósitos privados en moneda dura alcanzaron un récord, superando los u$s36.000 millones, lo que indica que, a pesar de la dolarización de carteras, gran parte de esos billetes permanecen dentro del sistema financiero.\n• El Relevamiento de Expectativas de Mercado (REM) del BCRA proyecta que el dólar oficial se mantendrá dentro del esquema de bandas de flotación al menos hasta finales de 2026, con proyecciones de $1473 para diciembre de 2025 y $1720 para diciembre de 2026.\n\n💡 **¿Por qué importa?**\n• La estabilidad actual del tipo de cambio y las reformas en su cálculo oficial buscan fortalecer la confianza y transparencia en el mercado, vital para la economía argentina.\n• Es fundamental monitorear las proyecciones y las nuevas metodologías, así como las posibles presiones estacionales, ya que influyen directamente en la planificación financiera de ciudadanos y empresas.",
+      "cantidad_noticias": 28,
+      "noticias": [
+        {
+          "titulo": "Dólar blue hoy: a cuánto cotiza este viernes 05 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-viernes-05-diciembre_0_dDE0B9oc7P.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 04:00:01"
+        },
+        {
+          "titulo": "El Banco Central cambia la metodología para calcular la cotización del dólar",
+          "link": "https://www.minutouno.com/economia/el-banco-central-cambia-la-metodologia-calcular-la-cotizacion-del-dolar-n6221084",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 00:38:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-5-diciembre-n6221032",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 00:00:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-5-diciembre-n6221031",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-5-diciembre-n6221030",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 5 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-5-diciembre-n6221061",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 00:00:00"
+        },
+        {
+          "titulo": "A cuánto llegarán el dólar y la inflación a fin de año, según las consultoras que releva el Banco Central",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-estaran-la-inflacion-y-el-dolar-a-fin-de-ano-segun-las-consultoras-que-releva-el-banco-central.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 22:20:00"
+        },
+        {
+          "titulo": "El Banco Central cambia la forma de calcular el valor del dólar oficial",
+          "link": "https://www.perfil.com/noticias/economia/el-banco-central-cambia-la-forma-de-calcular-el-valor-del-dolar-oficial.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 21:03:00"
+        },
+        {
+          "titulo": "Para los economistas, el dólar se mantendría dentro de los límites de la banda al menos por un año",
+          "link": "https://www.lanacion.com.ar/economia/para-los-economistas-el-dolar-se-mantendria-dentro-de-los-limites-de-la-banda-al-menos-por-un-ano-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 20:44:03"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-4-diciembre-n6220758",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 20:34:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-4-diciembre-n6220601",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 20:32:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-4-diciembre-2025",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 20:24:00"
+        },
+        {
+          "titulo": "Precio del dólar, mes por mes: esto calculan que costará más de 40 economistas de la City",
+          "link": "https://www.iprofesional.com/finanzas/443408-precio-dolar-mes-por-mes-cuanto-costara-segun-40-economistas-de-la-city",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 19:42:00"
+        },
+        {
+          "titulo": "Dólar: en cuánto cerrará el 2025 y qué se proyecta para el primer trimestre de próximo año, según los gurúes de la city",
+          "link": "https://www.ambito.com/economia/dolar-cuanto-cerrara-el-2025-y-que-se-proyecta-el-primer-trimestre-proximo-ano-segun-los-gurues-la-city-n6220990",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 19:02:00"
+        },
+        {
+          "titulo": "Podrías perderlo todo: los tres métodos prohibidos para guardar tus ahorros en dólares",
+          "link": "https://www.ambito.com/economia/podrias-perderlo-todo-los-tres-metodos-prohibidos-guardar-tus-ahorros-dolares-n6220043",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 18:30:00"
+        },
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 4 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-4-diciembre-n6220581",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 17:55:00"
+        },
+        {
+          "titulo": "Dólar: el BCRA aprobó una nueva metodología para el cálculo del tipo de cambio oficial",
+          "link": "https://www.ambito.com/finanzas/el-bcraaprobo-una-nueva-metodologia-el-calculo-del-dolar-oficial-n6220947",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:36:00"
+        },
+        {
+          "titulo": "El BCRA cambia la forma de calcular el dólar oficial: por qué y cómo será a partir del 2026",
+          "link": "https://www.iprofesional.com/economia/443399-el-bcra-cambia-la-forma-de-calcular-el-dolar-oficial-por-que-y-como-sera-desde-el-2026",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 17:25:00"
+        },
+        {
+          "titulo": "El dólar blue volvió a retroceder y por décima jornada consecutiva cerró debajo del oficial",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-volvio-retroceder-y-decima-jornada-consecutiva-cerro-debajo-del-oficial-n6220932",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:24:00"
+        },
+        {
+          "titulo": "El dólar cedió a $ 1.470 y los bonos y acciones combinaron alzas y bajas",
+          "link": "https://www.clarin.com/economia/dolar-cedio-1470-bonos-acciones-combinan-alzas-bajas_0_2FssECUkt7.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 17:16:35"
+        },
+        {
+          "titulo": "El dólar oficial aceleró su dinámica bajista y cerró en mínimos de dos semanas",
+          "link": "https://www.ambito.com/finanzas/dolar-prima-la-calma-pero-la-baja-tasas-abre-dudas-un-eventual-regreso-las-tensiones-cambiarias-n6220639",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:03:00"
+        },
+        {
+          "titulo": "Los depósitos privados en dólares tocaron un nuevo récord desde el fin de la convertibilidad: superaron los u$s36.000 millones",
+          "link": "https://www.ambito.com/finanzas/los-depositos-privados-dolares-tocaron-un-nuevo-record-el-fin-la-convertibilidad-superaron-los-us36000-millones-n6220885",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 16:57:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-4-diciembre-n6220599",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 16:50:00"
+        },
+        {
+          "titulo": "¿El dólar en alerta máxima?: las señales que adelantan si se viene otro salto cambiario",
+          "link": "https://www.iprofesional.com/finanzas/443341-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:32:00"
+        },
+        {
+          "titulo": "Un factor puede recalentar la paz cambiaria: la City alerta por la \"trampa del verano\" para el dólar",
+          "link": "https://www.iprofesional.com/economia/443207-cual-es-trampa-verano-para-dolar-que-preocupa-al-mercado",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 16:00:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este jueves 4 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-4-diciembre-n6220600",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 15:48:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue este jueves 4 de diciembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-este-jueves-4-de-diciembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 15:46:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue este jueves 4 de diciembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-jueves-4-de-diciembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 15:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "La Nación",
+        "Minuto1",
+        "iProfesional",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reformas_laboral_y_20251205",
+      "tema": "Reformas Laboral y Penal Gobierno Milei",
+      "tema_normalizado": "reformas laboral y penal gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei ha presentado proyectos de reforma laboral y penal que buscan transformar el marco legal de Argentina.\n• Estas iniciativas, junto con otras como el Presupuesto 2026, son la prioridad en las sesiones extraordinarias del Congreso, convocadas del 10/11 al 31 de diciembre, con posible prórroga a febrero.\n\n🔍 **Datos clave:**\n• **182 artículos:** Contiene el proyecto de Ley de Modernización Laboral, que modifica la Ley de Contrato de Trabajo (N° 20.744) y otras normas clave.\n• **3%:** Contribución patronal obligatoria propuesta para un Fondo de Asistencia Laboral que podría sustituir indemnizaciones.\n• **75% y 50%:** Cobertura mínima de servicios esenciales y de importancia trascendental, respectivamente, requerida durante medidas de fuerza sindicales.\n• **10 a 30 años:** Es el nuevo rango de pena propuesto para el homicidio simple, elevando el actual de 8 a 25 años.\n• **10/11 de diciembre:** Fecha de inicio de las sesiones extraordinarias del Congreso para el tratamiento de estas reformas.\n\n⚡ **Desarrollo:**\n• **Reforma Laboral:** Propone flexibilizar las modalidades de contratación y redefinir la base de cálculo de indemnizaciones por despido, excluyendo conceptos no mensuales como el SAC.\n• Se habilita la creación de un fondo de cese laboral por convenio colectivo y se establece un régimen especial para repartidores de plataformas digitales, calificándolos como \"independientes\".\n• Se busca promover el empleo registrado con incentivos como la condonación de deudas previsionales para empleadores que blanqueen a su personal.\n• La reforma restringe el poder de las asociaciones sindicales, clasificando un amplio espectro de actividades como servicios esenciales y tipificando bloqueos a establecimientos como infracciones graves.\n• Incluye cambios impositivos, como la exención del IVA para energía eléctrica en riego agroindustrial y ajustes en el Impuesto a las Ganancias (actualización de quebrantos con IPC, exención de alquileres de casa-habitación desde 2026).\n• **Reforma Penal:** El proyecto busca endurecer las penas y elevar mínimos y máximos en una amplia lista de delitos.\n• Se propone la imprescriptibilidad para crímenes graves como homicidios agravados, abusos sexuales, grooming, narcotráfico y trata de personas.\n• La iniciativa busca la prisión efectiva para una mayor cantidad de delitos, limitando la posibilidad de condenas condicionales y liberaciones anticipadas, y exigiendo notificación a las víctimas.\n• Se incorporan figuras específicas para modalidades delictivas como \"motochorros\", \"viudas negras\" y el robo de dispositivos electrónicos.\n\n💡 **¿Por qué importa?**\n• Estas reformas buscan un cambio estructural en las relaciones laborales y en la política criminal argentina, con un impacto significativo en los derechos de los trabajadores, el funcionamiento de las empresas y la seguridad pública.\n• El Gobierno enfrenta el desafío de obtener el apoyo legislativo necesario en el Congreso para aprobar estas ambiciosas propuestas en un contexto de fragilidad parlamentaria.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Proyecto de Reforma laboral: qué cambios propone en Ganancias, IVA e Impuestos Internos",
+          "link": "https://www.iprofesional.com/impuestos/443427-proyecto-de-reforma-laboral-que-cambios-propone-en-ganancias-iva-e-impuestos-internos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 05:21:00"
+        },
+        {
+          "titulo": "Acceda al texto completo del proyecto de reforma laboral de 182 artículos",
+          "link": "https://www.iprofesional.com/impuestos/443425-acceda-al-texto-completo-del-proyecto-de-reforma-laboral-de-182-articulos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 05:20:00"
+        },
+        {
+          "titulo": "Reforma Laboral: los cambios en indemnizaciones, juicios, horas de trabajo, multas y vacaciones",
+          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-profundos-cambios-en-indemnizaciones-juicios-multas-y-vacaciones.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 03:03:56"
+        },
+        {
+          "titulo": "Javier Milei avanza con las sesiones extraordinarias en el Congreso: este viernes firmaría el decreto",
+          "link": "https://www.minutouno.com/politica/javier-milei-avanza-las-sesiones-extraordinarias-el-congreso-este-viernes-firmaria-el-decreto-n6220951",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 00:29:00"
+        },
+        {
+          "titulo": "Uno por uno, los proyectos que el Gobierno quiere que el Congreso apruebe en extraordinarias",
+          "link": "https://www.minutouno.com/politica/uno-uno-los-proyectos-que-el-gobierno-quiere-que-el-congreso-apruebe-extraordinarias-n6221037",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 22:00:00"
+        },
+        {
+          "titulo": "Agravamiento de penas e imprescriptibilidad: las claves del proyecto de Código Penal que impulsa el Gobierno",
+          "link": "https://www.minutouno.com/politica/agravamiento-penas-e-imprescriptibilidad-las-claves-del-proyecto-codigo-penal-que-impulsa-el-gobierno-n6221010",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 19:57:00"
+        },
+        {
+          "titulo": "El Gobierno firmará este viernes el llamado a sesiones extraordinarias",
+          "link": "https://www.ambito.com/politica/el-gobierno-firmara-este-viernes-el-llamado-sesiones-extraordinarias-n6221012",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 19:39:00"
+        },
+        {
+          "titulo": "Penas más duras, imprescriptibilidad y cambios en legítima defensa, la reforma del Código Penal que quiere el Gobierno",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-envio-al-congreso-su-reforma-del-codigo-penal-penas-mas-duras-imprescriptibilidad-y-cambios-en-legitima-defensa.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 19:02:00"
+        },
+        {
+          "titulo": "Milei convoca a sesiones extraordinarias del Congreso para sancionar el Presupuesto y las reformas laboral y penal",
+          "link": "https://www.clarin.com/politica/milei-convoca-sesiones-extraordinarias-congreso-sancionar-presupuesto-reformas-laboral-penal_0_Y0PR6yg3NS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 18:00:02"
+        },
+        {
+          "titulo": "Diputados: cuáles son las prioridades de Javier Milei y dónde puede conseguir los votos",
+          "link": "https://www.ambito.com/politica/diputados-cuales-son-las-prioridades-javier-milei-y-donde-puede-conseguir-los-votos-n6220849",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 15:55:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "iProfesional",
+        "Clarín",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "vuelos_venezuela_y_20251205",
+      "tema": "Vuelos Venezuela y Advertencias de EEUU",
+      "tema_normalizado": "vuelos venezuela y advertencias de eeuu",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las aerolíneas internacionales están suspendiendo masivamente sus vuelos hacia Venezuela, dejando al país prácticamente aislado del tráfico aéreo.\n• Esta situación se debe a reportes de interferencias en los sistemas de navegación satelital y a una advertencia de Estados Unidos por un aumento de la actividad militar en el Caribe.\n• El Departamento de Estado de EE. UU. ha recomendado a sus ciudadanos abandonar Venezuela \"de inmediato\" debido a múltiples riesgos, en un contexto de creciente tensión bilateral.\n\n🔍 **Datos clave:**\n• **12 aerolíneas:** Número de compañías que suspendieron vuelos hacia Venezuela (incluyendo Wingo, Copa, Satena, BoA, Iberia, Air Europa, entre otras).\n• **21 de noviembre:** Fecha de la advertencia de la FAA (Administración Federal de Aviación de EE. UU.) para \"extremar la precaución\" al sobrevolar Venezuela.\n• **Nivel 4:** Máximo nivel de alerta de viaje emitido por el Departamento de Estado de EE. UU. para Venezuela.\n• **12 de diciembre:** Fecha límite inicial hasta la cual algunas aerolíneas (Copa, Wingo) extendieron sus suspensiones.\n• **1.2 millones de km2:** Extensión del espacio aéreo venezolano (FIR Maiquetía) bajo responsabilidad de Venezuela.\n\n⚡ **Desarrollo:**\n• Aerolíneas como Wingo, Copa Airlines y Satena reportaron \"intermitencias\" e \"interferencias\" en señales de navegación, citando fenómenos de \"jamming y spoofing\".\n• Estas suspensiones se dan en medio de un \"inusitado\" despliegue militar de Estados Unidos en el Mar Caribe, incluyendo el portaaviones USS Gerald Ford, para combatir el narcotráfico.\n• El presidente Donald Trump llegó a publicar en redes sociales que el espacio aéreo \"sobre y alrededor de Venezuela está cerrado en su totalidad\", aunque no hay una prohibición formal.\n• El régimen venezolano, liderado por Nicolás Maduro, ha revocado concesiones a aerolíneas y acusa a EE. UU. de buscar un cambio de régimen y justificar una guerra.\n• EE. UU. ha intensificado sus operaciones contra \"narcolanchas\" en el Pacífico y el Caribe, vinculando al \"Cartel de los Soles\" (que incluye a Maduro) como organización terrorista desde el 24 de noviembre.\n• La recomendación de EE. UU. a sus ciudadanos de abandonar Venezuela se basa en altos riesgos de detención injusta, tortura, terrorismo, secuestro y una infraestructura sanitaria deficiente.\n• Políticos chavistas, como Diosdado Cabello, han arremetido públicamente contra activistas venezolanos en el exilio, generando denuncias de amenazas.\n• El aeropuerto de Maiquetía, principal de Venezuela, ha visto reducidos sus vuelos internacionales a solo unas pocas rutas operadas por aerolíneas venezolanas.\n\n💡 **¿Por qué importa?**\n• La suspensión de vuelos y las advertencias de EE. UU. profundizan el aislamiento de Venezuela, afectando la movilidad de personas, la economía y el comercio internacional.\n• Esta escalada de tensión refleja un posible conflicto mayor entre EE. UU. y el gobierno de Maduro, con implicaciones significativas para la seguridad regional y los derechos humanos.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "Tres aerolíneas frenan vuelos a Venezuela por interferencias en navegación y activan opciones para viajeros",
+          "link": "https://www.infobae.com/colombia/2025/12/05/tres-aerolineas-frenan-vuelos-a-venezuela-por-interferencias-en-navegacion-y-activan-opciones-para-viajeros/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-05 05:55:48"
+        },
+        {
+          "titulo": "Venezuela: ya 12 aerolíneas suspendieron sus vuelos tras las fallas que reportaron los pilotos en el aire",
+          "link": "https://www.clarin.com/mundo/venezuela-12-aerolineas-suspendieron-vuelos-fallas-reportaron-pilotos-aire_0_4C0V5QbOkm.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 01:23:37"
+        },
+        {
+          "titulo": "Crece la tensión: Estados Unidos recomendó a sus ciudadanos abandonar Venezuela \"de inmediato\"",
+          "link": "https://www.minutouno.com/mundo/crece-la-tension-estados-unidos-recomendo-sus-ciudadanos-abandonar-venezuela-de-inmediato-n6221071",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 23:17:00"
+        },
+        {
+          "titulo": "Estados Unidos atacó una \"narcolancha\" en el Pacífico, mientras aumenta la tensión con Venezuela",
+          "link": "https://www.clarin.com/mundo/estados-unidos-ataco-narcolancha-pacifico-aumenta-tension-venezuela_0_X4pGW7cJJK.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 22:46:56"
+        },
+        {
+          "titulo": "Sigue la tensión: EEUU renovó su recomendación de no viajar a Venezuela y pidió a sus ciudadanos abandonar el país",
+          "link": "https://www.ambito.com/mundo/sigue-la-tension-eeuu-renovo-su-recomendacion-no-viajar-venezuela-y-pidio-sus-ciudadanos-abandonar-el-pais-n6221070",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 22:36:34"
+        },
+        {
+          "titulo": "La mano derecha de Maduro descalificó a una activista venezolana exiliada en la Argentina y ella denunció amenazas",
+          "link": "https://www.lanacion.com.ar/el-mundo/la-mano-derecha-de-maduro-descalifico-a-una-activista-venezolana-exiliada-en-la-argentina-y-ella-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-04 21:50:07"
+        },
+        {
+          "titulo": "La advertencia de Donald Trump y el temor de las aerolíneas extranjeras: ¿Es seguro volar en Venezuela?",
+          "link": "https://www.clarin.com/mundo/advertencia-donald-trump-temor-aerolineas-extranjeras-seguro-volar-venezuela_0_T7JXBuNj6N.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 16:30:25"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación",
+        "Minuto1",
+        "Clarín",
+        "Infobae"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "nueva_politica_de_20251205",
+      "tema": "Nueva Política de Inteligencia Nacional (SIDE)",
+      "tema_normalizado": "nueva politica de inteligencia nacional (side)",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino aprobó una nueva Política de Inteligencia Nacional, actualizando los lineamientos y objetivos generales del Sistema de Inteligencia Nacional (SIN).\n• Esta es la primera actualización en veinte años y se oficializó tras el nombramiento de Cristian Auguadra como nuevo jefe de la Secretaría de Inteligencia del Estado (SIDE).\n• La medida busca modernizar y reorientar las prioridades del organismo de inteligencia.\n\n🔍 **Datos clave:**\n• **Organismo:** Secretaría de Inteligencia del Estado (SIDE).\n• **Nuevo Jefe SIDE:** Cristian Auguadra.\n• **Jefe SIDE anterior:** Sergio Neiffert (desplazado).\n• **Fecha de aprobación:** 5 de diciembre de 2025.\n• **Última actualización previa:** Hace 20 años.\n• **Decreto de reglamentación:** Decreto 864/2025.\n• **Asesor clave:** Santiago Caputo, considerado el principal estratega político del oficialismo e influyente en el nombramiento de Auguadra.\n• **Ejes estratégicos:** Se definieron 6 nuevos lineamientos para la política de inteligencia.\n\n⚡ **Desarrollo:**\n• La nueva política se enmarca en un proceso de reestructuración de la SIDE, que culminó con el desplazamiento de Neiffert y el ascenso de Auguadra.\n• Cristian Auguadra, contador con experiencia en auditoría, proviene de la División de Asuntos Internos (DAI), un área clave para la supervisión y control interno del organismo.\n• Su nombramiento se interpreta como la consolidación del control de Santiago Caputo sobre la SIDE, dado que Auguadra es un funcionario de extrema confianza del asesor.\n• Los seis ejes estratégicos que guiarán la nueva política buscan:\n    • Posicionar a la Argentina en el plano internacional y preservar su soberanía y autonomía estratégica.\n    • Proteger los recursos críticos y las infraestructuras esenciales del país.\n    • Prevenir y combatir el terrorismo y el crimen organizado en todas sus manifestaciones.\n    • Anticipar y contrarrestar las amenazas en el ciberespacio de interés nacional.\n    • Neutralizar actividades de inteligencia externas que puedan afectar los intereses nacionales.\n• El objetivo es consolidar un Estado moderno, seguro, soberano y fundado en los valores de la libertad.\n• También se busca profundizar las capacidades en cooperación internacional para la producción de \"información de calidad\" y el abordaje mancomunado de problemáticas.\n\n💡 **¿Por qué importa?**\n• Esta nueva política redefine la misión y las prioridades de la inteligencia argentina tras dos décadas sin una actualización, adaptándola a los desafíos geopolíticos y tecnológicos actuales.\n• Marca una nueva etapa en la SIDE, con un liderazgo fuertemente alineado con el núcleo de poder del actual Gobierno, reforzando el control y la dirección estratégica del organismo.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Tras la designación del nuevo jefe de la SIDE, el Gobierno renovó la política de Inteligencia Nacional",
-          "link": "https://www.infobae.com/politica/2025/12/05/tras-la-designacion-del-nuevo-jefe-de-la-side-el-gobierno-renovo-la-politica-de-inteligencia-nacional/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 02:34:48"
+          "titulo": "SIDE: tras la llegada de Auguadra, el Gobierno presentó los 6 ejes de la nueva política de Inteligencia Nacional",
+          "link": "https://www.clarin.com/politica/side-llegada-auguadra-gobierno-presento-6-ejes-nueva-politica-inteligencia-nacional_0_ECjizM6EYU.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 04:33:12"
         },
         {
           "titulo": "El Gobierno aprobó una nueva Política de Inteligencia Nacional a cargo de la SIDE",
@@ -32,9 +369,9 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Infobae",
-        "La Nación",
-        "Ámbito Financiero"
+        "Clarín",
+        "Ámbito Financiero",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -42,48 +379,48 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "convocatoria_sesiones_extraordinarias_20251205",
-      "tema": "Convocatoria sesiones extraordinarias Congreso",
-      "tema_normalizado": "convocatoria sesiones extraordinarias congreso",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Presidente Javier Milei ha convocado oficialmente a sesiones extraordinarias del Congreso Nacional.\n*   El objetivo principal es impulsar rápidamente su agenda legislativa y lograr la aprobación de leyes clave durante el período de receso estival.\n*   Los proyectos prioritarios incluyen el Presupuesto 2026, que sería el primero de su gestión, y un ambicioso paquete de reformas económicas, laborales y judiciales.\n\n🔍 **Datos clave:**\n*   **Convocatoria:** El decreto fue firmado este viernes, con publicación prevista para el martes 9 de diciembre en el Boletín Oficial, oficializando el llamado.\n*   **Período:** Las sesiones están fijadas desde el 10 u 11 de diciembre hasta el 31 de diciembre, con la posibilidad de una prórroga para fines de enero y mediados de febrero.\n*   **Proyectos principales:** Presupuesto 2026, reforma laboral, reforma penal, reforma tributaria, modificación de la Ley de Glaciares y la ley de \"inocencia fiscal\".\n*   **Principales negociadores/interlocutores:** Martín Menem (titular de la Cámara de Diputados), Patricia Bullrich (jefa del bloque libertario en el Senado), Diego Santilli (Ministro del Interior).\n\n⚡ **Desarrollo:**\n*   El gobierno busca asegurar la sanción del Presupuesto 2026 como una de las primeras grandes victorias legislativas de la nueva administración.\n*   Se intensifican las negociaciones con diversos legisladores y gobernadores para acumular los respaldos necesarios que posibiliten la aprobación de las iniciativas.\n*   La reforma laboral es uno de los proyectos más ambiciosos y controvertidos, con un contenido que se filtró y es abiertamente resistido por la Confederación General del Trabajo (CGT).\n*   Esta reforma apunta a cambios sustanciales en la estabilidad de los trabajadores, el régimen de indemnizaciones y los convenios por empresa.\n*   La reforma penal implica un endurecimiento de las penas en un amplio abanico de delitos y la restricción de beneficios que permiten morigeraciones de condenas.\n*   La reforma tributaria incluiría la creación de un posible \"súper IVA\" de hasta el 29% y cambios en el Impuesto a las Ganancias.\n*   Los cambios a la Ley de Glaciares responden al pedido de gobernadores para achicar zonas periglaciares y facilitar proyectos mineros.\n*   La \"mesa chica\" presidencial, liderada por la Secretaria General Karina Milei, es la encargada de definir y ordenar la estrategia parlamentaria.\n*   En el Congreso, existe preocupación por el escaso margen temporal para debatir proyectos de tal volumen y complejidad, pese a la urgencia del Ejecutivo.\n*   El Ejecutivo decidió que el Presupuesto y la reforma laboral ingresen por el Senado, con el objetivo de iniciar rápidamente los debates en comisiones.\n\n💡 **¿Por qué importa?**\n*   Esta convocatoria representa un test crucial para la capacidad del nuevo gobierno de Milei de articular mayorías, construir consensos legislativos y gestionar su fragilidad parlamentaria.\n*   El éxito o fracaso en estas sesiones definirá el ritmo y la viabilidad de las profundas reformas económicas y sociales que el Presidente busca implementar en Argentina.",
+      "tema_id": "colocacion_de_deuda_20251205",
+      "tema": "Colocación de Deuda Pública Santa Fe",
+      "tema_normalizado": "colocacion de deuda publica santa fe",
+      "resumen": "📌 **¿Qué está pasando?**\n• La provincia de Santa Fe obtuvo un importante financiamiento internacional al colocar un bono de deuda pública.\n• La operación, realizada en Wall Street (Nueva York), le permitió conseguir US$ 800 millones.\n• Con esta colocación, Santa Fe se posiciona entre los distritos argentinos con mayor credibilidad en los mercados.\n\n🔍 **Datos clave:**\n• **Monto de la colocación:** US$ 800 millones.\n• **Plazo del bono:** 9 años.\n• **Tasa de interés anual:** 8,10%.\n• **Tipo de bono:** SF34, emitido bajo legislación de Nueva York.\n• **Ofertas recibidas:** US$ 1.800 millones, de más de 111 grandes fondos internacionales y 1.200 inversores minoristas.\n• **Inversión local:** US$ 350 millones, aportados por más de 800 inversores bancarios, institucionales y minoristas argentinos.\n• **Funcionarios clave:** Gobernador Maximiliano Pullaro y Ministro de Economía Pablo Olivares.\n• **Comparación con CABA:** La Ciudad de Buenos Aires colocó US$ 600 millones a 7 años, con una tasa del 7,8%.\n• **Precedente:** Córdoba fue la primera provincia en emitir deuda en la \"era Milei\" a fines de junio, por US$ 725 millones a una tasa del 9,75%.\n\n⚡ **Desarrollo:**\n• Los fondos obtenidos se destinarán a proyectos estratégicos de infraestructura en la provincia. Incluyen obras energéticas como grandes gasoductos, mejoras viales y planes de seguridad pública.\n• También se financiarán proyectos para fortalecer el sistema penitenciario y obras de infraestructura social en distintos puntos del territorio.\n• El ministro Pablo Olivares destacó la solidez fiscal, el bajo nivel de endeudamiento y la gestión ordenada de Santa Fe como factores clave para lograr condiciones favorables.\n• Subrayó que Santa Fe, junto con CABA, son los únicos gobiernos subnacionales en Argentina que nunca reestructuraron su deuda, un antecedente valorado por inversores.\n• La alta demanda por el bono (superando el monto buscado) permitió a la provincia asegurar una tasa competitiva y un plazo extendido.\n• El bono SF34, con su vencimiento a 9 años, se convirtió en el título subsoberano de mayor plazo en el mercado.\n\n💡 **¿Por qué importa?**\n• Esta colocación exitosa demuestra la confianza de inversores internacionales y locales en la solvencia y perspectivas de crecimiento de la provincia de Santa Fe.\n• El financiamiento permitirá a la provincia ejecutar obras de infraestructura y seguridad cruciales para el desarrollo productivo y la mejora de la calidad de vida de sus habitantes.\n• La operación es una señal positiva para la economía argentina en general, contribuyendo a la oferta de dólares y facilitando la inserción del país en los mercados financieros globales.",
       "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "El Gobierno llega a las extraordinarias con aire por el Presupuesto, pero continúa la negociación por las reformas",
-          "link": "https://www.infobae.com/politica/2025/12/05/el-gobierno-llega-a-las-extraordinarias-con-aire-por-el-presupuesto-pero-continua-la-negociacion-por-las-reformas/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 02:21:52"
+          "titulo": "La provincia de Santa Fe colocó deuda por US$ 800 millones en Nueva York",
+          "link": "https://www.perfil.com/noticias/economia/la-provincia-de-santa-fe-coloco-deuda-por-us-800-millones-en-nueva-york.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-04 20:30:00"
         },
         {
-          "titulo": "Javier Milei avanza con las sesiones extraordinarias en el Congreso: este viernes firmaría el decreto",
-          "link": "https://www.minutouno.com/politica/javier-milei-avanza-las-sesiones-extraordinarias-el-congreso-este-viernes-firmaria-el-decreto-n6220951",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:29:00"
+          "titulo": "Santa Fe colocó deuda y la lluvia de dólares entre provincias y empresas alcanza los u$s6.000M",
+          "link": "https://www.iprofesional.com/finanzas/443126-emisiones-deuda-suman-6000-millones-dolares-y-refuerzan-veranito-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 18:50:00"
         },
         {
-          "titulo": "Uno por uno, los proyectos que el Gobierno quiere que el Congreso apruebe en extraordinarias",
-          "link": "https://www.minutouno.com/politica/uno-uno-los-proyectos-que-el-gobierno-quiere-que-el-congreso-apruebe-extraordinarias-n6221037",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 22:00:00"
+          "titulo": "Otra provincia salió al mercado internacional: Santa Fe colocó u$s800 millones en Nueva York",
+          "link": "https://www.iprofesional.com/economia/443404-otra-provincia-salio-mercado-deuda-santa-fe-coloco-800-millones-dolares-nueva-york",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 18:03:00"
         },
         {
-          "titulo": "El Gobierno firmará este viernes el llamado a sesiones extraordinarias",
-          "link": "https://www.ambito.com/politica/el-gobierno-firmara-este-viernes-el-llamado-sesiones-extraordinarias-n6221012",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 19:39:00"
-        },
-        {
-          "titulo": "Milei convoca a sesiones extraordinarias del Congreso para sancionar el Presupuesto y las reformas laboral y penal",
-          "link": "https://www.clarin.com/politica/milei-convoca-sesiones-extraordinarias-congreso-sancionar-presupuesto-reformas-laboral-penal_0_Y0PR6yg3NS.html",
+          "titulo": "Santa Fe debutó en Wall Street y cosechó US$ 800 millones a una tasa de 8,1% y un plazo de 9 años",
+          "link": "https://www.clarin.com/economia/santa-fe-debuto-wall-street-cosecho-us-800-millones-tasa-81-plazo-9-anos_0_ZTqsZ5rUjD.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-04 18:00:02"
+          "fecha": "2025-12-04 17:55:51"
+        },
+        {
+          "titulo": "Santa Fe colocó deuda por u$s800 millones en Nueva York, a nueve años y una tasa del 8,1%",
+          "link": "https://www.ambito.com/economia/santa-fe-coloco-deuda-us800-millones-nueva-york-nueve-anos-y-una-tasa-del-81-n6220913",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:07:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Infobae",
-        "Minuto1",
+        "Perfil",
+        "iProfesional",
         "Ámbito Financiero",
         "Clarín"
       ],
@@ -93,10 +430,172 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "relacion_milei-trump_y_20251205",
-      "tema": "Relación Milei-Trump y embajador Lamelas",
-      "tema_normalizado": "relacion milei-trump y embajador lamelas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El nuevo embajador de Estados Unidos en Argentina, Peter Lamelas, ha declarado públicamente que su misión es \"ayudar\" al presidente Javier Milei por encargo directo de Donald Trump.\n• Lamelas afirmó que no actuará de manera neutral, generando debate sobre su rol diplomático.\n• Esta cercanía ideológica se ha visto tensada por un reciente \"cortocircuito\" diplomático.\n\n🔍 **Datos clave:**\n• **Embajador de EE.UU. en Argentina:** Peter Lamelas.\n• **Presidente de EE.UU. (mencionado):** Donald Trump.\n• **Presidente de Argentina:** Javier Milei.\n• **Evento de bienvenida de Lamelas:** Brindis de la AmCham (Cámara de Comercio de EE.UU. en Argentina).\n• **Funcionarios argentinos presentes:** Luis Caputo, Manuel Adorni, Pablo Quirno, Santiago Caputo, entre otros.\n• **Secretario del Tesoro de EE.UU.:** Scott Bessent (canceló visita a Argentina).\n• **Evento omitido por Milei:** Sorteo del Mundial 2026 (donde se esperaba a Trump).\n\n⚡ **Desarrollo:**\n• El embajador Peter Lamelas declaró que Donald Trump lo llamó y le pidió que viniera a Argentina \"a ayudar a su amigo Javier Milei\", no a cualquier gobierno o partido.\n• Lamelas reconoció que \"a veces los embajadores tienen que ser neutrales\" pero enfatizó que él \"claramente no tengo que hacer eso\", aunque luego matizó que no se involucrará en la política local.\n• El gobierno argentino mostró un fuerte respaldo a Lamelas en su bienvenida, con la presencia de importantes funcionarios.\n• Lamelas destacó la oportunidad de \"hacer Argentina grande otra vez\" mediante el apoyo al gobierno, a las empresas y al capitalismo.\n• Mencionó que está trabajando para concretar una visita de Donald Trump a Argentina, considerándola importante para el avance del país.\n• La relación experimentó un \"cortocircuito\" cuando la cancelación del viaje del secretario del Tesoro estadounidense, Scott Bessent, fue interpretada como una respuesta a la ausencia de Milei en el sorteo del Mundial 2026.\n• Washington consideró la ausencia de Milei, supuestamente para evitar a Claudio “Chiqui” Tapia, como un \"gesto de desdén\" y una falta de reciprocidad.\n\n💡 **¿Por qué importa?**\n• La posición abiertamente pro-Milei del embajador Lamelas marca una alineación política inusual y personal que podría potenciar la influencia estadounidense en Argentina, especialmente si Trump regresa a la Casa Blanca.\n• El reciente desacuerdo evidencia que, a pesar de la cercanía ideológica, la relación no es automática y Milei necesita demostrar previsibilidad y voluntad diplomática para consolidar la alianza con Estados Unidos.",
+      "tema_id": "causas_judiciales_y_20251205",
+      "tema": "Causas Judiciales y Fallos de la Corte",
+      "tema_normalizado": "causas judiciales y fallos de corte",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Poder Judicial argentino emitió múltiples decisiones clave en causas de alto impacto político y social.\n• Estas abarcan desde condenas finales y órdenes de investigación, hasta mandatos sobre políticas públicas y conflictos de poderes.\n\n🔍 **Datos clave:**\n• **Corte Suprema:** Confirmó condena a Julio De Vido (Tragedia de Once, 4 años); ordenó plan Delta (incendios); dispuso distribución de alimentos (Capital Humano, 5 millones kg).\n• **Cámaras Federales:** Ordenaron investigar audios ANDIS (Spagnuolo); mantuvieron querellantes caso $LIBRA (Grabois).\n• **Juicios en curso:** Cuadernos (UIF acusa Cristina Kirchner); Fútbol para Todos (veredicto Aníbal Fernández y Capitanich).\n• **Apelaciones:** Cristina Kirchner apeló restricciones visitas y decomiso de 20 propiedades ($685.000 millones) en causa Vialidad.\n\n⚡ **Desarrollo:**\n• La Cámara Federal ordenó al juez Casanello investigar la veracidad y origen de audios del extitular de ANDIS, Diego Spagnuolo.\n• La Corte Suprema ratificó la condena de 4 años para Julio De Vido por administración fraudulenta en la Tragedia de Once.\n• El Máximo Tribunal condenó al Estado y a provincias clave a ejecutar el plan PIECAS-DP por la inacción ante los incendios del Delta.\n• La Corte rechazó un recurso de Capital Humano, confirmando la orden de distribuir 5 millones de kilos de alimentos almacenados.\n• En el caso $LIBRA, la Corte mantuvo a los afectados (asesorados por Juan Grabois) como querellantes, desestimando la defensa.\n• La UIF acusa a Cristina Kirchner como \"principal artífice\" de una organización criminal en el juicio por el caso Cuadernos.\n• Se espera el veredicto del Tribunal Oral Federal 1 en el juicio de \"Fútbol para Todos\", que juzga a exfuncionarios.\n• Cristina Kirchner apeló restricciones de visitas y el avance sobre sus propiedades por el decomiso en la causa Vialidad.\n\n💡 **¿Por qué importa?**\n• Estas decisiones judiciales son fundamentales para la rendición de cuentas, la transparencia y la aplicación de la ley en la gestión pública.\n• Subrayan el rol del Poder Judicial como un contrapeso esencial, influyendo en la política, la economía y la sociedad argentina.",
+      "cantidad_noticias": 12,
+      "noticias": [
+        {
+          "titulo": "La Cámara Federal ordenó a Casanello investigar “el origen y la veracidad” de los audios de Spagnuolo",
+          "link": "https://www.perfil.com/noticias/politica/la-camara-federal-ordeno-a-casanello-investigar-el-origen-y-la-veracidad-de-los-audios-de-spagnuolo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 00:50:00"
+        },
+        {
+          "titulo": "Tragedia de Once: la Corte Suprema desestimó el último recurso de Julio De Vido y tendrá que cumplir su condena",
+          "link": "https://www.ambito.com/politica/tragedia-once-la-corte-suprema-desestimo-el-ultimo-recurso-julio-vido-y-tendra-que-cumplir-su-condena-n6221014",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 20:14:00"
+        },
+        {
+          "titulo": "La Corte Suprema condenó al Estado, provincias y municipios por los incendios en el Delta",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-condeno-al-estado-provincias-y-municipios-los-incendios-el-delta-n6220968",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 19:20:00"
+        },
+        {
+          "titulo": "La Corte Suprema rechazó una presentación del Gobierno por la distribución de alimentos en comedores",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-rechazo-una-presentacion-del-gobierno-la-distribucion-alimentos-comedores-n6220941",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 18:19:00"
+        },
+        {
+          "titulo": "Caso $LIBRA: la Corte desestimó un recurso de Mauricio Novelli y sostuvo a los querellantes",
+          "link": "https://www.ambito.com/politica/caso-libra-la-corte-desestimo-un-recurso-mauricio-novelli-y-sostuvo-los-querellantes-n6220930",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 17:21:00"
+        },
+        {
+          "titulo": "Juicio por el caso Cuadernos: según el organismo antilavado, Cristina Kirchner fue \"la mayor artífice de la organización criminal\"",
+          "link": "https://www.clarin.com/politica/juicio-caso-cuadernos-organismo-antilavado-cristina-kirchner-mayor-artifice-organizacion-criminal_0_XNBeVfzETi.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 16:18:59"
+        },
+        {
+          "titulo": "Fútbol para Todos: este viernes se conoce el veredicto en el juicio contra Aníbal Fernández y Capitanich",
+          "link": "https://www.clarin.com/politica/futbol-viernes-conoce-veredicto-juicio-anibal-fernandez-capitanich_0_RH0dNfdU9P.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 15:44:55"
+        },
+        {
+          "titulo": "Caso ANDIS: la Cámara Federal ordenó investigar el origen de los audios de Diego Spagnuolo",
+          "link": "https://www.minutouno.com/politica/caso-andis-la-camara-federal-ordeno-investigar-el-origen-los-audios-diego-spagnuolo-n6220881",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 15:09:00"
+        },
+        {
+          "titulo": "ANDIS: la Cámara Federal ordenó investigar el origen y la veracidad de los audios de Spagnuolo",
+          "link": "https://www.clarin.com/politica/andis-camara-federal-ordeno-investigar-origen-veracidad-audios-spagnuolo_0_EHonIgRphe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 15:05:09"
+        },
+        {
+          "titulo": "Cristina Kirchner apeló las restricciones impuestas al régimen de visitas en su casa",
+          "link": "https://www.minutouno.com/politica/cristina-kirchner-apelo-las-restricciones-impuestas-al-regimen-visitas-su-casa-n6220877",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-04 15:05:00"
+        },
+        {
+          "titulo": "Cristina Kirchner apeló las restricciones impuestas al régimen de visitas y el avance sobre propiedades de su familia",
+          "link": "https://www.ambito.com/politica/cristina-kirchner-apelo-las-restricciones-impuestas-al-regimen-visitas-y-el-avance-propiedades-su-familia-n6220844",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 14:34:20"
+        },
+        {
+          "titulo": "La Justicia en lo Penal Económico rechazó investigar a \"Chiqui\" Tapia por la mansión en Pilar",
+          "link": "https://www.clarin.com/politica/justicia-penal-economico-rechazo-investigar-chiqui-tapia-mansion-pilar_0_3AJ0EYm9GF.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 14:32:20"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "Minuto1",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reforma_previsional_macri_20251205",
+      "tema": "Reforma Previsional Macri y Jubilados",
+      "tema_normalizado": "reforma previsional macri y jubilados",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Corte Suprema de Justicia de Argentina confirmó la constitucionalidad de la Ley 27.426, conocida como la reforma previsional del gobierno de Mauricio Macri.\n*   Esta decisión valida los cambios en el cálculo de los haberes jubilatorios y su movilidad, establecidos desde diciembre de 2017.\n*   El fallo cerró un largo debate judicial que había llegado al Máximo Tribunal, desestimando los reclamos de inconstitucionalidad.\n\n🔍 **Datos clave:**\n*   **Ley:** 27.426 (Reforma Previsional Macri).\n*   **Aprobación:** Diciembre de 2017.\n*   **Demandante:** Miguel Ángel Fernández Pastor, exdirector de ANSES.\n*   **Jueces firmantes:** Horacio Rosatti, Carlos Rosenkrantz, Ricardo Lorenzetti.\n*   **Fórmula anterior (Ley 26.417):** Movilidad semestral.\n*   **Nueva fórmula (Ley 27.426):** Movilidad trimestral (70% IPC + 30% RIPTE).\n*   **Impacto inicial:** En marzo de 2018 se aplicó un 5,71% de ajuste con la nueva fórmula, en lugar del 14,71% que hubiera correspondido con la anterior.\n\n⚡ **Desarrollo:**\n*   La Ley 27.426 modificó los artículos clave que establecían cómo se actualizaban las jubilaciones y el haber inicial.\n*   Reemplazó el mecanismo de movilidad semestral vigente hasta entonces por uno trimestral, basado en un índice compuesto.\n*   El demandante, Fernández Pastor, argumentó que la reforma era retroactiva y vulneraba derechos adquiridos de los jubilados, específicamente sobre el ajuste de marzo de 2018.\n*   La Sala III de la Cámara Federal de la Seguridad Social había declarado inconstitucional el artículo 2° de la ley, que definía la primera actualización con el nuevo esquema.\n*   La Corte Suprema revocó esa sentencia, señalando que la Constitución garantiza la movilidad, pero no prescribe un único sistema de cálculo.\n*   El tribunal afirmó que nadie posee un \"derecho adquirido\" a la permanencia de una ley o a su falta de modificación.\n*   Respecto al aumento de marzo de 2018, la Corte sostuvo que el derecho a percibir el ajuste mayor de la ley anterior no había \"nacido\" aún cuando la Ley 27.426 entró en vigencia en diciembre de 2017.\n*   La aprobación de esta ley en 2017 estuvo marcada por fuertes protestas y disturbios frente al Congreso Nacional.\n\n💡 **¿Por qué importa?**\n*   Este fallo de la Corte Suprema cierra de manera definitiva un capítulo central en la disputa judicial sobre la reforma previsional de Macri.\n*   Confirma la validez constitucional de una fórmula de movilidad que rigió por varios años y sienta un precedente sobre la facultad del Congreso para modificar sistemas previsionales sin afectar derechos adquiridos según la interpretación judicial.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Se confirmó la reforma previsional de Mauricio Macri: qué propone",
+          "link": "https://www.iprofesional.com/economia/443411-se-confirmo-reforma-previsional-mauricio-macri-que-propone",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 19:01:00"
+        },
+        {
+          "titulo": "Revés para los jubilados: la Corte Suprema declara constitucional el ajuste de la movilidad con Mauricio Macri",
+          "link": "https://www.clarin.com/economia/reves-jubilados-corte-suprema-declara-constitucional-ajuste-movilidad-mauricio-macri_0_8NA5XnVDGD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 15:21:56"
+        },
+        {
+          "titulo": "La Corte Suprema confirmó la validez de la reforma previsional de Mauricio Macri",
+          "link": "https://www.ambito.com/politica/la-corte-suprema-confirmo-la-validez-la-reforma-previsional-mauricio-macri-n6220837",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 15:07:33"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Clarín",
+        "iProfesional",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "pobreza_e_indigencia_20251205",
+      "tema": "Pobreza e Indigencia según UCA",
+      "tema_normalizado": "pobreza e indigencia segun uca",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Universidad Católica Argentina (UCA) reportó una significativa baja en la pobreza e indigencia durante el tercer trimestre de 2025.\n• Estos indicadores muestran una mejora tras el fuerte deterioro registrado en 2024, que marcó los niveles más altos desde 2005.\n• Sin embargo, la UCA advierte que la fragilidad social y la pobreza crónica persisten en amplios sectores de la población argentina.\n\n🔍 **Datos clave:**\n• **Pobreza (UCA, 3T 2025):** 36,3%.\n• **Indigencia (UCA, 3T 2025):** 6,8%.\n• **Pobreza (UCA, 3T 2024):** 45,6% (el valor más alto desde 2005).\n• **Indigencia (UCA, 3T 2024):** 11,2%.\n• **Nivel de pobreza actual:** El más bajo desde 2018.\n• **Metodología UCA:** Encuestas en aglomerados urbanos (más de 80.000 habitantes) a 3.000 hogares, con un error muestral del 1,8%.\n• **Canastas básicas:** Utilizadas para medir la pobreza, están basadas en consumos de 2003-2004 y no han sido actualizadas.\n\n⚡ **Desarrollo:**\n• La mejora en los indicadores se atribuye a la estabilización inflacionaria y a una recuperación parcial de los ingresos laborales, transferencias y la actividad informal.\n• La UCA señala que, a pesar de la baja, la \"cronicidad de la pobreza\" se mantiene, con un \"piso estructural\" de alrededor del 5% de indigencia y 25% de pobreza en los últimos 20 años.\n• Los informes destacan que la estabilidad macroeconómica no se traduce aún en mejoras reales en el bienestar cotidiano, con ingresos insuficientes y menor calidad laboral.\n• Se advierte que la caída en los números oficiales podría estar influenciada por cambios en la captación de ingresos en la Encuesta Permanente de Hogares (EPH).\n• La UCA sostiene que Argentina ha transitado un proceso de \"ajuste más normalización\" en lugar de un verdadero desarrollo, lo que genera malestar subjetivo y precariedad persistente.\n\n💡 **¿Por qué importa?**\n• Evidencia que, si bien hay una mejora coyuntural, la estructura social argentina sigue marcada por una pobreza persistente y la necesidad de cambios estructurales profundos.\n• Resalta la importancia de una medición actualizada y contextualizada de la pobreza para comprender el impacto real de las políticas económicas en la vida de las personas.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "La pobreza cayó al 36,3% y alcanzó su nivel más bajo desde 2018, según la UCA",
+          "link": "https://www.iprofesional.com/economia/443387-pobreza-cayo-al-36-3-por-cientoalcanzo-su-nivel-mas-bajo-desde-2018-segun-uca",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-04 15:06:00"
+        },
+        {
+          "titulo": "Según la UCA, la pobreza bajó al 36,3% y la indigencia al 6,8% en el tercer trimestre",
+          "link": "https://www.ambito.com/economia/la-pobreza-al-363-el-tercer-trimestre-segun-la-uca-n6220810",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-04 14:55:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "declaraciones_de_trump_20251205",
+      "tema": "Declaraciones de Trump sobre Javier Milei",
+      "tema_normalizado": "declaraciones de trump sobre javier milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El nuevo embajador de Estados Unidos en Argentina, Peter Lamelas, ha declarado abiertamente que fue enviado por Donald Trump con la tarea explícita de \"ayudar a su amigo Javier Milei\".\n• Estas afirmaciones, hechas durante un evento de la Cámara de Comercio estadounidense (AmCham), sugieren una postura diplomática no neutral que generó controversia.\n\n🔍 **Datos clave:**\n• **Peter Lamelas:** Actual embajador de EE.UU. en Argentina.\n• **Donald Trump:** Expresidente de EE.UU., quien, según Lamelas, lo envió a apoyar a Milei.\n• **Javier Milei:** Presidente de Argentina, referido por Trump como \"su amigo\".\n• **AmCham:** Cámara de Comercio de EE.UU. en Argentina, anfitriona del evento donde Lamelas se presentó.\n• **Scott Bessent:** Secretario del Tesoro estadounidense, cuya visita a Argentina fue cancelada.\n• **Claudio “Chiqui” Tapia:** Presidente de la AFA, presunta razón por la que Milei canceló un viaje diplomático.\n\n⚡ **Desarrollo:**\n• Lamelas citó a Trump diciendo: \"Él me dijo directamente y francamente que venga aquí, a este país, a ayudar a su amigo Javier Milei\", enfatizando que no le pidió ayudar a cualquier gobierno.\n• Aunque reconoció que los embajadores suelen ser neutrales, Lamelas afirmó: \"claramente, yo no tengo que hacer eso\", aunque posteriormente intentó aclarar que no se meterá en la política local.\n• El embajador destacó el respaldo de EE.UU. a la gestión libertaria y a las compañías pro-mercado presentes, promoviendo el capitalismo y el crecimiento empresarial.\n• El brindis de bienvenida contó con la presencia de altos funcionarios del gobierno argentino, incluyendo a los ministros Luis Caputo, Pablo Quirno y el jefe de Gabinete Manuel Adorni, mostrando fuerte apoyo.\n• Pese a este respaldo, la relación entre Milei y Trump experimentó un \"primer cortocircuito serio\" con la suspensión de la visita del Secretario del Tesoro Scott Bessent.\n• Esta suspensión se debió a la ausencia de Milei en el sorteo del Mundial 2026 en Washington, evento al que Trump asistiría y que se esperaba para una foto política clave.\n• La presunta razón de Milei para no viajar, evitar a “Chiqui” Tapia, fue interpretada en Washington como un \"capricho\" que priorizó un conflicto doméstico sobre la diplomacia internacional.\n• Lamelas también adelantó que está trabajando para gestionar una eventual visita de Donald Trump a Argentina en el futuro.\n\n💡 **¿Por qué importa?**\n• Las declaraciones de Lamelas marcan una aproximación diplomática inusualmente personalizada y un claro apoyo de la órbita de Donald Trump al gobierno de Javier Milei, con posibles implicaciones para futuras políticas bilaterales.\n• Sin embargo, el \"cortocircuito\" por la cancelación de la visita de Bessent demuestra que la relación, aunque fuerte, no es incondicional y puede verse afectada por decisiones interpretadas como falta de seriedad o imprevisibilidad.",
       "cantidad_noticias": 4,
       "noticias": [
         {
@@ -137,376 +636,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "bcra_cambia_calculo_20251205",
-      "tema": "BCRA cambia cálculo dólar oficial",
-      "tema_normalizado": "bcra cambia calculo dolar oficial",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Banco Central de la República Argentina (BCRA) aprobó una nueva manera de calcular el valor del dólar oficial, también conocido como Tipo de Cambio de Referencia (TCR).\n*   Esta nueva metodología reemplaza el sistema anterior basado en encuestas de cotizaciones por uno que usa promedios de operaciones reales del mercado.\n*   El cambio tiene como objetivo mejorar la transparencia, representatividad y precisión del valor del dólar.\n\n🔍 **Datos clave:**\n*   **Fecha de implementación:** 1° de enero de 2026.\n*   **Monto mínimo por operación:** US$500.000.\n*   **Comunicación oficial:** Regido por la Comunicación A 3500 del BCRA.\n*   **Consulta previa:** Se realizó una consulta pública durante noviembre de 2025 con distintos sectores del mercado.\n\n⚡ **Desarrollo:**\n*   Actualmente, el BCRA calcula el TCR pidiendo a las entidades financieras que informen sus cotizaciones en tres momentos del día.\n*   A partir de 2026, el TCR se calculará como el promedio ponderado de las operaciones de compra-venta de dólares efectivamente realizadas por las entidades financieras en \"A3 Mercados\".\n*   Solo se considerarán las operaciones concertadas \"por pantalla\", excluyendo las que se hacen por pedido de cotización (over the counter) o a través de corredores.\n*   Este nuevo esquema permitirá contar con un tipo de cambio más transparente, al basarse en operaciones concretas y no en valores declarativos.\n*   También será más representativo, al ponderar los montos efectivamente negociados por las entidades con mayor volumen.\n*   La metodología incorpora mecanismos automáticos para excluir valores atípicos, buscando mayor precisión en el cálculo.\n*   Con esta medida, el BCRA busca alinearse con estándares internacionales que ya aplican otros bancos centrales de la región, como Chile, Colombia y Uruguay.\n*   El TCR es un valor fundamental, utilizado por entidades financieras para su contabilidad, por los mercados a término para el cierre de contratos y como referencia en instrumentos financieros vinculados al dólar.\n\n💡 **¿Por qué importa?**\n*   Promueve un entorno financiero más equitativo y confiable en Argentina, ya que el cálculo del dólar oficial se basará en datos sólidos de operaciones reales del mercado.\n*   Aumenta la transparencia y la representatividad del indicador más importante para el dólar mayorista, fortaleciendo la solidez de los datos para todos los participantes del mercado.",
-      "cantidad_noticias": 4,
+      "tema_id": "acciones_y_tensiones_20251205",
+      "tema": "Acciones y Tensiones de Victoria Villarruel",
+      "tema_normalizado": "acciones y tensiones de victoria villarruel",
+      "resumen": "📌 **¿Qué está pasando?**\n• La vicepresidenta Victoria Villarruel ha tomado varias decisiones importantes en el Senado y ha protagonizado tensiones políticas.\n• Otorgó un bono a empleados, distribuyó despachos generando controversia y se reunió con referentes digitales críticos del gobierno de Javier Milei.\n• Estas acciones demuestran su perfil propio y las fricciones dentro del espacio oficialista.\n\n🔍 **Datos clave:**\n• **Bono de Fin de Año:** $500.000, otorgado en diciembre a empleados del Senado.\n• **Decreto de Reparto de Despachos:** Decreto 607/25.\n• **Senadores LLA con despacho en Palacio Legislativo:** Patricia Bullrich, Pablo Cervi, Agustín Monteverde.\n• **Senadores peronistas/K con despacho en Palacio Legislativo:** Jorge Capitanich, Martín Soria, Adrián Bahl, Gerardo Zamora, Mariano Recalde, Eduardo \"Wado\" De Pedro, Florencia López, Cristina López.\n• **Evento con críticos:** \"A cinco años de la pandemia: algunas reflexiones que nos debemos\".\n• **Oradores del evento:** Pablo Davoli, Emanuel Gorostiaga (Emmanuel Danann), Eduardo Prestofelippo (El Presto).\n\n⚡ **Desarrollo:**\n• **Bono para Empleados:** Villarruel dispuso un bono extraordinario de $500.000 para el personal del Senado, abonado en diciembre. El beneficio aplica a trabajadores permanentes, temporarios y de regímenes especiales con al menos seis meses de servicio en 2025 (sic). La medida se cubre con partidas propias del presupuesto del Senado.\n• **Reparto Polémico de Despachos:** La distribución de oficinas generó malestar entre sectores libertarios, quienes acusaron a Villarruel de beneficiar a senadores kirchneristas o peronistas. Patricia Bullrich, aunque recibió un despacho destacado (ex-Lousteau), no habría estado conforme con la distribución general.\n• **Acercamiento a Críticos de Milei:** La vicepresidenta convocó a un evento en el Senado con figuras digitales que, aunque se identifican como liberales, han expresado críticas abiertas a la gestión de Javier Milei y, en particular, a su hermana Karina Milei.\n• **Distanciamiento con Casa Rosada:** Estos movimientos evidencian un creciente distanciamiento entre Villarruel y el círculo íntimo del Presidente Milei. La vicepresidenta se ha \"autoexiliado\" de su despacho en Casa Rosada y ha criticado públicamente ciertas decisiones.\n\n💡 **¿Por qué importa?**\n• Las acciones de Villarruel la posicionan como un actor político con autonomía y capacidad de gestión propia dentro del Senado.\n• Las tensiones internas reflejan fisuras en el oficialismo, lo que podría reconfigurar alianzas y afectar la estabilidad de la gobernabilidad en el futuro.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "El Banco Central cambia la metodología para calcular la cotización del dólar",
-          "link": "https://www.minutouno.com/economia/el-banco-central-cambia-la-metodologia-calcular-la-cotizacion-del-dolar-n6221084",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:38:00"
-        },
-        {
-          "titulo": "El Banco Central cambia la forma de calcular el valor del dólar oficial",
-          "link": "https://www.perfil.com/noticias/economia/el-banco-central-cambia-la-forma-de-calcular-el-valor-del-dolar-oficial.phtml",
+          "titulo": "Villarruel dispuso un bono de fin de año de $500.000 para empleados del Senado",
+          "link": "https://www.perfil.com/noticias/politica/villarruel-dispuso-un-bono-de-fin-de-ano-de-500000-para-empleados-del-senado.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-04 21:03:00"
+          "fecha": "2025-12-04 22:24:00"
         },
         {
-          "titulo": "Dólar: el BCRA aprobó una nueva metodología para el cálculo del tipo de cambio oficial",
-          "link": "https://www.ambito.com/finanzas/el-bcraaprobo-una-nueva-metodologia-el-calculo-del-dolar-oficial-n6220947",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 17:36:00"
+          "titulo": "Bronca entre los libertarios: acusan a Victoria Villarruel de beneficiar a los K en el reparto de los despachos del Senado",
+          "link": "https://www.clarin.com/politica/bronca-libertarios-acusan-villarruel-beneficiar-k-reparto-despachos_0_FDcrFHgJB1.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-04 18:57:37"
         },
         {
-          "titulo": "El BCRA cambia la forma de calcular el dólar oficial: por qué y cómo será a partir del 2026",
-          "link": "https://www.iprofesional.com/economia/443399-el-bcra-cambia-la-forma-de-calcular-el-dolar-oficial-por-que-y-como-sera-desde-el-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 17:25:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Perfil",
-        "Minuto1",
-        "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "colocacion_deuda_publica_20251205",
-      "tema": "Colocación deuda pública provincia Santa Fe",
-      "tema_normalizado": "colocacion deuda publica provincia santa fe",
-      "resumen": "📌 **¿Qué está pasando?**\n• La provincia de Santa Fe obtuvo financiamiento internacional al colocar deuda por US$ 800 millones.\n• La operación se realizó en los mercados de Nueva York (Wall Street) a un plazo de 9 años.\n• La tasa de interés anual pactada para este bono fue del 8,10%.\n\n🔍 **Datos clave:**\n• **Monto:** US$ 800 millones.\n• **Plazo:** 9 años.\n• **Tasa de interés:** 8,10% anual.\n• **Lugar de colocación:** Nueva York.\n• **Demanda de ofertas:** US$ 1.800 millones (superó el monto buscado).\n• **Inversores:** Más de 111 grandes fondos internacionales y 1.200 minoristas; US$ 350 millones provenientes de más de 800 inversores argentinos.\n• **Gobernador:** Maximiliano Pullaro.\n• **Ministro de Economía (Santa Fe):** Pablo Olivares.\n• **Nombre del bono:** SF34.\n\n⚡ **Desarrollo:**\n• Esta colocación de deuda de Santa Fe se suma a una reciente tendencia de provincias y empresas argentinas que lograron financiamiento en dólares en el exterior. La Ciudad de Buenos Aires y Córdoba también emitieron deuda previamente.\n• Según el gobierno provincial, los inversores valoraron la solidez fiscal del Estado santafesino, su bajo nivel de endeudamiento y la gestión ordenada de sus cuentas públicas.\n• Santa Fe, junto con CABA, es uno de los dos únicos gobiernos subnacionales en Argentina que nunca reestructuró su deuda, un antecedente clave que contribuyó a obtener condiciones competitivas.\n• El monto de las ofertas recibidas duplicó lo buscado, permitiendo a la provincia seleccionar las propuestas más convenientes y asegurar una mejor tasa de interés.\n• Los fondos obtenidos se destinarán a proyectos estratégicos de infraestructura, incluyendo grandes gasoductos (energía), obras viales (rutas), mejora de la seguridad pública y obras sociales en todo el territorio provincial.\n• Esta operación es vista como una señal de confianza de los mercados en la provincia de Santa Fe y en el regreso de Argentina al escenario financiero internacional.\n\n💡 **¿Por qué importa?**\n• Este financiamiento permitirá a Santa Fe acelerar la ejecución de obras clave que impulsarán el desarrollo productivo de la provincia y mejorarán la calidad de vida de sus habitantes.\n• La exitosa emisión refuerza la credibilidad de Santa Fe ante los inversores globales y nacionales, estableciendo un precedente positivo que podría facilitar futuras operaciones de financiamiento para otras jurisdicciones y empresas argentinas.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "La provincia de Santa Fe colocó deuda por US$ 800 millones en Nueva York",
-          "link": "https://www.perfil.com/noticias/economia/la-provincia-de-santa-fe-coloco-deuda-por-us-800-millones-en-nueva-york.phtml",
+          "titulo": "Victoria Villarruel busca rearmar su ejército digital con los \"enojados con Milei\"",
+          "link": "https://noticias.perfil.com/noticias/politica/victoria-villaruel-busca-rearmar-su-ejercito-digital-con-los-enojados-con-milei.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-04 20:30:00"
-        },
-        {
-          "titulo": "Santa Fe colocó deuda y la lluvia de dólares entre provincias y empresas alcanza los u$s6.000M",
-          "link": "https://www.iprofesional.com/finanzas/443126-emisiones-deuda-suman-6000-millones-dolares-y-refuerzan-veranito-dolar",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 18:50:00"
-        },
-        {
-          "titulo": "Otra provincia salió al mercado internacional: Santa Fe colocó u$s800 millones en Nueva York",
-          "link": "https://www.iprofesional.com/economia/443404-otra-provincia-salio-mercado-deuda-santa-fe-coloco-800-millones-dolares-nueva-york",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 18:03:00"
-        },
-        {
-          "titulo": "Santa Fe debutó en Wall Street y cosechó US$ 800 millones a una tasa de 8,1% y un plazo de 9 años",
-          "link": "https://www.clarin.com/economia/santa-fe-debuto-wall-street-cosecho-us-800-millones-tasa-81-plazo-9-anos_0_ZTqsZ5rUjD.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 17:55:51"
-        },
-        {
-          "titulo": "Santa Fe colocó deuda por u$s800 millones en Nueva York, a nueve años y una tasa del 8,1%",
-          "link": "https://www.ambito.com/economia/santa-fe-coloco-deuda-us800-millones-nueva-york-nueve-anos-y-una-tasa-del-81-n6220913",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 17:07:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Perfil",
-        "Clarín",
-        "iProfesional",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "tension_eeuu-venezuela_y_20251205",
-      "tema": "Tensión EEUU-Venezuela y advertencias viaje",
-      "tema_normalizado": "tension eeuu-venezuela y advertencias viaje",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Estados Unidos ha intensificado la presión sobre Venezuela, recomendando a sus ciudadanos abandonar el país \"de inmediato\" y emitiendo la alerta de viaje más alta.\n*   Esta escalada se da en el contexto de un gran despliegue militar estadounidense en el Caribe y el Pacífico, que, según EE. UU., busca combatir el narcotráfico.\n*   Venezuela, por su parte, considera estas acciones una excusa para un cambio de régimen y una posible intervención.\n\n🔍 **Datos clave:**\n*   **Alerta Nivel 4:** Máxima advertencia de viaje del Departamento de Estado de EE. UU. para Venezuela.\n*   **Desde marzo de 2019:** EE. UU. retiró su personal diplomático de Caracas, sin asistencia consular disponible.\n*   **83 muertos:** Reportados en bombardeos estadounidenses contra \"narcolanchas\" en el Caribe y el Pacífico.\n*   **24 de noviembre:** EE. UU. designó al \"Cartel de los Soles\", presuntamente liderado por Maduro, como organización terrorista.\n*   **USS Gerald Ford:** Portaviones más grande del mundo, parte del despliegue militar en el Caribe.\n\n⚡ **Desarrollo:**\n*   El Departamento de Estado de EE. UU. instó a sus ciudadanos a salir de Venezuela citando altos riesgos de detención injusta, tortura, terrorismo, secuestro, delincuencia, disturbios civiles y una infraestructura sanitaria deficiente.\n*   También se aconseja a quienes decidan viajar a Venezuela \"preparar un testamento\" y designar beneficiarios de seguros.\n*   Las fuerzas armadas estadounidenses han realizado ataques letales contra embarcaciones que, según afirman, transportaban narcóticos ilícitos en aguas internacionales.\n*   El presidente Donald Trump ha sugerido \"operaciones en tierra\" en Venezuela y ha dado un ultimátum a Nicolás Maduro para que abandone el poder.\n*   Maduro ha rechazado la tesis de lucha contra el narcotráfico, declarando que la movilización militar de EE. UU. busca \"justificar una guerra\" y \"robarnos la inmensa riqueza petrolera\".\n*   La Autoridad Federal de Aviación (FAA) de EE. UU. advirtió a las aerolíneas de \"extremar la precaución\" al sobrevolar Venezuela debido al aumento de actividad militar.\n*   Esto ha provocado que varias aerolíneas extranjeras suspendan sus vuelos al país, contribuyendo a un mayor aislamiento aéreo de Venezuela.\n*   Existe controversia en el Senado de EE. UU. sobre la legalidad de algunas operaciones militares, incluyendo supuestos ataques a sobrevivientes de incidentes.\n\n💡 **¿Por qué importa?**\n*   La escalada de tensión eleva el riesgo de un conflicto armado en la región, con posibles consecuencias humanitarias y económicas graves.\n*   Las advertencias de viaje y la suspensión de vuelos acentúan el aislamiento internacional de Venezuela, afectando la movilidad de personas y bienes.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Crece la tensión: Estados Unidos recomendó a sus ciudadanos abandonar Venezuela \"de inmediato\"",
-          "link": "https://www.minutouno.com/mundo/crece-la-tension-estados-unidos-recomendo-sus-ciudadanos-abandonar-venezuela-de-inmediato-n6221071",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 23:17:00"
-        },
-        {
-          "titulo": "Estados Unidos atacó una \"narcolancha\" en el Pacífico, mientras aumenta la tensión con Venezuela",
-          "link": "https://www.clarin.com/mundo/estados-unidos-ataco-narcolancha-pacifico-aumenta-tension-venezuela_0_X4pGW7cJJK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 22:46:56"
-        },
-        {
-          "titulo": "Sigue la tensión: EEUU renovó su recomendación de no viajar a Venezuela y pidió a sus ciudadanos abandonar el país",
-          "link": "https://www.ambito.com/mundo/sigue-la-tension-eeuu-renovo-su-recomendacion-no-viajar-venezuela-y-pidio-sus-ciudadanos-abandonar-el-pais-n6221070",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 22:36:34"
-        },
-        {
-          "titulo": "La advertencia de Donald Trump y el temor de las aerolíneas extranjeras: ¿Es seguro volar en Venezuela?",
-          "link": "https://www.clarin.com/mundo/advertencia-donald-trump-temor-aerolineas-extranjeras-seguro-volar-venezuela_0_T7JXBuNj6N.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 16:30:25"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Minuto1",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "mercado_cambiario:_cotizacion_20251205",
-      "tema": "Mercado cambiario: cotización y proyecciones",
-      "tema_normalizado": "mercado cambiario: cotizacion y proyecciones",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino presenta estabilidad en la cotización del dólar oficial, mientras que las proyecciones de analistas (REM) anticipan valores y niveles de inflación para 2025 y 2026.\n• A nivel internacional, la paridad Euro-Dólar muestra ajustes por decisiones de bancos centrales, y la Comisión Europea proyecta la evolución económica de la eurozona.\n\n🔍 **Datos clave:**\n• **Dólar Oficial (5 Dic 2025):** Venta $1.470 (Banco Nación); Mayorista: $1.444.\n• **Dólar Blue (5 Dic 2025):** Venta $1.430 (cerró estable, por debajo del oficial).\n• **Dólar MEP (5 Dic 2025):** $1.467,69 (brecha 1,6% con oficial).\n• **Dólar CCL (5 Dic 2025):** $1.508,59 (brecha 3,9% con oficial).\n• **Dólar Tarjeta (5 Dic 2025):** $1.911.\n• **Euro-Dólar (5 Dic 2025):** 0,8581 euros por dólar (cotización global).\n• **Proyección Dólar Oficial (Dic 2025, REM):** $1.472,9 (mediana de analistas).\n• **Proyección Dólar Oficial (Dic 2026, REM):** $1.720.\n• **Inflación Argentina (Nov 2025, REM):** 2,3% mensual.\n• **Inflación Argentina Acumulada (2025, REM):** 30,4%.\n• **Crecimiento PBI Argentina (2025, REM):** 4,4%.\n• **Inflación Eurozona Proyectada (2025):** Meta del 2%.\n\n⚡ **Desarrollo:**\n• El Banco Central de la República Argentina (BCRA) realiza el Relevamiento de Expectativas de Mercado (REM) con 46 participantes, informando proyecciones para el dólar e inflación.\n• La \"pax cambiaria\" en Argentina se mantiene, con el dólar oficial dentro de un esquema de bandas que se actualizan a un ritmo del 1% mensual.\n• Los analistas esperan que el dólar oficial permanezca dentro de estas bandas al menos hasta fines de 2026.\n• Las expectativas de inflación mensual para Argentina subieron en el corto plazo (2,3% en noviembre, 2,1% en diciembre), pero se espera una tendencia descendente hasta 1,5% mensual en mayo de 2026.\n• La paridad euro-dólar es un indicador clave de riesgo internacional, influenciada por las políticas monetarias de ambos lados del Atlántico y las expectativas de crecimiento.\n• La Eurozona anticipa una recuperación económica en 2026 y una inflación controlada en 2025, aunque enfrenta desafíos económicos y geopolíticos, incluyendo aranceles de EE.UU.\n• Existe preocupación por la \"trampa del verano\" en Argentina (mediados de enero), con una posible caída en la demanda de pesos y pagos a acreedores por u$s4.500 millones, lo que podría presionar el tipo de cambio.\n\n💡 **¿Por qué importa?**\n• Las cotizaciones y proyecciones del dólar en Argentina son fundamentales para las decisiones de inversión, el poder adquisitivo de la población y la estabilidad económica del país.\n• La relación Euro-Dólar impacta el comercio internacional y las inversiones globales, reflejando la salud económica de las principales potencias.",
-      "cantidad_noticias": 20,
-      "noticias": [
-        {
-          "titulo": "Tipo de cambio dólar-euro y proyecciones de este 5 de diciembre",
-          "link": "https://www.infobae.com/espana/2025/12/05/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-5-de-diciembre/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 02:15:34"
-        },
-        {
-          "titulo": "A cuánto llegarán el dólar y la inflación en 2026, según los principales analistas del mercado argentino",
-          "link": "https://www.infobae.com/economia/2025/12/05/a-cuanto-llegaran-el-dolar-y-la-inflacion-en-2026-segun-los-principales-analistas-del-mercado-argentino/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 02:13:44"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este viernes 5 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-5-diciembre-n6221031",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este viernes 5 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-5-diciembre-n6221030",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 5 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-5-diciembre-n6221061",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "A cuánto llegarán el dólar y la inflación a fin de año, según las consultoras que releva el Banco Central",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-estaran-la-inflacion-y-el-dolar-a-fin-de-ano-segun-las-consultoras-que-releva-el-banco-central.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 22:20:00"
-        },
-        {
-          "titulo": "Para los economistas, el dólar se mantendría dentro de los límites de la banda al menos por un año",
-          "link": "https://www.lanacion.com.ar/economia/para-los-economistas-el-dolar-se-mantendria-dentro-de-los-limites-de-la-banda-al-menos-por-un-ano-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-04 20:44:03"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-4-diciembre-2025",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 20:24:00"
-        },
-        {
-          "titulo": "Precio del dólar, mes por mes: esto calculan que costará más de 40 economistas de la City",
-          "link": "https://www.iprofesional.com/finanzas/443408-precio-dolar-mes-por-mes-cuanto-costara-segun-40-economistas-de-la-city",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 19:42:00"
-        },
-        {
-          "titulo": "Gurúes de la city empeoraron sus proyecciones de inflación: prevén 2,3% para noviembre y más de 30% en 2025",
-          "link": "https://www.ambito.com/economia/gurues-la-city-empeoraron-sus-proyecciones-inflacion-preven-23-noviembre-y-mas-30-2025-n6221004",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 19:23:00"
-        },
-        {
-          "titulo": "Dólar: en cuánto cerrará el 2025 y qué se proyecta para el primer trimestre de próximo año, según los gurúes de la city",
-          "link": "https://www.ambito.com/economia/dolar-cuanto-cerrara-el-2025-y-que-se-proyecta-el-primer-trimestre-proximo-ano-segun-los-gurues-la-city-n6220990",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 19:02:00"
-        },
-        {
-          "titulo": "El mercado espera una inflación más baja en diciembre y un crecimiento de la economía del 4,4% para todo el año",
-          "link": "https://www.clarin.com/economia/mercado-espera-inflacion-baja-diciembre-crecimiento-economia-44-ano_0_614V6ptA6Y.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 18:58:31"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este jueves 4 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-jueves-4-diciembre-n6220581",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 17:55:00"
-        },
-        {
-          "titulo": "El dólar blue volvió a retroceder y por décima jornada consecutiva cerró debajo del oficial",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-volvio-retroceder-y-decima-jornada-consecutiva-cerro-debajo-del-oficial-n6220932",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 17:24:00"
-        },
-        {
-          "titulo": "El dólar cedió a $ 1.470 y los bonos y acciones combinaron alzas y bajas",
-          "link": "https://www.clarin.com/economia/dolar-cedio-1470-bonos-acciones-combinan-alzas-bajas_0_2FssECUkt7.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 17:16:35"
-        },
-        {
-          "titulo": "El dólar oficial aceleró su dinámica bajista y cerró en mínimos de dos semanas",
-          "link": "https://www.ambito.com/finanzas/dolar-prima-la-calma-pero-la-baja-tasas-abre-dudas-un-eventual-regreso-las-tensiones-cambiarias-n6220639",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 17:03:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-4-diciembre-n6220599",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 16:50:00"
-        },
-        {
-          "titulo": "¿El dólar en alerta máxima?: las señales que adelantan si se viene otro salto cambiario",
-          "link": "https://www.iprofesional.com/finanzas/443341-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 16:32:00"
-        },
-        {
-          "titulo": "Un factor puede recalentar la paz cambiaria: la City alerta por la \"trampa del verano\" para el dólar",
-          "link": "https://www.iprofesional.com/economia/443207-cual-es-trampa-verano-para-dolar-que-preocupa-al-mercado",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 16:00:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-4-diciembre-n6220600",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 15:48:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional",
-        "Perfil",
-        "Minuto1",
-        "Infobae",
-        "Clarín",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "depositos_privados_en_20251205",
-      "tema": "Depósitos privados en dólares récord",
-      "tema_normalizado": "depositos privados en dolares record",
-      "resumen": "📌 **¿Qué está pasando?**\n• Los depósitos privados en dólares en Argentina alcanzaron un nuevo récord histórico.\n• Superaron los USD 36.000 millones, marcando el valor más alto registrado desde el fin de la convertibilidad.\n• Este incremento ocurre mientras los depósitos en moneda local no logran repuntar.\n\n🔍 **Datos clave:**\n• **Récord actual:** USD 36.633 millones (actualizado a diciembre).\n• **Récord anterior (diciembre):** USD 35.773 millones, según la consultora LCG.\n• **Compras pre-electorales (Octubre):** USD 4.669 millones; (Septiembre): USD 5.080 millones.\n• **Acumulado desde la salida del cepo:** Más de USD 20.000 millones en compras.\n• **Reservas brutas BCRA:** USD 41.888 millones (tras el pago del Bopreal).\n• **Pago Bopreal (capital e intereses):** USD 1.012,50 millones (USD 990M capital, USD 22,5M intereses).\n• **Cotización dólar mayorista:** $1.445 (a $67,99 del techo de banda de $1.512,99).\n\n⚡ **Desarrollo:**\n• El aumento de los depósitos se atribuye principalmente a la \"dolarización extrema\" de carteras que ocurrió antes de las elecciones de octubre.\n• A diferencia de episodios pre-electorales anteriores, gran parte de esos dólares permanecieron dentro del sistema financiero; solo USD 570 millones habrían salido de los bancos.\n• Otra hipótesis para este incremento incluye la compra de divisas para gastos de servicios y turismo, pese a que la balanza turística fue desfavorable (9,7M salieron vs. 4,1M ingresaron).\n• La emisión de Obligaciones Negociables (ONs) por parte de compañías (más de USD 3.600 millones en noviembre) y provincias/Ciudad de Buenos Aires (USD 600 millones de CABA) también contribuyó.\n• Este stock récord podría ayudar a descomprimir la presión sobre la demanda de dólares que suele generarse durante la temporada de verano.\n• Expertos sugieren que, al haberse dolarizado tanto, muchos individuos quizás ya no tengan la liquidez en pesos necesaria para seguir comprando divisas, e incluso podrían vender sus dólares.\n• No obstante, la demanda de moneda extranjera para consumos en el exterior por vacaciones sigue siendo un factor a considerar.\n\n💡 **¿Por qué importa?**\n• Estos depósitos brindan una potencial estabilidad al mercado cambiario, reduciendo la presión sobre el tipo de cambio oficial y aliviando al Banco Central.\n• Permiten dinamizar el mercado de préstamos y la colocación de ONs en dólares, añadiendo oferta de divisas al sistema y quitando presión a la demanda.\n• Reflejan una continua preferencia por el dólar como reserva de valor, pero también una confianza, aunque sea parcial, en mantener esos fondos dentro del sistema bancario local.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Los depósitos en dólares marcaron un nuevo récord: cómo pueden ayudar al Gobierno a comienzos de 2026",
-          "link": "https://www.infobae.com/economia/2025/12/05/los-depositos-en-dolares-marcaron-un-nuevo-record-como-pueden-ayudar-al-gobierno-a-comienzos-de-2026/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 02:10:51"
-        },
-        {
-          "titulo": "Los depósitos privados en dólares tocaron un nuevo récord desde el fin de la convertibilidad: superaron los u$s36.000 millones",
-          "link": "https://www.ambito.com/finanzas/los-depositos-privados-dolares-tocaron-un-nuevo-record-el-fin-la-convertibilidad-superaron-los-us36000-millones-n6220885",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 16:57:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Infobae",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "propuesta_prohibir_apps_20251205",
-      "tema": "Propuesta prohibir apps vehículos particulares",
-      "tema_normalizado": "propuesta prohibir apps vehiculos particulares",
-      "resumen": "📌 **¿Qué está pasando?**\n• Se debate en la Legislatura porteña una propuesta para prohibir que autos particulares no habilitados presten servicios de transporte pagos a través de aplicaciones como Uber, Didi y Cabify.\n• El proyecto busca unificar reglas y reorganizar el sistema de movilidad en la Ciudad de Buenos Aires, abarcando taxis, remises y plataformas digitales.\n• El objetivo es formalizar el sector, mejorar la seguridad y actualizar el marco regulatorio ante la irrupción de las nuevas tecnologías.\n\n🔍 **Datos clave:**\n• **Proponente:** Legislador Alejandro Grillo (Unión por la Patria), vicepresidente 1º de la Comisión de Tránsito y Transporte.\n• **Lugar:** Legislatura porteña, Ciudad de Buenos Aires.\n• **Ley a modificar:** Código de Tránsito y Transporte (Ley Nº 2148), sancionada en 2006.\n• **Artículos del proyecto:** Más de 66.\n• **Actualización tarifaria taxis:** Cada cuatro meses o si los costos suben más del 10% (nunca antes de dos meses).\n• **Inspiración:** Normativas de Mendoza, Salta, Chile, España y Francia.\n\n⚡ **Desarrollo:**\n• El proyecto busca terminar con la operación de miles de vehículos particulares sin habilitación, que actualmente generan informalidad y \"zona gris\" en el transporte.\n• Se propone que solo puedan circular vehículos habilitados, con choferes registrados, licencia profesional, Verificación Técnica Vehicular (VTV) y seguros de responsabilidad civil.\n• Las plataformas deberán tener sede operativa en la Ciudad, inscribirse en la Agencia de Recaudación y Control Aduanero (ARCA) y pagar tributos por todos los viajes iniciados en el distrito.\n• También se les exigirá instalar un \"servidor espejo\" para enviar datos en tiempo real al gobierno porteño, incluyendo información de viajes y actividad de los conductores.\n• Para los taxis, se plantea funcionamiento obligatorio 365 días al año y 24 horas, conexión permanente a la app oficial \"Taxi BA\", y habilitación de pagos con efectivo, tarjetas y billeteras virtuales.\n• El legislador Grillo afirma que el objetivo es \"profesionalizar y ordenar\", no prohibir, para \"elevar la calidad del servicio\" y \"cuidar a la gente\", tanto pasajeros como conductores.\n• En cuanto a los remises, el proyecto busca incorporar reglas claras sobre habilitación, seguridad, seguros y condiciones de prestación para formalizar el sector.\n\n💡 **¿Por qué importa?**\n• Implicaría un cambio significativo en cómo operan las plataformas de transporte en la Ciudad, buscando mayor formalidad y equidad entre los diferentes servicios.\n• Busca garantizar una mayor seguridad para los usuarios y condiciones laborales más claras para los choferes, al exigir habilitaciones, licencias profesionales y seguros.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Buscan prohibir el uso de autos particulares en aplicaciones como Uber, Didi y Cabify",
-          "link": "https://www.iprofesional.com/politica/443418-buscan-prohibir-el-uso-de-autos-particulares-en-aplicaciones-como-uber-didi-y-cabify",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 20:17:00"
-        },
-        {
-          "titulo": "Legislatura porteña: proponen prohibir autos particulares no habilitados en plataformas de viajes",
-          "link": "https://www.ambito.com/politica/legislatura-portena-proponen-prohibir-autos-particulares-no-habilitados-plataformas-viajes-n6220907",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 16:51:00"
+          "fecha": "2025-12-04 18:24:43"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "accidente_fatal_en_20251205",
-      "tema": "Accidente fatal en gimnasio Brasil",
-      "tema_normalizado": "accidente fatal en gimnasio brasil",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Un hombre falleció trágicamente en un gimnasio de Olinda, Pernambuco, Brasil, luego de que una barra con peso cayera sobre él durante su rutina de ejercicio.\n*   El lamentable suceso fue registrado por las cámaras de seguridad del centro deportivo, y el video del incidente se difundió ampliamente en redes sociales.\n*   A pesar de la asistencia inmediata y el traslado a un centro médico, la víctima, Ronald José Salvador Montenegro, no pudo sobrevivir a la gravedad de las heridas.\n\n🔍 **Datos clave:**\n*   **Víctima:** Ronald José Salvador Montenegro.\n*   **Edad:** 55 años, reconocido líder cultural de la región.\n*   **Lugar:** Un gimnasio en la ciudad de Olinda, estado de Pernambuco, Brasil.\n*   **Causa:** Barra de pesas cargada que se desprendió de su soporte, impactando al hombre.\n*   **Peso involucrado:** Aproximadamente 75 kg (30 kg por lado más 15 kg de la barra).\n\n⚡ **Desarrollo:**\n*   El incidente ocurrió cuando Ronald Montenegro, mientras realizaba un ejercicio de press de banca, no logró sostener la barra, la cual cayó con fuerza sobre su pecho y cuello.\n*   El video del accidente, que se volvió viral, muestra el impacto preciso de la barra y la reacción inmediata del personal del gimnasio para auxiliar al hombre.\n*   Tras el accidente, Montenegro fue rápidamente asistido y trasladado a una Unidad de Pronto Atención (UPA), donde ingresó en paro cardiorrespiratorio y falleció a causa de las lesiones sufridas.\n*   Ronald era un líder cultural muy apreciado en la región, conocido por presidir el Centro Cultural Palacio de los Huesos Gigantes y por su rol clave en la preservación de los muñecos gigantes del carnaval de Olinda.\n*   La Policía Civil de Pernambuco ha iniciado una investigación formal para esclarecer las circunstancias exactas del hecho, tratando el caso preliminarmente como una muerte accidental.\n*   Las autoridades están realizando pericias técnicas sobre el equipo de pesas y revisando los protocolos de seguridad del gimnasio para determinar si hubo algún tipo de negligencia.\n\n💡 **¿Por qué importa?**\n*   La tragedia resalta la necesidad crítica de garantizar y supervisar estrictamente las medidas de seguridad en todos los centros deportivos y el mantenimiento adecuado de sus equipos.\n*   Este accidente genera conciencia sobre los riesgos potenciales en actividades físicas de alto impacto y la importancia de la prevención para evitar pérdidas de vidas como la de una figura cultural tan valiosa.",
-      "cantidad_noticias": 2,
-      "noticias": [
-        {
-          "titulo": "Tragedia en un gimnasio de Brasil: un hombre murió luego de que se le cayera encima una barra con peso",
-          "link": "https://www.minutouno.com/mundo/tragedia-un-gimnasio-brasil-un-hombre-murio-luego-que-se-le-cayera-encima-una-barra-peso-n6221053",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 21:45:00"
-        },
-        {
-          "titulo": "Brasil: murió un hombre tras un accidente mientras levantaba pesas en un gimnasio",
-          "link": "https://www.ambito.com/mundo/brasil-murio-un-hombre-un-accidente-mientras-levantaba-pesas-un-gimnasio-n6221050",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 21:44:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Minuto1",
-        "Ámbito Financiero"
+        "Perfil",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
