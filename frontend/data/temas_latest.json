@@ -1,150 +1,90 @@
 {
   "fecha": "2025-12-05",
-  "fecha_generacion": "2025-12-05T12:33:15.052049",
+  "fecha_generacion": "2025-12-05T15:22:44.240555",
   "total_temas": 10,
   "temas": [
     {
-      "tema_id": "mercado_cambiario_y_20251205",
-      "tema": "Mercado Cambiario y Políticas Dólar",
-      "tema_normalizado": "mercado cambiario y politicas dolar",
-      "resumen": "📌 **¿Qué está pasando?**\n• Los mercados financieros en Argentina exhiben una variedad de cotizaciones para el dólar, el euro y el real este viernes 5 de diciembre, reflejando la complejidad del sistema cambiario.\n• Paralelamente, el Banco Central (BCRA) ha anunciado un cambio significativo en la metodología para calcular la cotización del dólar oficial, que entrará en vigencia a partir del 1 de enero de 2026.\n\n🔍 **Datos clave:**\n• **Fecha principal:** Viernes 5 de diciembre (y 4 de diciembre para algunas referencias).\n• **Dólar Oficial (BNA):** Compra $1420, venta $1470.\n• **Dólar Blue:** Compra $1410, venta $1430.\n• **Dólar MEP:** Compra $1468,20, venta $1473,40.\n• **Dólar CCL:** Compra $1510,70, venta $1510,70.\n• **Dólar Tarjeta:** $1911,00 (incluye 60% de impuestos).\n• **Dólar Cripto:** Compra $1480,24, venta $1498,92.\n• **Euro Oficial (BNA):** Compra $1636,25, venta $1729,14.\n• **Euro Blue:** Compra $1705,75, venta $1736,75.\n• **Real Oficial (BNA):** Compra $239,64, venta $239,87.\n• **Real Blue:** Compra $278,75, venta $267,75.\n• **Riesgo País (JP Morgan):** 634 puntos básicos.\n• **Nueva metodología BCRA:** Implementación el 1 de enero de 2026, basada en promedio ponderado de operaciones concertadas con monto mínimo de US$500.000.\n\n⚡ **Desarrollo:**\n• El mercado argentino se caracteriza por múltiples tipos de cambio del dólar, incluyendo el oficial (regulado por el BCRA), el blue (informal), el MEP (Bolsa), el CCL (Contado Con Liquidación para sacar divisas del país), el tarjeta (para gastos en el exterior) y el cripto (mediante stablecoins).\n• El BCRA modificará la forma de calcular el Tipo de Cambio de Referencia (TCR), pasando de un sistema de encuestas a uno que pondera las operaciones reales y concretas de las entidades financieras, excluyendo cotizaciones atípicas y operaciones fuera de pantalla.\n• Esta medida del BCRA busca brindar mayor transparencia y representatividad al indicador, alineándose con estándares internacionales y promoviendo un entorno financiero más equitativo.\n• El Fondo Monetario Internacional (FMI) ha señalado que la acumulación de reservas es un \"desafío\" para Argentina y es crucial para el acceso a los mercados internacionales.\n• Además del dólar, otras monedas como el real brasileño y el euro también tienen cotizaciones duales (oficial y blue), relevantes para viajeros y operaciones internacionales, con opciones de pago como Pix en Brasil.\n\n💡 **¿Por qué importa?**\n• La existencia de múltiples cotizaciones y la brecha entre ellas afectan directamente la planificación económica de empresas y ciudadanos, desde viajes y consumos en el exterior hasta inversiones y la percepción del valor real de la moneda local.\n• El cambio en la metodología de cálculo del dólar oficial por parte del BCRA es una política clave que busca estabilizar y transparentar el mercado, pudiendo influir en la confianza de los inversores y la dinámica de las reservas del país.",
-      "cantidad_noticias": 21,
+      "tema_id": "dolar_y_mercado_20251205",
+      "tema": "Dólar y Mercado Cambiario Argentino",
+      "tema_normalizado": "dolar y mercado cambiario argentino",
+      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino muestra una relativa calma en las cotizaciones del dólar oficial y paralelo este viernes 5 de diciembre.\n• El Ministro de Economía, Luis Caputo, anunció el regreso del país al mercado de capitales con la emisión de un nuevo bono en dólares (Bonar 2029N).\n• Pese a la tranquilidad actual, organismos como el FMI han expresado preocupación por la insuficiente acumulación de reservas del Banco Central.\n\n🔍 **Datos clave:**\n• **Fecha:** Viernes 5 de diciembre.\n• **Ministro de Economía:** Luis Caputo.\n• **Bono emitido:** Bonar 2029N, en dólares, con vencimiento en 2029 y cupón del 6,5% anual.\n• **Dólar Oficial (BNA):** Compra $1420, Venta $1470.\n• **Dólar Blue:** Compra $1405, Venta $1425.\n• **Dólar CCL:** $1505,47 (brecha del 4,6% con el oficial).\n• **Dólar MEP:** $1460,63 (brecha del 1,5% con el oficial).\n• **Dólar Tarjeta:** $1911 (equivalente al oficial minorista más un recargo del 30%).\n• **Reservas BCRA:** Se mantienen en U$S 41.888 millones. El FMI advierte sobre el incumplimiento de las metas de acumulación.\n• **Pronóstico dólar mayorista (REM):** $1472,9 para fin de diciembre, $1720 para fin de 2026.\n• **Inflación proyectada (REM):** 2,3% en noviembre, 2,1% en diciembre.\n\n⚡ **Desarrollo:**\n• El gobierno busca reestablecer la confianza de los inversores y atraer dólares frescos mediante la emisión de instrumentos de deuda en moneda extranjera.\n• La actual calma en las cotizaciones del dólar se atribuye, en parte, a la mayor demanda de pesos a fin de año, impulsada por pagos como el aguinaldo.\n• Argentina opera con un sistema complejo de múltiples tipos de cambio (oficial, blue, MEP, CCL, tarjeta, cripto), cada uno con sus propias dinámicas y regulaciones.\n• El Fondo Monetario Internacional (FMI) ha sido explícito al señalar que Argentina necesita un camino más ambicioso en la acumulación de reservas y que la meta actual no se cumpliría.\n• Bancos internacionales y consultoras locales han detectado un deterioro en la posición neta de reservas del BCRA, lo que genera incertidumbre sobre su capacidad de sostén cambiario.\n• Las proyecciones de los economistas (Relevamiento de Expectativas de Mercado - REM) indican una desaceleración en la inflación mensual esperada, aunque los niveles se mantienen altos.\n\n💡 **¿Por qué importa?**\n• La estabilidad del dólar y la robustez de las reservas del Banco Central son pilares fundamentales para la estabilidad económica del país y la lucha contra la inflación.\n• La capacidad de Argentina para acumular divisas y acceder a los mercados de capitales es crucial para la confianza de los inversores y la sostenibilidad de su deuda.",
+      "cantidad_noticias": 11,
       "noticias": [
         {
           "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este viernes 5 de diciembre",
           "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-viernes-5-de-diciembre-nid05122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-05 09:16:00"
+          "fecha": "2025-12-05 12:10:41"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-5-diciembre-n6221031",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 12:03:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-5-diciembre-n6221030",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 12:03:00"
+        },
+        {
+          "titulo": "Dólar hoy en vivo: en el Banco Nación cae a $1.465 y el blue baja a $1.425",
+          "link": "https://www.infobae.com/economia/2025/12/05/dolar-hoy-en-vivo-en-el-banco-nacion-cae-a-1465-y-el-blue-baja-a-1425/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-05 12:01:26"
         },
         {
           "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 5 de diciembre",
           "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-5-diciembre-n6221101",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 08:56:00"
+          "fecha": "2025-12-05 11:43:00"
         },
         {
-          "titulo": "Real hoy: a cuánto cotiza la moneda brasilera oficial y blue este viernes 5 de diciembre",
-          "link": "https://www.lanacion.com.ar/economia/real-hoy-a-cuanto-cotiza-la-moneda-brasilera-oficial-y-blue-este-viernes-5-de-diciembre-nid05122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 08:23:35"
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-5-diciembre-n6221032",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 10:45:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-viernes-5-diciembre-n6221135",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 10:45:00"
+        },
+        {
+          "titulo": "Precio del dólar, mes por mes: esto calculan que costará más de 40 economistas de la City",
+          "link": "https://www.iprofesional.com/finanzas/443408-precio-dolar-mes-por-mes-cuanto-costara-segun-40-economistas-de-la-city",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:42:00"
+        },
+        {
+          "titulo": "El FMI encendió la alarma y el dólar mira el techo: ¿por qué preocupa el escenario?",
+          "link": "https://www.iprofesional.com/finanzas/443445-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:20:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotizan el oficial y sus diferentes tipos de cambio este viernes 05 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-hoy-cotizan-oficial-diferentes-tipos-cambio-viernes-05-diciembre_0_lX8dKWHUgT.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 09:00:01"
         },
         {
           "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 5 de diciembre, minuto a minuto",
           "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-viernes-5-diciembre-minuto-minuto_0_L713oGTteQ.html",
           "fuente": "Clarín",
           "fecha": "2025-12-05 07:47:51"
-        },
-        {
-          "titulo": "Dólar CCL hoy: a cuánto cotiza este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-viernes-05-diciembre_0_w0ZxvHPFrv.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:08:01"
-        },
-        {
-          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-viernes-05-diciembre_0_ZyKoU5oO61.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:08:00"
-        },
-        {
-          "titulo": "Dólar MEP hoy: a cuánto cotiza este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-viernes-05-diciembre_0_0NDCPNoqFZ.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:05:02"
-        },
-        {
-          "titulo": "Dólar cripto hoy: a cuánto cotiza este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-viernes-05-diciembre_0_KoH7i7B4GW.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:05:01"
-        },
-        {
-          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-viernes-05-diciembre_0_6DPykdAlDr.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:00:03"
-        },
-        {
-          "titulo": "Euro hoy: a cuánto cotiza este viernes 05 de diciembre",
-          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-viernes-05-diciembre_0_jkZrBUk3js.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 07:00:02"
-        },
-        {
-          "titulo": "El Banco Central cambia la metodología para calcular la cotización del dólar",
-          "link": "https://www.minutouno.com/economia/el-banco-central-cambia-la-metodologia-calcular-la-cotizacion-del-dolar-n6221084",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:38:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 5 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-5-diciembre-n6221032",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cotiza este viernes 5 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-5-diciembre-n6221031",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este viernes 5 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-5-diciembre-n6221030",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 5 de diciembre",
-          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-5-diciembre-n6221061",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:00:00"
-        },
-        {
-          "titulo": "El Banco Central cambia la forma de calcular el valor del dólar oficial",
-          "link": "https://www.perfil.com/noticias/economia/el-banco-central-cambia-la-forma-de-calcular-el-valor-del-dolar-oficial.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 21:03:00"
-        },
-        {
-          "titulo": "Real blue: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-miercoles-4-diciembre-n6220758",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 20:34:00"
-        },
-        {
-          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-4-diciembre-n6220601",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 20:32:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 4 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-4-diciembre-2025",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 20:24:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 5 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-5-de-diciembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 18:35:40"
-        },
-        {
-          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 5 de diciembre de 2025",
-          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-5-de-diciembre-de-2025.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 18:28:19"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Perfil",
+        "iProfesional",
+        "La Nación",
         "Clarín",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
+        "Infobae",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -152,137 +92,311 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "pagos_anses_y_20251205",
-      "tema": "Pagos ANSES y Aguinaldos Diciembre",
-      "tema_normalizado": "pagos anses y aguinaldos diciembre",
-      "resumen": "📌 **¿Qué está pasando?**\n• Diciembre de 2025 presenta un panorama importante de pagos y beneficios de ANSES y la liquidación de aguinaldos para millones de argentinos.\n• Se aplicarán aumentos en diversas prestaciones, se entregarán bonos extraordinarios y se abonará la segunda cuota del Sueldo Anual Complementario (SAC).\n• Estas medidas buscan fortalecer el poder adquisitivo y brindar respaldo económico a jubilados, pensionados y trabajadores.\n\n🔍 **Datos clave:**\n• **Aumento ANSES general:** 2,34% (ajuste mensual por inflación de octubre).\n• **Bono para jubilados/pensionados:** $70.000 (para haberes mínimos y PNC/PUAM).\n• **Monto Volver al Trabajo:** $78.000 (pago el 5 de diciembre).\n• **Monto Tarjeta Alimentar:** Entre $52.250 y $108.062 (sin cambios desde 2024).\n• **Fecha límite aguinaldo activos:** Hasta el 18 de diciembre (margen hasta el 24).\n• **Fecha límite Libreta AUH / Ayuda Escolar:** 31 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• **Aguinaldo (SAC):** Es la segunda cuota y se abona a jubilados, pensionados (SIPA, PNC, PUAM) y a trabajadores registrados de diversos sectores (bancarios, metalúrgicos, comercio, servicio doméstico). Corresponde al 50% del mejor haber mensual del semestre (julio-diciembre).\n• **Jubilados y Pensionados:** Cobrarán el aguinaldo junto a sus haberes, que incluyen un aumento del 2,34%. Además, quienes perciben la mínima o PNC/PUAM recibirán un bono de $70.000 (o proporcional hasta $410.879,59). Los cronogramas varían por DNI, iniciándose el 9 de diciembre.\n• **Programas Sociales de ANSES:**\n    • **Volver al Trabajo y Acompañamiento Social (ex-Potenciar Trabajo):** Mantienen el monto de $78.000 y se depositarán el viernes 5 de diciembre. La verificación del cobro se realiza en Mi ANSES o Mi Argentina.\n    • **AUH y AUE:** Reciben un incremento del 2,34%, fijando el monto en $97.993,42. El 20% de la AUH se retiene y se cobra al presentar la Libreta AUH, cuyo plazo finaliza el 31 de diciembre.\n    • **Tarjeta Alimentar:** Sus montos no sufrieron actualizaciones y se acreditan junto con la prestación de origen (AUH, AUE, PNC) según el calendario de pagos por DNI.\n    • **Ayuda Escolar Anual:** Puede alcanzar los $85.000 por hijo, y su trámite (presentación del Certificado Escolar) también tiene como fecha límite el 31 de diciembre de 2025.\n• **Trabajadores Registrados:**\n    • **Servicio Doméstico:** Además del aguinaldo, tienen un aumento salarial del 1,3% y un bono extraordinario (desde $6.000 hasta $14.000, según horas trabajadas) a pagarse en 3 cuotas hasta enero de 2026.\n    • **Bancarios, Metalúrgicos y Empleados de Comercio:** También perciben aguinaldo y cuentan con sus propios acuerdos paritarios, que incluyen aumentos salariales y sumas fijas o no remunerativas.\n• **Beneficios Adicionales:** ANSES ofrece descuentos para jubilados y pensionados en supermercados y farmacias, con reintegros y cuotas sin interés en varios bancos. PAMI cuenta con una plataforma digital (\"Mi PAMI\") para trámites online.\n\n💡 **¿Por qué importa?**\n• Diciembre es un mes con múltiples movimientos económicos que impactan directamente en el presupuesto de millones de familias, tanto por ingresos extra como por ajustes de inflación.\n• Es fundamental conocer las fechas y montos específicos para cada tipo de beneficiario y programa, así como los plazos para trámites clave como la Libreta AUH y la Ayuda Escolar.",
-      "cantidad_noticias": 26,
+      "tema_id": "regreso_argentina_mercado_20251205",
+      "tema": "Regreso Argentina Mercado Deuda",
+      "tema_normalizado": "regreso argentina mercado deuda",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina regresa al mercado de deuda internacional después de casi ocho años de aislamiento financiero, con el anuncio de la emisión de un nuevo bono en dólares.\n• El ministro de Economía, Luis Caputo, confirmó esta operación, que busca refinanciar parte de los próximos vencimientos de deuda en moneda extranjera.\n• El objetivo principal es fortalecer las reservas del Banco Central y dar una señal de normalización a la economía.\n\n🔍 **Datos clave:**\n• **Bono Emitido:** BONAR 2029N\n• **Vencimiento:** 30 de noviembre de 2029 (a 4 años).\n• **Tasa (Cupón):** 6,5% de Tasa Nominal Anual (TNA), con pagos semestrales de intereses.\n• **Legislación:** Ley Argentina (local).\n• **Licitación:** Programada para el miércoles 10 de diciembre, con liquidación el viernes 12.\n• **Vencimientos a cubrir:** Parcialmente, unos US$4.200 - US$4.300 millones de bonos AL29 y AL30 en enero de 2026.\n• **Última emisión similar:** Enero de 2018, también bajo la gestión de Luis Caputo.\n• **Riesgo País (inicial):** Cerca de 613-620 puntos básicos, bajando 21 unidades tras el anuncio.\n\n⚡ **Desarrollo:**\n• Este regreso se considera un \"paso intermedio\" o \"parcial\", ya que la emisión bajo ley argentina limita el universo de inversores en comparación con una emisión bajo ley extranjera (como Nueva York).\n• El principal objetivo del Gobierno es refinanciar compromisos de deuda en dólares sin utilizar las reservas del Banco Central, permitiendo que las compras de divisas se conviertan en acumulación neta.\n• La noticia generó una reacción positiva inmediata en los mercados: el dólar bajó (oficial, MEP, CCL y blue), los bonos y acciones subieron, y el riesgo país retrocedió.\n• La decisión se enmarca en un contexto de críticas del Fondo Monetario Internacional (FMI) y economistas locales e internacionales por la baja acumulación de reservas.\n• El bono, con un cupón del 6,5%, busca establecer una tasa de referencia más favorable para el país y sentar un precedente para futuras emisiones.\n• El presidente Javier Milei celebró públicamente el regreso al mercado de capitales y elogió la gestión del ministro Caputo.\n\n💡 **¿Por qué importa?**\n• Representa una señal clave de normalización financiera y una oportunidad para Argentina de recuperar parcialmente la confianza de los inversores internacionales después de años de aislamiento.\n• Facilita la gestión de la deuda al permitir refinanciar vencimientos y reduce la presión sobre las reservas del Banco Central, un factor crítico para la estabilidad cambiaria y el acceso a futuro crédito.",
+      "cantidad_noticias": 19,
       "noticias": [
+        {
+          "titulo": "Cómo impactará en la economía la vuelta de la Argentina al mercado de capitales: reservas, bonos y crédito para el sector privado",
+          "link": "https://www.infobae.com/economia/2025/12/05/como-impactara-en-la-economia-la-vuelta-de-la-argentina-al-mercado-de-capitales-reservas-bonos-y-credito-para-el-sector-privado/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-05 12:07:21"
+        },
+        {
+          "titulo": "Baja el dólar y el mercado repunta tras el anuncio de la colocación de un nuevo bono",
+          "link": "https://www.clarin.com/economia/baja-dolar-mercado-repunta-anuncio-colocacion-nuevo-bono_0_iT4neSrVIQ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 11:43:05"
+        },
+        {
+          "titulo": "Argentina vuelve al mercado de capitales: impacto en el dólar, tasas, riesgo país, bonos y acciones",
+          "link": "https://www.iprofesional.com/finanzas/443457-como-impactara-en-dolar-bonos-y-acciones-historico-regreso-argentina-al-mercado",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 11:38:00"
+        },
+        {
+          "titulo": "El dólar vuelve a bajar, en un cierre de semana marcado por el regreso de la Argentina al mercado de deuda",
+          "link": "https://www.ambito.com/finanzas/el-dolar-cierra-una-semana-la-baja-marcada-el-regreso-la-argentina-al-mercado-deuda-n6221164",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 11:25:00"
+        },
+        {
+          "titulo": "El regreso de Argentina al mercado de deuda impulsa los bonos y reduce el riesgo país",
+          "link": "https://www.iprofesional.com/finanzas/443456-como-cotizan-hoy-5-de-diciembre-merval-adrs-bonos-y-riesgo-pais",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 11:14:00"
+        },
+        {
+          "titulo": "El plan de Caputo para la deuda:  las cuatro claves del nuevo bono",
+          "link": "https://www.clarin.com/economia/plan-caputo-deuda-claves-nuevo-bono_0_voz8UffNSv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 11:09:42"
+        },
+        {
+          "titulo": "Bonos y riesgo país: cuál es la reacción del mercado tras los anuncios del Gobierno",
+          "link": "https://www.lanacion.com.ar/economia/dolar/bonos-y-riesgo-pais-cual-es-la-reaccion-del-mercado-tras-los-anuncios-del-gobierno-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 11:06:50"
+        },
+        {
+          "titulo": "El Gobierno anunció que vuelve al mercado de capitales con un bono a 2029 con una tasa de 6,5%",
+          "link": "https://www.lanacion.com.ar/economia/el-gobierno-anuncio-que-vuelve-al-mercado-de-capitales-con-un-bono-al-2029-con-una-tasa-de-65-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 11:03:43"
+        },
+        {
+          "titulo": "Los bonos en dólares suben en Wall Street y baja el riesgo país tras el anuncio de Luis Caputo",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-suben-wall-street-y-baja-el-riesgo-pais-el-anuncio-luis-caputo-n6221183",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 10:49:00"
+        },
+        {
+          "titulo": "Más deuda: Luis Caputo anunció el regreso al mercado de capitales con un bono en dólares a 4 años",
+          "link": "https://www.minutouno.com/economia/mas-deuda-luis-caputo-anuncio-el-regreso-al-mercado-capitales-un-bono-dolares-4-anos-n6221163",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 10:35:00"
+        },
+        {
+          "titulo": "Vuelta a los mercados, reforma tributaria, dólar y un 2026 \"espectacular\": las principales definiciones de Luis Caputo",
+          "link": "https://www.ambito.com/economia/vuelta-los-mercados-reforma-tributaria-dolar-y-un-2026-espectacular-las-principales-definiciones-luis-caputo-n6221176",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 10:22:00"
+        },
+        {
+          "titulo": "Javier Milei celebró la emisión de nuevo bono en dólares y elogió a Luis Caputo",
+          "link": "https://www.ambito.com/politica/javier-milei-celebro-la-emision-nuevo-bono-dolares-y-elogio-luis-caputo-n6221172",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 10:18:00"
+        },
+        {
+          "titulo": "Luis Caputo anunció que emitirá un bono a 4 años para pagar vencimientos de deuda",
+          "link": "https://www.perfil.com/noticias/economia/luis-caputo-anuncio-que-emitira-un-bono-a-4-anos-para-pagar-vencimientos-de-deuda.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 10:10:00"
+        },
+        {
+          "titulo": "Histórico regreso a mercados internacionales: así se gesta el fin de Argentina como paria financiero",
+          "link": "https://www.iprofesional.com/finanzas/443426-asi-se-gesta-el-historico-regreso-de-argentina-a-los-mercados-internacionales",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:00:00"
+        },
+        {
+          "titulo": "Fuerte elogio de Javier Milei a Luis Caputo tras anuncio del regreso al mercado de deuda",
+          "link": "https://www.iprofesional.com/finanzas/443442-uerte-elogio-de-javier-milei-a-luis-caputo-tras-el-anuncio-sobre-el-regreso-de-la-argentina-al-mercado-de-deuda",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 09:58:00"
+        },
+        {
+          "titulo": "Argentina regresa a los mercados internacionales: Caputo anunció la emisión un bono a cuatro años",
+          "link": "https://www.iprofesional.com/finanzas/443437-argentina-regresa-a-los-mercados-internacionales-caputo-anuncio-emision-un-bono-a-4-anos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 09:32:00"
+        },
+        {
+          "titulo": "Gobierno vuelve a los mercados de deuda: lanza un bono en dólares a cuatro años al 6,5%",
+          "link": "https://www.ambito.com/finanzas/gobierno-vuelve-los-mercados-globales-deuda-lanza-un-bono-dolares-cuatro-anos-al-65-n6221133",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 09:29:00"
+        },
+        {
+          "titulo": "Luis Caputo sobre el nuevo bono en dólares: \"La idea es pagar los vencimientos de enero sin que bajen las reservas\"",
+          "link": "https://www.ambito.com/finanzas/luis-caputo-el-nuevo-bono-dolares-la-idea-es-pagar-los-vencimientos-enero-que-bajen-las-reservas-n6221139",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 09:24:00"
+        },
+        {
+          "titulo": "Caputo confirmó que Argentina vuelve al mercado de deuda: será con un bono a cuatro años",
+          "link": "https://www.clarin.com/economia/caputo-confirmo-argentina-vuelve-mercado-deuda-bono-anos_0_JLZoMMhyX5.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 09:11:49"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "iProfesional",
+        "La Nación",
+        "Perfil",
+        "Clarín",
+        "Minuto1",
+        "Infobae",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reforma_laboral_argentina_20251205",
+      "tema": "Reforma Laboral Argentina",
+      "tema_normalizado": "reforma laboral argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino impulsa un proyecto de \"Ley de Modernización Laboral\" con 182 artículos, que busca flexibilizar las relaciones de trabajo y promover el empleo formal.\n• La reforma redefine aspectos clave como indemnizaciones, jornada laboral, y el poder de los sindicatos, generando fuerte rechazo en centrales obreras y también en el empresariado por algunos puntos.\n\n🔍 **Datos clave:**\n• **Proyecto de Ley de Modernización Laboral:** Nombre oficial de la iniciativa.\n• **182 artículos:** Contenido del proyecto que modifica leyes laborales fundamentales.\n• **3% de aporte patronal:** Contribución obligatoria propuesta para el Fondo de Asistencia Laboral (FAL).\n• **6 millones:** Cantidad de argentinos trabajando en el sector privado formal.\n• **9 de diciembre:** Fecha de paro nacional y movilización convocada por ATE en rechazo a la reforma.\n• **CGT y ATE:** Principales centrales sindicales que se oponen a la mayoría de los cambios.\n\n⚡ **Desarrollo:**\n• El Gobierno busca reducir la litigiosidad laboral y estimular la creación de empleo registrado, alegando que el sistema actual no genera productividad.\n• Se propone modificar la base de cálculo de las indemnizaciones por despido (Art. 245 LCT), excluyendo conceptos no mensuales como SAC y premios.\n• Se habilita la sustitución del régimen indemnizatorio actual por un Fondo de Cese Laboral (FAL) o seguro privado, financiado con un aporte patronal mensual obligatorio del 3%. Este punto genera fuerte rechazo empresarial.\n• La reforma busca flexibilizar las modalidades de contratación, limitando la presunción de relación de dependencia y creando un régimen especial para \"trabajadores independientes\" de plataformas digitales.\n• Se plantean cambios en jornada laboral (banco de horas, jornadas de 12 horas y 35 semanales en ciertos casos) y vacaciones (fraccionamiento, necesidad de otorgarlas en verano cada 3 años).\n• Respecto a los sindicatos, se limita la ultraactividad de convenios vencidos y se establece la prevalencia de convenios por empresa o región. Se mantiene el \"poder de lapicera\" de los gremios de primer grado, sin habilitar comisiones internas, y se exige autorización previa del empleador para asambleas.\n• Se clasifican como \"servicios esenciales\" o de \"importancia trascendental\" a un amplio espectro de actividades, imponiendo coberturas mínimas de servicio (75% y 50%) durante medidas de fuerza y tipificando bloqueos como infracciones.\n• Incluye regímenes de incentivo a la formalización laboral (RIFL y PER) para nuevas contrataciones y regularización de empleo no registrado, con condonación de deudas y multas para empleadores.\n\n💡 **¿Por qué importa?**\n• La reforma busca un cambio de paradigma en las relaciones laborales argentinas, con un impacto significativo en los derechos de los trabajadores, la flexibilidad para las empresas y el poder de los sindicatos.\n• La discusión legislativa y las reacciones de los distintos sectores (sindicatos, empresarios) definirán el futuro del mercado laboral en un contexto de alta conflictividad y necesidad de generar empleo.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "El Gobierno atenuó la reforma laboral para tener apoyo de la CGT, pero incluyó un artículo que rechaza el empresariado",
+          "link": "https://www.infobae.com/politica/2025/12/05/el-gobierno-atenuo-la-reforma-laboral-para-tener-apoyo-de-la-cgt-no-tocan-las-cuotas-solidarias-ni-el-poder-sindical/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-05 11:37:18"
+        },
+        {
+          "titulo": "Acceda al texto completo del proyecto de reforma laboral de 182 artículos",
+          "link": "https://www.iprofesional.com/impuestos/443425-acceda-al-texto-completo-del-proyecto-de-reforma-laboral-de-182-articulos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 11:12:00"
+        },
+        {
+          "titulo": "Proyecto de reforma laboral: qué cambios propone en Ganancias, IVA e Impuestos Internos",
+          "link": "https://www.iprofesional.com/impuestos/443427-proyecto-de-reforma-laboral-que-cambios-propone-en-ganancias-iva-e-impuestos-internos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:12:00"
+        },
+        {
+          "titulo": "Reforma laboral: las 19 claves del anteproyecto oficial más polémico",
+          "link": "https://www.iprofesional.com/impuestos/443443-reforma-laboral-19-claves-anteproyecto-oficial-mas-polemico",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:09:00"
+        },
+        {
+          "titulo": "El nuevo borrador de la reforma laboral redefine indemnizaciones y flexibiliza despidos",
+          "link": "https://www.ambito.com/politica/el-nuevo-borrador-la-reforma-laboral-redefine-indemnizaciones-y-flexibiliza-despidos-n6221148",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 09:53:22"
+        },
+        {
+          "titulo": "ATE lanzó un paro nacional para el 9 de diciembre con movilización al Congreso",
+          "link": "https://www.ambito.com/politica/ate-anuncio-un-paro-nacional-el-9-diciembre-movilizacion-al-congreso-n6221119",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 09:53:00"
+        },
+        {
+          "titulo": "ATE confirmó un paro nacional y marcha al Congreso para el 9 de diciembre contra la reforma laboral",
+          "link": "https://www.clarin.com/politica/ate-confirmo-paro-nacional-marcha-congreso-9-diciembre-reforma-laboral_0_Oe3tzlFmiI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 09:39:59"
+        },
+        {
+          "titulo": "Borrador de la reforma laboral: cambios en la Ley de Contrato de Trabajo y derogación de normas históricas",
+          "link": "https://www.minutouno.com/politica/borrador-la-reforma-laboral-cambios-la-ley-contrato-trabajo-y-derogacion-normas-historicas-n6221111",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 09:05:00"
+        },
+        {
+          "titulo": "La importancia de la reforma laboral: Sólo 6 millones de argentinos trabajan en el sector privado",
+          "link": "https://www.perfil.com/noticias/economia/por-que-es-necesaria-una-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 07:25:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "iProfesional",
+        "Perfil",
+        "Clarín",
+        "Minuto1",
+        "Infobae",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "sorteo_mundial_fifa_20251205",
+      "tema": "Sorteo Mundial FIFA 2026",
+      "tema_normalizado": "sorteo mundial fifa 2026",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Se acerca el sorteo de la Copa Mundial de la FIFA 2026, un evento clave que definirá los 12 grupos para las 48 selecciones participantes.\n*   La ceremonia se realizará el viernes 5 de diciembre de 2025 en el Centro Kennedy de Washington D. C., Estados Unidos.\n*   Contará con la presencia de destacadas figuras del deporte y será transmitida a nivel global.\n\n🔍 **Datos clave:**\n*   **Fecha del sorteo:** Viernes 5 de diciembre de 2025.\n*   **Hora del sorteo:** 12:00 hs (Tiempo del Este de EE. UU.) / 9:00 hs (Tiempo del Pacífico de EE. UU.).\n*   **Ubicación:** Kennedy Center, Washington D. C.\n*   **Selecciones:** 48 equipos (42 ya clasificados, 6 plazas restantes por definir).\n*   **Grupos:** 12 grupos, cada uno con 4 selecciones.\n*   **Países anfitriones:** Estados Unidos, México y Canadá.\n*   **Asistentes del sorteo:** Aaron Judge, Tom Brady, Shaquille O’Neal, Wayne Gretzky.\n*   **Presentadores:** Rio Ferdinand (principal), Samantha Johnson (co-conductora), Eli Manning (alfombra roja).\n\n⚡ **Desarrollo:**\n*   El sorteo organizará a las 48 selecciones en 12 grupos, utilizando cuatro bombos basados en el Ranking FIFA al 19 de noviembre.\n*   Los países anfitriones (Canadá, México, Estados Unidos) serán cabezas de serie en el Bombo 1 y ya están pre-asignados a los grupos A, B y D, respectivamente.\n*   El Bombo 1 también incluye a potencias como España, Argentina, Francia, Inglaterra, Brasil, Portugal, Países Bajos, Bélgica y Alemania.\n*   Las reglas del sorteo prohíben cruces de equipos de la misma confederación en fase de grupos, con la excepción de la UEFA, que tiene múltiples representantes.\n*   Actualmente, 42 selecciones tienen su boleto asegurado, y las 6 plazas restantes se definirán mediante 4 playoffs europeos y 2 repescas intercontinentales.\n*   Leyendas deportivas de EE. UU. y Canadá, como Aaron Judge (béisbol), Tom Brady (NFL), Shaquille O’Neal (NBA) y Wayne Gretzky (hockey), asistirán extrayendo las esferas de los bombos.\n*   Para aficionados, especialmente argentinos, el actual tipo de cambio del dólar se considera relativamente favorable para viajar al Mundial 2026, en comparación con ediciones anteriores.\n\n💡 **¿Por qué importa?**\n*   Este sorteo es fundamental porque define el camino de las selecciones en la primera fase del torneo, impactando sus estrategias y expectativas.\n*   Genera una gran expectativa a nivel mundial, ya que los aficionados conocerán los cruces y podrán comenzar a planificar sus viajes para asistir a la edición más grande de la Copa Mundial.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Sorteo del Mundial 2026: ¿es caro o barato viajar para ver a Messi?",
+          "link": "https://www.iprofesional.com/finanzas/443459-sorteo-del-mundial-2026-es-caro-o-barato-viajar-para-ver-a-messi",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 11:50:00"
+        },
+        {
+          "titulo": "Cuál será el papel de Aaron Judge en el sorteo del Mundial 2026",
+          "link": "https://www.lanacion.com.ar/estados-unidos/famosos/sorteo-del-mundial-2026-cual-sera-el-papel-de-aaron-judge-en-la-ceremonia-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:40:33"
+        },
+        {
+          "titulo": "A qué hora de Nueva York es el sorteo del Mundial 2026 hoy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/a-que-hora-de-nueva-york-es-el-sorteo-del-mundial-2026-hoy-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:25:41"
+        },
+        {
+          "titulo": "A qué hora de Estados Unidos es el sorteo del Mundial 2026 hoy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/hora-de-eeuu-y-como-ver-en-vivo-el-sorteo-del-mundial-2026-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:23:47"
+        },
+        {
+          "titulo": "En qué canal de EE.UU. pasan el sorteo del Mundial 2026 hoy",
+          "link": "https://www.lanacion.com.ar/estados-unidos/en-que-canal-de-eeuu-pasan-el-sorteo-del-mundial-2026-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:18:27"
+        },
+        {
+          "titulo": "Hora de California del sorteo del Mundial 2026 y en qué canal lo pasan en vivo",
+          "link": "https://www.lanacion.com.ar/estados-unidos/california/hora-de-california-del-sorteo-del-mundial-2026-y-en-que-canal-lo-pasan-para-ver-en-vivo-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:12:07"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "La Nación",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "pagos_y_beneficios_20251205",
+      "tema": "Pagos y Beneficios Sociales",
+      "tema_normalizado": "pagos y beneficios sociales",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Administración Nacional de la Seguridad Social (ANSES) ha relanzado y ampliado diversos programas de pagos y beneficios para jubilados, pensionados y beneficiarios sociales.\n*   Estas iniciativas buscan agilizar trámites, ofrecer descuentos significativos y modernizar la gestión de prestaciones ante un escenario económico complejo.\n*   Se han confirmado fechas y montos de cobro para diciembre de 2025 en programas clave, y se presentan importantes novedades en la gestión digital de PAMI.\n\n🔍 **Datos clave:**\n*   **Programa Volver al Trabajo:** Monto de $78.000, con fecha de cobro el 5 de diciembre de 2025.\n*   **Asignación Universal por Hijo (AUH):** Aumento del 2,34% en diciembre, alcanzando $97.993,42; los DNI terminados en 0 cobran el 9 de diciembre de 2025.\n*   **Libreta AUH:** Plazo hasta el 31 de diciembre de 2025 para su presentación y cobro del 20% retenido.\n*   **Descuentos ANSES:** Con Banco Supervielle, hasta $40.000 de devolución semanal en supermercados y 50% de descuento en farmacias.\n*   **Mi PAMI:** Nueva plataforma digital para gestionar credenciales, recetas y turnos médicos desde casa.\n*   **Jubilación en España (2026):** Edad legal de 66 años y 10 meses, o 65 años con 38 años y 3 meses de cotización, con un nuevo sistema dual de cálculo.\n\n⚡ **Desarrollo:**\n*   ANSES relanzó el trámite para designar un apoderado para jubilados y pensionados, permitiendo que una persona de confianza gestione el cobro y trámites, facilitando la vida de quienes tienen dificultades de movilidad o salud.\n*   Los beneficiarios del programa Volver al Trabajo (ex Potenciar Trabajo) recibirán $78.000 el 5 de diciembre, con el objetivo de mejorar su empleabilidad y facilitar la inserción laboral a través de capacitaciones y apoyo integral.\n*   La AUH y Asignación por Embarazo incrementan sus montos a $97.993,42 en diciembre, y es crucial presentar la Libreta AUH antes de fin de año para acceder al 20% de la prestación retenida anualmente.\n*   PAMI lanzó la plataforma \"Mi PAMI\", una ventanilla única digital para jubilados que permite acceder a credenciales, recetas electrónicas y solicitar turnos sin necesidad de traslados físicos, reduciendo exposición y aumentando seguridad.\n*   El programa de descuentos de ANSES se amplió con nuevos acuerdos, destacando beneficios con Banco Supervielle (hasta 20% de descuento y $15.000 de reintegro adicional) y manteniendo promociones con Banco Nación y Galicia en diversos comercios y farmacias.\n*   Un experto detalló que el sistema jubilatorio en España cambiará significativamente en 2026, modificando la edad de retiro y ofreciendo un cálculo de pensión dual que considerará los mejores años de cotización para beneficiar al trabajador.\n*   Para verificar cobros de programas como Volver al Trabajo o la AUH, los beneficiarios pueden ingresar a Mi ANSES o Mi Argentina con su CUIL y Clave de la Seguridad Social, en el apartado \"Mis cobros\".\n\n💡 **¿Por qué importa?**\n*   Estas actualizaciones y relanzamientos buscan brindar mayor autonomía y seguridad económica a jubilados, pensionados y familias, simplificando trámites y ofreciendo herramientas para enfrentar la situación económica.\n*   La digitalización de servicios, la ampliación de beneficios y los ajustes monetarios tienen un impacto directo en el poder adquisitivo y la calidad de vida de millones de personas en Argentina y, en el caso específico, en el futuro de las pensiones en España.",
+      "cantidad_noticias": 7,
+      "noticias": [
+        {
+          "titulo": "ANSES relanza un beneficio para jubilados",
+          "link": "https://www.iprofesional.com/impuestos/443450-anses-relanza-este-beneficio-para-jubilados-y-pensionados",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 10:20:00"
+        },
         {
           "titulo": "Cuándo se cobra el programa Volver al Trabajo en diciembre de 2025",
           "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-programa-volver-al-trabajo-en-diciembre-2025-nid05122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-05 08:54:25"
+          "fecha": "2025-12-05 09:46:53"
+        },
+        {
+          "titulo": "Cuándo cobro la AUH en diciembre 2025 si mi DNI termina en 0",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-la-auh-en-diciembre-2025-si-mi-dni-termina-en-0-nid04122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 09:46:07"
+        },
+        {
+          "titulo": "Cómo será el sistema jubilatorio en 2026, según un experto",
+          "link": "https://www.iprofesional.com/impuestos/442990-como-sera-el-sistema-jubilatorio-en-2026-segun-un-experto",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 09:00:00"
         },
         {
           "titulo": "Plan Volver al Trabajo: cuánto cobran los beneficiarios",
           "link": "https://www.minutouno.com/economia/plan-volver-al-trabajo-cuanto-cobran-los-beneficiarios-n6221120",
           "fuente": "Minuto1",
           "fecha": "2025-12-05 08:45:00"
-        },
-        {
-          "titulo": "Cómo cobro el aguinaldo de diciembre 2025 si soy jubilado",
-          "link": "https://www.lanacion.com.ar/economia/como-cobro-el-aguinaldo-de-diciembre-2025-si-soy-jubilado-nid05122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 08:31:00"
-        },
-        {
-          "titulo": "Cuánto cobran los caseros en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-caseros-en-diciembre-con-el-aguinaldo-nid04122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:45"
-        },
-        {
-          "titulo": "Cuánto ganan los supervisores en diciembre, con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-ganan-los-supervisores-en-diciembre-con-el-aguinaldo-nid03122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:43"
-        },
-        {
-          "titulo": "Paritaria UOM: cuánto cobra un obrero metalúrgico en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/paritaria-uom-cuanto-cobra-un-obrero-metalurgico-en-diciembre-de-2025-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:40"
-        },
-        {
-          "titulo": "Cuánto cobran las niñeras en diciembre 2025 con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-en-diciembre-2025-con-el-aguinaldo-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:38"
-        },
-        {
-          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:35"
-        },
-        {
-          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:33"
-        },
-        {
-          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:31"
-        },
-        {
-          "titulo": "Cronograma de pagos: cuándo cobran los jubilados en diciembre 2025 con el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/cronograma-de-pagos-cuando-cobran-los-jubilados-en-diciembre-2025-con-el-aguinaldo-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:16:01"
-        },
-        {
-          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
-          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:59"
-        },
-        {
-          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:56"
-        },
-        {
-          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
-          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:53"
-        },
-        {
-          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:51"
-        },
-        {
-          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:48"
-        },
-        {
-          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:46"
-        },
-        {
-          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
-          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:43"
-        },
-        {
-          "titulo": "De cuánto es la AUH en diciembre 2025 tras el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-la-auh-en-diciembre-2025-tras-el-aumento-confirmado-nid14112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:40"
-        },
-        {
-          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
-          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:37"
-        },
-        {
-          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
-          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:15:34"
         },
         {
           "titulo": "Gestioná trámites de PAMI desde tu casa: cómo funciona la nueva plataforma digital para jubilados",
@@ -295,150 +409,15 @@
           "link": "https://www.perfil.com/noticias/economia/anses-amplio-su-programa-de-descuentos-nuevas-rebajas-para-jubilados-y-pensionados.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-05 07:12:00"
-        },
-        {
-          "titulo": "Aguinaldo ANSES diciembre 2025: Quiénes lo cobran y cuánto reciben",
-          "link": "https://www.perfil.com/noticias/economia/aguinaldo-anses-diciembre-2025-quienes-lo-cobran-y-cuanto-reciben.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-05 07:11:00"
-        },
-        {
-          "titulo": "ANSES: cómo es el trámite para activar más de $70.000 en pocos días",
-          "link": "https://www.minutouno.com/economia/anses-como-es-el-tramite-activar-mas-70000-pocos-dias-n6220424",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 07:00:00"
-        },
-        {
-          "titulo": "ANSES: el organismo otorgará hasta $150.000 a un grupo de beneficiarios",
-          "link": "https://www.minutouno.com/economia/anses-el-organismo-otorgara-150000-un-grupo-beneficiarios-n6220895",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 06:55:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Perfil",
+        "Minuto1",
         "La Nación",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_y_20251205",
-      "tema": "Reforma Laboral y Previsional Argentina",
-      "tema_normalizado": "reforma laboral y previsional argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei impulsa una profunda \"Reforma Laboral y Previsional Argentina\" a través de un proyecto de Ley de Modernización Laboral.\n• Esta iniciativa busca transformar el marco normativo de las relaciones de trabajo, flexibilizando modalidades y redefiniendo aspectos como las indemnizaciones.\n• También se ratificó una reforma previsional anterior, cerrando un debate sobre la constitucionalidad de la ley que modificó el cálculo de haberes jubilatorios.\n\n🔍 **Datos clave:**\n• **182 artículos:** Contiene el borrador de la reforma laboral.\n• **10 de diciembre:** Fecha de inicio de las sesiones extraordinarias en el Congreso para su tratamiento.\n• **6 millones:** Argentinos que trabajan en relación de dependencia en el sector privado formal.\n• **41%:** Caída del ingreso real medio per cápita en Argentina entre 2016 y 2024.\n• **Ley 27.426:** Reforma previsional del gobierno de Mauricio Macri, cuya constitucionalidad fue confirmada por la Corte Suprema.\n\n⚡ **Desarrollo:**\n• El proyecto laboral propone un \"Régimen de Promoción del Empleo Registrado\" para blanquear trabajadores, ofreciendo condonación de deudas previsionales y eliminación del Registro REPSAL.\n• Se modifica el régimen indemnizatorio: redefine la base de cálculo, fija topes de tres veces el salario promedio del convenio y un piso del 67% del salario habitual.\n• Los convenios colectivos podrán habilitar el reemplazo de la indemnización por despido por un \"fondo de cese laboral\" sostenido por los empleadores.\n• Se crea un régimen especial para repartidores de plataformas digitales, definiéndolos como \"trabajadores independientes\" con obligaciones fiscales y derechos específicos.\n• En conflictos colectivos, se califica a un amplio espectro de actividades como \"servicios esenciales\" o \"de importancia trascendental\", imponiendo coberturas mínimas de servicio (75% y 50%) durante medidas de fuerza.\n• Se limita la ultraactividad de los convenios colectivos vencidos solo a sus cláusulas normativas y se establece la prevalencia de acuerdos de ámbito empresarial sobre los sectoriales.\n• La Corte Suprema de Justicia ratificó la constitucionalidad de la Ley 27.426, que modificó la fórmula de movilidad jubilatoria en 2017.\n• El Tribunal argumentó que la Constitución garantiza la movilidad de los haberes, pero no preconiza un sistema único, dejando al Congreso la facultad de diseñar dichos mecanismos.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca impulsar el empleo formal, reducir la litigiosidad y adecuar las relaciones laborales a nuevos modelos productivos, en un contexto de estancamiento del empleo privado y caída de ingresos.\n• Pretende mitigar la \"industria del juicio laboral\", identificada como una barrera para la contratación y causa de quiebra para muchas PyMES, lo que afecta directamente la generación de nuevos puestos de trabajo.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "Borrador de la reforma laboral: cambios en la Ley de Contrato de Trabajo y derogación de normas históricas",
-          "link": "https://www.minutouno.com/politica/borrador-la-reforma-laboral-cambios-la-ley-contrato-trabajo-y-derogacion-normas-historicas-n6221111",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 09:05:00"
-        },
-        {
-          "titulo": "Proyecto de reforma laboral: qué cambios propone en Ganancias, IVA e Impuestos Internos",
-          "link": "https://www.iprofesional.com/impuestos/443427-proyecto-de-reforma-laboral-que-cambios-propone-en-ganancias-iva-e-impuestos-internos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-05 09:02:00"
-        },
-        {
-          "titulo": "Cómo será el sistema jubilatorio en 2026, según un experto",
-          "link": "https://www.iprofesional.com/impuestos/442990-como-sera-el-sistema-jubilatorio-en-2026-segun-un-experto",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-05 09:00:00"
-        },
-        {
-          "titulo": "Acceda al texto completo del proyecto de reforma laboral de 182 artículos",
-          "link": "https://www.iprofesional.com/impuestos/443425-acceda-al-texto-completo-del-proyecto-de-reforma-laboral-de-182-articulos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-05 08:57:00"
-        },
-        {
-          "titulo": "La importancia de la reforma laboral: Sólo 6 millones de argentinos trabajan en el sector privado",
-          "link": "https://www.perfil.com/noticias/economia/por-que-es-necesaria-una-reforma-laboral.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-05 07:25:00"
-        },
-        {
-          "titulo": "La hoja de ruta de Milei con el Presupuesto, la reforma laboral y dólar colchón en extraordinarias",
-          "link": "https://www.iprofesional.com/politica/443415-que-camino-seguiran-en-el-congreso-la-reforma-laboral-dolar-colchon-y-el-presupuesto",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-05 06:34:00"
-        },
-        {
-          "titulo": "Reforma Laboral: los cambios en indemnizaciones, juicios, horas de trabajo, multas y vacaciones",
-          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-profundos-cambios-en-indemnizaciones-juicios-multas-y-vacaciones.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-05 03:03:56"
-        },
-        {
-          "titulo": "Se confirmó la reforma previsional de Mauricio Macri: qué propone",
-          "link": "https://www.iprofesional.com/economia/443411-se-confirmo-reforma-previsional-mauricio-macri-que-propone",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-04 19:01:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
         "Perfil",
-        "Minuto1",
         "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "sesiones_extraordinarias_congreso_20251205",
-      "tema": "Sesiones Extraordinarias Congreso y Proyectos",
-      "tema_normalizado": "sesiones extraordinarias congreso y proyectos",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Presidente Javier Milei convocará a Sesiones Extraordinarias del Congreso para tratar un paquete de reformas y proyectos de ley clave.\n• Estas sesiones se desarrollarán del 11 al 31 de diciembre, buscando avanzar con la agenda legislativa del Gobierno.\n• El ministro del Interior, Diego Santilli, está liderando encuentros con gobernadores para asegurar los votos necesarios para estas iniciativas.\n\n🔍 **Datos clave:**\n• **Período de sesiones:** 11 al 31 de diciembre.\n• **Decreto de convocatoria:** Se espera la firma este viernes y publicación el 9 de diciembre en el Boletín Oficial.\n• **Principales proyectos:** Presupuesto 2026, Reforma Laboral, Reforma Tributaria, Reforma Penal.\n• **Negociador clave:** Diego Santilli (Ministro del Interior).\n• **Gobernador en negociación:** Sergio Ziliotto (La Pampa), entre otros.\n\n⚡ **Desarrollo:**\n• El Gobierno busca que el Congreso debata y apruebe de forma acelerada un conjunto amplio y complejo de proyectos.\n• La prioridad número uno es el Presupuesto 2026, seguido de reformas estructurales en áreas como el trabajo, impuestos y el código penal.\n• La Reforma Laboral, resistida por los sindicatos, busca modificar la estabilidad laboral, indemnizaciones y convenios por empresa.\n• La Reforma Tributaria incluiría la creación de un \"súper IVA\" y cambios en Ganancias, con la posibilidad de ceder parte a las provincias.\n• Otros proyectos incluyen la Reforma de la Ley de Glaciares, que busca reducir zonas periglaciares para proyectos mineros, y la Ley de Inocencia Fiscal para proteger ahorristas.\n• El Ministro Santilli está llevando a cabo un \"raid de encuentros\" con gobernadores para conseguir apoyos, a cambio de saldar deudas provinciales, ordenar envíos de coparticipación y destrabar obra pública.\n• Estas negociaciones son cruciales, ya que el oficialismo cuenta con una representación parlamentaria minoritaria y necesita el consenso de bloques dialoguistas.\n• Se prevé que las dos iniciativas principales, el Presupuesto 2026 y la Reforma Laboral, ingresen primero por el Senado para iniciar su tratamiento en comisiones.\n\n💡 **¿Por qué importa?**\n• Las Sesiones Extraordinarias son fundamentales para la implementación de las primeras políticas y reformas del Gobierno en su fase inicial.\n• El éxito o fracaso de estas negociaciones y debates legislativos determinará la capacidad del oficialismo para avanzar con su agenda y el impacto directo en la economía y la vida de los ciudadanos.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Diego Santilli recibe a Sergio Ziliotto y busca cerrar apoyos para el paquete de reformas del oficialismo",
-          "link": "https://www.ambito.com/politica/diego-santilli-recibe-sergio-ziliotto-y-busca-cerrar-apoyos-el-paquete-reformas-del-oficialismo-n6221117",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 08:59:00"
-        },
-        {
-          "titulo": "Javier Milei y sus medidas, EN VIVO: Santilli recibe hoy al gobernador de La Pampa para negociar sobre el Presupuesto 2026 antes de las extraordinarias",
-          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-santilli-recibe-hoy-gobernador-pampa-negociar-presupuesto-2026-extraordinarias_0_237HpAw5sj.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 08:07:43"
-        },
-        {
-          "titulo": "Javier Milei avanza con las sesiones extraordinarias en el Congreso: este viernes firmaría el decreto",
-          "link": "https://www.minutouno.com/politica/javier-milei-avanza-las-sesiones-extraordinarias-el-congreso-este-viernes-firmaria-el-decreto-n6220951",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-05 00:29:00"
-        },
-        {
-          "titulo": "Uno por uno, los proyectos que el Gobierno quiere que el Congreso apruebe en extraordinarias",
-          "link": "https://www.minutouno.com/politica/uno-uno-los-proyectos-que-el-gobierno-quiere-que-el-congreso-apruebe-extraordinarias-n6221037",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 22:00:00"
-        },
-        {
-          "titulo": "El Gobierno firmará este viernes el llamado a sesiones extraordinarias",
-          "link": "https://www.ambito.com/politica/el-gobierno-firmara-este-viernes-el-llamado-sesiones-extraordinarias-n6221012",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 19:39:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -449,8 +428,8 @@
       "tema_id": "nueva_politica_inteligencia_20251205",
       "tema": "Nueva Política Inteligencia Nacional",
       "tema_normalizado": "nueva politica inteligencia nacional",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno nacional aprobó una nueva Política de Inteligencia Nacional, oficializada mediante el Decreto 864/2025.\n• Esta medida establece los lineamientos estratégicos para el Sistema de Inteligencia Nacional y ordena a la Secretaría de Inteligencia de Estado (SIDE) elaborar la Estrategia de Inteligencia Nacional.\n• La aprobación se da tras una reestructuración del sistema de inteligencia y un cambio en la cúpula de la SIDE, con la asunción de Cristian Auguadra.\n\n🔍 **Datos clave:**\n• **Decreto 864/2025:** Aprueba la nueva Política de Inteligencia Nacional.\n• **20 años:** Tiempo que Argentina llevaba sin una política formal de inteligencia.\n• **Decreto 614/2024:** Dispuso la reestructuración integral del sistema, disolviendo la AFI y creando la SIDE.\n• **SIDE:** Secretaría de Inteligencia de Estado, el organismo superior del sistema.\n• **Cristian Auguadra:** Nuevo Secretario de la SIDE, reemplazando a Sergio Neiffert.\n• **Santiago Caputo:** Asesor presidencial que afianza su control sobre el área de inteligencia.\n• **Javier Milei y Manuel Adorni:** Firmantes del decreto (Presidente y Jefe de Gabinete).\n• **SIA, ASN, AFC, DAI:** Nuevos órganos desconcentrados creados en la reestructuración.\n\n⚡ **Desarrollo:**\n• La política busca modernizar y jerarquizar las capacidades de inteligencia en un escenario internacional \"difuso, fragmentado y complejo\", priorizando la producción de información estratégica.\n• Define seis lineamientos estratégicos: posicionar a Argentina internacionalmente, preservar la soberanía, proteger recursos críticos, prevenir terrorismo/crimen organizado, contrarrestar ciberamenazas y neutralizar inteligencia externa.\n• La reestructuración integral de julio de 2024 (Decreto 614/2024) disolvió la antigua AFI y creó la SIDE bajo la órbita de la Presidencia, transfiriéndole competencias, personal y presupuesto.\n• Durante este proceso se crearon órganos desconcentrados como el Servicio de Inteligencia Argentino (SIA), la Agencia de Seguridad Nacional (ASN), la Agencia Federal de Ciberseguridad (AFC) y la División de Asuntos Internos (DAI).\n• La designación de Cristian Auguadra, hombre de confianza de Santiago Caputo y exjefe de Asuntos Internos (DAI), consolida el control del asesor presidencial sobre el organismo.\n• La Estrategia de Inteligencia Nacional, que elaborará la SIDE, establecerá los cursos de acción, metas y recursos humanos y tecnológicos necesarios para adaptar el sistema al escenario geopolítico actual.\n• El Gobierno sostiene que esta actualización forma parte del compromiso de \"revalorizar las instituciones fundamentales del Estado\" y garantizar información de calidad.\n\n💡 **¿Por qué importa?**\n• Por primera vez en más de dos décadas, Argentina cuenta con un marco estratégico claro para su sistema de inteligencia, lo que es crucial para la defensa nacional y la seguridad interior.\n• Este cambio busca fortalecer la capacidad del Estado para anticipar y enfrentar riesgos y amenazas, al tiempo que la nueva dirección consolida un esquema de poder alineado con la presidencia en un área estratégica.",
-      "cantidad_noticias": 5,
+      "resumen": "📌 **¿Qué está pasando?**\n* El Gobierno aprobó la nueva Política de Inteligencia Nacional mediante el Decreto 864/2025, publicado en el Boletín Oficial.\n* Esta política establece los lineamientos estratégicos generales para el funcionamiento del Sistema de Inteligencia Nacional.\n* Además, ordena a la Secretaría de Inteligencia de Estado (SIDE) elaborar la Estrategia de Inteligencia Nacional, que definirá los cursos de acción.\n\n🔍 **Datos clave:**\n* **Decreto 864/2025:** Instrumento que aprueba la nueva Política de Inteligencia Nacional.\n* **SIDE (Secretaría de Inteligencia de Estado):** Organismo superior del sistema, creado tras la disolución de la antigua AFI en julio de 2024 (Decreto 614/2024).\n* **Cristian Aguadra:** Actual Secretario de la SIDE, reemplazando a Sergio Neiffert.\n* **Ley 25.520:** Marco jurídico original del Sistema de Inteligencia Nacional.\n* **SIA, ASN, AFC, DAI:** Nuevos órganos desconcentrados (Servicio de Inteligencia Argentino, Agencia de Seguridad Nacional, Agencia Federal de Ciberseguridad, División de Asuntos Internos).\n* **+20 años:** Tiempo sin una Política de Inteligencia formal en Argentina, según el Gobierno.\n* **Javier Milei y Manuel Adorni:** Firmantes del decreto.\n\n⚡ **Desarrollo:**\n* La nueva Política de Inteligencia Nacional busca modernizar y jerarquizar las capacidades del país, en un contexto internacional \"difuso, fragmentado y complejo\".\n* El documento señala que el sistema arrastraba \"más de tres décadas de deterioro\" y la ausencia de una visión estratégica formal.\n* Se instruye a la SIDE a elaborar la Estrategia de Inteligencia Nacional, que fijará cursos de acción, metas y recursos necesarios, adaptándose al escenario geopolítico actual.\n* Esta aprobación es parte de una reestructuración integral iniciada con el Decreto 614/2024, que disolvió la AFI y creó la SIDE y sus nuevos órganos.\n* Entre los objetivos estratégicos se destacan proteger la soberanía y autonomía nacional, identificando amenazas que limiten la proyección del país y resguardando el conocimiento científico propio.\n* También busca fortalecer la capacidad del Estado para interpretar amenazas híbridas, identificar interferencias encubiertas y anticipar riesgos, amenazas y oportunidades en línea con los intereses nacionales.\n\n💡 **¿Por qué importa?**\n* Esta política es crucial para Argentina, ya que moderniza y reorienta su sistema de inteligencia, que llevaba más de dos décadas sin una visión estratégica formal.\n* Fortalece la capacidad del Estado para proteger los intereses nacionales, la seguridad interior y la defensa, adaptándose a un entorno global complejo y a nuevas amenazas como la ciberseguridad.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
           "titulo": "El Poder Ejecutivo aprobó la nueva Política de Inteligencia Nacional y ordenó diseñar una estrategia para el área",
@@ -469,72 +448,14 @@
           "link": "https://www.perfil.com/noticias/politica/el-gobierno-presento-la-nueva-politica-de-inteligencia-2025-y-redefinio-el-rol-de-la-side-los-6-lineamientos-mas-importantes.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-05 07:41:31"
-        },
-        {
-          "titulo": "SIDE: tras la llegada de Auguadra, el Gobierno presentó los 6 ejes de la nueva política de Inteligencia Nacional",
-          "link": "https://www.clarin.com/politica/side-llegada-auguadra-gobierno-presento-6-ejes-nueva-politica-inteligencia-nacional_0_ECjizM6EYU.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 04:33:12"
-        },
-        {
-          "titulo": "Santiago Caputo afianza su control sobre la SIDE y abre una nueva etapa en el organismo",
-          "link": "https://www.ambito.com/politica/santiago-caputo-afianza-su-control-la-side-y-abre-una-nueva-etapa-el-organismo-n6220830",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 20:03:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Ámbito Financiero",
         "Perfil",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "regreso_argentina_mercado_20251205",
-      "tema": "Regreso Argentina Mercado Deuda Global",
-      "tema_normalizado": "regreso argentina mercado deuda global",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina regresa al mercado global de deuda después de varios años, marcando un hito en su relación financiera internacional.\n• El Ministro de Economía, Luis Caputo, anunció la licitación de un nuevo Bono del Tesoro Nacional en dólares.\n• Este movimiento busca financiar compromisos del Estado y refinanciar deuda existente sin impactar las reservas del Banco Central.\n\n🔍 **Datos clave:**\n• **Instrumento:** Bono del Tesoro Nacional en Dólares Estadounidenses 6,50% (BONAR 2029N).\n• **Vencimiento:** 30 de noviembre de 2029 (aproximadamente a cuatro años).\n• **Tasa de interés:** 6,50% anual, con pagos de cupón semestrales.\n• **Legislación:** Bajo ley argentina (Local).\n• **Fecha de licitación:** 10 de diciembre de 2025.\n• **Fecha de liquidación:** 12 de diciembre de 2025.\n• **Precedente:** El último regreso a mercados globales similar fue en julio de 2017.\n\n⚡ **Desarrollo:**\n• El regreso a los mercados internacionales se produce en un contexto de mejora de las condiciones financieras del país y la reducción del riesgo percibido.\n• El bono está diseñado para cubrir parcialmente vencimientos de capital de otros instrumentos, como los Bonar 30 y Bonar 29, que operan el 9 de enero de 2026.\n• El gobierno destaca una \"fuerte compresión de las tasas de interés\" en los bonos en dólares, atribuida al resultado electoral y al programa económico implementado.\n• Las recientes y exitosas colocaciones de deuda de provincias argentinas, como Santa Fe, que lograron altas sobreofertas y tasas favorables, generaron un clima de confianza en los inversores.\n• Esta estrategia busca refinanciar vencimientos de capital en dólares sin afectar el fortalecimiento de la hoja de balance del Banco Central, permitiendo la acumulación neta de reservas.\n• La licitación se estructurará en dos tramos: uno no competitivo para inversores minoristas (hasta USD 50.000) y otro competitivo para montos mayores, canalizándose a través de agentes registrados en la CNV.\n\n💡 **¿Por qué importa?**\n• Este paso es fundamental para la normalización financiera de Argentina, permitiéndole acceder a financiación externa a costos más sostenibles.\n• Facilita la gestión de la carga de deuda en dólares, reduciendo la presión sobre las reservas del Banco Central para afrontar futuros vencimientos.\n• Envía una señal positiva a los inversores globales, posicionando al país para atraer nuevas inversiones y consolidar su estabilidad económica.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "El Gobierno anunció que vuelve al mercado de capitales con un bono al 2029 con una tasa de 6,5%",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-anuncio-que-vuelve-al-mercado-de-capitales-con-un-bono-al-2029-con-una-tasa-de-65-nid05122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 09:20:40"
-        },
-        {
-          "titulo": "La Argentina regresa al mercado internacional de deuda: Caputo anunció que emitirán un bono a cuatro años",
-          "link": "https://www.infobae.com/economia/2025/12/05/caputo-anuncio-que-emitira-un-bono-a-cuatro-anos-para-hacer-frente-a-vencimientos-de-deuda/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 09:18:59"
-        },
-        {
-          "titulo": "Gobierno vuelve a los mercados globales de deuda: lanza un bono en dólares a cuatro años al 6,5%",
-          "link": "https://www.ambito.com/finanzas/gobierno-vuelve-los-mercados-globales-deuda-lanza-un-bono-dolares-cuatro-anos-al-65-n6221133",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-05 09:16:06"
-        },
-        {
-          "titulo": "Histórico regreso a mercados internacionales: así se gesta el fin de Argentina como paria financiero",
-          "link": "https://www.iprofesional.com/finanzas/443426-asi-se-gesta-el-historico-regreso-de-argentina-a-los-mercados-internacionales",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-05 07:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
         "Ámbito Financiero",
-        "iProfesional",
-        "La Nación",
-        "Infobae"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -542,124 +463,34 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "declaraciones_embajador_lamelas_20251205",
-      "tema": "Declaraciones Embajador Lamelas y Milei",
-      "tema_normalizado": "declaraciones embajador lamelas y milei",
-      "resumen": "📌 **¿Qué está pasando?**\n• El nuevo embajador de Estados Unidos en Argentina, Peter Lamelas, declaró públicamente su misión de apoyar al gobierno del presidente Javier Milei.\n• Afirmó que el expresidente Donald Trump lo envió específicamente para \"ayudar a su amigo Javier Milei\", marcando un rol diplomático no neutral.\n• Estas contundentes declaraciones fueron realizadas durante un cóctel de fin de año organizado por la Cámara de Comercio de EE. UU. en Argentina (AmCham) en Buenos Aires.\n\n🔍 **Datos clave:**\n• **Embajador de EE. UU.:** Peter Lamelas.\n• **Presidente de Argentina:** Javier Milei.\n• **Expresidente de EE. UU.:** Donald Trump, quien lo designó y dio la directriz.\n• **Evento principal:** Cóctel de fin de año de AmCham, con más de 250 asistentes y altos funcionarios argentinos.\n• **Llegada de Lamelas:** Principios de noviembre, con entrega de credenciales en tiempo récord.\n• **Acuerdo comercial:** Marco de acuerdo comercial y de inversiones anunciado entre ambos países el 13 de noviembre, con promesa de firma \"pronto\".\n\n⚡ **Desarrollo:**\n• Lamelas destacó la apertura de un \"nuevo capítulo\" en la relación bilateral, proyectándola como \"más cercana, más dinámica y más ambiciosa\" entre Estados Unidos y Argentina.\n• Desafió la práctica de la neutralidad diplomática al explicar que su envío fue directo y sin ambigüedades: apoyar a Milei, no a cualquier gobierno o partido.\n• La presencia de ministros clave como Luis Caputo, Pablo Quirno y el Jefe de Gabinete Manuel Adorni en el evento, junto a gobernadores y legisladores, señaló un fuerte respaldo del gobierno argentino.\n• El embajador expresó su firme voluntad de trabajar para que el presidente Trump visite Argentina, considerándolo un apoyo fundamental para el progreso del país.\n• Lamelas, de origen cubano y con una fuerte postura anticomunista, subrayó la importancia del capitalismo, los mercados y el apoyo a los negocios para el crecimiento de Argentina.\n• Pese a las expectativas, el acuerdo comercial y de inversiones anunciado en noviembre entre ambos países aún no tiene una fecha definida para su firma, aunque se espera \"pronto\".\n\n💡 **¿Por qué importa?**\n• Las declaraciones de Lamelas establecen un precedente diplomático inusual al explicitar un apoyo tan personal y directo de Estados Unidos al gobierno de Milei, lo que podría influir en la política interna y externa argentina.\n• Esto reafirma a Estados Unidos como el principal aliado geopolítico de Argentina bajo la administración libertaria, destacando la profunda alineación ideológica y estratégica entre ambos gobiernos.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Peter Lamelas, embajador de Estados Unidos: “Estoy aquí para apoyar a este gobierno”",
-          "link": "https://www.lanacion.com.ar/politica/peter-lamelas-embajador-de-estados-unidos-estoy-aqui-para-apoyar-a-este-gobierno-nid05122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 07:52:04"
-        },
-        {
-          "titulo": "Peter Lamelas: \"Trump me dijo que venga a ayudar a Milei, no voy a ser un embajador neutral\"",
-          "link": "https://www.perfil.com/noticias/politica/peter-lamelas-trump-me-dijo-que-venga-a-ayudar-a-milei-no-voy-a-ser-un-embajador-neutral.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-05 01:09:00"
-        },
-        {
-          "titulo": "Peter Lamelas: \"Donald Trump me dijo que venga a ayudar a su amigo Javier Milei\"",
-          "link": "https://www.ambito.com/politica/peter-lamelas-donald-trump-me-dijo-que-venga-ayudar-su-amigo-javier-milei-n6221046",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 21:35:00"
-        },
-        {
-          "titulo": "El embajador de Estados Unidos: \"Trump me dijo que viniera a ayudar a su amigo, Javier Milei\"",
-          "link": "https://www.clarin.com/politica/embajador-estados-unidos-trump-dijo-viniera-ayudar-amigo-javier-milei_0_liVYXrGKq2.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 21:11:07"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "La Nación",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "tension_eeuu_y_20251205",
-      "tema": "Tensión EEUU y Venezuela",
-      "tema_normalizado": "tension eeuu y venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n• La tensión entre Estados Unidos y Venezuela ha escalado significativamente, abarcando frentes diplomáticos, militares y de seguridad aérea.\n• Estados Unidos ha recomendado a sus ciudadanos abandonar Venezuela de inmediato y ha intensificado un despliegue militar en el Caribe.\n• Como consecuencia, 12 aerolíneas internacionales han suspendido sus vuelos a Venezuela por motivos de seguridad aérea.\n\n🔍 **Datos clave:**\n• 12 aerolíneas: Total de compañías que suspendieron vuelos a Venezuela, incluyendo Satena, BoA, Copa Airlines y Wingo.\n• Alerta Nivel 4: Máximo nivel de advertencia de viaje del Departamento de Estado de EEUU para Venezuela.\n• 4 de diciembre: EEUU atacó una \"narcolancha\" en el Pacífico; Satena y BoA suspendieron vuelos a Venezuela.\n• 21 de noviembre: La FAA de EEUU recomendó extremar precaución en el espacio aéreo venezolano por actividad militar.\n• 24 de noviembre: EEUU designó al \"Cartel de los Soles\" (presuntamente liderado por Maduro) como organización terrorista.\n• USS Gerald Ford: Portaviones estadounidense desplegado en el Caribe como parte de la operación militar.\n\n⚡ **Desarrollo:**\n• Estados Unidos inició la operación \"Lanza del Sur\" con un inusual despliegue militar de barcos y aviones en el Caribe, incluyendo el USS Gerald Ford, para combatir el narcotráfico.\n• El presidente Donald Trump ha dado un ultimátum a Nicolás Maduro y ha mencionado la posibilidad de iniciar \"operaciones en tierra\" en Venezuela.\n• EEUU ha realizado ataques \"cinéticos letales\" contra \"narcolanchas\" en aguas internacionales, y ha designado al \"Cartel de los Soles\" como organización terrorista.\n• El Departamento de Estado de EEUU renovó su alerta Nivel 4, instando a sus ciudadanos a abandonar Venezuela \"de inmediato\" y a \"preparar un testamento\" debido a riesgos como detención injusta y tortura.\n• Doce aerolíneas internacionales suspendieron sus operaciones hacia Venezuela tras reportes de fallas e interferencias en los sistemas de navegación satelital, que consideran un riesgo operacional.\n• El régimen venezolano ha revocado las concesiones a algunas aerolíneas, acusándolas de \"sumarse a las acciones de terrorismo de Estado\" promovidas por EEUU.\n• Desde marzo de 2019, EEUU retiró a todo su personal diplomático de Caracas, dejando a sus ciudadanos sin asistencia consular directa en el país.\n\n💡 **¿Por qué importa?**\n• La escalada de tensión militar y diplomática aumenta el riesgo de un conflicto en la región y afecta gravemente la estabilidad de Venezuela.\n• Las advertencias de viaje y la suspensión masiva de vuelos aíslan aún más al país, impactando la vida de sus ciudadanos y la conexión internacional.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Venezuela: ya 12 aerolíneas suspendieron sus vuelos tras las fallas que reportaron los pilotos en el aire",
-          "link": "https://www.clarin.com/mundo/venezuela-12-aerolineas-suspendieron-vuelos-fallas-reportaron-pilotos-aire_0_4C0V5QbOkm.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-05 01:23:37"
-        },
-        {
-          "titulo": "Crece la tensión: Estados Unidos recomendó a sus ciudadanos abandonar Venezuela \"de inmediato\"",
-          "link": "https://www.minutouno.com/mundo/crece-la-tension-estados-unidos-recomendo-sus-ciudadanos-abandonar-venezuela-de-inmediato-n6221071",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-04 23:17:00"
-        },
-        {
-          "titulo": "Estados Unidos atacó una \"narcolancha\" en el Pacífico, mientras aumenta la tensión con Venezuela",
-          "link": "https://www.clarin.com/mundo/estados-unidos-ataco-narcolancha-pacifico-aumenta-tension-venezuela_0_X4pGW7cJJK.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-04 22:46:56"
-        },
-        {
-          "titulo": "Sigue la tensión: EEUU renovó su recomendación de no viajar a Venezuela y pidió a sus ciudadanos abandonar el país",
-          "link": "https://www.ambito.com/mundo/sigue-la-tension-eeuu-renovo-su-recomendacion-no-viajar-venezuela-y-pidio-sus-ciudadanos-abandonar-el-pais-n6221070",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-04 22:36:34"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-05",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "proyecto_reforma_codigo_20251205",
-      "tema": "Proyecto Reforma Código Penal",
-      "tema_normalizado": "proyecto reforma codigo penal",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno Nacional, impulsado por Javier Milei y presentado por Patricia Bullrich, envió al Congreso un proyecto de reforma integral del Código Penal.\n• La iniciativa busca endurecer las penas para numerosos delitos, eliminar la prescripción en casos graves y limitar los beneficios para condenados.\n• El objetivo es modernizar una ley de 1921, que ha recibido más de 900 \"parches\" históricos, y combatir la percibida \"puerta giratoria\" en la justicia.\n\n🔍 **Datos clave:**\n• **Fecha de envío al Congreso:** Recientemente, este lunes.\n• **Código Penal actual:** Data de 1921, con más de 900 reformas \"tipo parches\" a lo largo de su historia.\n• **Homicidio simple:** Propone elevar la pena de 8-25 años a 10-30 años de prisión (máximo de 25 a 30 años).\n• **Cumplimiento efectivo:** El proyecto fija que el 82% de los delitos implicará prisión efectiva.\n• **Ex-ministro de Justicia:** Germán Garavano, quien afirmó que el aumento de penas es un tema secundario.\n• **Intento de reforma anterior:** En 2019, el entonces presidente Macri envió un proyecto que no avanzó.\n\n⚡ **Desarrollo:**\n• El proyecto busca \"dar vuelta una realidad donde los favorecidos eran los delincuentes\", según Patricia Bullrich, reforzando la protección a grupos vulnerables y personas en tareas esenciales.\n• Propone la imprescriptibilidad para delitos graves como homicidios agravados, abusos sexuales, trata de personas, terrorismo y narcotráfico, entre otros.\n• Se aumentan los mínimos penales para que una gran mayoría de delitos implique cumplimiento efectivo de la condena, limitando la liberación anticipada y salidas transitorias.\n• Se endurecen penas en delitos como pornografía infantil (de 3-6 años a 3-12 años) y robos (simple de 1 mes-6 años a 3-8 años), incluyendo figuras específicas para \"motochorros\" o \"viudas negras\".\n• Germán Garavano criticó el enfoque en el agravamiento de penas, argumentando que lo principal es identificar, procesar y condenar a los autores, y que la pena es secundaria.\n• Garavano también señaló que la imprescriptibilidad en casos de corrupción, que fue frenada, es un \"remedio para la ineficacia del sistema judicial\" y no la solución de fondo.\n• El proyecto también contempla la reactualización de la acumulación de condenas para asesinatos múltiples, especialmente vinculados al crimen organizado en zonas como Rosario.\n\n💡 **¿Por qué importa?**\n• El proyecto representa un cambio estructural en el sistema punitivo argentino, buscando generar un impacto directo en la percepción y realidad de la seguridad ciudadana.\n• La discusión en el Congreso será clave para definir la modernización del marco legal penal y cómo se abordarán los delitos en el país en las próximas décadas.",
+      "tema_id": "vuelos_aviones_f-16_20251205",
+      "tema": "Vuelos Aviones F-16 CABA",
+      "tema_normalizado": "vuelos aviones f-16 caba",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los aviones de combate F-16, recientemente adquiridos por Argentina, realizarán un vuelo rasante sobre la Ciudad Autónoma de Buenos Aires (CABA).\n• Esta exhibición pública es una actividad previa al acto oficial de recepción de las aeronaves, que tendrá lugar en la provincia de Córdoba.\n\n🔍 **Datos clave:**\n• **Fecha y Hora del Vuelo en CABA:** Sábado 6 de diciembre, entre las 8:00 y las 8:45 AM.\n• **Costo de Adquisición:** La compra de 24 aviones operativos y 1 para entrenamiento a Dinamarca asciende a US$ 301.2 millones, a pagar en 5 cuotas anuales sin interés, según la Decisión Administrativa 252/24. La inversión total de la operación se ha estimado en US$ 650 millones.\n• **Cantidad de Aviones:** Han llegado los primeros 6 cazas F-16 (cuatro biplazas y dos monoplazas) a la Argentina, de un total de 25 unidades.\n• **Altura de Vuelo:** Las aeronaves sobrevolarán los puntos emblemáticos de CABA a una altitud específica de 600 metros.\n• **Acto Oficial:** La ceremonia formal de incorporación de los aviones, con la presencia del Presidente Javier Milei, se realizará el sábado 6 de diciembre a las 9:00 AM en el Área Material Río Cuarto, Córdoba.\n\n⚡ **Desarrollo:**\n• El Ministerio de Defensa adelantó tanto el vuelo rasante en CABA como la ceremonia oficial en Córdoba del domingo al sábado debido a las previsiones de mal tiempo que afectaban la zona de Río Cuarto.\n• Los F-16 Fighting Falcon son cazas compactos y multifunción, diseñados en la década de 1970 por la compañía estadounidense General Dynamics y en servicio desde 1978.\n• La adquisición se realizó a Dinamarca, con la autorización de Estados Unidos, como parte del proceso de recambio generacional de la flota aérea danesa.\n• El Ministro de Defensa, Luis Petri, viajó a Dinamarca en junio de 2024 para supervisar el alistamiento y firmar acuerdos con la empresa Terma para la modernización de los sistemas de guerra electrónica y el soporte técnico.\n• La escuadrilla de aviones ingresará al espacio aéreo porteño desde el noroeste, sobrevolando el Río de la Plata y puntos neurálgicos como la Casa Rosada, el eje de la Avenida de Mayo, la Plaza Miserere y la Avenida 9 de Julio.\n• El objetivo de esta exhibición es permitir que miles de personas observen el paso de los nuevos cazas a baja altura y entiendan la intención del gobierno de renovar sus capacidades defensivas.\n\n💡 **¿Por qué importa?**\n• La incorporación de los F-16 representa un hito estratégico para Argentina, consolidando la recuperación de su capacidad de intercepción supersónica.\n• Esta adquisición fortalece la defensa del espacio aéreo nacional y mejora la capacidad disuasiva del país, un paso clave para la modernización de las Fuerzas Armadas.",
       "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Código Penal: un exministro de Justicia afirmó que el aumento de penas que propone el Gobierno “es un tema secundario”",
-          "link": "https://www.lanacion.com.ar/politica/codigo-penal-un-exministro-de-justicia-afirmo-que-el-aumento-de-penas-que-propone-el-gobierno-es-un-nid02122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-05 08:15:37"
-        },
-        {
-          "titulo": "Agravamiento de penas e imprescriptibilidad: las claves del proyecto de Código Penal que impulsa el Gobierno",
-          "link": "https://www.minutouno.com/politica/agravamiento-penas-e-imprescriptibilidad-las-claves-del-proyecto-codigo-penal-que-impulsa-el-gobierno-n6221010",
+          "titulo": "El Gobierno adelantó el vuelo rasante de los aviones de combate F-16 sobre CABA: cuándo se hará",
+          "link": "https://www.minutouno.com/politica/el-gobierno-adelanto-el-vuelo-rasante-los-aviones-combate-f-16-caba-cuando-se-hara-n6221180",
           "fuente": "Minuto1",
-          "fecha": "2025-12-04 19:57:00"
+          "fecha": "2025-12-05 11:12:15"
         },
         {
-          "titulo": "Penas más duras, imprescriptibilidad y cambios en legítima defensa, la reforma del Código Penal que quiere el Gobierno",
-          "link": "https://www.perfil.com/noticias/politica/el-gobierno-envio-al-congreso-su-reforma-del-codigo-penal-penas-mas-duras-imprescriptibilidad-y-cambios-en-legitima-defensa.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 19:02:00"
+          "titulo": "Vuelos rasantes de los F-16 en Buenos Aires: este es el recorrido sobre el espacio aéreo de la Ciudad",
+          "link": "https://www.lanacion.com.ar/politica/vuelos-rasantes-de-los-f-16-en-buenos-aires-este-es-el-recorrido-sobre-el-espacio-aereo-de-la-ciudad-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:58:29"
+        },
+        {
+          "titulo": "El Gobierno adelantó el acto y el vuelo rasante de los aviones F-16 para el sábado",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-adelanto-el-acto-y-el-vuelo-rasante-de-los-aviones-f-16-para-el-sabado-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 10:29:06"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Perfil",
         "La Nación",
         "Minuto1"
       ],
@@ -669,30 +500,92 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "adquisicion_y_llegada_20251205",
-      "tema": "Adquisición y Llegada Aviones F-16",
-      "tema_normalizado": "adquisicion y llegada aviones f-16",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está recibiendo sus primeros aviones de combate F-16 adquiridos a Dinamarca, un hito importante para las Fuerzas Armadas.\n• El Presidente Javier Milei encabezó el acto de recepción oficial en Córdoba, tras la llegada de la primera flota de cazas.\n• Estos aviones supersónicos buscan recuperar la capacidad de defensa aérea del país, perdida hace décadas.\n\n🔍 **Datos clave:**\n• **Total de aviones:** 24 F-16 A/B Block 15 MLU (16 monoplazas, 8 biplazas).\n• **País de origen:** Dinamarca.\n• **Primeros aviones recibidos:** 6 (4 biplazas F-16BM y 2 monoplazas F-16AM).\n• **Fecha de llegada a Argentina:** Viernes 26 de abril (primeros aviones).\n• **Acto oficial con Milei:** Sábado 27 de abril, Área Material Río Cuarto, Córdoba.\n• **Vuelo inaugural sobre CABA:** Domingo 28 de abril, entre 7:55 y 8:10 AM.\n• **Inicio de operaciones:** Enero de 2026.\n• **Completar entrega:** Gradual hasta 2028 (4 aviones por año).\n\n⚡ **Desarrollo:**\n• La compra a Dinamarca incluye, además de los aviones, armamento, equipamiento de apoyo, cuatro simuladores de vuelo, ocho motores, cascos de última generación y repuestos para cinco años.\n• El traslado de los primeros seis aviones comenzó el 28 de noviembre desde Dinamarca, realizando escalas en España, Islas Canarias y Brasil, con apoyo de reabastecimiento en vuelo de Estados Unidos.\n• La flota inicial de F-16 es comandada por pilotos militares daneses, mientras las tripulaciones argentinas se encuentran en fase de instrucción y viajarán en las cabinas traseras de los biplazas.\n• El vuelo de exhibición sobre Buenos Aires incluirá un recorrido por puntos emblemáticos como la Casa Rosada, Avenida 9 de Julio, Aeroparque Jorge Newbery y Puerto Madero.\n• El acto de recepción en Córdoba contó con la presencia de Javier Milei, el ministro de Defensa Luis Petri y altos mandos militares, marcando un momento clave para la defensa nacional.\n\n💡 **¿Por qué importa?**\n• La incorporación de los F-16 devuelve a Argentina la capacidad de interceptación supersónica y disuasión aérea, vital para la seguridad y soberanía del país, tras la desprogramación de los sistemas Mirage.\n• Este evento se considera un \"hito estratégico\" que moderniza significativamente la Fuerza Aérea Argentina y refuerza su capacidad operativa en la región.",
+      "tema_id": "plazo_fijo_argentina_20251205",
+      "tema": "Plazo Fijo Argentina",
+      "tema_normalizado": "plazo fijo argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los plazos fijos en Argentina se mantienen como un instrumento de ahorro preferido por los ahorristas, especialmente en un contexto de persistente inflación e incertidumbre económica.\n• El Banco Central de la República Argentina (BCRA) desreguló las tasas mínimas, lo que significa que cada entidad bancaria ahora fija libremente el porcentaje de ganancia.\n• A la fecha del viernes 5 de diciembre de 2025, las tasas nominales anuales (TNA) para depósitos en pesos a 30 días se ubican aproximadamente entre el 20% y el 30% en los principales bancos.\n\n🔍 **Datos clave:**\n• Fecha de referencia de las tasas: Viernes 5 de diciembre de 2025, previo a un feriado.\n• Plazo de inversión común: Depósitos en pesos a 30 días.\n• Tasa nominal anual (TNA) más alta: ICBC con 26,5% y Banco Macro con 26%.\n• Tasa nominal anual (TNA) de referencia: Banco Nación con 24,5% y Banco Provincia con 23%.\n• Organismo que informa y regula: Banco Central de la República Argentina (BCRA).\n\n⚡ **Desarrollo:**\n• Desde la desregulación dispuesta por el BCRA en 2023, las tasas de interés de los plazos fijos en pesos son establecidas a criterio exclusivo de cada entidad bancaria.\n• El BCRA facilita la comparación al publicar en su sitio web una tabla con las tasas ofrecidas por los 10 bancos con mayor volumen de depósitos y aquellos que las informan para no clientes.\n• La constitución de esta herramienta de inversión es un proceso ágil y moderno, realizable sin costo, papeleo ni otros trámites, tanto por home banking para clientes como por la web para no clientes.\n• En el contexto de diciembre de 2025, las tasas ofrecidas por los bancos muestran retornos negativos, lo que implica que la rentabilidad no logra superar el ritmo de la inflación.\n• Es fundamental diferenciar la Tasa Nominal Anual (TNA), que es la ganancia por un período, de la Tasa Efectiva Anual (TEA), que refleja el rendimiento real considerando la capitalización mensual de los intereses.\n\n💡 **¿Por qué importa?**\n• Pese a los retornos reales negativos, los plazos fijos son una herramienta clave para los ahorristas argentinos que buscan resguardar, en parte, el poder adquisitivo de su capital.\n• La competencia bancaria por captar depósitos y la necesidad de los usuarios de comparar tasas impulsan una mayor transparencia y eficiencia en el mercado financiero.",
       "cantidad_noticias": 2,
       "noticias": [
         {
-          "titulo": "Adelantaron el acto de los F-16: Milei viajará mañana a Córdoba y luego los aviones harán el vuelo inaugural",
-          "link": "https://www.infobae.com/politica/2025/12/05/adelantaron-el-acto-de-los-f-16-milei-viajara-manana-a-cordoba-y-luego-los-aviones-haran-el-vuelo-inaugural/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-05 09:13:10"
+          "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este viernes 5 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-viernes-5-de-diciembre-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 11:48:39"
         },
         {
-          "titulo": "Llegan los primeros F-16 a la Argentina: cómo son los cazas supersónicos que lucen un esquema de pintura \"furtivo\"",
-          "link": "https://www.perfil.com/noticias/politica/llegan-los-primeros-f-16-a-la-argentina-como-son-los-cazas-supersonicos-que-lucen-un-esquema-de-pintura-furtivo.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-04 21:08:00"
+          "titulo": "Previo al feriado, así están las tasas del plazo fijo de los principales bancos hoy, viernes 5 de diciembre 2025",
+          "link": "https://www.ambito.com/economia/previo-al-feriado-asi-estan-las-tasas-del-plazo-fijo-los-principales-bancos-hoy-viernes-5-diciembre-2025-n6221199",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 11:25:00"
         }
       ],
-      "categoria_principal": "politica",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-05",
       "fuentes": [
-        "Perfil",
-        "Infobae"
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "produccion_mondelez_baja_20251205",
+      "tema": "Producción Mondelez Baja Consumo",
+      "tema_normalizado": "produccion mondelez baja consumo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Mondelez, multinacional que fabrica marcas emblemáticas como Oreo y Milka, ha frenado temporalmente la producción en su planta principal de General Pacheco, Argentina.\n• La medida se debe a una combinación de una baja significativa en el consumo interno y una mayor competencia por importaciones, lo que ha generado un exceso de stock.\n• Este cese programado implica adelanto de vacaciones y tareas de mantenimiento, sin que se produzcan suspensiones de personal.\n\n🔍 **Datos clave:**\n• **Marcas principales:** Oreo, Terrabusi, Milka, Pepitos, Lincoln, Shot, Beldent, Halls, Sugus y Tang, entre otras.\n• **Ubicación principal:** Planta de General Pacheco, que emplea a más de 2 mil personas.\n• **Caída de ventas:** Aproximadamente 15.000 toneladas en el acumulado del año, afectando principalmente galletitas, chocolates y alfajores.\n• **Duración del freno:** Tres semanas sin actividad productiva principal, con reanudación prevista para el 4 de enero.\n• **Consumo general (Scentia):** Las ventas de la canasta básica cayeron un 13% el año anterior, con un modesto aumento del 2.4% en los primeros diez meses de este año.\n\n⚡ **Desarrollo:**\n• El deterioro del consumo, atribuido a la pérdida de poder adquisitivo, golpeó fuertemente a las categorías de alto volumen de Mondelez.\n• La compañía ya había alertado al Sindicato de Trabajadores de la Alimentación (STIA) en junio sobre una \"situación crítica\" por la baja demanda y la presión de importaciones.\n• Para gestionar el alto nivel de inventario, se implementan ajustes operativos como reducción de turnos, readecuación de horarios y menor uso de la capacidad instalada.\n• Los productos importados se volvieron más competitivos en costo relativo, lo que redujo la velocidad de reposición de los productos locales.\n• Medidas similares de ajuste operativo y planificación \"a demanda\" también se replican en la otra planta de Mondelez en Villa Mercedes.\n\n💡 **¿Por qué importa?**\n• La decisión de Mondelez es un indicador claro del impacto negativo de la baja del consumo y las importaciones en grandes empresas de la industria alimenticia.\n• Refleja los desafíos económicos actuales y la necesidad de las compañías de ajustar su producción para mantener la sustentabilidad operativa a largo plazo en un mercado retraído.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Mondelez frena la producción en su planta de General Pacheco por importaciones y baja del consumo",
+          "link": "https://www.minutouno.com/economia/mondelez-frena-la-produccion-su-planta-general-pacheco-importaciones-y-baja-del-consumo-n6221193",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 11:30:25"
+        },
+        {
+          "titulo": "Menor consumo: Mondelez frena la producción de galletitas y alfajores por un mes",
+          "link": "https://www.lanacion.com.ar/economia/negocios/menor-consumo-frenan-la-produccion-de-galletitas-y-alfajores-por-un-mes-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 11:27:08"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "trump_criticas_europa_20251205",
+      "tema": "Trump Críticas Europa",
+      "tema_normalizado": "trump criticas europa",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno de Donald Trump ha intensificado sus críticas hacia Europa a través de la primera Estrategia de Seguridad Nacional de su segundo mandato.\n*   El documento advierte que el continente europeo se enfrenta a la \"grave perspectiva de una desaparición de la civilización\" debido a sus políticas migratorias y la subversión de procesos democráticos.\n*   Estas críticas marcan una reorientación en la política exterior de Washington, priorizando la seguridad interna y el Hemisferio Occidental bajo el lema \"America First\".\n\n🔍 **Datos clave:**\n*   **Documento clave:** Estrategia de Seguridad Nacional (de 33 páginas).\n*   **Fecha de referencia:** 4 de diciembre de 2025 (mencionado en pie de foto).\n*   **Principio rector:** \"America First\" (Estados Unidos Primero).\n*   **Frase impactante:** Europa enfrenta el \"real y más marcado prospecto de borrado civilizacional\".\n*   **Funcionarios citados:** Presidente Donald Trump, Secretario de Defensa Pete Hegseth.\n\n⚡ **Desarrollo:**\n*   La Estrategia de Seguridad Nacional establece que \"los días en que Estados Unidos sostenía todo el orden mundial como si fuera Atlas se acabaron\", priorizando la protección de la patria y los intereses estadounidenses.\n*   El documento critica duramente las políticas migratorias europeas, afirmando que socavan las identidades nacionales y podrían hacer que Europa sea \"irreconocible en 20 años o menos\".\n*   La advertencia sobre la \"desaparición de la civilización\" se refiere a una demolición cultural e identitaria, vinculada a teorías de la extrema derecha sobre el reemplazo de poblaciones.\n*   Trump insta a la OTAN a reconsiderar su expansión, buscando \"poner fin a la percepción y evitar la realidad de que la OTAN sea una alianza en expansión perpetua\".\n*   Además, exige que Europa \"asuma la responsabilidad principal de su propia defensa\", reduciendo la carga sobre Estados Unidos.\n*   Se anuncia una reorientación de la presencia militar global para centrarse en el Hemisferio Occidental. Esto incluye el uso de la \"fuerza letal\" para combatir el narcotráfico en América Latina.\n*   Esta nueva política para América Latina es descrita como un \"Corolario Trump\" de la Doctrina Monroe. Busca la preeminencia de EE.UU. y controlar la influencia externa adversaria en instalaciones militares, puertos y activos estratégicos.\n*   El documento enfatiza que \"la seguridad fronteriza es el elemento principal de la seguridad nacional\", enfocándose en frenar el flujo de drogas y fortalecer la estabilidad en la región.\n\n💡 **¿Por qué importa?**\n*   Representa un cambio significativo en la relación transatlántica, desafiando las alianzas históricas y la visión de seguridad compartida con Europa.\n*   Subraya una política exterior aislacionista y centrada en los intereses internos de EE.UU., lo que podría tener profundas implicaciones para la seguridad global y el orden mundial.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El gobierno de Trump profundiza sus críticas a Europa y advierte que se expone a la “desaparición de la civilización”",
+          "link": "https://www.lanacion.com.ar/estados-unidos/el-gobierno-de-trump-profundiza-sus-criticas-a-europa-y-advierte-que-se-expone-a-la-desaparicion-de-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 11:52:18"
+        },
+        {
+          "titulo": "Trump revela cuáles son sus planes para el planeta y advierte que la civilización europea está al borde de la \"desaparición\"",
+          "link": "https://www.clarin.com/mundo/trump-revela-planes-planeta-advierte-civilizacion-europea-borde-desaparicion_0_uWVlaRjsEM.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 10:37:41"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-05",
+      "fuentes": [
+        "La Nación",
+        "Clarín"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
