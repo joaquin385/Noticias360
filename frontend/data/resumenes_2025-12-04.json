@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-12-04",
-  "fecha_generacion": "2025-12-04T21:16:43.536275",
+  "fecha_generacion": "2025-12-05T00:55:48.853529",
   "resumenes": {
     "internacional": {
-      "resumen": "El panorama internacional está marcado por la profunda influencia de la política exterior y doméstica de Estados Unidos bajo la administración Trump. Se emiten advertencias a aerolíneas sobre el espacio aéreo venezolano, se intensifica una \"guerra contra el narcotráfico\" en Michoacán, México, y se cuestiona la estrategia estadounidense en Ucrania. Decisiones internas de Trump incluyen indultos, propuestas de reforma jubilatoria y recortes que impactan la crisis de vivienda en Los Ángeles.\n\nLa migración hacia Estados Unidos es un tema crítico. El ICE protagoniza incidentes con ciudadanos y migrantes, llevando a autodeportaciones y detenciones prolongadas. Venezuela se perfila como principal receptor de deportados, mientras que Florida refuerza medidas contra \"extranjeros ilegales\". Aumenta el temor a redadas durante eventos masivos, evidenciando una política migratoria restrictiva.\n\nEn América Latina, Honduras enfrenta incertidumbre electoral tras denuncias de fraude por Salvador Nasralla y un conteo de votos paralizado. Profesionales de la salud en Miami piden suspender vuelos a Cuba por riesgos sanitarios. La economía regional observa la fluctuación del tipo de cambio dólar-peso mexicano.\n\nA nivel global, el Reino Unido sanciona a Rusia por el envenenamiento de un doble espía, vinculando directamente a Putin. El Vaticano rechaza la ordenación de mujeres diaconisas. Italia investiga la explotación de trabajadores chinos en la industria de lujo, y The New York Times demanda al Pentágono por limitar el acceso a la información.",
-      "cantidad_noticias": 29,
-      "fecha_generacion": "2025-12-04T21:16:19.108326",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-05T00:55:48.853067"
     },
     "politica": {
-      "resumen": "Presidente Javier Milei avanza con la convocatoria a sesiones extraordinarias en el Congreso, del 10 al 31 de diciembre, para tratar el presupuesto, reformas laborales y al código penal. El Ejecutivo enfrenta el desafío de su minoría parlamentaria para asegurar los votos necesarios. En este contexto, el jefe de Gobierno porteño, Jorge Macri, presionó por los fondos de coparticipación recortados. Internacionalmente, se registraron tensiones en la relación con Estados Unidos tras la suspensión del viaje de un enviado de Donald Trump.\n\nLa agenda judicial argentina se concentra en múltiples frentes. La Unidad de Investigación Financiera (UIF) acusó a Cristina Kirchner de ser la \"mayor artífice de la organización criminal\" en el juicio por el caso Cuadernos, mientras la expresidenta apeló restricciones a visitas y el avance sobre propiedades. La Corte Suprema rechazó recursos en el caso $LIBRA y en una presentación del Gobierno sobre distribución de alimentos, además de confirmar la validez de la reforma previsional de 2017. Se espera el veredicto en el juicio de Fútbol para Todos contra Aníbal Fernández y Jorge Capitanich, y la Cámara Federal ordenó investigar el origen de audios en el caso ANDIS.\n\nEn el ámbito social, la UTA advirtió sobre un potencial paro de colectivos por salarios, pese a la afirmación del Gobierno de haber girado los fondos necesarios. Ambientalmente, la Corte ordenó a la Nación y provincias preservar el delta del río Paraná de los incendios. Regionalmente, en Honduras, Nasry Asfura supera a Salvador Nasralla en el ajustado escrutinio. El gobierno de Colombia estaría negando información al Consejo de Estado sobre el ‘tarimazo’, y en México, el Senado busca aprobar en “fast track” la nueva Ley de Aguas.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-12-04T21:16:30.623187",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-05T00:55:48.853218"
     },
     "economia": {
-      "resumen": "El dólar exhibe estabilidad, con la divisa oficial y el blue cerrando a la baja, el blue por debajo del oficial por décima jornada consecutiva, cotizando a $1.430 y $1.470 respectivamente. Especialistas anticipan un equilibrio sostenido hasta fin de año, impulsado por factores estacionales y la disipación de la incertidumbre política. El Banco Central de la República Argentina (BCRA) aprobó una nueva metodología para el cálculo del tipo de cambio de referencia, que entrará en vigor en enero de 2026. En contraste, el euro blue experimentó un incremento, ampliando su brecha con el tipo oficial.\n\nLos mercados financieros mostraron volatilidad; el S&P Merval en dólares mantuvo su nivel por encima de los 2.000 puntos, aunque el índice líder cerró la jornada con una leve caída nominal tras alcanzar un récord. La provincia de Santa Fe realizó una exitosa colocación de deuda en el mercado internacional, emitiendo bonos por US$800 millones a nueve años con una tasa del 8,1%. Los plazos fijos en pesos, si bien ofrecen tasas de interés menores, continúan superando el rendimiento del dólar.\n\nLa pobreza registró una disminución notable, alcanzando el 36,3% en el tercer trimestre según la UCA, el nivel más bajo desde 2018, aunque se advierte sobre la persistencia de la pobreza estructural. El Fondo Monetario Internacional (FMI) y JP Morgan instaron al gobierno a priorizar una acumulación de reservas \"más ambiciosa\" en 2026 para el retorno a los mercados. En el ámbito energético, se alertó sobre la recategorización de usuarios y el inminente aumento de tarifas eléctricas. Se destacó un hito en el comercio exterior con la primera exportación de trigo argentino a China, mientras que Shell se retiró de un proyecto clave de GNL con YPF.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-12-04T21:16:43.535744",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-05T00:55:48.853368"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-12-04T21:16:43.536253"
+      "fecha_generacion": "2025-12-05T00:55:48.853515"
     }
   }
 }
