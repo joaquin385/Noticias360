@@ -1,0 +1,29 @@
+{
+  "fecha_consolidacion": "2025-12-05",
+  "fecha_generacion": "2025-12-05T03:51:12.195440",
+  "resumenes": {
+    "internacional": {
+      "resumen": "La tensión entre Estados Unidos y Venezuela se intensificó notablemente, con la recomendación de Washington a sus ciudadanos para abandonar Venezuela “de inmediato” ante riesgos de detención injusta, violencia y tortura. Estos eventos coinciden con un ataque de EE.UU. a una “narcolancha” y una advertencia de Donald Trump sobre el espacio aéreo venezolano, así como denuncias de amenazas a activistas. Paralelamente, negociadores estadounidenses y ucranianos, incluyendo emisarios de Trump, se reunieron en Florida para discutir un plan de paz para la guerra con Rusia, tras encuentros previos con Vladimir Putin.\n\nEn el ámbito doméstico estadounidense, la política migratoria sigue siendo central. Nueva York aprobó medidas para proteger a los inmigrantes y restringir la cooperación policial con el ICE, que, por su parte, implementó un nuevo software, Immigration OS, para rastrear y priorizar deportaciones. La administración Trump presiona a estados sobre el intercambio de datos de beneficiarios SNAP y enfrenta una demanda del New York Times por supuestas restricciones a la prensa. Económicamente, se ajusta el salario mínimo en Miami y México, y se observa el cierre de negocios históricos.\n\nOtras noticias internacionales incluyen el establecimiento del primer vuelo comercial directo Shanghái-Buenos Aires, un hito en la conectividad, y una demanda de Arizona contra el gigante minorista chino Temu por presuntas falsificaciones y prácticas engañosas. En Brasil, se reportó la muerte de un hombre en un accidente de gimnasio y el desmantelamiento de una granja de visualizaciones. Finalmente, Estados Unidos experimenta una severa ola invernal, con intensas nevadas y frío extremo, atribuida al fenómeno de La Niña.",
+      "cantidad_noticias": 26,
+      "fecha_generacion": "2025-12-05T03:50:47.014244",
+      "categoria": "internacional"
+    },
+    "politica": {
+      "resumen": "El Gobierno Nacional, encabezado por Javier Milei, avanzará con sesiones extraordinarias en el Congreso a partir de este viernes, buscando la aprobación del Presupuesto 2026 y reformas clave, incluyendo una propuesta integral al Código Penal que endurece penas, establece imprescriptibilidad para delitos como el abuso sexual y modifica la legítima defensa. Internamente, se registraron tensiones en el Senado por el reparto de despachos y la vicepresidenta Victoria Villarruel buscó rearticular su apoyo con youtubers críticos de Milei. Además, Santiago Caputo afianzó su control sobre la Agencia Federal de Inteligencia (SIDE).\n\nEn el ámbito internacional, el embajador de Estados Unidos en Argentina, Peter Lamelas, expresó un fuerte respaldo al presidente Milei, afirmando que Donald Trump lo instó a apoyar su gestión. Simultáneamente, el país recibió los primeros cazas supersónicos F-16 de Dinamarca, fortaleciendo la defensa, mientras la justicia federal investiga la red de apoyo a espías rusos.\n\nA nivel provincial, el gobernador Axel Kicillof logró la aprobación de un endeudamiento significativo a cambio de concesiones políticas, aunque el gobierno nacional ha manifestado que no lo convalidará. La Corte Suprema confirmó la condena de Julio De Vido por la Tragedia de Once y dictaminó contra el Estado por los incendios en el Delta. Persiste un paro de colectivos por falta de pago de salarios, y se debate la regulación de aplicaciones de transporte. El Congreso aprobó la ampliación del Reinfo hasta 2026.\n\nLa política partidaria peronista evidencia una crisis de liderazgo, con sectores buscando limitar la influencia de Máximo Kirchner. Finalmente, la Asociación de Entidades Periodísticas Argentinas (ADEPA) manifestó preocupación por acciones intimidatorias de dirigentes de la AFA contra periodistas.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-05T03:50:59.052316",
+      "categoria": "politica"
+    },
+    "economia": {
+      "resumen": "El Banco Central de la República Argentina (BCRA) implementará una nueva metodología para la cotización del dólar oficial a partir de enero de 2026, basada en precios promedio ponderados de operaciones. Las consultoras de mercado proyectan un cierre de año con el dólar en torno a $1.470-$1.472 y una inflación de noviembre del 2.3%, con expectativa de una baja al 2.1% en diciembre. Esta estabilización de precios se asocia a una reducción de la pobreza, aunque el Fondo Monetario Internacional (FMI) mantiene su foco en la acumulación de reservas.\n\nEl gobierno impulsa una reforma laboral integral con un proyecto de 182 artículos, que busca modificar aspectos como vacaciones, indemnizaciones y el esquema de \"bancos de horas\". Paralelamente, la justicia ha confirmado la constitucionalidad de la Ley 27.426, ratificando la reforma previsional de 2017. Estas medidas se dan en un contexto de desregulación impulsada por el gobierno.\n\nEl Riesgo País de Argentina se consolida por encima de los 600 puntos básicos, a la espera de señales claras en reservas y reestructuración de vencimientos. Varias provincias han accedido al mercado internacional, destacando la colocación de US$800 millones por Santa Fe en Nueva York. En el sector productivo, se registra una cosecha récord de trigo y se advierte sobre la competitividad con China. No obstante, empresas como Mondelez anuncian suspensiones de producción, y Shell disolvió su alianza con YPF para un proyecto de gas licuado, aunque YPF explora nuevas alianzas.",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-05T03:51:12.195025",
+      "categoria": "economia"
+    },
+    "sociedad": {
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-05T03:51:12.195420"
+    }
+  }
+}
