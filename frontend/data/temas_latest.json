@@ -1,6 +1,526 @@
 {
-  "fecha": "2025-12-05",
-  "fecha_generacion": "2025-12-06T00:53:06.701588",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-12-06",
+  "fecha_generacion": "2025-12-06T03:46:21.228977",
+  "total_temas": 9,
+  "temas": [
+    {
+      "tema_id": "reforma_laboral_gobierno_20251206",
+      "tema": "Reforma laboral gobierno Milei",
+      "tema_normalizado": "reforma laboral gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei impulsa un proyecto de \"Ley de Modernización Laboral\" para reformar el marco normativo de las relaciones de trabajo en Argentina.\n• Esta iniciativa busca cambiar aspectos clave como indemnizaciones, jornadas laborales, vacaciones y el poder de los sindicatos.\n• El proyecto será tratado en el Congreso durante sesiones extraordinarias, con el objetivo de lograr su aprobación o al menos una media sanción.\n\n🔍 **Datos clave:**\n• **Período de Sesiones Extraordinarias:** Del 10 al 30 de diciembre de 2023, con posible segunda etapa en febrero.\n• **Leyes a modificar:** Ley de Contrato de Trabajo (N° 20.744), Ley de Asociaciones Sindicales (N° 23.551) y Ley de Convenciones Colectivas (N° 14.250).\n• **Aporte al Fondo de Asistencia Laboral (FAL):** 3% de la remuneración a cargo del empleador.\n• **Preaviso de vacaciones:** 45 días de anticipación.\n• **Fraccionamiento de vacaciones:** Tramos no inferiores a 7 días corridos.\n• **Servicios esenciales en huelgas:** Cobertura mínima del 75%.\n• **Servicios de importancia trascendental:** Cobertura mínima del 50%.\n• **Consulta pública BCRA por Tasa de Intereses Moratorios (TIM):** Hasta el 19 de diciembre.\n\n⚡ **Desarrollo:**\n• El Gobierno busca dar mayor previsibilidad, reducir la conflictividad judicial y promover la creación de empleo.\n• En el Congreso, hay cautela y necesidad de acuerdos con bloques aliados y gobernadores para alcanzar las mayorías necesarias.\n• **Indemnizaciones por despido:** Se propone descentralizar el pago mediante fondos o seguros de cese laboral, y se excluyen conceptos no mensuales (como SAC y premios) de la base de cálculo del artículo 245 de la LCT.\n• Se crea un Fondo de Asistencia Laboral (FAL), financiado con una contribución patronal del 3% mensual.\n• **Banco de horas:** Permite compensar horas extras con tiempo libre futuro, siempre bajo acuerdo voluntario y respetando descansos mínimos (12 horas entre jornadas y 35 horas semanales).\n• **Vacaciones:** Se mantiene el período de octubre a abril, se amplía el preaviso a 45 días y se permite fraccionarlas en tramos de al menos 7 días corridos.\n• **Poder sindical:** Se amplía la calificación de \"servicios esenciales\" o de \"importancia trascendental\" para exigir coberturas mínimas durante paros. Se tipifican bloqueos a establecimientos como infracciones muy graves.\n• Se limita la ultraactividad de los convenios colectivos vencidos y se establece la prevalencia de los convenios de ámbito menor (empresa).\n• **Modalidades de contratación:** Se limita la presunción de relación de dependencia para servicios profesionales con factura y se crea un régimen especial para trabajadores de plataformas como \"independientes\".\n• Se impulsa el \"Régimen de Incentivo a la Formalización Laboral\" (RIFL) y la \"Promoción del Empleo Registrado\" (PER) con reducción de contribuciones.\n• **Sueldo y beneficios:** Se permite incorporar componentes salariales variables, se digitalizan recibos de sueldo y se habilita el pago de salarios a través de Proveedores de Servicios de Pago (no solo bancos). Se establecen beneficios sociales no remunerativos sin aportes ni contribuciones.\n• El Banco Central (BCRA) lanzó una consulta pública para crear una Tasa de Intereses Moratorios (TIM) para unificar el cálculo de intereses en litigios, incluyendo los laborales.\n\n💡 **¿Por qué importa?**\n• La reforma busca transformar el modelo de relaciones laborales en Argentina, con el potencial de flexibilizar el mercado de trabajo y reducir la litigiosidad.\n• Genera un debate profundo sobre el equilibrio entre la necesidad de modernización económica y la protección de los derechos de los trabajadores, con el Congreso como escenario clave para su definición.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Primera reacción del Congreso ante el proyecto de reforma laboral: cautela y demarcación de la grieta",
+          "link": "https://www.ambito.com/politica/primera-reaccion-del-congreso-el-proyecto-reforma-laboral-cautela-y-demarcacion-la-grieta-n6221466",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 00:00:00"
+        },
+        {
+          "titulo": "Reforma laboral: qué es y cómo funciona el banco de horas",
+          "link": "https://www.ambito.com/politica/reforma-laboral-que-es-y-como-funciona-el-banco-horas-n6221341",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 21:16:00"
+        },
+        {
+          "titulo": "Nuevo borrador de la reforma laboral: qué cambia en las indemnizaciones y cómo impacta en los juicios",
+          "link": "https://www.ambito.com/economia/nuevo-borrador-la-reforma-laboral-que-cambia-las-indemnizaciones-y-como-impacta-los-juicios-n6221406",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 19:49:00"
+        },
+        {
+          "titulo": "El Gobierno confirma el llamado a sesiones extraordinarias hasta el 30 de diciembre para tratar Presupuesto, reforma laboral y Código Penal",
+          "link": "https://www.clarin.com/politica/gobierno-confirma-llamado-sesiones-extraordinarias-30-diciembre-tratar-presupuesto-reforma-laboral-codigo-penal_0_GTz8ky4FQ2.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 19:39:41"
+        },
+        {
+          "titulo": "Sesiones extraordinarias: qué temas se tratarán en el Congreso en diciembre y febrero",
+          "link": "https://www.ambito.com/politica/sesiones-extraordinarias-que-temas-se-trataran-el-congreso-diciembre-y-febrero-n6221412",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 19:25:00"
+        },
+        {
+          "titulo": "Reforma laboral: cómo afecta el proyecto del Gobierno a las vacaciones",
+          "link": "https://www.ambito.com/politica/reforma-laboral-como-afecta-el-proyecto-tus-vacaciones-n6221345",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 18:30:00"
+        },
+        {
+          "titulo": "Acceda al texto completo del proyecto de reforma laboral de 182 artículos",
+          "link": "https://www.iprofesional.com/impuestos/443425-acceda-al-texto-completo-del-proyecto-de-reforma-laboral-de-182-articulos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 17:35:00"
+        },
+        {
+          "titulo": "Reforma laboral oficial: indemnización con fuerte recorte por topes a la base salarial",
+          "link": "https://www.iprofesional.com/impuestos/443488-reforma-laboral-oficial-indemnizacion-fuerte-recorte-topes-base-salarial",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 16:38:00"
+        },
+        {
+          "titulo": "Reforma Laboral: qué pasará con las vacaciones, indemnizaciones, despidos y el banco de horas según el último borrador",
+          "link": "https://www.perfil.com/noticias/economia/reforma-laboral-que-pasara-con-las-vacaciones-indemnizaciones-despidos-y-los-bancos-de-horas-segun-el-ultimo-borrador.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 16:01:09"
+        },
+        {
+          "titulo": "Proyecto oficial de reforma laboral: cómo será el sueldo variable y qué beneficios suma",
+          "link": "https://www.iprofesional.com/impuestos/443484-proyecto-oficial-reforma-laboral-como-sera-sueldo-variable-y-que-beneficios-suma",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 15:28:00"
+        },
+        {
+          "titulo": "En paralelo a la reforma laboral, el BCRA lanza una tasa de referencia para intereses de mora",
+          "link": "https://www.ambito.com/economia/en-paralelo-la-reforma-laboral-el-bcra-lanza-una-tasa-referencia-intereses-mora-n6221302",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 14:40:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero",
+        "iProfesional",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "mercado_deuda_argentino:_20251206",
+      "tema": "Mercado deuda argentino: bono Caputo",
+      "tema_normalizado": "mercado deuda argentino: bono caputo",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina regresa al mercado de deuda con la emisión de un nuevo bono en dólares, el \"BONAR 2029N\".\n• El ministro de Economía, Luis Caputo, anunció esta licitación clave para el financiamiento del Estado.\n• El principal objetivo es refinanciar parte de los importantes vencimientos de deuda en enero, sin usar las reservas del Banco Central.\n\n🔍 **Datos clave:**\n• **Nombre del Bono:** BONAR 2029N (Bono del Tesoro Nacional en dólares).\n• **Vencimiento:** 30 de noviembre de 2029 (aproximadamente 4 años).\n• **Cupón (interés):** 6,5% anual, con pagos semestrales.\n• **Legislación:** Local (argentina).\n• **Fecha de Licitación:** Miércoles 10 de diciembre (liquidación el 12 de diciembre).\n• **Vencimientos de Enero:** USD 4.200 - 4.300 millones.\n• **Riesgo País (post-anuncio):** Bajó a 620-627 puntos básicos.\n• **Última emisión de deuda internacional:** Enero de 2018 (también bajo gestión de Caputo).\n\n⚡ **Desarrollo:**\n• El bono busca cubrir una porción de los vencimientos de deuda en dólares de enero, estimados en más de 4.200 millones de dólares.\n• La emisión se enmarca en un contexto de mejora del riesgo país y compresión de tasas de interés de bonos en dólares tras las elecciones.\n• A diferencia de bonos anteriores, este bono con cupón semestral \"sincerará\" el registro de intereses en las cuentas públicas, impactando el resultado fiscal.\n• La reacción inicial del mercado fue positiva: los bonos soberanos en dólares subieron y el riesgo país retrocedió. Los tipos de cambio del dólar también mostraron una baja.\n• La licitación tendrá un tramo no competitivo (hasta USD 50.000) para pequeños inversores y uno competitivo para inversores institucionales y grandes montos.\n• Caputo aclaró que la totalidad de los vencimientos de enero no se cubrirán solo con este bono, sino que se complementará con líneas bancarias (REPO) y otras fuentes.\n• Al ser bajo ley local, no se considera un \"regreso\" a las emisiones internacionales de deuda bajo legislación extranjera, que requerirían aprobación del Congreso.\n\n💡 **¿Por qué importa?**\n• Es una señal de confianza de los mercados en la capacidad de Argentina para obtener financiamiento y manejar sus compromisos de deuda.\n• Permite al Banco Central continuar acumulando reservas, fortaleciendo su balance y sentando bases para una posible reducción del riesgo país y de las tasas de interés locales.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "La Argentina regresa al mercado de deuda: Caputo anunció que emitirá un bono a cuatro años",
+          "link": "https://www.infobae.com/economia/2025/12/05/caputo-anuncio-que-emitira-un-bono-a-cuatro-anos-para-hacer-frente-a-vencimientos-de-deuda/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-05 22:52:29"
+        },
+        {
+          "titulo": "Los ADRs cedieron hasta 4%, pero el riesgo país tocó mínimos de dos semanas ante el regreso del país al mercado de deuda",
+          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-suben-wall-street-y-baja-el-riesgo-pais-el-anuncio-luis-caputo-n6221183",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 18:06:00"
+        },
+        {
+          "titulo": "Bajaron el riesgo país y el dólar tras el anuncio de Luis Caputo",
+          "link": "https://www.perfil.com/noticias/economia/suben-bonos-y-baja-el-riesgo-pais-tras-el-anuncio-de-luis-caputo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 18:05:00"
+        },
+        {
+          "titulo": "El nuevo Bonar que ofrecerá el Tesoro afectará el resultado de las cuentas públicas de 2026",
+          "link": "https://www.ambito.com/finanzas/el-nuevo-bonar-que-ofrecera-el-tesoro-afectara-el-resultado-las-cuentas-publicas-2026-n6221324",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 16:35:00"
+        },
+        {
+          "titulo": "Caputo apunta a bajar fuerte el riesgo país tras histórico anuncio: cuánto ganarán bonos en dólares",
+          "link": "https://www.iprofesional.com/finanzas/443419-por-que-bonos-en-dolares-prometen-ser-proxima-inversion-ganadora-en-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-05 15:30:00"
+        },
+        {
+          "titulo": "Vuelta de la Argentina el mercado de deuda: la city analiza cuántos dólares podría captar y especula con la tasa",
+          "link": "https://www.ambito.com/finanzas/vuelta-la-argentina-el-mercado-deuda-la-city-analiza-cuantos-dolares-podria-captar-y-especula-la-tasa-n6221244",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 14:58:00"
+        },
+        {
+          "titulo": "Baja el riesgo país y suben los bonos en Wall Street tras el anuncio de Luis Caputo",
+          "link": "https://www.minutouno.com/economia/baja-el-riesgo-pais-y-suben-los-bonos-wall-street-el-anuncio-luis-caputo-n6221287",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 13:43:41"
+        },
+        {
+          "titulo": "Nuevo bono del Gobierno: detalles clave del instrumento que sale al mercado el 10 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/nuevo-bono-del-gobierno-detalles-clave-del-instrumento-que-sale-al-mercado-el-10-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 13:30:00"
+        },
+        {
+          "titulo": "Las claves del bono en dólares que anunció Luis Caputo para el reingreso al mercado de capitales",
+          "link": "https://www.ambito.com/economia/las-claves-del-bono-dolares-que-anuncio-luis-caputo-el-reingreso-al-mercado-capitales-n6221247",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 13:25:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Infobae",
+        "Perfil",
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gobierno_vs._afa:_20251206",
+      "tema": "Gobierno vs. AFA: Universidad habilitación",
+      "tema_normalizado": "gobierno vs. afa: universidad habilitacion",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Ministerio de Capital Humano intimó a la Asociación del Fútbol Argentino (AFA) a suspender de inmediato la publicidad de su \"Universidad de la AFA\" (UNAFA).\n*   El Gobierno constató que UNAFA no está legalmente habilitada para ofrecer carreras universitarias en el país, promoviéndolas sin reconocimiento oficial ni autorización ministerial.\n\n🔍 **Datos clave:**\n*   **5 días hábiles:** Plazo dado a la AFA para presentar su descargo ante la intimación.\n*   **2026:** Año previsto por la AFA para el inicio de las actividades académicas de UNAFA.\n*   **Claudio \"Chiqui\" Tapia:** Presidente de la AFA, encabezó el acto de \"presentación oficial\" de UNAFA.\n*   **Alberto Barbieri:** Exrector de la UBA, designado rector de la UNAFA.\n*   **Resolución Ministerial 206/1997 y Ley de Educación Superior:** Normativas invocadas por el Gobierno que restringen el uso de \"Universidad\" a instituciones habilitadas.\n*   **universidadafa.com:** Sitio web donde se promocionaba la oferta académica de la supuesta universidad.\n\n⚡ **Desarrollo:**\n*   La Subsecretaría de Políticas Universitarias verificó que la AFA estaba publicitando carreras de grado y posgrado, incluyendo una Maestría en Dirección de Entidades Deportivas, sin contar con la acreditación legal necesaria.\n*   El Gobierno advirtió que el uso de la palabra \"Universidad\" y términos derivados está estrictamente reservado para instituciones creadas y autorizadas por el Estado Nacional.\n*   La intimación destacó la difusión de la UNAFA en diversas plataformas digitales como Facebook, Instagram, X, TikTok y LinkedIn, además de su página web.\n*   El incumplimiento de la normativa puede acarrear sanciones como la clausura inmediata de la entidad y la inhabilitación de los responsables para ejercer la docencia en educación superior.\n*   Este conflicto se inserta en un contexto de crecientes tensiones entre el Gobierno y la AFA, sumándose a otras controversias recientes que involucran a la entidad deportiva y a \"Chiqui\" Tapia.\n\n💡 **¿Por qué importa?**\n*   Establece un precedente claro sobre la necesidad de cumplir con la normativa legal para cualquier institución que pretenda ofrecer educación superior, protegiendo a los futuros estudiantes de ofertas sin validez oficial.\n*   Refleja una pulseada entre el Gobierno y la AFA, evidenciando un escrutinio más estricto sobre las iniciativas de la entidad deportiva en un momento de fuerte exposición pública y cuestionamientos.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "El Gobierno intimó a la AFA por publicitar una universidad que no está legalmente habilitada",
+          "link": "https://www.lanacion.com.ar/politica/el-gobierno-intimo-a-la-afa-por-publicitar-una-universidad-que-no-esta-legalmente-habilitada-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 22:21:28"
+        },
+        {
+          "titulo": "Otro cachetazo del Gobierno a Tapia: \"La nueva Universidad de la AFA no tiene habilitación legal\"",
+          "link": "https://www.perfil.com/noticias/politica/el-gobierno-inhabilito-unafa-la-flamante-universidad-de-la-asociacion-del-futbol-argentina-los-motivos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 22:05:27"
+        },
+        {
+          "titulo": "El Gobierno no afloja ni con el sorteo del Mundial: ahora cuestionó la universidad de la AFA",
+          "link": "https://www.ambito.com/politica/el-gobierno-no-afloja-ni-el-sorteo-del-mundial-ahora-cuestiono-la-universidad-la-afa-n6221470",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 22:02:00"
+        },
+        {
+          "titulo": "El Gobierno arremete ahora contra la flamante universidad de la AFA de \"Chiqui\" Tapia: dice que no está habilitada",
+          "link": "https://www.clarin.com/politica/gobierno-arremete-ahora-flamante-universidad-afa-chiqui-tapia-dice-puede-usar-titulo_0_MNzRkC2JEb.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 21:37:44"
+        },
+        {
+          "titulo": "Avanza la causa para determinar si una quinta de Pilar con helipuerto es de los directivos de la AFA",
+          "link": "https://www.lanacion.com.ar/politica/avanza-la-causa-para-determinar-si-una-quinta-de-pilar-con-helipuerto-es-de-los-directivos-de-la-afa-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 21:36:31"
+        },
+        {
+          "titulo": "Guerra de periodistas: Rial lo atacó a Joni Viale por la pauta del \"Chiqui\" Tapia",
+          "link": "https://noticias.perfil.com/noticias/politica/guerra-de-periodistas-rial-lo-ataco-a-joni-viale-por-la-pauta-del-chiqui-tapia.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 17:06:59"
+        },
+        {
+          "titulo": "La Justicia avanza sobre la mansión adjudicada a Toviggino y “Chiqui” Tapia y levantan el secreto fiscal sobre los supuestos testaferros",
+          "link": "https://www.clarin.com/politica/retirando-pruebas-dias-insisten-allane-rapido-mansion-adjudicada-toviggino-chiqui-tapia_0_LdrrO3coAP.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 15:39:29"
+        },
+        {
+          "titulo": "Chiqui Tapia viajó al sorteo del Mundial 2026 en un jet privado vinculado a las supuestas coimas en ANDIS",
+          "link": "https://www.perfil.com/noticias/politica/chiqui-tapia-viajo-al-sorteo-del-mundial-2026-en-un-jet-privado-de-una-empresa-investigada-por-las-supuestas-coimas-en-andis.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 13:48:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "La Nación",
+        "Clarín",
+        "Perfil",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "llegada_aviones_f-16_20251206",
+      "tema": "Llegada aviones F-16 a Argentina",
+      "tema_normalizado": "llegada aviones f-16 a argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los primeros seis aviones de combate F-16, de un total de 24 adquiridos, arribaron a Argentina desde Dinamarca este viernes 5 de diciembre.\n• Estas aeronaves son parte de un proceso de \"modernización integral del sistema de Defensa\" y consolidan la recuperación de la capacidad de intercepción supersónica.\n• Los cazas fueron destinados inicialmente al Área Material Río Cuarto, en Córdoba, donde el Presidente encabezó su presentación oficial.\n\n🔍 **Datos clave:**\n• **Cantidad de F-16:** 6 aviones recibidos de 24 comprados (4 biplazas y 2 monoplazas).\n• **Origen de la compra:** Dinamarca.\n• **Costo total:** u$s300 millones por los 24 F-16.\n• **Destino inicial:** Área Material Río Cuarto, Córdoba.\n• **Fecha de llegada:** Viernes 5 de diciembre.\n• **Antigüedad:** Aproximadamente 40 años de fabricación.\n• **Recorrido de traslado:** Más de 14.000 km, con escalas en España y Brasil.\n\n⚡ **Desarrollo:**\n• La recepción de los F-16 fue encabezada por el ministro de Defensa saliente, Luis Petri, quien destacó la importancia estratégica de la adquisición para la defensa nacional.\n• El sábado 6 de diciembre, los F-16 realizaron un vuelo rasante sobre la Ciudad de Buenos Aires, sobrevolando puntos clave como la Casa Rosada y la Avenida 9 de Julio.\n• El acto oficial de presentación se llevó a cabo en el Área Material Río Cuarto, con la presencia del Presidente Javier Milei, Luis Petri y el ministro de Defensa entrante, Carlos Presti.\n• El operativo logístico para el traslado desde Dinamarca incluyó un despliegue de otras tres aeronaves: un Hércules, un Boeing 737-700 y un KC-135R Stratotanker de la Fuerza Aérea de EE. UU. para reabastecimiento en vuelo.\n• La llegada de los aviones, modelos F-16AM/BM, generó gran expectativa en las inmediaciones de la base militar de Río Cuarto.\n• El cronograma de sobrevuelo en Buenos Aires fue adelantado por \"razones climáticas\", y el acto en Córdoba estaba pautado para las 9 AM.\n\n💡 **¿Por qué importa?**\n• La incorporación de estos F-16 marca un \"hito estratégico\" al recuperar la capacidad de intercepción supersónica de Argentina, esencial para la protección de su espacio aéreo.\n• Este evento simboliza un paso fundamental en la modernización y el reequipamiento de las Fuerzas Armadas del país, reafirmando el compromiso con la Defensa nacional.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Los primeros seis aviones F-16 arribaron al país desde Dinamarca: \"Argentina potencia\"",
+          "link": "https://www.minutouno.com/politica/los-primeros-seis-aviones-f-16-arribaron-al-pais-dinamarca-argentina-potencia-n6221464",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 22:30:00"
+        },
+        {
+          "titulo": "Ya se encuentran en el país los primeros seis aviones F-16 comprados por el Gobierno",
+          "link": "https://www.ambito.com/politica/ya-se-encuentran-el-pais-los-primeros-6-aviones-f-16-comprados-el-gobierno-n6221361",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:29:00"
+        },
+        {
+          "titulo": "Con anticipación: ya aterrizaron en Río Cuarto los primeros aviones F16 que este sábado presentará Javier Milei",
+          "link": "https://www.clarin.com/politica/anticipacion-aterrizaron-rio-cuarto-primeros-aviones-f16-sabado-presentara-javier-milei_0_t2c53zYNY8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 16:40:32"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Clarín",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "dolar_y_euro_20251206",
+      "tema": "Dólar y euro hoy en Argentina",
+      "tema_normalizado": "dolar y euro hoy en argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar oficial en Argentina registró su cuarta jornada consecutiva de baja este viernes 5 de diciembre de 2025, en un contexto de mayor optimismo en los mercados domésticos.\n• Esto se debe al anuncio del Ministro de Economía, Luis Caputo, sobre la próxima colocación de un bono de deuda en dólares para cubrir vencimientos importantes en enero.\n• Por otro lado, el dólar blue experimentó una leve suba, aunque logró igualar el precio del dólar mayorista, lo que significó una brecha del 0% entre ambos.\n\n🔍 **Datos clave:**\n• **Fecha principal:** Viernes 5 de diciembre de 2025.\n• **Dólar Oficial Mayorista:** Cerró en $1.435.\n• **Dólar Oficial Minorista (Banco Nación):** $1.410 (compra) / $1.460 (venta).\n• **Dólar Blue:** Cotizó entre $1.410 - $1.415 (compra) y $1.430 - $1.435 (venta).\n• **Brecha Dólar Blue vs. Mayorista:** 0%.\n• **Dólar MEP:** Cerró alrededor de $1.472,92 a $1.474,80, con una brecha de 2.6% a 2.8% respecto al oficial.\n• **Dólar Contado con Liquidación (CCL):** Se ubicó entre $1.504,82 y $1.512,75, con una brecha de 4.9% a 5.4%.\n• **Dólar Tarjeta/Turista:** Alcanzó los $1.898 - $1.904,50 (incluye recargos).\n• **Euro Oficial (Promedio BCRA):** $1.633,54 (compra) / $1.729,08 (venta).\n• **Euro Blue:** Cotizó entre $1.711,75 - $1.736,75 (compra) y $1.705,75 - $1.743,75 (venta).\n• **Vencimientos de deuda en enero:** Ascienden a u$s4.200 millones para bonistas privados.\n• **Riesgo País:** Se mantuvo a la baja, tocando mínimos de dos semanas.\n\n⚡ **Desarrollo:**\n• El optimismo se relaciona con la \"pax cambiaria\" generada por el anuncio de Luis Caputo, quien informó que el país buscará colocar un bono en dólares con vencimiento en 2029.\n• La meta es obtener entre u$s1.500 y u$s2.000 millones a través de esta operación, complementando los fondos con un posible \"repo\" para cubrir los vencimientos de deuda.\n• La igualación entre el dólar blue y el mayorista, tras la suba del informal y la caída del oficial, marca un momento de convergencia en el mercado.\n• Las distintas cotizaciones del dólar y el euro reflejan la segmentación del mercado cambiario argentino, con valores diferentes para operaciones bancarias, bursátiles o informales.\n• Este escenario busca dar una señal de estabilidad financiera y capacidad de repago por parte del Gobierno.\n\n💡 **¿Por qué importa?**\n• La relativa calma en el mercado cambiario y la baja del dólar oficial son fundamentales para contener la inflación y generar un clima de mayor previsibilidad económica.\n• El retorno de Argentina a los mercados de deuda internacionales es un paso crucial para recuperar la confianza de los inversores y asegurar el financiamiento necesario del Estado.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-5-diciembre-n6221101",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 19:22:00"
+        },
+        {
+          "titulo": "El dólar blue anotó su primera suba en cuatro jornadas e igualó el precio del mayorista",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-primera-suba-cuatro-jornadas-e-igualo-el-precio-del-mayorista-n6221362",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 18:01:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-viernes-5-diciembre-n6221135",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:40:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-viernes-5-diciembre-n6221370",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:34:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-viernes-5-diciembre-n6221032",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:28:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-5-diciembre-n6221030",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:11:00"
+        },
+        {
+          "titulo": "El dólar oficial volvió a caer y quedó a casi $80 del techo de la banda, ante optimismo por la vuelta a los mercados de deuda",
+          "link": "https://www.ambito.com/finanzas/el-dolar-cierra-una-semana-la-baja-marcada-el-regreso-la-argentina-al-mercado-deuda-n6221164",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 16:58:00"
+        },
+        {
+          "titulo": "A cuánto cerró el euro blue hoy viernes 5 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-euro-blue-hoy-viernes-5-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 16:20:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este viernes 5 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-5-diciembre-n6221031",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 16:07:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue este viernes 5 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-viernes-5-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 14:48:23"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_futbol_para_20251206",
+      "tema": "Causa Fútbol Para Todos: absoluciones",
+      "tema_normalizado": "causa futbol para todos: absoluciones",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Tribunal Oral Federal Nº1 absolvió a todos los acusados en la causa \"Fútbol para Todos\", que investigaba presuntas irregularidades en el manejo de fondos públicos.\n• La Justicia declaró nula la acusación del Ministerio Público Fiscal, al considerar que carecía de la fundamentación mínima exigida por la ley.\n• Esta decisión beneficia a exjefes de Gabinete y diversos funcionarios y directivos vinculados al programa, poniendo fin a un proceso de una década.\n\n🔍 **Datos clave:**\n• **Fecha de la absolución:** Junio de 2024.\n• **Inicio de la causa:** Alrededor de 2014, con un extenso recorrido judicial.\n• **Jueces del Tribunal:** Ricardo Basílico, Adrián Grumberg y Juan Michilini (o José Michilini).\n• **Fiscales cuestionados:** Miguel Osorio y María Andrea Garmendia Orueta.\n• **Imputados absueltos:** 14 personas, incluyendo a Aníbal Fernández, Jorge Capitanich, Gabriel Mariotto y Luis Segura.\n• **Delito investigado:** Presunta administración fraudulenta con fondos públicos.\n• **Lectura de fundamentos:** Programada para el 11 de marzo de 2026.\n\n⚡ **Desarrollo:**\n• El programa \"Fútbol para Todos\" (FPT) fue una iniciativa estatal (2009-2015) para televisar fútbol gratuitamente, financiada con fondos públicos para sanear clubes.\n• La causa investigaba supuestas maniobras fraudulentas y desvíos de estos fondos estatales.\n• El Tribunal Oral Federal 1 dictaminó que la fiscalía \"incumplió su deber legal de formular conclusiones motivadas y específicamente\", sin individualizar hechos delictivos.\n• Los jueces criticaron duramente el alegato fiscal por su \"arbitrariedad\" en el análisis de la prueba, contradicciones internas y ausencia de un marco argumental sólido.\n• Se concluyó que la acusación presentaba déficits tan severos que \"privó al alegato de eficacia jurídica\", impidiendo el ejercicio adecuado de la defensa.\n• Durante el juicio, la fiscalía había pedido penas menores a las esperadas o la absolución total para algunos, como para Gabriel Mariotto.\n• La nulidad de la acusación impidió al Tribunal analizar la responsabilidad penal de los imputados, lo que llevó a la absolución de todos.\n• Como consecuencia, se levantaron embargos preventivos (trabados en 2017) y se rechazaron pedidos de decomiso.\n• El fiscal Osorio podrá apelar la decisión ante la Cámara Federal de Casación Penal una vez que los fundamentos completos sean públicos.\n\n💡 **¿Por qué importa?**\n• Este veredicto cierra un juicio penal de alto perfil mediático y político, vinculado a un programa emblemático del gobierno de Cristina Kirchner.\n• Resalta la importancia fundamental del rigor técnico y la solidez en las acusaciones fiscales para garantizar un debido proceso judicial.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Fútbol para Todos: diez años después, la Justicia absolvió a todos los acusados",
+          "link": "https://www.perfil.com/noticias/politica/futbol-para-todos-diez-anos-despues-la-justicia-absolvio-a-todos-los-acusados.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 19:03:48"
+        },
+        {
+          "titulo": "El Tribunal Oral absolvió a todos los imputados en la causa Fútbol para Todos tras anular la acusación fiscal",
+          "link": "https://www.ambito.com/politica/el-tribunal-oral-absolvio-todos-los-imputados-la-causa-futbol-todos-anular-la-acusacion-fiscal-n6221354",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 17:39:00"
+        },
+        {
+          "titulo": "Fútbol Para Todos: declararon nula la acusación de la Fiscalía y absolvieron a Aníbal Fernández y Jorge Capitanich",
+          "link": "https://www.clarin.com/politica/futbol-declararon-nula-acusacion-fiscalia-absolvieron-anibal-fernandez-jorge-capitanich_0_KJ3IGI4fE3.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 15:46:50"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Clarín",
+        "Perfil",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "sesiones_extraordinarias_congreso_20251206",
+      "tema": "Sesiones extraordinarias Congreso Milei",
+      "tema_normalizado": "sesiones extraordinarias congreso milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Presidente Javier Milei convocó a sesiones extraordinarias en el Congreso de la Nación.\n*   Estas sesiones se realizarán entre el 10 y el 30 de diciembre, con una posible segunda etapa en febrero.\n*   El objetivo principal es tratar y aprobar reformas estructurales clave de su gobierno, incluyendo el Presupuesto 2026 y una reforma laboral.\n\n🔍 **Datos clave:**\n*   **Fechas:** 10 al 30 de diciembre de 2023 (primera etapa). Se evalúa una segunda etapa en febrero.\n*   **Anunciante:** Manuel Adorni, Jefe de Gabinete. El decreto se firmaría y publicaría el 9 de diciembre.\n*   **Proyectos principales (diciembre):** Presupuesto 2026, Ley de Inocencia Fiscal, Modificación de la Ley de Glaciares, Reforma Laboral (\"Modernización Laboral\").\n*   **Proyectos adicionales (febrero):** Reforma del Código Penal, Ley de Compromiso Nacional para la Estabilidad Fiscal y Monetaria.\n*   **Días hábiles:** Aproximadamente 12 días hábiles para los legisladores en diciembre.\n\n⚡ **Desarrollo:**\n*   **Convocatoria oficial:** La convocatoria fue confirmada por el Jefe de Gabinete, Manuel Adorni, iniciando formalmente la agenda legislativa del gobierno de Javier Milei.\n*   **Temario:** El Poder Ejecutivo es el único que puede proponer proyectos en sesiones extraordinarias, y ha definido una ambiciosa lista de reformas prioritarias.\n*   **Presupuesto 2026:** Es la prioridad número uno, buscando un equilibrio entre el superávit fiscal y las demandas de los gobernadores aliados, esencial para la previsibilidad macroeconómica.\n*   **Reforma Laboral:** Apunta a modificar la Ley de Contrato de Trabajo, incluyendo cambios en indemnizaciones, juicios, limitación de la \"ultraactividad\" de convenios y la creación de un fondo de cese.\n*   **Ley de Inocencia Fiscal:** Busca incentivar la declaración de activos (\"dólares del colchón\") y propone una regla fiscal para impedir aumentos de gasto sin financiamiento explícito.\n*   **Modificación Ley de Glaciares:** Su \"adecuación del Régimen de Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglaciar\" buscaría habilitar actividades extractivas en áreas periglaciares.\n*   **Reforma del Código Penal:** Es un paquete con más de 900 artículos que incluiría aumentos de penas y la imprescriptibilidad de ciertos delitos, a ser tratado probablemente en febrero.\n*   **Negociaciones políticas:** El Gobierno, aunque La Libertad Avanza ha aumentado su influencia en el Congreso, deberá negociar con bloques aliados (como PRO y UCR) y gobernadores para asegurar las mayorías necesarias.\n*   **Reacciones:** Algunos proyectos, como la reforma laboral, ya generaron rechazo, con gremios como ATE convocando a medidas de fuerza en protesta.\n\n💡 **¿Por qué importa?**\n*   Estas sesiones marcan el inicio legislativo de las reformas profundas propuestas por el gobierno de Javier Milei, buscando reestructurar aspectos económicos, laborales y judiciales.\n*   El resultado de estas discusiones y votaciones definirá la capacidad del oficialismo para avanzar con su agenda y el apoyo que logre construir en el Congreso.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Javier Milei convocó a sesiones extraordinarias: las reformas que buscará aprobar en diciembre",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-convoco-a-sesiones-extraordinarias-las-reformas-que-buscara-aprobar-en-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 19:51:15"
+        },
+        {
+          "titulo": "El Gobierno confirma el llamado a sesiones extraordinarias hasta el 30 de diciembre para tratar Presupuesto, reforma laboral y Código Penal",
+          "link": "https://www.clarin.com/politica/gobierno-confirma-llamado-sesiones-extraordinarias-30-diciembre-tratar-presupuesto-reforma-laboral-codigo-penal_0_GTz8ky4FQ2.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 19:39:41"
+        },
+        {
+          "titulo": "Sesiones extraordinarias: qué temas se tratarán en el Congreso en diciembre y febrero",
+          "link": "https://www.ambito.com/politica/sesiones-extraordinarias-que-temas-se-trataran-el-congreso-diciembre-y-febrero-n6221412",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 19:25:00"
+        },
+        {
+          "titulo": "Javier Milei avanza con las reformas: el Gobierno confirmó la fecha para las sesiones extraordinarias",
+          "link": "https://www.minutouno.com/politica/javier-milei-avanza-las-reformas-el-gobierno-confirmo-la-fecha-las-sesiones-extraordinarias-n6221407",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 19:06:00"
+        },
+        {
+          "titulo": "El Gobierno convoca a extraordinarias entre el 10 y el 30 de diciembre y encara su agenda de reformas",
+          "link": "https://www.ambito.com/politica/el-gobierno-convoca-extraordinarias-el-10-y-el-30-diciembre-y-encara-su-agenda-reformas-n6221387",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 19:02:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Clarín",
+        "Perfil",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "sorteo_mundial_2026:_20251206",
+      "tema": "Sorteo Mundial 2026: Trump y Milei",
+      "tema_normalizado": "sorteo mundial 2026: trump y milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El expresidente estadounidense Donald Trump se convirtió en el principal protagonista del sorteo del Mundial de Fútbol 2026, celebrado en Washington D.C.\n*   Durante el evento, Trump elogió al presidente argentino Javier Milei y recibió un \"Premio de la Paz\" de la FIFA, desviando la atención hacia la política.\n*   También se reunió con los líderes de México y Canadá, coanfitriones del torneo, abordando temas que van más allá del fútbol.\n\n🔍 **Datos clave:**\n*   **Evento:** Sorteo del Mundial de Fútbol 2026.\n*   **Lugar:** Centro John F. Kennedy, Washington D.C.\n*   **Países coanfitriones:** Estados Unidos, México y Canadá.\n*   **Personajes clave:** Donald Trump, Javier Milei (Presidente de Argentina), Gianni Infantino (Presidente de FIFA), Claudia Sheinbaum (Presidenta de México), Mark Carney (Primer Ministro de Canadá).\n*   **Reconocimiento:** Premio FIFA de la Paz.\n\n⚡ **Desarrollo:**\n*   Donald Trump expresó un fuerte apoyo al presidente Javier Milei, afirmando que \"está haciendo un muy buen trabajo\" y \"haciendo a Argentina grande otra vez\" con el eslogan \"MAGA\" (Make America Great Again) adaptado.\n*   Acompañado por el presidente de la FIFA, Gianni Infantino, Trump recibió el inusual \"Premio de la Paz\", destacando supuestos logros diplomáticos en la resolución de ocho conflictos internacionales, incluyendo la guerra entre Israel y Hamas.\n*   En el ámbito futbolístico, Trump evitó elegir entre Lionel Messi y Cristiano Ronaldo, calificándolos a ambos como \"geniales\" y recordando un encuentro con Ronaldo en la Casa Blanca.\n*   Tras el sorteo, Trump se reunió con la presidenta mexicana Claudia Sheinbaum y el primer ministro canadiense Mark Carney para discutir la organización del Mundial.\n*   Este encuentro trilateral, aunque enfocado en el Mundial, también puso de manifiesto las tensiones comerciales entre los tres países en el marco del acuerdo T-MEC y las políticas proteccionistas.\n*   La relación entre Trump y Milei se ha fortalecido, lo que ha facilitado acuerdos financieros significativos para Argentina.\n\n💡 **¿Por qué importa?**\n*   El sorteo del Mundial 2026 trascendió el ámbito deportivo para convertirse en una plataforma política, donde Donald Trump reafirmó su influencia y sus alianzas clave, como la establecida con Javier Milei.\n*   El evento subrayó la creciente intersección entre el deporte de élite y la geopolítica, sirviendo como escenario para discusiones diplomáticas y comerciales de alto nivel entre Estados Unidos, México y Canadá.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Elogios a Milei, la gambeta por Messi y un premio a medida: Trump se convierte en el protagonista del sorteo del Mundial",
+          "link": "https://www.lanacion.com.ar/estados-unidos/elogios-a-milei-la-gambeta-por-messi-y-un-encuentro-clave-trump-se-convierte-en-el-protagonista-del-nid05122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-05 22:01:25"
+        },
+        {
+          "titulo": "Donald Trump, Claudia Sheinbaum y Mark Carney se reunieron luego del sorteo del Mundial 2026",
+          "link": "https://www.ambito.com/mundo/donald-trump-claudia-sheinbaum-y-mark-carney-se-reunieron-luego-del-sorteo-del-mundial-2026-n6221424",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 20:16:00"
+        },
+        {
+          "titulo": "Donald Trump elogió a Javier Milei antes del sorteo del Mundial 2026: qué dijo",
+          "link": "https://www.minutouno.com/politica/donald-trump-elogio-javier-milei-antes-del-sorteo-del-mundial-2026-que-dijo-n6221312",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-05 14:48:00"
+        },
+        {
+          "titulo": "En la previa del sorteo del Mundial, Donald Trump elogió a Javier Milei: \"Está haciendo un muy buen trabajo\"",
+          "link": "https://www.ambito.com/mundo/en-la-previa-del-sorteo-del-mundial-donald-trump-elogio-javier-milei-esta-haciendo-un-muy-buen-trabajo-n6221313",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-05 14:47:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "La Nación",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_cuadernos:_abal_20251206",
+      "tema": "Causa Cuadernos: Abal Medina zoom",
+      "tema_normalizado": "causa cuadernos: abal medina zoom",
+      "resumen": "📌 **¿Qué está pasando?**\n• Juan Manuel Abal Medina, ex Jefe de Gabinete durante el kirchnerismo, apareció sin camisa en plena audiencia virtual de la Causa Cuadernos.\n• El incidente ocurrió durante la séptima jornada del debate oral, mientras se investigan presuntos pagos de sobornos a funcionarios.\n• La secuencia, captada por las cámaras de Zoom y posteriormente viralizada, generó sorpresa y comentarios en el ámbito judicial y público.\n\n🔍 **Datos clave:**\n• **Protagonista:** Juan Manuel Abal Medina, ex Jefe de Gabinete durante el gobierno kirchnerista.\n• **Evento:** Séptima jornada de la audiencia virtual del juicio oral por la Causa Cuadernos.\n• **Fecha del incidente:** Un jueves reciente, durante la séptima audiencia.\n• **Contexto Judicial:** La Causa Cuadernos investiga una presunta red de sobornos y recaudación ilegal de fondos.\n• **Implicación de Abal Medina:** Involucrado tras el hallazgo de dos pendrives con información sobre el financiamiento de la campaña electoral de 2013.\n• **Imputados en la Causa:** Un total de 86 personas, incluyendo empresarios y ex funcionarios.\n• **Inicio del formato virtual:** El juicio comenzó en formato virtual el jueves 6 de noviembre (fecha de inicio de las audiencias virtuales).\n\n⚡ **Desarrollo:**\n• Abal Medina fue visto caminando por su oficina con el torso desnudo y con una biblioteca de fondo, antes de reencuadrarse correctamente y ya vestido.\n• Él mismo aclaró en su cuenta de X que la situación ocurrió durante la acreditación, \"una hora antes del comienzo\" de la audiencia, y que no fue transmitido ni grabado en ese momento.\n• A pesar de que el hecho no derivó en sanciones formales, sí motivó diversos comentarios entre las partes y en los medios.\n• La Causa Cuadernos revisa la estructura de recaudación ilegal denunciada inicialmente por el chofer Oscar Centeno.\n• Abal Medina siempre ha negado haber recibido coimas, sosteniendo que los fondos eran aportes de campaña debidamente declarados.\n• Este episodio se suma a otros insólitos ocurridos en audiencias virtuales de la misma causa, como la expresidenta Cristina Kirchner \"jugando a las escondidas\" con la cámara o el ex ministro Julio De Vido comiendo helado.\n\n💡 **¿Por qué importa?**\n• El inusual incidente acentuó el tono mediático del juicio, desviando la atención del fondo de la investigación hacia un hecho anecdótico y personal.\n• Subraya las particularidades y desafíos que presentan las audiencias judiciales remotas, exponiendo situaciones domésticas de los participantes.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Insólito: Juan Manuel Abal Medina “peló lomo” en el zoom de la Causa Cuadernos",
+          "link": "https://noticias.perfil.com/noticias/politica/insolito-juan-manuel-abal-medina-pelo-lomo-en-el-zoom-de-la-causa-cuadernos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 18:14:36"
+        },
+        {
+          "titulo": "Abal Medina en cuero, otro insólito episodio en las audiencias virtuales de la Causa Cuadernos",
+          "link": "https://www.clarin.com/politica/abal-medina-cuero-insolito-episodio-audiencias-virtuales-causa-cuadernos_0_LA4aBP6JqP.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-05 18:01:42"
+        },
+        {
+          "titulo": "Viralizaron un video de Abal Medina semidesnudo por Zoom en una audiencia de la Causa Cuadernos",
+          "link": "https://www.perfil.com/noticias/politica/el-ex-jefe-de-gabinete-fue-captado-sin-camisa-durante-la-septima-audiencia-virtual-el-descuido-ocurrio-en-simultaneo-a-la-lectura-de-la-dur.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-05 17:44:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-06",
+      "fuentes": [
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
