@@ -1,6 +1,489 @@
 {
-  "fecha": "2025-12-06",
-  "fecha_generacion": "2025-12-07T01:01:07.265901",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-12-07",
+  "fecha_generacion": "2025-12-07T09:20:16.379330",
+  "total_temas": 10,
+  "temas": [
+    {
+      "tema_id": "argentina:_llegada_aviones_20251207",
+      "tema": "Argentina: Llegada aviones F-16 Dinamarca",
+      "tema_normalizado": "argentina: llegada aviones f-16 dinamarca",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina recibió recientemente los primeros seis aviones de combate F-16 de \"media vida\" adquiridos a Dinamarca.\n• El presidente Javier Milei encabezó un eufórico acto de presentación en Río Cuarto, Córdoba, tras un sobrevuelo de las aeronaves por la Ciudad de Buenos Aires.\n• Esta adquisición se considera un paso crucial para modernizar la Fuerza Aérea Argentina y fortalecer la defensa nacional.\n\n🔍 **Datos clave:**\n• **Aviones:** Se trata de 6 de un total de 24 cazas F-16 (cuatro biplazas F-16BM y dos monoplazas F-16AM).\n• **Origen:** Comprados a Dinamarca, son de fabricación estadounidense.\n• **Costo:** 301.2 millones de dólares por las 24 aeronaves, pagaderos en cinco cuotas anuales sin interés. Estados Unidos aportó 40 millones de dólares para el pago inicial, dentro de un paquete de 560 millones que incluye capacitación y soporte.\n• **Ruta:** Los aviones recorrieron 17 mil kilómetros desde Dinamarca e hicieron escalas antes de llegar al país.\n• **Acto:** Se realizó en el Área Material Río Cuarto, Córdoba, con la presencia del presidente Milei, miembros de su Gabinete y el embajador de EE.UU. Peter Lamelas.\n• **Sobrevuelo:** Antes de la presentación, los F-16 realizaron un vuelo rasante sobre Buenos Aires (Plaza de Mayo, Obelisco, 9 de Julio) a unos 700 km/h.\n\n⚡ **Desarrollo:**\n• La compra de los F-16 busca robustecer la Fuerza Aérea Argentina, recuperando la capacidad de intercepción supersónica perdida en 2015.\n• La operación requirió la aprobación de Estados Unidos, dado el origen de los aviones, y Washington ha comprometido apoyo a largo plazo para entrenamiento y mantenimiento.\n• Durante el acto, el presidente Milei calificó a los F-16 como \"ángeles protectores\" y \"nuevos custodios del espacio aéreo\", criticando a gobiernos anteriores por dejar al país \"indefenso\".\n• Milei también defendió la designación del Teniente General Carlos Presti como futuro ministro de Defensa, destacando su idoneidad y la necesidad de militares al frente de la cartera.\n• Uno de los aviones exhibió temporalmente un sticker de un león (símbolo de Milei) en el fuselaje, lo que generó atención y luego fue retirado.\n• La oposición, como el exministro Agustín Rossi, criticó la compra, cuestionando su efectividad para Malvinas y los costos de mantenimiento.\n• La vicegobernadora de Córdoba no fue invitada formalmente al acto, generando controversia sobre la representación provincial en un evento de magnitud nacional.\n\n💡 **¿Por qué importa?**\n• Marca una inversión estratégica y un cambio en la política de defensa argentina, buscando recuperar capacidades militares y estrechar la cooperación con países clave como EE.UU. y aliados de la OTAN.\n• Simboliza la revalorización de las Fuerzas Armadas por parte del actual gobierno, después de lo que describen como décadas de desfinanciamiento y \"destrato\".",
+      "cantidad_noticias": 14,
+      "noticias": [
+        {
+          "titulo": "Milei recibió con euforia a los primeros seis F-16 de media vida comprados al reino de Dinamarca",
+          "link": "https://www.perfil.com/noticias/politica/milei-recibio-con-euforia-a-los-primeros-seis-f-16-de-media-vida-comprados-al-reino-de-dinamarca.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-07 03:07:54"
+        },
+        {
+          "titulo": "Presentación de F-16.El presidente Milei enfatizó el significado de designar a Presti en Defensa y criticó al kirchnerismo",
+          "link": "https://www.lanacion.com.ar/politica/presentacion-de-f-16el-presidente-milei-enfatizo-el-significado-de-designar-a-presti-en-defensa-y-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-06 21:04:00"
+        },
+        {
+          "titulo": "Así fue el vuelo de los aviones de combate F-16 en Buenos Aires y Córdoba: siete minutos de show y rugido a 700 km/h",
+          "link": "https://www.clarin.com/politica/vuelo-aviones-combate-f-16-buenos-aires-cordoba-minutos-sobrevuelo-rugido-700-kmh_0_3boutsNzTW.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 20:34:11"
+        },
+        {
+          "titulo": "El curioso ploteo que hicieron a un avión F-16 \"en honor\" a Javier Milei",
+          "link": "https://www.minutouno.com/politica/el-curioso-ploteo-que-hicieron-un-avion-f-16-en-honor-javier-milei-n6221600",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 19:28:00"
+        },
+        {
+          "titulo": "Javier Milei defendió la designación del teniente Carlos Presti: \"¿Quién mejor que un militar?\"",
+          "link": "https://www.minutouno.com/politica/javier-milei-defendio-la-designacion-del-teniente-carlos-presti-quien-mejor-que-un-militar-n6221589",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 18:13:00"
+        },
+        {
+          "titulo": "Diego Santilli celebró los F-16 con una ironía al kirchnerismo: “Pasamos de incorporar llamas metralletas a aviones de combate”",
+          "link": "https://www.perfil.com/noticias/politica/diego-santilli-celebro-los-f-16-con-una-ironia-al-kirchnerismo-pasamos-de-incorporar-llamas-metralletas-a-aviones-de-combate.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-06 17:09:00"
+        },
+        {
+          "titulo": "El polémico sticker pegado en uno de los aviones F-16 \"en honor al Presidente\"",
+          "link": "https://www.ambito.com/politica/el-curioso-sticker-pegado-uno-los-aviones-f-16-en-honor-al-presidente-n6221556",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 16:05:00"
+        },
+        {
+          "titulo": "Córdoba y los F-16: el gobernador se recupera de una operación y la vice, sin invitación, siguió el acto fuera de la base",
+          "link": "https://www.clarin.com/politica/llaryora-recupera-operacion-vicegobernadora-cordoba-siguio-acto-f-16-publico-recibio-invitacion-oficial_0_z8Fux1mU0U.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 15:28:28"
+        },
+        {
+          "titulo": "Las mejores fotos de la presentación de los aviones F-16",
+          "link": "https://www.ambito.com/politica/las-mejores-fotos-la-presentacion-los-aviones-f-16-n6221544",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 14:37:35"
+        },
+        {
+          "titulo": "Santilli celebró la llegada de los F-16 con un irónico mensaje contra el kirchnerismo: \"Pasamos de incorporar llamas metralletas a aviones de combate\"",
+          "link": "https://www.clarin.com/politica/santilli-celebro-llegada-f-16-ironico-mensaje-kirchnerismo-pasamos-incorporar-llamas-metralletas-aviones-combate_0_BqLjXRZ43P.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 13:28:12"
+        },
+        {
+          "titulo": "La embajada de EEUU celebró la llegada de los F-16 a Argentina",
+          "link": "https://www.ambito.com/politica/la-embajada-eeuu-celebro-la-llegada-los-f-16-argentina-n6221539",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 13:01:00"
+        },
+        {
+          "titulo": "El embajador Lamelas estuvo en el acto de los F16 en Córdoba y destacó el apoyo de Estados Unidos",
+          "link": "https://www.perfil.com/noticias/politica/el-embajador-lamelas-estuvo-en-el-acto-de-los-f16-en-cordoba-y-destaco-el-apoyo-de-estados-unidos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-06 11:44:16"
+        },
+        {
+          "titulo": "En la presentación de los F-16, Javier Milei despidió a Luis Petri: \"Deja detrás suyo un legado de cual estos aviones son su testamento\"",
+          "link": "https://www.ambito.com/politica/en-la-presentacion-los-f-16-javier-milei-despidio-luis-petri-deja-detras-suyo-un-legado-cual-estos-aviones-son-su-testamento-n6221495",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 11:00:00"
+        },
+        {
+          "titulo": "Javier Milei presentó los primeros seis aviones de combate F-16 comprados a Dinamarca: \"Ángeles protectores\"",
+          "link": "https://www.minutouno.com/politica/javier-milei-presento-los-primeros-seis-aviones-combate-f-16-comprados-dinamarca-angeles-protectores-n6221514",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 09:50:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Clarín",
+        "La Nación",
+        "Perfil",
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "venezuela:_maria_corina_20251207",
+      "tema": "Venezuela: María Corina Machado Nobel Paz",
+      "tema_normalizado": "venezuela: maria corina machado nobel paz",
+      "resumen": "📌 **¿Qué está pasando?**\n• La líder opositora venezolana María Corina Machado confirmó su viaje a Oslo, Noruega, el 10 de diciembre para recibir el Premio Nobel de la Paz, anunciado el 10 de octubre.\n• Su decisión llega tras semanas de incertidumbre y bajo un notable riesgo debido a las presuntas amenazas del régimen de Nicolás Maduro.\n• Este reconocimiento internacional, que motivó marchas de apoyo en más de 80 ciudades globales, destaca su \"incansable labor en la promoción de los derechos democráticos\" en Venezuela.\n\n🔍 **Datos clave:**\n• **Ceremonia:** 10 de diciembre en Oslo, Noruega.\n• **Motivo del Premio:** Reconocimiento a su \"lucha por la democracia y la libertad\" y búsqueda de una \"transición pacífica\".\n• **Marchas de apoyo:** Miles de venezolanos en más de 80 ciudades de 20 países de América y Europa participaron en una movilización global.\n• **Líderes internacionales presentes:** Los presidentes Javier Milei (Argentina), Santiago Peña (Paraguay), Daniel Noboa (Ecuador) y José Raúl Mulino (Panamá) confirmaron su asistencia.\n• **Otros opositores venezolanos:** Edmundo González Urrutia, ex-candidato presidencial, también estará presente.\n• **Contexto de represión:** La muerte del opositor Alfredo Díaz en prisión en noviembre de 2024 agrava la situación, denunciada por Machado.\n\n⚡ **Desarrollo:**\n• Machado fue galardonada por el Comité Noruego del Nobel por su \"lucha por lograr una transición justa y pacífica de la dictadura a la democracia\" y ser una figura unificadora.\n• El Instituto Nobel confirmó su presencia en la ceremonia, aunque por \"situación de seguridad\" no se dieron detalles sobre su traslado, que requiere \"cuidado internacional\".\n• La campaña \"el Nobel es nuestro\" movilizó a la diáspora venezolana para demostrar que el reconocimiento \"no pertenece a una persona, sino a un país entero\", en una antesala a la entrega del premio.\n• No se realizaron marchas de apoyo en Venezuela debido a la \"incertidumbre y escalada represiva\" que impide garantizar la seguridad de los participantes.\n• El fallecimiento de Alfredo Díaz, detenido en El Helicoide, fue calificado por Machado y González Urrutia como un \"patrón sostenido de represión estatal\" que aumenta la tensión.\n• La asistencia de presidentes de Argentina, Paraguay, Ecuador y Panamá simboliza un fuerte respaldo regional a la causa democrática venezolana, en un momento de creciente presión internacional.\n\n💡 **¿Por qué importa?**\n• El Premio Nobel de la Paz y el masivo apoyo global consolidan la visibilidad de la crisis política y de derechos humanos en Venezuela, ejerciendo mayor presión sobre el régimen de Maduro.\n• Refuerza la legitimidad de la oposición democrática y expone los riesgos que enfrentan sus líderes, subrayando la importancia de la defensa de la libertad y la democracia a nivel mundial.",
+      "cantidad_noticias": 6,
+      "noticias": [
+        {
+          "titulo": "Patricia Bullrich se sumó a la marcha a favor de María Corina Machado en Buenos Aires",
+          "link": "https://www.clarin.com/politica/patricia-bullrich-sumo-marcha-favor-maria-corina-machado-buenos-aires_0_Z8CduKgJZq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 21:39:59"
+        },
+        {
+          "titulo": "María Corina Machado confirma que irá a Noruega para recibir el Nobel de la Paz y miles de personas marchan en todo el mundo para apoyarla",
+          "link": "https://www.clarin.com/mundo/maria-corina-machado-confirma-ira-noruega-recibir-nobel-paz-miles-personas-marchan-mundo-apoyarla_0_m1A2YE7bsL.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 13:59:09"
+        },
+        {
+          "titulo": "Confirmado: María Corina Machado viajará a Oslo para recibir el Premio Nobel de la Paz",
+          "link": "https://www.minutouno.com/mundo/confirmado-maria-corina-machado-viajara-oslo-recibir-el-premio-nobel-la-paz-n6221537",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 12:55:00"
+        },
+        {
+          "titulo": "En medio de agenda legislativa clave, Javier Milei viajaría a Noruega para acompañar a Corina Machado en la entrega del Nobel de la Paz",
+          "link": "https://www.perfil.com/noticias/politica/javier-milei-viaja-a-noruega-para-acompanar-a-corina-machado-en-la-entrega-del-nobel-de-la-paz.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-06 12:47:02"
+        },
+        {
+          "titulo": "María Corina Machado viajará a Noruega para recibir el Premio Nobel de la Paz",
+          "link": "https://www.ambito.com/mundo/maria-corina-machado-viajara-noruega-recibir-el-premio-nobel-la-paz-n6221521",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 12:14:00"
+        },
+        {
+          "titulo": "Javier Milei viaja a Noruega para participar de la entrega del premio Nobel a María Corina Machado",
+          "link": "https://www.ambito.com/politica/javier-milei-viaja-noruega-participar-la-entrega-del-premio-nobel-maria-corina-machado-n6221444",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 08:21:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_reforma_laboral_20251207",
+      "tema": "Argentina: Reforma laboral gobierno Milei",
+      "tema_normalizado": "argentina: reforma laboral gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El gobierno de Javier Milei está impulsando una reforma laboral en Argentina, con el objetivo de modificar leyes vigentes y flexibilizar aspectos del mercado de trabajo.\n*   El proyecto se enmarca en un paquete de reformas más amplio y se espera su debate en las sesiones extraordinarias del Congreso.\n*   La iniciativa ha generado una fuerte reacción de los sindicatos, particularmente de la CGT, que advierte con movilizaciones si no son representados sus intereses.\n\n🔍 **Datos clave:**\n*   **Ley principal a modificar:** Ley N° 20.744 (Ley de Contrato de Trabajo).\n*   **Actores clave:** Gobierno de Milei, CGT (Gerardo Martínez, Jorge Sola), sector de Sturzenegger (postura ideológica), Santiago Caputo (postura dialoguista), gobernadores.\n*   **Fecha de presentación prevista (según noticias):** 9 de diciembre, aunque los plazos pueden variar.\n*   **Sede de debate inicial:** El proyecto comenzaría su tratamiento en el Senado.\n\n⚡ **Desarrollo:**\n*   El Gobierno busca acelerar esta reforma en un contexto de relativa calma política, aprovechando la debilidad y desorganización de la oposición peronista.\n*   Un borrador del proyecto de Ley de Reforma Laboral detalla cambios específicos en la Ley de Contrato de Trabajo, principalmente sobre beneficios sociales y formas de remuneración.\n*   Se propone redefinir los \"beneficios sociales\" (Art. 103 bis de la Ley 20.744) como prestaciones no remunerativas, no dinerarias y no sujetas a aportes o contribuciones a la seguridad social.\n*   Estos beneficios incluyen servicios de comedor, reintegros de gastos médicos, provisión de ropa de trabajo, reintegros de guardería (hasta 6 años), útiles escolares, capacitación y gastos de sepelio de familiares.\n*   Respecto a la remuneración (Art. 104 de la Ley 20.744), se plantea que el salario pueda fijarse por tiempo o por rendimiento del trabajo, como unidad de obra o comisión.\n*   En el rubro gastronómico, se aclara que las propinas \"en ningún caso\" se considerarán remuneración, aunque sean habituales.\n*   La CGT, a través de sus dirigentes Gerardo Martínez y Jorge Sola, ha rechazado el borrador, señalando que no representa los intereses de los trabajadores y advirtiendo sobre posibles medidas de fuerza.\n*   Existe un debate interno en el Gobierno sobre el nivel de confrontación con sindicatos y gobernadores, con visiones divergentes entre sectores con sesgo ideológico (Sturzenegger) y otros más propensos al diálogo (Santiago Caputo).\n*   Se espera que la reforma laboral contemple también fragmentos de una reforma tributaria y que legisladores aliados ya presenten proyectos relacionados, como la limitación al derecho a huelga.\n\n💡 **¿Por qué importa?**\n*   Esta reforma plantea modificaciones profundas en el marco legal del trabajo en Argentina, con un impacto directo en las condiciones laborales, los salarios y la protección social de los trabajadores.\n*   Su avance o estancamiento será un termómetro de la capacidad de negociación del gobierno de Milei y de la respuesta de los sindicatos, marcando la dinámica política y social del país.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Javier Milei ordena el tablero para acelerar las reformas; la oposición tantea experimentos y busca blindar a los gremios",
+          "link": "https://www.ambito.com/politica/javier-milei-ordena-el-tablero-acelerar-las-reformas-la-oposicion-tantea-experimentos-y-busca-blindar-los-gremios-n6221621",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-07 00:00:00"
+        },
+        {
+          "titulo": "Milei define la letra chica del Presupuesto y la reforma laboral y en el Gobierno hay dudas sobre cuánto tensionar con gremios y gobernadores",
+          "link": "https://www.clarin.com/politica/milei-define-letra-chica-presupuesto-reforma-laboral-gobierno-dudas-tensionar-gremios-gobernadores_0_5DdeGTp3Zj.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 17:10:57"
+        },
+        {
+          "titulo": "Salarios y reforma laboral: qué cambios considera el proyecto",
+          "link": "https://www.ambito.com/politica/salarios-y-reforma-laboral-que-cambios-considera-el-proyecto-n6221528",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 13:51:00"
+        },
+        {
+          "titulo": "El próximo martes, día “D” para la reforma laboral",
+          "link": "https://www.clarin.com/economia/proximo-martes-dia-d-reforma-laboral_0_aPrsheRQqk.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 10:02:53"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_conflicto_milei_20251207",
+      "tema": "Argentina: Conflicto Milei - Chiqui Tapia",
+      "tema_normalizado": "argentina: conflicto milei - chiqui tapia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei y la AFA, presidida por Claudio \"Chiqui\" Tapia, mantienen un conflicto creciente con varios frentes abiertos.\n• La disputa más reciente se centra en la Universidad de la AFA (Unafa), cuya legalidad es cuestionada por el Gobierno debido a la falta de habilitación oficial.\n• A esto se suman revelaciones periodísticas sobre bienes de lujo (un avión privado y una mansión con decenas de vehículos de alta gama) vinculados a Tapia y su entorno.\n\n🔍 **Datos clave:**\n• **Unafa:** Universidad de la Asociación del Fútbol Argentino, lanzada por AFA, sin habilitación oficial universitaria.\n• **Ministerio de Capital Humano (Sandra Pettovello):** Exigió la suspensión de la promoción de Unafa y un descargo en 5 días.\n• **Alejandro Álvarez:** Subsecretario de Políticas Universitarias, acusó a AFA de \"abuso por ser la AFA\" y de no seguir los pasos legales.\n• **Gulfstream G400 T7-SUE:** Avión de lujo registrado en San Marino y usado por Tapia entre junio de 2023 y febrero de 2025.\n• **Real Central SRL:** Empresa de una jubilada y su hijo, vinculada a Tapia y Pablo Toviggino, que posee una mansión y 120 vehículos (incluyendo Ferrari y Porsche).\n• **Pablo Toviggino:** Tesorero de AFA y mano derecha de Tapia; 35 vehículos de Real Central SRL fueron registrados en su provincia, Santiago del Estero.\n• **Conmebol:** Ratificó a Tapia como miembro pleno del Consejo de la FIFA.\n\n⚡ **Desarrollo:**\n• El Gobierno inició una ofensiva contra Tapia cuestionando la Unafa, argumentando que no tiene el respaldo legal para funcionar como universidad y que su promoción es engañosa.\n• La AFA defiende que Unafa es un \"proyecto recientemente lanzado\", que cumple los requisitos para su etapa actual y que los certificados son otorgados por instituciones con las que tiene convenios, como la UBA.\n• El subsecretario Álvarez comparó la actitud de AFA con la de clubes como Estudiantes o River, que sí se comunicaron con las autoridades para regularizar sus proyectos universitarios.\n• La tensión escaló cuando el presidente Javier Milei suspendió su asistencia a un sorteo del Mundial 2026 en Washington, donde Tapia compartiría espacio con el titular de la FIFA y Donald Trump.\n• Revelaciones periodísticas detallaron que Tapia usa un avión Gulfstream G400, matrícula T7-SUE, registrado en San Marino, un país conocido por sus exenciones impositivas y discreción registral.\n• Se expuso que la empresa Real Central SRL, con un capital social inicial de $300.000, adquirió 120 vehículos de alta gama y una lujosa mansión, lo que generó dudas sobre su procedencia y vinculación con Tapia y Toviggino.\n• A pesar de la ofensiva gubernamental, Tapia obtuvo un importante respaldo internacional al ser ratificado como miembro pleno del Consejo de la FIFA por el Congreso Extraordinario de Conmebol.\n\n💡 **¿Por qué importa?**\n• El conflicto pone de manifiesto una disputa de poder entre el Gobierno nacional y la conducción de la AFA, una entidad de gran peso social y económico en Argentina.\n• Las denuncias de irregularidades en el patrimonio y el manejo de fondos generan un debate sobre la transparencia y la legalidad en el fútbol argentino.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Milei redobla la ofensiva contra el Chiqui Tapia, que vuelve empoderado de Washington",
+          "link": "https://www.perfil.com/noticias/politica/milei-redobla-la-ofensiva-contra-el-chiqui-tapia-que-vuelve-empoderado-de-washington.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-07 03:25:46"
+        },
+        {
+          "titulo": "Cruces por la Unafa: Chiqui Tapia acusa \"una embestida contra la educación\" y en el Gobierno hablan de un \"abuso por ser la AFA\"",
+          "link": "https://www.clarin.com/politica/sigue-polemica-unafa-chiqui-tapia-habla-embestida-educacion-gobierno-dicen-creen-encima-ley_0_iFl4q90kBA.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 18:57:07"
+        },
+        {
+          "titulo": "El misterioso avión de lujo registrado en San Marino y que sólo usa Chiqui Tapia",
+          "link": "https://www.clarin.com/politica/misterioso-avion-lujo-registrado-san-marino-solo-usa-chiqui-tapia_0_OX3sOcUiF9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 18:11:33"
+        },
+        {
+          "titulo": "La empresa de la jubilada dueña de la mansión asociada a Toviggino y “Chiqui” Tapia tuvo 120 autos a su nombre: una Ferrari, varios Porsche y más",
+          "link": "https://www.clarin.com/politica/jubilada-duena-mansion-asociada-toviggino-chiqui-tapia-120-vehiculos-nombre-ferrari-varios-porsche_0_Go2IWsWQIR.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 13:17:28"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Perfil",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_billeteras_virtuales_20251207",
+      "tema": "Argentina: Billeteras virtuales novedades",
+      "tema_normalizado": "argentina: billeteras virtuales novedades",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Las billeteras virtuales en Argentina son foco de importantes novedades, incluyendo la propuesta de pagar sueldos y jubilaciones a través de ellas, lo que generó un fuerte debate con los bancos.\n*   Se implementaron nuevos límites fiscales para las transferencias y se anunciaron beneficios y descuentos por parte de estas plataformas.\n*   También se destacan las diferencias y la competencia entre las billeteras más usadas en el país, como MODO y Mercado Pago.\n\n🔍 **Datos clave:**\n*   **Límite de transferencia ARCA (personas físicas):** $50.000.000 mensuales.\n*   **Límite de transferencia ARCA (personas jurídicas):** $30.000.000 mensuales.\n*   **Fecha de referencia fiscal clave:** Diciembre de 2025.\n*   **Tope Cuenta DNI carnicerías (dic. 2025):** $7.000 de reintegro (35% de descuento).\n*   **Bancos asociados a MODO:** Más de 20 (ej: Banco Nación, Galicia, Santander, BBVA).\n\n⚡ **Desarrollo:**\n*   El borrador de la reforma laboral propone habilitar el pago de salarios y jubilaciones en billeteras virtuales, una iniciativa que las asociaciones bancarias rechazan fuertemente.\n*   Los bancos advierten que esta medida reduce la seguridad de los haberes, debilita la estabilidad financiera y fomenta la \"banca en las sombras\", sin regulación prudencial.\n*   Se alerta que el desplazamiento de fondos a plataformas no bancarias podría reducir la capacidad crediticia de los bancos para préstamos a largo plazo.\n*   Por otro lado, ARCA (Agencia de Recaudación y Control Aduanero) estableció nuevos límites para las transferencias, con el fin de evitar la evasión fiscal y el lavado de dinero.\n*   Superar los $50 millones para personas físicas o $30 millones para personas jurídicas mensualmente sin justificación puede activar alertas fiscales y resultar en sanciones.\n*   En el ámbito de los beneficios, billeteras como Cuenta DNI (Banco Provincia) confirmaron descuentos para diciembre de 2025 en rubros como carnicerías (35% con tope de $7.000), supermercados y comercios de cercanía.\n*   La comparación entre MODO y Mercado Pago revela que MODO ofrece más promociones al agrupar descuentos de más de 20 bancos, mientras que Mercado Pago permite invertir el dinero y se integra con Mercado Libre.\n\n💡 **¿Por qué importa?**\n*   Estas novedades modifican la forma en que millones de argentinos gestionan sus finanzas, desde cómo reciben sus sueldos hasta cómo realizan sus transacciones y acceden a beneficios.\n*   Tienen implicaciones directas en la seguridad de los fondos, la relación con los organismos fiscales y la competencia en el ecosistema financiero digital del país.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Alertan riesgos de cobrar los sueldos en billeteras virtuales",
+          "link": "https://www.perfil.com/noticias/economia/alertan-riesgos-de-cobrar-los-sueldos-en-billeteras-virtuales.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-07 04:30:19"
+        },
+        {
+          "titulo": "Una importante billetera virtual confirmó todos los descuentos exclusivos para diciembre 2025",
+          "link": "https://www.ambito.com/economia/una-importante-billetera-virtual-confirmo-todos-los-descuentos-exclusivos-diciembre-2025-n6220429",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-06 14:00:00"
+        },
+        {
+          "titulo": "ARCA confirmó nuevos límites para transferencias en billeteras virtuales",
+          "link": "https://www.iprofesional.com/impuestos/443255-arca-confirmo-los-limites-para-transfrencias-en-billeteras-virtuales",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-06 09:25:00"
+        },
+        {
+          "titulo": "MODO vs Mercado Pago, las diferencias entre las billeteras más usadas en Argentina",
+          "link": "https://www.iprofesional.com/finanzas/442022-modo-vs-mercado-pago-diferencias-entre-las-billeteras-mas-usadas-en-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-06 08:37:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Perfil",
+        "Ámbito Financiero",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_incidentes_politicos_20251207",
+      "tema": "Argentina: Incidentes políticos José C. Paz",
+      "tema_normalizado": "argentina: incidentes politicos jose c. paz",
+      "resumen": "📌 **¿Qué está pasando?**\n• El 5 de diciembre de 2025, se registraron graves incidentes políticos en José C. Paz, Provincia de Buenos Aires, durante un acto de asunción de concejales.\n• Militantes de La Libertad Avanza (LLA) denunciaron haber sido atacados brutalmente por presuntos funcionarios municipales y del Partido Justicialista (PJ) vinculados al intendente Mario Ishii.\n• Los disturbios, que incluyeron golpes y sillazos, dejaron un saldo de siete personas heridas y generaron un fuerte repudio de LLA.\n\n🔍 **Datos clave:**\n• **Fecha:** 5 de diciembre de 2025 (viernes).\n• **Lugar:** José C. Paz, Provincia de Buenos Aires, específicamente en la Universidad de José C. Paz y sus alrededores durante la jura de concejales.\n• **Partidos involucrados:** La Libertad Avanza (LLA) y militantes/funcionarios del Partido Justicialista (PJ) del municipio.\n• **Intendente señalado:** Mario Ishii (PJ), acusado por LLA de instigar el ataque.\n• **Gobernador interpelado:** Axel Kicillof (PJ), a quien LLA exigió un pronunciamiento público.\n• **Heridos:** Siete personas, incluyendo un hombre con fractura de mandíbula y costilla, menores de edad, una mujer arrastrada del cabello, un gendarme con fractura de nariz y una docente jubilada.\n• **Acciones legales:** La concejal de LLA María Clara Amorosa y el partido radicaron denuncias ante la Justicia.\n\n⚡ **Desarrollo:**\n• El conflicto estalló durante la jura de los nuevos concejales, donde LLA aseguró que sus militantes realizaban una actividad política pacífica.\n• La Libertad Avanza calificó el ataque como \"cobarde y organizado\" desde el \"oficialismo local y provincial\", buscando intimidar a la oposición y frenar su crecimiento.\n• Los incidentes fueron violentos: hubo insultos, empujones, golpes, sillazos, arrastrones de cabello y patadas; incluso se denunció que un policía municipal apuntó con un arma a un menor de 17 años.\n• LLA exigió públicamente al gobernador Axel Kicillof que se pronuncie \"con claridad\" sobre los hechos, advirtiendo que su silencio lo convertiría en \"cómplice de la violencia\" ejercida por la \"patota municipal\" de Ishii.\n• El partido reclamó una intervención judicial \"inmediata y contundente\" contra los responsables políticos y materiales, afirmando que no permitirán el uso del Estado para perseguir a la oposición.\n• La LLA enfatizó que la violencia no los amedrentará y que estos hechos evidencian que \"el kirchnerismo perdió el control y el relato\" en la provincia.\n\n💡 **¿Por qué importa?**\n• Este suceso marca un grave episodio de violencia política en un acto institucional, lo que genera preocupación sobre la convivencia democrática y el respeto a la oposición.\n• Resalta la tensa relación entre las fuerzas políticas en la provincia de Buenos Aires, con LLA denunciando un ataque organizado por el oficialismo local y provincial.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "LLA apuntó contra Mario Ishii por el “ataque” a militantes en José C. Paz y le exigió a Kicillof que se pronuncie",
+          "link": "https://www.lanacion.com.ar/politica/la-libertad-avanza-apunto-contra-mario-ishii-por-el-ataque-de-militantes-libertarios-en-jose-c-paz-y-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-06 19:42:07"
+        },
+        {
+          "titulo": "Libertarios denunciaron agresiones en José C. Paz y pidieron a Kicillof que se pronuncie: \"No seremos cómplices de Ishii\"",
+          "link": "https://www.perfil.com/noticias/politica/algunos-libertarios-denunciaron-agresiones-en-jose-c-paz-y-pidieron-a-kicillof-que-se-pronuncie-no-seremos-complices-de-ishii.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-06 18:34:00"
+        },
+        {
+          "titulo": "Libertarios reclaman a Kicillof que se pronuncie por los incidentes en José C Paz para \"no ser cómplice de Ishii y su patota municipal\"",
+          "link": "https://www.clarin.com/politica/libertarios-reclaman-kicillof-pronuncie-incidentes-jose-c-paz-complice-ishii-patota-municipal_0_ABZnaUkQxe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 15:21:04"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Perfil",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "venezuela:_muerte_exgobernador_20251207",
+      "tema": "Venezuela: Muerte exgobernador Alfredo Díaz",
+      "tema_normalizado": "venezuela: muerte exgobernador alfredo diaz",
+      "resumen": "📌 **¿Qué está pasando?**\n• El exgobernador del estado Nueva Esparta, Alfredo Díaz, falleció recientemente en la sede del Servicio Bolivariano de Inteligencia Nacional (Sebin) en Caracas.\n• Estaba detenido desde hace aproximadamente un año, acusado de “terrorismo” e “instigación al odio” por el régimen de Nicolás Maduro.\n• La oposición venezolana y organizaciones de derechos humanos denuncian que su muerte, calificada como \"crimen\", es responsabilidad exclusiva del Estado.\n\n🔍 **Datos clave:**\n• **Nombre:** Alfredo Díaz, 55 años, exgobernador de Nueva Esparta (2017-2021) y dirigente opositor.\n• **Lugar de detención y muerte:** El Helicoide, centro del Sebin en Caracas.\n• **Tiempo detenido:** Aproximadamente un año, arrestado en noviembre de 2024 tras las elecciones.\n• **Causa de muerte (según partido Voluntad Popular):** Infarto fulminante; su familia no recibió documentación médica oficial.\n• **Número de fallecimientos:** Es al menos el séptimo (u octavo, según fuentes) opositor fallecido en custodia desde las elecciones de 2024.\n\n⚡ **Desarrollo:**\n• Díaz fue arrestado en el contexto de la crisis poselectoral de 2024, tras denuncias de fraude por parte de la oposición en la reelección de Maduro.\n• Durante su detención, estuvo \"aislado\" y con acceso muy restringido a visitas (solo una vez su hija) y comunicaciones, según Foro Penal.\n• Su defensa solicitó evaluaciones médicas en varias ocasiones sin obtenerlas, y su juicio permanecía paralizado con un defensor público impuesto.\n• Líderes opositores como María Corina Machado y Edmundo González Urrutia calificaron la muerte de Díaz como un \"crimen\" bajo la responsabilidad del régimen.\n• Denuncian que El Helicoide ha sido señalado por organismos internacionales como un centro sistemático de torturas y violaciones de derechos humanos.\n• La muerte de Díaz se suma a la de otros presos políticos como Edwin Santos, Jesús Martínez y Reinaldo Araujo, entre otros, en similares circunstancias.\n• La oposición y ONGs atribuyen estas muertes a la negación de atención médica, condiciones inhumanas, aislamiento y tratos crueles.\n• La familia del exgobernador y diversas organizaciones exigen esclarecer las circunstancias del fallecimiento y una investigación independiente.\n\n💡 **¿Por qué importa?**\n• La muerte de Alfredo Díaz refuerza las denuncias sobre un patrón sostenido de represión estatal y el uso del sistema penitenciario contra la disidencia política en Venezuela.\n• Genera una \"alerta mundial\" sobre las graves violaciones de derechos humanos y la impunidad, con la oposición prometiendo documentar y buscar justicia.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Venezuela: murió en prisión el exgobernador Alfredo Díaz, detenido tras las últimas elecciones",
+          "link": "https://www.lanacion.com.ar/el-mundo/venezuela-murio-en-prision-el-exgobernador-alfredo-diaz-detenido-tras-las-ultimas-elecciones-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-06 22:14:35"
+        },
+        {
+          "titulo": "Venezuela: muere en la cárcel un ex gobernador opositor al régimen de Nicolás Maduro",
+          "link": "https://www.clarin.com/mundo/venezuela-muere-carcel-ex-gobernador-opositor-regimen-nicolas-maduro_0_k8WTS4rJKA.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 19:58:40"
+        },
+        {
+          "titulo": "Venezuela: murió en El Helicoide Alfredo Díaz, dirigente opositor",
+          "link": "https://www.minutouno.com/mundo/venezuela-murio-el-helicoide-alfredo-diaz-dirigente-opositor-n6221542",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 13:30:00"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "Clarín",
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_cotizacion_y_20251207",
+      "tema": "Argentina: Cotización y compra dólares",
+      "tema_normalizado": "argentina: cotizacion y compra dolares",
+      "resumen": "📌 **¿Qué está pasando?**\n*   Argentina experimenta un escenario cambiario complejo con múltiples cotizaciones del dólar, generando atención en el mercado.\n*   Los ciudadanos monitorean el valor del dólar oficial, el dólar blue (informal) y los dólares financieros como el MEP y el Contado con Liquidación (CCL).\n*   Esta dinámica se da en un contexto de búsqueda de protección del poder adquisitivo y con alertas sobre la acumulación de reservas del país.\n\n🔍 **Datos clave:**\n*   **Dólar Blue (domingo 07/12/2025):** $1415 (compra) y $1435 (venta).\n*   **Dólar Oficial (domingo 07/12/2025):** $1415 (compra) y $1435 (venta), según Banco Nación.\n*   **Dólar Banco Nación (venta, martes 09/12/2025):** $1460, tras el feriado del lunes 8 de diciembre.\n*   **Dólar MEP (martes 09/12/2025):** $1461 (venta).\n*   **Dólar CCL (martes 09/12/2025):** $1498 (venta).\n*   **Variación Dólar Blue (diciembre 2025):** Sube 1% respecto al mes anterior y 37% en lo que va del año.\n*   **Límite compra dólar oficial en efectivo:** USD 100 mensuales con declaración jurada.\n\n⚡ **Desarrollo:**\n*   El dólar oficial es el valor fijado por el Banco Central, negociado en bancos y casas de cambio autorizadas, sujeto a regulaciones y topes.\n*   El dólar blue, o informal, opera fuera del sistema legal, con un precio que varía por oferta y demanda, sin intervención ni controles estatales.\n*   La compra de dólar oficial puede realizarse digitalmente vía home banking o la aplicación del banco, sin tope para transacciones mayores a USD 100.000 si se notifica con anticipación.\n*   Para comprar dólar oficial en efectivo, existe un límite de USD 100 mensuales; el retiro de dólares de una cuenta bancaria es sin tope por ventanilla.\n*   El Fondo Monetario Internacional (FMI) ha expresado preocupación por la baja acumulación de reservas en Argentina y el posible incumplimiento de metas.\n*   El organismo internacional ha instado a la necesidad de una estrategia \"más ambiciosa\" para robustecer las reservas y fortalecer la estabilidad económica del país.\n*   La demanda de dólares se mantiene alta, impulsada por la búsqueda de ahorro y protección del poder adquisitivo, especialmente con la llegada del aguinaldo en diciembre.\n\n💡 **¿Por qué importa?**\n*   La diversidad de cotizaciones del dólar y sus variaciones impactan directamente en la economía familiar y las decisiones de inversión de los argentinos.\n*   La capacidad del Banco Central para acumular reservas es fundamental para la estabilidad financiera, la confianza en el país y su acceso a los mercados internacionales.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Dólar blue hoy: a cuánto cotiza este domingo 07 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-07-diciembre_0_ccpVUzMlOe.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-07 04:00:03"
+        },
+        {
+          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este martes 9 de diciembre",
+          "link": "https://www.iprofesional.com/economia/443535-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-martes-9-de-diciembre",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-06 23:13:00"
+        },
+        {
+          "titulo": "Cómo comprar dólares baratos sin mayores complicaciones: los detalles",
+          "link": "https://www.minutouno.com/economia/como-comprar-dolares-baratos-mayores-complicaciones-los-detalles-n6220974",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 16:29:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "iProfesional",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_pago_aguinaldo_20251207",
+      "tema": "Argentina: Pago aguinaldo diciembre 2025",
+      "tema_normalizado": "argentina: pago aguinaldo diciembre 2025",
+      "resumen": "📌 **¿Qué está pasando?**\n• Los trabajadores registrados en Argentina, incluyendo el personal de casas particulares, recibirán la segunda cuota del Sueldo Anual Complementario (SAC) en diciembre de 2025.\n• La fecha oficial de pago es el jueves 18 de diciembre, con una extensión legal máxima hasta el miércoles 24 de diciembre.\n• Jubilados y pensionados también percibirán su aguinaldo junto con sus haberes mensuales, según el calendario de ANSES.\n\n🔍 **Datos clave:**\n• **Fecha oficial de pago:** Jueves 18 de diciembre de 2025.\n• **Fecha límite de pago:** Miércoles 24 de diciembre de 2025 (permite hasta 4 días hábiles de tolerancia).\n• **Período de cálculo:** Julio a diciembre de 2025, tomando la mayor remuneración mensual bruta.\n• **Cálculo general:** 50% de la mayor remuneración mensual bruta devengada en el semestre.\n• **Bono extraordinario para empleadas domésticas:** Sumas no remunerativas en noviembre, diciembre y enero, que varían según horas trabajadas (ej: hasta $14.000 para jornadas >16hs).\n• **Bono de refuerzo para jubilados:** $70.000, un complemento directo al haber que no se suma al aguinaldo para su cálculo.\n\n⚡ **Desarrollo:**\n• El aguinaldo corresponde al 50% de la remuneración mensual más alta devengada por el trabajador entre julio y diciembre del año en curso, incluyendo todo concepto salarial.\n• Para quienes no hayan trabajado el semestre completo, el cálculo es proporcional: se toma el mejor salario mensual, se divide por doce y se multiplica por la cantidad de meses trabajados. Por ejemplo, con un sueldo de $100.000 y 6 meses trabajados, el aguinaldo es de $50.000.\n• Las empleadas domésticas deben considerar los aumentos del último acuerdo paritario, los cuales afectan la base de cálculo del aguinaldo, pero el bono extraordinario es un pago adicional y no remunerativo.\n• Los jubilados y pensionados cobran el aguinaldo junto con su prestación principal, comenzando los pagos para haberes mínimos el martes 9 de diciembre y para haberes superiores el miércoles 17 de diciembre, según la terminación de su DNI.\n• ANSES excluye del pago del aguinaldo a titulares de la Asignación Universal por Hijo (AUH), Asignación Universal por Embarazo (AUE) y quienes perciben haberes del SUAF, debido a que son prestaciones de carácter social y no laborales.\n• Un jubilado con el haber mínimo de $340.879,59, sumando el bono de $70.000 y la segunda cuota del SAC, podría recibir un total de $581.319,38 en diciembre de 2025.\n\n💡 **¿Por qué importa?**\n• El aguinaldo representa un ingreso adicional crucial para millones de argentinos de cara a las celebraciones y gastos de fin de año, impulsando el consumo y aliviando la economía familiar.\n• Su pago puntual es una obligación legal clave que garantiza los derechos laborales y previsionales, reflejando las diferencias en los beneficios entre distintos tipos de prestaciones.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Cuándo se le debe pagar el aguinaldo a las empleadas domésticas y cómo se calcula en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-se-le-debe-pagar-el-aguinaldo-a-las-empleadas-domesticas-y-como-se-calcula-en-diciembre-2025-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-06 22:05:00"
+        },
+        {
+          "titulo": "Cuándo es la fecha de pago del aguinaldo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-es-la-fecha-de-pago-del-aguinaldo-en-diciembre-2025-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-06 21:00:00"
+        },
+        {
+          "titulo": "ANSES: quiénes son los perjudicados que no podrán cobrar el aguinaldo en diciembre",
+          "link": "https://www.minutouno.com/economia/anses-quienes-son-los-perjudicados-que-no-podran-cobrar-el-aguinaldo-diciembre-n6220908",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 16:28:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "La Nación",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "argentina:_paritaria_empleados_20251207",
+      "tema": "Argentina: Paritaria Empleados de Comercio",
+      "tema_normalizado": "argentina: paritaria empleados de comercio",
+      "resumen": "📌 **¿Qué está pasando?**\n• El sindicato de Empleados de Comercio (FAECyS) y las principales cámaras empresarias del sector firmaron un nuevo acuerdo salarial.\n• Este pacto incluye el otorgamiento de una nueva suma fija no remunerativa y la extensión de otra ya existente.\n• El objetivo es recomponer el poder adquisitivo de los trabajadores y monitorear la evolución económica mediante una revisión futura.\n\n🔍 **Datos clave:**\n• **Nueva suma fija:** $60.000 mensuales no remunerativos.\n• **Suma fija extendida:** $40.000 mensuales no remunerativos.\n• **Periodo de pago $60.000:** Diciembre de 2025, Enero, Febrero y Marzo de 2026.\n• **Incorporación a básicos:** Ambas sumas ($60.000 y $40.000) se integran al salario básico nominal a partir de Abril de 2026.\n• **Vigencia del acuerdo:** Del 1° de Julio de 2025 hasta el 30 de Abril de 2026.\n• **Revisión paritaria:** Marzo de 2026.\n• **Partes firmantes:** FAECyS, CAC (Cámara Argentina de Comercio), CAME (Confederación Argentina de la Mediana Empresa), UDECA (Unión de Entidades Comerciales Argentinas).\n\n⚡ **Desarrollo:**\n• Se pactó una suma fija no remunerativa de $60.000, en carácter de recomposición, a abonarse en cada uno de los meses de diciembre, enero, febrero y marzo.\n• El monto correspondiente a marzo de 2026 de estos $60.000 se incorporará a los salarios básicos en su valor nominal a partir de abril del mismo año.\n• Asimismo, se acordó extender hasta marzo de 2026 inclusive el pago de la suma fija no remunerativa de $40.000, previamente establecida en junio de 2025.\n• La integración de ambas sumas ($40.000 y $60.000) a los básicos en abril de 2026 busca consolidar un aumento salarial permanente.\n• Aunque inicialmente no remunerativas (Art. 6, Ley 24.241), estas sumas deben considerarse para el cálculo de presentismo, vacaciones, aguinaldo e indemnizaciones.\n• Las partes se comprometieron a reunirse en marzo de 2026 para analizar las variaciones económicas que pudieran haber ocurrido y el impacto de la inflación.\n• El acuerdo aclara que los incrementos no son vinculantes para Río Grande (Tierra del Fuego), aunque las sumas pactadas funcionarán como mínimo convencional una vez homologadas.\n\n💡 **¿Por qué importa?**\n• Este convenio es fundamental para una vasta cantidad de trabajadores en Argentina, dado que la paritaria mercantil es una de las de mayor alcance a nivel nacional.\n• Proporciona una herramienta clave para la recomposición salarial y el seguimiento del poder adquisitivo en un contexto de alta inflación, a través de pagos fijos y una cláusula de revisión constante.",
+      "cantidad_noticias": 3,
+      "noticias": [
+        {
+          "titulo": "Paritaria de empleados de Comercio: se firmó una nueva suma fija mensual hasta marzo 2026",
+          "link": "https://www.clarin.com/economia/paritaria-empleados-comercio-firmo-nueva-suma-fija-mensual-marzo-2026_0_uwXSXCZpbu.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-06 12:56:45"
+        },
+        {
+          "titulo": "Empleados de Comercio firmaron un nuevo acuerdo salarial: todos los detalles",
+          "link": "https://www.minutouno.com/economia/empleados-comercio-firmaron-un-nuevo-acuerdo-salarial-todos-los-detalles-n6221504",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-06 09:25:00"
+        },
+        {
+          "titulo": "Empleados de comercio cierra $60.000 no remunerativos: quiénes y cuándo lo cobran",
+          "link": "https://www.iprofesional.com/impuestos/443519-empleados-de-comercio-cierra-60000-no-remunerativos-quienes-y-cuando-lo-cobran",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-06 07:40:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-07",
+      "fuentes": [
+        "iProfesional",
+        "Clarín",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
