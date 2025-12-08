@@ -1,90 +1,102 @@
 {
   "fecha": "2025-12-08",
-  "fecha_generacion": "2025-12-08T09:28:45.976442",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-08T12:37:40.881507",
+  "total_temas": 4,
   "temas": [
     {
-      "tema_id": "conflicto_rusia-ucrania_20251208",
-      "tema": "Conflicto Rusia-Ucrania",
-      "tema_normalizado": "conflicto rusia-ucrania",
-      "resumen": "📌 **¿Qué está pasando?**\n• El conflicto entre Rusia y Ucrania continúa con una escalada de ataques aéreos y avances terrestres rusos.\n• Rusia derriba drones ucranianos en su territorio, mientras sus fuerzas aprovechan el mal clima para intensificar asaltos en Ucrania.\n• Simultáneamente, se desarrollan esfuerzos diplomáticos para la paz, marcados por tensiones y desacuerdos sobre las propuestas.\n\n🔍 **Datos clave:**\n• **6 de diciembre:** Rusia derriba cinco drones ucranianos sobre la región de Leningrado, a más de 700 kilómetros de la frontera.\n• **116 drones:** Cantidad de drones ucranianos derribados por Rusia en diez regiones días antes.\n• **505 kilómetros cuadrados:** Territorio ganado por Rusia en noviembre, según la plataforma DeepState, la misma superficie que en los dos meses anteriores combinados.\n• **Febrero (pasado):** Daño al \"sarcófago\" que protege la central nuclear de Chernóbil por un dron explosivo ruso.\n• **Rafael Grossi:** Director General del OIEA, instó a reparar la estructura de Chernóbil y destacó la urgencia de una solución al conflicto.\n\n⚡ **Desarrollo:**\n• Ucrania lanza drones de ataque contra territorio ruso con el objetivo de dañar su sistema energético, procesamiento de petróleo y logística militar.\n• Las defensas antiaéreas rusas están activas, derribando drones y provocando interrupciones temporales en aeropuertos por seguridad, como los de Yaroslavl y Tambov.\n• En el frente, la niebla persistente y las lluvias frecuentes reducen drásticamente la efectividad de los drones ucranianos, lo que favorece la intensificación de los asaltos rusos.\n• El mal tiempo daña rápidamente los componentes electrónicos de los drones, obligando a Ucrania a usarlos de forma más conservadora debido a la escasez y la falta de infantería para recuperar terreno.\n• El presidente Volodímir Zelenski se reunió con aliados europeos en Londres, como el primer ministro británico Keir Starmer y el presidente francés Emmanuel Macron, tras ser cuestionado por Donald Trump sobre la demora en responder a un plan de paz.\n• Un plan de paz preliminar de EE. UU. proponía que Ucrania cediera territorios no controlados plenamente por Rusia a cambio de garantías de seguridad por debajo del estándar de la OTAN, siendo esta propuesta parcialmente rechazada por el Kremlin.\n• El Organismo Internacional de Energía Atómica (OIEA) alertó que la estructura protectora de la central nuclear de Chernóbil, dañada por un dron ruso, ha perdido sus funciones de seguridad primarias, incluyendo la capacidad de contención.\n• Se han realizado reparaciones temporales limitadas en Chernóbil, y se prevén más con apoyo del Banco Europeo para la Reconstrucción y el Desarrollo (BERD), con una restauración completa planificada para después del conflicto.\n\n💡 **¿Por qué importa?**\n• El conflicto mantiene una amenaza constante a la seguridad regional y global, incluyendo el riesgo de incidentes nucleares si no se reparan estructuras clave como la de Chernóbil.\n• La interacción entre la tecnología militar (drones) y las condiciones climáticas resalta la complejidad y las consecuencias tácticas del combate moderno, influyendo directamente en los avances territoriales.\n• Los continuos intentos diplomáticos internacionales, a pesar de las dificultades y los desacuerdos, subrayan la urgencia global de encontrar una solución duradera a la guerra.",
-      "cantidad_noticias": 4,
+      "tema_id": "cotizacion_dolar_y_20251208",
+      "tema": "Cotización dólar y euro Argentina",
+      "tema_normalizado": "cotizacion dolar y euro argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina enfrenta un panorama cambiario complejo con múltiples cotizaciones de dólar y euro activas este lunes 8 de diciembre de 2025.\n• Las diversas variantes del dólar (oficial, blue, tarjeta, CCL, MEP, cripto) y del euro (oficial, blue) muestran valores diferentes, reflejando las particularidades del mercado.\n• En este contexto, los ahorristas están buscando cada vez más alternativas de inversión que vayan más allá del dólar tradicional.\n\n🔍 **Datos clave:**\n• **Fecha central:** Lunes 8 de diciembre de 2025.\n• **Dólar Oficial (BNA, 8 dic):** Compra $1.415, Venta $1.435.\n• **Dólar Blue (8 dic):** Compra $1.415, Venta $1.435. (Brecha con dólar oficial: 0% según una de las fuentes).\n• **Dólar Tarjeta (8 dic):** $1.504.\n• **Dólar CCL (8 dic):** Compra $1.504, Venta $1.504.\n• **Dólar MEP (8 dic):** Compra $1.475,90, Venta $1.479,60.\n• **Dólar Cripto (8 dic):** Compra $1.487,17, Venta $1.504,70.\n• **Euro Oficial (8 dic):** Compra $1.684,29, Venta $1.688,03.\n• **Euro Blue (8 dic):** Compra $1.636,12, Venta $1.659,41.\n• **Inflación Octubre 2025 (Indec):** 2,3%, segundo mes consecutivo superando el 2%.\n\n⚡ **Desarrollo:**\n• El **Dólar Blue** es la divisa que circula en el mercado informal, sin límites de compra, y su nombre remite a algo \"oscuro\" o a operaciones con \"blue chips\".\n• El **Dólar Tarjeta** se utiliza para consumos y compras de pasajes o paquetes turísticos en el exterior, incorporando al dólar oficial un 60% de impuestos (30% Impuesto PAÍS y 30% Ganancias).\n• El **Dólar CCL** (Contado Con Liquidación) y el **Dólar MEP** (Mercado Electrónico de Pagos) son herramientas financieras que permiten obtener dólares legalmente, el CCL incluso para sacarlos del país.\n• El **Dólar Cripto** es una cotización basada en la compraventa de criptomonedas estables (\"stablecoins\") ligadas al dólar estadounidense.\n• Históricamente, el dólar blue experimentó fuertes escaladas, como un aumento de $205 en 2024, y en lo que va de 2025, acumula un 37% de suba respecto al año anterior.\n• Un analista financiero pronostica mayor calma macroeconómica y sin riesgo cambiario abrupto para 2026, lo que podría reducir las tasas de interés.\n• En 2025, el **oro** se consolidó como la inversión más sólida, superando a plazos fijos, acciones y las diversas variantes del dólar, especialmente en noviembre.\n• El **Euro Blue** surgió como respuesta a las restricciones para adquirir moneda extranjera aplicadas desde 2011 y profundizadas con el \"cepo\" cambiario a partir de 2019.\n\n💡 **¿Por qué importa?**\n• La existencia de múltiples cotizaciones del dólar y el euro en Argentina refleja la complejidad y las regulaciones del mercado cambiario, afectando precios, ahorros y decisiones de inversión.\n• La tendencia de los argentinos a diversificar sus ahorros hacia instrumentos como el oro y bonos, alejándose del dólar, muestra un cambio en las estrategias de inversión en un contexto de cierta estabilidad cambiaria y una inflación moderada.",
+      "cantidad_noticias": 13,
       "noticias": [
         {
-          "titulo": "Rusia derriba cinco drones ucranianos sobre  la región de Leningrado",
-          "link": "https://www.infobae.com/america/agencias/2025/12/06/rusia-derriba-cinco-drones-ucranianos-sobre-la-region-de-leningrado/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-08 06:16:15"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este lunes 8 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-lunes-8-de-diciembre-nid08122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 08:45:02"
         },
         {
-          "titulo": "Zelensky se reúne con los aliados europeos en Londres luego de que Trump lo cuestionara por demorar la respuesta a su plan de paz",
-          "link": "https://www.infobae.com/america/mundo/2025/12/08/zelensky-se-reune-con-los-aliados-europeos-en-londres-luego-de-que-trump-lo-cuestionara-por-demorar-la-respuesta-a-su-plan-de-paz/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-08 02:50:22"
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este lunes 8 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-lunes-8-diciembre-n6221454",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-08 07:20:00"
         },
         {
-          "titulo": "La guerra con Rusia: la niebla y la lluvia frenan a los drones de Ucrania y favorecen los asaltos rusos",
-          "link": "https://www.clarin.com/mundo/guerra-rusia-niebla-lluvia-frenan-drones-ucrania-favorecen-asaltos-rusos_0_MpMR6c55x8.html",
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-lunes-08-diciembre_0_Nt1k53GnGD.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-07 19:29:16"
+          "fecha": "2025-12-08 07:08:01"
         },
         {
-          "titulo": "Alerta en Chernobyl por una estructura dañada durante un bombardeo ruso que podría dejar pasar radiación",
-          "link": "https://www.clarin.com/mundo/alerta-chernobyl-estructura-danada-bombardeo-ruso-podria-dejar-pasar-radiacion_0_hDm7vnGdxa.html",
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-lunes-08-diciembre_0_kK7jFcmvJN.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-07 18:59:29"
+          "fecha": "2025-12-08 07:08:01"
+        },
+        {
+          "titulo": "Dólar cripto hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-lunes-08-diciembre_0_6Cy6ZHTyDy.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-08 07:05:02"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-lunes-08-diciembre_0_1Xi88TjWIh.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-08 07:05:02"
+        },
+        {
+          "titulo": "Euro hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/euro-hoy-cotiza-lunes-08-diciembre_0_4KhBE8bTJF.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-08 07:00:01"
+        },
+        {
+          "titulo": "Real hoy y real blue hoy: a cuánto cotiza y cuál es el precio de la moneda brasileña este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/real-hoy-real-blue-hoy-cotiza-precio-moneda-brasilena-lunes-08-diciembre_0_C1db46cwOc.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-08 07:00:01"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto cotiza este lunes 08 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-08-diciembre_0_VqhSncBEqY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-08 04:00:01"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este lunes 8 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-lunes-8-de-diciembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-07 17:55:58"
+        },
+        {
+          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este lunes 8 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-lunes-8-de-diciembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-07 17:47:07"
+        },
+        {
+          "titulo": "Qué dijo el \"gurú del blue\" sobre el dólar, tasas e inflación: el pronóstico para 2026 y cuáles son las mejores opciones para invertir",
+          "link": "https://www.ambito.com/economia/que-dijo-el-guru-del-blue-el-dolar-tasas-e-inflacion-el-pronostico-2026-y-cuales-son-las-mejores-opciones-invertir-n6221718",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-07 14:30:00"
+        },
+        {
+          "titulo": "El dólar se aleja de los preferidos: las inversiones que más potenciaron el ahorro de los argentinos",
+          "link": "https://www.ambito.com/economia/el-dolar-se-aleja-los-preferidos-las-inversiones-que-mas-potenciaron-el-ahorro-los-argentinos-n6220470",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-07 14:30:00"
         }
       ],
-      "categoria_principal": "internacional",
+      "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-08",
       "fuentes": [
         "Clarín",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "conflicto_israel-hamas_en_20251208",
-      "tema": "Conflicto Israel-Hamás en Gaza",
-      "tema_normalizado": "conflicto israel-hamas en gaza",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Israel y Hamás se preparan para avanzar a la \"segunda fase\" de su acuerdo de alto el fuego en la Franja de Gaza, mediado por Estados Unidos.\n*   Esta nueva etapa tiene como objetivos principales el desarme de Hamás, la conformación de una autoridad transitoria para Gaza y el despliegue de una fuerza internacional de estabilización.\n*   La transición ocurre tras la reciente devolución de los restos del último rehén israelí, completando así una parte crucial de la primera fase del acuerdo.\n\n🔍 **Datos clave:**\n*   **10 de octubre:** Fecha en que la tregua inicial entró en vigor.\n*   **Ran Gvili:** Nombre del soldado israelí, el último rehén cuyos restos fueron entregados por Hamás.\n*   **28 rehenes muertos:** Número total de cuerpos de rehenes devueltos por Hamás.\n*   **20 rehenes vivos y ~2000 prisioneros palestinos:** Cifras del intercambio en la primera fase del acuerdo.\n*   **Finales de diciembre:** Mes en que el primer ministro Netanyahu se reunirá con Donald Trump en Washington.\n*   **70.100 palestinos fallecidos:** Cifra de víctimas palestinas desde el inicio del conflicto, según el Ministerio de Salud de Gaza mencionado en las noticias.\n*   **370 víctimas palestinas:** Reportadas por el Ministerio de Salud de Gaza desde el inicio de la tregua.\n\n⚡ **Desarrollo:**\n*   El primer ministro israelí, Benjamin Netanyahu, ha confirmado que la segunda fase del acuerdo será \"tan difícil o incluso más difícil\" que la primera.\n*   Los tres pilares de esta nueva etapa incluyen el desarme total de Hamás, la formación de un gobierno palestino tecnocrático provisional en Gaza supervisado internacionalmente y el despliegue de una fuerza de seguridad internacional.\n*   Netanyahu también mencionó una \"tercera fase\" para la \"desradicalización\" de Gaza, una vez que Hamás sea desmantelado.\n*   La primera fase de la tregua implicó la liberación de rehenes vivos y la entrega de cuerpos de víctimas por parte de Hamás a cambio de prisioneros palestinos.\n*   Hamás entregó los restos del soldado Ran Gvili, completando un compromiso de la primera fase, aunque alegó dificultades por los escombros y bombardeos israelíes.\n*   Netanyahu viajará a Washington para reunirse con Donald Trump y discutir \"oportunidades de paz\" en la región y el fin del dominio de Hamás.\n*   El canciller alemán, Friedrich Merz, visitó Israel, reafirmó el compromiso de Alemania con la seguridad israelí y anunció colaboración en la segunda fase, incluyendo el envío de oficiales y ayuda humanitaria.\n*   El ejército israelí informó que sus tropas se han replegado a una \"Línea Amarilla\" en Gaza, que funciona como una nueva línea defensiva y de actividad operativa para sus comunidades.\n\n💡 **¿Por qué importa?**\n*   Este avance representa un intento significativo de establecer una solución a largo plazo para la seguridad y la administración de la Franja de Gaza, con implicaciones profundas para la estabilidad regional.\n*   La complejidad de los objetivos de la segunda fase, especialmente el desarme de Hamás y la creación de una autoridad de gobierno transitoria, requerirá un considerable esfuerzo diplomático y un fuerte respaldo internacional.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Netanyahu confirmó que Israel iniciará \"muy pronto\" la segunda fase del cese el fuego en Gaza",
-          "link": "https://www.minutouno.com/mundo/netanyahu-confirmo-que-israel-iniciara-muy-pronto-la-segunda-fase-del-cese-el-fuego-gaza-n6221795",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-07 22:51:00"
-        },
-        {
-          "titulo": "Netanyahu anticipa que la segunda fase del plan para Gaza está “cerca” y el Ejército repliega sus líneas",
-          "link": "https://www.lanacion.com.ar/el-mundo/netanyahu-anticipa-que-la-segunda-fase-del-plan-para-gaza-esta-cerca-y-el-ejercito-repliega-sus-nid07122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-07 17:49:53"
-        },
-        {
-          "titulo": "Benjamin Netanyahu anticipó una nueva fase de alto de fuego entre Israel y Hamás",
-          "link": "https://www.ambito.com/mundo/benjamin-netanyahu-anticipo-una-nueva-fase-alto-fuego-israel-y-hamas-n6221708",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 14:16:00"
-        },
-        {
-          "titulo": "Hamas entregará a Israel los restos del último rehén que quedaba en Gaza",
-          "link": "https://www.clarin.com/mundo/hamas-entregara-israel-restos-ultimo-rehen-quedaba-gaza_0_V0vsINYpu0.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 13:31:21"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "Minuto1",
         "La Nación",
         "Ámbito Financiero",
-        "Clarín"
+        "Perfil",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -92,12 +104,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "reforma_laboral_argentina_20251208",
-      "tema": "Reforma laboral Argentina actual",
-      "tema_normalizado": "reforma laboral argentina actual",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino está impulsando una ambiciosa reforma laboral con el objetivo de flexibilizar el mercado de trabajo y reducir los costos para las empresas.\n• La propuesta busca fomentar la inversión y la creación de empleo formal, modificando aspectos clave como indemnizaciones, derechos sindicales y convenios colectivos.\n\n🔍 **Datos clave:**\n• **RIMI (Régimen de Incentivo para Medianas Inversiones):** Destinado a empresas con inversiones productivas desde USD 150.000 hasta USD 30.000.000.\n• **FAL (Fondo de Asistencia Laboral):** Nuevo sistema de financiación de despidos con un aporte obligatorio del 3% de las remuneraciones por parte de las empresas.\n• **Huelgas:** Exige servicios mínimos del 75% en servicios esenciales y del 50% en actividades de \"importancia trascendental\".\n• **Aportes Mayoristas:** CADAM critica aportes obligatorios como INACAP (0,5% del salario) y La Estrella (1,6% del salario).\n• **Salario Real:** Cifras indican una caída del 13% del salario real desde 2017.\n• **Sesiones Extraordinarias:** Convocadas hasta el 30 de diciembre, con el Presupuesto 2026 como prioridad inicial.\n\n⚡ **Desarrollo:**\n• El proyecto busca reducir los costos laborales de las empresas al excluir conceptos como vacaciones, aguinaldo o premios del cálculo de indemnizaciones por despido.\n• Se propone la creación del RIMI, con incentivos fiscales como amortización acelerada en Ganancias y devolución de créditos de IVA, para impulsar inversiones productivas en bienes muebles nuevos y obras.\n• Se limitan los derechos sindicales, exigiendo autorización patronal para asambleas y recortando el derecho a huelga en actividades críticas, además de dar preeminencia a los convenios por empresa sobre los de actividad.\n• La ultractividad de los convenios colectivos se modificaría, manteniendo solo las condiciones de trabajo si no hay acuerdo de partes.\n• Las PYMES, que representan el 99% del empresariado, demandan cambios para reducir la litigiosidad y la imprevisibilidad de costos, así como una simplificación de las contribuciones.\n• El proceso legislativo es complejo; aunque se espera la presentación formal en el Consejo de Mayo, el consenso para la aprobación de la reforma laboral en el Congreso aún es limitado y podría requerir la extensión de las sesiones extraordinarias.\n\n💡 **¿Por qué importa?**\n• La reforma busca modernizar la legislación laboral argentina para fomentar la inversión y la creación de empleo formal, lo que podría tener un impacto económico significativo.\n• Genera un intenso debate entre el Gobierno, el sector empresarial (especialmente PYMES) y los sindicatos, afectando las condiciones laborales y el poder gremial.",
-      "cantidad_noticias": 7,
+      "tema_id": "debate_y_avance_20251208",
+      "tema": "Debate y avance reforma laboral",
+      "tema_normalizado": "debate y avance reforma laboral",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino busca aprobar una reforma laboral clave en el Congreso, durante sesiones extraordinarias del 10 al 30 de diciembre.\n• La iniciativa busca modernizar las leyes, reducir costos empresariales y flexibilizar condiciones laborales.\n• Genera debate intenso, con negociaciones en el Senado y el rechazo de los sindicatos.\n\n🔍 **Datos clave:**\n• **Fechas:** Sesiones extraordinarias del 10 al 30 de diciembre, con posible prórroga a enero/febrero.\n• **Actores principales:** Patricia Bullrich (Gobierno, líder de negociación), CGT (sindicatos), CADAM (cámaras mayoristas).\n• **Fondo de Asistencia Laboral (FAL):** Propone un aporte del 3% de las remuneraciones empresarias al SIPA.\n• **Servicios mínimos en huelgas:** 75% en actividades esenciales; 50% en actividades de importancia trascendental.\n• **RIMI (Inversiones PyMEs):** Montos de inversión desde USD 150.000 (micro) a USD 30.000.000 (grandes empresas).\n\n⚡ **Desarrollo:**\n• El Gobierno, con Patricia Bullrich al frente en el Senado, acelera las negociaciones y evalúa incorporar cambios para asegurar la media sanción.\n• La reforma propone reducir la base de cálculo de indemnizaciones, excluyendo conceptos como aguinaldo o vacaciones.\n• Elimina la ultractividad de los convenios colectivos, priorizando los acuerdos por empresa y limitando el poder sindical.\n• Incluye restricciones al derecho a huelga y asambleas, exigiendo servicios mínimos obligatorios y autorización patronal previa para reuniones.\n• Cámaras empresarias como CADAM apoyan la reforma para eliminar aportes obligatorios que encarecen el empleo formal y afectan la competitividad.\n• La CGT rechaza frontalmente los cambios en salarios, indemnizaciones y el derecho a huelga, sin descartar posibles medidas de fuerza.\n• También se introduce el RIMI (Régimen de Incentivo para Medianas Inversiones), con beneficios fiscales para PyMEs que realicen inversiones productivas, buscando fomentar el empleo.\n\n💡 **¿Por qué importa?**\n• La reforma busca transformar el modelo laboral argentino, impactando directamente en las relaciones laborales, costos empresariales y derechos sindicales.\n• Su aprobación redefiniría el esquema del mercado de trabajo y la competitividad económica del país a largo plazo.",
+      "cantidad_noticias": 9,
       "noticias": [
+        {
+          "titulo": "Reforma laboral: libertarios definen la estrategia para el inicio de las sesiones extraordinarias en el Senado",
+          "link": "https://www.infobae.com/politica/2025/12/08/reforma-laboral-libertarios-definen-la-estrategia-para-el-inicio-de-las-sesiones-extraordinarias-en-el-senado/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-08 09:07:48"
+        },
+        {
+          "titulo": "El Gobierno acelera la negociación por la reforma laboral y evalúa incorporar cambios",
+          "link": "https://www.minutouno.com/politica/el-gobierno-acelera-la-negociacion-la-reforma-laboral-y-evalua-incorporar-cambios-n6221815",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-08 08:25:00"
+        },
+        {
+          "titulo": "El supermercadismo mayorista rechaza la paritaria de Comercio y reclama la reforma laboral",
+          "link": "https://www.perfil.com/noticias/economia/el-supermercadismo-mayorista-rechaza-la-paritaria-de-comercio-y-reclama-la-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-08 07:32:55"
+        },
+        {
+          "titulo": "Reforma laboral: impulsan actualización de quebrantos y eliminación de Impuestos Internos para autos",
+          "link": "https://www.iprofesional.com/impuestos/443546-reforma-laboral-impulsan-actualizacion-de-quebrantos-y-eliminacion-de-internos-para-autos",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-08 05:18:00"
+        },
         {
           "titulo": "La reforma laboral impulsa un RIGI para pymes: qué beneficios fiscales tienen las inversiones",
           "link": "https://www.iprofesional.com/impuestos/443555-la-reforma-laboral-impulsa-un-rigi-para-pymes-los-beneficios-fiscales-para-inversiones",
@@ -123,29 +159,20 @@
           "fecha": "2025-12-07 17:50:00"
         },
         {
-          "titulo": "Reforma laboral: a la espera del proyecto oficial, Patricia Bullrich presiona para tratarlo en el Senado",
-          "link": "https://www.clarin.com/politica/reforma-laboral-espera-proyecto-oficial-patricia-bullrich-presiona-tratarlo-senado_0_ZcI6gxhnfj.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 17:08:35"
-        },
-        {
           "titulo": "La Libertad Avanza fija fecha para dictamen del Presupuesto 2026 pero faltan consensos para la reforma laboral",
           "link": "https://www.ambito.com/politica/la-libertad-avanza-fija-fecha-dictamen-del-presupuesto-2026-pero-faltan-consensos-la-reforma-laboral-n6221684",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-07 13:06:00"
-        },
-        {
-          "titulo": "Qué cambios piden las pymes en la legislación laboral",
-          "link": "https://www.clarin.com/economia/cambios-piden-pymes-legislacion-laboral_0_oOfduyqqK6.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 07:00:53"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-08",
       "fuentes": [
+        "Infobae",
         "Clarín",
+        "Minuto1",
         "Ámbito Financiero",
+        "Perfil",
         "iProfesional"
       ],
       "es_tema_nuevo": true,
@@ -154,248 +181,167 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "gendarme_gallo_detenido_20251208",
-      "tema": "Gendarme Gallo detenido Venezuela",
-      "tema_normalizado": "gendarme gallo detenido venezuela",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gendarme argentino Nahuel Gallo lleva un año detenido en Venezuela desde el 8 de diciembre de 2024.\n• Fue presuntamente secuestrado por autoridades venezolanas y está imputado por cargos de \"vinculación a acciones terroristas\" y “espionaje”.\n• El Gobierno argentino considera la detención \"arbitraria e ilegal\" y denunció el caso ante organismos internacionales.\n\n🔍 **Datos clave:**\n• **Fecha de detención:** 8 de diciembre de 2024.\n• **Nombre del detenido:** Nahuel Gallo, gendarme argentino (cabo primero).\n• **Cargos venezolanos:** \"Vinculación a acciones terroristas\", \"espionaje\", \"acciones conspirativas\".\n• **Lugar de detención:** Principalmente la Cárcel de El Rodeo (Internado Judicial El Rodeo), afueras de Caracas.\n• **Actores involucrados:** Nicolás Maduro (presidente de Venezuela), Javier Milei (presidente de Argentina), María Alexandra Gómez (esposa).\n\n⚡ **Desarrollo:**\n• Gallo intentaba ingresar a Venezuela por la frontera con Colombia para visitar a su esposa e hijo, estando de licencia por vacaciones y con papeles en regla.\n• El fiscal general de Venezuela, Tarek William Saab, reconoció a la esposa que la detención \"había sido un error\", pero que escaló por un \"conflicto diplomático\".\n• Argentina, bajo la administración de Javier Milei, denunció el caso ante la ONU, la OEA y la Corte Penal Internacional (CPI), calificándolo de \"desaparición forzada\" y \"delito de lesa humanidad\".\n• La esposa y la madre de Gallo han reclamado su liberación, expresando angustia y la falta total de comunicación directa con él desde su detención.\n• Un excompañero de celda, Iván Colmenares, liberado en octubre pasado, confirmó que Gallo se encuentra en buen estado físico, pero permanece incomunicado, lo que viola derechos humanos.\n• El caso ha tensado la relación entre Argentina y Venezuela, países que no mantienen relaciones diplomáticas.\n\n💡 **¿Por qué importa?**\n• La detención de Nahuel Gallo es un incidente diplomático y humanitario que refleja las tensiones políticas entre Argentina y Venezuela.\n• Resalta preocupaciones sobre la arbitrariedad en detenciones y violaciones a los derechos humanos en Venezuela, afectando directamente a una familia argentina.",
-      "cantidad_noticias": 3,
+      "tema_id": "pagos_diciembre_y_20251208",
+      "tema": "Pagos diciembre y aguinaldo ANSES",
+      "tema_normalizado": "pagos diciembre y aguinaldo anses",
+      "resumen": "📌 **¿Qué está pasando?**\n*   En diciembre de 2025, ANSES realiza la distribución de jubilaciones, pensiones y diversas asignaciones con un ajuste del 2,34% y la entrega de la segunda cuota del Sueldo Anual Complementario (SAC) o aguinaldo.\n*   Adicionalmente, se abona un bono extraordinario de $70.000 para jubilados y pensionados con haberes mínimos, así como para titulares de Pensiones No Contributivas (PNC) y la Pensión Universal para el Adulto Mayor (PUAM).\n*   Estos pagos buscan reforzar el ingreso de millones de argentinos, incluyendo trabajadores activos y beneficiarios de programas sociales, en el cierre del año.\n\n🔍 **Datos clave:**\n*   **Aumento ANSES:** 2,34% (aplicado a jubilaciones, pensiones y asignaciones, basado en el IPC de octubre).\n*   **Bono Extraordinario:** $70.000 (para haberes mínimos, PUAM y PNC; proporcional para otros).\n*   **Aguinaldo (SAC):** 50% de la mayor remuneración mensual del semestre julio-diciembre.\n*   **Fecha límite aguinaldo (trabajadores activos):** 18 de diciembre (con extensión hasta el 24 de diciembre).\n*   **Jubilación Mínima total (con bono y aguinaldo):** $581.319,38.\n*   **PUAM total (con bono y aguinaldo):** $479.055,51.\n*   **PNC por invalidez o vejez total (con bono y aguinaldo):** $427.923,56.\n*   **AUH:** $122.492.\n*   **Programa Volver al Trabajo (ex Potenciar Trabajo):** $78.000 (cobro el 5 de diciembre, sin cambios).\n*   **Tarjeta Alimentar:** Montos sin cambios, entre $52.250 y $108.062, según el grupo familiar.\n*   **Libreta AUH:** Plazo de presentación hasta el 31 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n*   **Jubilaciones y Pensiones:** Los beneficiarios de ANSES reciben el 2,34% de aumento en sus haberes, el bono de $70.000 (para quienes cumplen los requisitos) y el aguinaldo, todos en la misma fecha de cobro según la terminación de su DNI.\n*   **Otras Prestaciones ANSES:** La Asignación Universal por Hijo (AUH) y las Asignaciones Familiares también se ajustan en 2,34%. La AUH por Hijo con Discapacidad llega a $398.853 y la Asignación Familiar por Hijo a $61.251,51 para el primer rango de ingresos.\n*   **Programas Sociales:** El programa Volver al Trabajo (y Acompañamiento Social) se mantiene en $78.000, y la Tarjeta Alimentar no presenta modificaciones en sus montos para diciembre de 2025.\n*   **Aguinaldo para Trabajadores Activos:** Para quienes están en relación de dependencia, la segunda cuota del aguinaldo debe abonarse hasta el 18 de diciembre, con un plazo extendido hasta el 24 de diciembre, y se calcula sobre el mejor sueldo del semestre.\n*   **Sectores Específicos:** Gremios como Empleados de Comercio ($100.000 en sumas fijas no remunerativas, además de un 1% de aumento), Metalúrgicos ($35.000 no remunerativos) y Bancarios (2,3% de aumento, llevando el salario inicial a $1.959.956,26) también perciben sus respectivos ajustes salariales y el aguinaldo.\n*   **Servicio Doméstico:** Reciben un 1,3% de aumento y un bono extraordinario (entre $6.000 y $14.000, según las horas trabajadas) además del aguinaldo, con un calendario similar al resto de los trabajadores.\n*   **Calendario de Pagos:** ANSES ha oficializado el cronograma completo de pagos de diciembre de 2025 para todas sus prestaciones, detallado por terminación de DNI, facilitando la consulta de las fechas específicas.\n\n💡 **¿Por qué importa?**\n*   Estos pagos combinados son cruciales para millones de argentinos, brindando un soporte económico significativo en un mes con altos gastos debido a las festividades.\n*   Los ajustes y bonos buscan compensar la inflación, especialmente para los sectores más vulnerables y los jubilados con haberes más bajos.",
+      "cantidad_noticias": 28,
       "noticias": [
         {
-          "titulo": "Se cumple un año de la detención del gendarme Nahuel Gallo en Venezuela: qué se sabe del caso",
-          "link": "https://www.ambito.com/mundo/se-cumple-un-ano-la-detencion-del-gendarme-nahuel-gallo-venezuela-que-se-sabe-del-caso-n6221794",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 22:28:19"
-        },
-        {
-          "titulo": "A un año de su detención arbitraria, un ex compañero de celda cuenta detalles de cómo vive el gendarme rehén del chavismo en Venezuela",
-          "link": "https://www.clarin.com/politica/ano-detencion-arbitraria-ex-companero-celda-cuenta-detalles-vive-gendarme-rehen-chavismo-venezuela_0_NQFfJM3n9S.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 19:37:28"
-        },
-        {
-          "titulo": "La mujer del gendarme argentino detenido en Venezuela reclamó que lo liberen: “No soporto un minuto más”",
-          "link": "https://www.lanacion.com.ar/politica/la-mujer-del-gendarme-argentino-detenido-en-venezuela-reclamo-que-lo-liberen-no-soporto-un-minuto-nid07122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-07 18:13:37"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "dolar_blue_y_20251208",
-      "tema": "Dólar blue y mercado cambiario argentino",
-      "tema_normalizado": "dolar blue y mercado cambiario argentino",
-      "resumen": "📌 **¿Qué está pasando?**\n• El mercado cambiario argentino muestra una inusual estabilidad al cierre de 2025, con el dólar blue y oficial cotizando a $1415 (compra) y $1435 (venta) el 8 de diciembre.\n• Esta estabilidad se basa en un esquema de bandas cambiarias y el aumento estacional de la demanda de pesos; la brecha entre el oficial y el blue es del 0% en la fecha reportada.\n• Analistas como Salvador Di Stefano anticipan un 2026 con mayor calma macroeconómica y sin riesgos cambiarios abruptos.\n\n🔍 **Datos clave:**\n• **Dólar blue y oficial (08/12/2025):** $1415 (compra) / $1435 (venta).\n• **Aumento dólar oficial 2025:** 40%, superando la inflación.\n• **Dólar blue 2025:** Subió 37% respecto a 2024 y 1% en diciembre vs. noviembre.\n• **Superávit cuenta corriente 2025:** USD 505 millones acumulados.\n• **Exportaciones agro (acumulado anual):** US$ 36.964 millones.\n• **Demanda \"personas humanas\" (acumulado anual):** US$ 37.262 millones.\n• **Ministro de Economía:** Luis Caputo.\n• **Analistas destacados:** Salvador Di Stefano, Miguel Kiguel, Hernán Lacunza, Nicolás Gadano.\n\n⚡ **Desarrollo:**\n• La estabilidad se atribuye a fuerzas contrapuestas: demanda de pesos por aguinaldos y liquidación de exportaciones agro, equilibrando la demanda de divisas para atesoramiento o turismo.\n• El Ministerio de Economía mantiene un esquema de bandas cambiarias con ajustes mensuales del 1% en los extremos, buscando estabilidad cambiaria.\n• Luis Caputo inició el regreso al mercado de deuda global con un bono en dólares para testear el apetito inversor y refinanciar vencimientos por más de u$s1.000 millones.\n• Expertos como Miguel Kiguel resaltan la urgencia de acumular reservas para reducir la dependencia de auxilios externos.\n• Hernán Lacunza alerta sobre una \"restricción interna\", donde la demanda de dólares de individuos excede la oferta, pese a los aportes de energía y agro.\n• Se proyecta una recuperación de la demanda de pesos en 2026, ya que la dolarización pre-electoral de 2025 podría revertirse ante un escenario de mayor certidumbre.\n• La estabilidad cambiaria ha incentivado buscar alternativas de inversión más rentables; el oro, plazos fijos y el Merval superaron al dólar en 2025.\n\n💡 **¿Por qué importa?**\n• La estabilidad y proyecciones de calma para 2026 pueden generar mayor previsibilidad económica, incentivando ahorro, consumo e inversiones productivas.\n• La gestión de reservas, la estrategia de deuda y la recuperación de la demanda de pesos son cruciales para consolidar este escenario y avanzar hacia un régimen cambiario flexible.",
-      "cantidad_noticias": 7,
-      "noticias": [
-        {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este lunes 08 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-08-diciembre_0_VqhSncBEqY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 04:00:01"
-        },
-        {
-          "titulo": "Dólar: por qué en el fin de año se consolida una inusual estabilidad cambiaria",
-          "link": "https://www.infobae.com/economia/2025/12/08/dolar-por-que-en-el-fin-de-ano-se-consolida-una-inusual-estabilidad-cambiaria/",
+          "titulo": "Cuánto cobran los empleados de comercio en diciembre 2025, tras el último aumento paritario",
+          "link": "https://www.infobae.com/economia/2025/12/08/cuanto-cobran-los-empleados-de-comercio-en-diciembre-2025-tras-el-ultimo-aumento-paritario/",
           "fuente": "Infobae",
-          "fecha": "2025-12-08 02:43:35"
+          "fecha": "2025-12-08 08:32:33"
         },
         {
-          "titulo": "Qué dijo el \"gurú del blue\" sobre el dólar, tasas e inflación: el pronóstico para 2026 y cuáles son las mejores opciones para invertir",
-          "link": "https://www.ambito.com/economia/que-dijo-el-guru-del-blue-el-dolar-tasas-e-inflacion-el-pronostico-2026-y-cuales-son-las-mejores-opciones-invertir-n6221718",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 14:30:00"
-        },
-        {
-          "titulo": "El dólar se aleja de los preferidos: las inversiones que más potenciaron el ahorro de los argentinos",
-          "link": "https://www.ambito.com/economia/el-dolar-se-aleja-los-preferidos-las-inversiones-que-mas-potenciaron-el-ahorro-los-argentinos-n6220470",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 14:30:00"
-        },
-        {
-          "titulo": "Miguel Kiguel: “Hay que acumular reservas, los países fuertes no acuden a EEUU o al FMI”",
-          "link": "https://www.ambito.com/economia/miguel-kiguel-hay-que-acumular-reservas-los-paises-fuertes-no-acuden-eeuu-o-al-fmi-n6221635",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 10:29:00"
-        },
-        {
-          "titulo": "Nuevo bono en dólares: qué hay detrás de la estrategia de Caputo y a qué inversores apunta",
-          "link": "https://www.iprofesional.com/finanzas/443531-nuevo-bono-dolares-que-hay-detras-de-estrategia-luis-caputo",
+          "titulo": "ANSES 2026: este es el calendario de pagos completo y actualizado",
+          "link": "https://www.iprofesional.com/impuestos/443221-anses-2026-este-es-el-calendario-de-pagos-completo-y-actualizado",
           "fuente": "iProfesional",
-          "fecha": "2025-12-07 09:29:00"
+          "fecha": "2025-12-08 08:14:00"
         },
         {
-          "titulo": "Argentina, presa de la \"restricción interna\": los dólares no alcanzan para todos",
-          "link": "https://www.clarin.com/economia/argentina-presa-restriccion-interna-dolares-alcanzan_0_MluA4xHyQY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 08:06:52"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "iProfesional",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "gobierno_milei:_acciones_20251208",
-      "tema": "Gobierno Milei: Acciones y gestión",
-      "tema_normalizado": "gobierno milei: acciones y gestion",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno de Javier Milei está enfocándose en consolidar apoyo legislativo y una postura internacional firme.\n• Se observa una adaptación en la estrategia de comunicación y \"formas\" de los funcionarios para avanzar en la agenda de reformas.\n• Al mismo tiempo, el ejecutivo enfrenta desafíos políticos internos, como conflictos con entidades deportivas, y evalúa su imagen pública.\n\n🔍 **Datos clave:**\n• **49%:** Imagen positiva del Presidente Javier Milei al cierre de 2025 (encuesta Opina Argentina, 1.772 personas, Dic. 1-3).\n• **Cámara de Diputados:** Conformación del bloque \"Elijo Catamarca\" por Fernanda Ávila, Fernando Monguillot y Sebastián Nóblega, tras dejar Unión por la Patria, brindando apoyo clave al oficialismo.\n• **Oslo, 10 de diciembre:** Fecha y lugar de la ceremonia de entrega del Premio Nobel de la Paz a María Corina Machado, a la que asiste Milei con Karina Milei.\n• **Mar-a-Lago:** Residencia de Donald Trump donde Claudio \"Chiqui\" Tapia (Presidente de AFA) sostuvo un encuentro de alto nivel, generando fricción con el Gobierno.\n• **Lilia Lemoine, Luis Petri, Juliana Santillán:** Legisladores libertarios cuyas \"formas\" y \"gestos\" han sido objeto de revisión interna para una comunicación más estratégica.\n\n⚡ **Desarrollo:**\n• El gobierno de Milei ha buscado consolidar su fuerza legislativa, facilitando la creación de un nuevo bloque en la Cámara de Diputados con legisladores de Catamarca, lo que le otorgó al oficialismo la primera minoría.\n• En política exterior, el Presidente Javier Milei viajará a Oslo el 9 de diciembre para la ceremonia de entrega del Premio Nobel de la Paz a María Corina Machado, marcando un fuerte respaldo a la oposición venezolana y una crítica al régimen de Nicolás Maduro.\n• A nivel interno, se observa una moderación de \"las formas\" en el accionar de figuras libertarias, con advertencias a legisladores como Lilia Lemoine, Luis Petri y Juliana Santillán, buscando una estrategia más pragmática para lograr objetivos fundamentales.\n• Al cerrar su segundo año de gestión, Milei registra un 49% de imagen positiva, superando a sus predecesores, aunque con una marcada diferencia entre géneros (57% en hombres vs. 41% en mujeres) y una imagen negativa que prevalece desde marzo de 2025.\n• El Gobierno mantiene una disputa con la Asociación del Fútbol Argentino (AFA), que se intensificó con la visita de su presidente, Claudio \"Chiqui\" Tapia, a Mar-a-Lago y la intervención de Milei en polémicas sobre campeonatos de fútbol.\n• Los próximos meses incluyen un cronograma legislativo intenso, con el debate del Presupuesto 2026 y un paquete de reformas laboral, tributaria y previsional, para lo cual el Gobierno busca asegurar los consensos necesarios.\n\n💡 **¿Por qué importa?**\n• Las acciones de Milei reflejan una estrategia dual: búsqueda de consenso legislativo interno y una política exterior ideológicamente marcada, con el fin de avanzar en su agenda de reformas.\n• La moderación de las \"formas\" y el monitoreo de la imagen pública indican una adaptación del Gobierno para consolidar su poder y asegurar el apoyo necesario para sus objetivos.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid08122025/",
+          "titulo": "Cuánto cobran los caseros en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-caseros-en-diciembre-con-el-aguinaldo-nid04122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-08 04:03:00"
+          "fecha": "2025-12-08 07:53:13"
         },
         {
-          "titulo": "Milei viaja hoy a Oslo para acompañar a María Corina Machado en la entrega del Nobel de la Paz",
-          "link": "https://www.perfil.com/noticias/politica/milei-viaja-a-oslo-para-acompanar-a-maria-corina-machado-en-la-entrega-del-nobel-de-la-paz.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-08 03:45:00"
-        },
-        {
-          "titulo": "Milei modera las formas para acelerar a fondo",
-          "link": "https://www.lanacion.com.ar/politica/milei-modera-las-formas-para-acelerar-a-fondo-nid07122025/",
+          "titulo": "Cuánto ganan los supervisores en diciembre, con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-ganan-los-supervisores-en-diciembre-con-el-aguinaldo-nid03122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-08 02:59:32"
+          "fecha": "2025-12-08 07:53:11"
         },
         {
-          "titulo": "Javier Milei estuvo presente de la final del 132° Abierto de Polo en Palermo",
-          "link": "https://www.ambito.com/politica/javier-milei-estuvo-presente-la-final-del-132-abierto-polo-palermo-n6221778",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 20:47:35"
-        },
-        {
-          "titulo": "Javier Milei viaja mañana a Oslo para la entrega del premio Nobel de la Paz a María Corina Machado",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-viaja-manana-a-oslo-para-la-entrega-del-premio-nobel-de-la-paz-a-maria-corina-machado-nid07122025/",
+          "titulo": "Paritaria UOM: cuánto cobra un obrero metalúrgico en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/paritaria-uom-cuanto-cobra-un-obrero-metalurgico-en-diciembre-de-2025-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-07 20:04:44"
+          "fecha": "2025-12-08 07:53:08"
         },
         {
-          "titulo": "Javier Milei cierra su segundo año de gobierno con un 49% de imagen positiva",
-          "link": "https://www.ambito.com/politica/javier-milei-cierra-su-segundo-ano-gobierno-un-49-imagen-positiva-n6221759",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 18:51:00"
-        },
-        {
-          "titulo": "Chiqui Tapia en la mansión de Donald Trump de Mar-a-Lago: una foto para irritar a Javier Milei en medio de la batalla Gobierno-AFA",
-          "link": "https://www.ambito.com/politica/chiqui-tapia-la-mansion-donald-trump-mar-a-lago-una-foto-irritar-javier-milei-medio-la-batalla-gobierno-afa-n6221686",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 11:17:03"
-        },
-        {
-          "titulo": "Javier Milei celebró el título de Lionel Messi con Inter Miami, en medio de los cruces entre el Gobierno y la AFA",
-          "link": "https://www.ambito.com/politica/javier-milei-celebro-el-titulo-lionel-messi-inter-miami-medio-los-cruces-el-gobierno-y-la-afa-n6221661",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 09:51:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Perfil"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "conflicto_venezuela-ee.uu._y_20251208",
-      "tema": "Conflicto Venezuela-EE.UU. y política interna",
-      "tema_normalizado": "conflicto venezuela-ee.uu. y politica interna",
-      "resumen": "📌 **¿Qué está pasando?**\n• Estados Unidos culpa al gobierno de Nicolás Maduro por la muerte en prisión del exgobernador opositor Alfredo Díaz, quien falleció el 6 de diciembre de 2025.\n• Este incidente ha intensificado la tensión entre ambos países, sumándose a las recientes maniobras militares de EE.UU. en el Caribe y el bloqueo aéreo impuesto.\n• La oposición venezolana y organizaciones de derechos humanos denuncian que Díaz fue víctima de detención arbitraria y falta de atención médica en un \"centro de tortura\".\n\n🔍 **Datos clave:**\n• **Fallecido:** Alfredo Díaz, exgobernador de Nueva Esparta, de 55/56 años.\n• **Fecha de deceso:** Sábado 6 de diciembre de 2025.\n• **Lugar:** El Helicoide (sede del SEBIN), calificado como \"centro de tortura\" por EE.UU. y la oposición.\n• **Causa oficial:** Infarto del miocardio; la oposición alega muerte por negación de atención médica y condiciones extremas de detención.\n• **Arresto:** Julio de 2024, tras elecciones controvertidas donde Maduro se proclamó vencedor.\n• **Presos políticos fallecidos:** Alfredo Díaz es el octavo desde la represión post-electoral de julio de 2024.\n• **Despliegue militar EE.UU.:** El portaviones USS Gerald Ford, el más grande del mundo, ejecuta operaciones antinarcóticos en el Caribe desde septiembre.\n• **Bloqueo aéreo EE.UU.:** Administración Trump anunció un cierre total del espacio aéreo \"sobre y alrededor\" de Venezuela.\n• **Respuesta militar venezolana:** La Fuerza Armada Nacional Bolivariana (FANB) incorporó 5.600 nuevos soldados el 7 de diciembre.\n\n⚡ **Desarrollo:**\n• La muerte de Alfredo Díaz, acusado de \"terrorismo\" e \"instigación al odio\", ha provocado una fuerte condena internacional y críticas a las condiciones de detención en Venezuela.\n• EE.UU. responsabiliza directamente al gobierno de Maduro y lo califica de \"régimen criminal\", mientras Venezuela afirma que Díaz estaba siendo procesado con plena garantía de sus derechos.\n• La tensión se agrava por el despliegue naval estadounidense en el Caribe, que Venezuela considera una \"amenaza\" e intento de cambio de régimen.\n• El bloqueo aéreo impuesto por EE.UU. ha dejado a Venezuela con muy pocos vuelos internacionales operativos, afectando a miles de pasajeros y emigrados varados.\n• Caracas respondió al bloqueo revocando licencias a seis aerolíneas internacionales, acusando a Washington de \"terrorismo de Estado\", lo que intensificó el aislamiento del país.\n• La oposición venezolana, incluyendo a María Corina Machado y Edmundo González Urrutia, exige una investigación internacional sobre la muerte de Díaz.\n\n💡 **¿Por qué importa?**\n• El incidente y las reacciones mutuas escalan peligrosamente las ya deterioradas relaciones entre Venezuela y EE.UU., con implicaciones regionales e internacionales.\n• Pone de manifiesto las graves acusaciones de violaciones a los derechos humanos y el deterioro de la situación humanitaria en Venezuela, profundizando su aislamiento político y económico.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "EE.UU. culpa al gobierno de Maduro por la muerte en prisión del exgobernador opositor Alfredo Díaz",
-          "link": "https://www.lanacion.com.ar/el-mundo/eeuu-culpa-al-gobierno-de-maduro-por-la-muerte-en-prision-del-exgobernador-opositor-alfredo-diaz-nid07122025/",
+          "titulo": "Cuánto cobran las niñeras en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-las-nineras-en-diciembre-2025-con-el-aguinaldo-nid01122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-07 21:54:05"
+          "fecha": "2025-12-08 07:53:05"
         },
         {
-          "titulo": "EEUU responsabilizó a Nicolás Maduro por la muerte del gobernador opositor Alfredo Díaz",
-          "link": "https://www.ambito.com/mundo/eeuu-responsabilizo-nicolas-maduro-la-muerte-del-gobernador-opositor-alfredo-diaz-n6221761",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 19:33:53"
+          "titulo": "Cuánto cobran los empleados bancarios en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-empleados-bancarios-en-diciembre-con-el-aguinaldo-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:53:03"
         },
         {
-          "titulo": "Sin vuelos y con familias varadas: el bloqueo aéreo de Estados Unidos provoca un caos en el fin de año de Venezuela",
-          "link": "https://www.clarin.com/mundo/vuelos-familias-varadas-el-bloqueo-aereo-estados-unidos-provoca-caos-fin-ano-venezuela_0_Oje65nhGgy.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 18:30:55"
+          "titulo": "Servicio doméstico: cuánto cobran en diciembre con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/servicio-domestico-cuanto-cobran-en-diciembre-con-el-aguinaldo-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:53:00"
         },
         {
-          "titulo": "Estados Unidos arremete contra el gobierno de Venezuela por la muerte en prisión de un ex gobernador opositor",
-          "link": "https://www.clarin.com/mundo/estados-unidos-arremete-gobierno-venezuela-muerte-prision-ex-gobernador-opositor_0_0EIBdEUMLH.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 14:16:53"
+          "titulo": "Empleados de comercio: cuánto ganan en diciembre con el aumento y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/empleados-de-comercio-cuanto-ganan-en-diciembre-con-el-aumento-y-el-aguinaldo-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:58"
         },
         {
-          "titulo": "Venezuela-Estados Unidos HOY, EN VIVO: últimas noticias del conflicto entre Nicolás Maduro y Donald Trump, este 7 de diciembre",
-          "link": "https://www.clarin.com/mundo/venezuela-estados-unidos-hoy-vivo-ultimas-noticias-conflicto-nicolas-maduro-donald-trump-7-diciembre_0_550FTeZ8Pe.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 09:57:22"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "finanzas_personales_y_20251208",
-      "tema": "Finanzas personales y ANSES Argentina",
-      "tema_normalizado": "finanzas personales y anses argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Empleadores y ANSES han confirmado los cronogramas de pagos de diciembre de 2025 para jubilaciones, pensiones y asignaciones.\n*   Se incluyen aumentos por movilidad, bonos extraordinarios y las fechas límite para el cobro del aguinaldo de fin de año.\n*   Estos pagos representan un refuerzo económico clave para millones de personas en Argentina antes de las fiestas.\n\n🔍 **Datos clave:**\n*   **Fecha límite de pago del aguinaldo de diciembre:** 18 de diciembre de 2025 (con extensión administrativa hasta el 24 de diciembre).\n*   **Aumento por movilidad de ANSES:** 2,34% (basado en el Índice de Precios al Consumidor de octubre).\n*   **Bono extraordinario de ANSES:** $70.000 para jubilados y pensionados con haberes mínimos.\n*   **Haber mínimo garantizado (diciembre 2025):** $340.879,59.\n*   **Total a cobrar jubilación mínima (con aguinaldo y bono):** $581.319,39.\n*   **Fecha de pago para DNI terminados en 1 (mínimas y AUH):** 10 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n*   El aguinaldo (Sueldo Anual Complementario) se abona a todos los trabajadores registrados, jubilados y pensionados, sin requerir una antigüedad mínima, calculándose proporcionalmente al tiempo trabajado.\n*   La segunda cuota del aguinaldo de 2025 corresponde al 50% del mejor salario del semestre (julio-diciembre) y debe depositarse antes del 18 de diciembre, con un plazo máximo el 24 de diciembre.\n*   ANSES ha detallado el calendario de pagos de diciembre de 2025, con fechas específicas según la terminación del DNI para cada tipo de prestación.\n*   Los jubilados y pensionados que perciben el haber mínimo recibirán el aumento del 2,34%, el bono de $70.000 y el medio aguinaldo, sumando un total de $581.319,39.\n*   Quienes superen el haber mínimo también recibirán el medio aguinaldo y un bono proporcional que les permita alcanzar hasta $581.319,39, sin recibir el bono completo de $70.000.\n*   Las Asignaciones Universal por Hijo (AUH) y las Asignaciones Familiares por Hijo también se ajustaron un 2,34%, con montos diferenciados por rango de ingresos del grupo familiar y zonas geográficas.\n*   Cualquier incumplimiento en el pago del aguinaldo por parte de los empleadores puede ser denunciado ante las autoridades laborales.\n\n💡 **¿Por qué importa?**\n*   Estos anuncios son fundamentales para la planificación financiera personal de millones de trabajadores y beneficiarios de ANSES en un mes de altos gastos como diciembre.\n*   Los refuerzos económicos buscan mitigar el impacto de la inflación y proporcionar liquidez adicional para afrontar los gastos de fin de año.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Hasta cuándo se puede cobrar el aguinaldo de diciembre 2025",
-          "link": "https://www.infobae.com/economia/2025/12/08/hasta-cuando-se-puede-cobrar-el-aguinaldo-de-diciembre-2025/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-08 06:00:00"
+          "titulo": "Cronograma de pagos: cuándo cobran los jubilados en diciembre 2025 con el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/cronograma-de-pagos-cuando-cobran-los-jubilados-en-diciembre-2025-con-el-aguinaldo-nid02122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:43"
         },
         {
-          "titulo": "ANSES: cuándo cobro si mi DNI termina en 1",
-          "link": "https://www.infobae.com/economia/2025/12/08/anses-cuando-cobro-si-mi-dni-termina-en-1/",
-          "fuente": "Infobae",
-          "fecha": "2025-12-08 06:00:00"
+          "titulo": "Libreta AUH 2025: hasta cuándo se puede presentar y cómo es el trámite para cobrar el 20% acumulado de la prestación",
+          "link": "https://www.lanacion.com.ar/economia/libreta-auh-2025-hasta-cuando-se-puede-presentar-y-como-es-el-tramite-para-cobrar-el-20-acumulado-de-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:40"
+        },
+        {
+          "titulo": "Cuál es el monto del programa Volver al Trabajo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-programa-volver-al-trabajo-en-diciembre-2025-nid26112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:37"
+        },
+        {
+          "titulo": "Cuál es el monto del exPotenciar Trabajo en diciembre de 2025",
+          "link": "https://www.lanacion.com.ar/economia/cual-es-el-monto-del-expotenciar-trabajo-en-diciembre-de-2025-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:35"
+        },
+        {
+          "titulo": "De cuánto es el monto de la Tarjeta Alimentar en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-monto-de-la-tarjeta-alimentar-en-diciembre-2025-nid21112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:32"
+        },
+        {
+          "titulo": "Anses: de cuánto es la PUAM en diciembre de 2025 con el aumento oficial, el bono y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/anses-de-cuanto-es-la-puam-en-diciembre-de-2025-con-el-aumento-oficial-el-bono-y-el-aguinaldo-nid18112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:29"
+        },
+        {
+          "titulo": "SUAF: cuál es el monto de las Asignaciones Familiares en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/suaf-cual-es-el-monto-de-las-asignaciones-familiares-en-diciembre-2025-nid19112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:26"
+        },
+        {
+          "titulo": "PNC: cuál es el monto de las pensiones en diciembre 2025 con el aumento y el aguinaldo",
+          "link": "https://www.lanacion.com.ar/economia/pnc-cual-es-el-monto-de-las-pensiones-en-diciembre-2025-con-el-aumento-y-el-aguinaldo-nid17112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:24"
+        },
+        {
+          "titulo": "Cuánto cobran los jubilados en diciembre de 2025 con el aguinaldo y el aumento confirmado",
+          "link": "https://www.lanacion.com.ar/economia/cuanto-cobran-los-jubilados-en-diciembre-de-2025-con-el-aguinaldo-y-el-aumento-confirmado-nid13112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:22"
+        },
+        {
+          "titulo": "Cuándo cobro Anses: el calendario completo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-diciembre-2025-nid01122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:52:19"
+        },
+        {
+          "titulo": "Calculadora de aguinaldo 2025: cómo saber cuánto voy a cobrar en diciembre",
+          "link": "https://www.lanacion.com.ar/economia/calculadora-de-aguinaldo-2025-como-saber-cuanto-voy-a-cobrar-en-diciembre-nid27112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:43:05"
+        },
+        {
+          "titulo": "Cómo calcular el aguinaldo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/como-calcular-el-aguinaldo-de-diciembre-2025-nid25112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:43:02"
+        },
+        {
+          "titulo": "Hasta qué fecha se paga el aguinaldo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/hasta-que-fecha-se-paga-el-aguinaldo-en-diciembre-2025-nid24112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:43:00"
+        },
+        {
+          "titulo": "Cuándo se cobra el aguinaldo de diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-se-cobra-el-aguinaldo-de-diciembre-2025-nid20112025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:42:58"
+        },
+        {
+          "titulo": "Cuándo es la fecha de pago del aguinaldo en diciembre 2025",
+          "link": "https://www.lanacion.com.ar/economia/cuando-es-la-fecha-de-pago-del-aguinaldo-en-diciembre-2025-nid06122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-08 07:35:02"
         },
         {
           "titulo": "A partir de cuántos meses de trabajo se cobra el aguinaldo de diciembre 2025",
           "link": "https://www.lanacion.com.ar/economia/a-partir-de-cuantos-meses-de-trabajo-se-cobra-el-aguinaldo-de-diciembre-2025-nid07122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-07 21:39:00"
+          "fecha": "2025-12-08 07:29:02"
+        },
+        {
+          "titulo": "ANSES pagará hasta $334.800 en diciembre: quiénes recibirán la Prestación por Desempleo",
+          "link": "https://www.perfil.com/noticias/economia/anses-pagara-hasta-334800-en-diciembre-quienes-recibiran-la-prestacion-por-desempleo.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-08 07:02:00"
         },
         {
           "titulo": "Regalo de Navidad de ANSES: el aumento confirmado para antes de las Fiestas",
@@ -413,9 +359,11 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-08",
       "fuentes": [
-        "Minuto1",
+        "iProfesional",
+        "Infobae",
         "La Nación",
-        "Infobae"
+        "Perfil",
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -423,79 +371,36 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "sismos_y_actividad_20251208",
-      "tema": "Sismos y actividad sísmica internacional",
-      "tema_normalizado": "sismos y actividad sismica internacional",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La actividad sísmica internacional ha estado presente con dos reportes recientes de sismos significativos en distintas partes del mundo.\n*   México experimentó un temblor de magnitud 4.1 en el estado de Oaxaca, mientras que un fuerte sismo de magnitud 7.0 sacudió la remota región fronteriza entre Alaska y Canadá.\n\n🔍 **Datos clave:**\n*   **Sismo en Oaxaca:** Magnitud 4.1, registrado el 8 de diciembre a las 0:43 horas.\n*   **Ubicación Oaxaca:** Epicentro a 103 kilómetros al sureste de Salina Cruz, Oaxaca, con una profundidad de 16.1 km.\n*   **Sismo en Alaska/Canadá:** Magnitud 7.0, ocurrido en un sábado reciente, sin fecha exacta reportada.\n*   **Ubicación Alaska/Canadá:** Epicentro a 370 km al noroeste de Juneau (Alaska) y 250 km al oeste de Whitehorse (Canadá), con una profundidad cercana a los 10 km.\n*   **Placas Tectónicas en México:** Caribe, Norteamérica, Pacífico, Rivera y Cocos, cuya interacción constante genera alta sismicidad.\n\n⚡ **Desarrollo:**\n*   El temblor en Oaxaca es un recordatorio de que México se encuentra en una zona de alta sismicidad, debido a la convergencia y el movimiento constante de sus cinco placas tectónicas.\n*   El Servicio Sismológico Nacional proporcionó los datos preliminares de este evento, que fue sentido por los habitantes de la región durante la madrugada.\n*   Por otro lado, el sismo de magnitud 7.0 entre Alaska y Canadá fue un movimiento telúrico de gran intensidad, pero su impacto se vio significativamente reducido.\n*   Este evento se registró en una región montañosa, vasta y con muy baja densidad poblacional, lo que minimizó los riesgos humanos directos.\n*   Según el Servicio Geológico de Estados Unidos (USGS), el sismo fue seguido por varias réplicas, un fenómeno habitual que obliga a mantener la vigilancia.\n*   Las autoridades confirmaron que no hubo heridos ni daños estructurales graves, aunque sí se reportaron objetos caídos y vibraciones intensas.\n*   Localidades cercanas como Haines Junction (Canadá, con más de 1000 habitantes) y Yakutat (EE.UU., con alrededor de 660 residentes) se vieron afectadas, pero la distancia al epicentro fue clave para limitar las consecuencias.\n\n💡 **¿Por qué importa?**\n*   Estos eventos demuestran la constante dinámica de la Tierra y la importancia de comprender la actividad sísmica en diferentes contextos geográficos y poblacionales.\n*   Destacan cómo la combinación de la magnitud del sismo, la ubicación del epicentro y la densidad poblacional influyen directamente en la severidad de sus impactos, así como la relevancia de los sistemas de monitoreo y alerta temprana.",
-      "cantidad_noticias": 2,
+      "tema_id": "inflacion_noviembre_argentina_20251208",
+      "tema": "Inflación noviembre Argentina",
+      "tema_normalizado": "inflacion noviembre argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina se prepara para conocer la inflación oficial de noviembre, un dato clave que impacta directamente en el bolsillo de los argentinos.\n• Las consultoras privadas anticipan que el Índice de Precios al Consumidor (IPC) superará el 2% por tercer mes consecutivo.\n• Este anuncio coincide con el lanzamiento por parte del gobierno de un nuevo bono en dólares para refinanciar deuda y fortalecer las reservas.\n\n🔍 **Datos clave:**\n• **Fecha publicación IPC oficial:** Jueves 11 de diciembre.\n• **Estimaciones privadas inflación noviembre:** Entre 2,3% y 2,5%.\n• **Rubros de mayor aumento:** Alimentos y bebidas no alcohólicas (ej. carne, frutas) y servicios regulados.\n• **Lanzamiento nuevo bono:** Miércoles 10 de diciembre, con vencimiento en noviembre de 2029.\n• **Monto buscado con bono:** USD 1.187 millones para cancelar vencimientos de deuda en enero de 2026.\n• **Inflación interanual proyectada (nov. 2024-2025):** En torno al 30%.\n• **Ministro de Economía:** Luis Caputo.\n\n⚡ **Desarrollo:**\n• La inflación de noviembre se espera que continúe una leve tendencia ascendente, habiendo registrado un mínimo del 1,5% en mayo y luego acelerándose desde agosto.\n• Las consultoras atribuyen esta continuidad a la necesidad de corrección de precios relativos y al impacto de la depreciación del peso observada a mediados de año.\n• El rubro \"Alimentos y bebidas no alcohólicas\" fue uno de los principales motores, con fuertes aumentos en la carne (5,8%) y frutas (18,7%).\n• Los servicios regulados, como transporte público, electricidad y gas, también mostraron alzas significativas tras la quita gradual de subsidios y actualización de tarifas.\n• El ministro Luis Caputo, al frente del Ministerio de Economía, enfrenta la publicación de este \"examen\" de inflación.\n• La emisión del nuevo bono en dólares busca refinanciar vencimientos de capital por USD 4.216 millones en enero de 2026, como los bonos AL30 y AL29.\n\n💡 **¿Por qué importa?**\n• La cifra de inflación de noviembre es un indicador crucial para la economía argentina, afectando directamente el poder adquisitivo de los ciudadanos.\n• El éxito de la colocación del nuevo bono en dólares es fundamental para la estrategia del gobierno de refinanciar deuda y acumular reservas en el Banco Central.",
+      "cantidad_noticias": 3,
       "noticias": [
         {
-          "titulo": "Temblor hoy 8 de diciembre en México: se registró un sismo magnitud 4.1 en Oaxaca",
-          "link": "https://www.infobae.com/mexico/2025/12/08/temblor-hoy-en-mexico-noticias-actividad-sismica-8-de-diciembre-de-2025/",
+          "titulo": "Caputo afronta dos exámenes clave esta semana: el debut de un nuevo bono en el mercado y la inflación de noviembre",
+          "link": "https://www.infobae.com/economia/2025/12/08/caputo-afronta-dos-examenes-clave-esta-semana-el-debut-de-un-nuevo-bono-en-el-mercado-y-la-inflacion-de-noviembre/",
           "fuente": "Infobae",
-          "fecha": "2025-12-08 05:35:12"
+          "fecha": "2025-12-08 09:20:44"
         },
         {
-          "titulo": "Sismo de magnitud 7 sacude zonas de Alaska y Canadá",
-          "link": "https://www.ambito.com/mundo/sismo-magnitud-7-sacude-zonas-alaska-y-canada-n6221652",
+          "titulo": "Semana clave para el Gobierno: se conocerá la inflación de noviembre y se lanzará el bono en dólares",
+          "link": "https://www.ambito.com/economia/semana-clave-el-gobierno-se-conocera-la-inflacion-noviembre-y-se-lanzara-el-bono-dolares-n6221769",
           "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 09:07:00"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-08",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Infobae"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "monotributo,_arca_y_20251208",
-      "tema": "Monotributo, ARCA y billeteras virtuales",
-      "tema_normalizado": "monotributo, arca y billeteras virtuales",
-      "resumen": "📌 **¿Qué está pasando?**\n• El panorama financiero digital en Argentina está en constante evolución, impactando a monotributistas y usuarios de billeteras virtuales.\n• ARCA está impulsando la digitalización de trámites y, al mismo tiempo, fortaleciendo el control fiscal sobre los movimientos de dinero en estas plataformas.\n• Los ciudadanos deben adaptarse a nuevas formas de pago y regulaciones para gestionar sus impuestos y transacciones cotidianas.\n\n🔍 **Datos clave:**\n• **$50.000.000:** Límite mensual de transferencia para personas físicas en billeteras virtuales antes de una alerta de ARCA.\n• **$30.000.000:** Límite mensual para personas jurídicas en billeteras virtuales impuesto por ARCA.\n• **100%:** Bonificación posible en el componente impositivo (IVA y Ganancias) del Monotributo para locadores de bienes que formalicen contratos.\n• **20 de diciembre:** Fecha límite habitual para el pago del Monotributo (o 22 de diciembre en 2025).\n• **30 días:** Plazo para confirmar en ARCA la recepción de compras internacionales enviadas por Correo Argentino.\n• **Cuenta DNI:** Billetera virtual que ofrece descuentos, como 30% en gastronomía para jóvenes de 13 a 17 años con tope de $8.000.\n\n⚡ **Desarrollo:**\n• La aplicación de ARCA simplifica el pago mensual del Monotributo, permitiendo generar Volantes Electrónicos de Pago (VEPs) o abonar directamente con tarjeta de crédito desde el celular.\n• Los VEPs pueden pagarse a través de billeteras virtuales como Cuenta DNI o Mercado Pago, facilitando el cumplimiento de las obligaciones fiscales.\n• Monotributistas locadores de bienes pueden obtener una exención del \"impuesto integrado\" si formalizan sus contratos de alquiler en el Registro de Locaciones de Inmueble (RELI) de ARCA, un trámite 100% online.\n• Las billeteras virtuales, como Mercado Pago, enfrentan una caída en los rendimientos ofrecidos por los saldos en cuenta debido a la baja de tasas de interés, afectando las ganancias de los usuarios.\n• ARCA ha establecido límites estrictos para las transferencias en billeteras virtuales para combatir la evasión fiscal, exigiendo justificación para montos que superen los topes establecidos.\n• Para recibir pedidos de plataformas como Temu vía Correo Argentino, es obligatorio confirmar la recepción en el sitio de ARCA con CUIT y Clave Fiscal dentro de 30 días, o se bloquearán futuros envíos.\n\n💡 **¿Por qué importa?**\n• Estos cambios obligan a los usuarios y monotributistas a estar informados sobre las nuevas regulaciones fiscales y a adaptar sus estrategias financieras.\n• La digitalización de trámites busca eficientizar el sistema, pero también implica un mayor control y la necesidad de formalizar operaciones para evitar inconvenientes con ARCA.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Una billetera virtual ofrece un descuento especial para jóvenes, pero sólo estará disponible un fin de semana",
-          "link": "https://www.ambito.com/economia/una-billetera-virtual-ofrece-un-descuento-especial-jovenes-pero-solo-estara-disponible-un-fin-semana-n6220887",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 16:00:00"
+          "fecha": "2025-12-07 20:21:15"
         },
         {
-          "titulo": "ARCA: la forma sencilla de pagar el monotributo a través del celular",
-          "link": "https://www.minutouno.com/economia/arca-la-forma-sencilla-pagar-el-monotributo-traves-del-celular-n6221641",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-07 09:41:00"
-        },
-        {
-          "titulo": "ARCA y la chance de no pagar monotributo en diciembre: cómo hacerlo",
-          "link": "https://www.iprofesional.com/impuestos/443338-arca-y-la-chance-de-no-pagar-monotributo-en-diciembre-como-hacerlo",
+          "titulo": "Inflación de noviembre: esta semana sale el dato, pero ya hay un pronóstico del número",
+          "link": "https://www.iprofesional.com/economia/443556-inflacion-de-noviembre-esta-semana-sale-el-dato-pero-ya-hay-un-pronostico-del-numero",
           "fuente": "iProfesional",
-          "fecha": "2025-12-07 09:32:00"
-        },
-        {
-          "titulo": "Golpe a las billeteras virtuales: lupa de ARCA, baja de rendimientos y guerra con los bancos",
-          "link": "https://www.iprofesional.com/finanzas/443410-golpe-a-billeteras-virtuales-lupa-de-arca-baja-de-rendimientos-y-guerra-con-bancos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-07 09:24:00"
-        },
-        {
-          "titulo": "Paso a paso: el procedimiento para confirmar en ARCA tu pedido de Temu para recibirlo sin problemas",
-          "link": "https://www.iprofesional.com/impuestos/443327-paso-a-paso-como-confirmar-en-arca-pedido-temu-para-recibirlo-sin-problemas",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-07 09:17:00"
+          "fecha": "2025-12-07 19:20:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-08",
       "fuentes": [
-        "Minuto1",
         "Ámbito Financiero",
+        "Infobae",
         "iProfesional"
       ],
       "es_tema_nuevo": true,
