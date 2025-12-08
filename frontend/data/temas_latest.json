@@ -1,57 +1,6 @@
 {
   "fecha": "2025-12-07",
-  "fecha_generacion": "2025-12-07T21:23:30.289503",
-  "total_temas": 1,
-  "temas": [
-    {
-      "tema_id": "reforma_laboral_argentina_20251207",
-      "tema": "Reforma Laboral Argentina",
-      "tema_normalizado": "reforma laboral argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino impulsa una \"Ley de Modernización Laboral\" para reformar el marco legal del trabajo, buscando limitar el poder sindical y facilitar la creación de empleo.\n• Este proyecto propone cambios significativos en el derecho a huelga, las asambleas, la financiación sindical y la prevalencia de los convenios colectivos.\n• Su tratamiento en el Congreso se anticipa complejo, especialmente durante el período de sesiones extraordinarias, donde compite con la aprobación del Presupuesto 2026.\n\n🔍 **Datos clave:**\n• **Consejo de Mayo:** Presentación oficial del proyecto de \"modernización laboral\" por el Gobierno (próximo martes).\n• **Diciembre 10-30:** Período de sesiones extraordinarias convocado por el Presidente Javier Milei.\n• **99%:** Porcentaje de la población empresaria del país que representan las PyMEs, principales impulsoras de cambios.\n• **1975:** Año desde el cual algunos convenios colectivos \"ultractivos\" podrían ser llamados a negociación.\n• **75% / 50%:** Porcentaje de servicios mínimos garantizados para huelgas en servicios esenciales y de importancia trascendental, respectivamente.\n\n⚡ **Desarrollo:**\n• La reforma busca desarticular el \"unicato\" sindical, permitiendo más asociaciones y dando prioridad a los convenios por empresa sobre los de actividad.\n• Se restringen las asambleas de trabajadores, requiriendo autorización patronal para su realización en el establecimiento y eliminando el pago de salarios durante su duración.\n• Se limita el derecho a huelga en servicios esenciales (ej. salud, energía) y de importancia trascendental (ej. transporte, alimentación), exigiendo servicios mínimos y preaviso de 5 días.\n• El proyecto modifica los beneficios sociales para que sean voluntarios y no remunerativos, eximiéndolos de aportes y contribuciones a la seguridad social, e incluye nuevos ítems como servicios de comedor y reintegros médicos.\n• Las PyMEs, que representan el 99% del empresariado, abogan por una reforma que reduzca la litigiosidad y la incertidumbre de los costos laborales, sin afectar los ingresos de los trabajadores.\n• Existe incertidumbre sobre el consenso político necesario para su aprobación, con la CGT y gobernadores expresando dudas o rechazo, y la senadora Patricia Bullrich presionando por su rápido tratamiento en el Senado.\n• Los tiempos legislativos son ajustados, y la aprobación del Presupuesto 2026 es la prioridad inicial, lo que podría requerir una prórroga de las sesiones extraordinarias para la reforma laboral.\n\n💡 **¿Por qué importa?**\n• La reforma podría redefinir profundamente las relaciones laborales en Argentina, modificando el poder de los sindicatos, el derecho a huelga y la estructura de los convenios colectivos.\n• Su aprobación busca, según el Gobierno, modernizar el mercado de trabajo y estimular la creación de empleo formal, especialmente en el sector de las PyMEs, aunque enfrenta fuerte resistencia de sectores sindicales y políticos.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Reforma laboral: cambios de alto impacto en huelgas, aportes y sindicatos únicos por actividad",
-          "link": "https://www.iprofesional.com/politica/443493-reforma-laboral-asi-seran-historicos-cambios-que-afectaran-a-sindicatos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-07 17:50:00"
-        },
-        {
-          "titulo": "Reforma Laboral: a la espera del proyecto oficial, Patricia Bullrich presiona para tratarlo en el Senado",
-          "link": "https://www.clarin.com/politica/reforma-laboral-espera-proyecto-oficial-patricia-bullrich-presiona-tratarlo-senado_0_ZcI6gxhnfj.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 17:08:35"
-        },
-        {
-          "titulo": "La Libertad Avanza fija fecha para dictamen del Presupuesto 2026 pero faltan consensos para la reforma laboral",
-          "link": "https://www.ambito.com/politica/la-libertad-avanza-fija-fecha-dictamen-del-presupuesto-2026-pero-faltan-consensos-la-reforma-laboral-n6221684",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 13:06:00"
-        },
-        {
-          "titulo": "Qué cambios piden las pymes en la legislación laboral",
-          "link": "https://www.clarin.com/economia/cambios-piden-pymes-legislacion-laboral_0_oOfduyqqK6.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-07 07:00:53"
-        },
-        {
-          "titulo": "La reforma laboral, los beneficios sociales y el Impuesto a las Ganancias",
-          "link": "https://www.ambito.com/economia/la-reforma-laboral-los-beneficios-sociales-y-el-impuesto-las-ganancias-n6221573",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-07 00:00:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-07",
-      "fuentes": [
-        "Clarín",
-        "iProfesional",
-        "Ámbito Financiero"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    }
-  ]
+  "fecha_generacion": "2025-12-08T00:56:06.057152",
+  "total_temas": 0,
+  "temas": []
 }

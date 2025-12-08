@@ -1,29 +1,26 @@
 {
   "fecha_consolidacion": "2025-12-07",
-  "fecha_generacion": "2025-12-07T21:14:16.507210",
+  "fecha_generacion": "2025-12-08T00:56:02.210865",
   "resumenes": {
     "internacional": {
-      "resumen": "El primer ministro israelí, Benjamin Netanyahu, anticipó una nueva fase de alto al fuego con Hamás tras la devolución de los restos del último rehén, reafirmando su intención de permanecer en la política. Paralelamente, Estados Unidos ajusta su estrategia de seguridad, dejando de considerar a Rusia una \"amenaza directa\" y generando especulaciones sobre el futuro del apoyo a Ucrania. La ONU reportó que el escudo de Chernóbil perdió su función de seguridad tras un ataque con drones, requiriendo reparaciones críticas.\n\nLas políticas migratorias de Estados Unidos experimentan cambios significativos, con el USCIS anunciando nuevas normativas que limitan el acceso a visas y programas de vivienda, además de ajustar la duración de los permisos de trabajo y las reglas para la revocación de la residencia permanente. En el Mediterráneo, 18 personas fallecieron en una embarcación a la deriva cerca de las costas griegas, evidenciando una tragedia humanitaria.\n\nEn América Latina, Honduras enfrenta incertidumbre electoral con el escrutinio presidencial detenido. Estados Unidos condenó la muerte en prisión de un exgobernador opositor en Venezuela, mientras la presidenta mexicana Claudia Sheinbaum movilizó masivamente a sus seguidores. Otros sucesos notables incluyen un sismo de magnitud 7 en Alaska y Canadá, la llegada de una masa de aire ártico a Nueva York, una fuga de agua en el Museo del Louvre que dañó libros antiguos y un \"grave incidente\" en el aeropuerto de Heathrow.",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-12-07T21:14:16.179746",
-      "categoria": "internacional"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-08T00:56:02.210391"
     },
     "politica": {
-      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 43.7107055s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}",
-      "cantidad_noticias": 27,
-      "fecha_generacion": "2025-12-07T21:14:16.337638",
-      "categoria": "politica"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-08T00:56:02.210542"
     },
     "economia": {
-      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 43.544312698s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}",
-      "cantidad_noticias": 30,
-      "fecha_generacion": "2025-12-07T21:14:16.506921",
-      "categoria": "economia"
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-08T00:56:02.210686"
     },
     "sociedad": {
       "resumen": "No hay noticias disponibles para esta categoría.",
       "cantidad_noticias": 0,
-      "fecha_generacion": "2025-12-07T21:14:16.507185"
+      "fecha_generacion": "2025-12-08T00:56:02.210851"
     }
   }
 }
