@@ -1,384 +1,53 @@
 {
   "fecha": "2025-12-09",
-  "fecha_generacion": "2025-12-09T09:24:59.499471",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-09T12:37:12.136365",
+  "total_temas": 4,
   "temas": [
     {
-      "tema_id": "javier_milei:_viajes_20251209",
-      "tema": "Javier Milei: Viajes y Agenda Internacional",
-      "tema_normalizado": "javier milei: viajes y agenda internacional",
-      "resumen": "📌 **¿Qué está pasando?**\n• El presidente Javier Milei realizó un viaje internacional a Oslo, Noruega, entre el 8 y el 11 de diciembre.\n• El objetivo principal fue asistir a la entrega del Premio Nobel de la Paz a la líder opositora venezolana María Corina Machado.\n• Durante su breve estadía, también mantuvo importantes reuniones bilaterales con autoridades noruegas antes de regresar rápidamente a Argentina.\n\n🔍 **Datos clave:**\n• **Fechas del viaje:** Del lunes 8 de diciembre (noche) al jueves 11 de diciembre (mañana).\n• **Destino:** Oslo, Noruega.\n• **Evento central:** Ceremonia de entrega del Premio Nobel de la Paz.\n• **Homenajeada:** María Corina Machado, líder de la oposición venezolana.\n• **Acompañante principal:** Karina Milei, Secretaria General de la Presidencia.\n• **Reuniones oficiales:** Con Su Majestad el Rey Harald V y el Primer Ministro Jonas Gahr Støre de Noruega.\n• **Otros mandatarios presentes:** Santiago Peña (Paraguay), Daniel Noboa (Ecuador) y José Raúl Mulino (Panamá).\n\n⚡ **Desarrollo:**\n• El Presidente Milei partió de Argentina el lunes 8 de diciembre por la noche y aterrizó en Oslo el martes 9 de diciembre, aproximadamente a las 13:30 (hora argentina).\n• La agenda central se llevó a cabo el miércoles 10 de diciembre, comenzando con la asistencia a la ceremonia del Premio Nobel de la Paz a las 9:00 (hora argentina).\n• Posteriormente, Milei se reunió con el Rey Harald V a las 11:30 y, más tarde, con el Primer Ministro Jonas Gahr Støre a las 13:10.\n• El vuelo de regreso a Argentina despegó de Oslo el mismo miércoles 10 de diciembre por la tarde, con arribo a Buenos Aires el jueves 11 de diciembre a las 9:30.\n• La presencia de Milei reafirma el apoyo de Argentina a la \"valiente lucha por la libertad y la democracia\" de María Corina Machado frente al régimen de Nicolás Maduro.\n• Este viaje se produce en un contexto de delicadas relaciones diplomáticas con Venezuela, marcadas por fuertes críticas argentinas y la detención del gendarme Nahuel Gallo.\n• La corta duración de la estadía presidencial fue determinada por la necesidad de Milei de estar en Argentina para el inicio de las sesiones extraordinarias del Congreso.\n• En dichas sesiones, se debatirán temas cruciales para el Gobierno, como el Presupuesto 2026 y un paquete de reformas laboral, tributaria y previsional.\n\n💡 **¿Por qué importa?**\n• El viaje consolida el posicionamiento internacional de Argentina en defensa de los derechos humanos y la democracia, especialmente frente a regímenes autoritarios en la región.\n• Demuestra un claro respaldo político del gobierno de Javier Milei a la oposición venezolana, reforzando su postura en la política exterior.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "Javier Milei inició un nuevo viaje internacional: su agenda completa en Oslo",
-          "link": "https://www.minutouno.com/politica/javier-milei-inicio-un-nuevo-viaje-internacional-su-agenda-completa-oslo-n6222071",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 23:34:00"
-        },
-        {
-          "titulo": "Javier Milei vuela a Noruega para acompañar a María Corina Machado a recibir el Nobel de la Paz",
-          "link": "https://www.ambito.com/politica/milei-viaja-noruega-acompanar-maria-corina-machado-recibir-el-nobel-la-paz-n6221824",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 20:56:00"
-        },
-        {
-          "titulo": "La agenda de Javier Milei en Noruega: Nobel, reuniones bilaterales y regreso exprés",
-          "link": "https://www.ambito.com/politica/la-agenda-javier-milei-noruega-nobel-reuniones-bilaterales-y-regreso-expres-n6221977",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 20:54:00"
-        },
-        {
-          "titulo": "Milei viaja a Noruega para apoyar el Nobel de la Paz a la opositora Corina Machado",
-          "link": "https://www.clarin.com/politica/milei-viaja-noruega-apoyar-nobel-paz-opositora-corina-machado_0_x27kB2f7DY.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 18:21:35"
-        },
-        {
-          "titulo": "Milei viaja a Oslo para acompañar a María Corina Machado en la entrega del Nobel de la Paz",
-          "link": "https://www.perfil.com/noticias/politica/milei-viaja-a-oslo-para-acompanar-a-maria-corina-machado-en-la-entrega-del-nobel-de-la-paz.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-08 17:15:00"
-        },
-        {
-          "titulo": "Reunión con el rey Harald V y ceremonia del Premio Nobel: la agenda del viaje exprés de Javier Milei a Noruega",
-          "link": "https://www.clarin.com/politica/reunion-rey-harald-v-ceremonia-premio-nobel-agenda-viaje-expres-javier-milei-noruega_0_NuECMfCZ0I.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 15:56:14"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "reforma_laboral_argentina_20251209",
-      "tema": "Reforma Laboral Argentina y Protestas",
-      "tema_normalizado": "reforma laboral argentina y protestas",
-      "resumen": "📌 **¿Qué está pasando?**\n• El gobierno argentino impulsa una ambiciosa reforma laboral con el objetivo de \"modernizar\" el mercado de trabajo y atraer inversiones.\n• El paquete de medidas busca reducir costos laborales, cargas patronales y estimular la creación de empleo formal.\n• Esta iniciativa ha generado un fuerte rechazo de sindicatos clave, quienes han convocado a paros y movilizaciones.\n\n🔍 **Datos clave:**\n• **RIMI (Régimen de Incentivo para Medianas Inversiones):** Propone beneficios fiscales (amortización acelerada de Ganancias, devolución de IVA) para inversiones productivas entre USD 150.000 y USD 30.000.000.\n• **Reducción de Impuesto a las Ganancias:** Las alícuotas para empresas bajarían de 30% a 27% y de 35% a 31.5% a partir de 2026.\n• **Fondo de Asistencia Laboral (FAL):** Se crearía para indemnizaciones, con una contribución empresarial del 3% de la masa salarial, descontado de los aportes al SIPA.\n• **Impacto en ANSES:** La creación del FAL y otros recortes de contribuciones podrían generar una pérdida de entre USD 2.600 y USD 4.700 millones anuales para el sistema previsional.\n• **Impacto en Obras Sociales:** Se reduciría la contribución patronal en 1%, implicando una merma de USD 1.000 millones anuales.\n• **Presentación y Tratamiento:** El proyecto se presentó formalmente el 9 de diciembre, buscando su sanción en sesiones extraordinarias del Congreso entre el 10 y 30 de diciembre.\n• **Protesta Sindical:** ATE confirmó un paro nacional el 9 de diciembre con movilización al Congreso a las 11 horas, rechazando la reforma.\n\n⚡ **Desarrollo:**\n• El Gobierno busca dinamizar la economía y fortalecer la competitividad mediante un esquema más flexible, promoviendo el desarrollo económico y la creación de empleo.\n• Las medidas incluyen la reducción de la base de cálculo de indemnizaciones (excluyendo vacaciones o aguinaldo) y la eliminación de la ultractividad de los convenios colectivos, priorizando acuerdos por empresa.\n• Se propone una significativa reducción generalizada de contribuciones patronales y exenciones en Ganancias para alquileres de vivienda, venta de inmuebles y activos financieros.\n• La creación del RIMI busca incentivar inversiones productivas nacionales y extranjeras, ofreciendo incentivos fiscales como amortización acelerada en Ganancias y devolución de créditos fiscales en el IVA.\n• La CGT objeta la eliminación de la ultractividad, el cambio en el régimen de despidos y la desfinanciación de obras sociales, aunque apoya algunas modificaciones individuales.\n• ATE ha rechazado la reforma por considerarla un \"ataque a todos los derechos laborales\" y una amenaza a la organización sindical y los acuerdos de estabilidad.\n• El gobierno ha advertido que descontará el día a los empleados estatales que se adhieran al paro, aumentando la tensión con los gremios.\n\n💡 **¿Por qué importa?**\n• La reforma busca un cambio profundo en las relaciones laborales y el sistema fiscal argentino, con el fin de estimular la inversión y el empleo formal.\n• Genera una fuerte confrontación con los gremios y tiene consecuencias directas sobre los derechos laborales, el financiamiento de la seguridad social y el poder adquisitivo de jubilados y trabajadores.",
-      "cantidad_noticias": 6,
-      "noticias": [
-        {
-          "titulo": "La reforma laboral impulsa un RIGI para pymes: qué beneficios fiscales tienen las inversiones",
-          "link": "https://www.iprofesional.com/impuestos/443555-la-reforma-laboral-impulsa-un-rigi-para-pymes-los-beneficios-fiscales-para-inversiones",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-09 01:12:00"
-        },
-        {
-          "titulo": "El Gobierno presenta la reforma laboral y apuesta a conseguir su sanción en el Congreso antes de fin de año",
-          "link": "https://www.clarin.com/politica/gobierno-presenta-reforma-laboral-apuesta-conseguir-sancion-congreso-fin-ano_0_Hg2UiGkMOb.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 20:38:40"
-        },
-        {
-          "titulo": "Reforma laboral: bajarán Ganancias a empresas, eximirán alquileres y eliminarán impuestos a electrónicos y autos de lujo",
-          "link": "https://www.clarin.com/economia/reforma-laboral-bajaran-ganancias-empresas-eximiran-alquileres-eliminaran-impuestos-electronicos-autos-lujo_0_Bc6JyyrU4N.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 19:25:36"
-        },
-        {
-          "titulo": "Reforma Laboral: ATE confirmó el paro del martes y endurece la presión sobre Milei",
-          "link": "https://www.perfil.com/noticias/politica/reforma-laboral-ate-confirmo-el-paro-del-martes-y-endurece-la-presion-sobre-milei.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-08 19:10:00"
-        },
-        {
-          "titulo": "Reforma laboral: habrá menos fondos para jubilados por el cambio en las indemnizaciones y la baja de contribuciones patronales",
-          "link": "https://www.clarin.com/politica/reforma-laboral-fondos-jubilados-cambio-indemnizaciones-baja-contribuciones-patronales_0_CfV19sZXzq.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 19:09:51"
-        },
-        {
-          "titulo": "Reforma laboral: ATE va al paro y apunta contra los gobernadores",
-          "link": "https://www.ambito.com/politica/reforma-laboral-ate-va-al-paro-y-apunta-contra-los-gobernadores-n6221968",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 16:28:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Clarín",
-        "Perfil",
-        "Ámbito Financiero",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "terremoto_y_tsunami_20251209",
-      "tema": "Terremoto y Tsunami en Japón",
-      "tema_normalizado": "terremoto y tsunami en japon",
-      "resumen": "📌 **¿Qué está pasando?**\n• Japón experimentó un potente terremoto submarino de magnitud 7,6 frente a su costa norte, provocando una alerta de tsunami y dejando al menos 30 personas heridas.\n• Las autoridades japonesas emitieron órdenes de evacuación para miles de personas en las zonas costeras, aunque las olas de tsunami registradas fueron menores a lo inicialmente advertido.\n• Se activaron protocolos de emergencia en todo el país y se verificó la seguridad de las centrales nucleares, las cuales no reportaron anomalías.\n\n🔍 **Datos clave:**\n• **Magnitud del terremoto:** 7,6 en la escala de Richter (con reportes iniciales de 7,2 o 7,5).\n• **Fecha y hora:** Lunes, 23:15 hora local (14:15 GMT / 11:15 Argentina).\n• **Epicentro:** Frente a la costa de Aomori, a unos 80 km de distancia, en las coordenadas 41.00°N y 142.35°E.\n• **Profundidad del sismo:** Entre 50 y 53 kilómetros.\n• **Tsunami registrado:** Olas de hasta 70 centímetros, con las primeras de 40 cm en Mutsu-Ogawara (Aomori) y Urakawa (Hokkaido).\n• **Heridos:** Al menos 30 personas, con una lesión grave en la isla de Hokkaido.\n• **Evacuación:** Entre 23.000 y 28.000 personas fueron instadas a evacuar en prefecturas como Hokkaido, Iwate y Miyagi.\n• **Primera ministra:** Sanae Takaichi.\n\n⚡ **Desarrollo:**\n• El sismo se originó en una zona de alta actividad sísmica del \"Cinturón de Fuego del Pacífico\", donde convergen múltiples placas tectónicas.\n• La Agencia Meteorológica de Japón (JMA) emitió una alerta de tsunami, pronosticando olas de hasta tres metros, pero la levantó horas después al observarse olas de menor altura.\n• El terremoto alcanzó el nivel 6 superior en la escala sísmica japonesa de 7 niveles en la ciudad de Hachinohe, Aomori, causando movimientos violentos y daños menores como cristales rotos.\n• Las centrales nucleares de Higashidori (Aomori) y Onagawa (Miyagi) fueron inspeccionadas de inmediato, confirmando la ausencia de \"anomalías\" en sus sistemas de seguridad.\n• Las autoridades, incluyendo el portavoz del gobierno Minoru Kihara, instaron a la población a permanecer en lugares seguros y a mantenerse atenta a posibles réplicas en los próximos días.\n• Un tsunami se produce por el desplazamiento abrupto de una gran masa de agua oceánica, generalmente causado por terremotos submarinos.\n\n💡 **¿Por qué importa?**\n• Este evento subraya la constante vulnerabilidad de Japón a los desastres naturales y la eficacia de sus sistemas de alerta temprana y protocolos de emergencia para proteger a su población.\n• Aunque el impacto fue limitado, el incidente sirve como un recordatorio de la amenaza sísmica en la región y la importancia de la preparación y la resiliencia en un país propenso a terremotos y tsunamis.",
+      "tema_id": "baja_retenciones_agricolas_20251209",
+      "tema": "Baja Retenciones Agrícolas Gobierno",
+      "tema_normalizado": "baja retenciones agricolas gobierno",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino anunció una nueva reducción de los derechos de exportación (retenciones) para los principales productos agrícolas.\n• Esta medida busca brindar alivio fiscal al sector del campo y aumentar su competitividad en los mercados nacionales e internacionales.\n• Fue confirmada por el ministro de Economía, Luis Caputo, el 9 de diciembre de 2025, a través de sus redes sociales.\n\n🔍 **Datos clave:**\n• **Fecha del anuncio:** 9 de diciembre de 2025.\n• **Productos y nuevas alícuotas:**\n    • Soja: del 26% al 24%.\n    • Subproductos de soja: del 24,5% al 22,5%.\n    • Trigo y Cebada: del 9,5% al 7,5%.\n    • Maíz y Sorgo: del 9,5% al 8,5%.\n    • Girasol: del 5,5% al 4,5%.\n• **Participación del campo:** Este sector es responsable de aproximadamente el 60% de las exportaciones de Argentina.\n\n⚡ **Desarrollo:**\n• El ministro Luis Caputo afirmó que esta reducción es un paso \"permanente\" hacia la eliminación total de las retenciones, una prioridad del presidente Javier Milei. Esto se hará posible en la medida que las condiciones macroeconómicas lo permitan.\n• El principal objetivo es mejorar la competitividad de la agroindustria, reconocida como uno de los motores más potentes de la economía argentina.\n• La medida busca impulsar la producción, generar empleo, promover el desarrollo en diversas regiones del país y fortalecer la presencia argentina en los mercados globales.\n• Esta decisión se suma a reducciones anteriores, como la eliminación transitoria de retenciones en septiembre (que permitió ingresos por US$7000 millones) y otras bajas a 0% para economías regionales, lácteos y porcinos.\n• La Cámara de la Industria Aceitera de la República Argentina (CIARA-SEC) y el Centro Exportador de Cereales (CEC) celebraron la noticia, calificándola de \"paso muy positivo\" para el sector.\n• El Gobierno reafirma su lema: \"menos impuestos, más producción, más oportunidades y trabajo para todos los argentinos\".\n\n💡 **¿Por qué importa?**\n• La reducción de retenciones busca revitalizar el sector agropecuario, fundamental para la entrada de divisas y el crecimiento económico del país.\n• Ofrece un alivio fiscal directo a los productores, mejorando sus márgenes y creando incentivos para acelerar la liquidación de granos y la inversión productiva.",
       "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Un terremoto de magnitud 7,6 en Japón dejó al menos 30 heridos",
-          "link": "https://www.lanacion.com.ar/el-mundo/un-terremoto-de-magnitud-76-en-japon-dejo-al-menos-30-heridos-nid08122025/",
+          "titulo": "El Gobierno anunció una nueva baja de retenciones para el campo",
+          "link": "https://www.lanacion.com.ar/economia/campo/el-gobierno-anuncio-una-nueva-baja-de-retenciones-para-el-campo-nid09122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-08 22:37:38"
+          "fecha": "2025-12-09 09:20:02"
         },
         {
-          "titulo": "Impactante video: así se movió todo tras el sismo de magnitud 7,2 en Japón",
-          "link": "https://www.minutouno.com/mundo/impactante-video-asi-se-movio-todo-el-sismo-magnitud-72-japon-n6221943",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 14:17:00"
-        },
-        {
-          "titulo": "Video: alerta de tsunami en Japón tras un terremoto de magnitud 7,2 frente a la costa",
-          "link": "https://www.minutouno.com/mundo/video-alerta-tsunami-japon-un-terremoto-magnitud-72-frente-la-costa-n6221933",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 13:56:00"
-        },
-        {
-          "titulo": "Japón emitió una alerta de tsunami por un terremoto de 7,6 en la escala de Richter",
-          "link": "https://www.ambito.com/mundo/japon-emitio-una-alerta-tsunami-un-terremoto-76-la-escala-richter-n6221913",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 12:25:14"
-        },
-        {
-          "titulo": "Alerta de tsunami: un terremoto de 7,6 y varias réplicas golpean Japón",
-          "link": "https://www.clarin.com/mundo/alerta-tsunami-terremoto-76-golpea-japon_0_JpfVq5mvqt.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 11:42:28"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Clarín",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "renuncia_de_petri_20251209",
-      "tema": "Renuncia de Petri Ministerio Defensa",
-      "tema_normalizado": "renuncia de petri ministerio defensa",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Luis Petri renunció a su cargo como Ministro de Defensa de la Nación.\n*   Su dimisión es efectiva a partir del 9 de diciembre de 2025.\n*   Petri asumirá su banca como diputado nacional por Mendoza, para la que fue electo.\n\n🔍 **Datos clave:**\n*   **Fecha de renuncia efectiva:** 9 de diciembre de 2025.\n*   **Nueva función de Petri:** Diputado nacional por Mendoza, asume el 10 de diciembre de 2025.\n*   **Reemplazante de Petri:** Teniente General Carlos Alberto Presti, jefe del Ejército, de 59 años.\n*   **Hito de gestión:** Compra de 24 cazas F-16 a Dinamarca, por más de U$S300 millones.\n*   **Resultado electoral de Petri:** 53,69% de los votos en Mendoza en las elecciones.\n*   **Oficialización:** Decreto 869/2025, publicado en el Boletín Oficial.\n\n⚡ **Desarrollo:**\n*   La salida de Petri del Ministerio de Defensa fue oficializada por el Gobierno, que había anunciado el cambio el 22 de noviembre de 2025, junto con la de Patricia Bullrich.\n*   Petri fue postulado meses atrás como primer candidato a diputado por la provincia de Mendoza por la alianza LLA + Cambia Mendoza.\n*   En su carta de renuncia al Presidente Javier Milei, Petri expresó orgullo por su gestión y consideró \"misión cumplida\" la modernización y el fortalecimiento de las Fuerzas Armadas.\n*   Destacó la reconstrucción de la capacidad operativa y el respaldo al personal militar, tras lo que describió como \"décadas de desinversión, demonización y cancelación ideológica\".\n*   Entre los logros de su gestión, mencionó la adquisición de los aviones F-16, calificándola como la compra militar más relevante de los últimos 40 años.\n*   También resaltó el despliegue operativo de las Fuerzas Armadas en tareas de vigilancia fronteriza (Operación Roca), control de la zona económica exclusiva y asistencia en emergencias.\n*   Carlos Presti se convierte en el primer militar en dirigir el Ministerio de Defensa desde el retorno de la democracia, siendo descrito por Milei como \"una persona dispuesta a hacer lo correcto por la Patria”.\n*   Petri concluyó su gestión con un viaje a la Antártida y, previamente, se renovó casi por completo la cúpula militar.\n\n💡 **¿Por qué importa?**\n*   Este cambio marca una reconfiguración clave en el gabinete de Defensa, con la asunción de un militar de carrera, y reubica a una figura política importante en el Congreso.\n*   La renuncia se da tras hitos significativos de la gestión de Petri, como la adquisición de los F-16, que simbolizan la visión del gobierno para la modernización de las Fuerzas Armadas.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "El Gobierno oficializó la salida de Petri del Ministerio de Defensa y la designación de Carlos Presti",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-oficializo-la-salida-de-petri-del-ministerio-de-defensa-y-la-designacion-de-carlos-nid09122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-09 01:56:04"
-        },
-        {
-          "titulo": "Petri presentó su renuncia oficial como ministro de Defensa con una carta dirigida a Milei",
-          "link": "https://www.perfil.com/noticias/politica/petri-presento-su-renuncia-oficial-como-ministro-de-defensa-con-una-carta-dirigida-a-milei.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-08 18:30:00"
-        },
-        {
-          "titulo": "Luis Petri presentó su renuncia formal como ministro de Defensa: \"Misión cumplida\"",
-          "link": "https://www.minutouno.com/politica/luis-petri-presento-su-renuncia-formal-como-ministro-defensa-mision-cumplida-n6221987",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 18:19:00"
-        },
-        {
-          "titulo": "Luis Petri oficializó su renuncia al ministerio de Defensa",
-          "link": "https://www.ambito.com/politica/luis-petri-renuncio-al-ministerio-defensa-n6221960",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 15:47:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "bartolome_abdala_presidente_20251209",
-      "tema": "Bartolomé Abdala Presidente Provisional",
-      "tema_normalizado": "bartolome abdala presidente provisional",
-      "resumen": "📌 **¿Qué está pasando?**\n• El senador por San Luis y Presidente Provisional del Senado, Bartolomé Abdala, asumió de manera provisoria la Presidencia de la Nación Argentina.\n• Esta situación se generó por la ausencia simultánea del presidente Javier Milei y de la vicepresidenta Victoria Villarruel, quienes se encuentran de viaje en el exterior.\n• Abdala es el tercero en la línea de sucesión constitucional y asumió automáticamente el mando del Poder Ejecutivo de forma transitoria.\n\n🔍 **Datos clave:**\n• **Nombre:** Bartolomé Abdala.\n• **Cargo habitual:** Senador de La Libertad Avanza por San Luis y Presidente Provisional del Senado.\n• **Ausencia presidencial:** Javier Milei viajó a Noruega.\n• **Ausencia vicepresidencial:** Victoria Villarruel viajó a España.\n• **Función provisoria:** Desde este lunes y se extenderá hasta el próximo jueves.\n• **Motivo viaje Milei:** Asistir a la ceremonia del Premio Nobel de la Paz para la líder opositora venezolana Corina Machado.\n• **Motivo viaje Villarruel:** Visita oficial a España y participación en el XII Foro Parlamentario Iberoamericano, donde reclamó por la soberanía sobre las Islas Malvinas.\n\n⚡ **Desarrollo:**\n• La Constitución Nacional argentina establece que, ante la ausencia conjunta del Presidente y la Vicepresidenta del país, el siguiente en la línea de sucesión es el Presidente Provisional del Senado.\n• El rol de Abdala es interino y mayormente administrativo; estará a cargo de la firma de documentos de gestión y del seguimiento de la agenda diaria del Poder Ejecutivo.\n• Aunque fuentes cercanas al senador lo califican como un procedimiento \"normal y previsto por la ley\", la coincidencia de ambos viajes ha generado atención dentro del oficialismo y la oposición.\n• Abdala manifestó en sus redes sociales su \"orgullo inmenso\" por asumir esta responsabilidad histórica, agregando los hashtags \"#TeQuieroSanLuis #TeQuieroArgentina\".\n• Se espera el regreso del presidente Milei al país para el próximo jueves, momento en que Abdala dejará sus funciones ejecutivas provisorias.\n• La situación, inédita durante este mandato, se da en un contexto de conocidas tensiones internas que atraviesa la formación política La Libertad Avanza.\n\n💡 **¿Por qué importa?**\n• Este acontecimiento subraya el funcionamiento riguroso de la línea de sucesión constitucional argentina, garantizando la continuidad del Poder Ejecutivo incluso ante ausencias de sus máximas autoridades.\n• Destaca el rol clave de los liderazgos legislativos y su capacidad para asumir responsabilidades de Estado, aunque sea de forma transitoria, cuando la cúpula ejecutiva se encuentra fuera del país.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Con Milei y Villarruel de viaje, Bartolomé Abdala queda a cargo de la Presidencia",
-          "link": "https://www.perfil.com/noticias/politica/con-milei-y-villarruel-de-viaje-abdala-queda-a-cargo-de-la-presidencia.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-09 02:00:00"
-        },
-        {
-          "titulo": "Bartolomé Abdala quedó a cargo de la Presidencia ante la ausencia de Milei y Villarruel",
-          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid08122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-08 23:59:00"
-        },
-        {
-          "titulo": "Con Javier Milei y Victoria Villarruel en el exterior, Bartolomé Abdala quedó a cargo de la Presidencia",
-          "link": "https://www.ambito.com/politica/con-javier-milei-y-victoria-villarruel-el-exterior-bartolome-abdala-quedo-cargo-la-presidencia-n6222080",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 23:40:00"
-        },
-        {
-          "titulo": "Por qué Bartolomé Abdala es el actual Presidente de la Nación",
-          "link": "https://www.minutouno.com/politica/por-que-bartolome-abdala-es-el-actual-presidente-la-nacion-n6222057",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 21:45:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "sesiones_extraordinarias_y_20251209",
-      "tema": "Sesiones Extraordinarias y Consejo Mayo",
-      "tema_normalizado": "sesiones extraordinarias y consejo mayo",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno oficializó la convocatoria a Sesiones Extraordinarias del Congreso entre el 10 y el 30 de diciembre para tratar un paquete de seis proyectos clave.\n• En paralelo, el Consejo de Mayo, un órgano consultivo, concluyó su última reunión, preparando un informe final con propuestas legislativas para el Ejecutivo.\n\n🔍 **Datos clave:**\n• **Fecha Sesiones Extraordinarias:** Del 10 al 30 de diciembre.\n• **Decreto de Convocatoria:** 865/2025.\n• **Proyectos a tratar:** Presupuesto 2026, Ley de Inocencia Fiscal, Ley de Compromiso Nacional para la Estabilidad Fiscal y Monetaria, Ley de Modernización Laboral, Reforma del Código Penal, y Adecuación de la Ley de Glaciares.\n• **Integrantes del Consejo de Mayo:** Ministro Federico Sturzenegger, Gobernador Alfredo Cornejo, Senadora Carolina Losada, Diputado Cristian Ritondo, Gremialista Gerardo Martínez, y Empresario Martín Rappallini (entre otros anfitriones gubernamentales como Manuel Adorni).\n• **Puntos del Pacto de Mayo:** 10, impulsados por el Presidente Javier Milei con gobernadores.\n\n⚡ **Desarrollo:**\n• El Presidente Javier Milei y su Jefe de Gabinete, Manuel Adorni, firmaron el decreto que establece los temas a debatir en las Sesiones Extraordinarias.\n• La principal meta del Gobierno es aprobar el Presupuesto 2026, considerado una señal de estabilidad para los mercados.\n• La Ley de Inocencia Fiscal busca modificar el régimen tributario, elevando el umbral de fraude fiscal y acortando plazos de prescripción.\n• La reforma del Código Penal plantea endurecer penas, ampliar conductas punibles y revisar el régimen de prescripción y excarcelaciones.\n• La propuesta de Modernización Laboral y la adecuación de la Ley de Glaciares también forman parte de la agenda, buscando dinamizar el mercado de trabajo y alentar inversiones mineras.\n• El Consejo de Mayo se reunió por sexta y última vez para ajustar el informe final con las conclusiones de sus encuentros anuales.\n• Este Consejo, creado para avanzar en los diez puntos del Pacto de Mayo, elaboró borradores de reformas cruciales como la laboral, tributaria y educativa.\n• Se busca que el informe final plasme tanto los consensos como las posturas sectoriales, como el rechazo sindical a la esencia de la reforma laboral.\n• Algunos puntos del Pacto de Mayo, como la reforma previsional y la redistribución de fondos coparticipables, quedaron fuera de este período extraordinario para ser tratados en 2026.\n\n💡 **¿Por qué importa?**\n• Estas sesiones extraordinarias son cruciales para la agenda legislativa del Gobierno, buscando aprobar reformas estructurales que considera vitales para la economía y la sociedad.\n• El trabajo del Consejo de Mayo, aunque no vinculante, representa un esfuerzo por generar consensos intersectoriales en torno a las reformas propuestas, influyendo en el debate parlamentario.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "El Gobierno oficializó la convocatoria a sesiones extraordinarias y definió los asuntos que se tratarán",
-          "link": "https://www.lanacion.com.ar/politica/el-gobierno-oficializo-la-convocatoria-a-sesiones-extraordinarias-y-definio-los-asuntos-que-se-nid09122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-09 01:58:53"
-        },
-        {
-          "titulo": "El Consejo de Mayo se reúne por última vez en la previa a las sesiones extraordinarias",
-          "link": "https://www.minutouno.com/politica/el-consejo-mayo-se-reune-ultima-vez-la-previa-las-sesiones-extraordinarias-n6222048",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-09 00:11:00"
-        },
-        {
-          "titulo": "El Gobierno oficializó el llamado a sesiones extraordinarias en el Congreso: hasta cuándo se extenderán y qué temas se tratarán",
-          "link": "https://www.clarin.com/politica/gobierno-oficializo-llamado-sesiones-extraordinarias-extenderan-temas-trataran_0_EHSf4n31CI.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-09 00:10:21"
-        },
-        {
-          "titulo": "El Consejo de Mayo se reunirá este martes por última vez y prepara el envío del informe final al Congreso",
-          "link": "https://www.ambito.com/politica/el-consejo-mayo-se-reunira-este-martes-ultima-vez-y-prepara-el-envio-del-informe-final-al-congreso-n6221975",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 17:10:00"
-        },
-        {
-          "titulo": "Última reunión del Consejo de Mayo antes de las sesiones extraordinarias en el Congreso: los detalles",
-          "link": "https://www.minutouno.com/politica/ultima-reunion-del-consejo-mayo-antes-las-sesiones-extraordinarias-el-congreso-los-detalles-n6221947",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-08 15:07:00"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Clarín",
-        "Ámbito Financiero",
-        "Minuto1",
-        "La Nación"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "megamineria_mendoza:_proyecto_20251209",
-      "tema": "Megaminería Mendoza: Proyecto San Jorge",
-      "tema_normalizado": "megamineria mendoza: proyecto san jorge",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La Legislatura de Mendoza debate la aprobación final del proyecto de megaminería San Jorge, renombrado como PSJ Cobre Mendocino, que generó una fuerte división en la provincia.\n*   En respuesta, una masiva caravana ciudadana, la \"Gesta Libertadora por el Agua\", se moviliza a pie desde Uspallata hacia la capital mendocina, exigiendo el rechazo de la iniciativa por sus potenciales riesgos hídricos.\n*   El presidente Javier Milei ha expresado su firme respaldo público al proyecto, instando a los legisladores a aprobarlo y calificándolo de \"enorme oportunidad\" económica y de inversión.\n\n🔍 **Datos clave:**\n*   **Inversión estimada:** USD 600 millones.\n*   **Producción esperada:** 40.000 toneladas anuales de concentrado de cobre.\n*   **Ubicación principal:** A 37 kilómetros de la localidad de Uspallata y 97 km de la Ciudad de Mendoza.\n*   **Movilización ciudadana:** Caravana de \"más de 100 kilómetros\" desde Uspallata, con una duración de dos días.\n*   **Historial del proyecto:** Ya había sido rechazado en 2011, antes de ser rediseñado y vuelto a presentar.\n\n⚡ **Desarrollo:**\n*   El proyecto PSJ Cobre Mendocino busca la sanción definitiva de su Declaración de Impacto Ambiental (DIA) en el Senado provincial, tras haber obtenido media sanción en la Cámara de Diputados.\n*   Vecinos, agrupaciones socioambientales y la Asamblea por el Agua de Uspallata sostienen que el emprendimiento representa un grave riesgo para la disponibilidad y calidad del agua en una región ya considerada ambientalmente frágil.\n*   La movilización actual se consolida como una de las protestas ambientalistas más significativas de Mendoza desde las masivas manifestaciones de 2019 contra la Ley 7722.\n*   El presidente Javier Milei, junto con la vicegobernadora mendocina Hebe Casado, defiende el proyecto como una fuente crucial de inversión y progreso para la provincia.\n*   Milei ha criticado la oposición, especialmente al \"kirchnerismo\", por lo que considera una postura sistemáticamente contraria al sector privado y al desarrollo productivo.\n*   En la Legislatura, el oficialismo provincial (Cambia Mendoza y PRO) busca asegurar los votos necesarios en el Senado, enfrentando la negativa del interbloque peronista (PJ) y del Partido Verde.\n*   Junto con el PSJ Cobre Mendocino, también se debaten otras tres iniciativas relacionadas con la minería: la DIA de Malargüe Distrito Minero Occidental II, la creación del Fondo de Compensación Ambiental y la regulación del Régimen de Regalías Mineras.\n\n💡 **¿Por qué importa?**\n*   La aprobación o rechazo del proyecto definirá el rumbo del modelo productivo y económico de Mendoza, con implicaciones significativas para la diversificación de su matriz energética y productiva.\n*   Este debate representa un punto de inflexión en la discusión sobre el equilibrio entre el desarrollo industrial y la protección del recurso hídrico, esencial para la vida y la economía de la provincia.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Máxima tensión en Mendoza por proyecto de megaminería impulsado por Milei que compromete el acceso al agua",
-          "link": "https://www.perfil.com/noticias/politica/maxima-tension-en-mendoza-por-proyecto-de-megamineria-impulsado-por-milei-que-compromete-el-acceso-al-agua.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-08 22:49:00"
-        },
-        {
-          "titulo": "Javier Milei pidió aprobar el proyecto San Jorge y aseguró que es \"una enorme oportunidad\" para Mendoza",
-          "link": "https://www.ambito.com/politica/javier-milei-pidio-aprobar-el-proyecto-san-jorge-y-aseguro-que-es-una-enorme-oportunidad-mendoza-n6222059",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-08 22:14:00"
-        },
-        {
-          "titulo": "Javier Milei llamó a los legisladores mendocinos a votar por proyectos que fomentan la minería en la provincia",
-          "link": "https://www.clarin.com/politica/javier-milei-llamo-legisladores-mendocinos-votar-proyectos-fomentan-mineria-provincia_0_P9Lu23zAX7.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-08 18:18:58"
-        }
-      ],
-      "categoria_principal": "politica",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "aumentos_salariales_empleadas_20251209",
-      "tema": "Aumentos Salariales Empleadas Domésticas",
-      "tema_normalizado": "aumentos salariales empleadas domesticas",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno oficializó aumentos salariales para las empleadas de casas particulares, aplicables en noviembre y diciembre de 2025.\n*   La medida busca recomponer el poder adquisitivo de este sector laboral, considerado uno de los más vulnerables.\n*   Los incrementos, junto con un bono extraordinario, fueron acordados por la Comisión Nacional de Trabajo en Casas Particulares y publicados en el Boletín Oficial.\n\n🔍 **Datos clave:**\n*   **Aumento noviembre 2025:** 1,4% sobre las remuneraciones mínimas vigentes a septiembre de 2025.\n*   **Aumento diciembre 2025:** 1,3% adicional, calculado sobre los valores ajustados de noviembre de 2025.\n*   **Total de incremento:** 2,7% para los meses de noviembre y diciembre de 2025.\n*   **Bono no remunerativo:** Se abonará junto a los salarios de noviembre y diciembre de 2025.\n*   **Conversión a remunerativo:** El bono se incorporará al salario básico de forma remunerativa a partir de enero de 2026.\n*   **Montos del bono:** $14.000 para jornadas de 16 horas o más por semana; $9.000 para entre 12 y menos de 16 horas semanales; $6.000 para menos de 12 horas semanales.\n*   **Resolución oficial:** 3/2025 de la Comisión Nacional de Trabajo en Casas Particulares, firmada por su presidenta, Sara Alicia Gatti.\n\n⚡ **Desarrollo:**\n*   Los incrementos salariales se aplican a todas las categorías del servicio doméstico contempladas bajo la Ley N° 26.844, impactando en valores horarios y mensuales.\n*   Esta medida impacta directamente sobre los ingresos de más de 1,3 millones de personas empleadas de casas particulares en Argentina.\n*   La decisión fue el resultado de un acuerdo alcanzado en la Comisión Nacional de Trabajo en Casas Particulares, que reúne a representantes de empleadores, trabajadores y el Estado.\n*   Estos aumentos siguen a la última actualización salarial que se había distribuido entre julio, agosto y septiembre, dejando al mes de octubre sin ajustes.\n*   El bono extraordinario busca compensar la pérdida de poder adquisitivo acumulada durante el tramo final del año, especialmente relevante para este sector.\n*   Al convertirse en remunerativo en enero de 2026, el bono se suma al salario base, fortaleciendo de manera permanente los ingresos de las trabajadoras.\n*   Por ejemplo, el salario mínimo mensual para tareas generales con retiro (quinta categoría) asciende a $379.784,94 en noviembre y a $384.722,14 en diciembre.\n*   Estos valores mínimos son de alcance nacional y sobre ellos se deben adicionar conceptos como antigüedad, aportes previsionales y contribuciones a la obra social.\n\n💡 **¿Por qué importa?**\n*   Garantiza la actualización de los ingresos mínimos para un sector laboral fundamental y vulnerable, contribuyendo a paliar los efectos de la inflación.\n*   Ofrece un alivio económico inmediato con el bono de fin de año y una mejora estructural al incorporarse al salario fijo a principios del próximo año.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "Confirmaron el aumento para las empleadas de casas particulares: cuáles son los nuevos valores fijados",
-          "link": "https://www.infobae.com/economia/2025/12/09/confirmaron-el-aumento-para-las-empleadas-de-casas-particulares-cuales-son-los-nuevos-valores-fijados/",
+          "titulo": "El Gobierno anunció una nueva baja de retenciones a las exportaciones de granos",
+          "link": "https://www.infobae.com/economia/2025/12/09/el-gobierno-anuncio-una-nueva-baja-de-retenciones-las-exportaciones-de-granos/",
           "fuente": "Infobae",
-          "fecha": "2025-12-09 04:22:12"
+          "fecha": "2025-12-09 09:18:25"
         },
         {
-          "titulo": "El Gobierno oficializó los aumentos de fin de año para los empleados domésticos y un bono para 2026",
-          "link": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-los-aumentos-de-fin-de-ano-para-los-empleados-domesticos-y-un-bono-para-2026-nid09122025/",
+          "titulo": "Baja de retenciones, en vivo: repercusiones del anuncio del Gobierno para el campo este martes 9 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/campo/baja-de-retenciones-en-vivo-repercusiones-del-anuncio-del-gobierno-para-el-campo-este-martes-9-de-nid09122025/",
           "fuente": "La Nación",
-          "fecha": "2025-12-09 02:47:44"
+          "fecha": "2025-12-09 09:14:58"
         },
         {
-          "titulo": "Empleadas domésticas: el Gobierno confirmó los aumentos de noviembre y diciembre 2025",
-          "link": "https://www.clarin.com/economia/empleadas-domesticas-gobierno-confirmo-aumentos-noviembre-diciembre-2025_0_OU3B0jeBPP.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-09 02:27:17"
+          "titulo": "El Gobierno anunció una nueva baja de retenciones a los granos: la soja pasará del 26% al 24%",
+          "link": "https://www.ambito.com/economia/el-gobierno-anuncio-una-nueva-baja-retenciones-los-granos-soja-pasara-del-26-al-24-n6222123",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 08:59:53"
+        },
+        {
+          "titulo": "Luis Caputo anunció una nueva baja en las retenciones para el campo",
+          "link": "https://www.minutouno.com/economia/luis-caputo-anuncio-una-nueva-baja-las-retenciones-el-campo-n6222122",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-09 08:50:00"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-09",
       "fuentes": [
-        "Clarín",
+        "La Nación",
+        "Ámbito Financiero",
         "Infobae",
-        "La Nación"
+        "Minuto1"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -386,54 +55,83 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "pilar:_rechazo_tasas_20251209",
-      "tema": "Pilar: Rechazo Tasas Ambientales",
-      "tema_normalizado": "pilar: rechazo tasas ambientales",
-      "resumen": "📌 **¿Qué está pasando?**\n• El Municipio de Pilar implementó una nueva Tasa de Protección Ambiental que grava las compras en ciertos rubros comerciales, como los supermercados.\n• La Cámara de Comercio de Pilar (SCIPA) y la Asociación de Supermercados Unidos (ASU) han manifestado su \"firme rechazo\" a esta medida.\n• Advierten sobre el impacto negativo en los precios para los consumidores, la competitividad comercial y la imposibilidad de implementación en el plazo establecido.\n\n🔍 **Datos clave:**\n• **Nueva Tasa:** 2% sobre el valor de cada venta neta (sin IVA) en rubros como supermercados, sumándose a la Tasa de Seguridad e Higiene del 4,5%.\n• **Alícuota previa:** La Tasa de Protección Ambiental era un monto fijo de $69, ahora se basa en un porcentaje sobre el ticket de compra.\n• **Fecha de vigencia:** 15 de diciembre, establecida por el municipio.\n• **Pedido de postergación:** La ASU solicitó que la entrada en vigencia se postergue al 1° de marzo de 2025.\n• **Ordenanza:** Ordenanza Tarifaria 2026 / Ordenanza Fiscal y la Ordenanza Impositiva 2026.\n• **Actores involucrados:** SCIPA, ASU (representando a cadenas como Coto, Carrefour, Cencosud, Changomas, Diarco, Vital, Makro, Osle, La Economía).\n• **Población de Pilar:** Más de 395.000 habitantes.\n• **Plazo técnico estimado:** Mínimo de tres meses para la adaptación de sistemas de cobro.\n\n⚡ **Desarrollo:**\n• El principal motivo de rechazo de SCIPA es la falta de consulta previa y diálogo con el sector privado, lamentando enterarse de la medida a través de los medios.\n• SCIPA advierte sobre un impacto económico negativo, incluyendo aumento de costos no trasladables, pérdida de competitividad frente a municipios vecinos y distorsión tributaria.\n• La ASU sostiene que la activación de la nueva alícuota del 2% es imposible de cumplir para el 15 de diciembre, ya que requiere complejos desarrollos técnicos y cambios en los sistemas de cajas.\n• La medida, que coincide con el pico de demanda de fin de año, es catalogada como un \"pseudo impuesto\" que generará un encarecimiento directo del 2% en las góndolas para los clientes de Pilar.\n• Los comerciantes temen una migración de compras hacia otras localidades, generando competencia desleal y afectando la circulación económica local, el empleo y los proveedores.\n• Tanto SCIPA como la ASU han solicitado formalmente mesas de diálogo y audiencias urgentes a la Secretaría de Hacienda del municipio, sin obtener respuesta oficial hasta el momento.\n\n💡 **¿Por qué importa?**\n• Impacta directamente en el bolsillo de los consumidores de Pilar, encareciendo productos esenciales en un contexto de contracción del consumo y recesión económica.\n• Amenaza la competitividad y sostenibilidad de los comercios locales, pudiendo generar pérdida de empleo y fuga de capitales hacia municipios cercanos.",
-      "cantidad_noticias": 3,
+      "tema_id": "cotizacion_dolar_argentina_20251209",
+      "tema": "Cotización Dólar Argentina Diaria",
+      "tema_normalizado": "cotizacion dolar argentina diaria",
+      "resumen": "📌 **¿Qué está pasando?**\n• El dólar en Argentina exhibe una \"calma cambiaria\" este martes 9 de diciembre, con la mayoría de sus cotizaciones estables o a la baja.\n• Esta estabilidad se vincula directamente con el anuncio del gobierno sobre su regreso al mercado internacional de deuda.\n• Actualmente, el dólar blue se destaca por ser uno de los tipos de cambio más económicos del mercado.\n\n🔍 **Datos clave:**\n• **Fecha:** Martes 9 de diciembre.\n• **Dólar Oficial (Banco Nación - Venta):** $1.460.\n• **Dólar Mayorista:** $1.435 (registró una caída de cuatro días consecutivos).\n• **Dólar Blue (Venta):** $1.435.\n• **Dólar MEP (Bolsa - Venta):** $1.472,92.\n• **Dólar CCL (Contado con Liquidación - Venta):** $1.504,82.\n• **Dólar Tarjeta/Turista:** $1.898 (Resulta del dólar oficial minorista más un 30% de recargo).\n• **Dólar Cripto (Venta):** $1.489,54.\n• **Vencimientos de deuda en enero:** Aproximadamente u$s4.200 millones.\n• **Proyección IPC (noviembre):** Se espera que se mantenga por encima del 2%.\n\n⚡ **Desarrollo:**\n• El ministro de Economía, Luis Caputo, anunció que Argentina emitirá un bono en dólares bajo ley local con vencimiento en 2029 para cubrir parte de los vencimientos de deuda de enero.\n• Esta estrategia busca generar confianza en los mercados y aprovechar la mayor demanda de pesos hacia fin de año, impulsada por aguinaldos y obligaciones empresariales.\n• El Fondo Monetario Internacional (FMI) manifestó preocupación por la falta de acumulación de reservas, incluso tras una reducción de la meta, y se espera que conceda un nuevo \"waiver\" (perdón) por este incumplimiento.\n• La cotización del dólar oficial mayorista se ha alejado del techo de la banda cambiaria establecida por el Banco Central (BCRA), contribuyendo a la calma.\n• Los dólares financieros como el MEP y el CCL permiten la adquisición de divisa a través de operaciones con bonos, ofreciendo alternativas legales al mercado informal.\n\n💡 **¿Por qué importa?**\n• La estabilidad del tipo de cambio es fundamental para la economía argentina y para mantener la confianza en las políticas gubernamentales.\n• La capacidad del país para financiarse en los mercados internacionales y la reconstrucción de las reservas del BCRA son vitales para la estabilidad económica futura.",
+      "cantidad_noticias": 13,
       "noticias": [
         {
-          "titulo": "Comercios de Pilar manifiestan su \"rechazo\" a la suba de la Tasa de Protección Ambiental",
-          "link": "https://www.iprofesional.com/impuestos/443593-comercios-de-pilar-manifiestan-su-preocupacion-por-la-tasa-de-proteccion-ambiental",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-09 01:28:00"
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este martes 9 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-martes-9-de-diciembre-nid09122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-09 09:19:00"
         },
         {
-          "titulo": "Supermercados exigen frenar suba de tasas en Pilar y estos son los municipios que más cobran",
-          "link": "https://www.iprofesional.com/economia/443590-supermercados-exigen-frenar-suba-tasas-pilar-que-municipios-bonaerenses-cobran-mas",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-08 18:19:00"
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 9 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-9-diciembre-n6222096",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 08:47:00"
         },
         {
-          "titulo": "Supermercados piden frenar la suba de la tasa en Pilar: el ranking de municipios bonaerenses que más cobran",
-          "link": "https://www.clarin.com/economia/supermercados-piden-frenar-suba-tasa-pilar-ranking-municipios-bonaerenses-cobran_0_tMeo24wzHC.html",
+          "titulo": "El dólar prolonga la calma cambiaria y la city se enfoca en la vuelta al mercado de deuda",
+          "link": "https://www.ambito.com/finanzas/el-dolar-prolonga-la-calma-cambiaria-y-la-city-se-enfoca-la-vuelta-al-mercado-deuda-n6222105",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 08:26:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 9 de diciembre, minuto a minuto",
+          "link": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-martes-9-diciembre-minuto-minuto_0_aUkg9tF1zn.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-08 14:01:41"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-09",
-      "fuentes": [
-        "Clarín",
-        "iProfesional"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "dolar_blue_argentina_20251209",
-      "tema": "Dólar Blue Argentina Cotización Diaria",
-      "tema_normalizado": "dolar blue argentina cotizacion diaria",
-      "resumen": "📌 **¿Qué está pasando?**\n• La cotización del dólar blue en Argentina es un punto clave en el mercado financiero informal.\n• Este martes 09 de diciembre de 2025, el valor de referencia del dólar blue se estableció en $1415 para la compra y $1435 para la venta.\n• El dólar blue opera fuera de los canales bancarios oficiales, reflejando la demanda de divisas en un mercado paralelo.\n\n🔍 **Datos clave:**\n• **Cotización Dólar Blue (09/12/2025):** Compra $1415, Venta $1435.\n• **Cotización Dólar Oficial (09/12/2025):** Compra $1415, Venta $1435 (según Banco Nación, mismo día).\n• **Brecha Oficial/Blue (09/12/2025):** 0%, aunque se destaca que suele haber una diferencia sustancial.\n• **Dólar Bolsa (MEP) (09/12/2025):** Compra $1475,90, Venta $1479,60.\n• **Variación en diciembre 2025:** Sube 1% respecto al mes anterior.\n• **Variación anual 2025:** Aumenta 35% respecto al cierre de 2024.\n• **Cierre 2024:** Aproximadamente $1230, con un incremento anual del 16,7%.\n• **Aumento histórico 2020:** El dólar blue registró un brusco salto del 111% ese año.\n\n⚡ **Desarrollo:**\n• El dólar blue es la divisa estadounidense que se comercializa en el mercado no regulado o \"mercado negro\", sin pasar por bancos ni casas de cambio oficiales.\n• Generalmente, su valor es más alto que el del dólar oficial, y los precios se negocian directamente entre las personas o en puntos informales conocidos como \"cuevas\".\n• A pesar de la brecha del 0% reportada para el 09 de diciembre de 2025, el dólar blue suele presentar una diferencia \"sustancial\" con el dólar oficial debido a las restricciones de acceso a este último.\n• La cotización diaria del dólar blue cierra a las 15 horas, de lunes a viernes, al igual que la del dólar oficial.\n• Su nombre, \"blue\", tiene varias explicaciones: puede referirse a algo \"oscuro\" o clandestino, a las \"blue chips\" (acciones de empresas reconocidas), o al color que emerge al detectar billetes falsos con un fibrón.\n• A lo largo de los años, el dólar blue ha experimentado alzas significativas, como el 111% en 2020 y el 16,7% en 2024, evidenciando su volatilidad y la búsqueda de refugio de valor.\n\n💡 **¿Por qué importa?**\n• La cotización del dólar blue es un termómetro clave de la economía argentina, reflejando la confianza y la incertidumbre en el país.\n• Su valor impacta directamente en la formación de precios, el poder adquisitivo de los ciudadanos y las decisiones financieras de familias y empresas.",
-      "cantidad_noticias": 2,
-      "noticias": [
+          "fecha": "2025-12-09 07:15:29"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este martes 09 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-martes-09-diciembre_0_JDDCARzQOH.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 07:08:01"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este martes 09 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-martes-09-diciembre_0_0nvyshMhiE.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 07:08:00"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este martes 09 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-martes-09-diciembre_0_kAWjJD2EU9.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 07:05:02"
+        },
+        {
+          "titulo": "Dólar cripto hoy: a cuánto cotiza este martes 09 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-cripto-hoy-cotiza-martes-09-diciembre_0_t3Ko17RdsV.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 07:05:01"
+        },
+        {
+          "titulo": "Precio confirmado del dólar en Banco Nación para cuando abra este martes 9 de diciembre",
+          "link": "https://www.iprofesional.com/economia/443535-precio-confirmado-del-dolar-en-banco-nacion-para-cuando-abra-este-martes-9-de-diciembre",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-09 05:13:00"
+        },
         {
           "titulo": "Dólar blue hoy: a cuánto cotiza este martes 09 de diciembre",
           "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-martes-09-diciembre_0_OT00SIMQSO.html",
           "fuente": "Clarín",
           "fecha": "2025-12-09 04:00:02"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cotiza este martes 9 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-9-diciembre-n6222062",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 00:00:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este martes 9 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-9-diciembre-n6222064",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 00:00:00"
         },
         {
           "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este martes 9 de diciembre",
@@ -445,8 +143,176 @@
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-09",
       "fuentes": [
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1",
+        "La Nación",
+        "Clarín"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "agenda_legislativa:_reforma_20251209",
+      "tema": "Agenda Legislativa: Reforma Laboral y Extraordinarias",
+      "tema_normalizado": "agenda legislativa: reforma laboral y extraordinarias",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno argentino, encabezado por Javier Milei, ha convocado a sesiones extraordinarias en el Congreso de la Nación desde el 10 hasta el 30 de diciembre.\n• La agenda legislativa busca tratar proyectos cruciales, destacándose la reforma laboral y el Presupuesto General de la Administración Nacional para 2026.\n• Esta medida busca un marco normativo actualizado y agilizar políticas urgentes para el país.\n\n🔍 **Datos clave:**\n• **Período Extraordinario:** Del 10 al 30 de diciembre.\n• **Decreto de Convocatoria:** DNU 865/2025.\n• **Proyectos en Agenda:** 6 leyes (Presupuesto 2026, Modernización Laboral, Inocencia Fiscal, Compromiso Nacional para la Estabilidad Fiscal, Reforma Código Penal, Adecuación Ley de Glaciares).\n• **Fondo de Asistencia Laboral (FAL):** Aporte obligatorio del 3% de la masa salarial por las empresas.\n• **Actores Clave:** Presidente Javier Milei, Jefe de Gabinete Manuel Adorni, Patricia Bullrich, Federico Sturzenegger, CGT, Consejo de Mayo.\n\n⚡ **Desarrollo:**\n• La **Reforma Laboral** busca modernizar el mercado de trabajo, reducir los costos de despido e indemnizaciones, y alivianar cargas patronales para fomentar el empleo formal.\n• Propone flexibilizar condiciones (ej. contratos a tiempo parcial, salarios en pesos u otras monedas, o por productividad) y crea el **FAL**, un fondo para indemnizaciones financiado con el 3% de la masa salarial empresarial, con descuentos de aportes previsionales.\n• La iniciativa también impulsa el **Régimen de Incentivo para Medianas Inversiones (RIMI)**, con beneficios fiscales para pymes que realicen inversiones productivas.\n• La **CGT** se opone fuertemente al proyecto, considerándolo su mayor desafío en 40 años, y busca el apoyo de gobernadores y bloques legislativos opositores para frenarlo.\n• El **Presupuesto 2026** es la prioridad del Ejecutivo para señalar orden fiscal a los mercados y espera obtener media sanción en la Cámara de Diputados rápidamente.\n• La **Reforma del Código Penal** busca endurecer penas, ampliar el listado de delitos y modificar criterios de prescripción y excarcelación, alineándose con la \"doctrina Bullrich\".\n• Otros proyectos incluyen la Ley de Inocencia Fiscal (modificación tributaria) y la adecuación del Régimen de Glaciares, otorgando mayor potestad a las provincias en la definición de zonas periglaciares.\n\n💡 **¿Por qué importa?**\n• Estas reformas son pilares fundamentales de la agenda del Gobierno, apuntando a cambios estructurales en la economía, el empleo y el sistema legal.\n• Su aprobación o rechazo marcará la capacidad de negociación del Ejecutivo y el balance de poder entre los distintos actores políticos y sociales en Argentina.",
+      "cantidad_noticias": 12,
+      "noticias": [
+        {
+          "titulo": "Reforma laboral, EN VIVO: qué propone el proyecto de ley, los cambios en las indemnizaciones y cuándo se trataría en el Congreso",
+          "link": "https://www.clarin.com/politica/reforma-laboral-vivo-propone-proyecto-ley-cambios-indemnizaciones-trataria-congreso_0_v1dAOb7IaY.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 08:54:12"
+        },
+        {
+          "titulo": "Patricia Bullrich reveló algunos aspectos del proyecto de reforma laboral",
+          "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-revelo-algunos-aspectos-del-proyecto-de-reforma-laboral-nid07122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-09 08:44:34"
+        },
+        {
+          "titulo": "Es oficial el llamado a sesiones extraordinarios por parte del Gobierno: todos los detalles",
+          "link": "https://www.minutouno.com/politica/es-oficial-el-llamado-sesiones-extraordinarios-parte-del-gobierno-todos-los-detalles-n6222106",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-09 08:40:00"
+        },
+        {
+          "titulo": "Salió el decreto que convoca al Congreso a sesiones extraordinarias para tratar el presupuesto y la reforma laboral",
+          "link": "https://www.perfil.com/noticias/politica/salio-el-decreto-que-convoca-al-congreso-a-sesiones-extraordinarias-para-tratar-el-presupuesto-y-la-reforma-laboral.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-09 08:14:00"
+        },
+        {
+          "titulo": "El Gobierno oficializó el llamado a sesiones extraordinarias y fijó un temario con Presupuesto 2026 y reformas clave",
+          "link": "https://www.ambito.com/politica/el-gobierno-oficializo-el-llamado-sesiones-extraordinarias-y-fijo-un-temario-presupuesto-2026-y-reformas-clave-n6222088",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 07:14:00"
+        },
+        {
+          "titulo": "Reforma laboral: cómo funcionará el nuevo fondo que le transferiría al Estado el costo de la indemnización",
+          "link": "https://www.ambito.com/economia/reforma-laboral-como-funcionaran-los-fondos-que-financiaran-las-indemnizaciones-despido-n6221993",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 07:00:00"
+        },
+        {
+          "titulo": "La reforma laboral impulsa un RIGI para pymes: qué beneficios fiscales tienen las inversiones",
+          "link": "https://www.iprofesional.com/impuestos/443555-la-reforma-laboral-impulsa-un-rigi-para-pymes-los-beneficios-fiscales-para-inversiones",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-09 06:12:00"
+        },
+        {
+          "titulo": "Reforma laboral: frente a su mayor desafío en 40 años, la CGT se prepara para ir al choque contra Milei",
+          "link": "https://www.clarin.com/politica/reforma-laboral-frente-mayor-desafio-40-anos-cgt-prepara-ir-choque-milei_0_GhZ0dg2DSn.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 06:01:16"
+        },
+        {
+          "titulo": "Nueva encuesta y datos clave sobre dos temas calientes: reforma laboral y corrupción en el fútbol",
+          "link": "https://www.clarin.com/politica/nueva-encuesta-datos-clave-temas-calientes-reforma-laboral-corrupcion-futbol_0_U1L6OL2Qn0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 06:01:12"
+        },
+        {
+          "titulo": "El Gobierno oficializó el llamado a sesiones extraordinarias en el Congreso: hasta cuándo se extenderán y qué temas se tratarán",
+          "link": "https://www.clarin.com/politica/gobierno-oficializo-llamado-sesiones-extraordinarias-extenderan-temas-trataran_0_EHSf4n31CI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 00:10:21"
+        },
+        {
+          "titulo": "El Gobierno presenta el texto de la reforma laboral y avanza en otras iniciativas",
+          "link": "https://www.ambito.com/politica/el-gobierno-presenta-el-texto-la-reforma-laboral-y-avanza-otras-iniciativas-n6222007",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 00:00:00"
+        },
+        {
+          "titulo": "Congreso 2026: con la negociación por el Presupuesto como laboratorio, el Gobierno se entusiasma con cumplir sus promesas de reforma",
+          "link": "https://www.ambito.com/politica/congreso-2026-la-negociacion-el-presupuesto-como-laboratorio-el-gobierno-se-entusiasma-cumplir-sus-promesas-reforma-n6218929",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 00:00:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-09",
+      "fuentes": [
+        "iProfesional",
+        "Ámbito Financiero",
+        "Minuto1",
+        "La Nación",
         "Clarín",
-        "Minuto1"
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reorganizacion_y_medidas_20251209",
+      "tema": "Reorganización y Medidas Gobierno Milei",
+      "tema_normalizado": "reorganizacion y medidas gobierno milei",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei está llevando a cabo una amplia reorganización de su estructura y promoviendo importantes medidas en diversos sectores.\n• Estos cambios incluyen reestructuraciones de ministerios, nuevas designaciones en el gabinete y el impulso de reformas clave en el Congreso.\n• De forma excepcional, la ausencia simultánea del Presidente y la Vicepresidenta activó el mecanismo de acefalía presidencial.\n\n🔍 **Datos clave:**\n• **Decretos Principales:** Decreto 866/2025 (reorganización general), Decreto 869/2025 (Ministerio de Defensa), Decreto 865/2025 (sesiones extraordinarias).\n• **Período Sesiones Extraordinarias:** Del 10 al 30 de diciembre.\n• **Cambio en Defensa:** Luis Petri renunció el 9 de diciembre de 2025, siendo reemplazado por Carlos Alberto Presti el 10 de diciembre de 2025.\n• **Acefalía:** Bartolomé Abdala, senador por San Luis y presidente provisional del Senado, quedó a cargo del Poder Ejecutivo.\n• **Renuncia en Ciberdefensa:** Coronel (R) Marcelo Adrián Ozán renunció el 1 de diciembre de 2025, duró 19 días en el cargo.\n• **Cifras de Ciberdefensa:** Predio subastado en 34 millones de dólares, licitaciones cuestionadas por u$s21,8 millones.\n\n⚡ **Desarrollo:**\n• **Reorganización Gubernamental:** El Decreto 866/2025 formalizó una reestructuración de la Administración Pública, fusionando y redefiniendo áreas en Jefatura de Gabinete, Economía, Interior y Salud. El objetivo declarado es optimizar la gestión y actualizar el organigrama del Estado.\n• **Reforma Laboral Propuesta:** Se anunció un proyecto de reforma laboral \"ecuánime y moderado\" que buscará flexibilizar condiciones de trabajo, permitir contratos a tiempo parcial, nuevas modalidades salariales y un fondo de cese laboral opcional en reemplazo de la indemnización. Este proyecto se tratará en las próximas sesiones.\n• **Cambios en el Gabinete:** Se oficializó la salida de Luis Petri del Ministerio de Defensa, quien asume su banca como diputado nacional. Su reemplazo es el Teniente General Carlos Alberto Presti, cuya designación fue formalizada por Decreto 869/2025.\n• **Acefalía Presidencial:** Ante los viajes simultáneos de Javier Milei a Noruega y Victoria Villarruel a España, el presidente provisional del Senado, Bartolomé Abdala, asumió temporalmente el Poder Ejecutivo. Esta situación excepcional se rige por la Ley Nº 20.972 (Ley de Acefalía).\n• **Sesiones Extraordinarias Convocadas:** El Gobierno oficializó el llamado a sesiones en el Congreso del 10 al 30 de diciembre. El temario incluye proyectos cruciales como el Presupuesto 2026, la reforma laboral y del Código Penal, entre otros.\n• **Renuncia en Ciberdefensa:** Marcelo Adrián Ozán renunció a la Subsecretaría de Ciberdefensa en medio de denuncias por la enajenación de un predio estratégico del Comando Conjunto de Ciberdefensa en Puerto Madero. También hay investigaciones por presuntas irregularidades en licitaciones millonarias en el área.\n\n💡 **¿Por qué importa?**\n• Estas acciones demuestran la voluntad del gobierno de Milei de implementar rápidamente su agenda de reformas estructurales en la economía y el funcionamiento del Estado.\n• Los cambios propuestos y la reestructuración buscan una mayor eficiencia gubernamental y un nuevo rumbo para Argentina, con impactos significativos en la política, la economía y la sociedad.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid09122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-09 09:22:21"
+        },
+        {
+          "titulo": "Con Milei y Villarruel de viaje, un senador libertario quedó a cargo del Poder Ejecutivo",
+          "link": "https://www.infobae.com/politica/2025/12/09/con-milei-y-villarruel-de-viaje-un-senador-libertario-quedo-a-cargo-del-poder-ejecutivo/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-09 09:14:11"
+        },
+        {
+          "titulo": "El Gobierno oficializó la salida de Luis Petri de Defensa: la carta de despedida del exministro",
+          "link": "https://www.clarin.com/politica/gobierno-oficializo-salida-luis-petri-defensa-carta-despedida-exministro_0_aiPx1l5vX0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 08:20:09"
+        },
+        {
+          "titulo": "Javier Milei avanza con más cambios y una amplia reorganización del Gobierno: redefinió el funcionamiento de ministerios clave",
+          "link": "https://www.ambito.com/politica/javier-milei-avanza-mas-cambios-y-una-amplia-reorganizacion-del-gobierno-redefinio-el-funcionamiento-ministerios-clave-n6222092",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 07:57:00"
+        },
+        {
+          "titulo": "El Gobierno designó a Carlos Presti como nuevo ministro de Defensa, tras la salida de Luis Petri, e",
+          "link": "https://www.ambito.com/politica/tras-la-salida-luis-petri-el-gobierno-designo-carlos-presti-como-nuevo-ministro-defensa-n6222091",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 07:44:00"
+        },
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente está viajando a Noruega para asistir a la entrega del Premio Nobel de la Paz a María Corina Machado",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viajando-noruega-asistir-entrega-premio-nobel-paz-maria-corina-machado_0_SlJIo6LluT.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-09 07:33:43"
+        },
+        {
+          "titulo": "Con Milei y Villarruel de viaje, Bartolomé Abdala queda a cargo de la Presidencia",
+          "link": "https://www.perfil.com/noticias/politica/con-milei-y-villarruel-de-viaje-abdala-queda-a-cargo-de-la-presidencia.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-09 02:00:00"
+        },
+        {
+          "titulo": "Renunció el subsecretario de Ciberdefensa, en medio de denuncias y supuestos obstáculos al alineamiento con EEUU",
+          "link": "https://www.ambito.com/politica/renuncio-el-subsecretario-ciberdefensa-medio-denuncias-y-supuestos-obstaculos-al-alineamiento-eeuu-n6221983",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-09 00:00:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-09",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Infobae",
+        "La Nación",
+        "Clarín",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
