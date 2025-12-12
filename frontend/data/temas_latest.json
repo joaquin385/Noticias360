@@ -1,15 +1,83 @@
 {
   "fecha": "2025-12-12",
-  "fecha_generacion": "2025-12-12T06:34:08.034820",
-  "total_temas": 1,
+  "fecha_generacion": "2025-12-12T09:29:05.588007",
+  "total_temas": 10,
   "temas": [
     {
-      "tema_id": "cotizacion_dolar_y_20251212",
-      "tema": "Cotización Dólar y Euro Argentina",
-      "tema_normalizado": "cotizacion dolar y euro argentina",
-      "resumen": "📌 **¿Qué está pasando?**\n• La cotización del dólar en Argentina presenta diversas modalidades, con el dólar blue manteniéndose estable en $1.450 para la venta este 12 de diciembre de 2025.\n• El dólar oficial minorista del Banco Nación cerró el 11 de diciembre a $1.460 para la venta, mientras los dólares financieros (MEP y CCL) operan con brechas reducidas.\n• El euro también muestra cotizaciones paralelas, con el euro blue superando al oficial y al euro tarjeta, reflejo de las restricciones cambiarias.\n\n🔍 **Datos clave:**\n• **Dólar Blue (12/12/2025):** $1.450 (venta) y $1.430 (compra).\n• **Dólar Oficial BNA (11/12/2025):** $1.460 (venta) y $1.410 (compra).\n• **Dólar Oficial Mayorista (11/12/2025):** $1.436 (caída de $1,5 en la jornada).\n• **Euro Blue (11/12/2025):** $1.761,75 (venta) y $1.729,75 (compra).\n• **Euro Oficial BCRA (11/12/2025):** $1.729,03 (venta, promedio sin impuestos).\n• **Dólar MEP (11/12/2025):** $1.476,53 (brecha 2,8% con el oficial).\n• **Dólar CCL (11/12/2025):** $1.506,38 (brecha 4,9% con el oficial).\n• **Dólar Tarjeta (11/12/2025):** $1.898 (incluye 30% de recargo impositivo).\n• **Reservas Brutas Internacionales (11/12/2025):** u$s 41.819 millones (aumento de u$s 156 millones).\n\n⚡ **Desarrollo:**\n• El dólar blue, o informal, se negocia fuera de los canales bancarios y ha mantenido su valor sin cambios en las últimas jornadas, mostrando estabilidad temporal.\n• Su denominación \"blue\" se vincula a lo \"oscuro\" o a las \"blue chips\", siendo una referencia clave en un contexto de restricciones.\n• El dólar oficial mayorista bajó $1,5 el 11 de diciembre, cerrando en $1.436, tras una licitación de deuda (Bonar 2029N) que generó interés pero también algunas dudas.\n• El Tesoro Nacional intervino vendiendo dólares recientemente para satisfacer la demanda de divisas y mantener la calma cambiaria.\n• Otras cotizaciones como el dólar MEP y CCL, usadas para inversiones financieras, reflejan las expectativas del mercado y la \"brecha cambiaria\" con el oficial.\n• El dólar cripto (ej. Bitcoin) y el Real blue también ofrecen alternativas de cambio en el mercado, con sus propias cotizaciones diarias.\n\n💡 **¿Por qué importa?**\n• Las múltiples cotizaciones de divisas como el dólar y el euro evidencian la persistente inestabilidad económica en Argentina y la búsqueda de valor de resguardo.\n• Estos valores influyen directamente en la economía diaria de las personas y empresas, desde los costos de bienes y servicios hasta las decisiones financieras y de inversión.\n• La \"brecha cambiaria\" es un indicador clave de la presión sobre el tipo de cambio y la confianza general en la economía del país.",
-      "cantidad_noticias": 11,
+      "tema_id": "anses:_pagos_y_20251212",
+      "tema": "ANSES: Pagos y Beneficios Diciembre",
+      "tema_normalizado": "anses: pagos y beneficios diciembre",
+      "resumen": "📌 **¿Qué está pasando?**\n*   La Administración Nacional de la Seguridad Social (ANSES) está llevando a cabo el calendario de pagos de diciembre de 2025 para diversas prestaciones sociales.\n*   Estos pagos incluyen jubilaciones, pensiones, asignaciones familiares y el medio aguinaldo, distribuyéndose según la terminación del DNI de cada beneficiario.\n*   Todos los haberes y beneficios se liquidan con un aumento, además de un bono extraordinario para los sectores más vulnerables.\n\n🔍 **Datos clave:**\n*   **Aumento general:** 2.34% aplicado a todas las prestaciones sociales, en línea con la inflación de octubre.\n*   **Bono extraordinario:** $70.000 destinado a jubilaciones y pensiones mínimas, Pensiones No Contributivas (PNC) y Prestación Universal para el Adulto Mayor (PUAM).\n*   **Jubilación mínima total (diciembre 2025):** $581.319,38 (incluye haber mínimo de $340.879,59, bono y aguinaldo).\n*   **Jubilación máxima total (diciembre 2025):** $3.440.695,38 (incluye haber máximo de $2.293.796,92 y aguinaldo).\n*   **Pagos del 12 de diciembre:** Jubilaciones mínimas DNI 4 y 5; Asignación Universal por Hijo (AUH) y Asignación Familiar por Hijo DNI 3; Asignación por Embarazo DNI 2; Pensiones No Contributivas (PNC) DNI 6, 7, 8 y 9.\n\n⚡ **Desarrollo:**\n*   En diciembre de 2025, todas las prestaciones sociales de ANSES se ajustan con una suba del 2.34%, basada en el incremento de precios de octubre.\n*   El bono de $70.000 se acredita junto a los haberes y se otorga de forma proporcional a quienes superan el haber mínimo, hasta un tope de $410.879,59.\n*   La segunda cuota del aguinaldo se distribuye en la misma fecha que la prestación principal para jubilados y pensionados.\n*   El calendario de pagos se extiende a lo largo del mes, asegurando una distribución ordenada de los fondos de acuerdo con el último dígito del DNI.\n*   La Prestación Universal para el Adulto Mayor (PUAM) alcanza un total de $479.055,5 con bono y aguinaldo, y las PNC por invalidez o vejez suman $427.923,56.\n*   Las Asignaciones Universal por Hijo (AUH) y por Embarazo (AUE) tienen un monto de $97.993,42, con el 20% retenido hasta la presentación digital de la Libreta AUH.\n*   Las Asignaciones de Pago Único por Nacimiento ($71.396) y Adopción ($426.877) se abonan entre el 10 de diciembre y el 12 de enero, sin distinción de DNI.\n\n💡 **¿Por qué importa?**\n*   Estos pagos e incrementos son fundamentales para brindar un respaldo económico a millones de jubilados, pensionados y familias, ayudándolos a afrontar el contexto inflacionario.\n*   La transparencia en el calendario y los montos permite a los beneficiarios conocer con precisión sus fechas de cobro y planificar sus gastos esenciales.",
+      "cantidad_noticias": 7,
       "noticias": [
+        {
+          "titulo": "Calendario de la Anses: todas las prestaciones sociales que se pagan este viernes 12 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-de-la-anses-todas-las-prestaciones-sociales-que-se-pagan-este-viernes-12-de-diciembre-nid12122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 06:12:00"
+        },
+        {
+          "titulo": "Anses: cuándo cobro la jubilación de diciembre si mi DNI termina en 5",
+          "link": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-diciembre-si-mi-dni-termina-en-5-nid12122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 06:10:00"
+        },
+        {
+          "titulo": "Jubilaciones de Anses: quiénes cobran este viernes 12 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/jubilaciones-de-anses-quienes-cobran-este-viernes-12-de-diciembre-nid12122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 06:07:00"
+        },
+        {
+          "titulo": "ANSES: cuándo cobro si mi DNI termina en 9",
+          "link": "https://www.infobae.com/economia/2025/12/12/anses-cuando-cobro-si-mi-dni-termina-en-9/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-12 06:00:01"
+        },
+        {
+          "titulo": "ANSES: quiénes cobran hoy, 12 de diciembre",
+          "link": "https://www.infobae.com/economia/2025/12/12/anses-quienes-cobran-hoy-12-de-diciembre/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-12 05:22:00"
+        },
+        {
+          "titulo": "Calendario de Anses: quiénes cobran la AUH este viernes 12 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/calendario-de-anses-quienes-cobran-la-auh-este-viernes-12-de-diciembre-nid12122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 05:07:00"
+        },
+        {
+          "titulo": "ANSES: el bono de más de $50.000 que beneficia a un grupo de jubilados",
+          "link": "https://www.minutouno.com/economia/anses-el-bono-mas-50000-que-beneficia-un-grupo-jubilados-n6222869",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 17:44:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Minuto1",
+        "Infobae",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "cotizacion_dolar_y_20251212",
+      "tema": "Cotización Dólar y Otras Divisas",
+      "tema_normalizado": "cotizacion dolar y otras divisas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Las cotizaciones de las diferentes variantes del dólar, así como del euro y el real, son un punto central en el mercado financiero argentino.\n• El viernes 12 de diciembre de 2025, el dólar blue cotizó en $1430 para la compra y $1450 para la venta, reflejando movimientos diarios y anuales significativos.\n• La diversidad de tipos de cambio, desde el oficial hasta el cripto, marca la complejidad del panorama cambiario en el país.\n\n🔍 **Datos clave:**\n• **Fecha Principal:** Viernes 12 de diciembre de 2025.\n• **Dólar Blue:** Compra $1430, Venta $1450.\n• **Dólar Oficial (Banco Nación):** Compra $1430, Venta $1450 (según una fuente).\n• **Dólar MEP (Dólar Bolsa):** Compra $1475.10, Venta $1480.80.\n• **Dólar Contado con Liquidación (CCL):** Compra $1506.10, Venta $1506.80.\n• **Dólar Tarjeta/Turista:** $1898.00.\n• **Dólar Cripto:** Compra $1503.82, Venta $1501.05.\n• **Euro Blue:** Compra $1761.75, Venta $1729.75 (venta menor a compra, según fuentes).\n• **Euro Oficial (Banco Nación):** Compra $1729.03, Venta $1634.78 (venta menor a compra, según fuentes).\n• **Real Blue (11/12/2025):** Compra $265.75, Venta $276.75.\n• **Riesgo País (12/12/2025):** 634 puntos básicos.\n• **Inflación de noviembre:** 2.5%.\n• **Variación Dólar Blue 2025:** Suba del 33% respecto a 2024.\n\n⚡ **Desarrollo:**\n• El dólar blue, o \"dólar negro\", opera en el mercado informal sin regulación oficial y suele tener un valor distinto al oficial, sin límites de compra.\n• El origen de su nombre se atribuye a la connotación de \"oscuro\", a las \"blue chips\" (acciones de empresas líderes) o al color de los marcadores para billetes falsos.\n• El dólar oficial es el tipo de cambio regulado por el Banco Central (BCRA) y el que se consigue en bancos y casas de cambio formales.\n• El dólar MEP y el CCL son alternativas legales para adquirir dólares mediante operaciones bursátiles o para transferencias al exterior, respectivamente.\n• El dólar tarjeta incluye recargos sobre el oficial para consumos en el exterior o plataformas digitales, mientras que el dólar cripto permite operar las 24 horas con monedas estables.\n• Las cotizaciones del euro y el real brasileño también presentan versiones oficiales y \"blue\", reflejando una demanda en el mercado paralelo para estas divisas.\n• En el contexto económico, el dólar oficial ha mostrado movimientos influenciados por acciones como la licitación de deuda del Tesoro, buscando financiamiento en moneda extranjera.\n\n💡 **¿Por qué importa?**\n• Las fluctuaciones de estas cotizaciones son un termómetro crucial de la estabilidad económica y la confianza en el país.\n• La existencia de múltiples tipos de cambio afecta directamente el costo de vida, las decisiones de inversión y ahorro, y la capacidad de las personas para acceder a divisas.",
+      "cantidad_noticias": 15,
+      "noticias": [
+        {
+          "titulo": "Dólar blue hoy: a cuánto cotiza este viernes 12 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-viernes-12-diciembre_0_WGHPqUpDEs.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-12 04:00:02"
+        },
         {
           "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 12 de diciembre",
           "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-12-diciembre-n6223292",
@@ -27,6 +95,18 @@
           "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-opero-este-jueves-11-diciembre-n6223352",
           "fuente": "Ámbito Financiero",
           "fecha": "2025-12-11 20:26:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 12 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/dolar-hoy-y-dolar-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-12-de-diciembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 18:39:34"
+        },
+        {
+          "titulo": "Euro hoy y euro blue hoy, EN VIVO: el minuto a minuto de la cotización de este viernes 12 de diciembre de 2025",
+          "link": "https://www.perfil.com/noticias/economia/euro-hoy-y-euro-blue-hoy-en-vivo-el-minuto-a-minuto-de-la-cotizacion-de-este-viernes-12-de-diciembre-de-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 18:32:28"
         },
         {
           "titulo": "Real blue: a cuánto opera este jueves 11 de diciembre",
@@ -75,14 +155,552 @@
           "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-euro-blue-este-jueves-11-de-diciembre.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-11 15:38:47"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue este jueves 11 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-este-jueves-11-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 14:51:58"
         }
       ],
       "categoria_principal": "economia",
       "fecha_deteccion": "2025-12-12",
       "fuentes": [
-        "Perfil",
+        "Ámbito Financiero",
         "Minuto1",
-        "Ámbito Financiero"
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "reforma_laboral:_debate_20251212",
+      "tema": "Reforma Laboral: Debate y Oposición",
+      "tema_normalizado": "reforma laboral: debate y oposicion",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei presentó un proyecto de reforma laboral al Senado con el objetivo de modernizar las leyes de trabajo y fomentar el empleo formal.\n• La iniciativa propone cambios significativos en salarios, indemnizaciones y negociación colectiva, generando un intenso debate y una fuerte oposición de los sindicatos y sectores de la política.\n\n🔍 **Datos clave:**\n• **Promotor:** Gobierno de Javier Milei (La Libertad Avanza).\n• **Fecha de presentación:** Diciembre.\n• **Oposición principal:** CGT (Confederación General del Trabajo), CTA y bancada de Unión por la Patria.\n• **Marcha de la CGT:** 18 de diciembre en Plaza de Mayo.\n• **Fondo de Asistencia Laboral (FAL):** Aporte obligatorio del 3% de la masa salarial (desviado de contribuciones jubilatorias).\n• **Estimación de recursos al FAL:** U$S 3.000 millones transferidos del sistema previsional.\n• **Meta de sanción original:** Antes de fin de año (postergado a 2026).\n• **Número de artículos del proyecto:** 195.\n\n⚡ **Desarrollo:**\n• **Salario Dinámico:** Se propone que las empresas negocien salarios directamente con su representación sindical, ajustándolos a productividad o resultados. Se habilita el pago en moneda nacional o extranjera (ej. dólar) y se excluyen gastos como viáticos del cálculo salarial.\n• **Fondo de Asistencia Laboral (FAL):** Crea un fondo obligatorio para indemnizaciones por despido sin causa. Las empresas aportarían mensualmente el 3% de la masa salarial, descontándolo de sus contribuciones al sistema jubilatorio (SIPA). Estos fondos serían invertidos en el mercado de capitales, lo que la oposición compara con las AFJP.\n• **Flexibilización de Convenios:** Se busca poner fin a la \"ultraactividad\" de las cláusulas obligacionales de los convenios colectivos al vencer, requiriendo su renegociación. Además, se priorizarían los acuerdos por empresa, provinciales o regionales sobre los nacionales.\n• **Impacto en Sindicatos:** El proyecto limita el cobro de las \"cuotas solidarias\" a trabajadores no afiliados y restringe los aportes de afiliados, afectando significativamente la financiación de gremios y cámaras empresarias.\n• **Derogación de Estatutos y Colegiación:** Se plantea la derogación de numerosos estatutos profesionales, como el del Periodista (Ley 12.908), y se elimina la obligatoriedad de la matriculación en colegios profesionales para diversas actividades (ej. abogados, médicos).\n• **Trabajo de Plataformas:** Se amplía la regulación para \"servicios privados de movilidad y reparto\" (ej. apps como Mercado Libre, Rappi), buscando formalizar la figura del \"prestador independiente\" y asegurar su autonomía.\n• **Argumentos Oficialistas:** El Gobierno defiende la reforma como una herramienta para generar empleo formal (especialmente para jóvenes y PyMEs), reducir la \"industria del juicio\" y los costos laborales, y otorgar previsibilidad. Se asegura que no afecta derechos básicos como aguinaldo, vacaciones o jornada de ocho horas.\n• **Argumentos Opositores:** La CGT considera la reforma \"regresiva\" y \"precarizadora\", denunciando una quita de derechos, flexibilización de despidos y limitaciones al derecho de huelga. Amenazan con judicializar la ley si se aprueba.\n• **Cuestionamiento Constitucional:** Un sector de la oposición objeta que el proyecto incluye modificaciones impositivas (IVA y Ganancias), lo cual, según la Constitución, exige que el debate inicie en la Cámara de Diputados, no en el Senado, pudiendo invalidar el proceso.\n• **Tiempos Legislativos:** Aunque el Gobierno impulsa un tratamiento exprés en el Senado para una pronta aprobación, los cuestionamientos y la necesidad de invitar a especialistas (más de 100 pedidos) sugieren que el debate se extenderá más allá de fin de año.\n\n💡 **¿Por qué importa?**\n• La reforma laboral busca transformar el mercado de trabajo en Argentina, buscando impactar en la informalidad, los costos y la litigiosidad.\n• Genera una profunda división política y social, enfrentando al Gobierno y sectores empresariales con sindicatos y la oposición, con consecuencias significativas para el futuro del empleo y los derechos de los trabajadores.",
+      "cantidad_noticias": 21,
+      "noticias": [
+        {
+          "titulo": "Reforma laboral: cómo pueden quedar los sueldos si se aprueban los cambios que propone Milei",
+          "link": "https://www.iprofesional.com/economia/443905-reforma-laboral-como-pueden-quedar-sueldos-si-aprueban-cambios-que-propone-javier-milei",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 21:44:00"
+        },
+        {
+          "titulo": "¿Indemnizaciones gratis? La reforma laboral desvía unos u$s3.000 millones de ANSES al fondo para financiar despidos",
+          "link": "https://www.ambito.com/economia/indemnizaciones-gratis-la-reforma-laboral-desvia-unos-us3000-millones-anses-al-fondo-financiar-despidos-n6223258",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 20:32:00"
+        },
+        {
+          "titulo": "Guerra a la reforma laboral: la CGT arrancó un plan de lucha y amenaza con ir a la Justicia",
+          "link": "https://www.iprofesional.com/politica/443901-guerra-a-reforma-laboral-cgt-arranco-plan-de-lucha-que-incluye-judicializacion",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 20:20:00"
+        },
+        {
+          "titulo": "Julio Cordero: \"No es una ley anti nada, es pro trabajador, pro empresa y pro sindicato\"",
+          "link": "https://www.ambito.com/politica/julio-cordero-no-es-una-ley-anti-nada-es-pro-trabajador-pro-empresa-y-pro-sindicato-n6223346",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 20:10:00"
+        },
+        {
+          "titulo": "Reforma laboral: el capítulo impositivo mete ruido en el Senado, mientras LLA busca apurar el debate",
+          "link": "https://www.iprofesional.com/politica/443896-reforma-laboral-por-que-capitulo-impuestos-hace-ruido-en-senado",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 19:50:00"
+        },
+        {
+          "titulo": "Reforma laboral: se frustraría la ilusión del Gobierno de tener la media sanción antes de fin de año",
+          "link": "https://www.clarin.com/politica/reforma-laboral-frustraria-ilusion-gobierno-tener-media-sancion-fin-ano_0_p9C8RTPWNQ.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 19:43:48"
+        },
+        {
+          "titulo": "Reforma laboral: cuestionan que la iniciativa fue mal ingresada al Congreso",
+          "link": "https://www.ambito.com/politica/reforma-laboral-cuestionan-que-la-iniciativa-fue-mal-ingresada-al-congreso-n6223203",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 19:35:00"
+        },
+        {
+          "titulo": "Paolo Rocca: \"La reforma laboral es fundamental, pero hay que proteger la industria\"",
+          "link": "https://www.ambito.com/economia/paolo-rocca-la-reforma-laboral-es-fundamental-pero-hay-que-proteger-la-industria-n6223298",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 19:31:00"
+        },
+        {
+          "titulo": "Reforma laboral: golpe a las millonarias cajas de los gremios y las cámaras empresarias",
+          "link": "https://www.clarin.com/politica/reforma-laboral-golpe-millonarias-cajas-gremios-camaras-empresarias_0_oUpcgLMHv0.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 19:29:12"
+        },
+        {
+          "titulo": "Reforma laboral para Mercado Libre, Rappi y Uber: qué cambia para repartidores y choferes de apps",
+          "link": "https://www.iprofesional.com/impuestos/443882-reforma-laboral-pedidos-ya-y-uber-desregula-entregas-de-mercado-libre",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 19:17:00"
+        },
+        {
+          "titulo": "Federico Sturzenegger defendió la reforma laboral, confirmó puntos críticos para la CGT y aseguró que no toca derechos básicos",
+          "link": "https://www.ambito.com/politica/federico-sturzenegger-defendio-la-reforma-laboral-confirmo-puntos-criticos-la-cgt-y-aseguro-que-no-toca-derechos-basicos-n6223327",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 19:03:00"
+        },
+        {
+          "titulo": "La reforma laboral: ¿qué es el Fondo de Asistencia que creará el Gobierno y cómo funcionará?",
+          "link": "https://www.clarin.com/economia/reforma-laboral-fondo-asistencia-creara-gobierno-funcionara_0_uNeOIzrbjR.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 18:59:26"
+        },
+        {
+          "titulo": "El Gobierno defiende la reforma laboral: \"Beneficia principalmente a los jóvenes y a las pymes\"",
+          "link": "https://www.ambito.com/politica/el-gobierno-defiende-la-reforma-laboral-beneficia-principalmente-los-jovenes-y-las-pymes-n6223317",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 18:19:00"
+        },
+        {
+          "titulo": "Los 16 puntos que Federico Sturzenegger destacó de la reforma laboral que lo tiene como principal impulsor",
+          "link": "https://www.clarin.com/politica/gobierno/16-puntos-federico-sturzenegger-destaca-reforma-laboral_0_ElbfCtkFjS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 18:02:47"
+        },
+        {
+          "titulo": "Reforma laboral: Senado activa debate exprés y se podría votar el 29 de diciembre",
+          "link": "https://www.ambito.com/politica/reforma-laboral-senado-activa-debate-express-y-se-podria-votar-el-29-diciembre-n6223233",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 17:25:00"
+        },
+        {
+          "titulo": "Chau matrícula profesional: polémica por reforma laboral y cambio de la colegiación obligatoria",
+          "link": "https://www.iprofesional.com/impuestos/443864-matricula-profesional-reforma-laboral-deroga-colegiacion-obligatoria",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 17:00:00"
+        },
+        {
+          "titulo": "La CGT convocó marcha a Plaza de Mayo el 18 de diciembre contra la reforma laboral de Javier Milei",
+          "link": "https://www.perfil.com/noticias/politica/la-cgt-convoco-marcha-a-plaza-de-mayo-el-18-de-diciembre-contra-la-reforma-laboral-de-javier-milei.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 16:10:00"
+        },
+        {
+          "titulo": "Empresas: así funcionarán los Fondos de Asistencia Laboral (FAL) que financiarán los despidos",
+          "link": "https://www.perfil.com/noticias/economia/empresas-asi-funcionaran-los-fondos-de-asistencia-laboral-fal-que-financiaran-los-despidos.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 15:40:00"
+        },
+        {
+          "titulo": "La CGT se opone \"terminantemente\" a la reforma laboral de Javier Milei y marchará el próximo jueves a Plaza de Mayo",
+          "link": "https://www.ambito.com/politica/la-cgt-reune-su-consejo-directivo-la-espera-la-reforma-laboral-n6222757",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 15:34:00"
+        },
+        {
+          "titulo": "El proyecto de reforma laboral dispone la derogación del Estatuto del Periodista",
+          "link": "https://www.minutouno.com/politica/el-proyecto-reforma-laboral-dispone-la-derogacion-del-estatuto-del-periodista-n6223232",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 14:26:00"
+        },
+        {
+          "titulo": "Inocencia fiscal y reforma laboral: los cambios impositivos que buscan aprobar antes de fin de año",
+          "link": "https://www.iprofesional.com/impuestos/443851-reforma-laboral-los-cambios-impositivos-que-buscan-aprobar-en-extraordinarias",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 14:20:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "Clarín",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "inflacion_y_canasta_20251212",
+      "tema": "Inflación y Canasta Básica Noviembre",
+      "tema_normalizado": "inflacion y canasta basica noviembre",
+      "resumen": "📌 **¿Qué está pasando?**\n• El INDEC publicó los datos de inflación y el costo de las canastas básicas para noviembre de 2025.\n• Tanto la inflación general como los montos necesarios para cubrir las necesidades básicas de las familias registraron aumentos significativos.\n• Esto indica que los hogares argentinos requirieron más dinero para no caer por debajo de las líneas de pobreza e indigencia.\n\n🔍 **Datos clave:**\n• Inflación (IPC) de noviembre de 2025: 2,5%.\n• Acumulado anual (Enero-Noviembre 2025): 27,9%.\n• Variación interanual (Noviembre 2024-Noviembre 2025): 31,4%.\n• Costo de la Canasta Básica Total (CBT) para una familia tipo (4 integrantes) en noviembre de 2025: $1.257.329,03 (aumento mensual del 3,6%).\n• Costo de la Canasta Básica Alimentaria (CBA) para una familia tipo (4 integrantes) en noviembre de 2025: $566.364,43 (aumento mensual del 4,1%).\n• Rubro con mayor incremento mensual: Vivienda, agua, electricidad, gas y otros combustibles (3,4%).\n• Rubro Alimentos y bebidas no alcohólicas: aumento del 2,8%, impulsado por la carne.\n\n⚡ **Desarrollo:**\n• La inflación del 2,5% en noviembre de 2025 continuó la tendencia alcista observada desde mayo, marcando el tercer mes consecutivo por encima del 2%.\n• Las canastas básicas (CBA y CBT) tuvieron aumentos mensuales del 4,1% y 3,6% respectivamente, superando el aumento del Índice de Precios al Consumidor (IPC) general.\n• Los principales impulsos en los precios se registraron en la Vivienda, agua, electricidad, gas y otros combustibles, el Transporte y los Alimentos y bebidas no alcohólicas.\n• Los ingresos de las familias, incluidos salarios y programas sociales, continúan rezagados frente al costo de vida, lo que dificulta cubrir los gastos básicos.\n• Por ejemplo, un hogar de tres personas necesitó $1.000.980 y uno de cinco requirió $1.322.433 para no ser pobre en noviembre de 2025.\n• El INDEC tiene previsto modificar su sistema de canastas a partir de 2026, para incluir un mayor peso de los gastos no alimentarios, lo que podría reflejar un aumento metodológico en el nivel de pobreza.\n\n💡 **¿Por qué importa?**\n• El constante aumento del costo de vida y el encarecimiento de la canasta básica reducen el poder adquisitivo de los hogares, impactando directamente en su bienestar.\n• La creciente dificultad para cubrir necesidades esenciales empuja a más familias a la pobreza y la indigencia, exacerbando la vulnerabilidad social.",
+      "cantidad_noticias": 10,
+      "noticias": [
+        {
+          "titulo": "Preocupante: cuánto necesitó una familia tipo para no ser pobre en noviembre",
+          "link": "https://www.minutouno.com/economia/preocupante-cuanto-necesito-una-familia-tipo-no-ser-pobre-noviembre-n6223280",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 18:00:00"
+        },
+        {
+          "titulo": "La canasta básica alimentaria pegó un salto en noviembre: trepó 4,1% y una familia necesitó $1.257.329 para no ser pobre",
+          "link": "https://www.ambito.com/economia/la-canasta-basica-alimentaria-se-acelero-al-41-noviembre-y-una-familia-necesito-1257329-no-ser-pobre-n6223273",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 16:46:00"
+        },
+        {
+          "titulo": "Inflación de noviembre: cuáles fueron los rubros que más aumentaron el pasado mes",
+          "link": "https://www.minutouno.com/economia/inflacion-noviembre-cuales-fueron-los-rubros-que-mas-aumentaron-el-pasado-mes-n6223268",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 16:13:00"
+        },
+        {
+          "titulo": "Una familia necesitó $1.257.329,03 para no ser pobre en noviembre del 2025",
+          "link": "https://www.perfil.com/noticias/economia/una-familia-necesito-125732903-para-no-ser-pobre-en-noviembre-del-2025.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 16:11:00"
+        },
+        {
+          "titulo": "La canasta que mide la pobreza subió 4,1% noviembre, por encima de la inflación",
+          "link": "https://www.clarin.com/economia/canasta-basica-familia-necesito-1257329-pesos-noviembre-pobre_0_dwXRRqUVvH.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 16:06:24"
+        },
+        {
+          "titulo": "La inflación de noviembre fue 2,5% y la acumulada del año llegó a 27,9%",
+          "link": "https://www.clarin.com/economia/inflacion-noviembre-25-indec_0_UjiU8P2jb8.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 16:01:08"
+        },
+        {
+          "titulo": "La inflación de noviembre fue del 2,5% y acumula 6 meses de aceleración, según el INDEC",
+          "link": "https://www.perfil.com/noticias/economia/la-inflacion-fue-del-segun-el-indec.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 16:00:00"
+        },
+        {
+          "titulo": "Así evoluciona mes a mes la inflación 2025 en Argentina",
+          "link": "https://www.iprofesional.com/economia/419097-inflacion-indec-2025-argentina-evolucion-mes-a-mes",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 16:00:00"
+        },
+        {
+          "titulo": "La inflación aceleró al 2,5%: qué anticipa la City para diciembre y cuándo volverá a bajar",
+          "link": "https://www.iprofesional.com/economia/443867-inflacion-noviembre-2025-acelero-25-por-ciento-que-anticipa-la-city-para-diciembre",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 16:00:00"
+        },
+        {
+          "titulo": "Según el Indec, la inflación de noviembre fue de 2,5%",
+          "link": "https://www.minutouno.com/economia/segun-el-indec-la-inflacion-noviembre-fue-25-n6223265",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 16:00:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1",
+        "Clarín",
+        "Perfil",
+        "iProfesional"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "crisis_politica_y_20251212",
+      "tema": "Crisis Política y Sanciones Venezuela",
+      "tema_normalizado": "crisis politica y sanciones venezuela",
+      "resumen": "📌 **¿Qué está pasando?**\n• Venezuela enfrenta una escalada de tensiones políticas y económicas, marcada por nuevas sanciones de Estados Unidos y un endurecimiento de la postura del gobierno de Nicolás Maduro.\n• La oposición venezolana, liderada por María Corina Machado, también es protagonista con su reciente escape del país y el apoyo internacional que recibe.\n• Diversos actores internacionales, como Rusia, Brasil y Argentina, están involucrados, influyendo en la dinámica de la crisis.\n\n🔍 **Datos clave:**\n• María Corina Machado: Ganadora del Premio Nobel de Paz, escapó de Venezuela.\n• Gendarme Nahuel Gallo: Lleva un año de detención ilegal en Venezuela (desde dic. 2024).\n• Petrolero \"Skipper\": Buque incautado por EE.UU. como parte de sus sanciones.\n• Sanciones de EE.UU.: A 3 sobrinos de Maduro (Franqui, Carlos Flores, Efraín Campo) y 6 empresas navieras.\n• \"Plan 2026\": Iniciativa del presidente Maduro con 7 líneas de acción.\n• Luis Gilberto Murillo: Excanciller colombiano criticado por su ambivalencia hacia Maduro y Machado.\n\n⚡ **Desarrollo:**\n• Estados Unidos intensificó su presión sobre Venezuela, incautando el petrolero \"Skipper\" y amenazando con más operativos contra buques que transportan crudo sancionado. También impuso nuevas sanciones a tres sobrinos de Maduro y a seis empresas navieras que trasladan petróleo venezolano.\n• Rusia, a través de Vladímir Putin, reafirmó su apoyo \"estratégico\" a Nicolás Maduro en medio de la \"creciente presión externa\", expresando solidaridad y compromiso con proyectos bilaterales económicos y energéticos. Bielorrusia también ofreció respaldo.\n• Nicolás Maduro declaró que en Venezuela \"ya es 2026\" y lanzó un \"Plan 2026\", que incluye una \"batalla comunicacional\" contra las \"fake news\", refuerzo de seguridad y la creación de un \"gobierno comunal de transición al socialismo\" en 5.300 circuitos comunales.\n• María Corina Machado, tras vivir 11 meses en la clandestinidad, realizó un \"aterrador\" escape marítimo de 13 horas de Venezuela, una operación financiada por donantes privados y coordinada \"no oficialmente\" con el ejército estadounidense.\n• La ministra de Seguridad de Argentina, Alejandra Monteoliva, denunció la detención \"ilegal\" de Nahuel Gallo, un gendarme argentino, ante la OEA y otros organismos internacionales, exigiendo su liberación inmediata.\n• El presidente de Brasil, Lula da Silva, dialogó con Maduro, buscando mediar en las tensiones con EE.UU., a pesar de que las relaciones entre ambos países se habían deteriorado por el no reconocimiento de elecciones venezolanas de 2024 por parte de Brasil.\n\n💡 **¿Por qué importa?**\n• La persistente confrontación entre Venezuela y Estados Unidos, sumada a la polarización interna, mantiene la inestabilidad política y económica de la región.\n• Las sanciones, la diplomacia internacional y el rol de la oposición seguirán siendo factores clave que determinarán el futuro de Venezuela y sus relaciones globales, con posibles impactos en rutas comerciales y precios del petróleo.",
+      "cantidad_noticias": 9,
+      "noticias": [
+        {
+          "titulo": "“Este señor sí se pasó de cínico”: críticas a Murillo por felicitar a María Corina Machado",
+          "link": "https://www.infobae.com/colombia/2025/12/12/este-senor-si-se-paso-de-cinico-criticas-a-murillo-por-felicitar-a-maria-corina-machado/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-12 05:59:16"
+        },
+        {
+          "titulo": "Nicolás Maduro ahora asegura que en Venezuela \"ya es 2026\" y lanza una \"batalla comunicacional\"",
+          "link": "https://www.clarin.com/mundo/nicolas-maduro-asegura-venezuela-2026-lanza-batalla-comunicacional_0_RGF6SScRrv.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-12 00:35:42"
+        },
+        {
+          "titulo": "Vladímir Putin habló con Nicolás Maduro y le brindó su apoyo en medio de la escalada de tensiones con EEUU",
+          "link": "https://www.ambito.com/mundo/vladimir-putin-hablo-nicolas-maduro-y-le-brindo-su-apoyo-medio-la-escalada-tensiones-eeuu-n6223340",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 21:52:00"
+        },
+        {
+          "titulo": "Lanchas sin luces y trece horas en el mar: así fue el \"aterrador\" escape de María Corina Machado de Venezuela",
+          "link": "https://www.clarin.com/mundo/lanchas-luces-trece-horas-mar-aterrador-escape-maria-corina-machado-venezuela_0_8Bq4n2oorq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 21:11:20"
+        },
+        {
+          "titulo": "Estados Unidos se prepara para incautar más petroleros frente a las costas de Venezuela",
+          "link": "https://www.minutouno.com/mundo/estados-unidos-se-prepara-incautar-mas-petroleros-frente-las-costas-venezuela-n6223304",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-11 19:52:00"
+        },
+        {
+          "titulo": "A un año de la detención ilegal de Nahuel Gallo en Venezuela, Monteoliva recibió a la familia y prometió más gestiones para su liberación",
+          "link": "https://www.clarin.com/politica/ano-detencion-ilegal-nahuel-gallo-ministra-seguridad-recibio-familia-prometio-gestiones-liberacion_0_pSfBnVhFEO.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 18:19:32"
+        },
+        {
+          "titulo": "En medio de la tensión con Estados Unidos, Lula da Silva habló con Nicolás Maduro",
+          "link": "https://www.clarin.com/mundo/medio-tension-estados-unidos-lula-da-silva-hablo-nicolas-maduro_0_ufXc0HV6gN.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 17:39:48"
+        },
+        {
+          "titulo": "Más presión sobre Venezuela: Estados Unidos anunció sanciones contra sobrinos de Nicolás Maduro y buques de crudo venezolano",
+          "link": "https://www.clarin.com/mundo/presion-venezuela-estados-unidos-anuncio-sanciones-sobrinos-nicolas-maduro-buques-crudo-venezolano_0_FhlH6IHJhq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 16:37:58"
+        },
+        {
+          "titulo": "Vladimir Putin habló con Nicolás Maduro y reafirmó su respaldo a Venezuela frente a la crisis con Estados Unidos",
+          "link": "https://www.clarin.com/mundo/vladimir-putin-hablo-nicolas-maduro-reafirmo-respaldo-venezuela-frente-crisis-estados-unidos_0_KcOEyvrtXS.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 15:23:40"
+        }
+      ],
+      "categoria_principal": "internacional",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "Infobae",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "deuda_publica_y_20251212",
+      "tema": "Deuda Pública y Mercados Financieros",
+      "tema_normalizado": "deuda publica y mercados financieros",
+      "resumen": "📌 **¿Qué está pasando?**\n• Argentina, a través del Tesoro Nacional, regresó a los mercados financieros internacionales con una colocación de deuda en dólares, la primera en ocho años.\n• A pesar de una fuerte demanda, la tasa de interés obtenida resultó superior a las expectativas del gobierno, generando cautela en el mercado.\n• En paralelo, el Tesoro logró exitosamente refinanciar la mayoría de sus vencimientos de deuda en pesos, superando las estimaciones para fin de año.\n\n🔍 **Datos clave:**\n• **Bono en Dólares:** Bonar 2029N, legislación local, U$S 1.000 millones nominales (se obtuvieron U$S 910 millones efectivos).\n• **Tasa de Rendimiento:** 9,26% anual (TIR), con un cupón del 6,5%; se ubicó por debajo de la curva de otros bonos similares.\n• **Riesgo País:** Subió a 634-639 puntos básicos, un aumento del 1% el día de la operación.\n• **Deuda en Pesos:** Se colocaron $21,3 billones, con un rollover del 102% de los vencimientos de diciembre.\n• **Acumulación de Divisas:** El Tesoro compró cerca de U$S 300 millones en el mercado de cambios en dos días.\n• **Próximos Vencimientos:** U$S 4.200 millones con bonistas privados el 9 de enero de 2026.\n• **Fecha de Eventos:** 10 y 11 de diciembre de 2025.\n\n⚡ **Desarrollo:**\n• La operación del Bonar 2029N fue calificada de \"agridulce\" porque, si bien reabrió el mercado voluntario en dólares, su tasa superó las proyecciones iniciales del Ministro de Economía, Luis Caputo.\n• Esto provocó un descenso generalizado en el valor de otros bonos soberanos y acciones locales (como el S&P Merval), y una suba en el riesgo país.\n• Sin embargo, la emisión atrajo ofertas significativas (más de U$S 1.400 millones de 2.500+ inversores), indicando un apetito por papeles cortos y locales, y su tasa fue competitiva frente a la curva existente.\n• Los fondos obtenidos y los dólares comprados activamente por el Tesoro son parte de una estrategia para asegurar el pago de los importantes vencimientos de deuda en moneda extranjera previstos para enero.\n• La exitosa refinanciación de la deuda en pesos, incluso con una reducción de tasas, es una señal de confianza del mercado local hacia el programa económico del gobierno.\n\n💡 **¿Por qué importa?**\n• Es un paso crucial para Argentina al restablecer su capacidad de financiamiento en dólares, un aspecto vital para la estabilidad económica y la gestión de sus compromisos internacionales.\n• Refleja la percepción del riesgo argentino por parte de los inversores y sienta las bases para futuras emisiones y la evolución de la situación financiera del país.",
+      "cantidad_noticias": 8,
+      "noticias": [
+        {
+          "titulo": "El Riesgo País subió este jueves 11 de diciembre en Argentina tras la primera colocación de deuda en dólares",
+          "link": "https://www.perfil.com/noticias/economia/el-riesgo-pais-subio-este-jueves-11-de-diciembre-en-argentina-tras-la-primera-colocacion-de-deuda-en-dolares-a35.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 21:14:00"
+        },
+        {
+          "titulo": "Caputo superó el último test del año: renovó todos los vencimientos y logró bajar tasas",
+          "link": "https://www.iprofesional.com/economia/443898-luis-caputo-supero-ultimo-test-del-2025-renovo-todos-vencimientos-logro-bajar-tasas",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 19:55:00"
+        },
+        {
+          "titulo": "El S&P Merval en dólares cedió casi 2%, mientras que los bonos soberanos anotaron bajas generalizadas",
+          "link": "https://www.ambito.com/finanzas/los-bonos-operan-rojo-la-licitacion-deuda-dolares-del-tesoro-n6223061",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 19:08:00"
+        },
+        {
+          "titulo": "Contundente señal al mercado: Caputo compra dólares tras sabor \"semiamargo\" de colocación de deuda",
+          "link": "https://www.iprofesional.com/finanzas/443855-contundente-senal-luis-caputo-al-mercado-sobre-dolar",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 18:44:00"
+        },
+        {
+          "titulo": "El Tesoro compró casi u$s300 millones en dos ruedas, a menos de un mes del vencimiento de deuda con bonistas privados",
+          "link": "https://www.ambito.com/economia/el-tesoro-compro-casi-us300-millones-dos-ruedas-menos-un-mes-del-vencimiento-deuda-bonistas-privados-n6223309",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 18:25:00"
+        },
+        {
+          "titulo": "El Tesoro compró US$ 220 millones y avanza en la acumulación de divisas para cumplir con los pagos de enero",
+          "link": "https://www.clarin.com/economia/tesoro-compro-us-220-millones-avanza-acumulacion-divisas-cumplir-pagos-enero_0_5hp1iixoCq.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 17:54:14"
+        },
+        {
+          "titulo": "Caída en acciones y bonos luego del retorno del Tesoro a la deuda en dólares",
+          "link": "https://www.iprofesional.com/finanzas/443853-como-cotizan-hoy-11-de-diciembre-merval-adrs-bonos-y-riesgo-pais",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 15:36:00"
+        },
+        {
+          "titulo": "Argentina retoma el crédito tras 8 años de sequía y la City recalcula el próximo salto del dólar",
+          "link": "https://www.iprofesional.com/finanzas/443818-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-11 15:27:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "iProfesional",
+        "Clarín",
+        "Perfil"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "gobierno_milei:_nombramientos_20251212",
+      "tema": "Gobierno Milei: Nombramientos y Estrategia",
+      "tema_normalizado": "gobierno milei: nombramientos y estrategia",
+      "resumen": "📌 **¿Qué está pasando?**\n• El Gobierno de Javier Milei está realizando una serie de nombramientos estratégicos y una importante reestructuración en su Gabinete.\n• Estas medidas consolidan el control en áreas clave y reorganizan la administración central bajo la dirección de figuras cercanas al presidente.\n• Manuel Adorni asume un rol central al frente de una Jefatura de Gabinete con mayores atribuciones.\n\n🔍 **Datos clave:**\n• **Javier Lanari:** Designado formalmente Secretario de Comunicación y Prensa (Decreto 871/2025).\n• **Manuel Adorni:** Ascendido a Jefe de Gabinete, consolidando el control sobre diversas secretarías.\n• **Daniel Scioli:** Nombrado Secretario de Turismo y Ambiente (Decreto 872/2025), con carácter ad honorem, a partir del 6 de diciembre de 2025.\n• **Guillermo Devitt:** Designado Secretario de Asuntos Estratégicos (Decreto 870/2025).\n• **Federico Ramos Napoli:** Nombrado Secretario de Asuntos Nucleares (Decreto 875/2025), bajo el Ministerio de Economía.\n• **Carlos Alberto Presti:** Teniente General, jurará como Ministro de Defensa, siendo el primer militar en el cargo desde el inicio de una gestión civil tras la dictadura.\n• **Gonzalo Roca:** Designado miembro titular en el Consejo de la Magistratura, por propuesta de Karina Milei y Martín Menem.\n• **Decreto 866/2025:** Publicación del nuevo organigrama del Gabinete nacional.\n\n⚡ **Desarrollo:**\n• La Jefatura de Gabinete, ahora liderada por Manuel Adorni, ha absorbido nuevamente la Secretaría de Comunicación y Prensa, que anteriormente dependía de Presidencia. Adorni seguirá siendo el vocero del Gobierno.\n• Bajo el nuevo organigrama, la Jefatura de Gabinete incorpora áreas clave como Asuntos Estratégicos, Turismo y Ambiente, y Coordinación Legal y Administrativa, centralizando la gestión.\n• La designación de Carlos Alberto Presti en Defensa marca un giro histórico; afrontará desafíos urgentes como los bajos salarios de los uniformados y el saneamiento de la obra social militar, manteniendo su estado militar bajo la figura de \"Disponibilidad\".\n• La influencia de Karina Milei se extiende al Consejo de la Magistratura con el nombramiento de Gonzalo Roca, quien asume en base al criterio de reflejar la composición política de la última elección.\n• Esta jugada consolida la presencia de La Libertad Avanza en el Consejo, al ser ahora el bloque más numeroso en Diputados, sumándose al representante del Poder Ejecutivo, Sebastián Amerio.\n\n💡 **¿Por qué importa?**\n• Estos nombramientos y la reestructuración del Gabinete centralizan el poder y la toma de decisiones en el entorno más cercano al presidente Milei.\n• Las designaciones en áreas clave como Defensa, Comunicación y la Magistratura reflejan una estrategia clara para implementar la agenda gubernamental y fortalecer el control político en el Estado.",
+      "cantidad_noticias": 5,
+      "noticias": [
+        {
+          "titulo": "Javier Milei, en vivo: las últimas medidas del Gobierno",
+          "link": "https://www.lanacion.com.ar/politica/javier-milei-en-vivo-las-ultimas-medidas-del-gobierno-nid12122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 04:10:00"
+        },
+        {
+          "titulo": "El Gobierno oficializó a Javier Lanari y consolidó el control de Adorni sobre Comunicación y Prensa",
+          "link": "https://www.clarin.com/politica/gobierno-oficializo-javier-lanari-consolido-control-adorni-comunicacion-prensa_0_LjGSqSITtm.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-12 02:24:07"
+        },
+        {
+          "titulo": "Carlos Alberto Presti jurará este viernes en Defensa y reorganiza la cúpula militar del Gobierno",
+          "link": "https://www.ambito.com/politica/carlos-alberto-presti-jurara-este-viernes-defensa-y-reorganiza-la-cupula-militar-del-gobierno-n6223367",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 21:41:00"
+        },
+        {
+          "titulo": "Karina Milei puso un pie en el Consejo de la Magistratura con la designación de Gonzalo Roca",
+          "link": "https://www.ambito.com/politica/karina-milei-puso-un-pie-el-consejo-la-magistratura-la-designacion-gonzalo-roca-n6223260",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 16:07:00"
+        },
+        {
+          "titulo": "Jorge Macri encabezó última reunión de Gabinete ampliado del año: \"Vinimos a liderar cambios\"",
+          "link": "https://www.ambito.com/politica/jorge-macri-encabezo-ultima-reunion-gabinete-ampliado-del-ano-vinimos-liderar-cambios-n6223213",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 14:12:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "alianzas_politicas:_lla_20251212",
+      "tema": "Alianzas Políticas: LLA y UCR",
+      "tema_normalizado": "alianzas politicas: lla y ucr",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Unión Cívica Radical (UCR) se prepara para renovar la dirección de su Comité Nacional, con debates internos sobre su relación con el gobierno de Javier Milei.\n• Paralelamente, La Libertad Avanza (LLA) en el Senado ha sumado un nuevo aliado, el senador Luis Juez, fortaleciendo su interbloque.\n\n🔍 **Datos clave:**\n• **Leonel Chiarella:** Intendente de 36 años de Venado Tuerto (Santa Fe), postulado como sucesor de Martín Lousteau al frente del Comité Nacional de la UCR.\n• **102 delegados:** Son los encargados de elegir al nuevo presidente del Comité Nacional de la UCR este viernes.\n• **Luis Juez:** Senador por Córdoba, dejó el bloque del PRO para incorporar su monobloque \"Frente Cívico\" al interbloque de LLA.\n• **21 miembros:** Es el nuevo total de integrantes del interbloque de LLA en el Senado, convirtiéndose en la segunda minoría.\n• **2027:** Año en que Juez aspira a ser candidato a gobernador de Córdoba por La Libertad Avanza.\n• **83%:** Porcentaje de votos con el que Chiarella fue reelecto como intendente en 2023.\n\n⚡ **Desarrollo:**\n• La UCR busca una figura joven y con amplio apoyo popular como Chiarella para liderar su reconstrucción tras un retroceso legislativo.\n• Varios gobernadores radicales, como Gustavo Valdés (ex Corrientes) y Maximiliano Pullaro (Santa Fe), rechazaron asumir la presidencia de la UCR debido a la complejidad y la potencial confrontación con el Gobierno.\n• Dentro de la UCR, hay divisiones sobre la postura hacia el gobierno de Milei: algunos, como Alfredo Cornejo (Mendoza), apoyan sus reformas mientras defienden la independencia del partido.\n• La incorporación de Luis Juez al interbloque de LLA es celebrada por Patricia Bullrich y se alinea con su deseo de ser candidato de Milei en Córdoba.\n• Este movimiento busca fortalecer la capacidad de LLA para negociar y aprobar las reformas que el Ejecutivo desea impulsar en el Congreso.\n• A pesar de la suma de Juez, el interbloque de LLA (21 miembros) aún está lejos de alcanzar el quórum (37) para tratar importantes leyes sin el apoyo de otros sectores.\n\n💡 **¿Por qué importa?**\n• Estos cambios reorganizan el ajedrez político, afectando la capacidad del gobierno de LLA para avanzar con sus reformas y el rol de oposición o colaboración de la UCR.\n• Definen las alianzas y las fuerzas de negociación en el Congreso, crucial para la gobernabilidad y el futuro de las políticas públicas en Argentina.",
+      "cantidad_noticias": 4,
+      "noticias": [
+        {
+          "titulo": "Con el apoyo de Provincias Unidas, un joven intendente podría suceder a Lousteau como titular de la UCR",
+          "link": "https://www.lanacion.com.ar/politica/con-el-apoyo-de-provincias-unidas-un-joven-intendente-podria-suceder-a-lousteau-como-titular-de-la-nid11122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 02:29:53"
+        },
+        {
+          "titulo": "Luis Juez se sumó a La Libertad Avanza y Patricia Bullrich lo festejó: \"Un hombre de convicciones firmes, decente\"",
+          "link": "https://www.perfil.com/noticias/politica/luis-juez-se-sumo-a-la-libertad-avanza-y-patricia-bullrich-lo-festejo-un-hombre-de-convicciones-firmes-decente.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 23:59:00"
+        },
+        {
+          "titulo": "En medio de la puja entre Cornejo y Valdés, un intendente de 36 años sería el próximo jefe de la UCR",
+          "link": "https://www.clarin.com/politica/medio-puja-cornejo-valdes-intendente-36-anos-proximo-jefe-ucr_0_sxmRho43bX.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-11 19:47:46"
+        },
+        {
+          "titulo": "Se agranda La Libertad Avanza en el Senado: Patricia Bullrich confirmó la incorporación de Luis Juez al interbloque",
+          "link": "https://www.ambito.com/politica/se-agranda-la-libertad-avanza-el-senado-patricia-bullrich-confirmo-la-incorporacion-luis-juez-al-interbloque-n6223238",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 15:06:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Clarín",
+        "Perfil",
+        "La Nación"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "uso_aguinaldo_y_20251212",
+      "tema": "Uso Aguinaldo y Pago de Deudas",
+      "tema_normalizado": "uso aguinaldo y pago de deudas",
+      "resumen": "📌 **¿Qué está pasando?**\n• Casi un tercio de los argentinos está usando su aguinaldo para pagar deudas y saldar cuentas pendientes.\n• Esto representa un cambio significativo en el uso del Sueldo Anual Complementario (SAC), que ha pasado de ser un ingreso extra a un \"salvavidas\" financiero.\n• Esta tendencia refleja la presión sobre el poder adquisitivo de los hogares y una orientación de gasto más conservadora y defensiva.\n\n🔍 **Datos clave:**\n• **29%:** Porcentaje de argentinos que destina el aguinaldo al pago de deudas en 2025.\n• **16 puntos porcentuales:** Aumento respecto a 2024, cuando solo el 13% lo usaba para deudas.\n• **Focus Market:** Consultora que realizó el estudio sobre 3.875 casos.\n• **18 de diciembre:** Fecha límite para el pago de la segunda cuota del aguinaldo según la Ley 27.073.\n• **10.051.200:** Número aproximado de asalariados registrados que reciben el aguinaldo a nivel nacional.\n• **19%:** Porcentaje destinado a vacaciones en 2025, una caída de 7 puntos respecto al 26% en 2024.\n• **1%:** Mínimo histórico destinado a \"stockear\" bienes en supermercados.\n• **2%:** Bajo porcentaje destinado al ahorro en plazos fijos.\n\n⚡ **Desarrollo:**\n• El aguinaldo dejó de ser un \"extra\" para caprichos y se transformó en una herramienta esencial para el saneamiento financiero de los hogares, especialmente para la clase media.\n• La orientación \"conservadora y defensiva\" del gasto se evidencia en el fuerte recorte de rubros discrecionales como vacaciones e inversiones financieras.\n• La inversión en acciones cayó del 23% al 19%, y la compra de dólares como refugio disminuyó del 16% al 12% comparado con el año anterior.\n• Analistas como Damián Di Pace de Focus Market señalan que, aunque la macroeconomía mejora, el salario real aún no acompaña, llevando a las familias a usar tarjetas de crédito y el aguinaldo para cerrar el mes.\n• Esta tendencia también se atribuye a una menor necesidad de cobertura cambiaria y a la preferencia por mantener liquidez, sumado a una inflación descendente y estabilidad relativa del dólar.\n• Datos de mediados de 2025 ya mostraban una tendencia similar, con el 31% del aguinaldo de junio destinado a cubrir gastos básicos.\n\n💡 **¿Por qué importa?**\n• El uso predominante del aguinaldo para pagar deudas subraya la persistente presión económica sobre las familias argentinas, indicando que el \"salvavidas\" financiero es prioritario sobre el consumo o la inversión.\n• Este cambio afecta directamente los patrones de consumo y la actividad económica de fin de año, reduciendo el gasto en ocio y bienes discrecionales.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "El doble que en 2024: el 29% de los argentinos destina el aguinaldo a pagar deudas",
+          "link": "https://www.minutouno.com/economia/el-doble-que-2024-el-29-los-argentinos-destina-el-aguinaldo-pagar-deudas-n6223401",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-12 00:04:42"
+        },
+        {
+          "titulo": "El 29% de los argentinos destinó el aguinaldo al pago de deudas",
+          "link": "https://www.ambito.com/economia/el-29-los-argentinos-destino-el-aguinaldo-al-pago-deudas-n6223319",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 21:16:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "Minuto1"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
+      "tema_id": "causa_sur_finanzas:_20251212",
+      "tema": "Causa Sur Finanzas: Detención Tesorera",
+      "tema_normalizado": "causa sur finanzas: detencion tesorera",
+      "resumen": "📌 **¿Qué está pasando?**\n• La tesorera de la financiera Sur Finanzas, Micaela Sánchez, fue detenida el jueves por la tarde.\n• Se la encontró *in fraganti* retirando cajas y celulares de un galpón en Turdera, Lomas de Zamora.\n• Su detención ocurre en el marco de una investigación contra Sur Finanzas por presunto lavado de activos.\n\n🔍 **Datos clave:**\n• **Detenida:** Micaela Sánchez (Tesorera de Sur Finanzas).\n• **Juez a cargo:** Luis Armella.\n• **Financiera investigada:** Sur Finanzas (de Ariel Vallejo).\n• **Acusación inicial:** Encubrimiento u ocultación de elementos de prueba.\n• **Ubicación clave:** Galpón en Avenida Hipólito Yrigoyen al 11818, Turdera.\n• **Hallazgos relevantes:** 7 cajas fuertes, 5 cajeros automáticos, llaves de cajas de seguridad, computadoras y abundante documentación.\n\n⚡ **Desarrollo:**\n• La detención de Sánchez se produjo durante un allanamiento en el galpón, activado por un llamado anónimo que alertaba sobre el traslado de cajas.\n• La mujer fue interceptada por la Policía Federal mientras cargaba elementos en una camioneta Toyota SW4.\n• Tras un primer allanamiento y la demorada de Sánchez, se registró su domicilio donde se encontraron computadoras y llaves de varias cajas fuertes.\n• La Justicia investiga a Sur Finanzas, propiedad de Ariel Vallejo (vinculado a Claudio \"Chiqui\" Tapia), por supuestas maniobras de lavado de dinero.\n• En el galpón, se incautaron dos cajas de seguridad, siete cajas fuertes (cuatro de gran tamaño), posnets, documentación vehicular, computadoras, material médico y 30 cajas con documentación.\n• Esta causa ya había generado unos 35 allanamientos previos en sedes de la AFA y en varios clubes de fútbol de Primera y del Ascenso.\n• El juez Armella dispuso estas medidas en busca de información contable y documentación vinculada a contratos de sponsoreo o préstamos entre los clubes y Sur Finanzas.\n\n💡 **¿Por qué importa?**\n• La detención de la tesorera es un paso significativo en la investigación de lavado de activos que involucra a una financiera de peso.\n• La causa tiene amplias repercusiones al conectar a la financiera con la AFA y clubes de fútbol, sugiriendo posibles irregularidades comerciales a gran escala.",
+      "cantidad_noticias": 2,
+      "noticias": [
+        {
+          "titulo": "Detuvieron a la tesorera de Sur Finanzas que se estaba llevando cajas y celulares de un galpón",
+          "link": "https://www.lanacion.com.ar/politica/sur-finanzas-allanan-un-galpon-en-lomas-de-zamora-y-encuentran-a-la-tesorera-trasladando-nid11122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-12 01:59:58"
+        },
+        {
+          "titulo": "Caso Sur Finanzas: la tesorera quedó detenida por encubrimiento",
+          "link": "https://www.ambito.com/politica/caso-sur-finanzas-la-tesorera-quedo-detenida-encubrimiento-n6223345",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 20:31:00"
+        }
+      ],
+      "categoria_principal": "politica",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Ámbito Financiero",
+        "La Nación"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
