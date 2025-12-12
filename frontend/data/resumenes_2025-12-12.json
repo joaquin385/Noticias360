@@ -1,0 +1,29 @@
+{
+  "fecha_consolidacion": "2025-12-12",
+  "fecha_generacion": "2025-12-12T03:57:44.958579",
+  "resumenes": {
+    "internacional": {
+      "resumen": "La tensión en la relación entre Estados Unidos y Venezuela escala significativamente. Washington intensificó su estrategia contra Caracas con nuevas sanciones dirigidas a familiares del presidente Nicolás Maduro y a buques petroleros, además de prepararse para incautar más cargamentos de crudo. En este contexto, la opositora María Corina Machado protagonizó un \"aterrador\" escape de Venezuela. La situación ha generado reacciones internacionales, con Vladímir Putin brindando apoyo a Maduro y Lula da Silva manteniendo conversaciones con ambos líderes en medio de la escalada. Analistas interpretan estas acciones como parte de una estrategia estadounidense para afianzar su dominio en América Latina.\n\nEn el conflicto ucraniano, Estados Unidos presiona a Kiev para que considere la cesión de territorios a Rusia, proponiendo una zona económica libre y sin tropas en el este de Ucrania. El presidente Volodimir Zelenski, sin embargo, ha reafirmado su postura de no ceder territorio, defendiendo que la decisión final debe recaer en el pueblo ucraniano.\n\nLa situación política en Europa muestra signos de inestabilidad y desorientación, ejemplificada por la caída del gobierno de Bulgaria tras semanas de protestas contra la corrupción y los aumentos relacionados con la adopción del Euro. Otros eventos de relevancia internacional incluyen la detención controversial de una migrante argentina por el ICE en California durante una entrevista de residencia y el análisis de la contienda política chilena, donde el expresidente Gabriel Boric es criticado por haber fortalecido la candidatura de José Antonio Kast.",
+      "cantidad_noticias": 23,
+      "fecha_generacion": "2025-12-12T03:57:44.662589",
+      "categoria": "internacional"
+    },
+    "politica": {
+      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 15.237248337s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-12T03:57:44.807096",
+      "categoria": "politica"
+    },
+    "economia": {
+      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 15.090590151s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-12T03:57:44.958285",
+      "categoria": "economia"
+    },
+    "sociedad": {
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-12T03:57:44.958558"
+    }
+  }
+}
