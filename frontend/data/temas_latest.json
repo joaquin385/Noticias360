@@ -1,6 +1,93 @@
 {
-  "fecha": "2025-12-11",
-  "fecha_generacion": "2025-12-12T00:57:13.907191",
-  "total_temas": 0,
-  "temas": []
+  "fecha": "2025-12-12",
+  "fecha_generacion": "2025-12-12T06:34:08.034820",
+  "total_temas": 1,
+  "temas": [
+    {
+      "tema_id": "cotizacion_dolar_y_20251212",
+      "tema": "Cotización Dólar y Euro Argentina",
+      "tema_normalizado": "cotizacion dolar y euro argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La cotización del dólar en Argentina presenta diversas modalidades, con el dólar blue manteniéndose estable en $1.450 para la venta este 12 de diciembre de 2025.\n• El dólar oficial minorista del Banco Nación cerró el 11 de diciembre a $1.460 para la venta, mientras los dólares financieros (MEP y CCL) operan con brechas reducidas.\n• El euro también muestra cotizaciones paralelas, con el euro blue superando al oficial y al euro tarjeta, reflejo de las restricciones cambiarias.\n\n🔍 **Datos clave:**\n• **Dólar Blue (12/12/2025):** $1.450 (venta) y $1.430 (compra).\n• **Dólar Oficial BNA (11/12/2025):** $1.460 (venta) y $1.410 (compra).\n• **Dólar Oficial Mayorista (11/12/2025):** $1.436 (caída de $1,5 en la jornada).\n• **Euro Blue (11/12/2025):** $1.761,75 (venta) y $1.729,75 (compra).\n• **Euro Oficial BCRA (11/12/2025):** $1.729,03 (venta, promedio sin impuestos).\n• **Dólar MEP (11/12/2025):** $1.476,53 (brecha 2,8% con el oficial).\n• **Dólar CCL (11/12/2025):** $1.506,38 (brecha 4,9% con el oficial).\n• **Dólar Tarjeta (11/12/2025):** $1.898 (incluye 30% de recargo impositivo).\n• **Reservas Brutas Internacionales (11/12/2025):** u$s 41.819 millones (aumento de u$s 156 millones).\n\n⚡ **Desarrollo:**\n• El dólar blue, o informal, se negocia fuera de los canales bancarios y ha mantenido su valor sin cambios en las últimas jornadas, mostrando estabilidad temporal.\n• Su denominación \"blue\" se vincula a lo \"oscuro\" o a las \"blue chips\", siendo una referencia clave en un contexto de restricciones.\n• El dólar oficial mayorista bajó $1,5 el 11 de diciembre, cerrando en $1.436, tras una licitación de deuda (Bonar 2029N) que generó interés pero también algunas dudas.\n• El Tesoro Nacional intervino vendiendo dólares recientemente para satisfacer la demanda de divisas y mantener la calma cambiaria.\n• Otras cotizaciones como el dólar MEP y CCL, usadas para inversiones financieras, reflejan las expectativas del mercado y la \"brecha cambiaria\" con el oficial.\n• El dólar cripto (ej. Bitcoin) y el Real blue también ofrecen alternativas de cambio en el mercado, con sus propias cotizaciones diarias.\n\n💡 **¿Por qué importa?**\n• Las múltiples cotizaciones de divisas como el dólar y el euro evidencian la persistente inestabilidad económica en Argentina y la búsqueda de valor de resguardo.\n• Estos valores influyen directamente en la economía diaria de las personas y empresas, desde los costos de bienes y servicios hasta las decisiones financieras y de inversión.\n• La \"brecha cambiaria\" es un indicador clave de la presión sobre el tipo de cambio y la confianza general en la economía del país.",
+      "cantidad_noticias": 11,
+      "noticias": [
+        {
+          "titulo": "Dólar blue y dólar oficial hoy minuto a minuto: a cuánto cotizan este viernes 12 de diciembre",
+          "link": "https://www.minutouno.com/economia/dolar-blue-y-dolar-oficial-hoy-minuto-minuto-cuanto-cotizan-este-viernes-12-diciembre-n6223292",
+          "fuente": "Minuto1",
+          "fecha": "2025-12-12 00:00:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-11-diciembre-n6222974",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 20:39:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto operó este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-opero-este-jueves-11-diciembre-n6223352",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 20:26:00"
+        },
+        {
+          "titulo": "Real blue: a cuánto opera este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/real-blue-cuanto-opera-este-jueves-11-diciembre-n6222953",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 18:01:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto cerraron este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-cerraron-este-jueves-11-diciembre-n6223312",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 18:00:00"
+        },
+        {
+          "titulo": "Euro hoy y Euro blue hoy: a cuánto operan este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/euro-hoy-y-euro-blue-hoy-cuanto-operan-este-jueves-11-diciembre-n6223056",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 17:44:00"
+        },
+        {
+          "titulo": "El dólar blue encadenó cuatro jornadas sin bajas y volvió a cerrar en máximos del mes",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-encadeno-cuatro-jornadas-bajas-y-volcio-cerrar-maximos-del-mes-n6223288",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 17:42:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-11-diciembre-n6222952",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 17:05:00"
+        },
+        {
+          "titulo": "El dólar oficial cayó y tocó su nivel más bajo en la semana tras la vuelta al mercado de deuda",
+          "link": "https://www.ambito.com/finanzas/el-dolar-oficial-sigue-encima-del-blue-y-el-mercado-apunta-al-tesoro-posibles-intervenciones-n6222980",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 16:22:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto opera este jueves 11 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-jueves-11-diciembre-n6222951",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-11 16:09:00"
+        },
+        {
+          "titulo": "A cuánto cerró euro blue este jueves 11 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-euro-blue-este-jueves-11-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-11 15:38:47"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-12",
+      "fuentes": [
+        "Perfil",
+        "Minuto1",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    }
+  ]
 }
