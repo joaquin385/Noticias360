@@ -1,15 +1,145 @@
 {
   "fecha": "2025-12-13",
-  "fecha_generacion": "2025-12-13T09:21:43.108237",
-  "total_temas": 10,
+  "fecha_generacion": "2025-12-13T12:34:15.102296",
+  "total_temas": 4,
   "temas": [
     {
+      "tema_id": "dolar_en_argentina:_20251213",
+      "tema": "Dólar en Argentina: Cotizaciones y Proyecciones",
+      "tema_normalizado": "dolar en argentina: cotizaciones y proyecciones",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El mercado del dólar en Argentina exhibe múltiples cotizaciones (oficial, blue, MEP, CCL, tarjeta, cripto), tomando como referencia los valores de cierre del viernes 12 de diciembre de 2025 para el sábado 13.\n*   Mientras el dólar oficial y los financieros muestran cierta calma, el Gobierno impulsa medidas para flexibilizar el cepo cambiario y la demanda de divisas se redujo notablemente tras las elecciones.\n*   En 2025, el dólar le ganó a la inflación, revirtiendo la tendencia del año anterior, y para 2026 se proyecta un virtual empate entre ambos.\n\n🔍 **Datos clave:**\n*   **Fecha de cotización:** Sábado 13 de diciembre de 2025 (valores de cierre del viernes 12).\n*   **Dólar Oficial (minorista BNA venta):** $1465.\n*   **Dólar Blue (venta):** $1445 (se cotizó $20 por debajo del oficial BNA).\n*   **Dólar MEP (venta):** $1480.20 (subió 1% en diciembre 2025 y 38% en el último año).\n*   **Dólar CCL (venta):** $1511.10 (subió 2% en diciembre 2025 y 39% en el último año).\n*   **Dólar Tarjeta (valor de referencia):** $1898 (compuesto por dólar oficial más 60% de impuestos).\n*   **Dólar Cripto:** $1503.18.\n*   **Inflación Noviembre 2025:** 2.5% mensual (superó las expectativas del mercado).\n*   **Demanda de dólares (noviembre 2025):** u$s1.100 millones (frente a u$s5.300 millones en octubre).\n*   **Proyección REM 2026:** Dólar con un avance del 16.8% e Inflación del 18.1%.\n*   **Bono Bonar 2029:** Emisión de u$s1.000 millones a una tasa del 9.26%.\n\n⚡ **Desarrollo:**\n*   **Tipos de cambio:** Argentina opera con múltiples cotizaciones, como el dólar oficial, el dólar blue (mercado informal), y los financieros MEP (Bolsa) y CCL (Contado con Liquidación). También existen el dólar Tarjeta y el Cripto.\n*   **Brecha cambiaria:** Actualmente, el dólar blue cotiza con una diferencia mínima o incluso por debajo del dólar oficial de referencia bancaria, a diferencia de otras épocas de mayor tensión.\n*   **Flexibilización del cepo:** El Gobierno, bajo la dirección del ministro Luis Caputo, emitió el Bonar 2029, un bono de deuda en dólares, buscando normalizar el mercado de capitales y allanar el camino para levantar los controles cambiarios.\n*   **Restricciones para inversores:** El Banco Central estableció que quienes compren dólar oficial no podrán operar los dólares financieros (MEP y CCL) durante los 90 días subsiguientes.\n*   **Demanda decreciente:** La compra de dólares se desplomó en noviembre, con el atesoramiento minorista cayendo a u$s200 millones mensuales, lo que indica una menor percepción de riesgo político post-electoral.\n*   **Inflación desafiante:** Aunque el dólar oficial está anclado a un aumento mensual del 1%, la inflación de noviembre (2.5%) genera tensión, mostrando que los precios aún corren por encima del tipo de cambio.\n*   **Estrategia monetaria:** El Gobierno aplica una política monetaria restrictiva para contener la inflación, pero analistas advierten sobre una posible materialización de la \"inflación postergada\" en el futuro.\n\n💡 **¿Por qué importa?**\n*   La variabilidad y multiplicidad de cotizaciones del dólar tienen un impacto directo en el poder adquisitivo, las decisiones de ahorro e inversión, y la competitividad de las empresas en Argentina.\n*   Las medidas para flexibilizar el cepo y estabilizar las expectativas buscan sentar las bases para una economía más predecible, aunque el equilibrio entre el dólar y la inflación sigue siendo el desafío central.",
+      "cantidad_noticias": 16,
+      "noticias": [
+        {
+          "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza este sábado 13 de diciembre",
+          "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-13-de-diciembre-nid13122025/",
+          "fuente": "La Nación",
+          "fecha": "2025-12-13 07:59:58"
+        },
+        {
+          "titulo": "Dólar CCL hoy: a cuánto cotiza este sábado 13 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-13-diciembre_0_LLquWVoz53.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 07:08:01"
+        },
+        {
+          "titulo": "Dólar tarjeta hoy: a cuánto cotiza este sábado 13 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-13-diciembre_0_co4P1PILQp.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 07:08:01"
+        },
+        {
+          "titulo": "Dólar MEP hoy: a cuánto cotiza este sábado 13 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-mep-hoy-cotiza-sabado-13-diciembre_0_oC4TnMcXtI.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 07:05:02"
+        },
+        {
+          "titulo": "Este año el dólar le gana la carrera a la inflación: qué pasará en 2026",
+          "link": "https://www.clarin.com/economia/ano-dolar-gana-carrera-inflacion-pasara-2026_0_7s7gUguJvD.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 06:35:51"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto cotiza este sábado 13 de diciembre",
+          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-13-diciembre_0_3YgrqEgo0v.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 04:00:01"
+        },
+        {
+          "titulo": "Se viene una flexibilización clave del cepo al dólar: el importante beneficio que tendrán empresas",
+          "link": "https://www.iprofesional.com/finanzas/443821-luis-caputo-prepara-camino-definitivo-cepo-dolar-con-beneficio-a-empresas",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-12 21:00:00"
+        },
+        {
+          "titulo": "La compra de dólares se derrumbó después de las elecciones, según datos del BCRA",
+          "link": "https://www.iprofesional.com/finanzas/444004-compra-dolares-se-derrumbo-despues-de-elecciones-segun-datos-banco-central-argentina",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-12 19:36:00"
+        },
+        {
+          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 12 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-12-diciembre-n6223412",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 19:00:00"
+        },
+        {
+          "titulo": "A cuánto cerró el dólar blue hoy viernes 12 de diciembre",
+          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-viernes-12-de-diciembre.phtml",
+          "fuente": "Perfil",
+          "fecha": "2025-12-12 17:25:00"
+        },
+        {
+          "titulo": "El dólar blue bajó por primera vez en cinco ruedas y quedó $20 por debajo del billete del Banco Nación",
+          "link": "https://www.ambito.com/finanzas/el-dolar-blue-primera-vez-cinco-ruedas-y-quedo-20-debajo-del-billete-del-banco-nacion-n6223669",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 17:13:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto cerró este viernes 12 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-12-diciembre-n6223674",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 16:58:00"
+        },
+        {
+          "titulo": "Dólar hoy: a cuánto opera este viernes 12 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-opera-este-viernes-12-diciembre-n6223392",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 16:49:00"
+        },
+        {
+          "titulo": "Dólar blue hoy: a cuánto opera este viernes 12 de diciembre",
+          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-12-diciembre-n6223391",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 16:49:00"
+        },
+        {
+          "titulo": "El dólar oficial repuntó y cerró la semana con una leve alza en un clima de pax cambiaria",
+          "link": "https://www.ambito.com/finanzas/pax-cambiaria-el-dolar-oficial-se-acerca-su-minimo-nivel-tres-semanas-n6223450",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 16:00:00"
+        },
+        {
+          "titulo": "La inflación rompió todos los pronósticos y en la City ya apuestan a un nuevo precio para el dólar",
+          "link": "https://www.iprofesional.com/finanzas/443936-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-12 15:45:00"
+        }
+      ],
+      "categoria_principal": "economia",
+      "fecha_deteccion": "2025-12-13",
+      "fuentes": [
+        "Perfil",
+        "iProfesional",
+        "Clarín",
+        "La Nación",
+        "Ámbito Financiero"
+      ],
+      "es_tema_nuevo": true,
+      "es_tema_recurrente": false,
+      "dias_activo": 1,
+      "tendencia": "nuevo"
+    },
+    {
       "tema_id": "reforma_laboral_argentina:_20251213",
-      "tema": "Reforma Laboral Argentina: Puntos Clave",
-      "tema_normalizado": "reforma laboral argentina: puntos clave",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno argentino impulsa una Reforma Laboral que busca modernizar las leyes, reducir la litigiosidad y fomentar el empleo formal.\n*   Esta iniciativa propone cambios clave en indemnizaciones, jornada laboral, vacaciones y contribuciones patronales.\n*   La reforma aplicaría a todos los contratos laborales existentes y futuros, no solo a los nuevos, generando amplio debate y cuestionamientos.\n\n🔍 **Datos clave:**\n*   **Litigiosidad:** Se estiman casi 132.000 nuevas demandas en el Sistema de Riesgos del Trabajo para 2025, un 5,1% más que en 2024.\n*   **Fondo de Asistencia Laboral (FAL):** Propone un aporte mensual obligatorio del 3% de las remuneraciones, compensado con una reducción igual en las contribuciones patronales.\n*   **Impuestos eliminados:** El proyecto busca suprimir 8 impuestos nacionales, reduciendo el total de 45 a 37 a nivel nacional.\n*   **Oposición judicial y sindical:** La Asociación de Magistrados (AMFJN) y la Asociación de Abogados Laboralistas (AAL) rechazan la disolución de la Justicia Nacional del Trabajo y la posible regresión de derechos. La CGT planea movilizaciones para el 18 de diciembre.\n*   **Cuentas sueldo:** Afecta a unas 10 millones de cuentas sueldo, abriendo la posibilidad de que sean administradas por fintech.\n\n⚡ **Desarrollo:**\n*   La reforma crea un **Fondo de Asistencia Laboral (FAL)**, de aporte obligatorio y administrado por entidades habilitadas, para cubrir indemnizaciones por despido, reemplazando la parte de cargas sociales destinada a jubilaciones.\n*   Se busca **flexibilizar la jornada laboral** con un \"banco de horas\" que permitiría días de hasta 12 horas, compensables posteriormente, y el **fraccionamiento de vacaciones** de mutuo acuerdo en lapsos no menores de siete días.\n*   Otro punto central es la posibilidad de **negociar salarios por empresa o región**, con el fin de adecuarlos a las necesidades y costos de vida específicos de cada lugar.\n*   El proyecto enfrenta **fuertes cuestionamientos judiciales y políticos**. La Justicia podría objetar el tope a las indemnizaciones, el fraccionamiento de vacaciones y la ampliación de la jornada por violar principios de no regresividad y derechos fundamentales.\n*   La **Confederación General del Trabajo (CGT)** analiza presentar un amparo judicial y organiza una movilización masiva, argumentando que la inclusión de artículos tributarios viola la Constitución Nacional al no iniciar el debate en Diputados.\n*   La **Cámara Argentina de Comercio (CAC)** apoya la reducción de impuestos, pero manifiesta preocupación por el aumento \"excesivo\" de multas tributarias propuestas, que podrían perjudicar gravemente a pequeñas y medianas empresas.\n*   La iniciativa impactaría en diversos sectores, como la industria, construcción, comercio y servicios, buscando **mayor previsibilidad de costos laborales** y **flexibilidad operativa**, así como el reconocimiento de un régimen específico para trabajadores de plataformas.\n\n💡 **¿Por qué importa?**\n*   Esta reforma podría transformar profundamente el sistema laboral argentino, buscando reducir la litigiosidad y aliviar costos empresariales, pero generando un intenso debate sobre la posible disminución de derechos adquiridos por los trabajadores.\n*   Su aprobación o rechazo tendrá un impacto directo en el empleo, la economía, la dinámica de negociación entre empresas y trabajadores, y el rol de la justicia y los gremios en el país.",
+      "tema": "Reforma Laboral Argentina: Debates y Alcances",
+      "tema_normalizado": "reforma laboral argentina: debates y alcances",
+      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Javier Milei impulsa una reforma laboral en Argentina, la cual busca modificar leyes clave y estructuras del mercado de trabajo.\n*   Este proyecto ha desatado fuertes debates, objeciones y una creciente tensión entre el oficialismo y diversos sectores como sindicatos, jueces y empresarios.\n\n🔍 **Datos clave:**\n*   **Aportes Obras Sociales:** Se propone una reducción del 6% al 5% en aportes patronales, lo que implicaría una pérdida estimada de $90.000 a $96.000 millones para el sistema de salud sindical.\n*   **Impuestos eliminados:** El proyecto incluye la eliminación de 8 impuestos nacionales, reduciendo el total de tributos nacionales de 45 a 37.\n*   **Litigiosidad laboral:** Se registró un récord de casi 132 mil nuevas demandas en el Sistema de Riesgos del Trabajo en los últimos 12 meses.\n*   **Movilización:** La CGT, CTA y movimientos sociales convocaron a una marcha masiva el 18 de diciembre en Plaza de Mayo.\n*   **Justicia del Trabajo:** El Artículo 91 del proyecto propone la \"progresiva disolución\" de la Justicia Nacional del Trabajo.\n\n⚡ **Desarrollo:**\n*   La reforma prevé que los cambios se apliquen a **todos los contratos laborales**, tanto los nuevos como los existentes, buscando flexibilizar las relaciones laborales.\n*   Se propone un **fondo para indemnizaciones (FAL)**, que se formaría con el 3% de las cargas laborales, utilizando dinero que actualmente se destina a jubilaciones.\n*   Entre los puntos más controvertidos se encuentran la posibilidad de **fraccionar vacaciones** en lapsos no menores de siete días y un \"banco de horas\" que permitiría jornadas de hasta 12 horas diarias.\n*   La CGT y la Asociación de Abogados Laboralistas (AAL) rechazan la reforma argumentando que **elimina derechos laborales** y de seguridad social, violando el \"principio de no regresión\".\n*   La Asociación de Magistrados y Funcionarios de la Justicia Nacional (AMFJN) critica la limitación al control de constitucionalidad de los jueces y la intención de disolver la Justicia Nacional del Trabajo.\n*   La Cámara Argentina de Comercio (CAC) ha manifestado su preocupación por los **valores \"excesivos\" de las multas** tributarias propuestas, que podrían quebrar a pequeñas y medianas empresas.\n*   El proyecto también habilita el pago de salarios en **cuentas virtuales de fintech**, abriendo una competencia millonaria con la banca tradicional por las cuentas sueldo.\n*   Sectores de la oposición y la Justicia cuestionan la **inclusión de aspectos tributarios** en el proyecto, argumentando que deberían iniciar el trámite legislativo en Diputados (Art. 52 CN).\n\n💡 **¿Por qué importa?**\n*   La reforma podría transformar radicalmente el modelo laboral argentino, afectando desde la estabilidad de los trabajadores y la financiación de la salud sindical hasta la estructura judicial.\n*   La fuerte polarización y los cuestionamientos legales anticipan un difícil camino legislativo y un escenario de conflictividad social y judicial sobre la validez de los cambios propuestos.",
       "cantidad_noticias": 11,
       "noticias": [
+        {
+          "titulo": "Javier Milei y sus medidas, EN VIVO: Bullrich busca acuerdos en el Senado para aprobar la reforma laboral",
+          "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-bullrich-busca-acuerdos-senado-aprobar-reforma-laboral_0_L9YE2cfcPC.html",
+          "fuente": "Clarín",
+          "fecha": "2025-12-13 08:19:35"
+        },
+        {
+          "titulo": "Dato clave detonó diálogo con CGT: obras sociales sindicales perderán $90.000 M por reforma laboral",
+          "link": "https://www.iprofesional.com/politica/443997-las-bombas-del-gobierno-en-la-reforma-laboral-que-enfurecieron-a-la-cgt",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-13 07:35:00"
+        },
         {
           "titulo": "Antes de la discusión laboral, crecen los juicios",
           "link": "https://www.perfil.com/noticias/politica/antes-de-la-discusion-laboral-crecen-los-juicios.phtml",
@@ -63,96 +193,14 @@
           "link": "https://www.perfil.com/noticias/economia/reforma-laboral-uno-por-uno-los-puntos-que-podria-rechazar-la-justicia.phtml",
           "fuente": "Perfil",
           "fecha": "2025-12-12 16:36:06"
-        },
-        {
-          "titulo": "Reforma laboral: cuáles son los sectores donde se hará sentir más su impacto",
-          "link": "https://www.perfil.com/noticias/economia/el-gobierno-presento-la-modernizacion-laboral-en-busca-de-activar-el-debate-parlamentario.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-12 15:45:00"
-        },
-        {
-          "titulo": "Reforma laboral: cómo funcionará el fondo de indemnizaciones, que será con aportes obligatorios",
-          "link": "https://www.iprofesional.com/impuestos/443902-reforma-laboral-como-sera-fondo-indemnizaciones-con-aporte-obligatorio",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 15:15:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "iProfesional",
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "afa:_denuncias_lavado_20251213",
-      "tema": "AFA: Denuncias Lavado Dinero e Impuestos",
-      "tema_normalizado": "afa: denuncias lavado dinero e impuestos",
-      "resumen": "📌 **¿Qué está pasando?**\n*   La AFA y sus principales dirigentes, incluyendo a Claudio \"Chiqui\" Tapia y Pablo Toviggino, están siendo investigados y denunciados por presunto lavado de dinero y apropiación indebida de tributos.\n*   Las causas giran en torno a una lujosa mansión en Pilar y a la retención de más de $7.500 millones de pesos en impuestos y aportes de seguridad social que no habrían sido depositados al Estado.\n\n🔍 **Datos clave:**\n*   **Monto denunciado por ARCA/DGI:** Más de $7.593.903.512 por tributos y aportes no ingresados.\n*   **Períodos afectados:** Impuestos de agosto y septiembre de 2025; aportes de diciembre de 2024 a septiembre de 2025.\n*   **Propiedad investigada:** Mansión de 105 mil metros cuadrados en Villa Rosa, Pilar.\n*   **Vehículos hallados en la mansión:** 45 autos de lujo/colección, 7 motos de alta cilindrada y 2 kartings.\n*   **Jueces/Organismos:** Daniel Rafecas (juez original), Leopoldo Bruglia (fallo de Cámara), Marcelo Aguinsky (juzgado penal económico), Diego Amarante (juzgado penal económico); ARCA (Agencia de Recaudación y Control Aduanero), DGI (Dirección General Impositiva).\n*   **Personas implicadas:** Claudio \"Chiqui\" Tapia, Pablo Toviggino, Ariel Vallejo, Juan Pablo Beacon, Mauro Javier Paz, Micaela Sánchez (tesorera de Sur Finanzas).\n*   **Empresas mencionadas:** Soma SRL, Malte SRL, Wicca, Sur Finanzas, Real Central SA/SRL.\n\n⚡ **Desarrollo:**\n*   La investigación por lavado de dinero se centra en una finca en Pilar, donde se realizaron allanamientos y se encontró una gran cantidad de vehículos de alta gama.\n*   Los denunciantes de la Coalición Cívica pidieron que la causa de lavado regrese al fuero federal (Juez Rafecas), argumentando que el delito de lavado de activos es de competencia federal y no penal económica.\n*   ARCA y la DGI denunciaron penalmente a la AFA, y a Claudio \"Chiqui\" Tapia como presidente y administrador, por no ingresar dentro del plazo legal impuestos y aportes de seguridad social retenidos, usando presuntamente esos fondos para financiarse.\n*   Las retenciones impositivas (IVA e Ganancias) correspondientes a agosto y septiembre de 2025 se encontraban impagas al 10 de diciembre de 2025, mientras que los aportes de seguridad social (diciembre de 2024 a septiembre de 2025) fueron ingresados, pero fuera de término.\n*   Una financiera, Sur Finanzas, vinculada a \"Chiqui\" Tapia y su propietario Ariel Vallejo, es también investigada por presunto lavado de activos, y un banco de la \"city\" le cerró una cuenta por operaciones sospechosas.\n*   La tesorera de Sur Finanzas fue detenida por encubrimiento tras operativos que incluyeron el secuestro de cajas de seguridad y documentación.\n\n💡 **¿Por qué importa?**\n*   Las denuncias generan un gran impacto en la imagen pública de la AFA y sus dirigentes, poniendo en duda la transparencia en la gestión de una de las instituciones más importantes del país.\n*   De confirmarse los hechos, se trataría de un significativo perjuicio económico para el Estado y los recursos de la seguridad social, con posibles consecuencias penales para los implicados.",
-      "cantidad_noticias": 8,
-      "noticias": [
-        {
-          "titulo": "AFA: piden que la causa por supuesto lavado de dinero de la quinta de Pilar vuelva a manos de Rafecas y se investigue a Toviggino",
-          "link": "https://www.lanacion.com.ar/politica/afa-piden-que-la-causa-por-supuesto-lavado-de-dinero-de-la-quinta-de-pilar-vuelva-a-manos-de-rafecas-nid13122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 01:34:21"
-        },
-        {
-          "titulo": "ARCA denunció a la AFA y a “Chiqui” Tapia por apropiación indebida de tributos",
-          "link": "https://www.lanacion.com.ar/politica/arca-denuncio-a-la-afa-de-tapia-por-apropiacion-indebida-de-tributos-nid12122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 00:50:18"
-        },
-        {
-          "titulo": "La mansión de Pilar atribuida a Chiqui Tapia: piden que la causa por presunto lavado vuelva al juez Rafecas y que se investigue a Pablo Toviggino",
-          "link": "https://www.clarin.com/politica/mansion-pilar-vinculada-chiqui-tapia-piden-causa-presunto-lavado-vuelva-juez-rafecas-investigue-pablo-toviggino_0_KPU5aUsNue.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 23:51:27"
-        },
-        {
-          "titulo": "Un banco de la city cerró una cuenta con la financiera vinculada a Chiqui Tapia tras una alerta por operaciones sospechosas",
-          "link": "https://www.clarin.com/economia/banco-city-cerro-cuenta-financiera-vinculada-chiqui-tapia-alerta-operaciones-sospechosas_0_autI0poGKl.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 23:22:50"
-        },
-        {
-          "titulo": "Nueva denuncia contra AFA: la acusan de evadir una fortuna en impuestos y aportes de seguridad social",
-          "link": "https://www.perfil.com/noticias/politica/arca-denuncio-a-la-afa-por-falta-de-pago-de-impuestos-y-aportes-a-la-seguridad-social.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-12 22:21:09"
-        },
-        {
-          "titulo": "El Gobierno denunció a la AFA por retener aportes previsionales e impositivos por más de 7 mil millones de pesos",
-          "link": "https://www.clarin.com/politica/gobierno-denuncio-afa-retener-aportes-previsionales-impositivos-7-mil-millones-pesos_0_c82PJ2Y6m1.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 20:23:18"
-        },
-        {
-          "titulo": "ARCA denunció a la AFA por presunta apropiación indebida de impuestos y contribuciones",
-          "link": "https://www.iprofesional.com/politica/444003-arca-denuncio-a-afa-por-presunta-apropiacion-indebida-impuestos-y-contribuciones",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 20:00:00"
-        },
-        {
-          "titulo": "La Justicia allanó una finca en Pilar atribuida a altos dirigentes de la AFA",
-          "link": "https://www.ambito.com/politica/la-justicia-allana-una-finca-pilar-atribuida-altos-dirigentes-la-afa-n6223458",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 19:29:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-13",
       "fuentes": [
-        "La Nación",
         "iProfesional",
-        "Ámbito Financiero",
-        "Perfil",
-        "Clarín"
+        "Clarín",
+        "Perfil"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -160,12 +208,18 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "ucr_argentina:_eleccion_20251213",
-      "tema": "UCR Argentina: Elección Leonel Chiarella",
-      "tema_normalizado": "ucr argentina: eleccion leonel chiarella",
-      "resumen": "📌 **¿Qué está pasando?**\n• Leonel Chiarella, intendente de Venado Tuerto (Santa Fe), fue elegido como el nuevo presidente del Comité Nacional de la Unión Cívica Radical (UCR).\n• Con 36 años, se convierte en el presidente más joven en los 134 años de historia del partido centenario.\n• Su designación ocurre en un momento de profunda crisis, fragmentación y necesidad de reconstrucción para el radicalismo.\n\n🔍 **Datos clave:**\n• **36 años:** Edad de Leonel Chiarella al asumir la presidencia.\n• **134 años:** Trayectoria histórica de la UCR.\n• **2019:** Año en que Chiarella asumió como intendente de Venado Tuerto, destronando al peronismo tras dos décadas.\n• **83%:** Porcentaje de votos con el que Chiarella fue reelecto en Venado Tuerto en 2023.\n• **Maximiliano Pullaro:** Gobernador de Santa Fe, principal impulsor de la candidatura de Chiarella.\n• **Martín Lousteau:** Presidente saliente del Comité Nacional de la UCR, también apoyó la designación.\n• **Alfredo Cornejo:** Gobernador de Mendoza, líder del sector que se abstuvo del plenario por diferencias estratégicas.\n\n⚡ **Desarrollo:**\n• La elección de Chiarella fue consensuada por un sector del partido, incluyendo a los gobernadores Maximiliano Pullaro (Santa Fe), Juan Pablo Valdés (Corrientes) y Carlos Sadir (Jujuy), así como a los exmandatarios Gustavo Valdés y Gerardo Morales.\n• Un sector crítico, liderado por Alfredo Cornejo y Leandro Zdero (Gobernador de Chaco), no participó del plenario, expresando su desacuerdo con la propuesta de alinear el partido con el espacio \"Provincias Unidas\" y argumentando que la designación de Chiarella representaba una \"presencia débil\".\n• La UCR enfrenta un panorama de debilitamiento institucional, con una importante reducción de su bancada de diputados nacionales (de más de 40 a 6 en el bloque \"UCR oficial\") y la dispersión de legisladores en diferentes bloques.\n• Leonel Chiarella es abogado, inició su militancia a los 15 años y se destacó en su gestión municipal por el superávit fiscal, una activa política de obra pública, la implementación de tecnología y la lucha contra el narcotráfico.\n• La nueva conducción, que incluye a Piera Fernández como secretaria general, Inés Brizuela y Doria como vice 1ra y Javier Bee Sellares como vice 2do, tiene la difícil misión de unificar el partido y definir una estrategia electoral clara para los próximos años, en medio de fuertes cuestionamientos internos sobre el rumbo a seguir.\n\n💡 **¿Por qué importa?**\n• Esta designación busca renovar la cúpula de la UCR con una figura joven y de gestión, en un esfuerzo por revitalizar el partido en uno de sus momentos más complejos desde el retorno de la democracia.\n• Sin embargo, la elección de Chiarella y la estrategia de acercamiento a \"Provincias Unidas\" profundizaron las divisiones internas, lo que será clave para determinar la capacidad de la UCR de reconstruirse y recuperar protagonismo político.",
-      "cantidad_noticias": 7,
+      "tema_id": "crisis_y_renovacion_20251213",
+      "tema": "Crisis y Renovación en la UCR Argentina",
+      "tema_normalizado": "crisis y renovacion en ucr argentina",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Unión Cívica Radical (UCR) eligió a Leonel Chiarella, de 36 años, como su nuevo presidente del Comité Nacional.\n• Esta asunción ocurre en un momento de profunda crisis y fragmentación interna para el centenario partido.\n• La elección busca unificar las facciones y trazar una estrategia clara para el futuro político de la UCR.\n\n🔍 **Datos clave:**\n• **Nuevo Presidente:** Leonel Chiarella.\n• **Edad:** 36 años (el más joven en 134 años de historia de la UCR).\n• **Cargo anterior:** Intendente de Venado Tuerto, Santa Fe, desde 2019.\n• **Antecesor:** Martín Lousteau.\n• **Gobernadores UCR:** 5 provincias (Santa Fe, Corrientes, Mendoza, Jujuy, Chaco).\n• **Diputados UCR:** El bloque se redujo significativamente a 6 legisladores tras divisiones.\n• **Senadores UCR:** Cuenta con 10 legisladores, manteniendo unidad.\n\n⚡ **Desarrollo:**\n• La UCR atraviesa una de sus crisis más severas, reflejada en derrotas electorales, una bancada legislativa muy disminuida y divisiones internas marcadas.\n• La elección de Chiarella, impulsada por Maximiliano Pullaro y apoyada por Martín Lousteau y Gerardo Morales, fue vista como una \"solución de compromiso\" ante la reticencia de figuras más experimentadas.\n• Su nombramiento genera un debate interno sobre la alineación del partido: un sector, liderado por Pullaro, busca una alternativa de \"Provincias Unidas\" con un perfil opositor al gobierno nacional.\n• Otro sector, encabezado por Alfredo Cornejo y Leandro Zdero, se opone a integrar el partido en \"Provincias Unidas\", defendiendo la autonomía radical y la posibilidad de diálogo con La Libertad Avanza.\n• Chiarella es conocido por su exitosa gestión en Venado Tuerto, destacando por el superávit fiscal, obras públicas e innovación, lo que le otorga un perfil de gestor y renovador.\n• Las divisiones internas han llevado a la fragmentación del bloque de diputados en varias bancadas, debilitando la fuerza del partido en el Congreso.\n\n💡 **¿Por qué importa?**\n• La UCR se juega su futuro; esta renovación es crucial para detener su declive, lograr la unidad interna y redefinir su identidad y rol en la política nacional.\n• El éxito de Chiarella y la capacidad de cohesión del partido determinarán si el radicalismo puede recuperar protagonismo como una fuerza de centro.",
+      "cantidad_noticias": 8,
       "noticias": [
+        {
+          "titulo": "¿Hacia dónde va la UCR? Los reproches internos y dudas que dejó la asunción del nuevo presidente",
+          "link": "https://www.infobae.com/politica/2025/12/13/hacia-donde-va-la-ucr-los-reproches-internos-y-dudas-que-dejo-la-asuncion-del-nuevo-presidente/",
+          "fuente": "Infobae",
+          "fecha": "2025-12-13 09:04:17"
+        },
         {
           "titulo": "La UCR eligió a un joven de 36 años para transitar una de sus crisis más profundas",
           "link": "https://www.perfil.com/noticias/politica/la-ucr-eligio-a-un-joven-de-36-anos-para-transitar-una-de-sus-crisis-mas-profundas.phtml",
@@ -212,10 +266,11 @@
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-13",
       "fuentes": [
-        "Ámbito Financiero",
         "Perfil",
         "Minuto1",
-        "Clarín"
+        "Infobae",
+        "Clarín",
+        "Ámbito Financiero"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
@@ -223,426 +278,50 @@
       "tendencia": "nuevo"
     },
     {
-      "tema_id": "argentina:_cotizacion_dolar_20251213",
-      "tema": "Argentina: Cotización Dólar y Cepo",
-      "tema_normalizado": "argentina: cotizacion dolar y cepo",
-      "resumen": "📌 **¿Qué está pasando?**\n• Argentina está transitando un proceso de flexibilización de los controles cambiarios, conocido como \"cepo al dólar\", con el objetivo de normalizar su mercado.\n• Esto se evidencia en la emisión de nueva deuda en dólares y la próxima liberación de las restricciones para que empresas giren utilidades al exterior.\n• A su vez, se registra una disminución notable en la demanda de dólares por parte de ahorristas después de las elecciones, contribuyendo a una relativa estabilidad en las cotizaciones.\n\n🔍 **Datos clave:**\n• **Dólar Blue (13/12/2025):** Cotiza a $1425 (compra) y $1445 (venta). Registra una suba del 31% en lo que va del año 2025.\n• **Dólar Oficial (13/12/2025):** Cotiza a $1425 (compra) y $1445 (venta) según el Banco Nación.\n• **Brecha Blue/Oficial (13/12/2025):** 0%, lo que indica que ambos valores se equipararon en esa fecha específica.\n• **Emisión Bonar 2029:** El Gobierno captó u$s1.000 millones a una tasa del 9,26%, siendo la primera emisión de un título de deuda soberana en dólares en casi ocho años.\n• **Caída de Demanda de dólares (nov. 2025):** Pasó de u$s5.300 millones en octubre a u$s1.100 millones en noviembre.\n• **Atesoramiento minorista (nov. 2025):** Bajó a u$s200 millones mensuales, desde un máximo de u$s4.600 millones en septiembre.\n• **Flexibilización para empresas (1/01/2026):** Se habilitará el giro de hasta u$s5.700 millones en utilidades de 2025 para multinacionales al exterior.\n• **Riesgo País (12/12/2025):** Se ubicó en 624 puntos básicos.\n\n⚡ **Desarrollo:**\n• El Gobierno busca una \"normalización\" gradual del mercado cambiario, priorizando la captación de dólares a través de la emisión de deuda antes de una eliminación total de las restricciones.\n• La emisión del Bonar 2029 es vista como un paso fundamental para el \"rollover\" de la deuda en dólares, intentando evitar inestabilidades como las vividas en años anteriores.\n• A partir del 1 de enero de 2026, las empresas multinacionales podrán girar libremente sus ganancias de 2025 al exterior, una flexibilización importante para el sector corporativo.\n• El Banco Central atribuye la abrupta caída en la demanda de dólares en noviembre a un cambio en la percepción de riesgo post-electoral, más que a desequilibrios económicos profundos.\n• En Argentina coexisten múltiples cotizaciones del dólar: el oficial (bancario), el blue (mercado negro), el MEP (Bolsa), el CCL (Contado con Liquidación para el exterior), el Tarjeta (para gastos en el exterior) y el Cripto.\n\n💡 **¿Por qué importa?**\n• Estas medidas son cruciales para la estabilidad económica y la confianza de inversores, fundamentales para atraer capitales y fortalecer las reservas del país.\n• La gestión del proceso de flexibilización del cepo es clave para evitar futuras turbulencias financieras y sentar las bases para un mercado cambiario más predecible y transparente.",
-      "cantidad_noticias": 11,
+      "tema_id": "denuncias_e_investigaciones_20251213",
+      "tema": "Denuncias e Investigaciones contra la AFA",
+      "tema_normalizado": "denuncias e investigaciones contra afa",
+      "resumen": "📌 **¿Qué está pasando?**\n• La Asociación del Fútbol Argentino (AFA) y sus principales dirigentes enfrentan investigaciones judiciales y denuncias penales por presuntos delitos financieros.\n• Una lujosa mansión en Pilar, atribuida a altos funcionarios de AFA, es objeto de una causa por supuesto lavado de dinero.\n• Simultáneamente, la Dirección General Impositiva (DGI) denunció a la AFA por no haber ingresado más de 7 mil millones de pesos en impuestos y aportes a la seguridad social.\n\n🔍 **Datos clave:**\n• **Más de $7.593 millones de pesos:** Monto total que la DGI acusa a AFA de no haber depositado en tributos y aportes.\n• **Claudio \"Chiqui\" Tapia:** Presidente de AFA, señalado como el principal responsable en la denuncia fiscal.\n• **Mansión en Villa Rosa, Pilar (105.000 m²):** Propiedad investigada por presunto lavado de dinero.\n• **Agosto y septiembre (para impuestos) y diciembre de 2024 a septiembre (para aportes):** Períodos bajo investigación por la falta de depósito de fondos.\n• **Juez Daniel Rafecas:** Inicialmente a cargo de la causa por lavado, fue apartado y el expediente derivado al fuero Penal Económico.\n• **45 autos de lujo, 7 motos de alta cilindrada y 2 kartings:** Vehículos incautados durante allanamientos en la mansión de Pilar.\n\n⚡ **Desarrollo:**\n• La Justicia Federal investiga una mansión en Pilar por presunto lavado de activos, vinculada a Ariel Vallejo (allegado a Tapia) y la financiera Sur Finanzas.\n• El juez Daniel Rafecas ordenó allanamientos en la propiedad, pero fue apartado de la causa, la cual fue transferida a la Justicia en lo Penal Económico, generando una apelación por parte de los denunciantes.\n• La DGI, a través de ARCA, presentó una denuncia penal contra AFA por \"apropiación indebida de tributos y recursos de la Seguridad Social\", basándose en los artículos 4° y 7° de la Ley Penal Tributaria.\n• Se acusa a la AFA de haber retenido impuestos (IVA y Ganancias de agosto y septiembre) y aportes previsionales (de diciembre de 2024 a septiembre) sin depositarlos en los plazos legales.\n• La denuncia fiscal responsabiliza directamente a Claudio \"Chiqui\" Tapia como el \"sujeto obligado\" a ingresar dichas retenciones.\n• Como parte de la investigación por lavado, fue detenida Micaela Sánchez, tesorera de Sur Finanzas, por encubrimiento y ocultamiento de pruebas tras encontrarla retirando elementos y las llaves de cajas de seguridad.\n• Durante los procedimientos en la mansión de Pilar, además de los vehículos, se secuestraron cajas fuertes y diversa documentación.\n\n💡 **¿Por qué importa?**\n• Estas investigaciones ponen en tela de juicio la transparencia y el correcto manejo de fondos en la Asociación del Fútbol Argentino, una institución de gran relevancia pública.\n• Las acusaciones de lavado de dinero y evasión fiscal, sumado a los montos millonarios involucrados, resaltan la necesidad de controles rigurosos en entidades con alto impacto económico y social.",
+      "cantidad_noticias": 5,
       "noticias": [
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza este sábado 13 de diciembre",
-          "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-13-diciembre_0_3YgrqEgo0v.html",
+          "titulo": "La mansión de Pilar atribuida a Chiqui Tapia: piden que la causa por presunto lavado vuelva al juez Rafecas y que se investigue a Pablo Toviggino",
+          "link": "https://www.clarin.com/politica/mansion-pilar-vinculada-chiqui-tapia-piden-causa-presunto-lavado-vuelva-juez-rafecas-investigue-pablo-toviggino_0_KPU5aUsNue.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-13 04:00:01"
+          "fecha": "2025-12-12 23:51:27"
         },
         {
-          "titulo": "Se viene una flexibilización clave del cepo al dólar: el importante beneficio que tendrán empresas",
-          "link": "https://www.iprofesional.com/finanzas/443821-luis-caputo-prepara-camino-definitivo-cepo-dolar-con-beneficio-a-empresas",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 21:00:00"
-        },
-        {
-          "titulo": "La compra de dólares se derrumbó después de las elecciones, según datos del BCRA",
-          "link": "https://www.iprofesional.com/finanzas/444004-compra-dolares-se-derrumbo-despues-de-elecciones-segun-datos-banco-central-argentina",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 19:36:00"
-        },
-        {
-          "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 12 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-12-diciembre-n6223412",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 19:00:00"
-        },
-        {
-          "titulo": "En medio de la presión sobre las reservas, el Gobierno prepara otra flexibilización del cepo desde enero",
-          "link": "https://www.clarin.com/economia/medio-presion-reservas-gobierno-prepara-flexibilizacion-cepo-enero_0_EHN2NLP1pv.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 17:53:28"
-        },
-        {
-          "titulo": "A cuánto cerró el dólar blue hoy viernes 12 de diciembre",
-          "link": "https://www.perfil.com/noticias/economia/a-cuanto-cerro-el-dolar-blue-hoy-viernes-12-de-diciembre.phtml",
+          "titulo": "Nueva denuncia contra AFA: la acusan de evadir una fortuna en impuestos y aportes de seguridad social",
+          "link": "https://www.perfil.com/noticias/politica/arca-denuncio-a-la-afa-por-falta-de-pago-de-impuestos-y-aportes-a-la-seguridad-social.phtml",
           "fuente": "Perfil",
-          "fecha": "2025-12-12 17:25:00"
+          "fecha": "2025-12-12 22:21:09"
         },
         {
-          "titulo": "El dólar blue bajó por primera vez en cinco ruedas y quedó $20 por debajo del billete del Banco Nación",
-          "link": "https://www.ambito.com/finanzas/el-dolar-blue-primera-vez-cinco-ruedas-y-quedo-20-debajo-del-billete-del-banco-nacion-n6223669",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 17:13:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto cerró este viernes 12 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-12-diciembre-n6223674",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:58:00"
-        },
-        {
-          "titulo": "Dólar hoy: a cuánto opera este viernes 12 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-opera-este-viernes-12-diciembre-n6223392",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:49:00"
-        },
-        {
-          "titulo": "Dólar blue hoy: a cuánto opera este viernes 12 de diciembre",
-          "link": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-viernes-12-diciembre-n6223391",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:49:00"
-        },
-        {
-          "titulo": "El dólar oficial repuntó y cerró la semana con una leve alza en un clima de pax cambiaria",
-          "link": "https://www.ambito.com/finanzas/pax-cambiaria-el-dolar-oficial-se-acerca-su-minimo-nivel-tres-semanas-n6223450",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:00:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "iProfesional",
-        "Ámbito Financiero",
-        "Perfil",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "chile:_balotaje_presidencial_20251213",
-      "tema": "Chile: Balotaje Presidencial Kast-Jara",
-      "tema_normalizado": "chile: balotaje presidencial kast-jara",
-      "resumen": "📌 **¿Qué está pasando?**\n• Chile celebra este domingo el balotaje presidencial para elegir al sucesor de Gabriel Boric.\n• Los candidatos son Jeannette Jara, la oficialista de izquierda, y José Antonio Kast, el ultraconservador de derecha.\n• Esta elección definirá entre dos modelos de sociedad profundamente opuestos en el país.\n\n🔍 **Datos clave:**\n• **Electores habilitados:** Más de 15.770.000 chilenos.\n• **Resultados primera vuelta (16 de noviembre):** Jeannette Jara 26,8%, José Antonio Kast 23,9%.\n• **Pronóstico de encuestas (UDD, Cadem, Intel):** Kast con 60-61% de intención de voto, Jara con 39%.\n• **Presidente saliente:** Gabriel Boric.\n• **Partidos principales:** Unidad por Chile (Jara) y Partido Republicano (Kast).\n\n⚡ **Desarrollo:**\n• El balotaje se da en un contexto de fuerte malestar social, político y económico, priorizando la seguridad y la migración.\n• La preocupación ciudadana por la delincuencia (63%) y la inmigración (40%) ha sido un eje central de la campaña.\n• **José Antonio Kast:** Propone \"mano dura\" contra la inseguridad, delincuencia y corrupción; aboga por un modelo tradicional de familia.\n• Kast ha sido un opositor histórico a leyes progresistas como el divorcio, el aborto por causales y el matrimonio igualitario.\n• **Jeannette Jara:** Ex ministra de Trabajo, defiende una gestión con \"equidad e igualdad entre hombres y mujeres\" y apoya el derecho al aborto legal.\n• Jara propone un enfoque gradual para la seguridad y un registro oficial para los migrantes en Chile.\n• El respaldo a Kast de otros líderes de derecha y la posible inclinación de votantes de Franco Parisi (19,7% en primera vuelta) son clave para el resultado.\n• Muchos chilenos, ante la polarización, votarán por el \"mal menor\" en un clima de descontento con la clase política.\n\n💡 **¿Por qué importa?**\n• Esta elección es crucial por la marcada grieta ideológica y los rumbos opuestos que proponen los candidatos para el futuro de Chile.\n• El resultado impactará directamente en políticas de seguridad, derechos individuales, el rol de la Iglesia y la dirección económica del país por los próximos cuatro años.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Elecciones en Chile: este domingo se define quién sucederá a Gabriel Boric en balotaje",
-          "link": "https://www.minutouno.com/mundo/elecciones-chile-este-domingo-se-define-quien-sucedera-gabriel-boric-balotaje-n6223729",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-12 20:29:00"
-        },
-        {
-          "titulo": "Balotaje presidencial en Chile: quiénes son Jeannette Jara y José Antonio Kast y qué proponen",
-          "link": "https://www.ambito.com/mundo/balotaje-presidencial-chile-quienes-son-jeannette-jara-y-jose-antonio-kast-y-que-proponen-n6223578",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 19:27:00"
-        },
-        {
-          "titulo": "Elecciones en Chile: José Antonio Kast y Jeannette Jara se disputan la presidencia en la segunda vuelta",
-          "link": "https://www.ambito.com/mundo/elecciones-chile-jose-antonio-kast-y-jeannette-jara-se-disputan-la-presidencia-la-segunda-vuelta-n6223582",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 19:24:00"
-        },
-        {
-          "titulo": "El plan oculto de José Antonio Kast para un recorte millonario y el fantasma del estallido social en Chile",
-          "link": "https://www.clarin.com/mundo/plan-oculto-jose-antonio-kast-recorte-millonario-fantasma-estallido-social-chile_0_OCs3jVjZn2.html",
+          "titulo": "El Gobierno denunció a la AFA por retener aportes previsionales e impositivos por más de 7 mil millones de pesos",
+          "link": "https://www.clarin.com/politica/gobierno-denuncio-afa-retener-aportes-previsionales-impositivos-7-mil-millones-pesos_0_c82PJ2Y6m1.html",
           "fuente": "Clarín",
-          "fecha": "2025-12-12 18:01:46"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "Ámbito Financiero",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_ley_emergencia_20251213",
-      "tema": "Argentina: Ley Emergencia en Discapacidad",
-      "tema_normalizado": "argentina: ley emergencia en discapacidad",
-      "resumen": "📌 **¿Qué está pasando?**\n*   Un fallo de la Justicia Federal ordenó la aplicación inmediata en todo el territorio nacional de la Ley 27.793 de Emergencia en Discapacidad.\n*   La resolución judicial declaró inválido el artículo del decreto presidencial que había suspendido la implementación de esta normativa.\n*   El Poder Ejecutivo anunció que apelará la decisión, argumentando falta de partidas presupuestarias para su cumplimiento.\n\n🔍 **Datos clave:**\n*   **Ley:** 27.793 de Emergencia en Discapacidad.\n*   **Juez:** Adrián González Charvay, del Juzgado Federal de Campana.\n*   **Decreto suspendido:** Artículo 2 del Decreto 681/2025 del Poder Ejecutivo Nacional (PEN).\n*   **Vigencia de la Ley:** Declara la emergencia en el sector de la discapacidad hasta diciembre de 2027.\n*   **Amparo colectivo:** Impulsado por la abogada Marta Lastra, de la Fundación Familias CEAS.\n*   **Artículos Constitucionales invocados:** Artículo 75 inciso 23 y Artículo 83 de la Constitución Nacional.\n\n⚡ **Desarrollo:**\n*   La Ley 27.793 fue originalmente sancionada por el Congreso, luego vetada por el Poder Ejecutivo y ratificada por el Parlamento con dos tercios de los votos en septiembre.\n*   El Gobierno de Javier Milei la promulgó a través del Decreto 681/2025, pero condicionó su aplicación a que el Congreso definiera las fuentes de financiamiento.\n*   El juez González Charvay sostuvo que esta suspensión vulnera derechos fundamentales de las personas con discapacidad, como la salud integral, la educación inclusiva y la vida independiente.\n*   La Justicia argumentó que la decisión del Ejecutivo es contraria al orden constitucional, al subordinar una ley de mayor jerarquía a un decreto y desconocer compromisos de tratados internacionales de derechos humanos.\n*   El fallo enfatiza que la promulgación de una ley por insistencia del Congreso no admite excepciones, condiciones ni suspensiones administrativas por parte del PEN.\n*   Organizaciones del sector, familiares y prestadores denunciaron interrupciones en tratamientos, cierres de instituciones y pérdida de puestos de trabajo debido a la suspensión de la ley.\n*   El Gobierno sostiene que no tiene los fondos, basándose en el artículo 38 de la Ley de Administración Financiera, mientras la oposición menciona el artículo 37 que faculta al Jefe de Gabinete a reasignar partidas.\n\n💡 **¿Por qué importa?**\n*   Esta resolución judicial garantiza la continuidad de tratamientos médicos, terapéuticos y servicios esenciales para miles de personas con discapacidad y sus familias.\n*   Reafirma la supremacía constitucional y la separación de poderes, al impedir que el Poder Ejecutivo suspenda leyes aprobadas por insistencia del Congreso bajo argumentos presupuestarios.",
-      "cantidad_noticias": 3,
-      "noticias": [
-        {
-          "titulo": "La Justicia ordena aplicar ley de Discapacidad",
-          "link": "https://www.perfil.com/noticias/politica/la-justicia-ordena-aplicar-ley-de-discapacidad.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-13 02:26:02"
+          "fecha": "2025-12-12 20:23:18"
         },
         {
-          "titulo": "La Justicia le ordenó al Gobierno la aplicación inmediata de la Ley de Emergencia en Discapacidad",
-          "link": "https://www.minutouno.com/politica/la-justicia-le-ordeno-al-gobierno-la-aplicacion-inmediata-la-ley-emergencia-discapacidad-n6223634",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-12 14:59:30"
+          "titulo": "ARCA denunció a la AFA por presunta apropiación indebida de impuestos y contribuciones",
+          "link": "https://www.iprofesional.com/politica/444003-arca-denuncio-a-afa-por-presunta-apropiacion-indebida-impuestos-y-contribuciones",
+          "fuente": "iProfesional",
+          "fecha": "2025-12-12 20:00:00"
         },
         {
-          "titulo": "Revés judicial contra el Gobierno de Milei: le ordenan la aplicación inmediata de la ley de emergencia en discapacidad",
-          "link": "https://www.clarin.com/politica/reves-judicial-gobierno-milei-ordenan-aplicacion-inmediata-ley-emergencia-discapacidad_0_PuX9lsWK5p.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 14:59:10"
+          "titulo": "La Justicia allanó una finca en Pilar atribuida a altos dirigentes de la AFA",
+          "link": "https://www.ambito.com/politica/la-justicia-allana-una-finca-pilar-atribuida-altos-dirigentes-la-afa-n6223458",
+          "fuente": "Ámbito Financiero",
+          "fecha": "2025-12-12 19:29:00"
         }
       ],
       "categoria_principal": "politica",
       "fecha_deteccion": "2025-12-13",
       "fuentes": [
-        "Perfil",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_crisis_empleo_20251213",
-      "tema": "Argentina: Crisis Empleo e Industria",
-      "tema_normalizado": "argentina: crisis empleo e industria",
-      "resumen": "📌 **¿Qué está pasando?**\n• La industria argentina enfrenta una marcada desaceleración, con la utilización de su capacidad instalada cayendo al 61% en octubre de 2025, su nivel más bajo en el último año.\n• Paralelamente, el mercado laboral formal sufre un fuerte retroceso, registrando la pérdida de decenas de miles de empleos y el cierre de casi 20.000 empresas en los últimos 22 meses.\n• Esta situación, impulsada por una contracción de la demanda interna, genera un escenario de enfriamiento productivo y precarización laboral en el país.\n\n🔍 **Datos clave:**\n• **61%:** Utilización de la capacidad instalada de la industria en octubre de 2025, una baja de 2 puntos porcentuales respecto a octubre de 2024 (63%).\n• **32,5%:** Mínimo histórico de utilización de capacidad en el sector textil en octubre, muy por debajo del promedio.\n• **49.000:** Puestos de empleo asalariado privado perdidos en los últimos cuatro meses (junio a septiembre de 2025).\n• **19.114:** Empresas que cerraron en Argentina entre noviembre de 2023 y septiembre de 2025.\n• **264.101:** Puestos de trabajo formales desaparecidos entre noviembre de 2023 y septiembre de 2025.\n\n⚡ **Desarrollo:**\n• La caída en la actividad industrial impacta severamente a sectores como el textil (con una reducción del 34,7% en la producción de hilados de algodón y 34,1% en tejidos), automotriz, papel y cartón, y productos de caucho y plástico.\n• La explicación de estas bajas se atribuye principalmente a la menor demanda de envases, embalajes, manufacturas y neumáticos, así como a la menor cantidad de unidades fabricadas en las terminales automotrices.\n• La pérdida de empleo asalariado privado en septiembre de 2025 fue de 9.000 puestos, acumulando 49.000 bajas en solo cuatro meses, afectando a empresas medianas y grandes del sector industrial y comercial.\n• Comparando septiembre de 2025 con noviembre de 2023, se observa una disminución de 187.400 asalariados privados y 70.100 en el sector público, además de la caída en el trabajo en casas particulares.\n• El cierre de casi 20.000 empresas y la consecuente pérdida de más de 260.000 empleos formales en 22 meses sugieren un desplazamiento significativo de trabajadores hacia el ámbito informal.\n• Los sectores más afectados por estas cesantías y cierres incluyen la construcción (impactada por la detención de la obra pública), la industria manufacturera y el comercio.\n• Aunque los monotributistas aumentaron en 126.100 personas desde noviembre de 2023, este crecimiento no logra compensar la contracción del empleo registrado, lo que podría indicar una creciente precarización.\n\n💡 **¿Por qué importa?**\n• La profunda crisis en la industria y el empleo formal amenaza la estabilidad económica de Argentina, reflejando un estancamiento productivo y la incapacidad de generar nuevos puestos de trabajo de calidad.\n• Este escenario genera un impacto directo en el poder adquisitivo de los ciudadanos, la informalidad laboral y el crecimiento económico a largo plazo, contraviniendo objetivos de recuperación y desarrollo.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "El uso de la capacidad instalada de la industria cayó al 61% en octubre según el INDEC",
-          "link": "https://www.perfil.com/noticias/economia/el-uso-de-la-capacidad-instalada-de-la-industria-cayo-al-61-en-octubre-segun-el-indec.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-12 20:03:00"
-        },
-        {
-          "titulo": "Se enfría la productividad de la industria y hay sectores que ya operan a solo el 35% de sus posibilidades reales",
-          "link": "https://www.clarin.com/economia/enfria-productividad-industria-sectores-operan-solo-35-posibilidades-reales_0_V0Efv96L6A.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 18:28:00"
-        },
-        {
-          "titulo": "En los últimos 4 meses, el empleo asalariado privado se redujo en 49.000 personas",
-          "link": "https://www.clarin.com/economia/ultimos-4-meses-empleo-asalariado-privado-redujo-49000-personas_0_N5XdBxWAnL.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 16:43:54"
-        },
-        {
-          "titulo": "Crisis en el empleo formal: cerraron 20.000 empresas en los últimos 22 meses",
-          "link": "https://www.minutouno.com/economia/crisis-el-empleo-formal-cerraron-20000-empresas-los-ultimos-22-meses-n6223663",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-12 16:33:00"
-        },
-        {
-          "titulo": "El uso de la capacidad instalada de la industria cayó al 61% en octubre: en el sector textil ya está debajo del 35%",
-          "link": "https://www.ambito.com/economia/el-uso-la-capacidad-instalada-la-industria-cayo-al-61-octubre-el-sector-textil-esta-debajo-del-35-n6223651",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:07:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
         "Ámbito Financiero",
         "Perfil",
-        "Minuto1",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "venezuela:_crisis_politica_20251213",
-      "tema": "Venezuela: Crisis Política y Social",
-      "tema_normalizado": "venezuela: crisis politica y social",
-      "resumen": "📌 **¿Qué está pasando?**\n• Venezuela enfrenta una profunda crisis política y social, marcada por la creciente presión internacional de Estados Unidos y una intensificación de la represión interna.\n• Las acciones de EE.UU. incluyen amenazas militares contra el narcotráfico y sanciones petroleras, mientras que en el país se denuncia la persecución de sindicalistas y opositores.\n• Esta compleja situación genera alta tensión, afectando la estabilidad regional y los derechos humanos de la población.\n\n🔍 **Datos clave:**\n• **Reservas de petróleo:** Venezuela posee las mayores del mundo con 303.000 millones de barriles.\n• **Producción de petróleo (Noviembre):** Apenas 860.000 barriles por día, un tercio de lo de hace una década.\n• **Sanciones de EE.UU. al petróleo:** Iniciaron en 2019, afectando el sustento económico del régimen.\n• **Detenciones:** Al menos 160 trabajadores y 20 dirigentes sindicales han sido arrestados.\n• **Presos políticos:** 889, según datos de la ONG Foro Penal.\n• **Detención de José Elías Torres (Sec. Gral. CTV):** Ocurrió el 29 de noviembre.\n\n⚡ **Desarrollo:**\n• **Presión de EE.UU.:** El expresidente Donald Trump anunció la posibilidad de \"ataques terrestres\" contra el narcotráfico en Venezuela, en lo que describió como una \"nueva fase\" de presión. EE.UU. también ha incautado petroleros como el Skipper.\n• **Motivaciones en disputa:** El gobierno de Maduro acusa a EE.UU. de buscar el control del petróleo. EE.UU. justifica sus acciones por la lucha contra el narcotráfico y la ilegitimidad del régimen, aunque voces en EE.UU. ven oportunidad para empresas petroleras.\n• **Declive petrolero:** A pesar de sus vastas reservas, la producción de PDVSA ha caído drásticamente, impactada por la gestión estatal, la falta de inversión y las sanciones internacionales.\n• **Represión sindical:** Sindicatos venezolanos denuncian una \"ofensiva sistemática\" contra la organización de los trabajadores, con detenciones arbitrarias y persecución judicial. Casos como el de José Elías Torres de la CTV son un ejemplo.\n• **Alerta internacional:** Organismos como la ONU han alertado sobre el endurecimiento de la persecución política, y la OIT ha señalado irregularidades contra la libertad sindical, lo que lleva a los gremios a solicitar protección internacional.\n• **Riesgo opositor:** La hija de la líder opositora María Corina Machado advirtió sobre el peligro que su madre enfrentaría al regresar al país, reflejando los riesgos constantes para quienes se oponen al gobierno.\n\n💡 **¿Por qué importa?**\n• La combinación de sanciones externas, amenazas militares y la represión interna agudiza la ya precaria situación humanitaria y económica de Venezuela.\n• Esta crisis no solo afecta a los ciudadanos venezolanos, sino que también representa un factor de inestabilidad geopolítica con potenciales repercusiones regionales e internacionales.",
-      "cantidad_noticias": 4,
-      "noticias": [
-        {
-          "titulo": "Donald Trump anunció ataques terrestres contra el narcotráfico en Venezuela: “Va a empezar a suceder”",
-          "link": "https://www.lanacion.com.ar/el-mundo/donald-trump-anuncio-ataques-terrestres-contra-el-narcotrafico-en-venezuela-va-a-empezar-a-suceder-nid13122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 02:26:56"
-        },
-        {
-          "titulo": "¿Quiere realmente EE.UU. apoderarse del petróleo de Venezuela como denuncia el gobierno de Maduro?",
-          "link": "https://www.lanacion.com.ar/el-mundo/quiere-realmente-eeuu-apoderarse-del-petroleo-de-venezuela-como-denuncia-el-gobierno-de-maduro-nid12122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-12 23:57:44"
-        },
-        {
-          "titulo": "Sindicatos de Venezuela alertan por detenciones y denuncian un avance contra la actividad gremial",
-          "link": "https://www.ambito.com/mundo/sindicatos-venezuela-alertan-detenciones-y-denuncian-un-avance-contra-la-actividad-gremial-n6223702",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 19:56:00"
-        },
-        {
-          "titulo": "\"Mi mamá va a correr peligro\": la advertencia de la hija de María Corina Machado antes del regreso a Venezuela",
-          "link": "https://www.clarin.com/mundo/mama-va-correr-peligro-advertencia-hija-maria-corina-machado-regreso-venezuela_0_11TuXXadlg.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 19:05:43"
-        }
-      ],
-      "categoria_principal": "internacional",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "La Nación",
-        "Ámbito Financiero",
-        "Clarín"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_bonos_y_20251213",
-      "tema": "Argentina: Bonos y Merval",
-      "tema_normalizado": "argentina: bonos y merval",
-      "resumen": "📌 **¿Qué está pasando?**\n• El S&P Merval, principal índice bursátil argentino, encadenó caídas significativas en dólares por segunda semana consecutiva, mostrando un retroceso de hasta el 5%.\n• En contraste, los bonos en dólares de Argentina mostraron subas generalizadas, impulsados principalmente por el exitoso debut del nuevo Bonar 2029N (AN29).\n\n🔍 **Datos clave:**\n• **Merval en dólares:** Cayó entre 2.6% y 5% en la semana.\n• **Bonar 2029N (AN29):** Debutó con un precio de corte en la licitación que obtuvo entre US$ 910 y US$ 1.000 millones para el Gobierno.\n• **Rollover de deuda en pesos:** El Tesoro Nacional logró un 102,01% en la última licitación del año, obteniendo $21,3 billones.\n• **Riesgo País:** Se ubicó en torno a los 624-627 puntos básicos, mostrando una baja.\n• **Reservas BCRA:** Cerraron en US$ 41.902 millones, con un aumento diario de US$ 83 millones por un préstamo del BID.\n\n⚡ **Desarrollo:**\n• El S&P Merval mostró un desempeño mixto en acciones locales, con algunas subas notables (Ternium +8,2%, Sociedad Comercial del Plata +2,9%) y bajas (Central Puerto -2%, Banco de Valores -1,4%).\n• Los ADRs argentinos en Wall Street también terminaron mayormente a la baja, afectando a empresas como Edenor (-2,8%) y Banco Macro (-2,7%).\n• La acción de Molinos Agro (MOLA) recibió una recomendación de \"vender\" por expertos, a pesar de un buen balance, debido a ganancias temporales y un bajo \"free float\" real (5%) que limita su liquidez.\n• Por otro lado, IRSA y Cresud se destacan con proyecciones de subas superiores al 90% para 2026, impulsadas por la recuperación de shoppings, oficinas y el avance del megaproyecto Ramblas del Plata.\n• La suba de los bonos se explica por la exitosa colocación del Bonar 2029N y la buena renovación de la deuda en pesos, lo que generó optimismo en el mercado de renta fija.\n• El mercado ahora se enfoca en la capacidad del Tesoro para comprar dólares y la acumulación de reservas, considerándose \"la llave\" para una mayor baja del riesgo país y la reapertura de mercados internacionales.\n\n💡 **¿Por qué importa?**\n• La dinámica de mercado actual en Argentina presenta señales mixtas: una mayor confianza en la deuda soberana del Gobierno, pero una cautela persistente o toma de ganancias en el mercado de acciones, reflejada en la caída del Merval en dólares.\n• La capacidad del gobierno para refinanciar su deuda y acumular reservas es crucial para la estabilidad económica y la percepción de riesgo del país, mientras que el desempeño individual de las empresas muestra oportunidades y desafíos específicos para los inversores.",
-      "cantidad_noticias": 5,
-      "noticias": [
-        {
-          "titulo": "Merval cerró la semana con caída del 2,6% en dólares",
-          "link": "https://www.perfil.com/noticias/economia/merval-cerro-la-semana-con-caida-del-26-en-dolares.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-13 02:31:34"
-        },
-        {
-          "titulo": "Los bonos en dólares subieron en el debut del Bonar 2029N, pero el S&P Merval encadenó su segunda merma al hilo",
-          "link": "https://www.ambito.com/finanzas/los-bonos-dolares-rebotan-wall-street-las-licitaciones-del-tesoro-n6223475",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 18:50:00"
-        },
-        {
-          "titulo": "La City tiene bajo la lupa a las acciones de una empresa argentina: qué recomiendan expertos",
-          "link": "https://www.iprofesional.com/finanzas/443979-acciones-empresa-argentina-bajo-lupa-que-recomiendan-expertos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 17:15:00"
-        },
-        {
-          "titulo": "Suben los bonos argentinos, pero el S&P Merval en dólares profundiza su retroceso",
-          "link": "https://www.minutouno.com/economia/suben-los-bonos-argentinos-pero-el-sp-merval-dolares-profundiza-su-retroceso-n6223672",
-          "fuente": "Minuto1",
-          "fecha": "2025-12-12 16:52:25"
-        },
-        {
-          "titulo": "IRSA y Cresud pisan firme en el Merval, con proyección de suba de más del 90% para 2026",
-          "link": "https://www.iprofesional.com/finanzas/443510-irsa-y-cresud-pisan-firme-en-merval-proyeccion-suba-mas-90-por-ciento-para-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 14:58:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "iProfesional",
-        "Ámbito Financiero",
-        "Perfil",
-        "Minuto1"
-      ],
-      "es_tema_nuevo": true,
-      "es_tema_recurrente": false,
-      "dias_activo": 1,
-      "tendencia": "nuevo"
-    },
-    {
-      "tema_id": "argentina:_actualidad_economica_20251213",
-      "tema": "Argentina: Actualidad Económica Sectorial",
-      "tema_normalizado": "argentina: actualidad economica sectorial",
-      "resumen": "📌 **¿Qué está pasando?**\n*   El Gobierno de Argentina está implementando una serie de reformas económicas que incluyen la reducción de impuestos a la exportación, cambios laborales y una flexibilización fiscal.\n*   Estos cambios se dan en un contexto de alta inflación (2.5% en noviembre de 2025), lento crecimiento del consumo y preocupación por la acumulación de reservas de divisas.\n*   Sectores clave como el agropecuario y el petrolero se ven afectados por dinámicas globales y medidas internas, mientras el poder adquisitivo y los patrones de consumo de los argentinos se transforman.\n\n🔍 **Datos clave:**\n*   **Inflación Nov 2025:** 2.5% (IPC), el valor mensual más alto en 6 meses.\n*   **Sueldo inicial bancario Nov 2025:** Más de $2.008.000 (acumulado 27.9% en 11 meses).\n*   **Fondo de Asistencia Laboral (FAL):** Propone desviar el 3% de aportes jubilatorios (SIPA) a empresas.\n*   **Cosecha de trigo 2025/26:** Proyección récord de 27.7 millones de toneladas, aportando U$S 3.500 millones en exportaciones.\n*   **Precio del trigo:** Cayó a 180 US$/t desde 210 US$/t por expectativa de gran cosecha mundial y baja calidad local.\n*   **Consumo masivo 2025:** Suba del 2.4% (proyectado 3%) tras una caída del 13.9% en 2024.\n*   **Precio del asado Nov 2025:** Aumentó 13%, llegando a $13.304/kg y quintuplicando la inflación promedio.\n*   **Retenciones a soja:** Reducción permanente del 2% considerada insuficiente; superficie sembrada bajó 3 millones de hectáreas desde 2015.\n*   **Monotributo porteño:** Nuevas escalas y pagos mensuales desde enero 2026, unificado con el régimen nacional.\n*   **Reformas fiscales (ARCA):** Umbrales de evasión simple y agravada aumentan de $1.5M a $100M y de $15M a $1.000M, respectivamente.\n*   **Impuestos internos a autos de lujo:** Mercedes Benz ofrece reintegrar el impuesto si se deroga antes del 31 de enero de 2026.\n*   **Vencimientos de deuda Enero 2026:** Ascienden a U$S 4.300 millones.\n\n⚡ **Desarrollo:**\n*   **Sector Agropecuario en la mira:** La campaña récord de trigo 2025/26 enfrenta desafíos por la baja de precios internacionales y problemas de calidad (bajo porcentaje de proteína). Esto obliga a los productores a buscar estrategias de comercialización, ya sea vendiendo rápidamente el grano de menor calidad o conservando el de mejor calidad.\n*   **Consumo y Salarios bajo presión:** El consumo masivo muestra una recuperación muy lenta y desigual, con un cambio de hábitos hacia la búsqueda de precios y el uso de billeteras digitales. Los salarios en el sector bancario superaron los $2 millones iniciales tras un ajuste del 2.5% en noviembre, mientras que los empleados de comercio recibirán sumas fijas no remunerativas que se integrarán al básico en abril de 2026. La carne vacuna, un producto clave de la canasta, quintuplicó la inflación en noviembre.\n*   **Reformas Fiscales y Laborales:** El Gobierno busca reducir la incertidumbre con la baja permanente de retenciones a las exportaciones agroindustriales y la ampliación del Régimen de Incentivo a las Grandes Inversiones (RIGI) para el sector petrolero, que enfrenta una caída del 17% en el precio global. Se propone crear un Fondo de Asistencia Laboral (FAL) con aportes empresariales del 3% que se compensarían con una reducción equivalente a la ANSeS, generando un ahorro para las empresas. En materia tributaria, se busca un paradigma de \"Inocencia Fiscal\", elevando significativamente los umbrales de evasión penal y reduciendo los plazos de prescripción para la ARCA (Agencia de Recaudación y Control Aduanero).\n*   **Déficit de Reservas y Dólar:** Pese a las medidas, la preocupación por la escasez de reservas persiste, especialmente de cara a los importantes vencimientos de deuda de enero de 2026. La inflación mensual por encima del 2% genera tensiones sobre el tipo de cambio oficial, que el gobierno mantiene con bandas del 1% mensual, llevando al mercado a recalcular el verdadero valor del dólar.\n\n💡 **¿Por qué importa?**\n*   Estas medidas y dinámicas buscan reencauzar la economía argentina, pero la persistencia de la alta inflación, la necesidad crítica de acumular divisas y la disparidad en la recuperación sectorial generan un escenario complejo para empresas y ciudadanos.\n*   La combinación de reformas estructurales y la adaptación de los mercados a una nueva realidad económica determinará el poder adquisitivo, la estabilidad de precios y el potencial de crecimiento del país en el corto y mediano plazo.",
-      "cantidad_noticias": 15,
-      "noticias": [
-        {
-          "titulo": "La baja del precio del trigo obliga a decidir por una estrategia especial para la comercialización",
-          "link": "https://www.lanacion.com.ar/economia/campo/agricultura/la-baja-del-precio-del-trigo-obliga-a-decidir-por-una-estrategia-especial-para-la-comercializacion-nid13122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 06:00:01"
-        },
-        {
-          "titulo": "El nuevo mapa del consumo: ventas que no despegan, cambios de hábitos y un mercado que reescribe sus reglas",
-          "link": "https://www.lanacion.com.ar/economia/negocios/el-nuevo-mapa-del-consumo-ventas-que-no-despegan-cambios-de-habitos-y-un-mercado-que-reescribe-sus-nid13122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 05:52:00"
-        },
-        {
-          "titulo": "Menos incertidumbre y una apuesta a la mayor liquidación del campo",
-          "link": "https://www.lanacion.com.ar/economia/campo/menos-incertidumbre-y-una-apuesta-a-la-mayor-liquidacion-del-campo-nid13122025/",
-          "fuente": "La Nación",
-          "fecha": "2025-12-13 05:50:00"
-        },
-        {
-          "titulo": "Oficializaron sueldos de comercio: cómo impacta el nuevo bono de diciembre 2025 a abril 2026",
-          "link": "https://www.iprofesional.com/impuestos/443983-oficializaron-sueldos-de-comercio-como-impacta-el-nuevo-bono-de-diciembre-a-abril-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-13 05:06:00"
-        },
-        {
-          "titulo": "Desviarán aportes jubilatorios para financiar el Fondo de Asistencia Laboral",
-          "link": "https://www.perfil.com/noticias/economia/desviaran-aportes-jubilatorios-para-financiar-el-fondo-de-asistencia-laboral.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-13 02:30:26"
-        },
-        {
-          "titulo": "Nuevos valores para el Monotributo porteño: qué montos se pagarán desde enero 2026",
-          "link": "https://www.iprofesional.com/impuestos/443984-nuevos-valores-para-el-monotributo-porteno-que-montos-se-pagaran-desde-enero-2026",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 21:07:00"
-        },
-        {
-          "titulo": "El producto que más aumentó y multiplicó por cinco a la inflación",
-          "link": "https://www.iprofesional.com/economia/443999-el-producto-que-mas-aumento-y-multiplico-por-cinco-a-la-inflacion",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 19:01:00"
-        },
-        {
-          "titulo": "Mercedes Benz anunció que reintegrará a sus clientes los impuestos internos si se derogan antes del 31 de enero",
-          "link": "https://www.clarin.com/economia/mercedes-benz-anuncio-reintegrara-clientes-impuestos-internos-derogan-31-enero_0_QddLoKynkl.html",
-          "fuente": "Clarín",
-          "fecha": "2025-12-12 18:50:31"
-        },
-        {
-          "titulo": "Gremio clave firmó una nueva actualización salarial: el sueldo inicial ya superó los $2 millones",
-          "link": "https://www.iprofesional.com/economia/443995-gremio-clave-firmo-nueva-actualizacion-salarial-sueldo-inicial-ya-supero-2-millones-pesos",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 18:39:00"
-        },
-        {
-          "titulo": "Inocencia fiscal: cambios en Ganancias para que ARCA no pueda suponer que un contribuyente es evasor",
-          "link": "https://www.iprofesional.com/impuestos/443919-inocencia-fiscal-arca-no-podra-suponer-que-sos-evasor-gracias-a-cambios-en-ganancias",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 18:06:00"
-        },
-        {
-          "titulo": "Clave para el dólar: la supercosecha de trigo rompe récords y aportará más de u$s3.000 millones",
-          "link": "https://www.iprofesional.com/economia/443981-clave-para-dolar-supercosecha-trigo-rompe-records-aportara-mas-3000-millones-dolares",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 16:45:00"
-        },
-        {
-          "titulo": "Bancarios acordaron una nueva recomposición y el salario inicial supera los $2 millones",
-          "link": "https://www.ambito.com/economia/bancarios-acordaron-una-nueva-recomposicion-y-el-salario-inicial-supera-los-2-millones-n6223666",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:40:00"
-        },
-        {
-          "titulo": "No cede preocupación por reservas: para la city, el Gobierno deja pasar un diciembre clave para sumar divisas",
-          "link": "https://www.ambito.com/economia/no-cede-preocupacion-reservas-la-city-el-gobierno-deja-pasar-un-diciembre-clave-sumar-divisas-n6223631",
-          "fuente": "Ámbito Financiero",
-          "fecha": "2025-12-12 16:40:00"
-        },
-        {
-          "titulo": "La inflación rompió todos los pronósticos y en la City ya apuestan a un nuevo precio para el dólar",
-          "link": "https://www.iprofesional.com/finanzas/443936-dolar-hoy-como-cotiza-el-oficial-el-blue-el-mep-y-el-contado-con-liqui",
-          "fuente": "iProfesional",
-          "fecha": "2025-12-12 15:45:00"
-        },
-        {
-          "titulo": "El Gobierno anunció que las nuevas inversiones de petróleo ingresarán a través del RIGI",
-          "link": "https://www.perfil.com/noticias/economia/el-gobierno-anuncio-la-incorporacion-de-las-nuevas-inversiones-de-petroleo-al-rigi.phtml",
-          "fuente": "Perfil",
-          "fecha": "2025-12-12 15:42:00"
-        }
-      ],
-      "categoria_principal": "economia",
-      "fecha_deteccion": "2025-12-13",
-      "fuentes": [
-        "La Nación",
-        "iProfesional",
-        "Ámbito Financiero",
-        "Perfil",
-        "Clarín"
+        "Clarín",
+        "iProfesional"
       ],
       "es_tema_nuevo": true,
       "es_tema_recurrente": false,
