@@ -1,0 +1,29 @@
+{
+  "fecha_consolidacion": "2025-12-14",
+  "fecha_generacion": "2025-12-14T04:00:42.440300",
+  "resumenes": {
+    "internacional": {
+      "resumen": "Un tiroteo en la Universidad Brown de Rhode Island, Estados Unidos, dejó un saldo de dos muertos y ocho heridos, con el atacante ya detenido. Este evento generó gran preocupación y comentarios del Presidente Donald Trump.\n\nLa tensión política en Venezuela se mantiene elevada. La líder opositora María Corina Machado, tras su fuga, planifica su ruta para continuar la lucha desde el exterior, generando inquietud sobre su seguridad y la escalada del conflicto, mientras su hija ha expresado temores. Adicionalmente, el gobierno venezolano ha sido criticado por la confiscación del pasaporte al Cardenal Baltazar Porras, lo que agrava la crisis diplomática. El Presidente Trump reiteró advertencias sobre una posible intervención terrestre en Venezuela para combatir el narcotráfico, aumentando la presión sobre la administración de Nicolás Maduro.\n\nEn Chile, la elección presidencial se encamina a un balotaje decisivo donde el candidato ultraconservador José Antonio Kast emerge como favorito, marcando un giro a la derecha en el país. El electorado, más pragmático, busca respuestas a demandas sociales urgentes. En barrios como \"Pequeña Caracas\" de Santiago, los inmigrantes venezolanos expresan temor a posibles deportaciones si Kast llega a la presidencia.\n\nEn el ámbito internacional, Bielorrusia liberó a 123 presos políticos, incluyendo al Nobel de la Paz Ales Bialiatski, tras presiones de Estados Unidos. En Siria, un ataque atribuido a ISIS resultó en la muerte de tres estadounidenses, llevando al Presidente Trump a prometer \"serias\" represalias. La tensión en Gaza se elevó tras la muerte de un alto mando militar de Hamás por parte de Israel, lo que la organización considera una violación del cese al fuego.\n\nMéxico confirmó el primer caso de una \"super gripe\" previamente detectada en Europa, aunque las autoridades llaman a la calma y recomiendan vacunación. En Bolivia, se ordenó prisión preventiva para el expresidente Arce por supuestas irregularidades. Francia busca posponer la firma del acuerdo UE-Mercosur hasta 2026, solicitando modificaciones en el capítulo agrícola. Finalmente, el Rey Carlos III del Reino Unido anticipó una posible reducción de su tratamiento contra el cáncer en 2026 debido a una evolución favorable.",
+      "cantidad_noticias": 21,
+      "fecha_generacion": "2025-12-14T04:00:42.136743",
+      "categoria": "internacional"
+    },
+    "politica": {
+      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 17.761131404s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-14T04:00:42.288450",
+      "categoria": "politica"
+    },
+    "economia": {
+      "resumen": "Error al generar resumen: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 17.608058019s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}",
+      "cantidad_noticias": 30,
+      "fecha_generacion": "2025-12-14T04:00:42.440012",
+      "categoria": "economia"
+    },
+    "sociedad": {
+      "resumen": "No hay noticias disponibles para esta categoría.",
+      "cantidad_noticias": 0,
+      "fecha_generacion": "2025-12-14T04:00:42.440280"
+    }
+  }
+}
