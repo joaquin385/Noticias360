@@ -6,6 +6,7 @@ Usa patrones heurísticos para inferir la categoría sin analizar el contenido.
 import json
 import re
 from pathlib import Path
+import shutil
 from datetime import datetime
 from typing import Dict, List
 import logging
@@ -388,15 +389,54 @@ def procesar_json(archivo_entrada: Path, archivo_salida: Path = None):
         logging.error(f"Error al procesar {archivo_entrada.name}: {str(e)}")
 
 
+def limpiar_frontend_data(fecha_actual: str):
+    """
+    Limpia archivos antiguos en frontend/data/ para evitar acumulación.
+
+    Reglas:
+    - Mantener solo:
+      - noticias_YYYY-MM-DD.json de la fecha_actual
+      - resumenes_YYYY-MM-DD.json de la fecha_actual
+      - temas_latest.json (no se toca)
+    - Eliminar cualquier otro archivo noticias_*.json o resumenes_*.json
+    """
+    try:
+        FRONTEND_DIR.mkdir(parents=True, exist_ok=True)
+
+        patron_noticias_hoy = f"noticias_{fecha_actual}.json"
+        patron_resumenes_hoy = f"resumenes_{fecha_actual}.json"
+
+        # Eliminar noticias_*.json antiguos
+        for archivo in FRONTEND_DIR.glob("noticias_*.json"):
+            if archivo.name != patron_noticias_hoy:
+                try:
+                    archivo.unlink()
+                    logging.info(f"Eliminado archivo antiguo de noticias: {archivo.name}")
+                except Exception as e:
+                    logging.warning(f"No se pudo eliminar {archivo}: {str(e)}")
+
+        # Eliminar resumenes_*.json antiguos
+        for archivo in FRONTEND_DIR.glob("resumenes_*.json"):
+            if archivo.name != patron_resumenes_hoy:
+                try:
+                    archivo.unlink()
+                    logging.info(f"Eliminado archivo antiguo de resúmenes: {archivo.name}")
+                except Exception as e:
+                    logging.warning(f"No se pudo eliminar {archivo}: {str(e)}")
+
+    except Exception as e:
+        logging.error(f"Error al limpiar frontend/data: {str(e)}")
+
+
 def main():
     """
     Función principal que procesa el archivo JSON más reciente.
     """
     fecha_actual = datetime.now().strftime("%Y-%m-%d")
-    nombre_archivo = f"noticias_{fecha_actual}.json"
-    
-    archivo_data = DATA_DIR / nombre_archivo
-    archivo_frontend = FRONTEND_DIR / nombre_archivo
+    nombre_archivo_noticias = f"noticias_{fecha_actual}.json"
+
+    archivo_data = DATA_DIR / nombre_archivo_noticias
+    archivo_frontend = FRONTEND_DIR / nombre_archivo_noticias
     
     logging.info("=" * 60)
     logging.info("CLASIFICACIÓN DE NOTICIAS POR URL")
@@ -407,11 +447,20 @@ def main():
     if archivo_data.exists():
         logging.info(f"Procesando: {archivo_data.name}")
         procesar_json(archivo_data)
-        
-        # Copiar a frontend
-        if archivo_frontend.exists():
-            logging.info(f"Actualizando: {archivo_frontend.name}")
-            procesar_json(archivo_data, archivo_frontend)
+
+        # Antes de copiar, limpiar archivos antiguos del frontend
+        limpiar_frontend_data(fecha_actual)
+
+        # Copiar a frontend (sobrescribiendo el archivo del día si existe)
+        try:
+            FRONTEND_DIR.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(archivo_data, archivo_frontend)
+            logging.info(f"Copiado a frontend: {archivo_frontend.name}")
+
+            # Volver a procesar en el archivo de frontend para asegurar que tenga categoria_url
+            procesar_json(archivo_frontend, archivo_frontend)
+        except Exception as e:
+            logging.error(f"No se pudo copiar a frontend/data: {str(e)}")
     else:
         logging.warning(f"No se encontró el archivo: {archivo_data}")
         logging.info("Buscando archivos disponibles...")
