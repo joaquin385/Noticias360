@@ -75,6 +75,38 @@ def extraer_noticias_feed(feed_config: dict) -> list:
                 "categoria": categoria,
                 "url_feed": url
             }
+
+            # Intentar obtener una imagen representativa desde el RSS (si existe)
+            imagen_url = None
+
+            # 1) media_content (estándar en muchos feeds)
+            media_content = entry.get("media_content") or getattr(entry, "media_content", None)
+            if media_content and isinstance(media_content, list):
+                primera = media_content[0]
+                imagen_url = primera.get("url") or primera.get("src")
+
+            # 2) media_thumbnail
+            if not imagen_url:
+                media_thumb = entry.get("media_thumbnail") or getattr(entry, "media_thumbnail", None)
+                if media_thumb and isinstance(media_thumb, list):
+                    primera = media_thumb[0]
+                    imagen_url = primera.get("url") or primera.get("src")
+
+            # 3) Enclosures (muchos RSS de medios usan esto para imágenes)
+            if not imagen_url and hasattr(entry, "enclosures"):
+                for enc in entry.enclosures:
+                    tipo = getattr(enc, "type", "") or getattr(enc, "media_type", "")
+                    href = getattr(enc, "href", "") or getattr(enc, "url", "")
+                    if href and ("image" in tipo or href.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
+                        imagen_url = href
+                        break
+
+            # 4) image / picture genérico si viene plano
+            if not imagen_url:
+                imagen_url = entry.get("image") or entry.get("picture")
+
+            if imagen_url:
+                noticia["imagen_url"] = imagen_url
             
             # Agregar campos adicionales si están disponibles
             if hasattr(entry, "author") and entry.author:

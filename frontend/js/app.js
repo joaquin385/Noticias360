@@ -615,8 +615,8 @@ function mostrarNoticias() {
         return;
     }
     
-    noticiasFiltradas.forEach(noticia => {
-        const card = crearTarjetaNoticia(noticia);
+    noticiasFiltradas.forEach((noticia, index) => {
+        const card = crearTarjetaNoticia(noticia, index);
         contenedorNoticias.appendChild(card);
     });
     
@@ -642,53 +642,79 @@ function htmlATexto(html) {
 }
 
 /**
- * Crea una tarjeta de noticia
+ * Crea una tarjeta de noticia con tamaño variable (hero, grande, estándar)
  */
-function crearTarjetaNoticia(noticia) {
-    const card = document.createElement('div');
-    card.className = 'bg-white rounded-lg shadow-md p-4 noticia-card flex flex-col h-full';
-    
+function crearTarjetaNoticia(noticia, index) {
+    const card = document.createElement('article');
+
+    // Determinar tamaño según posición
+    let sizeClass = 'noticia-card--standard';
+    if (index === 0) {
+        sizeClass = 'noticia-card--hero';
+    } else if (index > 0 && index < 4) {
+        sizeClass = 'noticia-card--large';
+    }
+
+    card.className = `noticia-card ${sizeClass}`;
+
     // Formatear fecha
     const fechaFormateada = formatearFecha(noticia.fecha_local);
-    
+
     // Obtener categoría: siempre usar categoria_url, nunca categoria
     let categoriaDisplay = noticia.categoria_url;
-    
-    // Si categoria_url no existe, es null, undefined, vacío o es "No categorizada", usar "otros"
-    if (!categoriaDisplay || 
-        categoriaDisplay === null || 
+    if (
+        !categoriaDisplay ||
+        categoriaDisplay === null ||
         categoriaDisplay === undefined ||
-        categoriaDisplay.toString().trim() === '' || 
-        categoriaDisplay.toString().toLowerCase().trim() === 'no categorizada') {
+        categoriaDisplay.toString().trim() === '' ||
+        categoriaDisplay.toString().toLowerCase().trim() === 'no categorizada'
+    ) {
         categoriaDisplay = 'otros';
     } else {
         categoriaDisplay = categoriaDisplay.toString().toLowerCase().trim();
     }
-    
+
     // Convertir resumen HTML a texto plano
     const resumenTexto = htmlATexto(noticia.resumen) || 'Sin descripción';
-    
+
+    // Intentar obtener una imagen si existe en el JSON (campo opcional)
+    const imagenUrl =
+        noticia.imagen_url ||
+        noticia.image ||
+        noticia.thumbnail ||
+        null;
+
+    const fuente = noticia.fuente || 'Sin fuente';
+
+    // Header visual sólo si hay imagen; si no, arrancamos directamente con el cuerpo
+    const headerHtml = imagenUrl
+        ? `<div class="noticia-card__image">
+                <img src="${imagenUrl}" alt="${(noticia.titulo || 'Noticia').replace(/"/g, '')}">
+           </div>`
+        : '';
+
     card.innerHTML = `
-        <div class="flex items-center justify-between mb-2 flex-shrink-0">
-            <span class="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-2 py-0.5 rounded">${noticia.fuente || 'Sin fuente'}</span>
-            <span class="inline-block bg-gray-100 text-gray-800 text-xs font-medium px-2 py-0.5 rounded">${formatearNombreCategoria(categoriaDisplay)}</span>
+        ${headerHtml}
+        <div class="noticia-card__body">
+            <div class="noticia-card__meta">
+                <span class="noticia-card__badge-fuente">${fuente}</span>
+                <span class="noticia-card__badge-cat">${formatearNombreCategoria(categoriaDisplay)}</span>
+            </div>
+            <h3 class="noticia-card__title noticia-card__title--clamp">
+                <a href="${noticia.link || '#'}" target="_blank" rel="noopener noreferrer" class="hover:underline">
+                    ${noticia.titulo || 'Sin título'}
+                </a>
+            </h3>
+            <p class="noticia-card__resumen">
+                ${resumenTexto}
+            </p>
+            <div class="noticia-card__footer">
+                <span>${fechaFormateada}</span>
+                ${noticia.horas_atras ? `<span>⏱️ ${Math.round(noticia.horas_atras)}h</span>` : ''}
+            </div>
         </div>
-        
-        <h3 class="text-base font-bold text-gray-900 mb-2 flex-shrink-0">${noticia.titulo || 'Sin título'}</h3>
-        
-        <p class="text-xs text-gray-600 mb-2 flex-grow">${resumenTexto}</p>
-        
-        <div class="flex items-center justify-between text-xs text-gray-400 mb-2 flex-shrink-0">
-            <span>🕒</span>
-            ${noticia.horas_atras ? `<span>⏱️ ${Math.round(noticia.horas_atras)}h</span>` : ''}
-        </div>
-        
-        <a href="${noticia.link || '#'}" target="_blank" rel="noopener noreferrer" 
-           class="mt-auto block w-full bg-blue-600 hover:bg-blue-700 text-white text-center font-medium py-1.5 rounded text-xs transition-colors flex-shrink-0">
-            Leer más →
-        </a>
     `;
-    
+
     return card;
 }
 
