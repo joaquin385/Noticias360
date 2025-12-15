@@ -24,9 +24,11 @@ import extraer_feeds
 import normalizar_fechas
 import integrar_fuentes
 import clasificar_categorias_url
-import extraer_contenido
-import generar_resumenes_gemini
-import agrupar_temas
+# NOTA: Estos módulos quedan disponibles pero
+# se han desactivado del pipeline principal
+# import extraer_contenido
+# import generar_resumenes_gemini
+# import agrupar_temas
 
 # Configuración de logging
 logging.basicConfig(
@@ -94,50 +96,25 @@ def ejecutar_pipeline_completo():
         logging.error("Pipeline detenido por error en clasificación")
         return
 
-    # PASO 5: Extraer contenido completo (OPCIONAL - toma ~4-5 minutos)
-    # Puedes comentar este bloque si quieres acelerar el pipeline
-    # Los temas funcionarán igual pero con menos detalle en los resúmenes
+    # PASO 5-7: Funcionalidades avanzadas (scraping + IA) DESACTIVADAS
+    # ----------------------------------------------------------------
+    # Los siguientes pasos quedan documentados pero fuera del flujo:
+    # 5. extraer_contenido.py      - Scraping de contenido completo
+    # 6. generar_resumenes_gemini.py - Resúmenes por categoría con Gemini
+    # 7. agrupar_temas.py            - Detección y agrupación de temas con Gemini
+    #
+    # Si en el futuro se desea reactivar estas funciones, se pueden
+    # descomentar los bloques anteriores y las importaciones.
     logging.info("\n" + "=" * 70)
-    logging.info("PASO 5/7: EXTRACCIÓN DE CONTENIDO COMPLETO (Web Scraping - OPCIONAL)")
+    logging.info("PASOS 5-7 DESACTIVADOS: scraping y módulos de IA no se ejecutan en este pipeline")
     logging.info("=" * 70)
-    try:
-        extraer_contenido.main()
-        logging.info("✓ Contenido extraído exitosamente")
-    except Exception as e:
-        logging.error(f"✗ Error al extraer contenido: {str(e)}")
-        logging.warning("Continuando pipeline sin contenido completo...")
-        # No detener el pipeline, es opcional
-
-    # PASO 6: Generar resúmenes con Gemini
-    logging.info("\n" + "=" * 70)
-    logging.info("PASO 6/7: GENERACIÓN DE RESÚMENES POR CATEGORÍA (Gemini)")
-    logging.info("=" * 70)
-    try:
-        generar_resumenes_gemini.main()
-        logging.info("✓ Resúmenes generados exitosamente")
-    except Exception as e:
-        logging.error(f"✗ Error al generar resúmenes: {str(e)}")
-        logging.warning("Continuando pipeline sin resúmenes de categoría...")
-        # No detener el pipeline, es opcional
-    
-    # PASO 7: Detectar y agrupar temas con IA
-    logging.info("\n" + "=" * 70)
-    logging.info("PASO 7/7: DETECCIÓN Y AGRUPACIÓN DE TEMAS (Gemini)")
-    logging.info("=" * 70)
-    try:
-        agrupar_temas.main()
-        logging.info("✓ Temas detectados y guardados exitosamente")
-    except Exception as e:
-        logging.error(f"✗ Error al detectar temas: {str(e)}")
-        logging.warning("Pipeline completado sin detección de temas")
-        # No detener el pipeline, es opcional
     
     # Resumen final
     fin = datetime.now()
     duracion = fin - inicio
     
     logging.info("\n" + "=" * 70)
-    logging.info("PIPELINE COMPLETADO EXITOSAMENTE")
+    logging.info("PIPELINE COMPLETADO (MODO SIN IA)")
     logging.info("=" * 70)
     logging.info(f"Inicio: {inicio.strftime('%Y-%m-%d %H:%M:%S')}")
     logging.info(f"Fin: {fin.strftime('%Y-%m-%d %H:%M:%S')}")
@@ -155,9 +132,7 @@ def ejecutar_pipeline_completo():
     logging.info("    • data/temas/historico_temas.json - Histórico completo de temas")
     logging.info("\n  Frontend (frontend/data/):")
     logging.info("    • noticias_YYYY-MM-DD.json - Noticias clasificadas (por fecha)")
-    logging.info("    • resumenes_YYYY-MM-DD.json - Resúmenes de categorías (por fecha)")
-    logging.info("    • temas_latest.json - Temas detectados del día")
-    logging.info("\n  Nota: historico_temas.json solo en data/temas/ (no se copia a frontend)")
+    logging.info("\n  Nota: módulos de IA y temas están desactivados en este modo")
 
 
 def main():

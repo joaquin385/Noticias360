@@ -2,16 +2,11 @@
 # GitHub Actions: Actualización Automática de Noticias
 # ============================================================
 # 
-# Este workflow ejecuta el pipeline completo cada 3 horas:
+# Este workflow ejecuta el pipeline cada 3 horas en modo SIN IA:
 # 1. Extrae noticias de RSS (8 fuentes argentinas)
 # 2. Normaliza fechas y clasifica por categoría
-# 3. Extrae contenido completo (scraping - 150 artículos)
-# 4. Genera resúmenes con IA (Gemini)
-# 5. Detecta y agrupa temas relevantes con histórico
-# 6. Commitea archivos a frontend/data/ para Vercel
-#
-# REQUISITO: Configurar GEMINI_API_KEY en GitHub Secrets
-# Settings → Secrets and variables → Actions → New repository secret
+# 3. Integra todas las fuentes en un único JSON diario
+# 4. Copia el JSON del día a frontend/data/
 # ============================================================
 
 name: Actualizar noticias cada 3h
@@ -47,18 +42,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Prepare .env from secrets
-        run: |
-          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
-          if [ -z "${{ secrets.GEMINI_API_KEY }}" ]; then
-            echo "⚠️ ADVERTENCIA: GEMINI_API_KEY no está configurada en GitHub Secrets"
-            exit 1
-          fi
-          echo "✓ API key configurada correctamente"
-
-      - name: Run pipeline
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Run pipeline (modo sin IA)
         run: |
           python scripts/ejecutar_pipeline.py
 
@@ -99,7 +83,7 @@ jobs:
             TIMESTAMP=$(TZ='America/Argentina/Buenos_Aires' date '+%Y-%m-%d %H:%M %Z')
             
             # Commit y push
-            git commit -m "🤖 Update: noticias, resúmenes y temas [$TIMESTAMP] [ci skip]" || echo "⚠️ Commit falló"
+            git commit -m "🤖 Update: noticias [$TIMESTAMP] [ci skip]" || echo "⚠️ Commit falló"
             git push origin HEAD:main || echo "⚠️ Push falló"
             echo "✓ Cambios publicados"
           fi

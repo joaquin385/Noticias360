@@ -1,7 +1,7 @@
 // Estado de la aplicación
 let noticias = [];
-let resumenesPorCategoria = null; // { categoria: { resumen, cantidad_noticias, fecha_generacion } }
-let temasDestacados = null; // Temas detectados por IA
+let resumenesPorCategoria = null; // DESACTIVADO: resúmenes IA
+let temasDestacados = null; // DESACTIVADO: temas detectados por IA
 let categoriaSeleccionada = 'internacional'; // Por defecto la primera categoría
 let fuenteSeleccionada = 'todas';
 let todasLasCategorias = [];
@@ -20,22 +20,6 @@ const btnActualizar = document.getElementById('btn-actualizar');
 document.addEventListener('DOMContentLoaded', () => {
     cargarNoticias();
     btnActualizar.addEventListener('click', cargarNoticias);
-    
-    // Navegación entre vistas
-    const btnTemas = document.getElementById('btn-temas');
-    const btnNoticias = document.getElementById('btn-noticias');
-    
-    if (btnTemas) {
-        btnTemas.addEventListener('click', () => {
-            mostrarVistaTemas();
-        });
-    }
-    
-    if (btnNoticias) {
-        btnNoticias.addEventListener('click', () => {
-            mostrarVistaNoticias();
-        });
-    }
 });
 
 /**
@@ -86,18 +70,12 @@ async function cargarNoticias() {
         // Generar filtros de navegación
         generarNavegacionCategorias();
         generarNavegacionFuentes();
-        
-        // Cargar resúmenes y temas del mismo día (no bloqueante)
-        try { await cargarResumenes(); } catch (_) {}
-        try { await cargarTemas(); } catch (_) {}
-        
+
         // Ocultar estado de carga
         ocultarEstadoCarga();
         
-        // Mostrar noticias filtradas, resumen y temas
+        // Mostrar noticias filtradas (sin resúmenes IA ni temas)
         mostrarNoticias();
-        mostrarResumenCategoria();
-        mostrarTemas();
         
         // Actualizar fecha de actualización
         fechaActualizacion.textContent = `Última actualización: ${data.fecha_consolidacion || hoy}`;
@@ -186,8 +164,6 @@ function generarNavegacionCategorias() {
             // Generar filtros de fuentes según categoría
             actualizarFiltrosFuentes();
             mostrarNoticias();
-            mostrarResumenCategoria();
-            mostrarTemas();  // También actualizar temas cuando cambia la categoría
         });
     });
     
