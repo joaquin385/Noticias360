@@ -18,10 +18,10 @@
                 <span id="fecha-actualizacion" class="text-sm text-gray-600"></span>
             </div>
             <div class="flex items-center gap-3">
-                <button id="btn-actualizar" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-colors">
-                    <span>🔄</span>
-                    <span>Actualizar</span>
-                </button>
+                <a href="indicadores.html" class="btn-indicadores-principal hidden sm:inline-flex">
+                    <span>📊</span>
+                    <span>Indicadores de Argentina</span>
+                </a>
             </div>
         </div>
     </header>
@@ -33,18 +33,6 @@
                 <!-- Los botones de categorías se generarán dinámicamente -->
                 <button class="categoria-btn px-4 py-2 rounded-lg bg-blue-600 text-white font-medium whitespace-nowrap" data-categoria="todas">
                     Todas
-                </button>
-            </div>
-        </div>
-    </nav>
-
-    <!-- Subnavegación - Fuentes -->
-    <nav class="bg-white border-b border-gray-200 sticky top-[73px] z-40">
-        <div class="container mx-auto px-4 py-2">
-            <div class="flex overflow-x-auto space-x-2" id="fuentes-nav">
-                <!-- Los botones de fuentes se generarán dinámicamente -->
-                <button class="fuente-btn px-3 py-1 rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium whitespace-nowrap text-sm" data-fuente="todas">
-                    Todas las fuentes
                 </button>
             </div>
         </div>

@@ -1,11 +1,9 @@
-// Estado de la aplicación
+// Estado de la aplicación (solo noticias en esta página)
 let noticias = [];
 let resumenesPorCategoria = null; // DESACTIVADO: resúmenes IA
 let temasDestacados = null; // DESACTIVADO: temas detectados por IA
 let categoriaSeleccionada = 'internacional'; // Por defecto la primera categoría
-let fuenteSeleccionada = 'todas';
 let todasLasCategorias = [];
-let todasLasFuentes = [];
 
 // DOM Elements
 const contenedorNoticias = document.getElementById('noticias-container');
@@ -14,12 +12,10 @@ const mensajeError = document.getElementById('mensaje-error');
 const sinNoticias = document.getElementById('sin-noticias');
 const contadorNoticias = document.getElementById('contador-noticias');
 const fechaActualizacion = document.getElementById('fecha-actualizacion');
-const btnActualizar = document.getElementById('btn-actualizar');
 
 // Inicialización
 document.addEventListener('DOMContentLoaded', () => {
     cargarNoticias();
-    btnActualizar.addEventListener('click', cargarNoticias);
 });
 
 /**
@@ -64,12 +60,11 @@ async function cargarNoticias() {
             return;
         }
         
-        // Extraer categorías y fuentes únicas
-        extraerCategoriasYFuentes();
+        // Extraer categorías únicas
+        extraerCategorias();
         
         // Generar filtros de navegación
         generarNavegacionCategorias();
-        generarNavegacionFuentes();
 
         // Ocultar estado de carga
         ocultarEstadoCarga();
@@ -78,7 +73,9 @@ async function cargarNoticias() {
         mostrarNoticias();
         
         // Actualizar fecha de actualización
-        fechaActualizacion.textContent = `Última actualización: ${data.fecha_consolidacion || hoy}`;
+        if (fechaActualizacion) {
+            fechaActualizacion.textContent = `Última actualización: ${data.fecha_consolidacion || hoy}`;
+        }
         
     } catch (error) {
         console.error('Error al cargar noticias:', error);
@@ -89,9 +86,8 @@ async function cargarNoticias() {
 /**
  * Extrae las categorías y fuentes únicas de las noticias
  */
-function extraerCategoriasYFuentes() {
+function extraerCategorias() {
     const categoriasSet = new Set();
-    const fuentesSet = new Set();
     
     noticias.forEach(noticia => {
         // Siempre priorizar categoria_url sobre categoria
@@ -117,11 +113,9 @@ function extraerCategoriasYFuentes() {
         categoria = categoria.toLowerCase().trim();
         
         if (categoria) categoriasSet.add(categoria);
-        if (noticia.fuente) fuentesSet.add(noticia.fuente);
     });
     
     todasLasCategorias = Array.from(categoriasSet).sort();
-    todasLasFuentes = Array.from(fuentesSet).sort();
 }
 
 /**
@@ -161,8 +155,6 @@ function generarNavegacionCategorias() {
             e.target.classList.add('active', 'bg-blue-600', 'text-white');
             e.target.classList.remove('bg-gray-200', 'text-gray-700');
             
-            // Generar filtros de fuentes según categoría
-            actualizarFiltrosFuentes();
             mostrarNoticias();
         });
     });
@@ -481,56 +473,6 @@ function ocultarResumenCategoria() {
 /**
  * Genera los botones de navegación de fuentes
  */
-function generarNavegacionFuentes() {
-    actualizarFiltrosFuentes();
-}
-
-/**
- * Actualiza los filtros de fuentes según la categoría seleccionada
- */
-function actualizarFiltrosFuentes() {
-    const navFuentes = document.getElementById('fuentes-nav');
-    
-    // Obtener fuentes disponibles en la categoría seleccionada
-    const fuentesEnCategoria = new Set();
-    noticias.forEach(n => {
-        // Siempre usar categoria_url, si no existe usar "otros"
-        let categoria = n.categoria_url;
-        if (!categoria || categoria.trim() === '') {
-            categoria = 'otros';
-        }
-        categoria = categoria.toLowerCase().trim();
-        
-        if (categoria === categoriaSeleccionada && n.fuente) {
-            fuentesEnCategoria.add(n.fuente);
-        }
-    });
-    const fuentesDisponibles = Array.from(fuentesEnCategoria).sort();
-    
-    let html = '<button class="fuente-btn px-3 py-1 rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium whitespace-nowrap text-sm transition-colors" data-fuente="todas">Todas las fuentes</button>';
-    
-    fuentesDisponibles.forEach(fuente => {
-        html += `<button class="fuente-btn px-3 py-1 rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium whitespace-nowrap text-sm transition-colors" data-fuente="${fuente}">${fuente}</button>`;
-    });
-    
-    navFuentes.innerHTML = html;
-    
-    // Agregar event listeners
-    navFuentes.querySelectorAll('.fuente-btn').forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            fuenteSeleccionada = e.target.dataset.fuente;
-            
-            // Actualizar clases activas
-            navFuentes.querySelectorAll('.fuente-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            
-            mostrarNoticias();
-        });
-    });
-    
-    // Activar botón "Todas" por defecto
-    navFuentes.querySelector('[data-fuente="todas"]').classList.add('active');
-}
 
 /**
  * Muestra las noticias filtradas
@@ -553,8 +495,7 @@ function mostrarNoticias() {
             return false;
         }
         
-        const cumpleFuente = fuenteSeleccionada === 'todas' || noticia.fuente === fuenteSeleccionada;
-        return cumpleCategoria && cumpleFuente;
+        return cumpleCategoria;
     });
     
     // Intercalar noticias por fuente para evitar noticias consecutivas de la misma fuente

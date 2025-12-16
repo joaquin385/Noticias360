@@ -1,0 +1,470 @@
+[
+  {
+    "id": "desarrollo_economico",
+    "nombre": "Desarrollo económico y empleo",
+    "descripcion": "Esta área se ocupa de cómo crece la economía, cómo se genera empleo y cómo se distribuyen las oportunidades productivas. Abarca las políticas que determinan el ritmo de expansión económica, la creación de puestos de trabajo, la estabilidad de precios, la competitividad internacional y la capacidad del país para generar riqueza de manera sostenible. Incluye el análisis de indicadores macroeconómicos fundamentales, políticas laborales, desarrollo industrial, comercio exterior, innovación y apoyo a emprendimientos.",
+    "icono": "📈",
+    "subareas": [
+      {
+        "nombre": "Política macroeconómica",
+        "descripcion": "Manejo del crecimiento, inflación, tipo de cambio y ciclos económicos.",
+        "descripcion_detallada": "La política macroeconómica es el conjunto de herramientas que el Estado utiliza para gestionar la economía en su conjunto. Se enfoca en cuatro pilares fundamentales:\n\n1. Manejo del Crecimiento Económico\n\nPara comparar el crecimiento, no basta con mirar el número bruto; se debe analizar la sostenibilidad y el bienestar relativo. Los indicadores clave incluyen la variación del PIB real, el PIB per cápita ajustado por paridad de poder adquisitivo, y la brecha de producción que mide la diferencia entre el PIB actual y el potencial.\n\n2. Control de la Inflación y Política Monetaria\n\nEste bloque mide qué tan bien el Banco Central protege el valor de la moneda. Se analizan índices de precios, inflación subyacente (que excluye componentes volátiles) y las tasas de interés de política monetaria, tanto nominales como reales.\n\n3. Tipo de Cambio y Sector Exterior\n\nEvalúa la competitividad del país y su resiliencia ante choques externos. Incluye el tipo de cambio real multilateral, el saldo de la cuenta corriente como porcentaje del PIB, y las reservas internacionales medidas en meses de importación.\n\n4. Ciclos Económicos y Política Fiscal\n\nMide cómo el gobierno suaviza las \"vacas flacas\" y gestiona las \"vacas gordas\". Se analizan los resultados fiscales (primario y financiero), la deuda pública como porcentaje del PIB, y los indicadores compuestos que anticipan la dirección del ciclo económico.",
+        "pilares": [
+          {
+            "id": "crecimiento_economico",
+            "nombre": "Manejo del Crecimiento Económico",
+            "descripcion": "Para comparar el crecimiento, no basta con mirar el número bruto; se debe analizar la sostenibilidad y el bienestar relativo. Los indicadores clave incluyen la variación del PIB real, el PIB per cápita ajustado por paridad de poder adquisitivo, y la brecha de producción que mide la diferencia entre el PIB actual y el potencial.",
+            "indicadores_codigos": ["NY.GDP.MKTP.KD.ZG", "NY.GDP.PCAP.PP.KD"]
+          },
+          {
+            "id": "inflacion_monetaria",
+            "nombre": "Control de la Inflación y Política Monetaria",
+            "descripcion": "Este bloque mide qué tan bien el Banco Central protege el valor de la moneda. Se analizan índices de precios, inflación subyacente (que excluye componentes volátiles) y las tasas de interés de política monetaria, tanto nominales como reales.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "tipo_cambio_exterior",
+            "nombre": "Tipo de Cambio y Sector Exterior",
+            "descripcion": "Evalúa la competitividad del país y su resiliencia ante choques externos. Incluye el tipo de cambio real multilateral, el saldo de la cuenta corriente como porcentaje del PIB, y las reservas internacionales medidas en meses de importación.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "ciclos_fiscal",
+            "nombre": "Ciclos Económicos y Política Fiscal",
+            "descripcion": "Mide cómo el gobierno suaviza las \"vacas flacas\" y gestiona las \"vacas gordas\". Se analizan los resultados fiscales (primario y financiero), la deuda pública como porcentaje del PIB, y los indicadores compuestos que anticipan la dirección del ciclo económico.",
+            "indicadores_codigos": []
+          }
+        ],
+        "indicadores": [
+          {
+            "codigo": "NY.GDP.MKTP.KD.ZG",
+            "nombre": "Variación del PIB Real (anual %)",
+            "descripcion": "El estándar de oro. Mide el crecimiento de la producción descontando el efecto de la inflación.",
+            "unidad": "%",
+            "archivo_json": "pib_real_crecimiento.json"
+          },
+          {
+            "codigo": "NY.GDP.PCAP.PP.KD",
+            "nombre": "PIB per Cápita (PPA)",
+            "descripcion": "Utiliza la Paridad de Poder Adquisitivo (PPA) para comparar el nivel de vida real entre países, eliminando las distorsiones de los tipos de cambio.",
+            "unidad": "USD constantes 2017",
+            "archivo_json": "pib_per_capita_ppa.json"
+          }
+        ]
+      },
+      {
+        "nombre": "Política laboral y empleo",
+        "descripcion": "Creación de empleo, salarios, informalidad, productividad laboral.",
+        "descripcion_detallada": "La política laboral y de empleo abarca todas las dimensiones del mercado de trabajo, desde la creación de oportunidades laborales hasta la calidad del empleo y la protección social. Se estructura en seis pilares fundamentales que permiten analizar de manera integral el funcionamiento del mercado laboral y su impacto en el bienestar de los trabajadores.\n\n1. Creación de empleo y mercado laboral\n\nIndicadores clave para medir la capacidad del mercado laboral de generar oportunidades de trabajo.\n\n2. Salarios e ingresos laborales\n\nMide el nivel y la evolución de los ingresos de los trabajadores, así como su participación en el ingreso nacional.\n\n3. Informalidad laboral y calidad del empleo\n\nEvalúa la precariedad y la protección social de los trabajadores.\n\n4. Productividad laboral\n\nMide la eficiencia con la que se utiliza el factor trabajo en la producción.\n\n5. Segmentación y desigualdad en el mercado laboral\n\nAnaliza las brechas y desigualdades entre diferentes grupos de trabajadores.\n\n6. Dinámica del mercado laboral (flujo, no stock)\n\nClave para políticas modernas. Mide los flujos de entrada y salida del mercado laboral.",
+        "pilares": [
+          {
+            "id": "creacion_empleo",
+            "nombre": "Creación de empleo y mercado laboral",
+            "descripcion": "Indicadores clave para medir la capacidad del mercado laboral de generar oportunidades de trabajo.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "salarios_ingresos",
+            "nombre": "Salarios e ingresos laborales",
+            "descripcion": "Mide el nivel y la evolución de los ingresos de los trabajadores, así como su participación en el ingreso nacional.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "informalidad_calidad",
+            "nombre": "Informalidad laboral y calidad del empleo",
+            "descripcion": "Evalúa la precariedad y la protección social de los trabajadores.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "productividad_laboral",
+            "nombre": "Productividad laboral",
+            "descripcion": "Mide la eficiencia con la que se utiliza el factor trabajo en la producción.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "segmentacion_desigualdad",
+            "nombre": "Segmentación y desigualdad en el mercado laboral",
+            "descripcion": "Analiza las brechas y desigualdades entre diferentes grupos de trabajadores.",
+            "indicadores_codigos": []
+          },
+          {
+            "id": "dinamica_mercado",
+            "nombre": "Dinámica del mercado laboral (flujo, no stock)",
+            "descripcion": "Clave para políticas modernas. Mide los flujos de entrada y salida del mercado laboral.",
+            "indicadores_codigos": []
+          }
+        ],
+        "indicadores": []
+      },
+      {
+        "nombre": "Política industrial y competitividad",
+        "descripcion": "Desarrollo de sectores estratégicos y ventajas competitivas."
+      },
+      {
+        "nombre": "Comercio exterior e inversión",
+        "descripcion": "Exportaciones, importaciones, atracción de inversiones."
+      },
+      {
+        "nombre": "Innovación, ciencia y tecnología",
+        "descripcion": "I+D, transferencia tecnológica, economía del conocimiento."
+      },
+      {
+        "nombre": "Pymes y emprendimientos",
+        "descripcion": "Apoyo a pequeñas empresas y creación de nuevos negocios."
+      }
+    ]
+  },
+  {
+    "id": "educacion",
+    "nombre": "Educación",
+    "descripcion": "Busca formar capital humano, reducir desigualdades y sostener el desarrollo a largo plazo.",
+    "icono": "🎓",
+    "subareas": [
+      {
+        "nombre": "Educación inicial y primaria",
+        "descripcion": "Bases cognitivas, sociales y emocionales."
+      },
+      {
+        "nombre": "Educación secundaria",
+        "descripcion": "Formación general y preparación para el trabajo o estudios superiores."
+      },
+      {
+        "nombre": "Educación técnica y formación profesional",
+        "descripcion": "Habilidades laborales específicas."
+      },
+      {
+        "nombre": "Educación superior",
+        "descripcion": "Universidades, investigación y formación avanzada."
+      },
+      {
+        "nombre": "Calidad educativa y evaluación",
+        "descripcion": "Currículas, estándares, resultados."
+      },
+      {
+        "nombre": "Inclusión educativa",
+        "descripcion": "Acceso, permanencia y equidad."
+      }
+    ]
+  },
+  {
+    "id": "salud",
+    "nombre": "Salud",
+    "descripcion": "Se centra en proteger y mejorar la salud de la población como bien social y económico.",
+    "icono": "🏥",
+    "subareas": [
+      {
+        "nombre": "Atención primaria y prevención",
+        "descripcion": "Primeros cuidados, prevención de enfermedades."
+      },
+      {
+        "nombre": "Hospitales y atención especializada",
+        "descripcion": "Servicios complejos y alta tecnología."
+      },
+      {
+        "nombre": "Salud pública",
+        "descripcion": "Epidemias, vacunación, vigilancia sanitaria."
+      },
+      {
+        "nombre": "Financiamiento del sistema",
+        "descripcion": "Seguros, obras sociales, gasto público."
+      },
+      {
+        "nombre": "Medicamentos y tecnologías médicas",
+        "descripcion": "Regulación, acceso y costos."
+      },
+      {
+        "nombre": "Salud mental y adicciones",
+        "descripcion": "Bienestar psicológico y tratamiento."
+      }
+    ]
+  },
+  {
+    "id": "seguridad_justicia",
+    "nombre": "Seguridad pública y justicia",
+    "descripcion": "Garantiza el orden, la convivencia y el cumplimiento de la ley.",
+    "icono": "🚔",
+    "subareas": [
+      {
+        "nombre": "Prevención del delito",
+        "descripcion": "Políticas sociales, urbanas y comunitarias."
+      },
+      {
+        "nombre": "Policía y fuerzas de seguridad",
+        "descripcion": "Organización, formación y control."
+      },
+      {
+        "nombre": "Sistema judicial",
+        "descripcion": "Acceso a la justicia, tiempos y calidad institucional."
+      },
+      {
+        "nombre": "Sistema penitenciario",
+        "descripcion": "Cárceles y reinserción social."
+      },
+      {
+        "nombre": "Crimen organizado",
+        "descripcion": "Narcotráfico, trata, delitos complejos."
+      },
+      {
+        "nombre": "Violencias específicas",
+        "descripcion": "Género, juventud, violencia doméstica."
+      }
+    ]
+  },
+  {
+    "id": "infraestructura_transporte",
+    "nombre": "Infraestructura y transporte",
+    "descripcion": "Provee las bases físicas del desarrollo económico y social.",
+    "icono": "🛣️",
+    "subareas": [
+      {
+        "nombre": "Transporte urbano",
+        "descripcion": "Movilidad en ciudades."
+      },
+      {
+        "nombre": "Transporte interurbano y logística",
+        "descripcion": "Circulación de bienes y personas."
+      },
+      {
+        "nombre": "Infraestructura vial y ferroviaria",
+        "descripcion": "Rutas y trenes."
+      },
+      {
+        "nombre": "Puertos y aeropuertos",
+        "descripcion": "Comercio y conectividad internacional."
+      },
+      {
+        "nombre": "Telecomunicaciones y conectividad",
+        "descripcion": "Internet y redes."
+      },
+      {
+        "nombre": "Obras públicas estratégicas",
+        "descripcion": "Grandes proyectos estructurales."
+      }
+    ]
+  },
+  {
+    "id": "energia_recursos",
+    "nombre": "Energía y recursos naturales",
+    "descripcion": "Administra recursos estratégicos clave para la producción y la vida cotidiana.",
+    "icono": "⚡",
+    "subareas": [
+      {
+        "nombre": "Matriz energética",
+        "descripcion": "Combinación de fuentes de energía."
+      },
+      {
+        "nombre": "Hidrocarburos",
+        "descripcion": "Petróleo y gas."
+      },
+      {
+        "nombre": "Energías renovables",
+        "descripcion": "Solar, eólica, hidroeléctrica."
+      },
+      {
+        "nombre": "Minería",
+        "descripcion": "Explotación y regulación de minerales."
+      },
+      {
+        "nombre": "Recursos hídricos",
+        "descripcion": "Agua para consumo y producción."
+      },
+      {
+        "nombre": "Eficiencia energética",
+        "descripcion": "Uso racional de la energía."
+      }
+    ]
+  },
+  {
+    "id": "medio_ambiente",
+    "nombre": "Medio ambiente y cambio climático",
+    "descripcion": "Busca compatibilizar desarrollo y sostenibilidad.",
+    "icono": "🌱",
+    "subareas": [
+      {
+        "nombre": "Mitigación del cambio climático",
+        "descripcion": "Reducción de emisiones."
+      },
+      {
+        "nombre": "Adaptación climática",
+        "descripcion": "Preparación ante impactos."
+      },
+      {
+        "nombre": "Gestión de residuos",
+        "descripcion": "Reciclaje y tratamiento."
+      },
+      {
+        "nombre": "Biodiversidad",
+        "descripcion": "Protección de ecosistemas."
+      },
+      {
+        "nombre": "Ordenamiento territorial",
+        "descripcion": "Uso del suelo."
+      },
+      {
+        "nombre": "Regulación ambiental",
+        "descripcion": "Normas y controles."
+      }
+    ]
+  },
+  {
+    "id": "desarrollo_social",
+    "nombre": "Desarrollo social y reducción de la pobreza",
+    "descripcion": "Apunta a garantizar condiciones mínimas de bienestar y cohesión social.",
+    "icono": "🤝",
+    "subareas": [
+      {
+        "nombre": "Transferencias sociales",
+        "descripcion": "Ingresos para hogares vulnerables."
+      },
+      {
+        "nombre": "Vivienda y hábitat social",
+        "descripcion": "Acceso a vivienda digna."
+      },
+      {
+        "nombre": "Primera infancia y nutrición",
+        "descripcion": "Desarrollo temprano."
+      },
+      {
+        "nombre": "Inclusión social",
+        "descripcion": "Integración de grupos excluidos."
+      },
+      {
+        "nombre": "Políticas de género",
+        "descripcion": "Igualdad y derechos."
+      },
+      {
+        "nombre": "Desarrollo comunitario",
+        "descripcion": "Fortalecimiento local."
+      }
+    ]
+  },
+  {
+    "id": "finanzas_publicas",
+    "nombre": "Finanzas públicas y administración del Estado",
+    "descripcion": "Define cómo el Estado obtiene y usa los recursos.",
+    "icono": "🧾",
+    "subareas": [
+      {
+        "nombre": "Sistema tributario",
+        "descripcion": "Impuestos y recaudación."
+      },
+      {
+        "nombre": "Presupuesto y gasto público",
+        "descripcion": "Asignación de recursos."
+      },
+      {
+        "nombre": "Empleo público",
+        "descripcion": "Burocracia y capacidades estatales."
+      },
+      {
+        "nombre": "Modernización del Estado",
+        "descripcion": "Digitalización y procesos."
+      },
+      {
+        "nombre": "Transparencia y anticorrupción",
+        "descripcion": "Control y rendición de cuentas."
+      },
+      {
+        "nombre": "Compras públicas",
+        "descripcion": "Eficiencia y regulación."
+      }
+    ]
+  },
+  {
+    "id": "relaciones_exteriores",
+    "nombre": "Relaciones exteriores",
+    "descripcion": "Gestiona la inserción internacional del país.",
+    "icono": "🌍",
+    "subareas": [
+      {
+        "nombre": "Política exterior",
+        "descripcion": "Diplomacia y relaciones bilaterales."
+      },
+      {
+        "nombre": "Integración regional",
+        "descripcion": "Bloques y acuerdos regionales."
+      },
+      {
+        "nombre": "Comercio internacional",
+        "descripcion": "Tratados y exportaciones."
+      },
+      {
+        "nombre": "Cooperación internacional",
+        "descripcion": "Ayuda y proyectos conjuntos."
+      },
+      {
+        "nombre": "Migraciones",
+        "descripcion": "Flujos poblacionales."
+      },
+      {
+        "nombre": "Geopolítica y defensa",
+        "descripcion": "Seguridad estratégica."
+      }
+    ]
+  },
+  {
+    "id": "vivienda_urbanismo",
+    "nombre": "Vivienda, urbanismo y desarrollo territorial",
+    "descripcion": "Organiza cómo se habita el territorio.",
+    "icono": "🏙️",
+    "subareas": [
+      {
+        "nombre": "Políticas de vivienda",
+        "descripcion": "Acceso, alquileres, créditos."
+      },
+      {
+        "nombre": "Urbanismo y uso del suelo",
+        "descripcion": "Planificación urbana."
+      },
+      {
+        "nombre": "Transporte urbano integrado",
+        "descripcion": "Ciudad funcional."
+      },
+      {
+        "nombre": "Servicios públicos",
+        "descripcion": "Agua, cloacas, electricidad."
+      },
+      {
+        "nombre": "Ciudades inteligentes",
+        "descripcion": "Tecnología urbana."
+      },
+      {
+        "nombre": "Desarrollo regional",
+        "descripcion": "Equilibrio territorial."
+      }
+    ]
+  },
+  {
+    "id": "agricultura_alimentos",
+    "nombre": "Agricultura, alimentos y desarrollo rural",
+    "descripcion": "Asegura la producción de alimentos y el desarrollo del interior.",
+    "icono": "🌾",
+    "subareas": [
+      {
+        "nombre": "Producción agropecuaria",
+        "descripcion": "Cultivos y ganadería."
+      },
+      {
+        "nombre": "Seguridad alimentaria",
+        "descripcion": "Acceso y precios de alimentos."
+      },
+      {
+        "nombre": "Agroindustria",
+        "descripcion": "Valor agregado."
+      },
+      {
+        "nombre": "Tecnología agrícola",
+        "descripcion": "Riego, semillas, innovación."
+      },
+      {
+        "nombre": "Desarrollo rural",
+        "descripcion": "Empleo y servicios rurales."
+      },
+      {
+        "nombre": "Bioseguridad",
+        "descripcion": "Sanidad animal y vegetal."
+      }
+    ]
+  }
+]
+

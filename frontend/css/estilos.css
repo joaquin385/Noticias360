@@ -178,19 +178,6 @@
     background: #9ca3af;
 }
 
-/* Botón de actualización con animación */
-#btn-actualizar.actualizando {
-    animation: spin 1s linear infinite;
-}
-
-@keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
 
 /* Responsive: Mobile first */
 @media (max-width: 768px) {
@@ -218,8 +205,123 @@
     color: white;
 }
 
-.fuente-btn.active {
-    background-color: #4b5563;
-    color: white;
+
+/* Botón principal de Indicadores */
+.btn-indicadores-principal {
+    background-color: #111827;
+    color: #f9fafb;
+    padding: 0.55rem 1.1rem;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 6px 14px rgba(15, 23, 42, 0.25);
+    transition: background-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.btn-indicadores-principal:hover {
+    background-color: #020617;
+    transform: translateY(-1px);
+    box-shadow: 0 10px 20px rgba(15, 23, 42, 0.3);
+}
+
+.btn-indicadores-principal:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 10px rgba(15, 23, 42, 0.2);
+}
+
+/* Sección Indicadores de Argentina */
+#indicadores-argentina {
+    scroll-margin-top: 96px;
+}
+
+.indicadores-areas-nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.75rem;
+    align-items: stretch;
+    width: 100%;
+}
+
+.indicador-area-btn {
+    font-size: 0.8rem;
+    padding: 0.5rem 0.9rem;
+    border-radius: 6px;
+    background-color: #f3f4f6;
+    color: #374151;
+    border: 1px solid #e5e7eb;
+    cursor: pointer;
+    white-space: normal;
+    text-align: center;
+    transition: all 0.2s ease;
+    font-weight: 400;
+    line-height: 1.4;
+    min-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.indicador-area-btn:hover {
+    background-color: #e5e7eb;
+    border-color: #d1d5db;
+    transform: translateY(-1px);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.indicador-area-btn.active {
+    background-color: #2563eb;
+    color: #ffffff;
+    border-color: #2563eb;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.indicadores-subareas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1.25rem;
+}
+
+.indicador-subarea-card {
+    background-color: #f9fafb;
+    border-radius: 0.75rem;
+    padding: 0.75rem 0.9rem;
+    border: 1px solid #e5e7eb;
+    transition: all 0.2s ease;
+}
+
+.indicador-subarea-card:hover {
+    background-color: #ffffff;
+    border-color: #3b82f6;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.15);
+    transform: translateY(-2px);
+}
+
+.indicador-subarea-titulo {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #111827;
+    margin-bottom: 0.15rem;
+}
+
+.indicador-subarea-descripcion {
+    font-size: 0.78rem;
+    color: #4b5563;
+    margin-bottom: 0.35rem;
+}
+
+.indicador-subarea-meta {
+    font-size: 0.7rem;
+    color: #6b7280;
 }
 
