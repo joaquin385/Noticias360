@@ -87,7 +87,7 @@ function formatearDescripcionDetallada(texto) {
         
         if (!linea) {
             if (parrafoActual.length > 0) {
-                htmlParts.push(`<p class="text-gray-700 mb-3 leading-relaxed">${parrafoActual.join(' ')}</p>`);
+                htmlParts.push(`<p style="color: var(--color-tinta-alt); margin-bottom: 1rem; line-height: 1.7;">${parrafoActual.join(' ')}</p>`);
                 parrafoActual = [];
             }
             continue;
@@ -96,17 +96,17 @@ function formatearDescripcionDetallada(texto) {
         // Detectar títulos (empiezan con número y punto)
         if (/^\d+\.\s/.test(linea)) {
             if (parrafoActual.length > 0) {
-                htmlParts.push(`<p class="text-gray-700 mb-3 leading-relaxed">${parrafoActual.join(' ')}</p>`);
+                htmlParts.push(`<p style="color: var(--color-tinta-alt); margin-bottom: 1rem; line-height: 1.7;">${parrafoActual.join(' ')}</p>`);
                 parrafoActual = [];
             }
-            htmlParts.push(`<h3 class="text-lg font-semibold text-gray-900 mt-6 mb-3">${linea}</h3>`);
+            htmlParts.push(`<h3 style="font-size: 1.2rem; font-weight: 400; color: var(--color-tinta); margin-top: 1.5rem; margin-bottom: 0.75rem; font-family: var(--font-serif);">${linea}</h3>`);
         } else {
             parrafoActual.push(linea);
         }
     }
     
     if (parrafoActual.length > 0) {
-        htmlParts.push(`<p class="text-gray-700 mb-3 leading-relaxed">${parrafoActual.join(' ')}</p>`);
+        htmlParts.push(`<p style="color: var(--color-tinta-alt); margin-bottom: 1rem; line-height: 1.7;">${parrafoActual.join(' ')}</p>`);
     }
     
     return htmlParts.join('\n');
@@ -139,17 +139,17 @@ function renderizarSubarea() {
     if (header) {
         // Si tiene pilares, no mostrar la descripción detallada completa (se mostrará por pilar)
         const descripcionHTML = (subareaData.pilares && subareaData.pilares.length > 0)
-            ? `<p class="text-gray-700 mt-3 max-w-3xl">${subareaData.descripcion}</p>`
+            ? `<p style="color: var(--color-tinta-alt); margin-top: 1rem; max-width: 65ch; line-height: 1.7;">${subareaData.descripcion}</p>`
             : (subareaData.descripcion_detallada
-                ? `<div class="mt-3 max-w-4xl bg-white rounded-lg border border-gray-200 p-6">${formatearDescripcionDetallada(subareaData.descripcion_detallada)}</div>`
-                : `<p class="text-gray-700 mt-3 max-w-3xl">${subareaData.descripcion}</p>`);
+                ? `<div style="margin-top: 1rem; max-width: 75ch; background-color: var(--color-papel); border: 1px solid var(--color-borde-suave); border-radius: 2px; padding: 2rem;">${formatearDescripcionDetallada(subareaData.descripcion_detallada)}</div>`
+                : `<p style="color: var(--color-tinta-alt); margin-top: 1rem; max-width: 65ch; line-height: 1.7;">${subareaData.descripcion}</p>`);
         
         header.innerHTML = `
             <div class="flex items-center gap-3 mb-2">
                 <span class="text-3xl">${areaData.icono || '📊'}</span>
                 <div>
-                    <h1 class="text-3xl font-bold text-gray-900">${subareaData.nombre}</h1>
-                    <p class="text-sm text-gray-600 mt-1">${areaData.nombre}</p>
+                    <h1 style="font-size: 2rem; font-weight: 400; color: var(--color-tinta); font-family: var(--font-serif);">${subareaData.nombre}</h1>
+                    <p style="font-size: 0.875rem; color: var(--color-texto-secundario); margin-top: 0.5rem;">${areaData.nombre}</p>
                 </div>
             </div>
             ${descripcionHTML}
@@ -183,10 +183,10 @@ function renderizarPilares(subareaData) {
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
             ${subareaData.pilares.map(pilar => `
                 <button 
-                    class="pilar-btn px-4 py-3 rounded-lg border-2 border-gray-200 bg-white hover:border-blue-500 hover:bg-blue-50 transition-all text-left"
+                    class="pilar-btn"
                     data-pilar-id="${pilar.id}">
-                    <h3 class="font-semibold text-gray-900 mb-1">${pilar.nombre}</h3>
-                    <p class="text-xs text-gray-600 line-clamp-2">${pilar.descripcion.substring(0, 100)}...</p>
+                    <h3>${pilar.nombre}</h3>
+                    <p>${pilar.descripcion.substring(0, 100)}...</p>
                 </button>
             `).join('')}
         </div>
@@ -204,11 +204,9 @@ function renderizarPilares(subareaData) {
                 
                 // Actualizar clases activas
                 pilaresNav.querySelectorAll('.pilar-btn').forEach(b => {
-                    b.classList.remove('border-blue-500', 'bg-blue-50');
-                    b.classList.add('border-gray-200', 'bg-white');
+                    b.classList.remove('active');
                 });
-                e.currentTarget.classList.remove('border-gray-200', 'bg-white');
-                e.currentTarget.classList.add('border-blue-500', 'bg-blue-50');
+                e.currentTarget.classList.add('active');
                 
                 // Mostrar contenido del pilar
                 mostrarContenidoPilar(pilar, subareaData.indicadores || []);
@@ -237,22 +235,20 @@ function mostrarContenidoPilar(pilar, todosLosIndicadores) {
     // Renderizar contenido
     pilarContenido.classList.remove('hidden');
     pilarContenido.innerHTML = `
-        <div class="bg-white rounded-lg border border-gray-200 p-6 mb-6">
-            <h2 class="text-2xl font-bold text-gray-900 mb-3">${pilar.nombre}</h2>
-            <p class="text-gray-700 leading-relaxed mb-6">${pilar.descripcion}</p>
-            
-            ${indicadoresDelPilar.length > 0 ? `
-                <div class="mt-6">
-                    <h3 class="text-lg font-semibold text-gray-900 mb-4">Indicadores</h3>
-                    ${renderizarIndicadoresHTML(indicadoresDelPilar)}
-                </div>
-            ` : `
-                <div class="mt-6 text-center py-8 bg-gray-50 rounded-lg">
-                    <p class="text-gray-500">No hay indicadores disponibles aún para este pilar.</p>
-                    <p class="text-sm text-gray-400 mt-2">Los indicadores se agregarán próximamente.</p>
-                </div>
-            `}
-        </div>
+        <h2>${pilar.nombre}</h2>
+        <p style="color: var(--color-tinta-alt); line-height: 1.7; margin-bottom: 2rem;">${pilar.descripcion}</p>
+        
+        ${indicadoresDelPilar.length > 0 ? `
+            <div style="margin-top: 2rem;">
+                <h3>Indicadores</h3>
+                ${renderizarIndicadoresHTML(indicadoresDelPilar)}
+            </div>
+        ` : `
+            <div style="text-align: center; padding: 3rem 0; color: var(--color-texto-secundario);">
+                <p>No hay indicadores disponibles aún para este pilar.</p>
+                <p style="font-size: 0.875rem; color: var(--color-texto-terciario); margin-top: 0.5rem;">Los indicadores se agregarán próximamente.</p>
+            </div>
+        `}
     `;
     
     // Cargar gráficos si hay indicadores
@@ -287,22 +283,18 @@ function renderizarIndicadores(indicadores) {
  */
 function renderizarIndicadoresHTML(indicadores) {
     return indicadores.map(ind => `
-        <article class="bg-white rounded-lg border border-gray-200 p-6 mb-4 shadow-sm hover:shadow-md transition-shadow">
-            <div class="flex justify-between items-start mb-3">
-                <div class="flex-1">
-                    <h3 class="text-lg font-semibold text-gray-900 mb-2">${ind.nombre}</h3>
-                    <p class="text-gray-700 mb-3">${ind.descripcion}</p>
-                    <div class="flex items-center gap-4 text-sm text-gray-600">
-                        <span><strong>Código:</strong> <code class="bg-gray-100 px-2 py-1 rounded">${ind.codigo}</code></span>
-                        <span><strong>Unidad:</strong> ${ind.unidad}</span>
-                    </div>
-                </div>
+        <article class="indicador-card">
+            <h3>${ind.nombre}</h3>
+            <p>${ind.descripcion}</p>
+            <div style="display: flex; align-items: center; gap: 1.5rem; font-size: 0.875rem; color: var(--color-texto-secundario); margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--color-borde-suave);">
+                <span><strong>Código:</strong> <code>${ind.codigo}</code></span>
+                <span><strong>Unidad:</strong> ${ind.unidad}</span>
             </div>
             
             <!-- Contenedor para gráfico -->
-            <div id="grafico-${ind.codigo}" class="mt-4 p-4 bg-gray-50 rounded-lg" data-archivo-json="${ind.archivo_json}" data-codigo="${ind.codigo}">
-                <div class="text-center text-gray-500 py-8">
-                    <p class="text-sm">Cargando datos del indicador...</p>
+            <div id="grafico-${ind.codigo}" data-archivo-json="${ind.archivo_json}" data-codigo="${ind.codigo}">
+                <div style="text-align: center; color: var(--color-texto-secundario); padding: 2rem 0;">
+                    <p style="font-size: 0.875rem;">Cargando datos del indicador...</p>
                 </div>
             </div>
         </article>
@@ -343,9 +335,9 @@ async function cargarDatosIndicador(archivoJson, codigoIndicador, contenedor) {
     } catch (error) {
         console.error(`Error al cargar indicador ${codigoIndicador}:`, error);
         contenedor.innerHTML = `
-            <div class="text-center text-gray-500 py-8">
-                <p class="text-sm">⚠️ No se pudieron cargar los datos del indicador.</p>
-                <p class="text-xs text-gray-400 mt-1">${error.message}</p>
+            <div style="text-align: center; color: var(--color-texto-secundario); padding: 2rem 0;">
+                <p style="font-size: 0.875rem;">⚠️ No se pudieron cargar los datos del indicador.</p>
+                <p style="font-size: 0.75rem; color: var(--color-texto-terciario); margin-top: 0.5rem;">${error.message}</p>
             </div>
         `;
     }
@@ -359,8 +351,8 @@ function renderizarGrafico(data, contenedor) {
     
     if (!paises || paises.length === 0) {
         contenedor.innerHTML = `
-            <div class="text-center text-gray-500 py-8">
-                <p class="text-sm">No hay datos disponibles para este indicador.</p>
+            <div style="text-align: center; color: var(--color-texto-secundario); padding: 2rem 0;">
+                <p style="font-size: 0.875rem;">No hay datos disponibles para este indicador.</p>
             </div>
         `;
         return;
@@ -368,15 +360,15 @@ function renderizarGrafico(data, contenedor) {
     
     // Crear tabla con los datos
     let html = `
-        <div class="mb-4">
-            <h4 class="text-sm font-semibold text-gray-700 mb-2">${indicador.nombre}</h4>
-            <p class="text-xs text-gray-500">Unidad: ${indicador.unidad}</p>
+        <div style="margin-bottom: 1.5rem;">
+            <h4 style="font-size: 0.9375rem; font-weight: 400; color: var(--color-tinta); margin-bottom: 0.5rem; font-family: var(--font-serif);">${indicador.nombre}</h4>
+            <p style="font-size: 0.75rem; color: var(--color-texto-secundario);">Unidad: ${indicador.unidad}</p>
         </div>
-        <div class="overflow-x-auto">
-            <table class="min-w-full text-sm">
+        <div style="overflow-x: auto;">
+            <table>
                 <thead>
-                    <tr class="bg-gray-100 border-b">
-                        <th class="px-4 py-2 text-left font-semibold text-gray-700">País</th>
+                    <tr>
+                        <th>País</th>
     `;
     
     // Obtener todos los años únicos
@@ -388,7 +380,7 @@ function renderizarGrafico(data, contenedor) {
     
     // Encabezados de años
     añosOrdenados.forEach(año => {
-        html += `<th class="px-3 py-2 text-center font-semibold text-gray-700">${año}</th>`;
+        html += `<th style="text-align: center;">${año}</th>`;
     });
     
     html += `
@@ -398,11 +390,10 @@ function renderizarGrafico(data, contenedor) {
     `;
     
     // Filas de países
-    paises.forEach((pais, idx) => {
-        const bgClass = idx % 2 === 0 ? 'bg-white' : 'bg-gray-50';
+    paises.forEach((pais) => {
         html += `
-            <tr class="${bgClass} border-b">
-                <td class="px-4 py-2 font-medium text-gray-900">${pais.nombre}</td>
+            <tr>
+                <td style="font-weight: 400; color: var(--color-tinta);">${pais.nombre}</td>
         `;
         
         añosOrdenados.forEach(año => {
@@ -410,7 +401,7 @@ function renderizarGrafico(data, contenedor) {
             const display = valor !== undefined && valor !== null 
                 ? valor.toLocaleString('es-AR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
                 : '-';
-            html += `<td class="px-3 py-2 text-center text-gray-700">${display}</td>`;
+            html += `<td style="text-align: center; color: var(--color-tinta-alt);">${display}</td>`;
         });
         
         html += `</tr>`;
@@ -420,7 +411,7 @@ function renderizarGrafico(data, contenedor) {
                 </tbody>
             </table>
         </div>
-        <p class="text-xs text-gray-400 mt-3 text-right">
+        <p style="font-size: 0.75rem; color: var(--color-texto-terciario); margin-top: 1rem; text-align: right;">
             Última actualización: ${indicador.ultima_actualizacion || 'N/A'}
         </p>
     `;

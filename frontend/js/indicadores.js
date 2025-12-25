@@ -94,21 +94,16 @@ function renderIndicadoresArea() {
             const cantidadIndicadores = sub.indicadores ? sub.indicadores.length : 0;
             
             return `
-                <article class="indicador-subarea-card cursor-pointer hover:shadow-lg transition-shadow" onclick="window.location.href='${urlSubarea}'">
-                    <div class="flex justify-between items-start">
-                        <div class="flex-1">
-                            <h3 class="indicador-subarea-titulo">${sub.nombre}</h3>
-                            <p class="indicador-subarea-descripcion">${sub.descripcion}</p>
-                        </div>
-                        <span class="text-blue-600 ml-4">→</span>
-                    </div>
+                <article class="indicador-subarea-card" onclick="window.location.href='${urlSubarea}'">
+                    <h3 class="indicador-subarea-titulo">${sub.nombre}</h3>
+                    <p class="indicador-subarea-descripcion">${sub.descripcion}</p>
                     ${cantidadIndicadores > 0 
-                        ? `<p class="indicador-subarea-meta mt-3">
-                            <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                        ? `<p class="indicador-subarea-meta">
+                            <span class="badge-indicador">
                                 ${cantidadIndicadores} indicador${cantidadIndicadores > 1 ? 'es' : ''} disponible${cantidadIndicadores > 1 ? 's' : ''}
                             </span>
                         </p>`
-                        : `<p class="indicador-subarea-meta mt-3 text-gray-400">
+                        : `<p class="indicador-subarea-meta" style="color: var(--color-texto-terciario);">
                             Haz clic para ver más detalles
                         </p>`
                     }
@@ -118,9 +113,9 @@ function renderIndicadoresArea() {
         .join('');
 
     contenedor.innerHTML = `
-        <header>
-            <h2 class="text-lg font-semibold text-gray-900 mb-1">${area.nombre}</h2>
-            <p class="text-sm text-gray-600">${area.descripcion}</p>
+        <header style="margin-bottom: 2rem;">
+            <h2 class="text-xl font-normal mb-2" style="color: var(--color-tinta); font-family: var(--font-serif);">${area.nombre}</h2>
+            <p class="text-sm" style="color: var(--color-texto-secundario); line-height: 1.7;">${area.descripcion}</p>
         </header>
         <section class="indicadores-subareas-grid">
             ${subareasHtml}

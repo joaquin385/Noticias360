@@ -74,7 +74,9 @@ async function cargarNoticias() {
         
         // Actualizar fecha de actualización
         if (fechaActualizacion) {
-            fechaActualizacion.textContent = `Última actualización: ${data.fecha_consolidacion || hoy}`;
+            const fechaConsolidacion = data.fecha_consolidacion || hoy;
+            const fechaFormateada = formatearFechaEditorial(fechaConsolidacion);
+            fechaActualizacion.textContent = `Última actualización: ${fechaFormateada}`;
         }
         
     } catch (error) {
@@ -136,8 +138,8 @@ function generarNavegacionCategorias() {
     categoriasDisponibles.forEach((categoria, index) => {
         const nombreFormateado = formatearNombreCategoria(categoria);
         // Primera categoría activa por defecto
-        const isActive = index === 0 ? 'bg-blue-600 text-white' : 'bg-gray-200 hover:bg-gray-300 text-gray-700';
-        html += `<button class="categoria-btn px-4 py-2 rounded-lg ${isActive} font-medium whitespace-nowrap transition-colors" data-categoria="${categoria}">${nombreFormateado}</button>`;
+        const isActive = index === 0 ? 'active' : '';
+        html += `<button class="categoria-btn ${isActive}" data-categoria="${categoria}">${nombreFormateado}</button>`;
     });
     
     navCategorias.innerHTML = html;
@@ -149,11 +151,10 @@ function generarNavegacionCategorias() {
             
             // Actualizar clases activas
             navCategorias.querySelectorAll('.categoria-btn').forEach(b => {
-                b.classList.remove('active', 'bg-blue-600', 'text-white');
-                b.classList.add('bg-gray-200', 'text-gray-700');
+                b.classList.remove('active');
             });
-            e.target.classList.add('active', 'bg-blue-600', 'text-white');
-            e.target.classList.remove('bg-gray-200', 'text-gray-700');
+            
+            e.target.classList.add('active');
             
             mostrarNoticias();
         });
@@ -583,20 +584,13 @@ function htmlATexto(html) {
 }
 
 /**
- * Crea una tarjeta de noticia con tamaño variable (hero, grande, estándar)
+ * Crea una tarjeta de noticia con estilo uniforme (lista vertical)
  */
 function crearTarjetaNoticia(noticia, index) {
     const card = document.createElement('article');
 
-    // Determinar tamaño según posición
-    let sizeClass = 'noticia-card--standard';
-    if (index === 0) {
-        sizeClass = 'noticia-card--hero';
-    } else if (index > 0 && index < 4) {
-        sizeClass = 'noticia-card--large';
-    }
-
-    card.className = `noticia-card ${sizeClass}`;
+    // Todas las noticias tienen el mismo estilo - sin clases de tamaño variable
+    card.className = 'noticia-card';
 
     // Formatear fecha
     const fechaFormateada = formatearFecha(noticia.fecha_local);
@@ -641,8 +635,8 @@ function crearTarjetaNoticia(noticia, index) {
                 <span class="noticia-card__badge-fuente">${fuente}</span>
                 <span class="noticia-card__badge-cat">${formatearNombreCategoria(categoriaDisplay)}</span>
             </div>
-            <h3 class="noticia-card__title noticia-card__title--clamp">
-                <a href="${noticia.link || '#'}" target="_blank" rel="noopener noreferrer" class="hover:underline">
+            <h3 class="noticia-card__title">
+                <a href="${noticia.link || '#'}" target="_blank" rel="noopener noreferrer">
                     ${noticia.titulo || 'Sin título'}
                 </a>
             </h3>
@@ -651,7 +645,7 @@ function crearTarjetaNoticia(noticia, index) {
             </p>
             <div class="noticia-card__footer">
                 <span>${fechaFormateada}</span>
-                ${noticia.horas_atras ? `<span>⏱️ ${Math.round(noticia.horas_atras)}h</span>` : ''}
+                ${noticia.horas_atras ? `<span> • ${Math.round(noticia.horas_atras)}h</span>` : ''}
             </div>
         </div>
     `;
@@ -697,20 +691,46 @@ function formatearNombreCategoria(categoria) {
 }
 
 /**
- * Formatea la fecha para mostrar
+ * Formatea la fecha para mostrar en formato editorial sin hora: "15 de diciembre de 2025"
+ */
+function formatearFechaEditorial(fechaStr) {
+    if (!fechaStr) return 'Sin fecha';
+    
+    try {
+        // Si es solo una fecha (YYYY-MM-DD), agregar hora
+        const fechaCompleta = fechaStr.includes('T') ? fechaStr : `${fechaStr}T00:00:00`;
+        const fecha = new Date(fechaCompleta);
+        const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 
+                      'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+        
+        const dia = fecha.getDate();
+        const mes = meses[fecha.getMonth()];
+        const año = fecha.getFullYear();
+        
+        return `${dia} de ${mes} de ${año}`;
+    } catch (e) {
+        return fechaStr;
+    }
+}
+
+/**
+ * Formatea la fecha para mostrar en formato editorial: "15 de diciembre de 2025 • 14:30"
  */
 function formatearFecha(fechaStr) {
     if (!fechaStr) return 'Sin fecha';
     
     try {
         const fecha = new Date(fechaStr.replace(' ', 'T'));
-        return fecha.toLocaleString('es-AR', { 
-            year: 'numeric', 
-            month: 'long', 
-            day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit'
-        });
+        const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 
+                      'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+        
+        const dia = fecha.getDate();
+        const mes = meses[fecha.getMonth()];
+        const año = fecha.getFullYear();
+        const hora = fecha.getHours().toString().padStart(2, '0');
+        const minutos = fecha.getMinutes().toString().padStart(2, '0');
+        
+        return `${dia} de ${mes} de ${año} • ${hora}:${minutos}`;
     } catch (e) {
         return fechaStr;
     }

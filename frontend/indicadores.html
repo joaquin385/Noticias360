@@ -4,23 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Indicadores de Argentina - Noticias360</title>
+    <!-- Google Fonts - Crimson Text (serif editorial) - Optimizado -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet"></noscript>
     <link rel="stylesheet" href="css/estilos.css">
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-50 font-sans">
+<body class="font-serif">
 
     <!-- Encabezado -->
-    <header class="bg-white shadow-md sticky top-0 z-50">
-        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <header class="sticky top-0 z-50" style="background-color: var(--color-papel); border-bottom: 1px solid var(--color-borde-suave);">
+        <div class="container flex justify-between items-center">
             <div class="flex items-center space-x-4">
                 <a href="index.html" class="flex items-center space-x-2">
-                    <span class="text-2xl font-bold text-blue-600">📰 Noticias360</span>
+                    <span class="text-xl font-normal" style="color: var(--color-tinta);">Noticias360</span>
                 </a>
-                <span class="text-sm text-gray-600 hidden sm:inline">Mapa de indicadores del país</span>
+                <span class="text-sm hidden sm:inline" style="color: var(--color-texto-secundario);">Mapa de indicadores del país</span>
             </div>
             <div class="flex items-center gap-3">
-                <a href="index.html" class="bg-gray-100 hover:bg-gray-200 text-gray-800 px-3 py-2 rounded-lg text-sm font-medium transition-colors">
+                <a href="index.html" class="btn-volver">
                     ← Volver a noticias
                 </a>
             </div>
@@ -28,13 +33,13 @@
     </header>
 
     <!-- Contenido principal -->
-    <main class="container mx-auto px-4 py-6">
+    <main class="container">
         <section id="indicadores-argentina" class="mt-2">
-            <header class="mb-4">
-                <h1 class="text-2xl font-bold text-gray-900 flex items-center gap-2">
-                    📊 Indicadores de Argentina
+            <header class="mb-6">
+                <h1 class="text-2xl font-normal flex items-center gap-2" style="color: var(--color-tinta); margin-bottom: 1.5rem;">
+                    Indicadores de Argentina
                 </h1>
-                <p class="text-sm text-gray-600 mt-2 w-full leading-relaxed">
+                <p class="text-sm w-full leading-relaxed" style="color: var(--color-texto-secundario);">
                     Sistema de indicadores económicos, sociales y políticos de Argentina organizados por áreas temáticas. 
                     Cada área contiene subáreas específicas con indicadores medibles que permiten analizar el desempeño 
                     del país en comparación con otros países de la región y del mundo. Los datos se actualizan periódicamente 
@@ -44,21 +49,21 @@
             </header>
 
             <!-- Navegación de áreas (12 botones compactos) -->
-            <div id="indicadores-areas-nav" class="indicadores-areas-nav mt-4">
+            <div id="indicadores-areas-nav" class="indicadores-areas-nav" style="margin-top: 2rem; margin-bottom: 4rem;">
                 <!-- Botones de áreas generados por JavaScript -->
             </div>
 
             <!-- Contenido del área seleccionada -->
-            <div id="indicadores-contenido" class="mt-6 bg-white rounded-xl shadow-sm border border-gray-200 p-5">
+            <div id="indicadores-contenido" class="rounded-sm border p-5" style="background-color: var(--color-papel); border-color: var(--color-borde-suave);">
                 <!-- Descripción del área y subáreas generadas por JavaScript -->
             </div>
         </section>
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white mt-12 py-6">
-        <div class="container mx-auto px-4 text-center">
-            <p class="text-sm">© 2025 Noticias360 - Indicadores de Argentina</p>
+    <footer style="background-color: var(--color-papel); border-top: 1px solid var(--color-borde-suave);">
+        <div class="container text-center">
+            <p class="text-sm" style="color: var(--color-texto-secundario);">© 2025 Noticias360 - Indicadores de Argentina</p>
         </div>
     </footer>
 

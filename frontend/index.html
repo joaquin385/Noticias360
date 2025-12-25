@@ -4,22 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Noticias360 - Agregador de Noticias RSS</title>
+    <!-- Google Fonts - Crimson Text (serif editorial) - Optimizado -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet"></noscript>
     <link rel="stylesheet" href="css/estilos.css">
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-50 font-sans">
+<body class="font-serif">
     
     <!-- Encabezado -->
-    <header class="bg-white shadow-md sticky top-0 z-50">
-        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+    <header class="sticky top-0 z-50" style="background-color: var(--color-papel); border-bottom: 1px solid var(--color-borde-suave);">
+        <div class="container flex justify-between items-center">
             <div class="flex items-center space-x-4">
-                <h1 class="text-2xl font-bold text-blue-600">📰 Noticias360</h1>
-                <span id="fecha-actualizacion" class="text-sm text-gray-600"></span>
+                <h1 class="text-xl font-normal" style="color: var(--color-tinta);">Noticias360</h1>
+                <span id="fecha-actualizacion" class="text-sm" style="color: var(--color-texto-secundario);"></span>
             </div>
             <div class="flex items-center gap-3">
                 <a href="indicadores.html" class="btn-indicadores-principal hidden sm:inline-flex">
-                    <span>📊</span>
                     <span>Indicadores de Argentina</span>
                 </a>
             </div>
@@ -27,11 +31,11 @@
     </header>
 
     <!-- Navegación Principal - Categorías -->
-    <nav class="bg-gray-100 border-b border-gray-200">
-        <div class="container mx-auto px-4 py-3">
+    <nav style="background-color: var(--color-papel-secundario); border-bottom: 1px solid var(--color-borde-suave);">
+        <div class="container py-2">
             <div class="flex overflow-x-auto space-x-2" id="categorias-nav">
                 <!-- Los botones de categorías se generarán dinámicamente -->
-                <button class="categoria-btn px-4 py-2 rounded-lg bg-blue-600 text-white font-medium whitespace-nowrap" data-categoria="todas">
+                <button class="categoria-btn px-4 py-2 rounded-sm font-normal whitespace-nowrap" style="background-color: var(--color-papel-card); color: var(--color-tinta); border: 1px solid var(--color-borde-visible);" data-categoria="todas">
                     Todas
                 </button>
             </div>
@@ -39,12 +43,12 @@
     </nav>
 
     <!-- Contenido Principal -->
-    <main class="container mx-auto px-4 py-6">
+    <main class="container">
         
         <!-- Estado de carga -->
         <div id="estado-carga" class="text-center py-12">
-            <div class="inline-block animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-600"></div>
-            <p class="mt-4 text-gray-600">Cargando noticias...</p>
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-t-2 border-b-2" style="border-color: var(--color-accento);"></div>
+            <p class="mt-4" style="color: var(--color-texto-secundario);">Cargando noticias...</p>
         </div>
 
         <!-- Mensaje de error -->
@@ -54,18 +58,18 @@
 
         <!-- Mensaje sin noticias -->
         <div id="sin-noticias" class="hidden text-center py-12">
-            <p class="text-gray-600 text-lg">No hay noticias disponibles</p>
+            <p class="text-lg" style="color: var(--color-texto-secundario);">No hay noticias disponibles</p>
         </div>
 
-        <!-- VISTA DE NOTICIAS (única vista en modo sin IA) -->
+        <!-- VISTA DE NOTICIAS (lista vertical) -->
         <div id="vista-noticias">
-            <!-- Grid de noticias -->
+            <!-- Lista vertical de noticias -->
             <div id="noticias-container" class="mosaic-grid">
                 <!-- Las tarjetas de noticias se generarán dinámicamente -->
             </div>
 
             <!-- Contador de noticias -->
-            <div class="mt-8 text-center text-gray-600">
+            <div class="mt-5 text-center" style="color: var(--color-texto-secundario);">
                 <p id="contador-noticias">Mostrando 0 noticias</p>
             </div>
         </div>
@@ -73,10 +77,10 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white mt-12 py-6">
-        <div class="container mx-auto px-4 text-center">
-            <p class="text-sm">© 2025 Noticias360 - Agregador de noticias RSS argentinas</p>
-            <p class="text-xs text-gray-400 mt-2">Datos actualizados desde múltiples fuentes de noticias</p>
+    <footer style="background-color: var(--color-papel); border-top: 1px solid var(--color-borde-suave);">
+        <div class="container text-center">
+            <p class="text-sm" style="color: var(--color-texto-secundario);">© 2025 Noticias360 - Agregador de noticias RSS argentinas</p>
+            <p class="text-xs mt-2" style="color: var(--color-texto-terciario);">Datos actualizados desde múltiples fuentes de noticias</p>
         </div>
     </footer>
 
